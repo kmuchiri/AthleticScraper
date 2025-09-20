@@ -132,7 +132,7 @@ def get_scrape_jobs():
             jobs.append((gender, age_category, discipline_slug, type_slug, output_dir,today))
     return jobs
 
-def run_multithreaded_scrape(max_workers=10):
+def run_multithreaded_scrape(max_workers=12):
     jobs = get_scrape_jobs()
     with ThreadPoolExecutor(max_workers=max_workers) as executor:
         future_to_job = {

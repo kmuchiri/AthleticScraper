@@ -57,73 +57,76 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 56,55.55,,Yekaterina KOSTETSKAYA,31 DEC 1986,RUS,1,"Stadio Zecchini, Grosseto (ITA)",15 JUL 2004,1156,400-metres-hurdles,hurdles,female,u20
 56,55.55,,Nicole LEACH,18 JUL 1987,USA,2,"Chaoyang Sport Center, Beijing (CHN)",17 AUG 2006,1156,400-metres-hurdles,hurdles,female,u20
 56,55.55,,Ristananna TRACEY,09 MAY 1992,JAM,4sf3,"DS, Daegu (KOR)",30 AUG 2011,1156,400-metres-hurdles,hurdles,female,u20
-59,55.58,,Shamier LITTLE,20 MAR 1995,USA,1h1,"Eugene, OR (USA)",11 JUN 2014,1155,400-metres-hurdles,hurdles,female,u20
-60,55.59,,Méta TUMBA,03 JUN 2006,FRA,1,"Estadio Atlético de la VIDENA, Lima (PER)",31 AUG 2024,1154,400-metres-hurdles,hurdles,female,u20
-61,55.61,,Radostina SHTEREVA,01 JUN 1966,BUL,3,Sofia (BUL),20 MAY 1984,1154,400-metres-hurdles,hurdles,female,u20
-61,55.61,,Jana PITTMAN,09 NOV 1982,AUS,1,Brisbane (AUS),03 SEP 2000,1154,400-metres-hurdles,hurdles,female,u20
-61,55.61,,Xiaoxiao HUANG,03 MAR 1983,CHN,1h1,Guangzhou (CHN),21 NOV 2001,1154,400-metres-hurdles,hurdles,female,u20
-61,55.61,,Kaliese SPENCER,06 MAY 1987,JAM,2,"International Stadium, Gateshead (GBR)",11 JUN 2006,1154,400-metres-hurdles,hurdles,female,u20
-65,55.62,,Melaine WALKER,01 MAR 1983,JAM,1,Bridgetown (BAR),19 MAY 2001,1153,400-metres-hurdles,hurdles,female,u20
-65,55.62,,Kaliese SPENCER,06 MAY 1987,JAM,1,Lignano (ITA),16 JUL 2006,1153,400-metres-hurdles,hurdles,female,u20
-67,55.63,,Radostina SHTEREVA,01 JUN 1966,BUL,5,Praha (TCH),17 AUG 1984,1153,400-metres-hurdles,hurdles,female,u20
-67,55.63,,Jana PITTMAN,09 NOV 1982,AUS,1,Sydney (AUS),13 FEB 2000,1153,400-metres-hurdles,hurdles,female,u20
-67,55.63,,Nicole LEACH,18 JUL 1987,USA,1,"Indianapolis, IN (USA)",23 JUN 2006,1153,400-metres-hurdles,hurdles,female,u20
-67,55.63,,Sydney MCLAUGHLIN,07 AUG 1999,USA,2,"Eugene, OR (USA)",06 JUL 2014,1153,400-metres-hurdles,hurdles,female,u20
-71,55.64,,Kaliese SPENCER,06 MAY 1987,JAM,2,"Philadelphia, PA (USA)",27 APR 2006,1153,400-metres-hurdles,hurdles,female,u20
-72,55.65,,Michelle SMITH,18 JUN 2006,ISV,1sf2,"Hayward Field, Eugene, OR (USA)",12 JUN 2025,1152,400-metres-hurdles,hurdles,female,u20
-72,55.65,,Michelle SMITH,18 JUN 2006,ISV,2,"Lohrheidestadion, Wattenscheid, Bochum (GER)",24 JUL 2025,1152,400-metres-hurdles,hurdles,female,u20
-74,55.66,,Shamier LITTLE,20 MAR 1995,USA,1,"Hayward Field, Eugene, OR (USA)",26 JUL 2014,1152,400-metres-hurdles,hurdles,female,u20
-75,55.67,,Akala GARRETT,10 MAY 2005,USA,2h3,"Hayward Field, Eugene, OR (USA)",27 JUN 2024,1152,400-metres-hurdles,hurdles,female,u20
-76,55.70,,Nicole LEACH,18 JUL 1987,USA,3,"Eugene, OR (USA)",08 AUG 2006,1151,400-metres-hurdles,hurdles,female,u20
-77,55.72,,Yulian LI,17 FEB 1979,CHN,h,Shanghai (CHN),21 OCT 1997,1150,400-metres-hurdles,hurdles,female,u20
-77,55.72,,Akala GARRETT,10 MAY 2005,USA,1h1,"John McDonnell Field, Fayetteville, AR (USA)",25 MAY 2024,1150,400-metres-hurdles,hurdles,female,u20
-79,55.73,,Ionela ŢIRLEA-MANOLACHE,09 FEB 1976,ROU,4,Paris (FRA),03 JUL 1995,1150,400-metres-hurdles,hurdles,female,u20
-79,55.73,,Zenéy VAN DER WALT,22 MAY 2000,RSA,2,Napoli (ITA),10 JUL 2019,1150,400-metres-hurdles,hurdles,female,u20
-81,55.74,,Yulian LI,17 FEB 1979,CHN,1,Beijing (CHN),06 JUN 1998,1150,400-metres-hurdles,hurdles,female,u20
-82,55.75,,Tiffany WILLIAMS,05 FEB 1983,USA,1,"Starkville, MS (USA)",12 MAY 2002,1149,400-metres-hurdles,hurdles,female,u20
-82,55.75,,Yekaterina KOSTETSKAYA,31 DEC 1986,RUS,4,Tula (RUS),30 JUL 2004,1149,400-metres-hurdles,hurdles,female,u20
-84,55.76,,Ionela ŢIRLEA-MANOLACHE,09 FEB 1976,ROU,4,"Crystal Palace, London (GBR)",07 JUL 1995,1149,400-metres-hurdles,hurdles,female,u20
-84,55.76,,Lashinda DEMUS,10 MAR 1983,USA,2sf1,"Eugene, OR (USA)",22 JUN 2001,1149,400-metres-hurdles,hurdles,female,u20
-86,55.78,,Shiann SALMON,31 MAR 1999,JAM,1,Kingston (JAM),23 MAR 2018,1148,400-metres-hurdles,hurdles,female,u20
-86,55.78,,Morgan HERBST,07 DEC 2006,USA,1,"Hayward Field, Eugene, OR (USA)",21 JUN 2025,1148,400-metres-hurdles,hurdles,female,u20
-88,55.79,,Xing WANG,30 NOV 1986,CHN,1,Guilin (CHN),23 APR 2004,1148,400-metres-hurdles,hurdles,female,u20
-88,55.79,,Yekaterina KOSTETSKAYA,31 DEC 1986,RUS,2h1,Tula (RUS),29 JUL 2004,1148,400-metres-hurdles,hurdles,female,u20
-90,55.80,,Hongwei SUN,24 NOV 1979,CHN,h,Shanghai (CHN),21 OCT 1997,1148,400-metres-hurdles,hurdles,female,u20
-90,55.80,,Rui LI,22 NOV 1979,CHN,1,Fukuoka (JPN),22 JUL 1998,1148,400-metres-hurdles,hurdles,female,u20
-92,55.81,,Queen HARRISON,10 SEP 1988,USA,3,"Sacramento, CA (USA)",09 JUN 2007,1147,400-metres-hurdles,hurdles,female,u20
-92,55.81,,Ristananna TRACEY,09 MAY 1992,JAM,1,Kingston (JAM),01 APR 2011,1147,400-metres-hurdles,hurdles,female,u20
-94,55.82,,Jana PITTMAN,09 NOV 1982,AUS,1,Sydney (AUS),20 FEB 2000,1147,400-metres-hurdles,hurdles,female,u20
-95,55.84,,Nelli VORONKOVA,30 JUN 1972,URS,1,"Deveti Septemvri Stadium, Plovdiv (BUL)",10 AUG 1990,1147,400-metres-hurdles,hurdles,female,u20
-95,55.84,,Melaine WALKER,01 MAR 1983,JAM,3,Kingston (JAM),21 JUN 2002,1147,400-metres-hurdles,hurdles,female,u20
-97,55.85,,Shuju LI,20 JUL 1981,CHN,5,Shanghai (CHN),22 OCT 1997,1146,400-metres-hurdles,hurdles,female,u20
-97,55.85,,Michelle SMITH,18 JUN 2006,ISV,1pr4,"University of North Florda Jax Track at Hodges Stadium, Jacksonville, FL (USA)",29 MAY 2025,1146,400-metres-hurdles,hurdles,female,u20
-99,55.86,,Akala GARRETT,10 MAY 2005,USA,1pr5,"John McDonnell Field, Fayetteville, AR (USA)",23 MAY 2024,1146,400-metres-hurdles,hurdles,female,u20
-100,55.87,,Sydney MCLAUGHLIN,07 AUG 1999,USA,1f4,"Greensboro, NC (USA)",21 JUN 2015,1146,400-metres-hurdles,hurdles,female,u20
-101,55.88,,Jana PITTMAN,09 NOV 1982,AUS,1,Sydney (AUS),19 AUG 2000,1145,400-metres-hurdles,hurdles,female,u20
-101,55.88,,Amaka OGOEGBUNAM,03 MAR 1990,NGR,2,Abuja (NGR),25 JUL 2009,1145,400-metres-hurdles,hurdles,female,u20
-103,55.89,,Zuzana HEJNOVÁ,19 DEC 1986,CZE,1,"S. Darius & S. Girėnas Stadium, Kaunas (LTU)",23 JUL 2005,1145,400-metres-hurdles,hurdles,female,u20
-103,55.89,,Yekaterina KOSTETSKAYA,31 DEC 1986,RUS,2,"S. Darius & S. Girėnas Stadium, Kaunas (LTU)",23 JUL 2005,1145,400-metres-hurdles,hurdles,female,u20
-103,55.89,,Anna COCKRELL,28 AUG 1997,USA,2,"Clovis, CA (USA)",25 JUN 2016,1145,400-metres-hurdles,hurdles,female,u20
-103,55.89,,Morgan HERBST,07 DEC 2006,USA,1h2,"Hayward Field, Eugene, OR (USA)",20 JUN 2025,1145,400-metres-hurdles,hurdles,female,u20
-107,55.90,,Yasmin GIGER,06 NOV 1999,SUI,1,"Stadio Zecchini, Grosseto (ITA)",23 JUL 2017,1145,400-metres-hurdles,hurdles,female,u20
-107,55.90,,Tumi RAMOKGOPA,27 AUG 2007,RSA,2,"McArthur Stadium, Potchefstroom (RSA)",25 APR 2025,1145,400-metres-hurdles,hurdles,female,u20
-109,55.93,,Sofia SABEVA,11 JAN 1969,BUL,1,Sofia (BUL),02 JUL 1988,1144,400-metres-hurdles,hurdles,female,u20
-109,55.93,,Yulian LI,17 FEB 1979,CHN,1,"Parc des Sports, Annecy (FRA)",31 JUL 1998,1144,400-metres-hurdles,hurdles,female,u20
-109,55.93,,Yulian LI,17 FEB 1979,CHN,3,Bangkok (THA),17 DEC 1998,1144,400-metres-hurdles,hurdles,female,u20
-109,55.93,,Jana PITTMAN,09 NOV 1982,AUS,2,Melbourne (AUS),02 MAR 2000,1144,400-metres-hurdles,hurdles,female,u20
-109,55.93,,Jana PITTMAN,09 NOV 1982,AUS,1,Canberra (AUS),15 DEC 2001,1144,400-metres-hurdles,hurdles,female,u20
-109,55.93,,Nicole LEACH,18 JUL 1987,USA,4,"Sacramento, CA (USA)",10 JUN 2006,1144,400-metres-hurdles,hurdles,female,u20
-109,55.93,,Zenéy VAN DER WALT,22 MAY 2000,RSA,1,Germiston (RSA),27 APR 2019,1144,400-metres-hurdles,hurdles,female,u20
-109,55.93,,Akala GARRETT,10 MAY 2005,USA,1f4,"Hilmer Lodge Stadium, Walnut, CA (USA)",19 APR 2024,1144,400-metres-hurdles,hurdles,female,u20
-117,55.94,,Sydney MCLAUGHLIN,07 AUG 1999,USA,1,"Pascual Guerrero Stadium, Cali (COL)",18 JUL 2015,1143,400-metres-hurdles,hurdles,female,u20
-117,55.94,,Femke BOL,23 FEB 2000,NED,1f1,Genève (SUI),15 JUN 2019,1143,400-metres-hurdles,hurdles,female,u20
-117,55.94,,Jessica MOREIRA,16 NOV 2001,BRA,1,San José (CRC),21 JUL 2019,1143,400-metres-hurdles,hurdles,female,u20
-120,55.96,,Ebony COLLINS,11 MAR 1989,USA,1,"Sidi Youssef Ben Ali, Marrakech (MAR)",15 JUL 2005,1143,400-metres-hurdles,hurdles,female,u20
-120,55.96,,Ristananna TRACEY,09 MAY 1992,JAM,2h4,"DS, Daegu (KOR)",29 AUG 2011,1143,400-metres-hurdles,hurdles,female,u20
-120,55.96,,Agata ZUPIN,17 MAR 1998,SLO,2,"Stadio Zecchini, Grosseto (ITA)",23 JUL 2017,1143,400-metres-hurdles,hurdles,female,u20
-120,55.96,,Michelle SMITH,18 JUN 2006,ISV,2,"Edwin Moses Track, Atlanta, GA (USA)",31 MAY 2024,1143,400-metres-hurdles,hurdles,female,u20
-124,55.98,,Shamier LITTLE,20 MAR 1995,USA,1sf2,"Fayetteville, AR (USA)",30 MAY 2014,1142,400-metres-hurdles,hurdles,female,u20
-124,55.98,,Michelle SMITH,18 JUN 2006,ISV,1f1,"UCF Soccer and Track Complex, Orlando, FL (USA)",21 MAR 2025,1142,400-metres-hurdles,hurdles,female,u20
-126,55.99,,Ionela ŢIRLEA-MANOLACHE,09 FEB 1976,ROU,2,Fukuoka (JPN),31 AUG 1995,1142,400-metres-hurdles,hurdles,female,u20
-126,55.99,,Natalie DUMAS,,USA,1f6,"Franklin Field, Philadelphia, PA (USA)",20 JUN 2025,1142,400-metres-hurdles,hurdles,female,u20
-128,56.00,,Ann-Louise SKOGLUND,28 JUN 1962,SWE,,Göteborg (SWE),11 AUG 1981,1142,400-metres-hurdles,hurdles,female,u20
+56,55.55,,Alexandra Ștefania UȚĂ,06 OCT 2007,ROU,1f1,"Ratinan Stadion, Tampere (FIN)",09 AUG 2025,1156,400-metres-hurdles,hurdles,female,u20
+60,55.56,,Méta TUMBA,03 JUN 2006,FRA,2f1,"Ratinan Stadion, Tampere (FIN)",09 AUG 2025,1155,400-metres-hurdles,hurdles,female,u20
+61,55.58,,Shamier LITTLE,20 MAR 1995,USA,1h1,"Eugene, OR (USA)",11 JUN 2014,1155,400-metres-hurdles,hurdles,female,u20
+62,55.59,,Méta TUMBA,03 JUN 2006,FRA,1,"Estadio Atlético de la VIDENA, Lima (PER)",31 AUG 2024,1154,400-metres-hurdles,hurdles,female,u20
+63,55.61,,Radostina SHTEREVA,01 JUN 1966,BUL,3,Sofia (BUL),20 MAY 1984,1154,400-metres-hurdles,hurdles,female,u20
+63,55.61,,Jana PITTMAN,09 NOV 1982,AUS,1,Brisbane (AUS),03 SEP 2000,1154,400-metres-hurdles,hurdles,female,u20
+63,55.61,,Xiaoxiao HUANG,03 MAR 1983,CHN,1h1,Guangzhou (CHN),21 NOV 2001,1154,400-metres-hurdles,hurdles,female,u20
+63,55.61,,Kaliese SPENCER,06 MAY 1987,JAM,2,"International Stadium, Gateshead (GBR)",11 JUN 2006,1154,400-metres-hurdles,hurdles,female,u20
+67,55.62,,Melaine WALKER,01 MAR 1983,JAM,1,Bridgetown (BAR),19 MAY 2001,1153,400-metres-hurdles,hurdles,female,u20
+67,55.62,,Kaliese SPENCER,06 MAY 1987,JAM,1,Lignano (ITA),16 JUL 2006,1153,400-metres-hurdles,hurdles,female,u20
+69,55.63,,Radostina SHTEREVA,01 JUN 1966,BUL,5,Praha (TCH),17 AUG 1984,1153,400-metres-hurdles,hurdles,female,u20
+69,55.63,,Jana PITTMAN,09 NOV 1982,AUS,1,Sydney (AUS),13 FEB 2000,1153,400-metres-hurdles,hurdles,female,u20
+69,55.63,,Nicole LEACH,18 JUL 1987,USA,1,"Indianapolis, IN (USA)",23 JUN 2006,1153,400-metres-hurdles,hurdles,female,u20
+69,55.63,,Sydney MCLAUGHLIN,07 AUG 1999,USA,2,"Eugene, OR (USA)",06 JUL 2014,1153,400-metres-hurdles,hurdles,female,u20
+73,55.64,,Kaliese SPENCER,06 MAY 1987,JAM,2,"Philadelphia, PA (USA)",27 APR 2006,1153,400-metres-hurdles,hurdles,female,u20
+74,55.65,,Michelle SMITH,18 JUN 2006,ISV,1sf2,"Hayward Field, Eugene, OR (USA)",12 JUN 2025,1152,400-metres-hurdles,hurdles,female,u20
+74,55.65,,Michelle SMITH,18 JUN 2006,ISV,2,"Lohrheidestadion, Wattenscheid, Bochum (GER)",24 JUL 2025,1152,400-metres-hurdles,hurdles,female,u20
+76,55.66,,Shamier LITTLE,20 MAR 1995,USA,1,"Hayward Field, Eugene, OR (USA)",26 JUL 2014,1152,400-metres-hurdles,hurdles,female,u20
+77,55.67,,Akala GARRETT,10 MAY 2005,USA,2h3,"Hayward Field, Eugene, OR (USA)",27 JUN 2024,1152,400-metres-hurdles,hurdles,female,u20
+78,55.70,,Nicole LEACH,18 JUL 1987,USA,3,"Eugene, OR (USA)",08 AUG 2006,1151,400-metres-hurdles,hurdles,female,u20
+79,55.72,,Yulian LI,17 FEB 1979,CHN,h,Shanghai (CHN),21 OCT 1997,1150,400-metres-hurdles,hurdles,female,u20
+79,55.72,,Akala GARRETT,10 MAY 2005,USA,1h1,"John McDonnell Field, Fayetteville, AR (USA)",25 MAY 2024,1150,400-metres-hurdles,hurdles,female,u20
+81,55.73,,Ionela ŢIRLEA-MANOLACHE,09 FEB 1976,ROU,4,Paris (FRA),03 JUL 1995,1150,400-metres-hurdles,hurdles,female,u20
+81,55.73,,Zenéy VAN DER WALT,22 MAY 2000,RSA,2,Napoli (ITA),10 JUL 2019,1150,400-metres-hurdles,hurdles,female,u20
+83,55.74,,Yulian LI,17 FEB 1979,CHN,1,Beijing (CHN),06 JUN 1998,1150,400-metres-hurdles,hurdles,female,u20
+84,55.75,,Tiffany WILLIAMS,05 FEB 1983,USA,1,"Starkville, MS (USA)",12 MAY 2002,1149,400-metres-hurdles,hurdles,female,u20
+84,55.75,,Yekaterina KOSTETSKAYA,31 DEC 1986,RUS,4,Tula (RUS),30 JUL 2004,1149,400-metres-hurdles,hurdles,female,u20
+86,55.76,,Ionela ŢIRLEA-MANOLACHE,09 FEB 1976,ROU,4,"Crystal Palace, London (GBR)",07 JUL 1995,1149,400-metres-hurdles,hurdles,female,u20
+86,55.76,,Lashinda DEMUS,10 MAR 1983,USA,2sf1,"Eugene, OR (USA)",22 JUN 2001,1149,400-metres-hurdles,hurdles,female,u20
+88,55.78,,Shiann SALMON,31 MAR 1999,JAM,1,Kingston (JAM),23 MAR 2018,1148,400-metres-hurdles,hurdles,female,u20
+88,55.78,,Morgan HERBST,07 DEC 2006,USA,1,"Hayward Field, Eugene, OR (USA)",21 JUN 2025,1148,400-metres-hurdles,hurdles,female,u20
+90,55.79,,Xing WANG,30 NOV 1986,CHN,1,Guilin (CHN),23 APR 2004,1148,400-metres-hurdles,hurdles,female,u20
+90,55.79,,Yekaterina KOSTETSKAYA,31 DEC 1986,RUS,2h1,Tula (RUS),29 JUL 2004,1148,400-metres-hurdles,hurdles,female,u20
+92,55.80,,Hongwei SUN,24 NOV 1979,CHN,h,Shanghai (CHN),21 OCT 1997,1148,400-metres-hurdles,hurdles,female,u20
+92,55.80,,Rui LI,22 NOV 1979,CHN,1,Fukuoka (JPN),22 JUL 1998,1148,400-metres-hurdles,hurdles,female,u20
+94,55.81,,Queen HARRISON,10 SEP 1988,USA,3,"Sacramento, CA (USA)",09 JUN 2007,1147,400-metres-hurdles,hurdles,female,u20
+94,55.81,,Ristananna TRACEY,09 MAY 1992,JAM,1,Kingston (JAM),01 APR 2011,1147,400-metres-hurdles,hurdles,female,u20
+96,55.82,,Jana PITTMAN,09 NOV 1982,AUS,1,Sydney (AUS),20 FEB 2000,1147,400-metres-hurdles,hurdles,female,u20
+97,55.84,,Nelli VORONKOVA,30 JUN 1972,URS,1,"Deveti Septemvri Stadium, Plovdiv (BUL)",10 AUG 1990,1147,400-metres-hurdles,hurdles,female,u20
+97,55.84,,Melaine WALKER,01 MAR 1983,JAM,3,Kingston (JAM),21 JUN 2002,1147,400-metres-hurdles,hurdles,female,u20
+99,55.85,,Shuju LI,20 JUL 1981,CHN,5,Shanghai (CHN),22 OCT 1997,1146,400-metres-hurdles,hurdles,female,u20
+99,55.85,,Michelle SMITH,18 JUN 2006,ISV,1pr4,"University of North Florda Jax Track at Hodges Stadium, Jacksonville, FL (USA)",29 MAY 2025,1146,400-metres-hurdles,hurdles,female,u20
+101,55.86,,Akala GARRETT,10 MAY 2005,USA,1pr5,"John McDonnell Field, Fayetteville, AR (USA)",23 MAY 2024,1146,400-metres-hurdles,hurdles,female,u20
+102,55.87,,Sydney MCLAUGHLIN,07 AUG 1999,USA,1f4,"Greensboro, NC (USA)",21 JUN 2015,1146,400-metres-hurdles,hurdles,female,u20
+103,55.88,,Jana PITTMAN,09 NOV 1982,AUS,1,Sydney (AUS),19 AUG 2000,1145,400-metres-hurdles,hurdles,female,u20
+103,55.88,,Amaka OGOEGBUNAM,03 MAR 1990,NGR,2,Abuja (NGR),25 JUL 2009,1145,400-metres-hurdles,hurdles,female,u20
+105,55.89,,Zuzana HEJNOVÁ,19 DEC 1986,CZE,1,"S. Darius & S. Girėnas Stadium, Kaunas (LTU)",23 JUL 2005,1145,400-metres-hurdles,hurdles,female,u20
+105,55.89,,Yekaterina KOSTETSKAYA,31 DEC 1986,RUS,2,"S. Darius & S. Girėnas Stadium, Kaunas (LTU)",23 JUL 2005,1145,400-metres-hurdles,hurdles,female,u20
+105,55.89,,Anna COCKRELL,28 AUG 1997,USA,2,"Clovis, CA (USA)",25 JUN 2016,1145,400-metres-hurdles,hurdles,female,u20
+105,55.89,,Morgan HERBST,07 DEC 2006,USA,1h2,"Hayward Field, Eugene, OR (USA)",20 JUN 2025,1145,400-metres-hurdles,hurdles,female,u20
+109,55.90,,Yasmin GIGER,06 NOV 1999,SUI,1,"Stadio Zecchini, Grosseto (ITA)",23 JUL 2017,1145,400-metres-hurdles,hurdles,female,u20
+109,55.90,,Tumi RAMOKGOPA,27 AUG 2007,RSA,2,"McArthur Stadium, Potchefstroom (RSA)",25 APR 2025,1145,400-metres-hurdles,hurdles,female,u20
+111,55.93,,Sofia SABEVA,11 JAN 1969,BUL,1,Sofia (BUL),02 JUL 1988,1144,400-metres-hurdles,hurdles,female,u20
+111,55.93,,Yulian LI,17 FEB 1979,CHN,1,"Parc des Sports, Annecy (FRA)",31 JUL 1998,1144,400-metres-hurdles,hurdles,female,u20
+111,55.93,,Yulian LI,17 FEB 1979,CHN,3,Bangkok (THA),17 DEC 1998,1144,400-metres-hurdles,hurdles,female,u20
+111,55.93,,Jana PITTMAN,09 NOV 1982,AUS,2,Melbourne (AUS),02 MAR 2000,1144,400-metres-hurdles,hurdles,female,u20
+111,55.93,,Jana PITTMAN,09 NOV 1982,AUS,1,Canberra (AUS),15 DEC 2001,1144,400-metres-hurdles,hurdles,female,u20
+111,55.93,,Nicole LEACH,18 JUL 1987,USA,4,"Sacramento, CA (USA)",10 JUN 2006,1144,400-metres-hurdles,hurdles,female,u20
+111,55.93,,Zenéy VAN DER WALT,22 MAY 2000,RSA,1,Germiston (RSA),27 APR 2019,1144,400-metres-hurdles,hurdles,female,u20
+111,55.93,,Akala GARRETT,10 MAY 2005,USA,1f4,"Hilmer Lodge Stadium, Walnut, CA (USA)",19 APR 2024,1144,400-metres-hurdles,hurdles,female,u20
+119,55.94,,Sydney MCLAUGHLIN,07 AUG 1999,USA,1,"Pascual Guerrero Stadium, Cali (COL)",18 JUL 2015,1143,400-metres-hurdles,hurdles,female,u20
+119,55.94,,Femke BOL,23 FEB 2000,NED,1f1,Genève (SUI),15 JUN 2019,1143,400-metres-hurdles,hurdles,female,u20
+119,55.94,,Jessica MOREIRA,16 NOV 2001,BRA,1,San José (CRC),21 JUL 2019,1143,400-metres-hurdles,hurdles,female,u20
+122,55.96,,Ebony COLLINS,11 MAR 1989,USA,1,"Sidi Youssef Ben Ali, Marrakech (MAR)",15 JUL 2005,1143,400-metres-hurdles,hurdles,female,u20
+122,55.96,,Ristananna TRACEY,09 MAY 1992,JAM,2h4,"DS, Daegu (KOR)",29 AUG 2011,1143,400-metres-hurdles,hurdles,female,u20
+122,55.96,,Agata ZUPIN,17 MAR 1998,SLO,2,"Stadio Zecchini, Grosseto (ITA)",23 JUL 2017,1143,400-metres-hurdles,hurdles,female,u20
+122,55.96,,Michelle SMITH,18 JUN 2006,ISV,2,"Edwin Moses Track, Atlanta, GA (USA)",31 MAY 2024,1143,400-metres-hurdles,hurdles,female,u20
+126,55.98,,Shamier LITTLE,20 MAR 1995,USA,1sf2,"Fayetteville, AR (USA)",30 MAY 2014,1142,400-metres-hurdles,hurdles,female,u20
+126,55.98,,Michelle SMITH,18 JUN 2006,ISV,1f1,"UCF Soccer and Track Complex, Orlando, FL (USA)",21 MAR 2025,1142,400-metres-hurdles,hurdles,female,u20
+128,55.99,,Ionela ŢIRLEA-MANOLACHE,09 FEB 1976,ROU,2,Fukuoka (JPN),31 AUG 1995,1142,400-metres-hurdles,hurdles,female,u20
+128,55.99,,Natalie DUMAS,,USA,1f6,"Franklin Field, Philadelphia, PA (USA)",20 JUN 2025,1142,400-metres-hurdles,hurdles,female,u20
+130,56.00,,Ann-Louise SKOGLUND,28 JUN 1962,SWE,,Göteborg (SWE),11 AUG 1981,1142,400-metres-hurdles,hurdles,female,u20
+130,56.00,,Michelle SMITH,18 JUN 2006,ISV,6h1,"National Stadium, Tokyo (JPN)",15 SEP 2025,1142,400-metres-hurdles,hurdles,female,u20

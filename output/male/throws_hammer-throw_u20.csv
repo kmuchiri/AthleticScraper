@@ -11,60 +11,63 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 10,77.48,,Roland STEUK,05 MAR 1959,GDR,1,Erfurt (GER),27 MAY 1978,1163,hammer-throw,throws,male,u20
 11,77.39,,Mykhaylo KOKHAN,22 JAN 2001,UKR,5,"Khalifa International Stadium, Doha (QAT)",02 OCT 2019,1162,hammer-throw,throws,male,u20
 12,77.24,,Roland STEUK,05 MAR 1959,GDR,2,"Stadion Evžena Rošického, Praha (TCH)",02 SEP 1978,1160,hammer-throw,throws,male,u20
-13,77.04,,Roland STEUK,05 MAR 1959,GDR,1,Vilnius (LTU),25 JUN 1978,1157,hammer-throw,throws,male,u20
-14,76.92,,Roland STEUK,05 MAR 1959,GDR,1,Halle (GER),17 AUG 1978,1155,hammer-throw,throws,male,u20
-15,76.76,,Roland STEUK,05 MAR 1959,GDR,1,Potsdam (GDR),18 AUG 1978,1152,hammer-throw,throws,male,u20
-16,76.68,,Mykhaylo KOKHAN,22 JAN 2001,UKR,1,Šamorín (SVK),09 MAR 2019,1151,hammer-throw,throws,male,u20
-17,76.67,,Christos FRANTZESKAKIS,26 APR 2000,GRE,1,Pravets (BUL),02 SEP 2019,1151,hammer-throw,throws,male,u20
-18,76.56,,Mykhaylo KOKHAN,22 JAN 2001,UKR,4q2,"Khalifa International Stadium, Doha (QAT)",01 OCT 2019,1149,hammer-throw,throws,male,u20
-19,76.54,,Valeriy GUBKIN,03 SEP 1967,URS,2,Minsk (BLR),27 JUN 1986,1149,hammer-throw,throws,male,u20
-20,76.42,,Ruslan DIKIY,18 JAN 1972,URS,1,Togliatti (URS),07 SEP 1991,1147,hammer-throw,throws,male,u20
-20,76.42,,Mykhaylo KOKHAN,22 JAN 2001,UKR,1,"Rannastaadion, Pärnu (EST)",22 AUG 2020,1147,hammer-throw,throws,male,u20
-22,76.38,,Roland STEUK,05 MAR 1959,GDR,2,Halle (GER),27 AUG 1977,1146,hammer-throw,throws,male,u20
-23,76.37,,Ashraf ELSEIFY,20 FEB 1995,QAT,1,Doha (QAT),10 APR 2013,1146,hammer-throw,throws,male,u20
-24,76.35,,Ármin SZABADOS,11 JAN 2006,HUN,1,"Egyetemi Stadion, Veszprém (HUN)",28 JUN 2025,1146,hammer-throw,throws,male,u20
-25,76.24,,Sergey DOROZHON,17 FEB 1964,URS,1,Leningrad (URS),12 JUN 1982,1144,hammer-throw,throws,male,u20
-25,76.24,,Mykhaylo KOKHAN,22 JAN 2001,UKR,1,Mukachevo (UKR),15 FEB 2019,1144,hammer-throw,throws,male,u20
-27,76.04,,Roland STEUK,05 MAR 1959,GDR,1,Berlin (GER),10 AUG 1977,1141,hammer-throw,throws,male,u20
-28,75.89,,Olli-Pekka KARJALAINEN,07 MAR 1980,FIN,4q1,"La Cartuja, Sevilla (ESP)",21 AUG 1999,1139,hammer-throw,throws,male,u20
-29,75.80,,Olli-Pekka KARJALAINEN,07 MAR 1980,FIN,1,"Daugava Stadium, Riga (LAT)",08 AUG 1999,1137,hammer-throw,throws,male,u20
-30,75.73,,Mykhaylo KOKHAN,22 JAN 2001,UKR,4,"Stadion Śląski, Chorzów (POL)",06 SEP 2020,1136,hammer-throw,throws,male,u20
-31,75.68,,Olli-Pekka KARJALAINEN,07 MAR 1980,FIN,2,Kuortane (FIN),26 JUN 1999,1136,hammer-throw,throws,male,u20
-32,75.62,,Roland STEUK,05 MAR 1959,GDR,1,Berlin (GDR),06 AUG 1977,1135,hammer-throw,throws,male,u20
-33,75.59,,Olli-Pekka KARJALAINEN,07 MAR 1980,FIN,11,"La Cartuja, Sevilla (ESP)",22 AUG 1999,1134,hammer-throw,throws,male,u20
-34,75.56,,Mykhaylo KOKHAN,22 JAN 2001,UKR,2,Kuortane (FIN),22 JUN 2019,1134,hammer-throw,throws,male,u20
-35,75.53,,Ashraf ELSEIFY,20 FEB 1995,QAT,1,Doha (QAT),04 APR 2014,1133,hammer-throw,throws,male,u20
-36,75.52,,Sergey KIRMASOV,25 MAR 1970,URS,1,Kharkov (URS),04 JUN 1989,1133,hammer-throw,throws,male,u20
-37,75.46,,Roland STEUK,05 MAR 1959,GDR,1,Berlin (GER),03 AUG 1977,1132,hammer-throw,throws,male,u20
-38,75.43,,Mykhaylo KOKHAN,22 JAN 2001,UKR,1,"Cluj Arena, Cluj-Napoca (ROU)",19 SEP 2020,1132,hammer-throw,throws,male,u20
-39,75.42,,Szymon ZIÓŁKOWSKI,01 JUL 1976,POL,1,"Városi Stadion, Nyíregyháza (HUN)",30 JUL 1995,1132,hammer-throw,throws,male,u20
-39,75.42,,Mykhaylo KOKHAN,22 JAN 2001,UKR,1,Jyväskylä (FIN),19 JUN 2019,1132,hammer-throw,throws,male,u20
-41,75.41,,Ármin SZABADOS,11 JAN 2006,HUN,3,"Stade Raymond Petit, Tomblaine (FRA)",04 JUL 2025,1131,hammer-throw,throws,male,u20
-42,75.39,,Mykhaylo KOKHAN,22 JAN 2001,UKR,1,"Avangard Stadium, Lutsk (UKR)",29 AUG 2020,1131,hammer-throw,throws,male,u20
-43,75.24,,Christoph SAHNER,23 SEP 1963,FRG,1,Göttingen (GER),26 JUN 1982,1129,hammer-throw,throws,male,u20
-44,75.22,,Yoseph CHMYR,29 NOV 1966,URS,1,Kiev (URS),09 SEP 1985,1128,hammer-throw,throws,male,u20
-45,75.20,,Igor NIKULIN,14 AUG 1960,URS,2,Leselidze (URS),01 JUN 1979,1128,hammer-throw,throws,male,u20
-46,75.16,,Mykhaylo KOKHAN,22 JAN 2001,UKR,4,"Stadion Śląski, Chorzów (POL)",25 AUG 2020,1127,hammer-throw,throws,male,u20
-47,75.14,,Ármin SZABADOS,11 JAN 2006,HUN,1,"Egyetemi Stadion, Veszprém (HUN)",26 APR 2025,1127,hammer-throw,throws,male,u20
-48,75.10,,Sergey DOROZHON,17 FEB 1964,URS,2,Sofia (BUL),21 MAY 1983,1127,hammer-throw,throws,male,u20
-48,75.10,,Eduard PISKUNOV,26 SEP 1967,URS,1,Grodno (BLR),05 JUL 1986,1127,hammer-throw,throws,male,u20
-50,75.08,,Olli-Pekka KARJALAINEN,07 MAR 1980,FIN,1,Oulu (FIN),08 AUG 1998,1126,hammer-throw,throws,male,u20
-51,75.05,,Mykhaylo KOKHAN,22 JAN 2001,UKR,7,"Stadion Śląski, Chorzów (POL)",16 JUN 2019,1126,hammer-throw,throws,male,u20
-52,74.82,,Olli-Pekka KARJALAINEN,07 MAR 1980,FIN,q,Seinäjoki (FIN),05 AUG 1999,1122,hammer-throw,throws,male,u20
-53,74.78,,Matthias MODER,17 JUN 1963,GDR,1,Cottbus (GER),24 JUL 1982,1122,hammer-throw,throws,male,u20
-54,74.77,,Kristóf NÉMETH,17 SEP 1987,HUN,1,Szombathely (HUN),30 JAN 2005,1121,hammer-throw,throws,male,u20
-54,74.77,,Javier CIENFUEGOS,15 JUL 1990,ESP,1,Castellón (ESP),06 JUN 2009,1121,hammer-throw,throws,male,u20
-56,74.71,,Olli-Pekka KARJALAINEN,07 MAR 1980,FIN,1,Seinäjoki (FIN),20 JUL 1999,1121,hammer-throw,throws,male,u20
-57,74.69,,Mykhaylo KOKHAN,22 JAN 2001,UKR,1,Ankara (TUR),18 JUL 2020,1120,hammer-throw,throws,male,u20
-58,74.66,,Ilya KONOVALOV,04 MAR 1971,URS,1,Minsk (BLR),18 JAN 1990,1120,hammer-throw,throws,male,u20
-58,74.66,,Maciej PAŁYSZKO,04 JAN 1978,POL,2,Bydgoszcz (POL),21 JUN 1997,1120,hammer-throw,throws,male,u20
-60,74.32,,Sergey LITVINOV,23 JAN 1958,URS,1,Simferopol (URS),07 APR 1977,1114,hammer-throw,throws,male,u20
-61,74.28,,Aleksandr SELEZNYOV,25 JAN 1964,URS,1,Leselidze (URS),22 APR 1983,1114,hammer-throw,throws,male,u20
-61,74.28,,Sergey DOROZHON,17 FEB 1964,URS,1,"Rudolf Tonn Stadion, Schwechat (AUT)",26 AUG 1983,1114,hammer-throw,throws,male,u20
-63,74.20,,Aleksandr SELEZNYOV,25 JAN 1964,URS,,Kishinev (URS),25 AUG 1983,1113,hammer-throw,throws,male,u20
-63,74.20,,Sukhrob KHODJAEV,21 MAY 1993,UZB,1,Almaty (KAZ),18 JUN 2012,1113,hammer-throw,throws,male,u20
-65,74.18,,Vadim DEVYATOVSKIY,20 MAR 1977,BLR,5,Staiki (BLR),13 JUL 1996,1112,hammer-throw,throws,male,u20
-66,74.15,,Ármin SZABADOS,11 JAN 2006,HUN,2,"Nemzeti Atlétikai Központ, Budapest (HUN)",02 AUG 2025,1112,hammer-throw,throws,male,u20
-67,74.12,,Maciej PAŁYSZKO,04 JAN 1978,POL,1,"Bežigrajski stadion, Ljubljana (SLO)",27 JUL 1997,1111,hammer-throw,throws,male,u20
-67,74.12,,Wojciech KONDRATOWICZ,18 APR 1980,POL,2,"Daugava Stadium, Riga (LAT)",08 AUG 1999,1111,hammer-throw,throws,male,u20
-69,74.03,,Yevgeniy AYDAMIROV,11 MAY 1987,RUS,,Moskva (RUS),16 MAY 2003,1110,hammer-throw,throws,male,u20
+13,77.20,,Ármin SZABADOS,11 JAN 2006,HUN,6q2,"National Stadium, Tokyo (JPN)",15 SEP 2025,1159,hammer-throw,throws,male,u20
+14,77.15,,Ármin SZABADOS,11 JAN 2006,HUN,8f1,"National Stadium, Tokyo (JPN)",16 SEP 2025,1158,hammer-throw,throws,male,u20
+15,77.04,,Roland STEUK,05 MAR 1959,GDR,1,Vilnius (LTU),25 JUN 1978,1157,hammer-throw,throws,male,u20
+16,76.92,,Roland STEUK,05 MAR 1959,GDR,1,Halle (GER),17 AUG 1978,1155,hammer-throw,throws,male,u20
+17,76.76,,Roland STEUK,05 MAR 1959,GDR,1,Potsdam (GDR),18 AUG 1978,1152,hammer-throw,throws,male,u20
+18,76.68,,Mykhaylo KOKHAN,22 JAN 2001,UKR,1,Šamorín (SVK),09 MAR 2019,1151,hammer-throw,throws,male,u20
+19,76.67,,Christos FRANTZESKAKIS,26 APR 2000,GRE,1,Pravets (BUL),02 SEP 2019,1151,hammer-throw,throws,male,u20
+20,76.56,,Mykhaylo KOKHAN,22 JAN 2001,UKR,4q2,"Khalifa International Stadium, Doha (QAT)",01 OCT 2019,1149,hammer-throw,throws,male,u20
+21,76.54,,Valeriy GUBKIN,03 SEP 1967,URS,2,Minsk (BLR),27 JUN 1986,1149,hammer-throw,throws,male,u20
+22,76.42,,Ruslan DIKIY,18 JAN 1972,URS,1,Togliatti (URS),07 SEP 1991,1147,hammer-throw,throws,male,u20
+22,76.42,,Mykhaylo KOKHAN,22 JAN 2001,UKR,1,"Rannastaadion, Pärnu (EST)",22 AUG 2020,1147,hammer-throw,throws,male,u20
+24,76.38,,Roland STEUK,05 MAR 1959,GDR,2,Halle (GER),27 AUG 1977,1146,hammer-throw,throws,male,u20
+25,76.37,,Ashraf ELSEIFY,20 FEB 1995,QAT,1,Doha (QAT),10 APR 2013,1146,hammer-throw,throws,male,u20
+26,76.35,,Ármin SZABADOS,11 JAN 2006,HUN,1,"Egyetemi Stadion, Veszprém (HUN)",28 JUN 2025,1146,hammer-throw,throws,male,u20
+27,76.24,,Sergey DOROZHON,17 FEB 1964,URS,1,Leningrad (URS),12 JUN 1982,1144,hammer-throw,throws,male,u20
+27,76.24,,Mykhaylo KOKHAN,22 JAN 2001,UKR,1,Mukachevo (UKR),15 FEB 2019,1144,hammer-throw,throws,male,u20
+29,76.04,,Roland STEUK,05 MAR 1959,GDR,1,Berlin (GER),10 AUG 1977,1141,hammer-throw,throws,male,u20
+30,75.89,,Olli-Pekka KARJALAINEN,07 MAR 1980,FIN,4q1,"La Cartuja, Sevilla (ESP)",21 AUG 1999,1139,hammer-throw,throws,male,u20
+31,75.80,,Olli-Pekka KARJALAINEN,07 MAR 1980,FIN,1,"Daugava Stadium, Riga (LAT)",08 AUG 1999,1137,hammer-throw,throws,male,u20
+32,75.73,,Mykhaylo KOKHAN,22 JAN 2001,UKR,4,"Stadion Śląski, Chorzów (POL)",06 SEP 2020,1136,hammer-throw,throws,male,u20
+33,75.68,,Olli-Pekka KARJALAINEN,07 MAR 1980,FIN,2,Kuortane (FIN),26 JUN 1999,1136,hammer-throw,throws,male,u20
+34,75.62,,Roland STEUK,05 MAR 1959,GDR,1,Berlin (GDR),06 AUG 1977,1135,hammer-throw,throws,male,u20
+35,75.59,,Olli-Pekka KARJALAINEN,07 MAR 1980,FIN,11,"La Cartuja, Sevilla (ESP)",22 AUG 1999,1134,hammer-throw,throws,male,u20
+36,75.56,,Mykhaylo KOKHAN,22 JAN 2001,UKR,2,Kuortane (FIN),22 JUN 2019,1134,hammer-throw,throws,male,u20
+37,75.53,,Ashraf ELSEIFY,20 FEB 1995,QAT,1,Doha (QAT),04 APR 2014,1133,hammer-throw,throws,male,u20
+38,75.52,,Sergey KIRMASOV,25 MAR 1970,URS,1,Kharkov (URS),04 JUN 1989,1133,hammer-throw,throws,male,u20
+39,75.46,,Roland STEUK,05 MAR 1959,GDR,1,Berlin (GER),03 AUG 1977,1132,hammer-throw,throws,male,u20
+40,75.43,,Mykhaylo KOKHAN,22 JAN 2001,UKR,1,"Cluj Arena, Cluj-Napoca (ROU)",19 SEP 2020,1132,hammer-throw,throws,male,u20
+41,75.42,,Szymon ZIÓŁKOWSKI,01 JUL 1976,POL,1,"Városi Stadion, Nyíregyháza (HUN)",30 JUL 1995,1132,hammer-throw,throws,male,u20
+41,75.42,,Mykhaylo KOKHAN,22 JAN 2001,UKR,1,Jyväskylä (FIN),19 JUN 2019,1132,hammer-throw,throws,male,u20
+43,75.41,,Ármin SZABADOS,11 JAN 2006,HUN,3,"Stade Raymond Petit, Tomblaine (FRA)",04 JUL 2025,1131,hammer-throw,throws,male,u20
+44,75.39,,Mykhaylo KOKHAN,22 JAN 2001,UKR,1,"Avangard Stadium, Lutsk (UKR)",29 AUG 2020,1131,hammer-throw,throws,male,u20
+45,75.24,,Christoph SAHNER,23 SEP 1963,FRG,1,Göttingen (GER),26 JUN 1982,1129,hammer-throw,throws,male,u20
+46,75.22,,Yoseph CHMYR,29 NOV 1966,URS,1,Kiev (URS),09 SEP 1985,1128,hammer-throw,throws,male,u20
+47,75.20,,Igor NIKULIN,14 AUG 1960,URS,2,Leselidze (URS),01 JUN 1979,1128,hammer-throw,throws,male,u20
+48,75.16,,Mykhaylo KOKHAN,22 JAN 2001,UKR,4,"Stadion Śląski, Chorzów (POL)",25 AUG 2020,1127,hammer-throw,throws,male,u20
+49,75.14,,Ármin SZABADOS,11 JAN 2006,HUN,1,"Egyetemi Stadion, Veszprém (HUN)",26 APR 2025,1127,hammer-throw,throws,male,u20
+50,75.10,,Sergey DOROZHON,17 FEB 1964,URS,2,Sofia (BUL),21 MAY 1983,1127,hammer-throw,throws,male,u20
+50,75.10,,Eduard PISKUNOV,26 SEP 1967,URS,1,Grodno (BLR),05 JUL 1986,1127,hammer-throw,throws,male,u20
+52,75.08,,Olli-Pekka KARJALAINEN,07 MAR 1980,FIN,1,Oulu (FIN),08 AUG 1998,1126,hammer-throw,throws,male,u20
+53,75.05,,Mykhaylo KOKHAN,22 JAN 2001,UKR,7,"Stadion Śląski, Chorzów (POL)",16 JUN 2019,1126,hammer-throw,throws,male,u20
+54,74.82,,Olli-Pekka KARJALAINEN,07 MAR 1980,FIN,q,Seinäjoki (FIN),05 AUG 1999,1122,hammer-throw,throws,male,u20
+55,74.78,,Matthias MODER,17 JUN 1963,GDR,1,Cottbus (GER),24 JUL 1982,1122,hammer-throw,throws,male,u20
+56,74.77,,Kristóf NÉMETH,17 SEP 1987,HUN,1,Szombathely (HUN),30 JAN 2005,1121,hammer-throw,throws,male,u20
+56,74.77,,Javier CIENFUEGOS,15 JUL 1990,ESP,1,Castellón (ESP),06 JUN 2009,1121,hammer-throw,throws,male,u20
+58,74.71,,Olli-Pekka KARJALAINEN,07 MAR 1980,FIN,1,Seinäjoki (FIN),20 JUL 1999,1121,hammer-throw,throws,male,u20
+59,74.69,,Mykhaylo KOKHAN,22 JAN 2001,UKR,1,Ankara (TUR),18 JUL 2020,1120,hammer-throw,throws,male,u20
+60,74.66,,Ilya KONOVALOV,04 MAR 1971,URS,1,Minsk (BLR),18 JAN 1990,1120,hammer-throw,throws,male,u20
+60,74.66,,Maciej PAŁYSZKO,04 JAN 1978,POL,2,Bydgoszcz (POL),21 JUN 1997,1120,hammer-throw,throws,male,u20
+62,74.63,,Ármin SZABADOS,11 JAN 2006,HUN,8,"Nemzeti Atlétikai Központ, Budapest (HUN)",12 AUG 2025,1119,hammer-throw,throws,male,u20
+63,74.32,,Sergey LITVINOV,23 JAN 1958,URS,1,Simferopol (URS),07 APR 1977,1114,hammer-throw,throws,male,u20
+64,74.28,,Aleksandr SELEZNYOV,25 JAN 1964,URS,1,Leselidze (URS),22 APR 1983,1114,hammer-throw,throws,male,u20
+64,74.28,,Sergey DOROZHON,17 FEB 1964,URS,1,"Rudolf Tonn Stadion, Schwechat (AUT)",26 AUG 1983,1114,hammer-throw,throws,male,u20
+66,74.20,,Aleksandr SELEZNYOV,25 JAN 1964,URS,,Kishinev (URS),25 AUG 1983,1113,hammer-throw,throws,male,u20
+66,74.20,,Sukhrob KHODJAEV,21 MAY 1993,UZB,1,Almaty (KAZ),18 JUN 2012,1113,hammer-throw,throws,male,u20
+68,74.18,,Vadim DEVYATOVSKIY,20 MAR 1977,BLR,5,Staiki (BLR),13 JUL 1996,1112,hammer-throw,throws,male,u20
+69,74.15,,Ármin SZABADOS,11 JAN 2006,HUN,2,"Nemzeti Atlétikai Központ, Budapest (HUN)",02 AUG 2025,1112,hammer-throw,throws,male,u20
+70,74.12,,Maciej PAŁYSZKO,04 JAN 1978,POL,1,"Bežigrajski stadion, Ljubljana (SLO)",27 JUL 1997,1111,hammer-throw,throws,male,u20
+70,74.12,,Wojciech KONDRATOWICZ,18 APR 1980,POL,2,"Daugava Stadium, Riga (LAT)",08 AUG 1999,1111,hammer-throw,throws,male,u20
+72,74.03,,Yevgeniy AYDAMIROV,11 MAY 1987,RUS,,Moskva (RUS),16 MAY 2003,1110,hammer-throw,throws,male,u20

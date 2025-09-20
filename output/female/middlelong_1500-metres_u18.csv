@@ -46,61 +46,62 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 45,4:06.87,,Zola BUDD,26 MAY 1966,RSA,1,Bloemfontein (RSA),28 OCT 1983,1151,1500-metres,middlelong,female,u18
 46,4:06.97,,Georgie CLARKE,17 JUN 1984,AUS,3,Melbourne (AUS),02 MAR 2000,1150,1500-metres,middlelong,female,u18
 47,4:07.02,,Gudaf TSEGAY,23 JAN 1997,ETH,5,"Sports Park Mladost, Zagreb (CRO)",02 SEP 2014,1150,1500-metres,middlelong,female,u18
-48,4:07.05,,Alexa EFRAIMSON,20 FEB 1997,USA,10,"Icahn Stadium, New York, NY (USA)",14 JUN 2014,1149,1500-metres,middlelong,female,u18
-49,4:07.19,,Mary CAIN,03 MAY 1996,USA,9,"Luzhniki Stadion, Moskva (RUS)",15 AUG 2013,1148,1500-metres,middlelong,female,u18
-50,4:07.21,,Kate MURPHY,15 AUG 1999,USA,1,"Somerville, MA (USA)",17 JUN 2016,1148,1500-metres,middlelong,female,u18
-51,4:07.27,,Gudaf TSEGAY,23 JAN 1997,ETH,1f1,Ninove (BEL),27 JUL 2013,1148,1500-metres,middlelong,female,u18
-52,4:07.28,,Mebriht MEKONEN,12 FEB 2005,ETH,5,"Stade Raymond Petit, Tomblaine (FRA)",05 JUL 2021,1148,1500-metres,middlelong,female,u18
-53,4:07.30,,Georgie CLARKE,17 JUN 1984,AUS,13,"Bislett Stadion, Oslo (NOR)",28 JUL 2000,1148,1500-metres,middlelong,female,u18
-54,4:07.34,,Kokeb TESFAYE,05 MAY 1997,ETH,1,Montreuil-sous-Bois (FRA),07 JUL 2014,1147,1500-metres,middlelong,female,u18
-55,4:07.47,,Gudaf TSEGAY,23 JAN 1997,ETH,2,Bottrop (GER),19 JUL 2013,1146,1500-metres,middlelong,female,u18
-55,4:07.47,,Wezam TESFAY,03 JAN 2005,ETH,7,"Stade des Grands Pêchers, Montreuil (FRA)",02 JUN 2022,1146,1500-metres,middlelong,female,u18
-57,4:07.86,,Wezam TESFAY,03 JAN 2005,ETH,7,"Moi International Sports Centre, Kasarani, Nairobi (KEN)",18 SEP 2021,1143,1500-metres,middlelong,female,u18
-58,4:08.06,,Tizita BOGALE,13 JUL 1993,ETH,1,"Croix-Bleue Medavie Stadium, Moncton (CAN)",25 JUL 2010,1142,1500-metres,middlelong,female,u18
-59,4:08.10,,Elsabet AMARE,23 FEB 2009,ETH,5,"Lakeside Stadium, Melbourne (AUS)",29 MAR 2025,1141,1500-metres,middlelong,female,u18
-60,4:08.14,,Abebech NEGUSSIE,27 MAY 1983,ETH,7,"Crystal Palace, London (GBR)",05 AUG 2000,1141,1500-metres,middlelong,female,u18
-61,4:08.15,,Tsiyon ABEBE,17 AUG 2006,ETH,15,"Mestský Stadion, Ostrava (CZE)",31 MAY 2022,1141,1500-metres,middlelong,female,u18
-62,4:08.21,,Veronicah Nyaruai WANJIRU,29 OCT 1989,KEN,2,Doha (QAT),12 MAY 2006,1140,1500-metres,middlelong,female,u18
-62,4:08.21,,Mary CAIN,03 MAY 1996,USA,5h1,"Luzhniki Stadion, Moskva (RUS)",11 AUG 2013,1140,1500-metres,middlelong,female,u18
-64,4:08.22,,Saron BERHE,22 AUG 2007,ETH,2,"Gallur, Madrid (ESP) (i)",23 FEB 2024,1162,1500-metres,middlelong,female,u18
-65,4:08.28,,Senbere TEFERI,03 MAY 1995,ETH,3,"Estadio Olímpico, Barcelona (ESP)",15 JUL 2012,1140,1500-metres,middlelong,female,u18
-66,4:08.29,,Yuying CUI,18 MAR 1980,CHN,h,Shanghai (CHN),17 OCT 1997,1140,1500-metres,middlelong,female,u18
-66,4:08.29,,Meskerem ASSEFA,03 OCT 1991,ETH,1,Uberlandia (BRA),11 MAY 2008,1140,1500-metres,middlelong,female,u18
-68,4:08.34,,Gudaf TSEGAY,23 JAN 1997,ETH,12,"Olympiastadion, Stockholm (SWE)",21 AUG 2014,1139,1500-metres,middlelong,female,u18
-69,4:08.35,,Elsabet AMARE,23 FEB 2009,ETH,1,"Stade Gouled, Djibouti (DJI)",11 APR 2025,1139,1500-metres,middlelong,female,u18
-70,4:08.39,,Azmera GEBRU,31 OCT 1995,ETH,3,"Stade Raymond Petit, Tomblaine (FRA)",08 JUL 2012,1139,1500-metres,middlelong,female,u18
-70,4:08.39,,Mebriht MEKONEN,12 FEB 2005,ETH,4,"Pascual Guerrero Stadium, Cali (COL)",06 AUG 2022,1139,1500-metres,middlelong,female,u18
-72,4:08.43,,Fantu WORKU,29 MAR 1999,ETH,2,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",24 JUL 2016,1139,1500-metres,middlelong,female,u18
-73,4:08.47,,Gudaf TSEGAY,23 JAN 1997,ETH,2,"Globe Arena, Stockholm (SWE) (i)",06 FEB 2014,1160,1500-metres,middlelong,female,u18
-74,4:08.50,,Emebet ETAA BEDADA,11 JAN 1990,ETH,3,Villeneuve d'Ascq (FRA),08 JUN 2007,1138,1500-metres,middlelong,female,u18
-75,4:08.52,,Sumei TAO,08 JUN 1980,CHN,h,Shanghai (CHN),17 OCT 1997,1138,1500-metres,middlelong,female,u18
-76,4:08.61,,Meskerem ASSEFA,03 OCT 1991,ETH,7,Rabat (MAR),14 JUN 2008,1137,1500-metres,middlelong,female,u18
-76,4:08.61,,Kokeb TESFAYE,05 MAY 1997,ETH,2f1,Kortrijk (BEL),12 JUL 2014,1137,1500-metres,middlelong,female,u18
-78,4:08.63,,Abebech NEGUSSIE,27 MAY 1983,ETH,2,Ostrava (CZE),01 JUN 2000,1137,1500-metres,middlelong,female,u18
-79,4:08.73,,Tizita BOGALE,13 JUL 1993,ETH,2,Huelva (ESP),09 JUN 2010,1136,1500-metres,middlelong,female,u18
-80,4:08.76,,Meskerem ASSEFA,03 OCT 1991,ETH,1,Fortaleza (BRA),14 MAY 2008,1136,1500-metres,middlelong,female,u18
-81,4:08.79,,Jackline MARANGA,16 DEC 1977,KEN,2,"Olympic Stadium, Seoul (KOR)",20 SEP 1992,1136,1500-metres,middlelong,female,u18
-82,4:08.91,,Georgie CLARKE,17 JUN 1984,AUS,2,Sydney (AUS),16 FEB 2001,1135,1500-metres,middlelong,female,u18
-83,4:08.97,,Wubrist ASCHAL,10 MAR 2005,ETH,8,"Moi International Sports Centre, Kasarani, Nairobi (KEN)",18 SEP 2021,1134,1500-metres,middlelong,female,u18
-83,4:08.97,,Elsabet AMARE,23 FEB 2009,ETH,6,"Suhaim bin Hamad Stadium, Doha (QAT)",16 MAY 2025,1134,1500-metres,middlelong,female,u18
-85,4:09.00,,Dawit SEYAUM,27 JUL 1996,ETH,1,Réduit (MRI),01 SEP 2013,1134,1500-metres,middlelong,female,u18
-85,4:09.00,,Kokeb TESFAYE,05 MAY 1997,ETH,1f1,Oordegem (BEL),05 JUL 2014,1134,1500-metres,middlelong,female,u18
-87,4:09.04,,Ying LI,24 JUN 1975,CHN,3,"Olympic Stadium, Seoul (KOR)",20 SEP 1992,1134,1500-metres,middlelong,female,u18
-87,4:09.04,,Meskerem ASSEFA,03 OCT 1991,ETH,5,Villeneuve d'Ascq (FRA),08 JUN 2007,1134,1500-metres,middlelong,female,u18
-89,4:09.22,,Mebriht MEKONEN,12 FEB 2005,ETH,1,"Stadio G. Teghil, Lignano Sabbiadoro (ITA)",03 JUL 2021,1133,1500-metres,middlelong,female,u18
-90,4:09.24,,Tsiyon ABEBE,17 AUG 2006,ETH,15,"Mestský Stadion, Ostrava (CZE)",27 JUN 2023,1132,1500-metres,middlelong,female,u18
-91,4:09.25,,Sarah HEALY,13 FEB 2001,IRL,11f1,"SV 03 Stadion, Tübingen (GER)",16 JUN 2018,1132,1500-metres,middlelong,female,u18
-92,4:09.37,,Cleopatra PALACIAN,03 JAN 1968,ROU,5,Bucureşti (ROU),12 JUL 1984,1131,1500-metres,middlelong,female,u18
-93,4:09.46,,Chunmei WANG,10 APR 1976,CHN,7h2,Beijing (CHN),10 SEP 1993,1131,1500-metres,middlelong,female,u18
-94,4:09.48,,Huan WANG,1991,CHN,1,Jinzhou (CHN),02 SEP 2006,1130,1500-metres,middlelong,female,u18
-94,4:09.48,,Faith KIPYEGON,10 JAN 1994,KEN,1,Lille (FRA),09 JUL 2011,1130,1500-metres,middlelong,female,u18
-96,4:09.51,,Glenda REISER,16 JUN 1955,CAN,7sf1,"Olympiastadion, München (GER)",07 SEP 1972,1130,1500-metres,middlelong,female,u18
-97,4:09.62,,Saron BERHE,22 AUG 2007,ETH,13,"Suhaim bin Hamad Stadium, Doha (QAT)",10 MAY 2024,1129,1500-metres,middlelong,female,u18
-98,4:09.77,,Mary CAIN,03 MAY 1996,USA,5,"Olympic Stadium, London (GBR)",26 JUL 2013,1128,1500-metres,middlelong,female,u18
-99,4:09.80,,Senbere TEFERI,03 MAY 1995,ETH,2f1,Kessel-Lo (BEL),13 AUG 2011,1128,1500-metres,middlelong,female,u18
-99,4:09.80,,Wilma Bekkemoen TORBIÖRNSSON,31 MAY 2007,NOR,2,"Bislett Stadion, Oslo (NOR)",27 AUG 2024,1128,1500-metres,middlelong,female,u18
-101,4:09.81,,Tirhas GEBREHIWET,21 FEB 2007,ETH,3,"Stadio Zecchini, Grosseto (ITA)",27 MAY 2023,1128,1500-metres,middlelong,female,u18
-102,4:09.82,,Mebriht MEKONEN,12 FEB 2005,ETH,,"Boudewijnstadion, Bruxelles (BEL)",03 SEP 2021,1128,1500-metres,middlelong,female,u18
-103,4:09.83,,Meskerem ASSEFA,03 OCT 1991,ETH,4,Algiers (ALG),22 JUL 2007,1128,1500-metres,middlelong,female,u18
-104,4:09.90,,Nancy CHEROP,06 APR 2006,KEN,6,"Nyayo National Stadium, Nairobi (KEN)",24 JUN 2023,1127,1500-metres,middlelong,female,u18
-105,4:09.93,,Jess JUDD,07 JAN 1995,GBR,5,"Estadio Olímpico, Barcelona (ESP)",15 JUL 2012,1127,1500-metres,middlelong,female,u18
+48,4:07.03,,Kate ANDERSON-RICHARDSON,05 NOV 1973,AUS,1,Brisbane (AUS),14 MAR 1976,1150,1500-metres,middlelong,female,u18
+49,4:07.05,,Alexa EFRAIMSON,20 FEB 1997,USA,10,"Icahn Stadium, New York, NY (USA)",14 JUN 2014,1149,1500-metres,middlelong,female,u18
+50,4:07.19,,Mary CAIN,03 MAY 1996,USA,9,"Luzhniki Stadion, Moskva (RUS)",15 AUG 2013,1148,1500-metres,middlelong,female,u18
+51,4:07.21,,Kate MURPHY,15 AUG 1999,USA,1,"Somerville, MA (USA)",17 JUN 2016,1148,1500-metres,middlelong,female,u18
+52,4:07.27,,Gudaf TSEGAY,23 JAN 1997,ETH,1f1,Ninove (BEL),27 JUL 2013,1148,1500-metres,middlelong,female,u18
+53,4:07.28,,Mebriht MEKONEN,12 FEB 2005,ETH,5,"Stade Raymond Petit, Tomblaine (FRA)",05 JUL 2021,1148,1500-metres,middlelong,female,u18
+54,4:07.30,,Georgie CLARKE,17 JUN 1984,AUS,13,"Bislett Stadion, Oslo (NOR)",28 JUL 2000,1148,1500-metres,middlelong,female,u18
+55,4:07.34,,Kokeb TESFAYE,05 MAY 1997,ETH,1,Montreuil-sous-Bois (FRA),07 JUL 2014,1147,1500-metres,middlelong,female,u18
+56,4:07.47,,Gudaf TSEGAY,23 JAN 1997,ETH,2,Bottrop (GER),19 JUL 2013,1146,1500-metres,middlelong,female,u18
+56,4:07.47,,Wezam TESFAY,03 JAN 2005,ETH,7,"Stade des Grands Pêchers, Montreuil (FRA)",02 JUN 2022,1146,1500-metres,middlelong,female,u18
+58,4:07.86,,Wezam TESFAY,03 JAN 2005,ETH,7,"Moi International Sports Centre, Kasarani, Nairobi (KEN)",18 SEP 2021,1143,1500-metres,middlelong,female,u18
+59,4:08.06,,Tizita BOGALE,13 JUL 1993,ETH,1,"Croix-Bleue Medavie Stadium, Moncton (CAN)",25 JUL 2010,1142,1500-metres,middlelong,female,u18
+60,4:08.10,,Elsabet AMARE,23 FEB 2009,ETH,5,"Lakeside Stadium, Melbourne (AUS)",29 MAR 2025,1141,1500-metres,middlelong,female,u18
+61,4:08.14,,Abebech NEGUSSIE,27 MAY 1983,ETH,7,"Crystal Palace, London (GBR)",05 AUG 2000,1141,1500-metres,middlelong,female,u18
+62,4:08.15,,Tsiyon ABEBE,17 AUG 2006,ETH,15,"Mestský Stadion, Ostrava (CZE)",31 MAY 2022,1141,1500-metres,middlelong,female,u18
+63,4:08.21,,Veronicah Nyaruai WANJIRU,29 OCT 1989,KEN,2,Doha (QAT),12 MAY 2006,1140,1500-metres,middlelong,female,u18
+63,4:08.21,,Mary CAIN,03 MAY 1996,USA,5h1,"Luzhniki Stadion, Moskva (RUS)",11 AUG 2013,1140,1500-metres,middlelong,female,u18
+65,4:08.22,,Saron BERHE,22 AUG 2007,ETH,2,"Gallur, Madrid (ESP) (i)",23 FEB 2024,1162,1500-metres,middlelong,female,u18
+66,4:08.28,,Senbere TEFERI,03 MAY 1995,ETH,3,"Estadio Olímpico, Barcelona (ESP)",15 JUL 2012,1140,1500-metres,middlelong,female,u18
+67,4:08.29,,Yuying CUI,18 MAR 1980,CHN,h,Shanghai (CHN),17 OCT 1997,1140,1500-metres,middlelong,female,u18
+67,4:08.29,,Meskerem ASSEFA,03 OCT 1991,ETH,1,Uberlandia (BRA),11 MAY 2008,1140,1500-metres,middlelong,female,u18
+69,4:08.34,,Gudaf TSEGAY,23 JAN 1997,ETH,12,"Olympiastadion, Stockholm (SWE)",21 AUG 2014,1139,1500-metres,middlelong,female,u18
+70,4:08.35,,Elsabet AMARE,23 FEB 2009,ETH,1,"Stade Gouled, Djibouti (DJI)",11 APR 2025,1139,1500-metres,middlelong,female,u18
+71,4:08.39,,Azmera GEBRU,31 OCT 1995,ETH,3,"Stade Raymond Petit, Tomblaine (FRA)",08 JUL 2012,1139,1500-metres,middlelong,female,u18
+71,4:08.39,,Mebriht MEKONEN,12 FEB 2005,ETH,4,"Pascual Guerrero Stadium, Cali (COL)",06 AUG 2022,1139,1500-metres,middlelong,female,u18
+73,4:08.43,,Fantu WORKU,29 MAR 1999,ETH,2,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",24 JUL 2016,1139,1500-metres,middlelong,female,u18
+74,4:08.47,,Gudaf TSEGAY,23 JAN 1997,ETH,2,"Globe Arena, Stockholm (SWE) (i)",06 FEB 2014,1160,1500-metres,middlelong,female,u18
+75,4:08.50,,Emebet ETAA BEDADA,11 JAN 1990,ETH,3,Villeneuve d'Ascq (FRA),08 JUN 2007,1138,1500-metres,middlelong,female,u18
+76,4:08.52,,Sumei TAO,08 JUN 1980,CHN,h,Shanghai (CHN),17 OCT 1997,1138,1500-metres,middlelong,female,u18
+77,4:08.61,,Meskerem ASSEFA,03 OCT 1991,ETH,7,Rabat (MAR),14 JUN 2008,1137,1500-metres,middlelong,female,u18
+77,4:08.61,,Kokeb TESFAYE,05 MAY 1997,ETH,2f1,Kortrijk (BEL),12 JUL 2014,1137,1500-metres,middlelong,female,u18
+79,4:08.63,,Abebech NEGUSSIE,27 MAY 1983,ETH,2,Ostrava (CZE),01 JUN 2000,1137,1500-metres,middlelong,female,u18
+80,4:08.73,,Tizita BOGALE,13 JUL 1993,ETH,2,Huelva (ESP),09 JUN 2010,1136,1500-metres,middlelong,female,u18
+81,4:08.76,,Meskerem ASSEFA,03 OCT 1991,ETH,1,Fortaleza (BRA),14 MAY 2008,1136,1500-metres,middlelong,female,u18
+82,4:08.79,,Jackline MARANGA,16 DEC 1977,KEN,2,"Olympic Stadium, Seoul (KOR)",20 SEP 1992,1136,1500-metres,middlelong,female,u18
+83,4:08.91,,Georgie CLARKE,17 JUN 1984,AUS,2,Sydney (AUS),16 FEB 2001,1135,1500-metres,middlelong,female,u18
+84,4:08.97,,Wubrist ASCHAL,10 MAR 2005,ETH,8,"Moi International Sports Centre, Kasarani, Nairobi (KEN)",18 SEP 2021,1134,1500-metres,middlelong,female,u18
+84,4:08.97,,Elsabet AMARE,23 FEB 2009,ETH,6,"Suhaim bin Hamad Stadium, Doha (QAT)",16 MAY 2025,1134,1500-metres,middlelong,female,u18
+86,4:09.00,,Dawit SEYAUM,27 JUL 1996,ETH,1,Réduit (MRI),01 SEP 2013,1134,1500-metres,middlelong,female,u18
+86,4:09.00,,Kokeb TESFAYE,05 MAY 1997,ETH,1f1,Oordegem (BEL),05 JUL 2014,1134,1500-metres,middlelong,female,u18
+88,4:09.04,,Ying LI,24 JUN 1975,CHN,3,"Olympic Stadium, Seoul (KOR)",20 SEP 1992,1134,1500-metres,middlelong,female,u18
+88,4:09.04,,Meskerem ASSEFA,03 OCT 1991,ETH,5,Villeneuve d'Ascq (FRA),08 JUN 2007,1134,1500-metres,middlelong,female,u18
+90,4:09.22,,Mebriht MEKONEN,12 FEB 2005,ETH,1,"Stadio G. Teghil, Lignano Sabbiadoro (ITA)",03 JUL 2021,1133,1500-metres,middlelong,female,u18
+91,4:09.24,,Tsiyon ABEBE,17 AUG 2006,ETH,15,"Mestský Stadion, Ostrava (CZE)",27 JUN 2023,1132,1500-metres,middlelong,female,u18
+92,4:09.25,,Sarah HEALY,13 FEB 2001,IRL,11f1,"SV 03 Stadion, Tübingen (GER)",16 JUN 2018,1132,1500-metres,middlelong,female,u18
+93,4:09.37,,Cleopatra PALACIAN,03 JAN 1968,ROU,5,Bucureşti (ROU),12 JUL 1984,1131,1500-metres,middlelong,female,u18
+94,4:09.46,,Chunmei WANG,10 APR 1976,CHN,7h2,Beijing (CHN),10 SEP 1993,1131,1500-metres,middlelong,female,u18
+95,4:09.48,,Huan WANG,1991,CHN,1,Jinzhou (CHN),02 SEP 2006,1130,1500-metres,middlelong,female,u18
+95,4:09.48,,Faith KIPYEGON,10 JAN 1994,KEN,1,Lille (FRA),09 JUL 2011,1130,1500-metres,middlelong,female,u18
+97,4:09.51,,Glenda REISER,16 JUN 1955,CAN,7sf1,"Olympiastadion, München (GER)",07 SEP 1972,1130,1500-metres,middlelong,female,u18
+98,4:09.62,,Saron BERHE,22 AUG 2007,ETH,13,"Suhaim bin Hamad Stadium, Doha (QAT)",10 MAY 2024,1129,1500-metres,middlelong,female,u18
+99,4:09.77,,Mary CAIN,03 MAY 1996,USA,5,"Olympic Stadium, London (GBR)",26 JUL 2013,1128,1500-metres,middlelong,female,u18
+100,4:09.80,,Senbere TEFERI,03 MAY 1995,ETH,2f1,Kessel-Lo (BEL),13 AUG 2011,1128,1500-metres,middlelong,female,u18
+100,4:09.80,,Wilma Bekkemoen TORBIÖRNSSON,31 MAY 2007,NOR,2,"Bislett Stadion, Oslo (NOR)",27 AUG 2024,1128,1500-metres,middlelong,female,u18
+102,4:09.81,,Tirhas GEBREHIWET,21 FEB 2007,ETH,3,"Stadio Zecchini, Grosseto (ITA)",27 MAY 2023,1128,1500-metres,middlelong,female,u18
+103,4:09.82,,Mebriht MEKONEN,12 FEB 2005,ETH,,"Boudewijnstadion, Bruxelles (BEL)",03 SEP 2021,1128,1500-metres,middlelong,female,u18
+104,4:09.83,,Meskerem ASSEFA,03 OCT 1991,ETH,4,Algiers (ALG),22 JUL 2007,1128,1500-metres,middlelong,female,u18
+105,4:09.90,,Nancy CHEROP,06 APR 2006,KEN,6,"Nyayo National Stadium, Nairobi (KEN)",24 JUN 2023,1127,1500-metres,middlelong,female,u18
+106,4:09.93,,Jess JUDD,07 JAN 1995,GBR,5,"Estadio Olímpico, Barcelona (ESP)",15 JUL 2012,1127,1500-metres,middlelong,female,u18

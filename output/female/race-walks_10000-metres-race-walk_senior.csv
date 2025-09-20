@@ -58,175 +58,178 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 57,42:55.35,,Elisa RIGAUDO,17 JUN 1980,ITA,,Rieti (ITA),13 JUN 2015,1160,10000-metres-race-walk,race-walks,female,senior
 58,42:55.38,,Yingzi CUI,26 JAN 1971,CHN,1,Tangshan (CHN),27 SEP 1991,1160,10000-metres-race-walk,race-walks,female,senior
 59,42:55.49,,Annarita SIDOTI,25 JUL 1969,ITA,1,"Olympic Stadium, Athina (GRE)",07 AUG 1997,1160,10000-metres-race-walk,race-walks,female,senior
-60,42:55.85,,Despina ZAPOUNIDOU,05 OCT 1985,GRE,1,Drama (GRE),23 APR 2016,1160,10000-metres-race-walk,race-walks,female,senior
-61,42:56.09,,Hongmiao GAO,17 MAR 1974,CHN,2,Tangshan (CHN),27 SEP 1991,1159,10000-metres-race-walk,race-walks,female,senior
-62,42:56.74,,Viktória MADARÁSZ,12 MAY 1985,HUN,1,Budapest (HUN),03 SEP 2017,1159,10000-metres-race-walk,race-walks,female,senior
-63,42:56.9h,,Rossella GIORDANO,01 DEC 1972,ITA,1,Castelnovo Monti (ITA),31 MAR 1996,1159,10000-metres-race-walk,race-walks,female,senior
-64,42:56.97,,Kimberly GARCÍA LEÓN,19 OCT 1993,PER,2,Trujillo (PER),25 AUG 2018,1159,10000-metres-race-walk,race-walks,female,senior
-65,42:57.92,,Kerry SAXBY,02 JUN 1961,AUS,1,Sydney (AUS),07 JAN 1990,1158,10000-metres-race-walk,race-walks,female,senior
-66,42:57.93,,Pauline STEY,09 SEP 2001,FRA,2,"Stade Pierre Paul Bernard, Talence (FRA)",01 AUG 2025,1158,10000-metres-race-walk,race-walks,female,senior
-67,42:58.1h,,Madelein SVENSSON,20 JUL 1969,SWE,1,Örnsköldsvik (SWE),04 JUL 1992,1158,10000-metres-race-walk,race-walks,female,senior
-67,42:58.1h,,Sari ESSAYAH,21 FEB 1967,FIN,1,Brunflo (SWE),04 JUL 1993,1158,10000-metres-race-walk,race-walks,female,senior
-69,42:59.48,,Yelena LASHMANOVA,09 APR 1992,RUS,1,"Kadrioru staadion, Tallinn (EST)",21 JUL 2011,1157,10000-metres-race-walk,race-walks,female,senior
-70,43:00.01,,Elizabeth MCMILLEN,10 APR 2004,AUS,1,"The Crest Athletics Centre, Bankstown, Sydney (AUS)",21 NOV 2024,1157,10000-metres-race-walk,race-walks,female,senior
-71,43:01.0h,,Wang YAN,02 MAY 1971,CHN,1,Shenzhen (CHN),21 FEB 1993,1156,10000-metres-race-walk,race-walks,female,senior
-72,43:01.6h,,Anne-Marie JUDKINS,01 MAR 1964,NZL,2,Örnsköldsvik (SWE),04 JUL 1992,1156,10000-metres-race-walk,race-walks,female,senior
-72,43:01.60,,Mayumi KAWASAKI,10 MAY 1980,JPN,1,Niigata (JPN),25 SEP 2010,1156,10000-metres-race-walk,race-walks,female,senior
-74,43:02.04,,María VASCO,26 DEC 1975,ESP,1,Valencia (ESP),21 JUL 2001,1156,10000-metres-race-walk,race-walks,female,senior
-75,43:02.4h,,Ileana SALVADOR,16 JAN 1962,ITA,1,Santhià (ITA),18 APR 1992,1156,10000-metres-race-walk,race-walks,female,senior
-76,43:02.97,,Jemima MONTAG,15 FEB 1998,AUS,1,"SOPAC, Sydney (AUS)",30 MAR 2022,1155,10000-metres-race-walk,race-walks,female,senior
-77,43:03.66,,Reykhan KAGRAMANOVA,01 JUN 1997,RUS,1,"Regional Sport Complex, Brest (BLR)",12 JUL 2025,1155,10000-metres-race-walk,race-walks,female,senior
-78,43:05.6h,,Madelein SVENSSON,20 JUL 1969,SWE,2,Brunflo (SWE),04 JUL 1993,1154,10000-metres-race-walk,race-walks,female,senior
-79,43:05.7h,,Jemima MONTAG,15 FEB 1998,AUS,1,"AIS Athletics Track, Canberra (AUS)",15 JAN 2022,1154,10000-metres-race-walk,race-walks,female,senior
-80,43:05.97,,Elvira NOVOSELTSEVA,10 JAN 2000,RUS,2,"Regional Sport Complex, Brest (BLR)",12 JUL 2025,1153,10000-metres-race-walk,race-walks,female,senior
-81,43:07.62,,Mayumi KAWASAKI,10 MAY 1980,JPN,1,Niigata (JPN),05 OCT 2009,1152,10000-metres-race-walk,race-walks,female,senior
-82,43:08.0h,,Ileana SALVADOR,16 JAN 1962,ITA,1,Torino (ITA),04 APR 1993,1152,10000-metres-race-walk,race-walks,female,senior
-83,43:08.17,,Ana CABECINHA,29 APR 1984,POR,1,Seixal (POR),19 JUL 2008,1152,10000-metres-race-walk,race-walks,female,senior
-84,43:08.4h,,Nadezhda RYASHKINA,22 JAN 1967,URS,1,Fana (NOR),28 APR 1989,1152,10000-metres-race-walk,race-walks,female,senior
-85,43:08.91,,Elvira CHEPAREVA,10 JAN 2000,ANA,2,"Olympic Stadium, Cheboksary (RUS)",02 AUG 2022,1152,10000-metres-race-walk,race-walks,female,senior
-86,43:09.40,,Yiaoling FAN,14 MAY 1971,CHN,7,Jinan (CHN),15 MAR 1992,1151,10000-metres-race-walk,race-walks,female,senior
-87,43:10.4h,,Qinghua ZHANG,06 MAR 1973,CHN,8,Jinan (CHN),15 MAR 1992,1151,10000-metres-race-walk,race-walks,female,senior
-88,43:10.95,,Júlia TAKÁCS,29 JUN 1989,ESP,1,São Paulo (BRA),01 AUG 2014,1150,10000-metres-race-walk,race-walks,female,senior
-89,43:11.09,,Olivia SANDERY,22 JAN 2003,AUS,2,"The Crest Athletics Centre, Bankstown, Sydney (AUS)",21 NOV 2024,1150,10000-metres-race-walk,race-walks,female,senior
-90,43:11.34,,Vera SOKOLOVA,23 JUN 1987,RUS,1,"S. Darius & S. Girėnas Stadium, Kaunas (LTU)",24 JUL 2005,1150,10000-metres-race-walk,race-walks,female,senior
-91,43:11.40,,Xiaolan ZHOU,01 JUL 1972,CHN,9,Jinan (CHN),15 MAR 1992,1150,10000-metres-race-walk,race-walks,female,senior
-92,43:13.0h,,Anna TERLYUKEVICH,15 AUG 1987,BLR,1,"RTSOP Arena, Minsk (BLR) (i)",22 JAN 2022,1149,10000-metres-race-walk,race-walks,female,senior
-92,43:13.00,,Viktoryia BARTASH,23 MAY 1995,BLR,1,"Olimpiyets, Mogilyov (BLR) (i)",14 FEB 2025,1149,10000-metres-race-walk,race-walks,female,senior
-94,43:13.5h,,Tamara KOVALENKO,05 JUN 1964,URS,1,Bryansk (URS),09 SEP 1989,1149,10000-metres-race-walk,race-walks,female,senior
-95,43:14.45,,Beatriz PASCUAL,09 MAY 1982,ESP,1,Santa Cruz de Tenerife (ESP),26 JUL 2008,1148,10000-metres-race-walk,race-walks,female,senior
-95,43:14.45,,Elvira CHEPAREVA,10 JAN 2000,RUS,1,"Yelena Yelesina Stadium, Chelyabinsk (RUS)",03 AUG 2023,1148,10000-metres-race-walk,race-walks,female,senior
-97,43:14.78,,Jemima MONTAG,15 FEB 1998,AUS,1,"AIS Athletics Track, Canberra (AUS)",27 JAN 2024,1148,10000-metres-race-walk,race-walks,female,senior
-98,43:15.1h,,Yan GU,17 MAR 1974,CHN,10,Jinan (CHN),15 MAR 1992,1148,10000-metres-race-walk,race-walks,female,senior
-99,43:15.15,,Ana DELAHAIE,13 MAY 2004,FRA,3,"Stade Pierre Paul Bernard, Talence (FRA)",01 AUG 2025,1148,10000-metres-race-walk,race-walks,female,senior
-100,43:15.43,,Kumi OTOSHI,29 JUL 1985,JPN,1,Naruto (JPN),24 SEP 2011,1148,10000-metres-race-walk,race-walks,female,senior
-101,43:15.60,,Bingjie JIN,03 JUN 1971,CHN,1,Anshan (CHN),04 SEP 1989,1148,10000-metres-race-walk,race-walks,female,senior
-102,43:16.76,,Laura GARCÍA-CARO,16 APR 1995,ESP,1,"Estadio Enrique Lopez Cuenca, Nerja (ESP)",24 JUN 2022,1147,10000-metres-race-walk,race-walks,female,senior
-103,43:18.00,,Hong LI,01 JUN 1979,CHN,1,Nanjing (CHN),28 APR 1996,1146,10000-metres-race-walk,race-walks,female,senior
-104,43:18.05,,Federica CURIAZZI,14 AUG 1992,ITA,1,"Campo Mauro Ferrari, Prato (ITA)",13 APR 2025,1146,10000-metres-race-walk,race-walks,female,senior
-105,43:18.60,,Anna TERLYUKEVICH,15 AUG 1987,BLR,3,"Regional Sport Complex, Brest (BLR)",12 JUL 2025,1146,10000-metres-race-walk,race-walks,female,senior
-106,43:18.72,,Ana CABECINHA,29 APR 1984,POR,1,Vagos (POR),10 JUN 2017,1146,10000-metres-race-walk,race-walks,female,senior
-107,43:18.97,,Beatriz PASCUAL,09 MAY 1982,ESP,1,Pamplona (ESP),25 AUG 2012,1146,10000-metres-race-walk,race-walks,female,senior
-108,43:18.99,,Viktória MADARÁSZ,12 MAY 1985,HUN,1,Debrecen (HUN),05 SEP 2015,1146,10000-metres-race-walk,race-walks,female,senior
-109,43:19.12,,Ana CABECINHA,29 APR 1984,POR,1,Leiria (POR),25 JUL 2015,1146,10000-metres-race-walk,race-walks,female,senior
-110,43:19.3h,,Inês HENRIQUES,01 MAY 1980,POR,1,Leiria (POR),07 JUL 2018,1145,10000-metres-race-walk,race-walks,female,senior
-111,43:20.38,,Valentina TRAPLETTI,12 JUL 1985,ITA,1f1,"Campo Sportivo Putti, Bergamo (ITA)",18 APR 2021,1145,10000-metres-race-walk,race-walks,female,senior
-112,43:20.65,,Katie HAYWARD,23 JUL 2000,AUS,1,Sydney (AUS),05 APR 2019,1145,10000-metres-race-walk,race-walks,female,senior
-113,43:21.1h,,Kjersti TYSSE-PLÄTZER,18 JAN 1972,NOR,1,Kristiansand (NOR),18 AUG 2000,1144,10000-metres-race-walk,race-walks,female,senior
-114,43:21.9h,,Kerry SAXBY-JUNNA,02 JUN 1961,AUS,1,Canberra (AUS),03 DEC 1995,1144,10000-metres-race-walk,race-walks,female,senior
-114,43:21.90,,Mayumi KAWASAKI,10 MAY 1980,JPN,1,Okayama (JPN),26 SEP 2009,1144,10000-metres-race-walk,race-walks,female,senior
-116,43:22.20,,Sun YAN,04 MAY 1973,CHN,11,Jinan (CHN),15 MAR 1992,1144,10000-metres-race-walk,race-walks,female,senior
-117,43:22.86,,Kimberly GARCÍA LEÓN,19 OCT 1993,PER,1,"Estadio Atlético de la VIDENA, Lima (PER)",13 NOV 2021,1143,10000-metres-race-walk,race-walks,female,senior
-118,43:24.00,,Masumi FUCHISE,02 SEP 1986,JPN,2,Naruto (JPN),24 SEP 2011,1143,10000-metres-race-walk,race-walks,female,senior
-119,43:24.22,,Kumi OTOSHI,29 JUL 1985,JPN,2,Niigata (JPN),25 SEP 2010,1142,10000-metres-race-walk,race-walks,female,senior
-120,43:24.67,,Jemima MONTAG,15 FEB 1998,AUS,1,"AIS Athletics Track, Canberra (AUS)",26 JAN 2025,1142,10000-metres-race-walk,race-walks,female,senior
-121,43:24.72,,Tatyana MINEYEVA,10 AUG 1990,RUS,1,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",09 JUL 2008,1142,10000-metres-race-walk,race-walks,female,senior
-122,43:25.43,,Mariia SAKHARUK,14 OCT 1995,UKR,2,"Miesto Stadionas, Alytus (LTU)",20 SEP 2024,1142,10000-metres-race-walk,race-walks,female,senior
-123,43:26.12,,Kerry SAXBY,02 JUN 1961,AUS,1,Canberra (AUS),26 JAN 1989,1141,10000-metres-race-walk,race-walks,female,senior
-124,43:26.18,,María Graciela MENDOZA,23 MAR 1963,MEX,1,Hull (GBR),08 OCT 1989,1141,10000-metres-race-walk,race-walks,female,senior
-125,43:26.60,,Zhuoma BAIMA,20 MAY 2005,CHN,1,"Estadio Atlético de la VIDENA, Lima (PER)",30 AUG 2024,1141,10000-metres-race-walk,race-walks,female,senior
-126,43:27.20,,Anisiya KORNIKOVA-KIRDYAPKINA,23 OCT 1989,RUS,1,"FBK Stadium, Hengelo (NED)",19 JUL 2007,1141,10000-metres-race-walk,race-walks,female,senior
-127,43:27.48,,Lorena ARENAS,17 SEP 1993,COL,2,"AIS Athletics Track, Canberra (AUS)",27 JAN 2024,1141,10000-metres-race-walk,race-walks,female,senior
-128,43:27.53,,Quanming WU,16 NOV 2001,CHN,1,"Campo Mauro Ferrari, Prato (ITA)",16 APR 2023,1140,10000-metres-race-walk,race-walks,female,senior
-129,43:27.6h,,Elisabetta PERRONE,09 JUL 1968,ITA,1,Fana (NOR),07 MAY 1994,1140,10000-metres-race-walk,race-walks,female,senior
-130,43:29.19,,Antia CHAMOSA,07 OCT 1999,ESP,2,"Estadi Natalia Rodríguez, Tarragona (ESP)",02 AUG 2025,1139,10000-metres-race-walk,race-walks,female,senior
-131,43:29.3h,,Kerry SAXBY,02 JUN 1961,AUS,1,Melbourne (AUS),26 OCT 1989,1139,10000-metres-race-walk,race-walks,female,senior
-132,43:29.51,,Ana CABECINHA,29 APR 1984,POR,1,Leiria (POR),17 JUL 2010,1139,10000-metres-race-walk,race-walks,female,senior
-133,43:29.57,,Ana CABECINHA,29 APR 1984,POR,1,Maia (POR),25 JUN 2016,1139,10000-metres-race-walk,race-walks,female,senior
-134,43:29.59,,Evelyn INGA,16 APR 1998,PER,1,"Estadio Atlético de la VIDENA, Lima (PER)",16 JUN 2024,1139,10000-metres-race-walk,race-walks,female,senior
-135,43:30.15,,Hong LIU,12 MAY 1987,CHN,1,Mondovi (ITA),12 JUN 2011,1139,10000-metres-race-walk,race-walks,female,senior
-136,43:30.20,,Olga KARDOPOLTSEVA,11 SEP 1966,BLR,2,"Olympic Stadium, Athina (GRE)",07 AUG 1997,1139,10000-metres-race-walk,race-walks,female,senior
-137,43:30.22,,Encarna GRANADOS,30 JAN 1972,ESP,1,Barcelona (ESP),02 SEP 2000,1139,10000-metres-race-walk,race-walks,female,senior
-138,43:31.21,,Ana CABECINHA,29 APR 1984,POR,1,San Fernando (ESP),04 JUN 2010,1138,10000-metres-race-walk,race-walks,female,senior
-138,43:31.21,,Raquel GONZÁLEZ,16 NOV 1989,ESP,2,Alcobendas (ESP),26 JUL 2014,1138,10000-metres-race-walk,race-walks,female,senior
-140,43:31.29,,Inês HENRIQUES,01 MAY 1980,POR,1,Leiria (POR),27 JUL 2013,1138,10000-metres-race-walk,race-walks,female,senior
-141,43:32.05,,Rimma MAKAROVA,18 JUL 1963,RUS,1,St. Petersburg (RUS),29 JUL 1995,1138,10000-metres-race-walk,race-walks,female,senior
-141,43:32.05,,Vitória OLIVEIRA,30 AUG 1992,POR,1,"Estádio 1o de Maio, Braga (POR)",29 JUL 2023,1138,10000-metres-race-walk,race-walks,female,senior
-143,43:32.21,,Elisa RIGAUDO,17 JUN 1980,ITA,2,Mondovi (ITA),12 JUN 2011,1138,10000-metres-race-walk,race-walks,female,senior
-144,43:33.16,,Anna TERLYUKEVICH,15 AUG 1987,BLR,1,"Olimpiyets Arena, Mogilyov (BLR) (i)",21 FEB 2020,1137,10000-metres-race-walk,race-walks,female,senior
-145,43:33.72,,Laura GARCÍA-CARO,16 APR 1995,ESP,1,La Nucia (ESP),21 MAY 2022,1137,10000-metres-race-walk,race-walks,female,senior
-146,43:33.75,,María José POVES,16 MAR 1978,ESP,2,Alcobendas (ESP),27 JUL 2013,1137,10000-metres-race-walk,race-walks,female,senior
-147,43:34.93,,María VASCO,26 DEC 1975,ESP,2,Santa Cruz de Tenerife (ESP),26 JUL 2008,1136,10000-metres-race-walk,race-walks,female,senior
-148,43:35.2h,,Lyudmila YEFIMKINA,22 AUG 1981,RUS,1,Moskva (RUS),20 MAY 2000,1136,10000-metres-race-walk,race-walks,female,senior
-149,43:35.50,,Júlia TAKÁCS,29 JUN 1989,ESP,2,San Fernando (ESP),04 JUN 2010,1136,10000-metres-race-walk,race-walks,female,senior
-150,43:35.52,,Clémence BERETTA,22 DEC 1997,FRA,3,"AIS Athletics Track, Canberra (AUS)",27 JAN 2024,1136,10000-metres-race-walk,race-walks,female,senior
-151,43:35.74,,Jemima MONTAG,15 FEB 1998,AUS,1,"AIS Athletics Track, Canberra (AUS)",06 JAN 2023,1136,10000-metres-race-walk,race-walks,female,senior
-152,43:36.41,,Yelena NIKOLAYEVA,01 FEB 1966,URS,1,Kiev (URS),30 JUL 1988,1135,10000-metres-race-walk,race-walks,female,senior
-153,43:36.5h,,Yelena NIKOLAYEVA,01 FEB 1966,URS,1,Fana (NOR),07 MAY 1988,1135,10000-metres-race-walk,race-walks,female,senior
-154,43:36.88,,Klavdiya AFANASYEVA,15 JAN 1996,RUS,1,"Ekängens Friidrottsarena, Eskilstuna (SWE)",16 JUL 2015,1135,10000-metres-race-walk,race-walks,female,senior
-155,43:37.27,,Ana CABECINHA,29 APR 1984,POR,2,"Estádio 1o de Maio, Braga (POR)",29 JUL 2023,1135,10000-metres-race-walk,race-walks,female,senior
-156,43:37.91,,Ana CABECINHA,29 APR 1984,POR,1,Lisboa (POR),07 JUL 2012,1134,10000-metres-race-walk,race-walks,female,senior
-157,43:37.95,,Raquel GONZÁLEZ,16 NOV 1989,ESP,1,Getafe (ESP),21 JUL 2018,1134,10000-metres-race-walk,race-walks,female,senior
-158,43:38.64,,Inês HENRIQUES,01 MAY 1980,POR,2,Leiria (POR),17 JUL 2010,1134,10000-metres-race-walk,race-walks,female,senior
-159,43:38.83,,PRIYANKA,10 MAR 1996,IND,2,"Alexander Stadium, Birmingham (GBR)",06 AUG 2022,1134,10000-metres-race-walk,race-walks,female,senior
-160,43:39.10,,Lijuan XU,1972,CHN,12,Jinan (CHN),15 MAR 1992,1134,10000-metres-race-walk,race-walks,female,senior
-161,43:39.27,,Alina YUSHCHANKA,29 JUL 1990,BLR,1,"RTSOP, Minsk (BLR)",29 JUL 2022,1133,10000-metres-race-walk,race-walks,female,senior
-162,43:39.42,,Beatriz PASCUAL,09 MAY 1982,ESP,3,Alcobendas (ESP),27 JUL 2013,1133,10000-metres-race-walk,race-walks,female,senior
-163,43:40.45,,Nadezhda SERGEYEVA,12 MAR 1994,ANA,3,"Olympic Stadium, Cheboksary (RUS)",02 AUG 2022,1133,10000-metres-race-walk,race-walks,female,senior
-164,43:40.68,,Inês HENRIQUES,01 MAY 1980,POR,2,Leiria (POR),25 JUL 2015,1133,10000-metres-race-walk,race-walks,female,senior
-165,43:41.0h,,Yelena LASHMANOVA,09 APR 1992,RUS,2,Sochi (RUS),27 FEB 2011,1132,10000-metres-race-walk,race-walks,female,senior
-166,43:41.1h,,Yevdokiya KOROTKOVA,28 FEB 1979,RUS,1,Buy (RUS),21 SEP 2008,1132,10000-metres-race-walk,race-walks,female,senior
-167,43:41.30,,Erica SENA,03 MAY 1985,BRA,2,São Paulo (BRA),01 AUG 2014,1132,10000-metres-race-walk,race-walks,female,senior
-168,43:41.50,,Kimberly GARCÍA LEÓN,19 OCT 1993,PER,2,La Nucia (ESP),21 MAY 2022,1132,10000-metres-race-walk,race-walks,female,senior
-169,43:41.51,,Lorena ARENAS,17 SEP 1993,COL,1,Canberra (AUS),28 JAN 2019,1132,10000-metres-race-walk,race-walks,female,senior
-170,43:41.70,,Claudia IOVAN,25 FEB 1978,ROU,1,Bucureşti (ROU),24 MAY 1997,1132,10000-metres-race-walk,race-walks,female,senior
-171,43:42.04,,María PÉREZ,29 APR 1996,ESP,1,"Polideportivo Juan de la Cierva, Getafe (ESP)",26 JUN 2021,1132,10000-metres-race-walk,race-walks,female,senior
-172,43:42.80,,Se JUAN,,CHN,13,Jinan (CHN),15 MAR 1992,1131,10000-metres-race-walk,race-walks,female,senior
-173,43:42.84,,Klavdiya AFANASYEVA,15 JAN 1996,RUS,4,"Olympic Stadium, Cheboksary (RUS)",02 AUG 2022,1131,10000-metres-race-walk,race-walks,female,senior
-174,43:44.1h,,Kristina LYUBUSHKINA,19 SEP 1995,RUS,3,"Football and athletics Arena, Saransk (RUS) (i)",24 SEP 2023,1131,10000-metres-race-walk,race-walks,female,senior
-175,43:44.96,,Elisa RIGAUDO,17 JUN 1980,ITA,1,Milano (ITA),26 JUL 2013,1130,10000-metres-race-walk,race-walks,female,senior
-176,43:45.16,,Elmira ALEMBEKOVA,30 JUN 1990,RUS,2,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",09 JUL 2008,1130,10000-metres-race-walk,race-walks,female,senior
-177,43:45.2h,,Tatyana KOROTKOVA,24 APR 1980,RUS,2,Buy (RUS),21 SEP 2008,1130,10000-metres-race-walk,race-walks,female,senior
-177,43:45.2h,,Jemima MONTAG,15 FEB 1998,AUS,1,"George Knott Track, Collingwood, Melbourne (AUS)",10 JAN 2021,1130,10000-metres-race-walk,race-walks,female,senior
-179,43:46.01,,Jemima MONTAG,15 FEB 1998,AUS,1,"AIS Athletics Track, Canberra (AUS)",02 FEB 2023,1129,10000-metres-race-walk,race-walks,female,senior
-180,43:46.05,,Katie HAYWARD,23 JUL 2000,AUS,1,"SOPAC, Sydney (AUS)",15 APR 2021,1129,10000-metres-race-walk,race-walks,female,senior
-181,43:46.06,,Inês HENRIQUES,01 MAY 1980,POR,2,Vagos (POR),10 JUN 2017,1129,10000-metres-race-walk,race-walks,female,senior
-182,43:46.50,,Olena SOBCHUK,23 NOV 1995,UKR,1,"Avangard Stadium, Lutsk (UKR)",25 JUN 2022,1129,10000-metres-race-walk,race-walks,female,senior
-183,43:46.70,,Liying TANG,1963,CHN,1,Jinan (CHN),15 FEB 1992,1129,10000-metres-race-walk,race-walks,female,senior
-184,43:47.78,,Elvira CHEPAREVA,10 JAN 2000,RUS,1,"Yelena Yelesina Stadium, Chelyabinsk (RUS)",08 JUL 2023,1128,10000-metres-race-walk,race-walks,female,senior
-185,43:47.84,,Ana CABECINHA,29 APR 1984,POR,1,Lisboa (POR),26 JUL 2014,1128,10000-metres-race-walk,race-walks,female,senior
-186,43:48.08,,Beki SMITH,25 NOV 1986,AUS,1,"SOPAC, Sydney (AUS)",01 APR 2016,1128,10000-metres-race-walk,race-walks,female,senior
-187,43:48.8h,,Alina YUSHCHANKA,29 JUL 1990,BLR,1,"RTSOP, Minsk (BLR)",31 MAY 2022,1128,10000-metres-race-walk,race-walks,female,senior
-188,43:49.24,,Valentina TSYBULSKAYA,19 FEB 1968,BLR,3,"Olympic Stadium, Athina (GRE)",07 AUG 1997,1128,10000-metres-race-walk,race-walks,female,senior
-189,43:49.55,,Alexandrina MIHAI,27 MAY 2003,ITA,1,"Fana Stadion, Bergen (NOR)",19 JUL 2025,1127,10000-metres-race-walk,race-walks,female,senior
-190,43:49.70,,Larisa RAMAZANOVA-KHMELNITSKAYA,23 SEP 1971,BLR,1,Gomel (BLR),23 JUN 1998,1127,10000-metres-race-walk,race-walks,female,senior
-191,43:49.85,,Ayane YANAI,24 DEC 2003,JPN,1,"Municipal Stadium, Kitami (JPN)",06 JUL 2024,1127,10000-metres-race-walk,race-walks,female,senior
-192,43:49.97,,Viktoryia RASHCHUPKINA,23 MAY 1995,BLR,2,"Olimpiyets Arena, Mogilyov (BLR) (i)",21 FEB 2020,1127,10000-metres-race-walk,race-walks,female,senior
-193,43:50.25,,Laura GARCÍA-CARO,16 APR 1995,ESP,2,Getafe (ESP),21 JUL 2018,1127,10000-metres-race-walk,race-walks,female,senior
-194,43:50.84,,Jemima MONTAG,15 FEB 1998,AUS,1,Townsville (AUS),25 JUN 2019,1127,10000-metres-race-walk,race-walks,female,senior
-195,43:50.86,,Emily Wamusyi NGII,13 AUG 1986,KEN,3,"Alexander Stadium, Birmingham (GBR)",06 AUG 2022,1127,10000-metres-race-walk,race-walks,female,senior
-196,43:51.0h,,Svetlana TOLSTAYA,09 AUG 1971,KAZ,1,Almaty (KAZ),17 SEP 1997,1126,10000-metres-race-walk,race-walks,female,senior
-197,43:51.47,,Jemima MONTAG,15 FEB 1998,AUS,2,Sydney (AUS),05 APR 2019,1126,10000-metres-race-walk,race-walks,female,senior
-198,43:51.8h,,Ana CABECINHA,29 APR 1984,POR,2,Leiria (POR),07 JUL 2018,1126,10000-metres-race-walk,race-walks,female,senior
-199,43:51.97,,Yelena NIKOLAYEVA,01 FEB 1966,RUS,1,"Uniondale, NY (USA)",21 JUL 1998,1126,10000-metres-race-walk,race-walks,female,senior
-200,43:51.98,,Antigoni NTRISMPIOTI,21 MAR 1984,GRE,2,"AIS Athletics Track, Canberra (AUS)",06 JAN 2023,1126,10000-metres-race-walk,race-walks,female,senior
-201,43:52.08,,María PÉREZ,29 APR 1996,ESP,1,"Estadi Olímpic Camilo Cano, La Nucia (ESP)",01 SEP 2019,1126,10000-metres-race-walk,race-walks,female,senior
-202,43:52.1h,,Yueling CHEN,01 APR 1968,CHN,1,Zhengzhou (CHN),25 OCT 1987,1126,10000-metres-race-walk,race-walks,female,senior
-203,43:52.39,,Rossella GIORDANO,01 DEC 1972,ITA,1,Rieti (ITA),29 MAR 2009,1126,10000-metres-race-walk,race-walks,female,senior
-204,43:52.70,,Ping ZHU,,CHN,15,Jinan (CHN),15 MAR 1992,1125,10000-metres-race-walk,race-walks,female,senior
-205,43:52.73,,Vera SANTOS,03 DEC 1981,POR,3,Leiria (POR),17 JUL 2010,1125,10000-metres-race-walk,race-walks,female,senior
-206,43:52.80,,Inês HENRIQUES,01 MAY 1980,POR,1,Vagos (POR),15 MAR 2016,1125,10000-metres-race-walk,race-walks,female,senior
-207,43:53.04,,Ana CABECINHA,29 APR 1984,POR,1,"Estádio Dr. Magalhães Pessoa, Leiria (POR)",25 JUN 2022,1125,10000-metres-race-walk,race-walks,female,senior
-208,43:53.45,,Antigoni NTRISMPIOTI,21 MAR 1984,GRE,2,"AIS Athletics Track, Canberra (AUS)",02 FEB 2023,1125,10000-metres-race-walk,race-walks,female,senior
-209,43:53.51,,Mayumi KAWASAKI,10 MAY 1980,JPN,1,Oita (JPN),06 OCT 2008,1125,10000-metres-race-walk,race-walks,female,senior
-210,43:53.65,,Ana CABECINHA,29 APR 1984,POR,2,Leiria (POR),27 JUL 2013,1125,10000-metres-race-walk,race-walks,female,senior
-211,43:53.84,,Lyudmila OLYANOVSKA,20 FEB 1993,UKR,1,"KMSHVSM Arena, Kyiv (UKR) (i)",02 FEB 2024,1125,10000-metres-race-walk,race-walks,female,senior
-212,43:54.05,,Ana CABECINHA,29 APR 1984,POR,1,"Estádio José Vieira de Carvalho, Maia (POR)",26 JUN 2021,1125,10000-metres-race-walk,race-walks,female,senior
-213,43:54.63,,Yelena GINKO,30 JUL 1976,BLR,1,Mogilyov (BLR) (i),22 FEB 2008,1124,10000-metres-race-walk,race-walks,female,senior
-214,43:54.80,,Jemima MONTAG,15 FEB 1998,AUS,1,"SA Athletic Stadium, Adelaide (AUS)",11 APR 2024,1124,10000-metres-race-walk,race-walks,female,senior
-215,43:54.92,,Olivia SANDERY,22 JAN 2003,AUS,2,"AIS Athletics Track, Canberra (AUS)",26 JAN 2025,1124,10000-metres-race-walk,race-walks,female,senior
-216,43:55.05,,Kumiko OKADA,17 OCT 1991,JPN,1,Gifu (JPN),26 SEP 2015,1124,10000-metres-race-walk,race-walks,female,senior
-217,43:55.22,,Kumiko OKADA,17 OCT 1991,JPN,1,Osaka (JPN),22 SEP 2018,1124,10000-metres-race-walk,race-walks,female,senior
-218,43:55.51,,Ana CABECINHA,29 APR 1984,POR,1,Vila Real de Santo António (POR),11 JAN 2015,1124,10000-metres-race-walk,race-walks,female,senior
-219,43:55.70,,Júlia TAKÁCS,29 JUN 1989,ESP,3,Gijón (ESP),23 JUL 2016,1124,10000-metres-race-walk,race-walks,female,senior
-220,43:55.80,,Olga CHOJECKA,30 JUN 1997,POL,1,"Stadion Zygmunta Szelesta, Warszawa (POL)",27 MAR 2024,1124,10000-metres-race-walk,race-walks,female,senior
-221,43:56.80,,Chen YAN,30 JAN 1974,CHN,16,Jinan (CHN),15 MAR 1992,1123,10000-metres-race-walk,race-walks,female,senior
-222,43:56.86,,Hongyu LIU,11 JAN 1975,CHN,4,"Olympic Stadium, Athina (GRE)",07 AUG 1997,1123,10000-metres-race-walk,race-walks,female,senior
-223,43:56.95,,Eleonora Anna GIORGI,14 SEP 1989,ITA,1,Trieste (ITA),30 JUN 2017,1123,10000-metres-race-walk,race-walks,female,senior
-224,43:57.13,,Beatriz PASCUAL,09 MAY 1982,ESP,3,Alcobendas (ESP),26 JUL 2014,1123,10000-metres-race-walk,race-walks,female,senior
-225,43:57.44,,Kimberly GARCÍA LEÓN,19 OCT 1993,PER,3,São Paulo (BRA),01 AUG 2014,1123,10000-metres-race-walk,race-walks,female,senior
-226,43:58.10,,Xiong YAN,01 APR 1967,CHN,2,Xiangtan (CHN),28 FEB 1989,1122,10000-metres-race-walk,race-walks,female,senior
-227,43:58.94,,Tatyana RAGOZINA,03 SEP 1964,UKR,,Kyiv (UKR),02 APR 1992,1122,10000-metres-race-walk,race-walks,female,senior
-228,43:59.08,,Inês HENRIQUES,01 MAY 1980,POR,1,Lisboa (POR),30 JUL 2011,1122,10000-metres-race-walk,race-walks,female,senior
-229,43:59.46,,Jemima MONTAG,15 FEB 1998,AUS,2,Canberra (AUS),28 JAN 2019,1121,10000-metres-race-walk,race-walks,female,senior
-230,43:59.73,,Erica ALFRIDI,22 FEB 1968,ITA,5,"Olympic Stadium, Athina (GRE)",07 AUG 1997,1121,10000-metres-race-walk,race-walks,female,senior
-230,43:59.73,,Inês HENRIQUES,01 MAY 1980,POR,1,Seixal (POR),25 JUL 2009,1121,10000-metres-race-walk,race-walks,female,senior
+60,42:55.59,,Elvira NOVOSELTSEVA,10 JAN 2000,RUS,1,"Central Stadium, Kazan (RUS)",08 AUG 2025,1160,10000-metres-race-walk,race-walks,female,senior
+61,42:55.85,,Despina ZAPOUNIDOU,05 OCT 1985,GRE,1,Drama (GRE),23 APR 2016,1160,10000-metres-race-walk,race-walks,female,senior
+62,42:56.09,,Hongmiao GAO,17 MAR 1974,CHN,2,Tangshan (CHN),27 SEP 1991,1159,10000-metres-race-walk,race-walks,female,senior
+63,42:56.74,,Viktória MADARÁSZ,12 MAY 1985,HUN,1,Budapest (HUN),03 SEP 2017,1159,10000-metres-race-walk,race-walks,female,senior
+64,42:56.9h,,Rossella GIORDANO,01 DEC 1972,ITA,1,Castelnovo Monti (ITA),31 MAR 1996,1159,10000-metres-race-walk,race-walks,female,senior
+65,42:56.97,,Kimberly GARCÍA LEÓN,19 OCT 1993,PER,2,Trujillo (PER),25 AUG 2018,1159,10000-metres-race-walk,race-walks,female,senior
+66,42:57.92,,Kerry SAXBY,02 JUN 1961,AUS,1,Sydney (AUS),07 JAN 1990,1158,10000-metres-race-walk,race-walks,female,senior
+67,42:57.93,,Pauline STEY,09 SEP 2001,FRA,2,"Stade Pierre Paul Bernard, Talence (FRA)",01 AUG 2025,1158,10000-metres-race-walk,race-walks,female,senior
+68,42:58.1h,,Madelein SVENSSON,20 JUL 1969,SWE,1,Örnsköldsvik (SWE),04 JUL 1992,1158,10000-metres-race-walk,race-walks,female,senior
+68,42:58.1h,,Sari ESSAYAH,21 FEB 1967,FIN,1,Brunflo (SWE),04 JUL 1993,1158,10000-metres-race-walk,race-walks,female,senior
+70,42:59.48,,Yelena LASHMANOVA,09 APR 1992,RUS,1,"Kadrioru staadion, Tallinn (EST)",21 JUL 2011,1157,10000-metres-race-walk,race-walks,female,senior
+71,43:00.01,,Elizabeth MCMILLEN,10 APR 2004,AUS,1,"The Crest Athletics Centre, Bankstown, Sydney (AUS)",21 NOV 2024,1157,10000-metres-race-walk,race-walks,female,senior
+72,43:01.0h,,Wang YAN,02 MAY 1971,CHN,1,Shenzhen (CHN),21 FEB 1993,1156,10000-metres-race-walk,race-walks,female,senior
+73,43:01.6h,,Anne-Marie JUDKINS,01 MAR 1964,NZL,2,Örnsköldsvik (SWE),04 JUL 1992,1156,10000-metres-race-walk,race-walks,female,senior
+73,43:01.60,,Mayumi KAWASAKI,10 MAY 1980,JPN,1,Niigata (JPN),25 SEP 2010,1156,10000-metres-race-walk,race-walks,female,senior
+75,43:02.04,,María VASCO,26 DEC 1975,ESP,1,Valencia (ESP),21 JUL 2001,1156,10000-metres-race-walk,race-walks,female,senior
+76,43:02.4h,,Ileana SALVADOR,16 JAN 1962,ITA,1,Santhià (ITA),18 APR 1992,1156,10000-metres-race-walk,race-walks,female,senior
+77,43:02.97,,Jemima MONTAG,15 FEB 1998,AUS,1,"SOPAC, Sydney (AUS)",30 MAR 2022,1155,10000-metres-race-walk,race-walks,female,senior
+78,43:03.66,,Reykhan KAGRAMANOVA,01 JUN 1997,RUS,1,"Regional Sport Complex, Brest (BLR)",12 JUL 2025,1155,10000-metres-race-walk,race-walks,female,senior
+79,43:05.6h,,Madelein SVENSSON,20 JUL 1969,SWE,2,Brunflo (SWE),04 JUL 1993,1154,10000-metres-race-walk,race-walks,female,senior
+80,43:05.7h,,Jemima MONTAG,15 FEB 1998,AUS,1,"AIS Athletics Track, Canberra (AUS)",15 JAN 2022,1154,10000-metres-race-walk,race-walks,female,senior
+81,43:05.97,,Elvira NOVOSELTSEVA,10 JAN 2000,RUS,2,"Regional Sport Complex, Brest (BLR)",12 JUL 2025,1153,10000-metres-race-walk,race-walks,female,senior
+82,43:07.62,,Mayumi KAWASAKI,10 MAY 1980,JPN,1,Niigata (JPN),05 OCT 2009,1152,10000-metres-race-walk,race-walks,female,senior
+83,43:08.0h,,Ileana SALVADOR,16 JAN 1962,ITA,1,Torino (ITA),04 APR 1993,1152,10000-metres-race-walk,race-walks,female,senior
+84,43:08.17,,Ana CABECINHA,29 APR 1984,POR,1,Seixal (POR),19 JUL 2008,1152,10000-metres-race-walk,race-walks,female,senior
+85,43:08.4h,,Nadezhda RYASHKINA,22 JAN 1967,URS,1,Fana (NOR),28 APR 1989,1152,10000-metres-race-walk,race-walks,female,senior
+86,43:08.91,,Elvira CHEPAREVA,10 JAN 2000,ANA,2,"Olympic Stadium, Cheboksary (RUS)",02 AUG 2022,1152,10000-metres-race-walk,race-walks,female,senior
+87,43:09.40,,Yiaoling FAN,14 MAY 1971,CHN,7,Jinan (CHN),15 MAR 1992,1151,10000-metres-race-walk,race-walks,female,senior
+88,43:10.4h,,Qinghua ZHANG,06 MAR 1973,CHN,8,Jinan (CHN),15 MAR 1992,1151,10000-metres-race-walk,race-walks,female,senior
+89,43:10.95,,Júlia TAKÁCS,29 JUN 1989,ESP,1,São Paulo (BRA),01 AUG 2014,1150,10000-metres-race-walk,race-walks,female,senior
+90,43:11.09,,Olivia SANDERY,22 JAN 2003,AUS,2,"The Crest Athletics Centre, Bankstown, Sydney (AUS)",21 NOV 2024,1150,10000-metres-race-walk,race-walks,female,senior
+91,43:11.34,,Vera SOKOLOVA,23 JUN 1987,RUS,1,"S. Darius & S. Girėnas Stadium, Kaunas (LTU)",24 JUL 2005,1150,10000-metres-race-walk,race-walks,female,senior
+92,43:11.40,,Xiaolan ZHOU,01 JUL 1972,CHN,9,Jinan (CHN),15 MAR 1992,1150,10000-metres-race-walk,race-walks,female,senior
+93,43:13.0h,,Anna TERLYUKEVICH,15 AUG 1987,BLR,1,"RTSOP Arena, Minsk (BLR) (i)",22 JAN 2022,1149,10000-metres-race-walk,race-walks,female,senior
+93,43:13.00,,Viktoryia BARTASH,23 MAY 1995,BLR,1,"Olimpiyets, Mogilyov (BLR) (i)",14 FEB 2025,1149,10000-metres-race-walk,race-walks,female,senior
+95,43:13.5h,,Tamara KOVALENKO,05 JUN 1964,URS,1,Bryansk (URS),09 SEP 1989,1149,10000-metres-race-walk,race-walks,female,senior
+96,43:14.45,,Beatriz PASCUAL,09 MAY 1982,ESP,1,Santa Cruz de Tenerife (ESP),26 JUL 2008,1148,10000-metres-race-walk,race-walks,female,senior
+96,43:14.45,,Elvira CHEPAREVA,10 JAN 2000,RUS,1,"Yelena Yelesina Stadium, Chelyabinsk (RUS)",03 AUG 2023,1148,10000-metres-race-walk,race-walks,female,senior
+98,43:14.78,,Jemima MONTAG,15 FEB 1998,AUS,1,"AIS Athletics Track, Canberra (AUS)",27 JAN 2024,1148,10000-metres-race-walk,race-walks,female,senior
+99,43:15.1h,,Yan GU,17 MAR 1974,CHN,10,Jinan (CHN),15 MAR 1992,1148,10000-metres-race-walk,race-walks,female,senior
+100,43:15.15,,Ana DELAHAIE,13 MAY 2004,FRA,3,"Stade Pierre Paul Bernard, Talence (FRA)",01 AUG 2025,1148,10000-metres-race-walk,race-walks,female,senior
+101,43:15.43,,Kumi OTOSHI,29 JUL 1985,JPN,1,Naruto (JPN),24 SEP 2011,1148,10000-metres-race-walk,race-walks,female,senior
+102,43:15.60,,Bingjie JIN,03 JUN 1971,CHN,1,Anshan (CHN),04 SEP 1989,1148,10000-metres-race-walk,race-walks,female,senior
+103,43:16.76,,Laura GARCÍA-CARO,16 APR 1995,ESP,1,"Estadio Enrique Lopez Cuenca, Nerja (ESP)",24 JUN 2022,1147,10000-metres-race-walk,race-walks,female,senior
+104,43:18.00,,Hong LI,01 JUN 1979,CHN,1,Nanjing (CHN),28 APR 1996,1146,10000-metres-race-walk,race-walks,female,senior
+105,43:18.05,,Federica CURIAZZI,14 AUG 1992,ITA,1,"Campo Mauro Ferrari, Prato (ITA)",13 APR 2025,1146,10000-metres-race-walk,race-walks,female,senior
+106,43:18.60,,Anna TERLYUKEVICH,15 AUG 1987,BLR,3,"Regional Sport Complex, Brest (BLR)",12 JUL 2025,1146,10000-metres-race-walk,race-walks,female,senior
+107,43:18.72,,Ana CABECINHA,29 APR 1984,POR,1,Vagos (POR),10 JUN 2017,1146,10000-metres-race-walk,race-walks,female,senior
+108,43:18.97,,Beatriz PASCUAL,09 MAY 1982,ESP,1,Pamplona (ESP),25 AUG 2012,1146,10000-metres-race-walk,race-walks,female,senior
+109,43:18.99,,Viktória MADARÁSZ,12 MAY 1985,HUN,1,Debrecen (HUN),05 SEP 2015,1146,10000-metres-race-walk,race-walks,female,senior
+110,43:19.12,,Ana CABECINHA,29 APR 1984,POR,1,Leiria (POR),25 JUL 2015,1146,10000-metres-race-walk,race-walks,female,senior
+111,43:19.3h,,Inês HENRIQUES,01 MAY 1980,POR,1,Leiria (POR),07 JUL 2018,1145,10000-metres-race-walk,race-walks,female,senior
+112,43:20.38,,Valentina TRAPLETTI,12 JUL 1985,ITA,1f1,"Campo Sportivo Putti, Bergamo (ITA)",18 APR 2021,1145,10000-metres-race-walk,race-walks,female,senior
+113,43:20.65,,Katie HAYWARD,23 JUL 2000,AUS,1,Sydney (AUS),05 APR 2019,1145,10000-metres-race-walk,race-walks,female,senior
+114,43:21.1h,,Kjersti TYSSE-PLÄTZER,18 JAN 1972,NOR,1,Kristiansand (NOR),18 AUG 2000,1144,10000-metres-race-walk,race-walks,female,senior
+115,43:21.9h,,Kerry SAXBY-JUNNA,02 JUN 1961,AUS,1,Canberra (AUS),03 DEC 1995,1144,10000-metres-race-walk,race-walks,female,senior
+115,43:21.90,,Mayumi KAWASAKI,10 MAY 1980,JPN,1,Okayama (JPN),26 SEP 2009,1144,10000-metres-race-walk,race-walks,female,senior
+117,43:22.20,,Sun YAN,04 MAY 1973,CHN,11,Jinan (CHN),15 MAR 1992,1144,10000-metres-race-walk,race-walks,female,senior
+118,43:22.86,,Kimberly GARCÍA LEÓN,19 OCT 1993,PER,1,"Estadio Atlético de la VIDENA, Lima (PER)",13 NOV 2021,1143,10000-metres-race-walk,race-walks,female,senior
+119,43:24.00,,Masumi FUCHISE,02 SEP 1986,JPN,2,Naruto (JPN),24 SEP 2011,1143,10000-metres-race-walk,race-walks,female,senior
+120,43:24.22,,Kumi OTOSHI,29 JUL 1985,JPN,2,Niigata (JPN),25 SEP 2010,1142,10000-metres-race-walk,race-walks,female,senior
+121,43:24.67,,Jemima MONTAG,15 FEB 1998,AUS,1,"AIS Athletics Track, Canberra (AUS)",26 JAN 2025,1142,10000-metres-race-walk,race-walks,female,senior
+122,43:24.72,,Tatyana MINEYEVA,10 AUG 1990,RUS,1,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",09 JUL 2008,1142,10000-metres-race-walk,race-walks,female,senior
+123,43:25.43,,Mariia SAKHARUK,14 OCT 1995,UKR,2,"Miesto Stadionas, Alytus (LTU)",20 SEP 2024,1142,10000-metres-race-walk,race-walks,female,senior
+124,43:26.12,,Kerry SAXBY,02 JUN 1961,AUS,1,Canberra (AUS),26 JAN 1989,1141,10000-metres-race-walk,race-walks,female,senior
+125,43:26.18,,María Graciela MENDOZA,23 MAR 1963,MEX,1,Hull (GBR),08 OCT 1989,1141,10000-metres-race-walk,race-walks,female,senior
+126,43:26.60,,Zhuoma BAIMA,20 MAY 2005,CHN,1,"Estadio Atlético de la VIDENA, Lima (PER)",30 AUG 2024,1141,10000-metres-race-walk,race-walks,female,senior
+127,43:27.20,,Anisiya KORNIKOVA-KIRDYAPKINA,23 OCT 1989,RUS,1,"FBK Stadium, Hengelo (NED)",19 JUL 2007,1141,10000-metres-race-walk,race-walks,female,senior
+128,43:27.48,,Lorena ARENAS,17 SEP 1993,COL,2,"AIS Athletics Track, Canberra (AUS)",27 JAN 2024,1141,10000-metres-race-walk,race-walks,female,senior
+129,43:27.53,,Quanming WU,16 NOV 2001,CHN,1,"Campo Mauro Ferrari, Prato (ITA)",16 APR 2023,1140,10000-metres-race-walk,race-walks,female,senior
+130,43:27.6h,,Elisabetta PERRONE,09 JUL 1968,ITA,1,Fana (NOR),07 MAY 1994,1140,10000-metres-race-walk,race-walks,female,senior
+131,43:29.19,,Antia CHAMOSA,07 OCT 1999,ESP,2,"Estadi Natalia Rodríguez, Tarragona (ESP)",02 AUG 2025,1139,10000-metres-race-walk,race-walks,female,senior
+132,43:29.3h,,Kerry SAXBY,02 JUN 1961,AUS,1,Melbourne (AUS),26 OCT 1989,1139,10000-metres-race-walk,race-walks,female,senior
+133,43:29.51,,Ana CABECINHA,29 APR 1984,POR,1,Leiria (POR),17 JUL 2010,1139,10000-metres-race-walk,race-walks,female,senior
+134,43:29.57,,Ana CABECINHA,29 APR 1984,POR,1,Maia (POR),25 JUN 2016,1139,10000-metres-race-walk,race-walks,female,senior
+135,43:29.59,,Evelyn INGA,16 APR 1998,PER,1,"Estadio Atlético de la VIDENA, Lima (PER)",16 JUN 2024,1139,10000-metres-race-walk,race-walks,female,senior
+136,43:30.15,,Hong LIU,12 MAY 1987,CHN,1,Mondovi (ITA),12 JUN 2011,1139,10000-metres-race-walk,race-walks,female,senior
+137,43:30.20,,Olga KARDOPOLTSEVA,11 SEP 1966,BLR,2,"Olympic Stadium, Athina (GRE)",07 AUG 1997,1139,10000-metres-race-walk,race-walks,female,senior
+138,43:30.22,,Encarna GRANADOS,30 JAN 1972,ESP,1,Barcelona (ESP),02 SEP 2000,1139,10000-metres-race-walk,race-walks,female,senior
+139,43:31.21,,Ana CABECINHA,29 APR 1984,POR,1,San Fernando (ESP),04 JUN 2010,1138,10000-metres-race-walk,race-walks,female,senior
+139,43:31.21,,Raquel GONZÁLEZ,16 NOV 1989,ESP,2,Alcobendas (ESP),26 JUL 2014,1138,10000-metres-race-walk,race-walks,female,senior
+141,43:31.29,,Inês HENRIQUES,01 MAY 1980,POR,1,Leiria (POR),27 JUL 2013,1138,10000-metres-race-walk,race-walks,female,senior
+142,43:32.05,,Rimma MAKAROVA,18 JUL 1963,RUS,1,St. Petersburg (RUS),29 JUL 1995,1138,10000-metres-race-walk,race-walks,female,senior
+142,43:32.05,,Vitória OLIVEIRA,30 AUG 1992,POR,1,"Estádio 1o de Maio, Braga (POR)",29 JUL 2023,1138,10000-metres-race-walk,race-walks,female,senior
+144,43:32.21,,Elisa RIGAUDO,17 JUN 1980,ITA,2,Mondovi (ITA),12 JUN 2011,1138,10000-metres-race-walk,race-walks,female,senior
+145,43:33.16,,Anna TERLYUKEVICH,15 AUG 1987,BLR,1,"Olimpiyets Arena, Mogilyov (BLR) (i)",21 FEB 2020,1137,10000-metres-race-walk,race-walks,female,senior
+146,43:33.72,,Laura GARCÍA-CARO,16 APR 1995,ESP,1,La Nucia (ESP),21 MAY 2022,1137,10000-metres-race-walk,race-walks,female,senior
+147,43:33.75,,María José POVES,16 MAR 1978,ESP,2,Alcobendas (ESP),27 JUL 2013,1137,10000-metres-race-walk,race-walks,female,senior
+148,43:34.93,,María VASCO,26 DEC 1975,ESP,2,Santa Cruz de Tenerife (ESP),26 JUL 2008,1136,10000-metres-race-walk,race-walks,female,senior
+149,43:35.2h,,Lyudmila YEFIMKINA,22 AUG 1981,RUS,1,Moskva (RUS),20 MAY 2000,1136,10000-metres-race-walk,race-walks,female,senior
+150,43:35.50,,Júlia TAKÁCS,29 JUN 1989,ESP,2,San Fernando (ESP),04 JUN 2010,1136,10000-metres-race-walk,race-walks,female,senior
+151,43:35.52,,Clémence BERETTA,22 DEC 1997,FRA,3,"AIS Athletics Track, Canberra (AUS)",27 JAN 2024,1136,10000-metres-race-walk,race-walks,female,senior
+152,43:35.74,,Jemima MONTAG,15 FEB 1998,AUS,1,"AIS Athletics Track, Canberra (AUS)",06 JAN 2023,1136,10000-metres-race-walk,race-walks,female,senior
+153,43:36.41,,Yelena NIKOLAYEVA,01 FEB 1966,URS,1,Kiev (URS),30 JUL 1988,1135,10000-metres-race-walk,race-walks,female,senior
+154,43:36.5h,,Yelena NIKOLAYEVA,01 FEB 1966,URS,1,Fana (NOR),07 MAY 1988,1135,10000-metres-race-walk,race-walks,female,senior
+155,43:36.88,,Klavdiya AFANASYEVA,15 JAN 1996,RUS,1,"Ekängens Friidrottsarena, Eskilstuna (SWE)",16 JUL 2015,1135,10000-metres-race-walk,race-walks,female,senior
+156,43:37.27,,Ana CABECINHA,29 APR 1984,POR,2,"Estádio 1o de Maio, Braga (POR)",29 JUL 2023,1135,10000-metres-race-walk,race-walks,female,senior
+157,43:37.91,,Ana CABECINHA,29 APR 1984,POR,1,Lisboa (POR),07 JUL 2012,1134,10000-metres-race-walk,race-walks,female,senior
+158,43:37.95,,Raquel GONZÁLEZ,16 NOV 1989,ESP,1,Getafe (ESP),21 JUL 2018,1134,10000-metres-race-walk,race-walks,female,senior
+159,43:38.64,,Inês HENRIQUES,01 MAY 1980,POR,2,Leiria (POR),17 JUL 2010,1134,10000-metres-race-walk,race-walks,female,senior
+160,43:38.83,,PRIYANKA,10 MAR 1996,IND,2,"Alexander Stadium, Birmingham (GBR)",06 AUG 2022,1134,10000-metres-race-walk,race-walks,female,senior
+161,43:39.10,,Lijuan XU,1972,CHN,12,Jinan (CHN),15 MAR 1992,1134,10000-metres-race-walk,race-walks,female,senior
+162,43:39.27,,Alina YUSHCHANKA,29 JUL 1990,BLR,1,"RTSOP, Minsk (BLR)",29 JUL 2022,1133,10000-metres-race-walk,race-walks,female,senior
+163,43:39.42,,Beatriz PASCUAL,09 MAY 1982,ESP,3,Alcobendas (ESP),27 JUL 2013,1133,10000-metres-race-walk,race-walks,female,senior
+164,43:40.45,,Nadezhda SERGEYEVA,12 MAR 1994,ANA,3,"Olympic Stadium, Cheboksary (RUS)",02 AUG 2022,1133,10000-metres-race-walk,race-walks,female,senior
+165,43:40.68,,Inês HENRIQUES,01 MAY 1980,POR,2,Leiria (POR),25 JUL 2015,1133,10000-metres-race-walk,race-walks,female,senior
+166,43:41.0h,,Yelena LASHMANOVA,09 APR 1992,RUS,2,Sochi (RUS),27 FEB 2011,1132,10000-metres-race-walk,race-walks,female,senior
+167,43:41.1h,,Yevdokiya KOROTKOVA,28 FEB 1979,RUS,1,Buy (RUS),21 SEP 2008,1132,10000-metres-race-walk,race-walks,female,senior
+168,43:41.30,,Erica SENA,03 MAY 1985,BRA,2,São Paulo (BRA),01 AUG 2014,1132,10000-metres-race-walk,race-walks,female,senior
+169,43:41.50,,Kimberly GARCÍA LEÓN,19 OCT 1993,PER,2,La Nucia (ESP),21 MAY 2022,1132,10000-metres-race-walk,race-walks,female,senior
+170,43:41.51,,Lorena ARENAS,17 SEP 1993,COL,1,Canberra (AUS),28 JAN 2019,1132,10000-metres-race-walk,race-walks,female,senior
+171,43:41.70,,Claudia IOVAN,25 FEB 1978,ROU,1,Bucureşti (ROU),24 MAY 1997,1132,10000-metres-race-walk,race-walks,female,senior
+172,43:42.04,,María PÉREZ,29 APR 1996,ESP,1,"Polideportivo Juan de la Cierva, Getafe (ESP)",26 JUN 2021,1132,10000-metres-race-walk,race-walks,female,senior
+173,43:42.80,,Se JUAN,,CHN,13,Jinan (CHN),15 MAR 1992,1131,10000-metres-race-walk,race-walks,female,senior
+174,43:42.84,,Klavdiya AFANASYEVA,15 JAN 1996,RUS,4,"Olympic Stadium, Cheboksary (RUS)",02 AUG 2022,1131,10000-metres-race-walk,race-walks,female,senior
+175,43:44.1h,,Kristina LYUBUSHKINA,19 SEP 1995,RUS,3,"Football and athletics Arena, Saransk (RUS) (i)",24 SEP 2023,1131,10000-metres-race-walk,race-walks,female,senior
+176,43:44.96,,Elisa RIGAUDO,17 JUN 1980,ITA,1,Milano (ITA),26 JUL 2013,1130,10000-metres-race-walk,race-walks,female,senior
+177,43:45.16,,Elmira ALEMBEKOVA,30 JUN 1990,RUS,2,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",09 JUL 2008,1130,10000-metres-race-walk,race-walks,female,senior
+178,43:45.2h,,Tatyana KOROTKOVA,24 APR 1980,RUS,2,Buy (RUS),21 SEP 2008,1130,10000-metres-race-walk,race-walks,female,senior
+178,43:45.2h,,Jemima MONTAG,15 FEB 1998,AUS,1,"George Knott Track, Collingwood, Melbourne (AUS)",10 JAN 2021,1130,10000-metres-race-walk,race-walks,female,senior
+180,43:46.01,,Jemima MONTAG,15 FEB 1998,AUS,1,"AIS Athletics Track, Canberra (AUS)",02 FEB 2023,1129,10000-metres-race-walk,race-walks,female,senior
+181,43:46.05,,Katie HAYWARD,23 JUL 2000,AUS,1,"SOPAC, Sydney (AUS)",15 APR 2021,1129,10000-metres-race-walk,race-walks,female,senior
+182,43:46.06,,Inês HENRIQUES,01 MAY 1980,POR,2,Vagos (POR),10 JUN 2017,1129,10000-metres-race-walk,race-walks,female,senior
+183,43:46.50,,Olena SOBCHUK,23 NOV 1995,UKR,1,"Avangard Stadium, Lutsk (UKR)",25 JUN 2022,1129,10000-metres-race-walk,race-walks,female,senior
+184,43:46.70,,Liying TANG,1963,CHN,1,Jinan (CHN),15 FEB 1992,1129,10000-metres-race-walk,race-walks,female,senior
+185,43:47.78,,Elvira CHEPAREVA,10 JAN 2000,RUS,1,"Yelena Yelesina Stadium, Chelyabinsk (RUS)",08 JUL 2023,1128,10000-metres-race-walk,race-walks,female,senior
+186,43:47.84,,Ana CABECINHA,29 APR 1984,POR,1,Lisboa (POR),26 JUL 2014,1128,10000-metres-race-walk,race-walks,female,senior
+187,43:47.89,,Sofia SANTACREU,07 FEB 2006,ESP,1f1,"Ratinan Stadion, Tampere (FIN)",09 AUG 2025,1128,10000-metres-race-walk,race-walks,female,senior
+188,43:48.08,,Beki SMITH,25 NOV 1986,AUS,1,"SOPAC, Sydney (AUS)",01 APR 2016,1128,10000-metres-race-walk,race-walks,female,senior
+189,43:48.8h,,Alina YUSHCHANKA,29 JUL 1990,BLR,1,"RTSOP, Minsk (BLR)",31 MAY 2022,1128,10000-metres-race-walk,race-walks,female,senior
+190,43:49.24,,Valentina TSYBULSKAYA,19 FEB 1968,BLR,3,"Olympic Stadium, Athina (GRE)",07 AUG 1997,1128,10000-metres-race-walk,race-walks,female,senior
+191,43:49.55,,Alexandrina MIHAI,27 MAY 2003,ITA,1,"Fana Stadion, Bergen (NOR)",19 JUL 2025,1127,10000-metres-race-walk,race-walks,female,senior
+192,43:49.70,,Larisa RAMAZANOVA-KHMELNITSKAYA,23 SEP 1971,BLR,1,Gomel (BLR),23 JUN 1998,1127,10000-metres-race-walk,race-walks,female,senior
+193,43:49.85,,Ayane YANAI,24 DEC 2003,JPN,1,"Municipal Stadium, Kitami (JPN)",06 JUL 2024,1127,10000-metres-race-walk,race-walks,female,senior
+194,43:49.97,,Viktoryia RASHCHUPKINA,23 MAY 1995,BLR,2,"Olimpiyets Arena, Mogilyov (BLR) (i)",21 FEB 2020,1127,10000-metres-race-walk,race-walks,female,senior
+195,43:50.25,,Laura GARCÍA-CARO,16 APR 1995,ESP,2,Getafe (ESP),21 JUL 2018,1127,10000-metres-race-walk,race-walks,female,senior
+196,43:50.84,,Jemima MONTAG,15 FEB 1998,AUS,1,Townsville (AUS),25 JUN 2019,1127,10000-metres-race-walk,race-walks,female,senior
+197,43:50.86,,Emily Wamusyi NGII,13 AUG 1986,KEN,3,"Alexander Stadium, Birmingham (GBR)",06 AUG 2022,1127,10000-metres-race-walk,race-walks,female,senior
+198,43:51.0h,,Svetlana TOLSTAYA,09 AUG 1971,KAZ,1,Almaty (KAZ),17 SEP 1997,1126,10000-metres-race-walk,race-walks,female,senior
+199,43:51.47,,Jemima MONTAG,15 FEB 1998,AUS,2,Sydney (AUS),05 APR 2019,1126,10000-metres-race-walk,race-walks,female,senior
+200,43:51.8h,,Ana CABECINHA,29 APR 1984,POR,2,Leiria (POR),07 JUL 2018,1126,10000-metres-race-walk,race-walks,female,senior
+201,43:51.97,,Yelena NIKOLAYEVA,01 FEB 1966,RUS,1,"Uniondale, NY (USA)",21 JUL 1998,1126,10000-metres-race-walk,race-walks,female,senior
+202,43:51.98,,Antigoni NTRISMPIOTI,21 MAR 1984,GRE,2,"AIS Athletics Track, Canberra (AUS)",06 JAN 2023,1126,10000-metres-race-walk,race-walks,female,senior
+203,43:52.08,,María PÉREZ,29 APR 1996,ESP,1,"Estadi Olímpic Camilo Cano, La Nucia (ESP)",01 SEP 2019,1126,10000-metres-race-walk,race-walks,female,senior
+204,43:52.1h,,Yueling CHEN,01 APR 1968,CHN,1,Zhengzhou (CHN),25 OCT 1987,1126,10000-metres-race-walk,race-walks,female,senior
+205,43:52.39,,Rossella GIORDANO,01 DEC 1972,ITA,1,Rieti (ITA),29 MAR 2009,1126,10000-metres-race-walk,race-walks,female,senior
+206,43:52.70,,Ping ZHU,,CHN,15,Jinan (CHN),15 MAR 1992,1125,10000-metres-race-walk,race-walks,female,senior
+207,43:52.73,,Vera SANTOS,03 DEC 1981,POR,3,Leiria (POR),17 JUL 2010,1125,10000-metres-race-walk,race-walks,female,senior
+208,43:52.80,,Inês HENRIQUES,01 MAY 1980,POR,1,Vagos (POR),15 MAR 2016,1125,10000-metres-race-walk,race-walks,female,senior
+209,43:53.04,,Ana CABECINHA,29 APR 1984,POR,1,"Estádio Dr. Magalhães Pessoa, Leiria (POR)",25 JUN 2022,1125,10000-metres-race-walk,race-walks,female,senior
+210,43:53.45,,Antigoni NTRISMPIOTI,21 MAR 1984,GRE,2,"AIS Athletics Track, Canberra (AUS)",02 FEB 2023,1125,10000-metres-race-walk,race-walks,female,senior
+211,43:53.51,,Mayumi KAWASAKI,10 MAY 1980,JPN,1,Oita (JPN),06 OCT 2008,1125,10000-metres-race-walk,race-walks,female,senior
+212,43:53.65,,Ana CABECINHA,29 APR 1984,POR,2,Leiria (POR),27 JUL 2013,1125,10000-metres-race-walk,race-walks,female,senior
+213,43:53.84,,Lyudmila OLYANOVSKA,20 FEB 1993,UKR,1,"KMSHVSM Arena, Kyiv (UKR) (i)",02 FEB 2024,1125,10000-metres-race-walk,race-walks,female,senior
+214,43:54.05,,Ana CABECINHA,29 APR 1984,POR,1,"Estádio José Vieira de Carvalho, Maia (POR)",26 JUN 2021,1125,10000-metres-race-walk,race-walks,female,senior
+215,43:54.63,,Yelena GINKO,30 JUL 1976,BLR,1,Mogilyov (BLR) (i),22 FEB 2008,1124,10000-metres-race-walk,race-walks,female,senior
+216,43:54.80,,Jemima MONTAG,15 FEB 1998,AUS,1,"SA Athletic Stadium, Adelaide (AUS)",11 APR 2024,1124,10000-metres-race-walk,race-walks,female,senior
+217,43:54.92,,Olivia SANDERY,22 JAN 2003,AUS,2,"AIS Athletics Track, Canberra (AUS)",26 JAN 2025,1124,10000-metres-race-walk,race-walks,female,senior
+218,43:55.05,,Kumiko OKADA,17 OCT 1991,JPN,1,Gifu (JPN),26 SEP 2015,1124,10000-metres-race-walk,race-walks,female,senior
+219,43:55.22,,Kumiko OKADA,17 OCT 1991,JPN,1,Osaka (JPN),22 SEP 2018,1124,10000-metres-race-walk,race-walks,female,senior
+220,43:55.51,,Ana CABECINHA,29 APR 1984,POR,1,Vila Real de Santo António (POR),11 JAN 2015,1124,10000-metres-race-walk,race-walks,female,senior
+221,43:55.70,,Júlia TAKÁCS,29 JUN 1989,ESP,3,Gijón (ESP),23 JUL 2016,1124,10000-metres-race-walk,race-walks,female,senior
+222,43:55.80,,Olga CHOJECKA,30 JUN 1997,POL,1,"Stadion Zygmunta Szelesta, Warszawa (POL)",27 MAR 2024,1124,10000-metres-race-walk,race-walks,female,senior
+223,43:56.25,,Serena DI FABIO,23 NOV 2007,ITA,2f1,"Ratinan Stadion, Tampere (FIN)",09 AUG 2025,1123,10000-metres-race-walk,race-walks,female,senior
+224,43:56.80,,Chen YAN,30 JAN 1974,CHN,16,Jinan (CHN),15 MAR 1992,1123,10000-metres-race-walk,race-walks,female,senior
+225,43:56.86,,Hongyu LIU,11 JAN 1975,CHN,4,"Olympic Stadium, Athina (GRE)",07 AUG 1997,1123,10000-metres-race-walk,race-walks,female,senior
+226,43:56.95,,Eleonora Anna GIORGI,14 SEP 1989,ITA,1,Trieste (ITA),30 JUN 2017,1123,10000-metres-race-walk,race-walks,female,senior
+227,43:57.13,,Beatriz PASCUAL,09 MAY 1982,ESP,3,Alcobendas (ESP),26 JUL 2014,1123,10000-metres-race-walk,race-walks,female,senior
+228,43:57.44,,Kimberly GARCÍA LEÓN,19 OCT 1993,PER,3,São Paulo (BRA),01 AUG 2014,1123,10000-metres-race-walk,race-walks,female,senior
+229,43:58.10,,Xiong YAN,01 APR 1967,CHN,2,Xiangtan (CHN),28 FEB 1989,1122,10000-metres-race-walk,race-walks,female,senior
+230,43:58.94,,Tatyana RAGOZINA,03 SEP 1964,UKR,,Kyiv (UKR),02 APR 1992,1122,10000-metres-race-walk,race-walks,female,senior
+231,43:59.08,,Inês HENRIQUES,01 MAY 1980,POR,1,Lisboa (POR),30 JUL 2011,1122,10000-metres-race-walk,race-walks,female,senior
+232,43:59.46,,Jemima MONTAG,15 FEB 1998,AUS,2,Canberra (AUS),28 JAN 2019,1121,10000-metres-race-walk,race-walks,female,senior
+233,43:59.73,,Erica ALFRIDI,22 FEB 1968,ITA,5,"Olympic Stadium, Athina (GRE)",07 AUG 1997,1121,10000-metres-race-walk,race-walks,female,senior
+233,43:59.73,,Inês HENRIQUES,01 MAY 1980,POR,1,Seixal (POR),25 JUL 2009,1121,10000-metres-race-walk,race-walks,female,senior

@@ -1,6 +1,6 @@
 import subprocess
 
-# List your scripts in the order you want them to run
+# List of scripts to run in sequence
 scripts = [
     "scripts/scraper_final.py",
     "scripts/preprocessing.py",

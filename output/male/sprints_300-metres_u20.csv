@@ -36,7 +36,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 34,32.90,,Cameron ROSE,01 JUL 2002,USA,1f1,"Clemson Indoor Track & Field Complex, Clemson, SC (USA) (i)",03 DEC 2021,1135,300-metres,sprints,male,u20
 34,32.90,,Junior Ruo EKE,14 DEC 2004,JPN,3,"Prefectural Stadium, Kagoshima (JPN)",15 OCT 2023,1080,300-metres,sprints,male,u20
 37,32.91,,Alexander RHODES,28 JUN 2005,USA,2f1,"The Podium, Spokane, WA (USA) (i)",14 DEC 2024,1135,300-metres,sprints,male,u20
-37,32.91,,William BATLEY,22 JAN 2007,CAN,1f1,"The Dome Louis Riel, Ottawa (CAN) (i)",15 FEB 2025,1135,300-metres,sprints,male,u20
+37,32.91,,William BATLEY,22 JAN 2007,CAN,1f1,"The Dome Louis Riel, Ottawa (CAN) (i)",15 FEB 2025,1079,300-metres,sprints,male,u20
 39,32.93,,Kota UEMATSU,10 FEB 2006,JPN,4h3,"Sunrise Park, Saga (JPN)",11 OCT 2024,1077,300-metres,sprints,male,u20
 40,32.94,,Håvard Bentdal INGVALDSEN,21 SEP 2002,NOR,1,"Stampesletta, Lillehammer (NOR)",25 SEP 2021,1077,300-metres,sprints,male,u20
 40,32.94,,Jayden MIMS,2007,USA,2f2,"Armory Track&Field Center, New York, NY (USA) (i)",11 FEB 2024,1132,300-metres,sprints,male,u20
@@ -71,12 +71,13 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 70,33.17,,Rai BENJAMIN,27 JUL 1997,ANT,1f2,"New York, NY (USA) (i)",31 JAN 2015,1111,300-metres,sprints,male,u20
 70,33.17,,Justin ROBINSON,30 MAR 2002,USA,2,"Armory Track&Field Center, New York, NY (USA) (i)",08 FEB 2020,1111,300-metres,sprints,male,u20
 70,33.17,,Masato HARADA,01 JUL 2004,JPN,2h1,"Prefectural Stadium, Kagoshima (JPN)",14 OCT 2023,1056,300-metres,sprints,male,u20
-73,33.18,,Tyler CHRISTOPHER,03 OCT 1983,CAN,2,Victoria (CAN),22 MAY 2002,1055,300-metres,sprints,male,u20
-73,33.18,,Noah LYLES,18 JUL 1997,USA,1f6,"Blacksburg, VA (USA) (i)",29 JAN 2016,1110,300-metres,sprints,male,u20
-73,33.18,,Taisei WATANABE,21 AUG 2004,JPN,1f3,"Athletics Stadium, Tainai (JPN)",24 JUL 2022,1055,300-metres,sprints,male,u20
-73,33.18,,Kira HIRAKAWA,25 AUG 2005,JPN,2,"Tochigi Prefectural Sports Park Stadium, Utsunomiya (JPN)",10 OCT 2022,1055,300-metres,sprints,male,u20
-73,33.18,,Josiah WRICE,,USA,1f3,"Clemson Indoor Track & Field Complex, Clemson, SC (USA) (i)",06 DEC 2024,1110,300-metres,sprints,male,u20
-78,33.19,,William REED,01 APR 1970,USA,1,"New Haven, CT (USA) (i)",16 MAR 1986,1109,300-metres,sprints,male,u20
-78,33.19,,Željko VINCEK,16 JUN 1986,CRO,5,Ljubljana (SLO),10 AUG 2004,1054,300-metres,sprints,male,u20
-78,33.19,,Bryshon NELLUM,01 MAY 1989,USA,1,"Eugene, OR (USA)",08 AUG 2006,1054,300-metres,sprints,male,u20
-81,33.20,,Rui FUJISAWA,24 JAN 2003,JPN,1h5,"Tochigi Prefectural Sports Park Stadium, Utsunomiya (JPN)",09 OCT 2022,1054,300-metres,sprints,male,u20
+70,33.17,,Michal RADA,25 MAY 2007,CZE,1f1,"Stadion v Poohří, Cheb (CZE)",05 SEP 2025,1056,300-metres,sprints,male,u20
+74,33.18,,Tyler CHRISTOPHER,03 OCT 1983,CAN,2,Victoria (CAN),22 MAY 2002,1055,300-metres,sprints,male,u20
+74,33.18,,Noah LYLES,18 JUL 1997,USA,1f6,"Blacksburg, VA (USA) (i)",29 JAN 2016,1110,300-metres,sprints,male,u20
+74,33.18,,Taisei WATANABE,21 AUG 2004,JPN,1f3,"Athletics Stadium, Tainai (JPN)",24 JUL 2022,1055,300-metres,sprints,male,u20
+74,33.18,,Kira HIRAKAWA,25 AUG 2005,JPN,2,"Tochigi Prefectural Sports Park Stadium, Utsunomiya (JPN)",10 OCT 2022,1055,300-metres,sprints,male,u20
+74,33.18,,Josiah WRICE,,USA,1f3,"Clemson Indoor Track & Field Complex, Clemson, SC (USA) (i)",06 DEC 2024,1110,300-metres,sprints,male,u20
+79,33.19,,William REED,01 APR 1970,USA,1,"New Haven, CT (USA) (i)",16 MAR 1986,1109,300-metres,sprints,male,u20
+79,33.19,,Željko VINCEK,16 JUN 1986,CRO,5,Ljubljana (SLO),10 AUG 2004,1054,300-metres,sprints,male,u20
+79,33.19,,Bryshon NELLUM,01 MAY 1989,USA,1,"Eugene, OR (USA)",08 AUG 2006,1054,300-metres,sprints,male,u20
+82,33.20,,Rui FUJISAWA,24 JAN 2003,JPN,1h5,"Tochigi Prefectural Sports Park Stadium, Utsunomiya (JPN)",09 OCT 2022,1054,300-metres,sprints,male,u20

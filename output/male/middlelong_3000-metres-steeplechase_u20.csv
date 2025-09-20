@@ -40,416 +40,420 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 39,8:09.59,,Stephen CHERONO,15 OCT 1982,KEN,1,"Olympiastadion, Berlin (GER)",31 AUG 2001,1214,3000-metres-steeplechase,middlelong,male,u20
 40,8:09.78,,Raymond Kipkorir YATOR,07 APR 1981,KEN,5,"Stade de France, Paris-St-Denis (FRA)",23 JUN 2000,1213,3000-metres-steeplechase,middlelong,male,u20
 41,8:09.92,,Ryuji MIURA,11 FEB 2002,JPN,2h1,"National Stadium, Tokyo (JPN)",30 JUL 2021,1212,3000-metres-steeplechase,middlelong,male,u20
-42,8:10.56,,Tadese TAKELE,03 AUG 2002,ETH,2,"Stadio Luigi Ridolfi, Firenze (ITA)",10 JUN 2021,1209,3000-metres-steeplechase,middlelong,male,u20
-43,8:10.57,,Samuel FIREWU,03 MAY 2004,ETH,4,"Stade Louis II, Monaco (MON)",21 JUL 2023,1209,3000-metres-steeplechase,middlelong,male,u20
-44,8:10.64,,Leonard Kipkemoi BETT,03 NOV 2000,KEN,9,"Khalifa International Stadium, Doha (QAT)",04 OCT 2019,1209,3000-metres-steeplechase,middlelong,male,u20
-45,8:10.74,,Samuel FIREWU,03 MAY 2004,ETH,2,"Hayward Field, Eugene, OR (USA)",16 SEP 2023,1208,3000-metres-steeplechase,middlelong,male,u20
-46,8:10.76,,Conseslus KIPRUTO,08 DEC 1994,KEN,3,"Letzigrund, Zürich (SUI)",29 AUG 2013,1208,3000-metres-steeplechase,middlelong,male,u20
-47,8:11.22,,Yemane HAILESELASSIE,21 FEB 1998,ERI,5,"Stadio Olimpico, Roma (ITA)",08 JUN 2017,1206,3000-metres-steeplechase,middlelong,male,u20
-48,8:11.27,,Gilbert KIRUI,22 JAN 1994,KEN,7,"Suhaim bin Hamad Stadium, Doha (QAT)",11 MAY 2012,1206,3000-metres-steeplechase,middlelong,male,u20
-48,8:11.27,,Conseslus KIPRUTO,08 DEC 1994,KEN,1,"Mestský Stadion, Ostrava (CZE)",27 JUN 2013,1206,3000-metres-steeplechase,middlelong,male,u20
-50,8:11.29,,Samuel FIREWU,03 MAY 2004,ETH,2,"Egret Stadium, Xiamen (CHN)",02 SEP 2023,1206,3000-metres-steeplechase,middlelong,male,u20
-51,8:11.31,,Jairus Kipchoge BIRECH,14 DEC 1992,KEN,5,"Stade de France, Paris-St-Denis (FRA)",08 JUL 2011,1206,3000-metres-steeplechase,middlelong,male,u20
-52,8:11.55,,Gilbert KIRUI,22 JAN 1994,KEN,2,"Olympiastadion, Stockholm (SWE)",22 AUG 2013,1205,3000-metres-steeplechase,middlelong,male,u20
-53,8:11.94,,Raymond Kipkorir YATOR,07 APR 1981,KEN,6,Stockholm (SWE),01 AUG 2000,1203,3000-metres-steeplechase,middlelong,male,u20
-54,8:12.08,,Hillary Kipsang YEGO,02 APR 1992,KEN,1,"DS, Daegu (KOR)",12 MAY 2011,1202,3000-metres-steeplechase,middlelong,male,u20
-55,8:12.18,,Amos KIRUI,09 FEB 1998,KEN,3,"Complexe Sportif Prince Moulay Abdellah, Rabat (MAR)",16 JUL 2017,1202,3000-metres-steeplechase,middlelong,male,u20
-56,8:12.24,,Raymond Kipkorir YATOR,07 APR 1981,KEN,2,Villeneuve d'Ascq (FRA),17 JUN 2000,1202,3000-metres-steeplechase,middlelong,male,u20
-57,8:12.28,,Getnet WALE,16 JUL 2000,ETH,1,"FBK Stadium, Hengelo (NED)",11 JUN 2017,1201,3000-metres-steeplechase,middlelong,male,u20
-58,8:12.29,,Raymond Kipkorir YATOR,07 APR 1981,KEN,4,Zürich (SUI),11 AUG 2000,1201,3000-metres-steeplechase,middlelong,male,u20
-59,8:12.35,,Conseslus KIPRUTO,08 DEC 1994,KEN,3,"Olympiastadion, Stockholm (SWE)",22 AUG 2013,1201,3000-metres-steeplechase,middlelong,male,u20
-60,8:12.36,,Gilbert KIRUI,22 JAN 1994,KEN,5,"Bislett Stadion, Oslo (NOR)",13 JUN 2013,1201,3000-metres-steeplechase,middlelong,male,u20
-61,8:12.63,,Hillary Kipsang YEGO,02 APR 1992,KEN,2,"Mestský Stadion, Ostrava (CZE)",31 MAY 2011,1200,3000-metres-steeplechase,middlelong,male,u20
-62,8:12.81,,Hillary Kipsang YEGO,02 APR 1992,KEN,1,"Sports Park Mladost, Zagreb (CRO)",13 SEP 2011,1199,3000-metres-steeplechase,middlelong,male,u20
-63,8:12.82,,Paul Malakwen KOSGEI,22 APR 1978,KEN,8,Nice (FRA),16 JUL 1997,1199,3000-metres-steeplechase,middlelong,male,u20
-64,8:12.91,,Thomas KIPLITAN,15 JUN 1983,KEN,7,Doha (QAT),15 MAY 2002,1199,3000-metres-steeplechase,middlelong,male,u20
-65,8:12.93,,Gilbert KIRUI,22 JAN 1994,KEN,5,"Letzigrund, Zürich (SUI)",29 AUG 2013,1198,3000-metres-steeplechase,middlelong,male,u20
-66,8:12.96,,Getnet WALE,16 JUL 2000,ETH,1h1,"Khalifa International Stadium, Doha (QAT)",01 OCT 2019,1198,3000-metres-steeplechase,middlelong,male,u20
-67,8:13.06,,Jairus Kipchoge BIRECH,14 DEC 1992,KEN,2,Brazzaville (CGO),12 JUN 2011,1198,3000-metres-steeplechase,middlelong,male,u20
-68,8:13.07,,Leonard Kipkemoi BETT,03 NOV 2000,KEN,3h1,"Khalifa International Stadium, Doha (QAT)",01 OCT 2019,1198,3000-metres-steeplechase,middlelong,male,u20
-69,8:13.16,,Getnet WALE,16 JUL 2000,ETH,2,"Mestský Stadion, Ostrava (CZE)",28 JUN 2017,1197,3000-metres-steeplechase,middlelong,male,u20
-70,8:13.33,,Tesfaye DERIBA,11 SEP 1998,ETH,4,"FBK Stadium, Hengelo (NED)",11 JUN 2017,1197,3000-metres-steeplechase,middlelong,male,u20
-71,8:13.5h,,Conseslus KIPRUTO,08 DEC 1994,KEN,1,Nairobi (KEN),13 JUL 2013,1196,3000-metres-steeplechase,middlelong,male,u20
-72,8:13.52,,Jairus Kipchoge BIRECH,14 DEC 1992,KEN,1,Barcelona (ESP),22 JUL 2011,1196,3000-metres-steeplechase,middlelong,male,u20
-73,8:13.91,,Musa Amer OBAID,18 APR 1985,QAT,3,Heusden-Zolder (BEL),31 JUL 2004,1194,3000-metres-steeplechase,middlelong,male,u20
-74,8:14.00,,Willy Rutto KOMEN,22 DEC 1987,KEN,1,"Chaoyang Sport Center, Beijing (CHN)",19 AUG 2006,1194,3000-metres-steeplechase,middlelong,male,u20
-75,8:14.06,,Getnet WALE,16 JUL 2000,ETH,2,"Complexe Sportif Prince Moulay Abdellah, Rabat (MAR)",26 AUG 2019,1193,3000-metres-steeplechase,middlelong,male,u20
-76,8:14.29,,Benjamin KIPLAGAT,04 MAR 1989,UGA,2,"FBK Stadium, Hengelo (NED)",24 MAY 2008,1192,3000-metres-steeplechase,middlelong,male,u20
-77,8:14.68,,Nahom Mesfin TARIKU,03 JUN 1989,ETH,1,Neerpelt (BEL),31 MAY 2008,1191,3000-metres-steeplechase,middlelong,male,u20
-78,8:14.74,,Paul Malakwen KOSGEI,22 APR 1978,KEN,8,Köln (GER),24 AUG 1997,1190,3000-metres-steeplechase,middlelong,male,u20
-79,8:14.87,,Nahom Mesfin TARIKU,03 JUN 1989,ETH,1,Huelva (ESP),13 JUN 2008,1190,3000-metres-steeplechase,middlelong,male,u20
-80,8:14.88,,Tadese TAKELE,03 AUG 2002,ETH,2,Hengelo (NED),17 JUL 2019,1190,3000-metres-steeplechase,middlelong,male,u20
-81,8:15.11,,Brimin Kiprop KIPRUTO,31 JUL 1985,KEN,1h2,"Olympic Stadium, Athina (GRE)",21 AUG 2004,1189,3000-metres-steeplechase,middlelong,male,u20
-82,8:15.12,,Tadese TAKELE,03 AUG 2002,ETH,8,"Stade Louis II, Monaco (MON)",09 JUL 2021,1189,3000-metres-steeplechase,middlelong,male,u20
-83,8:15.28,,Edmund SEREM,27 DEC 2007,KEN,1,"Estadio Atlético de la VIDENA, Lima (PER)",31 AUG 2024,1188,3000-metres-steeplechase,middlelong,male,u20
-84,8:15.31,,Raymond Kipkorir YATOR,07 APR 1981,KEN,9,Zürich (SUI),11 AUG 1999,1188,3000-metres-steeplechase,middlelong,male,u20
-85,8:15.67,,Gilbert KIRUI,22 JAN 1994,KEN,3,Beijing (CHN),21 MAY 2013,1186,3000-metres-steeplechase,middlelong,male,u20
-86,8:15.72,,Jacob ARAPTANY,11 FEB 1992,UGA,1,Kampala (UGA),23 JUL 2011,1186,3000-metres-steeplechase,middlelong,male,u20
-87,8:15.79,,Conseslus KIPRUTO,08 DEC 1994,KEN,5,"Stade Olympique de la Pontaise, Lausanne (SUI)",23 AUG 2012,1186,3000-metres-steeplechase,middlelong,male,u20
-88,8:15.90,,Leonard Kipkemoi BETT,03 NOV 2000,KEN,11,"Stade Louis II, Monaco (MON)",12 JUL 2019,1185,3000-metres-steeplechase,middlelong,male,u20
-89,8:15.91,,Amos KIRUI,09 FEB 1998,KEN,5,"Stade Louis II, Monaco (MON)",21 JUL 2017,1185,3000-metres-steeplechase,middlelong,male,u20
-90,8:15.99,,Ryuji MIURA,11 FEB 2002,JPN,1,"Yanmar Stadium Nagai, Osaka (JPN)",26 JUN 2021,1185,3000-metres-steeplechase,middlelong,male,u20
-91,8:16.06,,Benjamin KIPLAGAT,04 MAR 1989,UGA,4,Doha (QAT),09 MAY 2008,1184,3000-metres-steeplechase,middlelong,male,u20
-92,8:16.14,,Tesfaye GIRMA,24 JAN 1997,ETH,3,Heusden-Zolder (BEL),16 JUL 2016,1184,3000-metres-steeplechase,middlelong,male,u20
-93,8:16.18,,Mohammed MSAAD,04 MAR 2004,MAR,8,"Complexe Sportif Prince Moulay Abdellah, Rabat (MAR)",28 MAY 2023,1184,3000-metres-steeplechase,middlelong,male,u20
-94,8:16.26,,Tareq Mubarak TAHER,01 DEC 1986,BRN,6,Heusden-Zolder (BEL),23 JUL 2005,1183,3000-metres-steeplechase,middlelong,male,u20
-95,8:16.34,,Raymond Kipkorir YATOR,07 APR 1981,KEN,1,"E.Nacional, Santiago de Chile (CHI)",21 OCT 2000,1183,3000-metres-steeplechase,middlelong,male,u20
-96,8:16.40,,Samuel FIREWU,03 MAY 2004,ETH,2,"Bregyó Athletic Center, Székesfehérvár (HUN)",18 JUL 2023,1183,3000-metres-steeplechase,middlelong,male,u20
-97,8:16.45,,Brimin Kiprop KIPRUTO,31 JUL 1985,KEN,6,"Stade Louis II, Monaco (MON)",19 SEP 2004,1183,3000-metres-steeplechase,middlelong,male,u20
-98,8:16.58,,Benjamin KIPLAGAT,04 MAR 1989,UGA,5,"Gottlieb-Daimler Stadion, Stuttgart (GER)",14 SEP 2008,1182,3000-metres-steeplechase,middlelong,male,u20
-99,8:16.64,,Lamecha GIRMA,26 NOV 2000,ETH,1h2,"Khalifa International Stadium, Doha (QAT)",01 OCT 2019,1182,3000-metres-steeplechase,middlelong,male,u20
-100,8:16.69,,Ronald Kipchumba RUTTO,08 OCT 1987,KEN,4,"FBK Stadium, Hengelo (NED)",29 MAY 2005,1181,3000-metres-steeplechase,middlelong,male,u20
-101,8:16.74,,Jairus Kipchoge BIRECH,14 DEC 1992,KEN,1,Velenje (SLO),28 JUN 2011,1181,3000-metres-steeplechase,middlelong,male,u20
-102,8:16.76,,Kipkurui MISOI,23 OCT 1978,KEN,2,Dortmund (GER),08 JUN 1997,1181,3000-metres-steeplechase,middlelong,male,u20
-102,8:16.76,,Kipkurui MISOI,23 OCT 1978,KEN,2,Dortmund (GER),03 SEP 1997,1181,3000-metres-steeplechase,middlelong,male,u20
-104,8:16.78,,Benjamin KIPLAGAT,04 MAR 1989,UGA,5,"Boudewijnstadion, Bruxelles (BEL)",05 SEP 2008,1181,3000-metres-steeplechase,middlelong,male,u20
-105,8:16.90,,Ryuji MIURA,11 FEB 2002,JPN,7,"National Stadium, Tokyo (JPN)",02 AUG 2021,1181,3000-metres-steeplechase,middlelong,male,u20
-106,8:16.96,,Abel YAGUT,26 DEC 1984,KEN,4,San Sebastián (ESP),10 AUG 2003,1180,3000-metres-steeplechase,middlelong,male,u20
-106,8:16.96,,John KOECH,23 AUG 1995,KEN,6,"Olympiastadion, Stockholm (SWE)",22 AUG 2013,1180,3000-metres-steeplechase,middlelong,male,u20
-108,8:16.97,,Leonard Kipkemoi BETT,03 NOV 2000,KEN,4,"Alexander Stadium, Birmingham (GBR)",18 AUG 2018,1180,3000-metres-steeplechase,middlelong,male,u20
-109,8:17.02,,Thomas KIPLITAN,15 JUN 1983,KEN,8,"Stade de France, Paris-St-Denis (FRA)",05 JUL 2002,1180,3000-metres-steeplechase,middlelong,male,u20
-110,8:17.03,,Barnabas KIPYEGO,12 JUN 1995,KEN,3,"Alexander Stadium, Birmingham (GBR)",24 AUG 2014,1180,3000-metres-steeplechase,middlelong,male,u20
-111,8:17.04,,Yemane HAILESELASSIE,21 FEB 1998,ERI,1,Huelva (ESP),14 JUN 2017,1180,3000-metres-steeplechase,middlelong,male,u20
-112,8:17.1h,,Brimin Kiprop KIPRUTO,31 JUL 1985,KEN,2,Nairobi (KEN),26 JUN 2004,1180,3000-metres-steeplechase,middlelong,male,u20
-113,8:17.21,,Nahom Mesfin TARIKU,03 JUN 1989,ETH,3,Algiers (ALG),18 JUL 2007,1179,3000-metres-steeplechase,middlelong,male,u20
-114,8:17.23,,Hillary Kipsang YEGO,02 APR 1992,KEN,5,"Olympiastadion, Berlin (GER)",11 SEP 2011,1179,3000-metres-steeplechase,middlelong,male,u20
-115,8:17.28,,Jonathan Muia NDIKU,18 SEP 1991,KEN,1,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",13 JUL 2008,1179,3000-metres-steeplechase,middlelong,male,u20
-116,8:17.42,,Paul Malakwen KOSGEI,22 APR 1978,KEN,3,Formia (ITA),13 JUL 1997,1178,3000-metres-steeplechase,middlelong,male,u20
-117,8:17.46,,Ryuji MIURA,11 FEB 2002,JPN,1,"National Stadium, Tokyo (JPN)",09 MAY 2021,1178,3000-metres-steeplechase,middlelong,male,u20
-117,8:17.46,,Matthew KOSGEI,14 MAR 2006,KEN,2,"Estadio Atlético de la VIDENA, Lima (PER)",31 AUG 2024,1178,3000-metres-steeplechase,middlelong,male,u20
-119,8:17.52,,Nahom Mesfin TARIKU,03 JUN 1989,ETH,2,Neerpelt (BEL),02 JUN 2007,1178,3000-metres-steeplechase,middlelong,male,u20
-120,8:17.62,,Thomas KIPLITAN,15 JUN 1983,KEN,8,Stockholm (SWE),16 JUL 2002,1177,3000-metres-steeplechase,middlelong,male,u20
-121,8:17.73,,Gilbert KIRUI,22 JAN 1994,KEN,5,"Olympiastadion, Berlin (GER)",01 SEP 2013,1177,3000-metres-steeplechase,middlelong,male,u20
-122,8:18.11,,Bisluke Kipkorir KIPLAGAT,08 AUG 1988,KEN,2,"Chaoyang Sport Center, Beijing (CHN)",19 AUG 2006,1175,3000-metres-steeplechase,middlelong,male,u20
-123,8:18.29,,Yemane HAILESELASSIE,21 FEB 1998,ERI,2,"Olympiastadion, Stockholm (SWE)",18 JUN 2017,1174,3000-metres-steeplechase,middlelong,male,u20
-124,8:18.32,,Amos KIRUI,09 FEB 1998,KEN,7,"Boudewijnstadion, Bruxelles (BEL)",01 SEP 2017,1174,3000-metres-steeplechase,middlelong,male,u20
-125,8:18.36,,Thomas KIPLITAN,15 JUN 1983,KEN,2,Athina (GRE),10 JUN 2002,1174,3000-metres-steeplechase,middlelong,male,u20
-126,8:18.43,,Abel YAGUT,26 DEC 1984,KEN,2,Rabat (MAR),14 JUN 2003,1174,3000-metres-steeplechase,middlelong,male,u20
-126,8:18.43,,Simon Kiprop KOECH,10 JUN 2003,KEN,1,"Moi International Sports Centre, Kasarani, Nairobi (KEN)",03 JUL 2021,1174,3000-metres-steeplechase,middlelong,male,u20
-128,8:18.51,,Ronald Kipchumba RUTTO,08 OCT 1987,KEN,13,"Boudewijnstadion, Bruxelles (BEL)",03 SEP 2004,1173,3000-metres-steeplechase,middlelong,male,u20
-129,8:18.52,,Moustafa Ahmed SHEBTO,04 JUL 1986,QAT,14,"Boudewijnstadion, Bruxelles (BEL)",03 SEP 2004,1173,3000-metres-steeplechase,middlelong,male,u20
-130,8:18.57,,Jacob ARAPTANY,11 FEB 1992,UGA,1h1,"DS, Daegu (KOR)",29 AUG 2011,1173,3000-metres-steeplechase,middlelong,male,u20
-131,8:18.67,,Jacob ARAPTANY,11 FEB 1992,UGA,6,"DS, Daegu (KOR)",01 SEP 2011,1173,3000-metres-steeplechase,middlelong,male,u20
-132,8:18.70,,Abel YAGUT,26 DEC 1984,KEN,1,Luzern (SUI),25 JUN 2003,1172,3000-metres-steeplechase,middlelong,male,u20
-133,8:18.71,,Julius Kipling CHELULE,25 DEC 1978,KEN,4,Bratislava (SVK),10 JUN 1997,1172,3000-metres-steeplechase,middlelong,male,u20
-134,8:18.85,,Stephen CHERONO,15 OCT 1982,KEN,3,Melbourne (AUS),09 SEP 2001,1172,3000-metres-steeplechase,middlelong,male,u20
-135,8:19.12,,Abraham CHERONO,21 JUL 1980,KEN,11,Zürich (SUI),11 AUG 1999,1170,3000-metres-steeplechase,middlelong,male,u20
-136,8:19.19,,Yemane HAILESELASSIE,21 FEB 1998,ERI,8,"Boudewijnstadion, Bruxelles (BEL)",01 SEP 2017,1170,3000-metres-steeplechase,middlelong,male,u20
-137,8:19.21,,Daniel NJENGA,07 MAY 1976,KEN,1,Tokyo (JPN),12 JUN 1994,1170,3000-metres-steeplechase,middlelong,male,u20
-138,8:19.22,,Jaouad CHEMLAL,11 APR 1994,MAR,6,Rabat (MAR),09 JUN 2013,1170,3000-metres-steeplechase,middlelong,male,u20
-139,8:19.24,,Abel YAGUT,26 DEC 1984,KEN,8,Zürich (SUI),15 AUG 2003,1170,3000-metres-steeplechase,middlelong,male,u20
-139,8:19.24,,Benjamin KIPLAGAT,04 MAR 1989,UGA,2,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",13 JUL 2008,1170,3000-metres-steeplechase,middlelong,male,u20
-141,8:19.25,,Jonathan Muia NDIKU,18 SEP 1991,KEN,2,Nairobi (KEN),26 JUN 2010,1170,3000-metres-steeplechase,middlelong,male,u20
-142,8:19.26,,Nicholas Kiptonui BETT,20 DEC 1996,KEN,1,Heusden-Zolder (BEL),18 JUL 2015,1170,3000-metres-steeplechase,middlelong,male,u20
-143,8:19.30,,Hillary Kipsang YEGO,02 APR 1992,KEN,4,"Olympiastadion, Stockholm (SWE)",29 JUL 2011,1170,3000-metres-steeplechase,middlelong,male,u20
-144,8:19.37,,Ryuji MIURA,11 FEB 2002,JPN,1,"Aoba Park Athletic Field, Chitose (JPN)",18 JUL 2020,1169,3000-metres-steeplechase,middlelong,male,u20
-145,8:19.38,,Raymond Kipkorir YATOR,07 APR 1981,KEN,2,Luzern (SUI),27 JUN 2000,1169,3000-metres-steeplechase,middlelong,male,u20
-146,8:19.41,,Jairus Kipchoge BIRECH,14 DEC 1992,KEN,5,"Olympiastadion, Stockholm (SWE)",29 JUL 2011,1169,3000-metres-steeplechase,middlelong,male,u20
-147,8:19.43,,Stephen CHERONO,15 OCT 1982,KEN,3,Doha (QAT),18 MAY 2001,1169,3000-metres-steeplechase,middlelong,male,u20
-148,8:19.46,,Conseslus KIPRUTO,08 DEC 1994,KEN,1h2,"Estadio Olímpico, Barcelona (ESP)",13 JUL 2012,1169,3000-metres-steeplechase,middlelong,male,u20
-149,8:19.49,,Conseslus KIPRUTO,08 DEC 1994,KEN,2,Kawasaki (JPN),06 MAY 2012,1169,3000-metres-steeplechase,middlelong,male,u20
-150,8:19.50,,Hillary Kipsang YEGO,02 APR 1992,KEN,3,Heusden-Zolder (BEL),10 JUL 2010,1169,3000-metres-steeplechase,middlelong,male,u20
-151,8:19.60,,Philemon Kiplagat RUTO,20 SEP 2001,KEN,2,"Aoba Park Athletic Field, Chitose (JPN)",18 JUL 2020,1168,3000-metres-steeplechase,middlelong,male,u20
-152,8:19.63,,Justus Kipchirchir KIPRONO,28 FEB 1987,KEN,6,Heusden-Zolder (BEL),31 JUL 2004,1168,3000-metres-steeplechase,middlelong,male,u20
-152,8:19.63,,Salaheddine BEN YAZIDE,06 MAY 2003,MAR,10,"Complexe Sportif Prince Moulay Abdellah, Rabat (MAR)",05 JUN 2022,1168,3000-metres-steeplechase,middlelong,male,u20
-154,8:19.82,,Julius Kipling CHELULE,25 DEC 1978,KEN,3,"FBK Stadium, Hengelo (NED)",31 MAY 1997,1167,3000-metres-steeplechase,middlelong,male,u20
-154,8:19.82,,Samuel FIREWU,03 MAY 2004,ETH,5,"Mestský Stadion, Ostrava (CZE)",31 MAY 2022,1167,3000-metres-steeplechase,middlelong,male,u20
-156,8:19.84,,Raymond Kipkorir YATOR,07 APR 1981,KEN,1,Tunis (TUN),23 JUL 1999,1167,3000-metres-steeplechase,middlelong,male,u20
-157,8:19.85,,Ronald Kipchumba RUTTO,08 OCT 1987,KEN,3,"AC Gianni Brera, Milano (ITA)",01 JUN 2005,1167,3000-metres-steeplechase,middlelong,male,u20
-158,8:19.94,,Raymond Kipkorir YATOR,07 APR 1981,KEN,1,Kerkrade (NED),03 JUN 2000,1167,3000-metres-steeplechase,middlelong,male,u20
-158,8:19.94,,Abel YAGUT,26 DEC 1984,KEN,3,"Stadion Juliska, Praha (CZE)",29 JUN 2003,1167,3000-metres-steeplechase,middlelong,male,u20
-158,8:19.94,,Gilbert KIRUI,22 JAN 1994,KEN,2,"Estadio Olímpico, Barcelona (ESP)",15 JUL 2012,1167,3000-metres-steeplechase,middlelong,male,u20
-161,8:19.98,,Stephen CHERONO,15 OCT 1982,KEN,3,"Queensland Sport and Athletics Centre, Nathan, Brisbane (AUS)",05 SEP 2001,1167,3000-metres-steeplechase,middlelong,male,u20
-162,8:19.99,,John KOECH,23 AUG 1995,BRN,2,Bydgoszcz (POL),02 JUN 2014,1167,3000-metres-steeplechase,middlelong,male,u20
-163,8:20.05,,Abdelghani AIT BAHMED,28 JUL 1989,MAR,3,"Chaoyang Sport Center, Beijing (CHN)",19 AUG 2006,1166,3000-metres-steeplechase,middlelong,male,u20
-163,8:20.05,,Edmund SEREM,27 DEC 2007,KEN,1f1,"Nyayo National Stadium, Nairobi (KEN)",22 MAY 2024,1166,3000-metres-steeplechase,middlelong,male,u20
-165,8:20.06,,Justus Kipchirchir KIPRONO,28 FEB 1987,KEN,3,Linz (AUT),02 AUG 2004,1166,3000-metres-steeplechase,middlelong,male,u20
-166,8:20.07,,Christopher SOGET,15 AUG 1980,KEN,2,Tunis (TUN),23 JUL 1999,1166,3000-metres-steeplechase,middlelong,male,u20
-167,8:20.21,,Nicholas Kiptonui BETT,20 DEC 1996,KEN,2,"Bregyó Athletic Center, Székesfehérvár (HUN)",07 JUL 2015,1166,3000-metres-steeplechase,middlelong,male,u20
-168,8:20.22,,Benjamin KIPLAGAT,04 MAR 1989,UGA,3h3,"National Stadium, Beijing (CHN)",16 AUG 2008,1166,3000-metres-steeplechase,middlelong,male,u20
-169,8:20.26,,Amos SEREM,28 AUG 2002,KEN,2,"Moi International Sports Centre, Kasarani, Nairobi (KEN)",03 JUL 2021,1165,3000-metres-steeplechase,middlelong,male,u20
-170,8:20.27,,Benjamin KIPLAGAT,04 MAR 1989,UGA,9,"National Stadium, Beijing (CHN)",18 AUG 2008,1165,3000-metres-steeplechase,middlelong,male,u20
-170,8:20.27,,Samuel FIREWU,03 MAY 2004,ETH,1,"Olympiastadion, Stockholm (SWE)",04 JUL 2021,1165,3000-metres-steeplechase,middlelong,male,u20
-172,8:20.29,,Abdelghani AIT BAHMED,28 JUL 1989,MAR,6,Heusden-Zolder (BEL),22 JUL 2006,1165,3000-metres-steeplechase,middlelong,male,u20
-172,8:20.29,,Ali Thamer KAMAL,12 NOV 1988,QAT,3,Helsinki (FIN),26 JUL 2006,1165,3000-metres-steeplechase,middlelong,male,u20
-172,8:20.29,,Leonard Kipkemoi BETT,03 NOV 2000,KEN,1,"Nyayo National Stadium, Nairobi (KEN)",13 SEP 2019,1165,3000-metres-steeplechase,middlelong,male,u20
-175,8:20.31,,Hillary Kipsang YEGO,02 APR 1992,KEN,6,"Letzigrund, Zürich (SUI)",08 SEP 2011,1165,3000-metres-steeplechase,middlelong,male,u20
-176,8:20.40,,Raymond Kipkorir YATOR,07 APR 1981,KEN,7,Köln (GER),08 AUG 1999,1165,3000-metres-steeplechase,middlelong,male,u20
-177,8:20.43,,Bisluke Kipkorir KIPLAGAT,08 AUG 1988,KEN,5,"FBK Stadium, Hengelo (NED)",26 MAY 2007,1165,3000-metres-steeplechase,middlelong,male,u20
-177,8:20.43,,Amos KIRUI,09 FEB 1998,KEN,1,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",24 JUL 2016,1165,3000-metres-steeplechase,middlelong,male,u20
-179,8:20.47,,Joash RUTO,15 AUG 2006,KEN,4,"Hayward Field, Eugene, OR (USA)",13 JUN 2025,1164,3000-metres-steeplechase,middlelong,male,u20
-180,8:20.55,,Paul Malakwen KOSGEI,22 APR 1978,KEN,3,Rieti (ITA),03 SEP 1997,1164,3000-metres-steeplechase,middlelong,male,u20
-181,8:20.56,,Kipkurui MISOI,23 OCT 1978,KEN,1,Cottbus (GER),11 JUN 1997,1164,3000-metres-steeplechase,middlelong,male,u20
-182,8:20.57,,Nahom Mesfin TARIKU,03 JUN 1989,ETH,1,Huelva (ESP),13 SEP 2007,1164,3000-metres-steeplechase,middlelong,male,u20
-183,8:20.58,,Legesse LAMISO,13 JAN 1990,ETH,1,"Stadion Juliska, Praha (CZE)",08 JUN 2009,1164,3000-metres-steeplechase,middlelong,male,u20
-184,8:20.67,,Richard LIMO,18 NOV 1980,KEN,2,Dakar (SEN),20 AUG 1998,1164,3000-metres-steeplechase,middlelong,male,u20
-185,8:20.73,,Paul CHEMASE,24 AUG 1976,KEN,10,"Stade Louis II, Monaco (MON)",25 JUL 1995,1163,3000-metres-steeplechase,middlelong,male,u20
-186,8:20.75,,Hillary Kipsang YEGO,02 APR 1992,KEN,6,"Bislett Stadion, Oslo (NOR)",09 JUN 2011,1163,3000-metres-steeplechase,middlelong,male,u20
-187,8:20.76,,Takele NIGATE,02 OCT 1999,ETH,6,"FBK Stadium, Hengelo (NED)",11 JUN 2017,1163,3000-metres-steeplechase,middlelong,male,u20
-188,8:20.80,,Ronald Kipchumba RUTTO,08 OCT 1987,KEN,4,Rieti (ITA),28 AUG 2005,1163,3000-metres-steeplechase,middlelong,male,u20
-189,8:20.88,,Silas Kosgei KITUM,25 MAY 1990,KEN,6,Barcelona (ESP),25 JUL 2009,1163,3000-metres-steeplechase,middlelong,male,u20
-190,8:20.94,,Ronald Kipchumba RUTTO,08 OCT 1987,KEN,14,Heusden-Zolder (BEL),23 JUL 2005,1162,3000-metres-steeplechase,middlelong,male,u20
-191,8:20.96,,Julius Kipling CHELULE,25 DEC 1978,KEN,3,Dortmund (GER),03 SEP 1997,1162,3000-metres-steeplechase,middlelong,male,u20
-192,8:21.00,,Christopher SOGET,15 AUG 1980,KEN,1,Sopot (POL),06 AUG 1999,1162,3000-metres-steeplechase,middlelong,male,u20
-193,8:21.09,,Nahom Mesfin TARIKU,03 JUN 1989,ETH,5,"Stadio Olimpico, Roma (ITA)",11 JUL 2008,1162,3000-metres-steeplechase,middlelong,male,u20
-194,8:21.10,,Hailemariyam AMARE,22 FEB 1997,ETH,5,"National Stadium, Beijing (CHN)",18 MAY 2016,1162,3000-metres-steeplechase,middlelong,male,u20
-195,8:21.16,,Gilbert KIRUI,22 JAN 1994,KEN,4,Kawasaki (JPN),06 MAY 2012,1161,3000-metres-steeplechase,middlelong,male,u20
-196,8:21.20,,Birhan GETAHUN,05 SEP 1991,ETH,2,"Stadion Juliska, Praha (CZE)",14 JUN 2010,1161,3000-metres-steeplechase,middlelong,male,u20
-197,8:21.25,,Milkesa FIKADU,20 FEB 2005,ETH,4,"Estadio Iberoamericano, Huelva (ESP)",30 APR 2024,1161,3000-metres-steeplechase,middlelong,male,u20
-198,8:21.30,,Jairus Kipchoge BIRECH,14 DEC 1992,KEN,4,Maputo (MOZ),11 SEP 2011,1161,3000-metres-steeplechase,middlelong,male,u20
-198,8:21.3h,,Conseslus KIPRUTO,08 DEC 1994,KEN,1,Nairobi (KEN),09 JUN 2012,1161,3000-metres-steeplechase,middlelong,male,u20
-198,8:21.30,,Philemon Kiplagat RUTO,20 SEP 2001,KEN,1,Yamagata (JPN),02 AUG 2017,1161,3000-metres-steeplechase,middlelong,male,u20
-201,8:21.40,,Leonard Kipkemoi BETT,03 NOV 2000,KEN,1,Nairobi (KEN),11 JUN 2018,1160,3000-metres-steeplechase,middlelong,male,u20
-202,8:21.5h,,John KOECH,23 AUG 1995,KEN,1,Nairobi (KEN),22 JUN 2013,1160,3000-metres-steeplechase,middlelong,male,u20
-203,8:21.56,,Nicholas Kiptonui BETT,20 DEC 1996,KEN,9,"National Stadium, Beijing (CHN)",20 MAY 2015,1160,3000-metres-steeplechase,middlelong,male,u20
-204,8:21.68,,Tareq Mubarak TAHER,01 DEC 1986,BRN,5h2,"Olympiastadion, Helsinki (FIN)",07 AUG 2005,1159,3000-metres-steeplechase,middlelong,male,u20
-204,8:21.68,,Tadese TAKELE,03 AUG 2002,ETH,6,"Letzigrund, Zürich (SUI)",09 SEP 2021,1159,3000-metres-steeplechase,middlelong,male,u20
-206,8:21.73,,Benjamin KIPLAGAT,04 MAR 1989,UGA,1,Velenje (SLO),28 JUN 2007,1159,3000-metres-steeplechase,middlelong,male,u20
-207,8:21.75,,Silas Kosgei KITUM,25 MAY 1990,KEN,2,Heusden-Zolder (BEL),18 JUL 2009,1159,3000-metres-steeplechase,middlelong,male,u20
-208,8:21.78,,Hicham SIGUENI,30 JAN 1993,MAR,1,Liège (BEL),05 JUL 2012,1159,3000-metres-steeplechase,middlelong,male,u20
-209,8:21.79,,Julius Kipling CHELULE,25 DEC 1978,KEN,1,Arnhem (NED),12 JUL 1997,1159,3000-metres-steeplechase,middlelong,male,u20
-210,8:21.82,,Paul Malakwen KOSGEI,22 APR 1978,KEN,12,Zürich (SUI),13 AUG 1997,1158,3000-metres-steeplechase,middlelong,male,u20
-210,8:21.82,,Bisluke Kipkorir KIPLAGAT,08 AUG 1988,KEN,4,Rabat (MAR),17 JUN 2006,1158,3000-metres-steeplechase,middlelong,male,u20
-212,8:21.87,,Ali Ahmed AL AMRI,28 DEC 1987,KSA,3,Algiers (ALG),22 JUN 2006,1158,3000-metres-steeplechase,middlelong,male,u20
-213,8:21.92,,Brimin Kiprop KIPRUTO,31 JUL 1985,KEN,13,Stockholm (SWE),27 JUL 2004,1158,3000-metres-steeplechase,middlelong,male,u20
-214,8:21.94,,Stephen CHERONO,15 OCT 1982,KEN,1,Hobart (AUS),11 MAR 2001,1158,3000-metres-steeplechase,middlelong,male,u20
-214,8:21.94,,Justus Kipchirchir KIPRONO,28 FEB 1987,KEN,5,"Stadio Olimpico, Roma (ITA)",02 JUL 2004,1158,3000-metres-steeplechase,middlelong,male,u20
-214,8:21.94,,Edmund SEREM,27 DEC 2007,KEN,2,"Stade Omnisport de JAPOMA, Douala (CMR)",23 JUN 2024,1158,3000-metres-steeplechase,middlelong,male,u20
-217,8:21.98,,Matthew KOSGEI,14 MAR 2006,KEN,3,"Stade Omnisport de JAPOMA, Douala (CMR)",23 JUN 2024,1158,3000-metres-steeplechase,middlelong,male,u20
-218,8:22.10,,Abraham KIBIWOT,06 APR 1996,KEN,8,"Olympic Stadium, London (GBR)",25 JUL 2015,1157,3000-metres-steeplechase,middlelong,male,u20
-219,8:22.12,,Tesfaye DERIBA,11 SEP 1998,ETH,7,"Olympic Stadium, London (GBR)",08 AUG 2017,1157,3000-metres-steeplechase,middlelong,male,u20
-220,8:22.13,,Matthew KOSGEI,14 MAR 2006,KEN,1f1,"Cobb Track and Angell Field, Palo Alto, CA (USA)",04 APR 2025,1157,3000-metres-steeplechase,middlelong,male,u20
-221,8:22.24,,Nelson KIPKOGEI,09 MAR 1993,KEN,2,Liège (BEL),05 JUL 2012,1157,3000-metres-steeplechase,middlelong,male,u20
-222,8:22.31,,Conseslus KIPRUTO,08 DEC 1994,KEN,1h3,"Luzhniki Stadion, Moskva (RUS)",12 AUG 2013,1156,3000-metres-steeplechase,middlelong,male,u20
-223,8:22.46,,Titus KIBIEGO,03 MAY 1996,KEN,1,Nairobi (KEN),25 JUN 2014,1156,3000-metres-steeplechase,middlelong,male,u20
-224,8:22.47,,Mohammed MSAAD,04 MAR 2004,MAR,6,"Olympiastadion, Stockholm (SWE)",02 JUL 2023,1155,3000-metres-steeplechase,middlelong,male,u20
-225,8:22.5h,,Samuel FIREWU,03 MAY 2004,ETH,1,Hawassa (ETH),31 MAR 2022,1155,3000-metres-steeplechase,middlelong,male,u20
-226,8:22.52,,Yemane HAILESELASSIE,21 FEB 1998,ERI,6f1,Huelva (ESP),03 JUN 2016,1155,3000-metres-steeplechase,middlelong,male,u20
-227,8:22.53,,Silas Kosgei KITUM,25 MAY 1990,KEN,7,"FBK Stadium, Hengelo (NED)",01 JUN 2009,1155,3000-metres-steeplechase,middlelong,male,u20
-228,8:22.55,,John KOECH,23 AUG 1995,BRN,2,Tokyo (JPN),11 MAY 2014,1155,3000-metres-steeplechase,middlelong,male,u20
-229,8:22.59,,Amos KIRUI,09 FEB 1998,KEN,7,"Stade Olympique de la Pontaise, Lausanne (SUI)",25 AUG 2016,1155,3000-metres-steeplechase,middlelong,male,u20
-230,8:22.65,,Philemon Kiplagat RUTO,20 SEP 2001,KEN,1,"Yanmar Stadium Nagai, Osaka (JPN)",19 MAY 2019,1155,3000-metres-steeplechase,middlelong,male,u20
-231,8:22.67,,Yemane HAILESELASSIE,21 FEB 1998,ERI,2,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",24 JUL 2016,1155,3000-metres-steeplechase,middlelong,male,u20
-232,8:22.68,,Getnet WALE,16 JUL 2000,ETH,9,"Stade Louis II, Monaco (MON)",20 JUL 2018,1155,3000-metres-steeplechase,middlelong,male,u20
-233,8:22.7h,,Vincent KIPYEGON,31 DEC 1998,KEN,1,Nairobi (KEN),22 JUN 2016,1154,3000-metres-steeplechase,middlelong,male,u20
-234,8:22.77,,Mohammed MSAAD,04 MAR 2004,MAR,11,"Egret Stadium, Xiamen (CHN)",02 SEP 2023,1154,3000-metres-steeplechase,middlelong,male,u20
-235,8:22.81,,Tesfaye GIRMA,24 JAN 1997,ETH,1,København (DEN),18 JUN 2016,1154,3000-metres-steeplechase,middlelong,male,u20
-236,8:22.83,,Getnet WALE,16 JUL 2000,ETH,3,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",24 JUL 2016,1154,3000-metres-steeplechase,middlelong,male,u20
-237,8:22.84,,Paul Malakwen KOSGEI,22 APR 1978,KEN,15,Bruxelles (BEL),22 AUG 1997,1154,3000-metres-steeplechase,middlelong,male,u20
-237,8:22.84,,Vincent KIPYEGON,31 DEC 1998,KEN,4,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",24 JUL 2016,1154,3000-metres-steeplechase,middlelong,male,u20
-239,8:22.90,,Michael KIPYEGO,02 OCT 1983,KEN,11,Zürich (SUI),16 AUG 2002,1154,3000-metres-steeplechase,middlelong,male,u20
-240,8:22.94,,Joash RUTO,15 AUG 2006,KEN,1sf2,"Hayward Field, Eugene, OR (USA)",11 JUN 2025,1153,3000-metres-steeplechase,middlelong,male,u20
-241,8:22.95,,Mohammed MSAAD,04 MAR 2004,MAR,9h3,"Nemzeti Atlétikai Központ, Budapest (HUN)",19 AUG 2023,1153,3000-metres-steeplechase,middlelong,male,u20
-242,8:22.96,,Abraham CHERONO,21 JUL 1980,KEN,2,Linz (AUT),26 JUL 1999,1153,3000-metres-steeplechase,middlelong,male,u20
-243,8:22.98,,Stephen CHERONO,15 OCT 1982,KEN,2,"Portland, OR (USA)",03 JUN 2001,1153,3000-metres-steeplechase,middlelong,male,u20
-244,8:23.00,,Getnet WALE,16 JUL 2000,ETH,3h1,"Olympic Stadium, London (GBR)",06 AUG 2017,1153,3000-metres-steeplechase,middlelong,male,u20
-245,8:23.01,,Getnet WALE,16 JUL 2000,ETH,2,"Yanmar Stadium Nagai, Osaka (JPN)",19 MAY 2019,1153,3000-metres-steeplechase,middlelong,male,u20
-246,8:23.18,,Ali EZZINE,03 SEP 1978,MAR,14,Zürich (SUI),13 AUG 1997,1152,3000-metres-steeplechase,middlelong,male,u20
-247,8:23.23,,Ronald Kipchumba RUTTO,08 OCT 1987,KEN,9,"Stade de France, Paris-St-Denis (FRA)",01 JUL 2005,1152,3000-metres-steeplechase,middlelong,male,u20
-248,8:23.32,,Ronald Kipchumba RUTTO,08 OCT 1987,KEN,1,"Stadio Zecchini, Grosseto (ITA)",17 JUL 2004,1152,3000-metres-steeplechase,middlelong,male,u20
-249,8:23.33,,John KOECH,23 AUG 1995,BRN,4,"Le Grand Stade, Marrakech (MAR)",08 JUN 2014,1152,3000-metres-steeplechase,middlelong,male,u20
-250,8:23.38,,Musa Amer OBAID,18 APR 1985,QAT,2,"Stadio Zecchini, Grosseto (ITA)",17 JUL 2004,1151,3000-metres-steeplechase,middlelong,male,u20
-251,8:23.4h,,Gilbert KIRUI,22 JAN 1994,KEN,2,Nairobi (KEN),09 JUN 2012,1151,3000-metres-steeplechase,middlelong,male,u20
-252,8:23.48,,Jonathan Muia NDIKU,18 SEP 1991,KEN,1,"Croix-Bleue Medavie Stadium, Moncton (CAN)",25 JUL 2010,1151,3000-metres-steeplechase,middlelong,male,u20
-253,8:23.55,,Tesfaye GIRMA,24 JAN 1997,ETH,1,Sollentuna (SWE),28 JUN 2016,1151,3000-metres-steeplechase,middlelong,male,u20
-254,8:23.60,,Paul CHEMASE,24 AUG 1976,KEN,10,"Stadio Olimpico, Roma (ITA)",08 JUN 1995,1150,3000-metres-steeplechase,middlelong,male,u20
-255,8:23.62,,Samuel FIREWU,03 MAY 2004,ETH,4,"FBK Stadium, Hengelo (NED)",08 JUN 2021,1150,3000-metres-steeplechase,middlelong,male,u20
-256,8:23.66,,Abraham CHERONO,21 JUL 1980,KEN,2,Dortmund (GER),26 JUN 1999,1150,3000-metres-steeplechase,middlelong,male,u20
-256,8:23.66,,Ezekiel KEMBOI,25 MAY 1982,KEN,1,Chania (GRE),04 JUN 2001,1150,3000-metres-steeplechase,middlelong,male,u20
-258,8:23.69,,Albert Kiptoo YATOR,06 SEP 1993,KEN,5,"Boudewijnstadion, Bruxelles (BEL)",27 AUG 2010,1150,3000-metres-steeplechase,middlelong,male,u20
-259,8:23.70,,Matthew KOSGEI,14 MAR 2006,KEN,6,"Hayward Field, Eugene, OR (USA)",13 JUN 2025,1150,3000-metres-steeplechase,middlelong,male,u20
-260,8:23.74,,Paul CHEMASE,24 AUG 1976,KEN,3,Linz (AUT),22 AUG 1995,1150,3000-metres-steeplechase,middlelong,male,u20
-261,8:23.76,,Reuben KOSGEI,12 AUG 1979,KEN,1,"Parc des Sports, Annecy (FRA)",01 AUG 1998,1150,3000-metres-steeplechase,middlelong,male,u20
-262,8:23.77,,Mohamed ISMAIL,01 JAN 1997,DJI,11,"Suhaim bin Hamad Stadium, Doha (QAT)",06 MAY 2016,1150,3000-metres-steeplechase,middlelong,male,u20
-263,8:23.79,,Julius Kipling CHELULE,25 DEC 1978,KEN,8,Hechtel (BEL),19 JUL 1997,1150,3000-metres-steeplechase,middlelong,male,u20
-264,8:23.82,,Nahom Mesfin TARIKU,03 JUN 1989,ETH,5h1,"National Stadium, Beijing (CHN)",16 AUG 2008,1149,3000-metres-steeplechase,middlelong,male,u20
-265,8:23.84,,Matthew KOSGEI,14 MAR 2006,KEN,3,"Nyayo National Stadium, Nairobi (KEN)",20 APR 2024,1149,3000-metres-steeplechase,middlelong,male,u20
-266,8:23.91,,Abdelghani AIT BAHMED,28 JUL 1989,MAR,5,Rabat (MAR),17 JUN 2006,1149,3000-metres-steeplechase,middlelong,male,u20
-267,8:23.93,,Nicholas Kiptonui BETT,20 DEC 1996,KEN,11,"Shanghai Stadium, Shanghai (CHN)",17 MAY 2015,1149,3000-metres-steeplechase,middlelong,male,u20
-268,8:23.94,,Julius KORIR,05 DEC 1963,KEN,1,Brisbane (AUS),04 OCT 1982,1149,3000-metres-steeplechase,middlelong,male,u20
-268,8:23.94,,Musa Amer OBAID,18 APR 1985,QAT,1h3,"Olympic Stadium, Athina (GRE)",21 AUG 2004,1149,3000-metres-steeplechase,middlelong,male,u20
-270,8:23.96,,Justus Kipchirchir KIPRONO,28 FEB 1987,KEN,1,Algiers (ALG),24 JUN 2004,1149,3000-metres-steeplechase,middlelong,male,u20
-271,8:24.00,,Ali Ahmed AL AMRI,28 DEC 1987,KSA,6,Rabat (MAR),17 JUN 2006,1149,3000-metres-steeplechase,middlelong,male,u20
-272,8:24.08,,Abraham CHERONO,21 JUL 1980,KEN,2,Milano (ITA),09 JUN 1999,1148,3000-metres-steeplechase,middlelong,male,u20
-272,8:24.08,,Jacob ARAPTANY,11 FEB 1992,UGA,5,Maputo (MOZ),11 SEP 2011,1148,3000-metres-steeplechase,middlelong,male,u20
-272,8:24.08,,Hailu AYALEW,21 JAN 2008,ETH,3,"Estadio Atlético de la VIDENA, Lima (PER)",31 AUG 2024,1148,3000-metres-steeplechase,middlelong,male,u20
-275,8:24.10,,Barnabas KIPYEGO,12 JUN 1995,KEN,2,Nairobi (KEN),25 JUN 2014,1148,3000-metres-steeplechase,middlelong,male,u20
-276,8:24.12,,Bisluke Kipkorir KIPLAGAT,08 AUG 1988,KEN,2,Neerpelt (BEL),05 JUN 2006,1148,3000-metres-steeplechase,middlelong,male,u20
-277,8:24.17,,Raymond Kipkorir YATOR,07 APR 1981,KEN,1,Rehlingen (GER),12 JUN 2000,1148,3000-metres-steeplechase,middlelong,male,u20
-278,8:24.19,,Hailemariyam AMARE,22 FEB 1997,ETH,3,Brazzaville (CGO),13 SEP 2015,1148,3000-metres-steeplechase,middlelong,male,u20
-279,8:24.20,,Paul Malakwen KOSGEI,22 APR 1978,KEN,7,Nairobi (KEN),28 JUN 1997,1148,3000-metres-steeplechase,middlelong,male,u20
-280,8:24.22,,Jacob ARAPTANY,11 FEB 1992,UGA,1,Bydgoszcz (POL),03 JUN 2011,1148,3000-metres-steeplechase,middlelong,male,u20
-281,8:24.23,,Abel YAGUT,26 DEC 1984,KEN,11,Paris (FRA),04 JUL 2003,1148,3000-metres-steeplechase,middlelong,male,u20
-282,8:24.32,,Christopher Cherono KOSKEI,14 AUG 1974,KEN,1,San Marino (SMR),03 JUL 1993,1147,3000-metres-steeplechase,middlelong,male,u20
-283,8:24.38,,Philemon Kiplagat RUTO,20 SEP 2001,KEN,2,"Prefectural Stadium, Kumagaya (JPN)",19 SEP 2020,1147,3000-metres-steeplechase,middlelong,male,u20
-284,8:24.47,,Matthew BIRIR,05 JUL 1972,KEN,3,Getxo (ESP),29 JUN 1991,1147,3000-metres-steeplechase,middlelong,male,u20
-285,8:24.50,,Bisluke Kipkorir KIPLAGAT,08 AUG 1988,KEN,3,Neerpelt (BEL),02 JUN 2007,1146,3000-metres-steeplechase,middlelong,male,u20
-285,8:24.50,,Edmund SEREM,27 DEC 2007,KEN,4,"Nyayo National Stadium, Nairobi (KEN)",15 JUN 2024,1146,3000-metres-steeplechase,middlelong,male,u20
-287,8:24.53,,Ronald Kipchumba RUTTO,08 OCT 1987,KEN,5,Bydgoszcz (POL),05 JUN 2005,1146,3000-metres-steeplechase,middlelong,male,u20
-288,8:24.54,,Ronald Kipchumba RUTTO,08 OCT 1987,KEN,3,Linz (AUT),31 JUL 2003,1146,3000-metres-steeplechase,middlelong,male,u20
-289,8:24.58,,Christopher Cherono KOSKEI,14 AUG 1974,KEN,2,Durban (RSA),25 JUN 1993,1146,3000-metres-steeplechase,middlelong,male,u20
-289,8:24.58,,Stephen CHERONO,15 OCT 1982,KEN,8,Nice (FRA),09 JUL 2001,1146,3000-metres-steeplechase,middlelong,male,u20
-289,8:24.58,,Mohamed ISMAIL,01 JAN 1997,DJI,7,"Olympiastadion, Stockholm (SWE)",30 JUL 2015,1146,3000-metres-steeplechase,middlelong,male,u20
-292,8:24.64,,Matthew KOSGEI,14 MAR 2006,KEN,1h1,"Estadio Atlético de la VIDENA, Lima (PER)",28 AUG 2024,1146,3000-metres-steeplechase,middlelong,male,u20
-293,8:24.69,,Tadese TAKELE,03 AUG 2002,ETH,9h3,"National Stadium, Tokyo (JPN)",30 JUL 2021,1146,3000-metres-steeplechase,middlelong,male,u20
-294,8:24.74,,Philemon Kiplagat RUTO,20 SEP 2001,KEN,,"Yanmar Stadium Nagai, Osaka (JPN)",04 DEC 2020,1145,3000-metres-steeplechase,middlelong,male,u20
-295,8:24.76,,Ronald Kipchumba RUTTO,08 OCT 1987,KEN,4,Linz (AUT),23 AUG 2005,1145,3000-metres-steeplechase,middlelong,male,u20
-296,8:24.77,,Jaouad CHEMLAL,11 APR 1994,MAR,5,Mersin (TUR),28 JUN 2013,1145,3000-metres-steeplechase,middlelong,male,u20
-297,8:24.87,,Ripeng SUN,25 JAN 1974,CHN,1,Beijing (CHN),11 SEP 1993,1145,3000-metres-steeplechase,middlelong,male,u20
-298,8:25.00,,Justus Kipchirchir KIPRONO,28 FEB 1987,KEN,2,Sollentuna (SWE),08 JUL 2004,1144,3000-metres-steeplechase,middlelong,male,u20
-299,8:25.03,,Gilbert KIRUI,22 JAN 1994,KEN,1,Gaborone (BOT),12 MAY 2011,1144,3000-metres-steeplechase,middlelong,male,u20
-300,8:25.10,,Nahom Mesfin TARIKU,03 JUN 1989,ETH,9,"Boudewijnstadion, Bruxelles (BEL)",05 SEP 2008,1144,3000-metres-steeplechase,middlelong,male,u20
-300,8:25.1h,,Gilbert KIRUI,22 JAN 1994,KEN,5,Nairobi (KEN),13 JUL 2013,1144,3000-metres-steeplechase,middlelong,male,u20
-300,8:25.1h,,Hailemariyam AMARE,22 FEB 1997,ETH,3,Montbéliard (FRA),05 JUN 2015,1144,3000-metres-steeplechase,middlelong,male,u20
-303,8:25.14,,Patrick Kipyegon TERER,06 JUL 1989,KEN,3,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",13 JUL 2008,1144,3000-metres-steeplechase,middlelong,male,u20
-304,8:25.28,,Getnet WALE,16 JUL 2000,ETH,1,Djibouti (DJI),25 MAR 2017,1143,3000-metres-steeplechase,middlelong,male,u20
-304,8:25.28,,Getnet WALE,16 JUL 2000,ETH,9,"Olympic Stadium, London (GBR)",08 AUG 2017,1143,3000-metres-steeplechase,middlelong,male,u20
-306,8:25.30,,Amos SEREM,28 AUG 2002,KEN,4,"Moi International Sports Centre, Kasarani, Nairobi (KEN)",18 SEP 2021,1143,3000-metres-steeplechase,middlelong,male,u20
-307,8:25.31,,Ryuji MIURA,11 FEB 2002,JPN,2,"Municipal Stadium, Hiroshima (JPN)",29 APR 2021,1143,3000-metres-steeplechase,middlelong,male,u20
-308,8:25.33,,Tesfaye DERIBA,11 SEP 1998,ETH,4h3,"Olympic Stadium, London (GBR)",06 AUG 2017,1143,3000-metres-steeplechase,middlelong,male,u20
-309,8:25.35,,Takele NIGATE,02 OCT 1999,ETH,1,"Ratinan Stadion, Tampere (FIN)",15 JUL 2018,1143,3000-metres-steeplechase,middlelong,male,u20
-310,8:25.36,,Hailemariyam AMARE,22 FEB 1997,ETH,6h3,"National Stadium, Beijing (CHN)",22 AUG 2015,1143,3000-metres-steeplechase,middlelong,male,u20
-310,8:25.36,,Amos SEREM,28 AUG 2002,KEN,1h1,"Moi International Sports Centre, Kasarani, Nairobi (KEN)",02 JUL 2021,1143,3000-metres-steeplechase,middlelong,male,u20
-312,8:25.39,,Leonard Kipkemoi BETT,03 NOV 2000,KEN,2,"Ratinan Stadion, Tampere (FIN)",15 JUL 2018,1142,3000-metres-steeplechase,middlelong,male,u20
-313,8:25.41,,Matthew KOSGEI,14 MAR 2006,KEN,1h3,"Cushing Stadium, College Station, TX (USA)",30 MAY 2025,1142,3000-metres-steeplechase,middlelong,male,u20
-314,8:25.42,,Joash RUTO,15 AUG 2006,KEN,2,"Rock Chalk Park, Lawrence, KS (USA)",16 MAY 2025,1142,3000-metres-steeplechase,middlelong,male,u20
-315,8:25.44,,Jaouad CHEMLAL,11 APR 1994,MAR,4,Rabat (MAR),01 JUN 2013,1142,3000-metres-steeplechase,middlelong,male,u20
-316,8:25.45,,Chala BEYO,18 JAN 1996,ETH,4,"Le Grand Stade, Marrakech (MAR)",14 SEP 2014,1142,3000-metres-steeplechase,middlelong,male,u20
-316,8:25.45,,Berihun MOGES,18 MAR 2005,ETH,4,"Estadio Atlético de la VIDENA, Lima (PER)",31 AUG 2024,1142,3000-metres-steeplechase,middlelong,male,u20
-318,8:25.51,,Ali EZZINE,03 SEP 1978,MAR,2,Beirut (LBN),14 JUL 1997,1142,3000-metres-steeplechase,middlelong,male,u20
-319,8:25.55,,Benjamin KIPLAGAT,04 MAR 1989,UGA,4,Cottbus (GER),20 JUN 2007,1142,3000-metres-steeplechase,middlelong,male,u20
-320,8:25.56,,Matthew KOSGEI,14 MAR 2006,KEN,1,"Veterans Memorial Stadium, Clovis, CA (USA)",16 MAY 2025,1142,3000-metres-steeplechase,middlelong,male,u20
-321,8:25.57,,Barnabas KIPYEGO,12 JUN 1995,KEN,1,"Hayward Field, Eugene, OR (USA)",27 JUL 2014,1142,3000-metres-steeplechase,middlelong,male,u20
-322,8:25.59,,Abraham CHERONO,21 JUL 1980,KEN,4,Bellinzona (SUI),01 SEP 1999,1142,3000-metres-steeplechase,middlelong,male,u20
-323,8:25.60,,Leonard Kipkemoi BETT,03 NOV 2000,KEN,1,Abidjan (CIV),20 APR 2019,1142,3000-metres-steeplechase,middlelong,male,u20
-324,8:25.64,,Barnabas KIPYEGO,12 JUN 1995,KEN,5,"Sports Park Mladost, Zagreb (CRO)",02 SEP 2014,1141,3000-metres-steeplechase,middlelong,male,u20
-325,8:25.71,,Ali Thamer KAMAL,12 NOV 1988,QAT,1,Leverkusen (GER),10 AUG 2007,1141,3000-metres-steeplechase,middlelong,male,u20
-326,8:25.72,,Justus Kipchirchir KIPRONO,28 FEB 1987,KEN,5,"AC Gianni Brera, Milano (ITA)",01 JUN 2005,1141,3000-metres-steeplechase,middlelong,male,u20
-327,8:25.73,,Julius Kipling CHELULE,25 DEC 1978,KEN,11,"Stadio Olimpico, Roma (ITA)",05 JUN 1997,1141,3000-metres-steeplechase,middlelong,male,u20
-328,8:25.74,,Birhan GETAHUN,05 SEP 1991,ETH,3,Brazzaville (CGO),30 MAY 2010,1141,3000-metres-steeplechase,middlelong,male,u20
-329,8:25.82,,Chala BEYO,18 JAN 1996,ETH,4,"Todoroki Stadium, Kawasaki (JPN)",10 MAY 2015,1141,3000-metres-steeplechase,middlelong,male,u20
-330,8:25.83,,Hillary Kipsang YEGO,02 APR 1992,KEN,1,Karlstad (SWE),15 JUL 2010,1141,3000-metres-steeplechase,middlelong,male,u20
-331,8:25.98,,Stephen CHERONO,15 OCT 1982,KEN,2,"Palo Alto, CA (USA)",09 JUN 2001,1140,3000-metres-steeplechase,middlelong,male,u20
-331,8:25.98,,Jaouad CHEMLAL,11 APR 1994,MAR,8,Rabat (MAR),27 MAY 2012,1140,3000-metres-steeplechase,middlelong,male,u20
-333,8:26.00,,Julius Kipling CHELULE,25 DEC 1978,KEN,h,Nairobi (KEN),28 JUN 1997,1140,3000-metres-steeplechase,middlelong,male,u20
-333,8:26.0h,,Conseslus KIPRUTO,08 DEC 1994,KEN,1,Mumias (KEN),21 APR 2012,1140,3000-metres-steeplechase,middlelong,male,u20
-335,8:26.02,,John KOECH,23 AUG 1995,BRN,10,"Stade Olympique de la Pontaise, Lausanne (SUI)",03 JUL 2014,1140,3000-metres-steeplechase,middlelong,male,u20
-336,8:26.04,,Moustafa Ahmed SHEBTO,04 JUL 1986,QAT,3,"Stadio Zecchini, Grosseto (ITA)",17 JUL 2004,1140,3000-metres-steeplechase,middlelong,male,u20
-337,8:26.08,,Meresa KAHSAY,23 MAY 1996,ETH,11,"Suhaim bin Hamad Stadium, Doha (QAT)",09 MAY 2014,1139,3000-metres-steeplechase,middlelong,male,u20
-338,8:26.09,,Abraham CHERONO,21 JUL 1980,KEN,2,Chania (GRE),28 JUL 1999,1139,3000-metres-steeplechase,middlelong,male,u20
-339,8:26.15,,Titus KIBIEGO,03 MAY 1996,KEN,2,"Hayward Field, Eugene, OR (USA)",27 JUL 2014,1139,3000-metres-steeplechase,middlelong,male,u20
-340,8:26.16,,Getnet WALE,16 JUL 2000,ETH,3,"Ratinan Stadion, Tampere (FIN)",15 JUL 2018,1139,3000-metres-steeplechase,middlelong,male,u20
-341,8:26.19,,Barnabas KIPYEGO,12 JUN 1995,KEN,11,"Boudewijnstadion, Bruxelles (BEL)",05 SEP 2014,1139,3000-metres-steeplechase,middlelong,male,u20
-341,8:26.19,,Hailemariyam AMARE,22 FEB 1997,ETH,12,"National Stadium, Beijing (CHN)",24 AUG 2015,1139,3000-metres-steeplechase,middlelong,male,u20
-343,8:26.20,,Nahom Mesfin TARIKU,03 JUN 1989,ETH,1,Gavá (ESP),04 JUN 2006,1139,3000-metres-steeplechase,middlelong,male,u20
-344,8:26.22,,Tesfaye GIRMA,24 JAN 1997,ETH,1,Barcelona (ESP),30 JUN 2016,1139,3000-metres-steeplechase,middlelong,male,u20
-345,8:26.31,,Nahom Mesfin TARIKU,03 JUN 1989,ETH,5,Barcelona (ESP),10 JUN 2006,1138,3000-metres-steeplechase,middlelong,male,u20
-346,8:26.33,,Tafese SOBOKA,29 SEP 1993,ETH,5,Porto Novo (BEN),29 JUN 2012,1138,3000-metres-steeplechase,middlelong,male,u20
-347,8:26.34,,Nelson KIPKOGEI,09 MAR 1993,KEN,1,Bottrop (GER),07 JUL 2012,1138,3000-metres-steeplechase,middlelong,male,u20
-348,8:26.37,,Justus LAGAT,20 MAY 1996,KEN,2,Sollentuna (SWE),25 JUN 2015,1138,3000-metres-steeplechase,middlelong,male,u20
-349,8:26.45,,Paul Malakwen KOSGEI,22 APR 1978,KEN,12,"Stade Louis II, Monaco (MON)",16 AUG 1997,1138,3000-metres-steeplechase,middlelong,male,u20
-350,8:26.47,,Justus LAGAT,20 MAY 1996,KEN,2,Bilbao (ESP),20 JUN 2015,1138,3000-metres-steeplechase,middlelong,male,u20
-351,8:26.51,,Philemon Kiplagat RUTO,20 SEP 2001,KEN,1f1,Okayama (JPN),25 JUN 2017,1138,3000-metres-steeplechase,middlelong,male,u20
-352,8:26.52,,Girma DABA MARU,12 DEC 1980,ETH,7,"FBK Stadium, Hengelo (NED)",30 MAY 1999,1137,3000-metres-steeplechase,middlelong,male,u20
-352,8:26.52,,Philemon Kiplagat RUTO,20 SEP 2001,KEN,2,Nairobi (KEN),11 JUN 2018,1137,3000-metres-steeplechase,middlelong,male,u20
-354,8:26.58,,Gilbert KIRUI,22 JAN 1994,KEN,1h1,"Estadio Olímpico, Barcelona (ESP)",13 JUL 2012,1137,3000-metres-steeplechase,middlelong,male,u20
-355,8:26.59,,Bisluke Kipkorir KIPLAGAT,08 AUG 1988,KEN,8,"Stadion Juliska, Praha (CZE)",13 JUN 2007,1137,3000-metres-steeplechase,middlelong,male,u20
-356,8:26.60,,Paul CHEMASE,24 AUG 1976,KEN,8,"Olympiastadion, Berlin (GER)",01 SEP 1995,1137,3000-metres-steeplechase,middlelong,male,u20
-357,8:26.62,,Wogene Sebisibe SIDAMO,23 JUN 1998,ETH,4,Brazzaville (CGO),13 SEP 2015,1137,3000-metres-steeplechase,middlelong,male,u20
-358,8:26.65,,John KOECH,23 AUG 1995,BRN,8,Huelva (ESP),12 JUN 2014,1137,3000-metres-steeplechase,middlelong,male,u20
-359,8:26.68,,Nahom Mesfin TARIKU,03 JUN 1989,ETH,7,Ostrava (CZE),27 JUN 2007,1137,3000-metres-steeplechase,middlelong,male,u20
-360,8:26.72,,Yemane HAILESELASSIE,21 FEB 1998,ERI,4h2,"Estádio Olímpico, Rio de Janeiro (BRA)",15 AUG 2016,1137,3000-metres-steeplechase,middlelong,male,u20
-361,8:26.79,,John KOECH,23 AUG 1995,BRN,13,"Stade Louis II, Monaco (MON)",18 JUL 2014,1136,3000-metres-steeplechase,middlelong,male,u20
-362,8:26.8h,,Bisluke Kipkorir KIPLAGAT,08 AUG 1988,KEN,1,Nairobi (KEN),22 JUL 2006,1136,3000-metres-steeplechase,middlelong,male,u20
-363,8:26.81,,Jakob INGEBRIGTSEN,19 SEP 2000,NOR,1,Kortrijk (BEL),08 JUL 2017,1136,3000-metres-steeplechase,middlelong,male,u20
-364,8:26.82,,John KOECH,23 AUG 1995,BRN,8,Luzern (SUI),15 JUL 2014,1136,3000-metres-steeplechase,middlelong,male,u20
-365,8:26.83,,Nelson KIPKOGEI,09 MAR 1993,KEN,12,"Stadio Olimpico, Roma (ITA)",31 MAY 2012,1136,3000-metres-steeplechase,middlelong,male,u20
-366,8:27.0h,,Raymond Kipkorir YATOR,07 APR 1981,KEN,1,Nairobi (KEN),22 SEP 2000,1135,3000-metres-steeplechase,middlelong,male,u20
-366,8:27.0h,,Chala BEYO,18 JAN 1996,ETH,4,Montbéliard (FRA),05 JUN 2015,1135,3000-metres-steeplechase,middlelong,male,u20
-368,8:27.03,,Daniel NJENGA,07 MAY 1976,KEN,1,Fukuoka (JPN),02 SEP 1995,1135,3000-metres-steeplechase,middlelong,male,u20
-369,8:27.06,,Justus Kipchirchir KIPRONO,28 FEB 1987,KEN,8,Herakleion (GRE),04 JUL 2004,1135,3000-metres-steeplechase,middlelong,male,u20
-370,8:27.18,,Leonard Kipkemoi BETT,03 NOV 2000,KEN,8,"Letzigrund, Zürich (SUI)",30 AUG 2018,1135,3000-metres-steeplechase,middlelong,male,u20
-371,8:27.22,,Joash RUTO,15 AUG 2006,KEN,3f1,"Cougar Athletic Stadium, Azusa, CA (USA)",16 APR 2025,1134,3000-metres-steeplechase,middlelong,male,u20
-372,8:27.23,,Matthew BIRIR,05 JUL 1972,KEN,,Granada (ESP),25 MAY 1991,1134,3000-metres-steeplechase,middlelong,male,u20
-373,8:27.26,,James Mwanzia MUTUKU,20 DEC 2002,KEN,4,"Sports Park Mladost, Zagreb (CRO)",14 SEP 2021,1134,3000-metres-steeplechase,middlelong,male,u20
-374,8:27.30,,Conseslus KIPRUTO,08 DEC 1994,KEN,1,Königs Wusterhausen (GER),09 SEP 2011,1134,3000-metres-steeplechase,middlelong,male,u20
-375,8:27.39,,Ezekiel KEMBOI,25 MAY 1982,KEN,5,Milano (ITA),06 JUN 2001,1134,3000-metres-steeplechase,middlelong,male,u20
-376,8:27.4h,,Michael KIPYEGO,02 OCT 1983,KEN,1,Nairobi (KEN),17 JUN 2002,1134,3000-metres-steeplechase,middlelong,male,u20
-376,8:27.4h,,Amos KIRUI,09 FEB 1998,KEN,2,Nairobi (KEN),22 JUN 2016,1134,3000-metres-steeplechase,middlelong,male,u20
-376,8:27.40,,Samuel DUGUNA,20 SEP 2003,ETH,2,"Moi International Sports Centre, Kasarani, Nairobi (KEN)",07 MAY 2022,1134,3000-metres-steeplechase,middlelong,male,u20
-379,8:27.52,,Thomas KIPLITAN,15 JUN 1983,KEN,3,Dortmund (GER),08 JUN 2002,1133,3000-metres-steeplechase,middlelong,male,u20
-380,8:27.55,,Ronald Kipchumba RUTTO,08 OCT 1987,KEN,1,Sotteville-lès-Rouen (FRA),08 JUL 2005,1133,3000-metres-steeplechase,middlelong,male,u20
-380,8:27.55,,Milkesa FIKADU,20 FEB 2005,ETH,5,"University of Ghana Sports Stadium, Accra (GHA)",18 MAR 2024,1133,3000-metres-steeplechase,middlelong,male,u20
-382,8:27.56,,Abdelghani AIT BAHMED,28 JUL 1989,MAR,6,Neerpelt (BEL),31 MAY 2008,1133,3000-metres-steeplechase,middlelong,male,u20
-383,8:27.57,,Cleophas Kandie MEYAN,14 AUG 2000,KEN,13,"Complexe Sportif Prince Moulay Abdellah, Rabat (MAR)",13 JUL 2018,1133,3000-metres-steeplechase,middlelong,male,u20
-384,8:27.67,,Paul Malakwen KOSGEI,22 APR 1978,KEN,8,Fukuoka (JPN),13 SEP 1997,1132,3000-metres-steeplechase,middlelong,male,u20
-385,8:27.68,,Edmund SEREM,27 DEC 2007,KEN,1,"Ulinzi Sports Complex, Langata, Nairobi (KEN)",31 MAY 2025,1132,3000-metres-steeplechase,middlelong,male,u20
-386,8:27.70,,Tesfaye DERIBA,11 SEP 1998,ETH,2,Djibouti (DJI),25 MAR 2017,1132,3000-metres-steeplechase,middlelong,male,u20
-387,8:27.72,,Bisluke Kipkorir KIPLAGAT,08 AUG 1988,KEN,3,Huelva (ESP),13 SEP 2007,1132,3000-metres-steeplechase,middlelong,male,u20
-388,8:27.73,,Nahom Mesfin TARIKU,03 JUN 1989,ETH,1,Barakaldo (ESP),24 JUN 2006,1132,3000-metres-steeplechase,middlelong,male,u20
-389,8:27.79,,Soufiane EL BAKKALI,07 JAN 1996,MAR,3,Amiens (FRA),27 JUN 2015,1132,3000-metres-steeplechase,middlelong,male,u20
-390,8:28.0h,,Willy Rutto KOMEN,22 DEC 1987,KEN,2,Nairobi (KEN),22 JUL 2006,1131,3000-metres-steeplechase,middlelong,male,u20
-391,8:28.03,,Chala BEYO,18 JAN 1996,ETH,5,Brazzaville (CGO),13 SEP 2015,1131,3000-metres-steeplechase,middlelong,male,u20
-392,8:28.05,,Silas Kosgei KITUM,25 MAY 1990,KEN,3,"Stadion Juliska, Praha (CZE)",08 JUN 2009,1131,3000-metres-steeplechase,middlelong,male,u20
-393,8:28.08,,Jairus Kipchoge BIRECH,14 DEC 1992,KEN,2,Gaborone (BOT),12 MAY 2011,1131,3000-metres-steeplechase,middlelong,male,u20
-394,8:28.10,,Abraham CHERONO,21 JUL 1980,KEN,7,Athina (GRE),16 JUN 1999,1130,3000-metres-steeplechase,middlelong,male,u20
-394,8:28.1h,,Jonathan Muia NDIKU,18 SEP 1991,KEN,1,Nairobi (KEN),16 JUN 2009,1130,3000-metres-steeplechase,middlelong,male,u20
-396,8:28.12,,Collins KOSGEI,04 AUG 1986,KEN,1,Melbourne (AUS),17 FEB 2005,1130,3000-metres-steeplechase,middlelong,male,u20
-397,8:28.13,,Clement Kimutai KEMBOI,10 FEB 1992,KEN,2,Königs Wusterhausen (GER),09 SEP 2011,1130,3000-metres-steeplechase,middlelong,male,u20
-398,8:28.14,,Jacob ARAPTANY,11 FEB 1992,UGA,1h2,"Croix-Bleue Medavie Stadium, Moncton (CAN)",23 JUL 2010,1130,3000-metres-steeplechase,middlelong,male,u20
-399,8:28.23,,Jonathan Muia NDIKU,18 SEP 1991,KEN,2h2,"Croix-Bleue Medavie Stadium, Moncton (CAN)",23 JUL 2010,1130,3000-metres-steeplechase,middlelong,male,u20
-400,8:28.29,,Nahom Mesfin TARIKU,03 JUN 1989,ETH,4,"Chaoyang Sport Center, Beijing (CHN)",19 AUG 2006,1130,3000-metres-steeplechase,middlelong,male,u20
-401,8:28.33,,Conseslus KIPRUTO,08 DEC 1994,KEN,4,Dubnica nad Váhom (SVK),15 SEP 2011,1129,3000-metres-steeplechase,middlelong,male,u20
-402,8:28.36,,Abdelghani AIT BAHMED,28 JUL 1989,MAR,7,Algiers (ALG),22 JUN 2006,1129,3000-metres-steeplechase,middlelong,male,u20
-403,8:28.43,,Matthew BIRIR,05 JUL 1972,KEN,1,Nurmijärvi (FIN),20 JUN 1990,1129,3000-metres-steeplechase,middlelong,male,u20
-403,8:28.43,,Hirko HAYILU,05 JAN 2006,ETH,1,"Sola Arena, Karlstad (SWE)",03 JUL 2025,1129,3000-metres-steeplechase,middlelong,male,u20
-405,8:28.44,,Abraham KEBETO,1986,ETH,3,Barakaldo (ESP),10 JUL 2004,1129,3000-metres-steeplechase,middlelong,male,u20
-406,8:28.48,,Abrham SIME,07 NOV 2001,ETH,4,Hengelo (NED),17 JUL 2019,1129,3000-metres-steeplechase,middlelong,male,u20
-407,8:28.49,,Samuel CHEPKOK,18 NOV 1977,KEN,7,Sevilla (ESP),06 JUN 1996,1129,3000-metres-steeplechase,middlelong,male,u20
-408,8:28.51,,Ryuji MIURA,11 FEB 2002,JPN,1,"Denka Big Swan Stadium, Niigata (JPN)",11 SEP 2020,1129,3000-metres-steeplechase,middlelong,male,u20
-409,8:28.53,,Kipkurui MISOI,23 OCT 1978,KEN,16,Zürich (SUI),13 AUG 1997,1129,3000-metres-steeplechase,middlelong,male,u20
-410,8:28.60,,Mohamed ISMAIL,01 JAN 1997,DJI,3f1,Barcelona (ESP),08 JUL 2015,1128,3000-metres-steeplechase,middlelong,male,u20
-411,8:28.62,,Elijah CHELIMO,20 APR 1987,KEN,1,Cottbus (GER),05 JUN 2005,1128,3000-metres-steeplechase,middlelong,male,u20
-412,8:28.7h,,Reuben KOSGEI,12 AUG 1979,KEN,1,Nairobi (KEN),16 JUN 1998,1128,3000-metres-steeplechase,middlelong,male,u20
-413,8:28.71,,Nelson KIPKOGEI,09 MAR 1993,KEN,5,Bydgoszcz (POL),03 JUN 2012,1128,3000-metres-steeplechase,middlelong,male,u20
-414,8:28.78,,Hicham CHAMLAL,02 DEC 1997,MAR,10,"Complexe Sportif Prince Moulay Abdellah, Rabat (MAR)",14 JUN 2015,1127,3000-metres-steeplechase,middlelong,male,u20
-415,8:28.8h,,Benjamin KIPLAGAT,04 MAR 1989,UGA,1,Kampala (UGA),26 JUL 2008,1127,3000-metres-steeplechase,middlelong,male,u20
-416,8:28.83,,Jonathan Muia NDIKU,18 SEP 1991,KEN,1,Bambous (MRI),30 JUL 2009,1127,3000-metres-steeplechase,middlelong,male,u20
-416,8:28.83,,Nicholas Kiptonui BETT,20 DEC 1996,KEN,3,Dessau (GER),11 JUN 2014,1127,3000-metres-steeplechase,middlelong,male,u20
-418,8:28.86,,Collins KOSGEI,04 AUG 1986,KEN,2,Zaragoza (ESP),23 JUN 2005,1127,3000-metres-steeplechase,middlelong,male,u20
-418,8:28.86,,Nahom Mesfin TARIKU,03 JUN 1989,ETH,12,"Yanmar Stadium Nagai, Osaka (JPN)",28 AUG 2007,1127,3000-metres-steeplechase,middlelong,male,u20
-418,8:28.86,,Joash RUTO,15 AUG 2006,KEN,1h2,"Cushing Stadium, College Station, TX (USA)",30 MAY 2025,1127,3000-metres-steeplechase,middlelong,male,u20
-421,8:28.89,,Simon Kiprop KOECH,10 JUN 2003,KEN,2h1,"Moi International Sports Centre, Kasarani, Nairobi (KEN)",02 JUL 2021,1127,3000-metres-steeplechase,middlelong,male,u20
-422,8:28.90,,Philip TARUS,1982,KEN,4,Grudziadz (POL),07 SEP 2001,1127,3000-metres-steeplechase,middlelong,male,u20
-423,8:28.96,,John KOECH,23 AUG 1995,BRN,5,"Le Grand Stade, Marrakech (MAR)",14 SEP 2014,1127,3000-metres-steeplechase,middlelong,male,u20
-424,8:28.97,,Weynay GHEBRESILASIE,24 MAR 1994,ERI,2,Oordegem (BEL),26 MAY 2012,1127,3000-metres-steeplechase,middlelong,male,u20
-425,8:29.0h,,Getnet WALE,16 JUL 2000,ETH,1,Addis Abeba (ETH),22 APR 2018,1126,3000-metres-steeplechase,middlelong,male,u20
-426,8:29.03,,Habtamu FAYISA,19 APR 1993,ETH,6,Porto Novo (BEN),29 JUN 2012,1126,3000-metres-steeplechase,middlelong,male,u20
-427,8:29.05,,Tetsu SASAKI,24 NOV 2006,JPN,2,"Egao Kenko Stadium, Kumamoto (JPN)",12 APR 2025,1126,3000-metres-steeplechase,middlelong,male,u20
-428,8:29.1h,,Patrick Kipyegon TERER,06 JUL 1989,KEN,1,Nairobi (KEN),18 JUN 2008,1126,3000-metres-steeplechase,middlelong,male,u20
-428,8:29.1h,,Getnet WALE,16 JUL 2000,ETH,1,Addis Abeba (ETH),11 MAY 2019,1126,3000-metres-steeplechase,middlelong,male,u20
-430,8:29.11,,Legesse LAMISO,13 JAN 1990,ETH,11,"FBK Stadium, Hengelo (NED)",01 JUN 2009,1126,3000-metres-steeplechase,middlelong,male,u20
-431,8:29.12,,Axel Vang CHRISTENSEN,30 JUL 2004,DEN,7,"Fana Stadion, Bergen (NOR)",08 JUN 2022,1126,3000-metres-steeplechase,middlelong,male,u20
-432,8:29.16,,Tareq Mubarak TAHER,01 DEC 1986,BRN,6,"AC Gianni Brera, Milano (ITA)",01 JUN 2005,1126,3000-metres-steeplechase,middlelong,male,u20
-433,8:29.19,,Matthew BIRIR,05 JUL 1972,KEN,9,Barcelona (ESP),16 JUL 1990,1126,3000-metres-steeplechase,middlelong,male,u20
-434,8:29.21,,Million WOLDE,17 MAR 1979,ETH,8,"FBK Stadium, Hengelo (NED)",31 MAY 1997,1126,3000-metres-steeplechase,middlelong,male,u20
-435,8:29.24,,Chala BEYO,18 JAN 1996,ETH,6,"Stadion Juliska, Praha (CZE)",08 JUN 2015,1125,3000-metres-steeplechase,middlelong,male,u20
-436,8:29.28,,Dominic Chemut KIPTARUS,19 AUG 1996,KEN,3,Nairobi (KEN),25 JUN 2014,1125,3000-metres-steeplechase,middlelong,male,u20
-437,8:29.50,,Ralf PÖNITZSCH,20 OCT 1957,GDR,4,Warszawa (POL),19 AUG 1976,1124,3000-metres-steeplechase,middlelong,male,u20
-437,8:29.50,,Girma DABA MARU,12 DEC 1980,ETH,1,Cottbus (GER),26 MAY 1999,1124,3000-metres-steeplechase,middlelong,male,u20
-439,8:29.54,,Michael KIPYEGO,02 OCT 1983,KEN,1,"National Stadium, Kingston (JAM)",20 JUL 2002,1124,3000-metres-steeplechase,middlelong,male,u20
-440,8:29.57,,Wenli SUN,09 FEB 1978,CHN,3,Shanghai (CHN),19 OCT 1997,1124,3000-metres-steeplechase,middlelong,male,u20
-440,8:29.57,,Nahom Mesfin TARIKU,03 JUN 1989,ETH,2h2,"Yanmar Stadium Nagai, Osaka (JPN)",26 AUG 2007,1124,3000-metres-steeplechase,middlelong,male,u20
-442,8:29.59,,Abraham KEBETO,1986,ETH,6,San Sebastián (ESP),03 JUL 2004,1124,3000-metres-steeplechase,middlelong,male,u20
-443,8:29.75,,Collins KOSGEI,04 AUG 1986,KEN,1,Sollentuna (SWE),28 JUN 2005,1123,3000-metres-steeplechase,middlelong,male,u20
-444,8:29.76,,Abel Kiprop MUTAI,02 OCT 1988,KEN,1,Ouagadougou (BUR),09 AUG 2007,1123,3000-metres-steeplechase,middlelong,male,u20
-445,8:29.78,,Xiangqian LIN,27 JAN 1987,CHN,1,Shijiazhuang (CHN),06 AUG 2006,1123,3000-metres-steeplechase,middlelong,male,u20
-445,8:29.78,,Titus KIBIEGO,03 MAY 1996,KEN,6,"Sports Park Mladost, Zagreb (CRO)",02 SEP 2014,1123,3000-metres-steeplechase,middlelong,male,u20
-447,8:29.8h,,Jonathan Muia NDIKU,18 SEP 1991,KEN,2,Nairobi (KEN),18 JUN 2008,1123,3000-metres-steeplechase,middlelong,male,u20
-448,8:29.85,,Paul DAVIES-HALE,21 JUN 1962,GBR,3,London (GBR),31 AUG 1981,1123,3000-metres-steeplechase,middlelong,male,u20
-449,8:29.90,,Legesse LAMISO,13 JAN 1990,ETH,11,"Stade de France, Paris-St-Denis (FRA)",17 JUL 2009,1123,3000-metres-steeplechase,middlelong,male,u20
-450,8:29.92,,Meresa KAHSAY,23 MAY 1996,ETH,11,"Olympiastadion, Stockholm (SWE)",22 AUG 2013,1122,3000-metres-steeplechase,middlelong,male,u20
-451,8:29.98,,Abraham KEBETO,1986,ETH,4,"Stadion Juliska, Praha (CZE)",28 JUN 2004,1122,3000-metres-steeplechase,middlelong,male,u20
-451,8:29.98,,Amos SEREM,28 AUG 2002,KEN,1h2,"Moi International Sports Centre, Kasarani, Nairobi (KEN)",20 AUG 2021,1122,3000-metres-steeplechase,middlelong,male,u20
-453,8:29.99,,Julius Kipling CHELULE,25 DEC 1978,KEN,2,Cape Town (RSA),06 MAY 1995,1122,3000-metres-steeplechase,middlelong,male,u20
-453,8:29.99,,Yacob JARSO,05 FEB 1988,ETH,2,Ouagadougou (BUR),09 AUG 2007,1122,3000-metres-steeplechase,middlelong,male,u20
+42,8:09.96,,Edmund SEREM,27 DEC 2007,KEN,2,"Letzigrund, Zürich (SUI)",28 AUG 2025,1212,3000-metres-steeplechase,middlelong,male,u20
+43,8:10.56,,Tadese TAKELE,03 AUG 2002,ETH,2,"Stadio Luigi Ridolfi, Firenze (ITA)",10 JUN 2021,1209,3000-metres-steeplechase,middlelong,male,u20
+44,8:10.57,,Samuel FIREWU,03 MAY 2004,ETH,4,"Stade Louis II, Monaco (MON)",21 JUL 2023,1209,3000-metres-steeplechase,middlelong,male,u20
+45,8:10.64,,Leonard Kipkemoi BETT,03 NOV 2000,KEN,9,"Khalifa International Stadium, Doha (QAT)",04 OCT 2019,1209,3000-metres-steeplechase,middlelong,male,u20
+46,8:10.74,,Samuel FIREWU,03 MAY 2004,ETH,2,"Hayward Field, Eugene, OR (USA)",16 SEP 2023,1208,3000-metres-steeplechase,middlelong,male,u20
+47,8:10.76,,Conseslus KIPRUTO,08 DEC 1994,KEN,3,"Letzigrund, Zürich (SUI)",29 AUG 2013,1208,3000-metres-steeplechase,middlelong,male,u20
+48,8:11.22,,Yemane HAILESELASSIE,21 FEB 1998,ERI,5,"Stadio Olimpico, Roma (ITA)",08 JUN 2017,1206,3000-metres-steeplechase,middlelong,male,u20
+49,8:11.27,,Gilbert KIRUI,22 JAN 1994,KEN,7,"Suhaim bin Hamad Stadium, Doha (QAT)",11 MAY 2012,1206,3000-metres-steeplechase,middlelong,male,u20
+49,8:11.27,,Conseslus KIPRUTO,08 DEC 1994,KEN,1,"Mestský Stadion, Ostrava (CZE)",27 JUN 2013,1206,3000-metres-steeplechase,middlelong,male,u20
+51,8:11.29,,Samuel FIREWU,03 MAY 2004,ETH,2,"Egret Stadium, Xiamen (CHN)",02 SEP 2023,1206,3000-metres-steeplechase,middlelong,male,u20
+52,8:11.31,,Jairus Kipchoge BIRECH,14 DEC 1992,KEN,5,"Stade de France, Paris-St-Denis (FRA)",08 JUL 2011,1206,3000-metres-steeplechase,middlelong,male,u20
+53,8:11.55,,Gilbert KIRUI,22 JAN 1994,KEN,2,"Olympiastadion, Stockholm (SWE)",22 AUG 2013,1205,3000-metres-steeplechase,middlelong,male,u20
+54,8:11.94,,Raymond Kipkorir YATOR,07 APR 1981,KEN,6,Stockholm (SWE),01 AUG 2000,1203,3000-metres-steeplechase,middlelong,male,u20
+55,8:12.08,,Hillary Kipsang YEGO,02 APR 1992,KEN,1,"DS, Daegu (KOR)",12 MAY 2011,1202,3000-metres-steeplechase,middlelong,male,u20
+56,8:12.18,,Amos KIRUI,09 FEB 1998,KEN,3,"Complexe Sportif Prince Moulay Abdellah, Rabat (MAR)",16 JUL 2017,1202,3000-metres-steeplechase,middlelong,male,u20
+57,8:12.24,,Raymond Kipkorir YATOR,07 APR 1981,KEN,2,Villeneuve d'Ascq (FRA),17 JUN 2000,1202,3000-metres-steeplechase,middlelong,male,u20
+58,8:12.28,,Getnet WALE,16 JUL 2000,ETH,1,"FBK Stadium, Hengelo (NED)",11 JUN 2017,1201,3000-metres-steeplechase,middlelong,male,u20
+59,8:12.29,,Raymond Kipkorir YATOR,07 APR 1981,KEN,4,Zürich (SUI),11 AUG 2000,1201,3000-metres-steeplechase,middlelong,male,u20
+60,8:12.35,,Conseslus KIPRUTO,08 DEC 1994,KEN,3,"Olympiastadion, Stockholm (SWE)",22 AUG 2013,1201,3000-metres-steeplechase,middlelong,male,u20
+61,8:12.36,,Gilbert KIRUI,22 JAN 1994,KEN,5,"Bislett Stadion, Oslo (NOR)",13 JUN 2013,1201,3000-metres-steeplechase,middlelong,male,u20
+62,8:12.63,,Hillary Kipsang YEGO,02 APR 1992,KEN,2,"Mestský Stadion, Ostrava (CZE)",31 MAY 2011,1200,3000-metres-steeplechase,middlelong,male,u20
+63,8:12.81,,Hillary Kipsang YEGO,02 APR 1992,KEN,1,"Sports Park Mladost, Zagreb (CRO)",13 SEP 2011,1199,3000-metres-steeplechase,middlelong,male,u20
+64,8:12.82,,Paul Malakwen KOSGEI,22 APR 1978,KEN,8,Nice (FRA),16 JUL 1997,1199,3000-metres-steeplechase,middlelong,male,u20
+65,8:12.91,,Thomas KIPLITAN,15 JUN 1983,KEN,7,Doha (QAT),15 MAY 2002,1199,3000-metres-steeplechase,middlelong,male,u20
+66,8:12.93,,Gilbert KIRUI,22 JAN 1994,KEN,5,"Letzigrund, Zürich (SUI)",29 AUG 2013,1198,3000-metres-steeplechase,middlelong,male,u20
+67,8:12.96,,Getnet WALE,16 JUL 2000,ETH,1h1,"Khalifa International Stadium, Doha (QAT)",01 OCT 2019,1198,3000-metres-steeplechase,middlelong,male,u20
+68,8:13.06,,Jairus Kipchoge BIRECH,14 DEC 1992,KEN,2,Brazzaville (CGO),12 JUN 2011,1198,3000-metres-steeplechase,middlelong,male,u20
+69,8:13.07,,Leonard Kipkemoi BETT,03 NOV 2000,KEN,3h1,"Khalifa International Stadium, Doha (QAT)",01 OCT 2019,1198,3000-metres-steeplechase,middlelong,male,u20
+70,8:13.16,,Getnet WALE,16 JUL 2000,ETH,2,"Mestský Stadion, Ostrava (CZE)",28 JUN 2017,1197,3000-metres-steeplechase,middlelong,male,u20
+71,8:13.33,,Tesfaye DERIBA,11 SEP 1998,ETH,4,"FBK Stadium, Hengelo (NED)",11 JUN 2017,1197,3000-metres-steeplechase,middlelong,male,u20
+72,8:13.5h,,Conseslus KIPRUTO,08 DEC 1994,KEN,1,Nairobi (KEN),13 JUL 2013,1196,3000-metres-steeplechase,middlelong,male,u20
+73,8:13.52,,Jairus Kipchoge BIRECH,14 DEC 1992,KEN,1,Barcelona (ESP),22 JUL 2011,1196,3000-metres-steeplechase,middlelong,male,u20
+74,8:13.91,,Musa Amer OBAID,18 APR 1985,QAT,3,Heusden-Zolder (BEL),31 JUL 2004,1194,3000-metres-steeplechase,middlelong,male,u20
+75,8:14.00,,Willy Rutto KOMEN,22 DEC 1987,KEN,1,"Chaoyang Sport Center, Beijing (CHN)",19 AUG 2006,1194,3000-metres-steeplechase,middlelong,male,u20
+76,8:14.06,,Getnet WALE,16 JUL 2000,ETH,2,"Complexe Sportif Prince Moulay Abdellah, Rabat (MAR)",26 AUG 2019,1193,3000-metres-steeplechase,middlelong,male,u20
+77,8:14.29,,Benjamin KIPLAGAT,04 MAR 1989,UGA,2,"FBK Stadium, Hengelo (NED)",24 MAY 2008,1192,3000-metres-steeplechase,middlelong,male,u20
+78,8:14.68,,Nahom Mesfin TARIKU,03 JUN 1989,ETH,1,Neerpelt (BEL),31 MAY 2008,1191,3000-metres-steeplechase,middlelong,male,u20
+79,8:14.74,,Paul Malakwen KOSGEI,22 APR 1978,KEN,8,Köln (GER),24 AUG 1997,1190,3000-metres-steeplechase,middlelong,male,u20
+80,8:14.87,,Nahom Mesfin TARIKU,03 JUN 1989,ETH,1,Huelva (ESP),13 JUN 2008,1190,3000-metres-steeplechase,middlelong,male,u20
+81,8:14.88,,Tadese TAKELE,03 AUG 2002,ETH,2,Hengelo (NED),17 JUL 2019,1190,3000-metres-steeplechase,middlelong,male,u20
+82,8:15.11,,Brimin Kiprop KIPRUTO,31 JUL 1985,KEN,1h2,"Olympic Stadium, Athina (GRE)",21 AUG 2004,1189,3000-metres-steeplechase,middlelong,male,u20
+83,8:15.12,,Tadese TAKELE,03 AUG 2002,ETH,8,"Stade Louis II, Monaco (MON)",09 JUL 2021,1189,3000-metres-steeplechase,middlelong,male,u20
+84,8:15.28,,Edmund SEREM,27 DEC 2007,KEN,1,"Estadio Atlético de la VIDENA, Lima (PER)",31 AUG 2024,1188,3000-metres-steeplechase,middlelong,male,u20
+85,8:15.31,,Raymond Kipkorir YATOR,07 APR 1981,KEN,9,Zürich (SUI),11 AUG 1999,1188,3000-metres-steeplechase,middlelong,male,u20
+86,8:15.67,,Gilbert KIRUI,22 JAN 1994,KEN,3,Beijing (CHN),21 MAY 2013,1186,3000-metres-steeplechase,middlelong,male,u20
+87,8:15.72,,Jacob ARAPTANY,11 FEB 1992,UGA,1,Kampala (UGA),23 JUL 2011,1186,3000-metres-steeplechase,middlelong,male,u20
+88,8:15.79,,Conseslus KIPRUTO,08 DEC 1994,KEN,5,"Stade Olympique de la Pontaise, Lausanne (SUI)",23 AUG 2012,1186,3000-metres-steeplechase,middlelong,male,u20
+89,8:15.90,,Leonard Kipkemoi BETT,03 NOV 2000,KEN,11,"Stade Louis II, Monaco (MON)",12 JUL 2019,1185,3000-metres-steeplechase,middlelong,male,u20
+90,8:15.91,,Amos KIRUI,09 FEB 1998,KEN,5,"Stade Louis II, Monaco (MON)",21 JUL 2017,1185,3000-metres-steeplechase,middlelong,male,u20
+91,8:15.99,,Ryuji MIURA,11 FEB 2002,JPN,1,"Yanmar Stadium Nagai, Osaka (JPN)",26 JUN 2021,1185,3000-metres-steeplechase,middlelong,male,u20
+92,8:16.06,,Benjamin KIPLAGAT,04 MAR 1989,UGA,4,Doha (QAT),09 MAY 2008,1184,3000-metres-steeplechase,middlelong,male,u20
+93,8:16.14,,Tesfaye GIRMA,24 JAN 1997,ETH,3,Heusden-Zolder (BEL),16 JUL 2016,1184,3000-metres-steeplechase,middlelong,male,u20
+94,8:16.18,,Mohammed MSAAD,04 MAR 2004,MAR,8,"Complexe Sportif Prince Moulay Abdellah, Rabat (MAR)",28 MAY 2023,1184,3000-metres-steeplechase,middlelong,male,u20
+95,8:16.26,,Tareq Mubarak TAHER,01 DEC 1986,BRN,6,Heusden-Zolder (BEL),23 JUL 2005,1183,3000-metres-steeplechase,middlelong,male,u20
+96,8:16.34,,Raymond Kipkorir YATOR,07 APR 1981,KEN,1,"E.Nacional, Santiago de Chile (CHI)",21 OCT 2000,1183,3000-metres-steeplechase,middlelong,male,u20
+97,8:16.40,,Samuel FIREWU,03 MAY 2004,ETH,2,"Bregyó Athletic Center, Székesfehérvár (HUN)",18 JUL 2023,1183,3000-metres-steeplechase,middlelong,male,u20
+98,8:16.45,,Brimin Kiprop KIPRUTO,31 JUL 1985,KEN,6,"Stade Louis II, Monaco (MON)",19 SEP 2004,1183,3000-metres-steeplechase,middlelong,male,u20
+99,8:16.58,,Benjamin KIPLAGAT,04 MAR 1989,UGA,5,"Gottlieb-Daimler Stadion, Stuttgart (GER)",14 SEP 2008,1182,3000-metres-steeplechase,middlelong,male,u20
+100,8:16.64,,Lamecha GIRMA,26 NOV 2000,ETH,1h2,"Khalifa International Stadium, Doha (QAT)",01 OCT 2019,1182,3000-metres-steeplechase,middlelong,male,u20
+101,8:16.69,,Ronald Kipchumba RUTTO,08 OCT 1987,KEN,4,"FBK Stadium, Hengelo (NED)",29 MAY 2005,1181,3000-metres-steeplechase,middlelong,male,u20
+102,8:16.74,,Jairus Kipchoge BIRECH,14 DEC 1992,KEN,1,Velenje (SLO),28 JUN 2011,1181,3000-metres-steeplechase,middlelong,male,u20
+103,8:16.76,,Kipkurui MISOI,23 OCT 1978,KEN,2,Dortmund (GER),08 JUN 1997,1181,3000-metres-steeplechase,middlelong,male,u20
+103,8:16.76,,Kipkurui MISOI,23 OCT 1978,KEN,2,Dortmund (GER),03 SEP 1997,1181,3000-metres-steeplechase,middlelong,male,u20
+105,8:16.78,,Benjamin KIPLAGAT,04 MAR 1989,UGA,5,"Boudewijnstadion, Bruxelles (BEL)",05 SEP 2008,1181,3000-metres-steeplechase,middlelong,male,u20
+106,8:16.90,,Ryuji MIURA,11 FEB 2002,JPN,7,"National Stadium, Tokyo (JPN)",02 AUG 2021,1181,3000-metres-steeplechase,middlelong,male,u20
+107,8:16.96,,Abel YAGUT,26 DEC 1984,KEN,4,San Sebastián (ESP),10 AUG 2003,1180,3000-metres-steeplechase,middlelong,male,u20
+107,8:16.96,,John KOECH,23 AUG 1995,KEN,6,"Olympiastadion, Stockholm (SWE)",22 AUG 2013,1180,3000-metres-steeplechase,middlelong,male,u20
+109,8:16.97,,Leonard Kipkemoi BETT,03 NOV 2000,KEN,4,"Alexander Stadium, Birmingham (GBR)",18 AUG 2018,1180,3000-metres-steeplechase,middlelong,male,u20
+110,8:17.02,,Thomas KIPLITAN,15 JUN 1983,KEN,8,"Stade de France, Paris-St-Denis (FRA)",05 JUL 2002,1180,3000-metres-steeplechase,middlelong,male,u20
+111,8:17.03,,Barnabas KIPYEGO,12 JUN 1995,KEN,3,"Alexander Stadium, Birmingham (GBR)",24 AUG 2014,1180,3000-metres-steeplechase,middlelong,male,u20
+112,8:17.04,,Yemane HAILESELASSIE,21 FEB 1998,ERI,1,Huelva (ESP),14 JUN 2017,1180,3000-metres-steeplechase,middlelong,male,u20
+113,8:17.06,,Eisa GIRMA,21 SEP 2007,ETH,10,"Boudewijnstadion, Bruxelles (BEL)",22 AUG 2025,1180,3000-metres-steeplechase,middlelong,male,u20
+114,8:17.1h,,Brimin Kiprop KIPRUTO,31 JUL 1985,KEN,2,Nairobi (KEN),26 JUN 2004,1180,3000-metres-steeplechase,middlelong,male,u20
+115,8:17.21,,Nahom Mesfin TARIKU,03 JUN 1989,ETH,3,Algiers (ALG),18 JUL 2007,1179,3000-metres-steeplechase,middlelong,male,u20
+116,8:17.23,,Hillary Kipsang YEGO,02 APR 1992,KEN,5,"Olympiastadion, Berlin (GER)",11 SEP 2011,1179,3000-metres-steeplechase,middlelong,male,u20
+117,8:17.28,,Jonathan Muia NDIKU,18 SEP 1991,KEN,1,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",13 JUL 2008,1179,3000-metres-steeplechase,middlelong,male,u20
+118,8:17.42,,Paul Malakwen KOSGEI,22 APR 1978,KEN,3,Formia (ITA),13 JUL 1997,1178,3000-metres-steeplechase,middlelong,male,u20
+119,8:17.46,,Ryuji MIURA,11 FEB 2002,JPN,1,"National Stadium, Tokyo (JPN)",09 MAY 2021,1178,3000-metres-steeplechase,middlelong,male,u20
+119,8:17.46,,Matthew KOSGEI,14 MAR 2006,KEN,2,"Estadio Atlético de la VIDENA, Lima (PER)",31 AUG 2024,1178,3000-metres-steeplechase,middlelong,male,u20
+121,8:17.52,,Nahom Mesfin TARIKU,03 JUN 1989,ETH,2,Neerpelt (BEL),02 JUN 2007,1178,3000-metres-steeplechase,middlelong,male,u20
+122,8:17.62,,Thomas KIPLITAN,15 JUN 1983,KEN,8,Stockholm (SWE),16 JUL 2002,1177,3000-metres-steeplechase,middlelong,male,u20
+123,8:17.73,,Gilbert KIRUI,22 JAN 1994,KEN,5,"Olympiastadion, Berlin (GER)",01 SEP 2013,1177,3000-metres-steeplechase,middlelong,male,u20
+124,8:18.11,,Bisluke Kipkorir KIPLAGAT,08 AUG 1988,KEN,2,"Chaoyang Sport Center, Beijing (CHN)",19 AUG 2006,1175,3000-metres-steeplechase,middlelong,male,u20
+125,8:18.29,,Yemane HAILESELASSIE,21 FEB 1998,ERI,2,"Olympiastadion, Stockholm (SWE)",18 JUN 2017,1174,3000-metres-steeplechase,middlelong,male,u20
+126,8:18.32,,Amos KIRUI,09 FEB 1998,KEN,7,"Boudewijnstadion, Bruxelles (BEL)",01 SEP 2017,1174,3000-metres-steeplechase,middlelong,male,u20
+127,8:18.36,,Thomas KIPLITAN,15 JUN 1983,KEN,2,Athina (GRE),10 JUN 2002,1174,3000-metres-steeplechase,middlelong,male,u20
+128,8:18.43,,Abel YAGUT,26 DEC 1984,KEN,2,Rabat (MAR),14 JUN 2003,1174,3000-metres-steeplechase,middlelong,male,u20
+128,8:18.43,,Simon Kiprop KOECH,10 JUN 2003,KEN,1,"Moi International Sports Centre, Kasarani, Nairobi (KEN)",03 JUL 2021,1174,3000-metres-steeplechase,middlelong,male,u20
+130,8:18.51,,Ronald Kipchumba RUTTO,08 OCT 1987,KEN,13,"Boudewijnstadion, Bruxelles (BEL)",03 SEP 2004,1173,3000-metres-steeplechase,middlelong,male,u20
+131,8:18.52,,Moustafa Ahmed SHEBTO,04 JUL 1986,QAT,14,"Boudewijnstadion, Bruxelles (BEL)",03 SEP 2004,1173,3000-metres-steeplechase,middlelong,male,u20
+132,8:18.57,,Jacob ARAPTANY,11 FEB 1992,UGA,1h1,"DS, Daegu (KOR)",29 AUG 2011,1173,3000-metres-steeplechase,middlelong,male,u20
+133,8:18.67,,Jacob ARAPTANY,11 FEB 1992,UGA,6,"DS, Daegu (KOR)",01 SEP 2011,1173,3000-metres-steeplechase,middlelong,male,u20
+134,8:18.70,,Abel YAGUT,26 DEC 1984,KEN,1,Luzern (SUI),25 JUN 2003,1172,3000-metres-steeplechase,middlelong,male,u20
+135,8:18.71,,Julius Kipling CHELULE,25 DEC 1978,KEN,4,Bratislava (SVK),10 JUN 1997,1172,3000-metres-steeplechase,middlelong,male,u20
+136,8:18.85,,Stephen CHERONO,15 OCT 1982,KEN,3,Melbourne (AUS),09 SEP 2001,1172,3000-metres-steeplechase,middlelong,male,u20
+137,8:19.12,,Abraham CHERONO,21 JUL 1980,KEN,11,Zürich (SUI),11 AUG 1999,1170,3000-metres-steeplechase,middlelong,male,u20
+138,8:19.19,,Yemane HAILESELASSIE,21 FEB 1998,ERI,8,"Boudewijnstadion, Bruxelles (BEL)",01 SEP 2017,1170,3000-metres-steeplechase,middlelong,male,u20
+139,8:19.21,,Daniel NJENGA,07 MAY 1976,KEN,1,Tokyo (JPN),12 JUN 1994,1170,3000-metres-steeplechase,middlelong,male,u20
+140,8:19.22,,Jaouad CHEMLAL,11 APR 1994,MAR,6,Rabat (MAR),09 JUN 2013,1170,3000-metres-steeplechase,middlelong,male,u20
+141,8:19.24,,Abel YAGUT,26 DEC 1984,KEN,8,Zürich (SUI),15 AUG 2003,1170,3000-metres-steeplechase,middlelong,male,u20
+141,8:19.24,,Benjamin KIPLAGAT,04 MAR 1989,UGA,2,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",13 JUL 2008,1170,3000-metres-steeplechase,middlelong,male,u20
+143,8:19.25,,Jonathan Muia NDIKU,18 SEP 1991,KEN,2,Nairobi (KEN),26 JUN 2010,1170,3000-metres-steeplechase,middlelong,male,u20
+144,8:19.26,,Nicholas Kiptonui BETT,20 DEC 1996,KEN,1,Heusden-Zolder (BEL),18 JUL 2015,1170,3000-metres-steeplechase,middlelong,male,u20
+145,8:19.30,,Hillary Kipsang YEGO,02 APR 1992,KEN,4,"Olympiastadion, Stockholm (SWE)",29 JUL 2011,1170,3000-metres-steeplechase,middlelong,male,u20
+146,8:19.37,,Ryuji MIURA,11 FEB 2002,JPN,1,"Aoba Park Athletic Field, Chitose (JPN)",18 JUL 2020,1169,3000-metres-steeplechase,middlelong,male,u20
+147,8:19.38,,Raymond Kipkorir YATOR,07 APR 1981,KEN,2,Luzern (SUI),27 JUN 2000,1169,3000-metres-steeplechase,middlelong,male,u20
+148,8:19.41,,Jairus Kipchoge BIRECH,14 DEC 1992,KEN,5,"Olympiastadion, Stockholm (SWE)",29 JUL 2011,1169,3000-metres-steeplechase,middlelong,male,u20
+149,8:19.43,,Stephen CHERONO,15 OCT 1982,KEN,3,Doha (QAT),18 MAY 2001,1169,3000-metres-steeplechase,middlelong,male,u20
+150,8:19.46,,Conseslus KIPRUTO,08 DEC 1994,KEN,1h2,"Estadio Olímpico, Barcelona (ESP)",13 JUL 2012,1169,3000-metres-steeplechase,middlelong,male,u20
+151,8:19.49,,Conseslus KIPRUTO,08 DEC 1994,KEN,2,Kawasaki (JPN),06 MAY 2012,1169,3000-metres-steeplechase,middlelong,male,u20
+152,8:19.50,,Hillary Kipsang YEGO,02 APR 1992,KEN,3,Heusden-Zolder (BEL),10 JUL 2010,1169,3000-metres-steeplechase,middlelong,male,u20
+153,8:19.60,,Philemon Kiplagat RUTO,20 SEP 2001,KEN,2,"Aoba Park Athletic Field, Chitose (JPN)",18 JUL 2020,1168,3000-metres-steeplechase,middlelong,male,u20
+154,8:19.63,,Justus Kipchirchir KIPRONO,28 FEB 1987,KEN,6,Heusden-Zolder (BEL),31 JUL 2004,1168,3000-metres-steeplechase,middlelong,male,u20
+154,8:19.63,,Salaheddine BEN YAZIDE,06 MAY 2003,MAR,10,"Complexe Sportif Prince Moulay Abdellah, Rabat (MAR)",05 JUN 2022,1168,3000-metres-steeplechase,middlelong,male,u20
+156,8:19.82,,Julius Kipling CHELULE,25 DEC 1978,KEN,3,"FBK Stadium, Hengelo (NED)",31 MAY 1997,1167,3000-metres-steeplechase,middlelong,male,u20
+156,8:19.82,,Samuel FIREWU,03 MAY 2004,ETH,5,"Mestský Stadion, Ostrava (CZE)",31 MAY 2022,1167,3000-metres-steeplechase,middlelong,male,u20
+158,8:19.84,,Raymond Kipkorir YATOR,07 APR 1981,KEN,1,Tunis (TUN),23 JUL 1999,1167,3000-metres-steeplechase,middlelong,male,u20
+159,8:19.85,,Ronald Kipchumba RUTTO,08 OCT 1987,KEN,3,"AC Gianni Brera, Milano (ITA)",01 JUN 2005,1167,3000-metres-steeplechase,middlelong,male,u20
+160,8:19.94,,Raymond Kipkorir YATOR,07 APR 1981,KEN,1,Kerkrade (NED),03 JUN 2000,1167,3000-metres-steeplechase,middlelong,male,u20
+160,8:19.94,,Abel YAGUT,26 DEC 1984,KEN,3,"Stadion Juliska, Praha (CZE)",29 JUN 2003,1167,3000-metres-steeplechase,middlelong,male,u20
+160,8:19.94,,Gilbert KIRUI,22 JAN 1994,KEN,2,"Estadio Olímpico, Barcelona (ESP)",15 JUL 2012,1167,3000-metres-steeplechase,middlelong,male,u20
+163,8:19.98,,Stephen CHERONO,15 OCT 1982,KEN,3,"Queensland Sport and Athletics Centre, Nathan, Brisbane (AUS)",05 SEP 2001,1167,3000-metres-steeplechase,middlelong,male,u20
+164,8:19.99,,John KOECH,23 AUG 1995,BRN,2,Bydgoszcz (POL),02 JUN 2014,1167,3000-metres-steeplechase,middlelong,male,u20
+165,8:20.05,,Abdelghani AIT BAHMED,28 JUL 1989,MAR,3,"Chaoyang Sport Center, Beijing (CHN)",19 AUG 2006,1166,3000-metres-steeplechase,middlelong,male,u20
+165,8:20.05,,Edmund SEREM,27 DEC 2007,KEN,1f1,"Nyayo National Stadium, Nairobi (KEN)",22 MAY 2024,1166,3000-metres-steeplechase,middlelong,male,u20
+167,8:20.06,,Justus Kipchirchir KIPRONO,28 FEB 1987,KEN,3,Linz (AUT),02 AUG 2004,1166,3000-metres-steeplechase,middlelong,male,u20
+168,8:20.07,,Christopher SOGET,15 AUG 1980,KEN,2,Tunis (TUN),23 JUL 1999,1166,3000-metres-steeplechase,middlelong,male,u20
+169,8:20.21,,Nicholas Kiptonui BETT,20 DEC 1996,KEN,2,"Bregyó Athletic Center, Székesfehérvár (HUN)",07 JUL 2015,1166,3000-metres-steeplechase,middlelong,male,u20
+170,8:20.22,,Benjamin KIPLAGAT,04 MAR 1989,UGA,3h3,"National Stadium, Beijing (CHN)",16 AUG 2008,1166,3000-metres-steeplechase,middlelong,male,u20
+171,8:20.26,,Amos SEREM,28 AUG 2002,KEN,2,"Moi International Sports Centre, Kasarani, Nairobi (KEN)",03 JUL 2021,1165,3000-metres-steeplechase,middlelong,male,u20
+172,8:20.27,,Benjamin KIPLAGAT,04 MAR 1989,UGA,9,"National Stadium, Beijing (CHN)",18 AUG 2008,1165,3000-metres-steeplechase,middlelong,male,u20
+172,8:20.27,,Samuel FIREWU,03 MAY 2004,ETH,1,"Olympiastadion, Stockholm (SWE)",04 JUL 2021,1165,3000-metres-steeplechase,middlelong,male,u20
+174,8:20.29,,Abdelghani AIT BAHMED,28 JUL 1989,MAR,6,Heusden-Zolder (BEL),22 JUL 2006,1165,3000-metres-steeplechase,middlelong,male,u20
+174,8:20.29,,Ali Thamer KAMAL,12 NOV 1988,QAT,3,Helsinki (FIN),26 JUL 2006,1165,3000-metres-steeplechase,middlelong,male,u20
+174,8:20.29,,Leonard Kipkemoi BETT,03 NOV 2000,KEN,1,"Nyayo National Stadium, Nairobi (KEN)",13 SEP 2019,1165,3000-metres-steeplechase,middlelong,male,u20
+177,8:20.31,,Hillary Kipsang YEGO,02 APR 1992,KEN,6,"Letzigrund, Zürich (SUI)",08 SEP 2011,1165,3000-metres-steeplechase,middlelong,male,u20
+178,8:20.40,,Raymond Kipkorir YATOR,07 APR 1981,KEN,7,Köln (GER),08 AUG 1999,1165,3000-metres-steeplechase,middlelong,male,u20
+179,8:20.43,,Bisluke Kipkorir KIPLAGAT,08 AUG 1988,KEN,5,"FBK Stadium, Hengelo (NED)",26 MAY 2007,1165,3000-metres-steeplechase,middlelong,male,u20
+179,8:20.43,,Amos KIRUI,09 FEB 1998,KEN,1,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",24 JUL 2016,1165,3000-metres-steeplechase,middlelong,male,u20
+181,8:20.47,,Joash RUTO,15 AUG 2006,KEN,4,"Hayward Field, Eugene, OR (USA)",13 JUN 2025,1164,3000-metres-steeplechase,middlelong,male,u20
+182,8:20.55,,Paul Malakwen KOSGEI,22 APR 1978,KEN,3,Rieti (ITA),03 SEP 1997,1164,3000-metres-steeplechase,middlelong,male,u20
+183,8:20.56,,Kipkurui MISOI,23 OCT 1978,KEN,1,Cottbus (GER),11 JUN 1997,1164,3000-metres-steeplechase,middlelong,male,u20
+184,8:20.57,,Nahom Mesfin TARIKU,03 JUN 1989,ETH,1,Huelva (ESP),13 SEP 2007,1164,3000-metres-steeplechase,middlelong,male,u20
+185,8:20.58,,Legesse LAMISO,13 JAN 1990,ETH,1,"Stadion Juliska, Praha (CZE)",08 JUN 2009,1164,3000-metres-steeplechase,middlelong,male,u20
+186,8:20.67,,Richard LIMO,18 NOV 1980,KEN,2,Dakar (SEN),20 AUG 1998,1164,3000-metres-steeplechase,middlelong,male,u20
+187,8:20.73,,Paul CHEMASE,24 AUG 1976,KEN,10,"Stade Louis II, Monaco (MON)",25 JUL 1995,1163,3000-metres-steeplechase,middlelong,male,u20
+188,8:20.75,,Hillary Kipsang YEGO,02 APR 1992,KEN,6,"Bislett Stadion, Oslo (NOR)",09 JUN 2011,1163,3000-metres-steeplechase,middlelong,male,u20
+189,8:20.76,,Takele NIGATE,02 OCT 1999,ETH,6,"FBK Stadium, Hengelo (NED)",11 JUN 2017,1163,3000-metres-steeplechase,middlelong,male,u20
+190,8:20.80,,Ronald Kipchumba RUTTO,08 OCT 1987,KEN,4,Rieti (ITA),28 AUG 2005,1163,3000-metres-steeplechase,middlelong,male,u20
+191,8:20.88,,Silas Kosgei KITUM,25 MAY 1990,KEN,6,Barcelona (ESP),25 JUL 2009,1163,3000-metres-steeplechase,middlelong,male,u20
+192,8:20.94,,Ronald Kipchumba RUTTO,08 OCT 1987,KEN,14,Heusden-Zolder (BEL),23 JUL 2005,1162,3000-metres-steeplechase,middlelong,male,u20
+193,8:20.96,,Julius Kipling CHELULE,25 DEC 1978,KEN,3,Dortmund (GER),03 SEP 1997,1162,3000-metres-steeplechase,middlelong,male,u20
+194,8:21.00,,Christopher SOGET,15 AUG 1980,KEN,1,Sopot (POL),06 AUG 1999,1162,3000-metres-steeplechase,middlelong,male,u20
+195,8:21.09,,Nahom Mesfin TARIKU,03 JUN 1989,ETH,5,"Stadio Olimpico, Roma (ITA)",11 JUL 2008,1162,3000-metres-steeplechase,middlelong,male,u20
+196,8:21.10,,Hailemariyam AMARE,22 FEB 1997,ETH,5,"National Stadium, Beijing (CHN)",18 MAY 2016,1162,3000-metres-steeplechase,middlelong,male,u20
+197,8:21.16,,Gilbert KIRUI,22 JAN 1994,KEN,4,Kawasaki (JPN),06 MAY 2012,1161,3000-metres-steeplechase,middlelong,male,u20
+198,8:21.20,,Birhan GETAHUN,05 SEP 1991,ETH,2,"Stadion Juliska, Praha (CZE)",14 JUN 2010,1161,3000-metres-steeplechase,middlelong,male,u20
+199,8:21.25,,Milkesa FIKADU,20 FEB 2005,ETH,4,"Estadio Iberoamericano, Huelva (ESP)",30 APR 2024,1161,3000-metres-steeplechase,middlelong,male,u20
+200,8:21.30,,Jairus Kipchoge BIRECH,14 DEC 1992,KEN,4,Maputo (MOZ),11 SEP 2011,1161,3000-metres-steeplechase,middlelong,male,u20
+200,8:21.3h,,Conseslus KIPRUTO,08 DEC 1994,KEN,1,Nairobi (KEN),09 JUN 2012,1161,3000-metres-steeplechase,middlelong,male,u20
+200,8:21.30,,Philemon Kiplagat RUTO,20 SEP 2001,KEN,1,Yamagata (JPN),02 AUG 2017,1161,3000-metres-steeplechase,middlelong,male,u20
+203,8:21.40,,Leonard Kipkemoi BETT,03 NOV 2000,KEN,1,Nairobi (KEN),11 JUN 2018,1160,3000-metres-steeplechase,middlelong,male,u20
+204,8:21.5h,,John KOECH,23 AUG 1995,KEN,1,Nairobi (KEN),22 JUN 2013,1160,3000-metres-steeplechase,middlelong,male,u20
+205,8:21.56,,Nicholas Kiptonui BETT,20 DEC 1996,KEN,9,"National Stadium, Beijing (CHN)",20 MAY 2015,1160,3000-metres-steeplechase,middlelong,male,u20
+206,8:21.68,,Tareq Mubarak TAHER,01 DEC 1986,BRN,5h2,"Olympiastadion, Helsinki (FIN)",07 AUG 2005,1159,3000-metres-steeplechase,middlelong,male,u20
+206,8:21.68,,Tadese TAKELE,03 AUG 2002,ETH,6,"Letzigrund, Zürich (SUI)",09 SEP 2021,1159,3000-metres-steeplechase,middlelong,male,u20
+208,8:21.73,,Benjamin KIPLAGAT,04 MAR 1989,UGA,1,Velenje (SLO),28 JUN 2007,1159,3000-metres-steeplechase,middlelong,male,u20
+209,8:21.75,,Silas Kosgei KITUM,25 MAY 1990,KEN,2,Heusden-Zolder (BEL),18 JUL 2009,1159,3000-metres-steeplechase,middlelong,male,u20
+210,8:21.78,,Hicham SIGUENI,30 JAN 1993,MAR,1,Liège (BEL),05 JUL 2012,1159,3000-metres-steeplechase,middlelong,male,u20
+211,8:21.79,,Julius Kipling CHELULE,25 DEC 1978,KEN,1,Arnhem (NED),12 JUL 1997,1159,3000-metres-steeplechase,middlelong,male,u20
+212,8:21.82,,Paul Malakwen KOSGEI,22 APR 1978,KEN,12,Zürich (SUI),13 AUG 1997,1158,3000-metres-steeplechase,middlelong,male,u20
+212,8:21.82,,Bisluke Kipkorir KIPLAGAT,08 AUG 1988,KEN,4,Rabat (MAR),17 JUN 2006,1158,3000-metres-steeplechase,middlelong,male,u20
+214,8:21.87,,Ali Ahmed AL AMRI,28 DEC 1987,KSA,3,Algiers (ALG),22 JUN 2006,1158,3000-metres-steeplechase,middlelong,male,u20
+215,8:21.92,,Brimin Kiprop KIPRUTO,31 JUL 1985,KEN,13,Stockholm (SWE),27 JUL 2004,1158,3000-metres-steeplechase,middlelong,male,u20
+216,8:21.94,,Stephen CHERONO,15 OCT 1982,KEN,1,Hobart (AUS),11 MAR 2001,1158,3000-metres-steeplechase,middlelong,male,u20
+216,8:21.94,,Justus Kipchirchir KIPRONO,28 FEB 1987,KEN,5,"Stadio Olimpico, Roma (ITA)",02 JUL 2004,1158,3000-metres-steeplechase,middlelong,male,u20
+216,8:21.94,,Edmund SEREM,27 DEC 2007,KEN,2,"Stade Omnisport de JAPOMA, Douala (CMR)",23 JUN 2024,1158,3000-metres-steeplechase,middlelong,male,u20
+219,8:21.98,,Matthew KOSGEI,14 MAR 2006,KEN,3,"Stade Omnisport de JAPOMA, Douala (CMR)",23 JUN 2024,1158,3000-metres-steeplechase,middlelong,male,u20
+220,8:22.10,,Abraham KIBIWOT,06 APR 1996,KEN,8,"Olympic Stadium, London (GBR)",25 JUL 2015,1157,3000-metres-steeplechase,middlelong,male,u20
+221,8:22.12,,Tesfaye DERIBA,11 SEP 1998,ETH,7,"Olympic Stadium, London (GBR)",08 AUG 2017,1157,3000-metres-steeplechase,middlelong,male,u20
+222,8:22.13,,Matthew KOSGEI,14 MAR 2006,KEN,1f1,"Cobb Track and Angell Field, Palo Alto, CA (USA)",04 APR 2025,1157,3000-metres-steeplechase,middlelong,male,u20
+223,8:22.24,,Nelson KIPKOGEI,09 MAR 1993,KEN,2,Liège (BEL),05 JUL 2012,1157,3000-metres-steeplechase,middlelong,male,u20
+224,8:22.31,,Conseslus KIPRUTO,08 DEC 1994,KEN,1h3,"Luzhniki Stadion, Moskva (RUS)",12 AUG 2013,1156,3000-metres-steeplechase,middlelong,male,u20
+225,8:22.46,,Titus KIBIEGO,03 MAY 1996,KEN,1,Nairobi (KEN),25 JUN 2014,1156,3000-metres-steeplechase,middlelong,male,u20
+226,8:22.47,,Mohammed MSAAD,04 MAR 2004,MAR,6,"Olympiastadion, Stockholm (SWE)",02 JUL 2023,1155,3000-metres-steeplechase,middlelong,male,u20
+227,8:22.5h,,Samuel FIREWU,03 MAY 2004,ETH,1,Hawassa (ETH),31 MAR 2022,1155,3000-metres-steeplechase,middlelong,male,u20
+228,8:22.52,,Yemane HAILESELASSIE,21 FEB 1998,ERI,6f1,Huelva (ESP),03 JUN 2016,1155,3000-metres-steeplechase,middlelong,male,u20
+229,8:22.53,,Silas Kosgei KITUM,25 MAY 1990,KEN,7,"FBK Stadium, Hengelo (NED)",01 JUN 2009,1155,3000-metres-steeplechase,middlelong,male,u20
+230,8:22.55,,John KOECH,23 AUG 1995,BRN,2,Tokyo (JPN),11 MAY 2014,1155,3000-metres-steeplechase,middlelong,male,u20
+231,8:22.59,,Amos KIRUI,09 FEB 1998,KEN,7,"Stade Olympique de la Pontaise, Lausanne (SUI)",25 AUG 2016,1155,3000-metres-steeplechase,middlelong,male,u20
+232,8:22.65,,Philemon Kiplagat RUTO,20 SEP 2001,KEN,1,"Yanmar Stadium Nagai, Osaka (JPN)",19 MAY 2019,1155,3000-metres-steeplechase,middlelong,male,u20
+233,8:22.67,,Yemane HAILESELASSIE,21 FEB 1998,ERI,2,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",24 JUL 2016,1155,3000-metres-steeplechase,middlelong,male,u20
+234,8:22.68,,Getnet WALE,16 JUL 2000,ETH,9,"Stade Louis II, Monaco (MON)",20 JUL 2018,1155,3000-metres-steeplechase,middlelong,male,u20
+235,8:22.7h,,Vincent KIPYEGON,31 DEC 1998,KEN,1,Nairobi (KEN),22 JUN 2016,1154,3000-metres-steeplechase,middlelong,male,u20
+236,8:22.77,,Mohammed MSAAD,04 MAR 2004,MAR,11,"Egret Stadium, Xiamen (CHN)",02 SEP 2023,1154,3000-metres-steeplechase,middlelong,male,u20
+237,8:22.81,,Tesfaye GIRMA,24 JAN 1997,ETH,1,København (DEN),18 JUN 2016,1154,3000-metres-steeplechase,middlelong,male,u20
+238,8:22.83,,Getnet WALE,16 JUL 2000,ETH,3,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",24 JUL 2016,1154,3000-metres-steeplechase,middlelong,male,u20
+239,8:22.84,,Paul Malakwen KOSGEI,22 APR 1978,KEN,15,Bruxelles (BEL),22 AUG 1997,1154,3000-metres-steeplechase,middlelong,male,u20
+239,8:22.84,,Vincent KIPYEGON,31 DEC 1998,KEN,4,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",24 JUL 2016,1154,3000-metres-steeplechase,middlelong,male,u20
+241,8:22.90,,Michael KIPYEGO,02 OCT 1983,KEN,11,Zürich (SUI),16 AUG 2002,1154,3000-metres-steeplechase,middlelong,male,u20
+242,8:22.94,,Joash RUTO,15 AUG 2006,KEN,1sf2,"Hayward Field, Eugene, OR (USA)",11 JUN 2025,1153,3000-metres-steeplechase,middlelong,male,u20
+243,8:22.95,,Mohammed MSAAD,04 MAR 2004,MAR,9h3,"Nemzeti Atlétikai Központ, Budapest (HUN)",19 AUG 2023,1153,3000-metres-steeplechase,middlelong,male,u20
+244,8:22.96,,Abraham CHERONO,21 JUL 1980,KEN,2,Linz (AUT),26 JUL 1999,1153,3000-metres-steeplechase,middlelong,male,u20
+245,8:22.98,,Stephen CHERONO,15 OCT 1982,KEN,2,"Portland, OR (USA)",03 JUN 2001,1153,3000-metres-steeplechase,middlelong,male,u20
+246,8:23.00,,Getnet WALE,16 JUL 2000,ETH,3h1,"Olympic Stadium, London (GBR)",06 AUG 2017,1153,3000-metres-steeplechase,middlelong,male,u20
+247,8:23.01,,Getnet WALE,16 JUL 2000,ETH,2,"Yanmar Stadium Nagai, Osaka (JPN)",19 MAY 2019,1153,3000-metres-steeplechase,middlelong,male,u20
+248,8:23.18,,Ali EZZINE,03 SEP 1978,MAR,14,Zürich (SUI),13 AUG 1997,1152,3000-metres-steeplechase,middlelong,male,u20
+249,8:23.23,,Ronald Kipchumba RUTTO,08 OCT 1987,KEN,9,"Stade de France, Paris-St-Denis (FRA)",01 JUL 2005,1152,3000-metres-steeplechase,middlelong,male,u20
+250,8:23.32,,Ronald Kipchumba RUTTO,08 OCT 1987,KEN,1,"Stadio Zecchini, Grosseto (ITA)",17 JUL 2004,1152,3000-metres-steeplechase,middlelong,male,u20
+251,8:23.33,,John KOECH,23 AUG 1995,BRN,4,"Le Grand Stade, Marrakech (MAR)",08 JUN 2014,1152,3000-metres-steeplechase,middlelong,male,u20
+252,8:23.38,,Musa Amer OBAID,18 APR 1985,QAT,2,"Stadio Zecchini, Grosseto (ITA)",17 JUL 2004,1151,3000-metres-steeplechase,middlelong,male,u20
+253,8:23.4h,,Gilbert KIRUI,22 JAN 1994,KEN,2,Nairobi (KEN),09 JUN 2012,1151,3000-metres-steeplechase,middlelong,male,u20
+254,8:23.48,,Jonathan Muia NDIKU,18 SEP 1991,KEN,1,"Croix-Bleue Medavie Stadium, Moncton (CAN)",25 JUL 2010,1151,3000-metres-steeplechase,middlelong,male,u20
+255,8:23.55,,Tesfaye GIRMA,24 JAN 1997,ETH,1,Sollentuna (SWE),28 JUN 2016,1151,3000-metres-steeplechase,middlelong,male,u20
+256,8:23.60,,Paul CHEMASE,24 AUG 1976,KEN,10,"Stadio Olimpico, Roma (ITA)",08 JUN 1995,1150,3000-metres-steeplechase,middlelong,male,u20
+257,8:23.62,,Samuel FIREWU,03 MAY 2004,ETH,4,"FBK Stadium, Hengelo (NED)",08 JUN 2021,1150,3000-metres-steeplechase,middlelong,male,u20
+258,8:23.66,,Abraham CHERONO,21 JUL 1980,KEN,2,Dortmund (GER),26 JUN 1999,1150,3000-metres-steeplechase,middlelong,male,u20
+258,8:23.66,,Ezekiel KEMBOI,25 MAY 1982,KEN,1,Chania (GRE),04 JUN 2001,1150,3000-metres-steeplechase,middlelong,male,u20
+260,8:23.69,,Albert Kiptoo YATOR,06 SEP 1993,KEN,5,"Boudewijnstadion, Bruxelles (BEL)",27 AUG 2010,1150,3000-metres-steeplechase,middlelong,male,u20
+261,8:23.70,,Matthew KOSGEI,14 MAR 2006,KEN,6,"Hayward Field, Eugene, OR (USA)",13 JUN 2025,1150,3000-metres-steeplechase,middlelong,male,u20
+262,8:23.74,,Paul CHEMASE,24 AUG 1976,KEN,3,Linz (AUT),22 AUG 1995,1150,3000-metres-steeplechase,middlelong,male,u20
+263,8:23.76,,Reuben KOSGEI,12 AUG 1979,KEN,1,"Parc des Sports, Annecy (FRA)",01 AUG 1998,1150,3000-metres-steeplechase,middlelong,male,u20
+264,8:23.77,,Mohamed ISMAIL,01 JAN 1997,DJI,11,"Suhaim bin Hamad Stadium, Doha (QAT)",06 MAY 2016,1150,3000-metres-steeplechase,middlelong,male,u20
+265,8:23.79,,Julius Kipling CHELULE,25 DEC 1978,KEN,8,Hechtel (BEL),19 JUL 1997,1150,3000-metres-steeplechase,middlelong,male,u20
+266,8:23.82,,Nahom Mesfin TARIKU,03 JUN 1989,ETH,5h1,"National Stadium, Beijing (CHN)",16 AUG 2008,1149,3000-metres-steeplechase,middlelong,male,u20
+267,8:23.84,,Matthew KOSGEI,14 MAR 2006,KEN,3,"Nyayo National Stadium, Nairobi (KEN)",20 APR 2024,1149,3000-metres-steeplechase,middlelong,male,u20
+268,8:23.91,,Abdelghani AIT BAHMED,28 JUL 1989,MAR,5,Rabat (MAR),17 JUN 2006,1149,3000-metres-steeplechase,middlelong,male,u20
+269,8:23.93,,Nicholas Kiptonui BETT,20 DEC 1996,KEN,11,"Shanghai Stadium, Shanghai (CHN)",17 MAY 2015,1149,3000-metres-steeplechase,middlelong,male,u20
+270,8:23.94,,Julius KORIR,05 DEC 1963,KEN,1,Brisbane (AUS),04 OCT 1982,1149,3000-metres-steeplechase,middlelong,male,u20
+270,8:23.94,,Musa Amer OBAID,18 APR 1985,QAT,1h3,"Olympic Stadium, Athina (GRE)",21 AUG 2004,1149,3000-metres-steeplechase,middlelong,male,u20
+272,8:23.96,,Justus Kipchirchir KIPRONO,28 FEB 1987,KEN,1,Algiers (ALG),24 JUN 2004,1149,3000-metres-steeplechase,middlelong,male,u20
+273,8:24.00,,Ali Ahmed AL AMRI,28 DEC 1987,KSA,6,Rabat (MAR),17 JUN 2006,1149,3000-metres-steeplechase,middlelong,male,u20
+274,8:24.08,,Abraham CHERONO,21 JUL 1980,KEN,2,Milano (ITA),09 JUN 1999,1148,3000-metres-steeplechase,middlelong,male,u20
+274,8:24.08,,Jacob ARAPTANY,11 FEB 1992,UGA,5,Maputo (MOZ),11 SEP 2011,1148,3000-metres-steeplechase,middlelong,male,u20
+274,8:24.08,,Hailu AYALEW,21 JAN 2008,ETH,3,"Estadio Atlético de la VIDENA, Lima (PER)",31 AUG 2024,1148,3000-metres-steeplechase,middlelong,male,u20
+277,8:24.10,,Barnabas KIPYEGO,12 JUN 1995,KEN,2,Nairobi (KEN),25 JUN 2014,1148,3000-metres-steeplechase,middlelong,male,u20
+278,8:24.12,,Bisluke Kipkorir KIPLAGAT,08 AUG 1988,KEN,2,Neerpelt (BEL),05 JUN 2006,1148,3000-metres-steeplechase,middlelong,male,u20
+279,8:24.17,,Raymond Kipkorir YATOR,07 APR 1981,KEN,1,Rehlingen (GER),12 JUN 2000,1148,3000-metres-steeplechase,middlelong,male,u20
+279,8:24.17,,Eisa GIRMA,21 SEP 2007,ETH,1f2,"Putbosstadion, Oordegem (BEL)",09 AUG 2025,1148,3000-metres-steeplechase,middlelong,male,u20
+281,8:24.19,,Hailemariyam AMARE,22 FEB 1997,ETH,3,Brazzaville (CGO),13 SEP 2015,1148,3000-metres-steeplechase,middlelong,male,u20
+282,8:24.20,,Paul Malakwen KOSGEI,22 APR 1978,KEN,7,Nairobi (KEN),28 JUN 1997,1148,3000-metres-steeplechase,middlelong,male,u20
+283,8:24.22,,Jacob ARAPTANY,11 FEB 1992,UGA,1,Bydgoszcz (POL),03 JUN 2011,1148,3000-metres-steeplechase,middlelong,male,u20
+284,8:24.23,,Abel YAGUT,26 DEC 1984,KEN,11,Paris (FRA),04 JUL 2003,1148,3000-metres-steeplechase,middlelong,male,u20
+285,8:24.32,,Christopher Cherono KOSKEI,14 AUG 1974,KEN,1,San Marino (SMR),03 JUL 1993,1147,3000-metres-steeplechase,middlelong,male,u20
+286,8:24.38,,Philemon Kiplagat RUTO,20 SEP 2001,KEN,2,"Prefectural Stadium, Kumagaya (JPN)",19 SEP 2020,1147,3000-metres-steeplechase,middlelong,male,u20
+287,8:24.47,,Matthew BIRIR,05 JUL 1972,KEN,3,Getxo (ESP),29 JUN 1991,1147,3000-metres-steeplechase,middlelong,male,u20
+288,8:24.50,,Bisluke Kipkorir KIPLAGAT,08 AUG 1988,KEN,3,Neerpelt (BEL),02 JUN 2007,1146,3000-metres-steeplechase,middlelong,male,u20
+288,8:24.50,,Edmund SEREM,27 DEC 2007,KEN,4,"Nyayo National Stadium, Nairobi (KEN)",15 JUN 2024,1146,3000-metres-steeplechase,middlelong,male,u20
+290,8:24.53,,Ronald Kipchumba RUTTO,08 OCT 1987,KEN,5,Bydgoszcz (POL),05 JUN 2005,1146,3000-metres-steeplechase,middlelong,male,u20
+291,8:24.54,,Ronald Kipchumba RUTTO,08 OCT 1987,KEN,3,Linz (AUT),31 JUL 2003,1146,3000-metres-steeplechase,middlelong,male,u20
+292,8:24.58,,Christopher Cherono KOSKEI,14 AUG 1974,KEN,2,Durban (RSA),25 JUN 1993,1146,3000-metres-steeplechase,middlelong,male,u20
+292,8:24.58,,Stephen CHERONO,15 OCT 1982,KEN,8,Nice (FRA),09 JUL 2001,1146,3000-metres-steeplechase,middlelong,male,u20
+292,8:24.58,,Mohamed ISMAIL,01 JAN 1997,DJI,7,"Olympiastadion, Stockholm (SWE)",30 JUL 2015,1146,3000-metres-steeplechase,middlelong,male,u20
+295,8:24.64,,Matthew KOSGEI,14 MAR 2006,KEN,1h1,"Estadio Atlético de la VIDENA, Lima (PER)",28 AUG 2024,1146,3000-metres-steeplechase,middlelong,male,u20
+296,8:24.69,,Tadese TAKELE,03 AUG 2002,ETH,9h3,"National Stadium, Tokyo (JPN)",30 JUL 2021,1146,3000-metres-steeplechase,middlelong,male,u20
+297,8:24.74,,Philemon Kiplagat RUTO,20 SEP 2001,KEN,,"Yanmar Stadium Nagai, Osaka (JPN)",04 DEC 2020,1145,3000-metres-steeplechase,middlelong,male,u20
+298,8:24.76,,Ronald Kipchumba RUTTO,08 OCT 1987,KEN,4,Linz (AUT),23 AUG 2005,1145,3000-metres-steeplechase,middlelong,male,u20
+299,8:24.77,,Jaouad CHEMLAL,11 APR 1994,MAR,5,Mersin (TUR),28 JUN 2013,1145,3000-metres-steeplechase,middlelong,male,u20
+300,8:24.87,,Ripeng SUN,25 JAN 1974,CHN,1,Beijing (CHN),11 SEP 1993,1145,3000-metres-steeplechase,middlelong,male,u20
+301,8:25.00,,Justus Kipchirchir KIPRONO,28 FEB 1987,KEN,2,Sollentuna (SWE),08 JUL 2004,1144,3000-metres-steeplechase,middlelong,male,u20
+302,8:25.03,,Gilbert KIRUI,22 JAN 1994,KEN,1,Gaborone (BOT),12 MAY 2011,1144,3000-metres-steeplechase,middlelong,male,u20
+303,8:25.10,,Nahom Mesfin TARIKU,03 JUN 1989,ETH,9,"Boudewijnstadion, Bruxelles (BEL)",05 SEP 2008,1144,3000-metres-steeplechase,middlelong,male,u20
+303,8:25.1h,,Gilbert KIRUI,22 JAN 1994,KEN,5,Nairobi (KEN),13 JUL 2013,1144,3000-metres-steeplechase,middlelong,male,u20
+303,8:25.1h,,Hailemariyam AMARE,22 FEB 1997,ETH,3,Montbéliard (FRA),05 JUN 2015,1144,3000-metres-steeplechase,middlelong,male,u20
+306,8:25.14,,Patrick Kipyegon TERER,06 JUL 1989,KEN,3,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",13 JUL 2008,1144,3000-metres-steeplechase,middlelong,male,u20
+307,8:25.28,,Getnet WALE,16 JUL 2000,ETH,1,Djibouti (DJI),25 MAR 2017,1143,3000-metres-steeplechase,middlelong,male,u20
+307,8:25.28,,Getnet WALE,16 JUL 2000,ETH,9,"Olympic Stadium, London (GBR)",08 AUG 2017,1143,3000-metres-steeplechase,middlelong,male,u20
+309,8:25.30,,Amos SEREM,28 AUG 2002,KEN,4,"Moi International Sports Centre, Kasarani, Nairobi (KEN)",18 SEP 2021,1143,3000-metres-steeplechase,middlelong,male,u20
+310,8:25.31,,Ryuji MIURA,11 FEB 2002,JPN,2,"Municipal Stadium, Hiroshima (JPN)",29 APR 2021,1143,3000-metres-steeplechase,middlelong,male,u20
+311,8:25.33,,Tesfaye DERIBA,11 SEP 1998,ETH,4h3,"Olympic Stadium, London (GBR)",06 AUG 2017,1143,3000-metres-steeplechase,middlelong,male,u20
+312,8:25.35,,Takele NIGATE,02 OCT 1999,ETH,1,"Ratinan Stadion, Tampere (FIN)",15 JUL 2018,1143,3000-metres-steeplechase,middlelong,male,u20
+313,8:25.36,,Hailemariyam AMARE,22 FEB 1997,ETH,6h3,"National Stadium, Beijing (CHN)",22 AUG 2015,1143,3000-metres-steeplechase,middlelong,male,u20
+313,8:25.36,,Amos SEREM,28 AUG 2002,KEN,1h1,"Moi International Sports Centre, Kasarani, Nairobi (KEN)",02 JUL 2021,1143,3000-metres-steeplechase,middlelong,male,u20
+315,8:25.39,,Leonard Kipkemoi BETT,03 NOV 2000,KEN,2,"Ratinan Stadion, Tampere (FIN)",15 JUL 2018,1142,3000-metres-steeplechase,middlelong,male,u20
+316,8:25.41,,Matthew KOSGEI,14 MAR 2006,KEN,1h3,"Cushing Stadium, College Station, TX (USA)",30 MAY 2025,1142,3000-metres-steeplechase,middlelong,male,u20
+317,8:25.42,,Joash RUTO,15 AUG 2006,KEN,2,"Rock Chalk Park, Lawrence, KS (USA)",16 MAY 2025,1142,3000-metres-steeplechase,middlelong,male,u20
+318,8:25.44,,Jaouad CHEMLAL,11 APR 1994,MAR,4,Rabat (MAR),01 JUN 2013,1142,3000-metres-steeplechase,middlelong,male,u20
+319,8:25.45,,Chala BEYO,18 JAN 1996,ETH,4,"Le Grand Stade, Marrakech (MAR)",14 SEP 2014,1142,3000-metres-steeplechase,middlelong,male,u20
+319,8:25.45,,Berihun MOGES,18 MAR 2005,ETH,4,"Estadio Atlético de la VIDENA, Lima (PER)",31 AUG 2024,1142,3000-metres-steeplechase,middlelong,male,u20
+321,8:25.51,,Ali EZZINE,03 SEP 1978,MAR,2,Beirut (LBN),14 JUL 1997,1142,3000-metres-steeplechase,middlelong,male,u20
+322,8:25.55,,Benjamin KIPLAGAT,04 MAR 1989,UGA,4,Cottbus (GER),20 JUN 2007,1142,3000-metres-steeplechase,middlelong,male,u20
+323,8:25.56,,Matthew KOSGEI,14 MAR 2006,KEN,1,"Veterans Memorial Stadium, Clovis, CA (USA)",16 MAY 2025,1142,3000-metres-steeplechase,middlelong,male,u20
+324,8:25.57,,Barnabas KIPYEGO,12 JUN 1995,KEN,1,"Hayward Field, Eugene, OR (USA)",27 JUL 2014,1142,3000-metres-steeplechase,middlelong,male,u20
+325,8:25.59,,Abraham CHERONO,21 JUL 1980,KEN,4,Bellinzona (SUI),01 SEP 1999,1142,3000-metres-steeplechase,middlelong,male,u20
+326,8:25.60,,Leonard Kipkemoi BETT,03 NOV 2000,KEN,1,Abidjan (CIV),20 APR 2019,1142,3000-metres-steeplechase,middlelong,male,u20
+327,8:25.64,,Barnabas KIPYEGO,12 JUN 1995,KEN,5,"Sports Park Mladost, Zagreb (CRO)",02 SEP 2014,1141,3000-metres-steeplechase,middlelong,male,u20
+328,8:25.71,,Ali Thamer KAMAL,12 NOV 1988,QAT,1,Leverkusen (GER),10 AUG 2007,1141,3000-metres-steeplechase,middlelong,male,u20
+329,8:25.72,,Justus Kipchirchir KIPRONO,28 FEB 1987,KEN,5,"AC Gianni Brera, Milano (ITA)",01 JUN 2005,1141,3000-metres-steeplechase,middlelong,male,u20
+330,8:25.73,,Julius Kipling CHELULE,25 DEC 1978,KEN,11,"Stadio Olimpico, Roma (ITA)",05 JUN 1997,1141,3000-metres-steeplechase,middlelong,male,u20
+331,8:25.74,,Birhan GETAHUN,05 SEP 1991,ETH,3,Brazzaville (CGO),30 MAY 2010,1141,3000-metres-steeplechase,middlelong,male,u20
+332,8:25.82,,Chala BEYO,18 JAN 1996,ETH,4,"Todoroki Stadium, Kawasaki (JPN)",10 MAY 2015,1141,3000-metres-steeplechase,middlelong,male,u20
+333,8:25.83,,Hillary Kipsang YEGO,02 APR 1992,KEN,1,Karlstad (SWE),15 JUL 2010,1141,3000-metres-steeplechase,middlelong,male,u20
+334,8:25.98,,Stephen CHERONO,15 OCT 1982,KEN,2,"Palo Alto, CA (USA)",09 JUN 2001,1140,3000-metres-steeplechase,middlelong,male,u20
+334,8:25.98,,Jaouad CHEMLAL,11 APR 1994,MAR,8,Rabat (MAR),27 MAY 2012,1140,3000-metres-steeplechase,middlelong,male,u20
+336,8:26.00,,Julius Kipling CHELULE,25 DEC 1978,KEN,h,Nairobi (KEN),28 JUN 1997,1140,3000-metres-steeplechase,middlelong,male,u20
+336,8:26.0h,,Conseslus KIPRUTO,08 DEC 1994,KEN,1,Mumias (KEN),21 APR 2012,1140,3000-metres-steeplechase,middlelong,male,u20
+338,8:26.02,,John KOECH,23 AUG 1995,BRN,10,"Stade Olympique de la Pontaise, Lausanne (SUI)",03 JUL 2014,1140,3000-metres-steeplechase,middlelong,male,u20
+339,8:26.04,,Moustafa Ahmed SHEBTO,04 JUL 1986,QAT,3,"Stadio Zecchini, Grosseto (ITA)",17 JUL 2004,1140,3000-metres-steeplechase,middlelong,male,u20
+340,8:26.08,,Meresa KAHSAY,23 MAY 1996,ETH,11,"Suhaim bin Hamad Stadium, Doha (QAT)",09 MAY 2014,1139,3000-metres-steeplechase,middlelong,male,u20
+341,8:26.09,,Abraham CHERONO,21 JUL 1980,KEN,2,Chania (GRE),28 JUL 1999,1139,3000-metres-steeplechase,middlelong,male,u20
+342,8:26.15,,Titus KIBIEGO,03 MAY 1996,KEN,2,"Hayward Field, Eugene, OR (USA)",27 JUL 2014,1139,3000-metres-steeplechase,middlelong,male,u20
+343,8:26.16,,Getnet WALE,16 JUL 2000,ETH,3,"Ratinan Stadion, Tampere (FIN)",15 JUL 2018,1139,3000-metres-steeplechase,middlelong,male,u20
+344,8:26.19,,Barnabas KIPYEGO,12 JUN 1995,KEN,11,"Boudewijnstadion, Bruxelles (BEL)",05 SEP 2014,1139,3000-metres-steeplechase,middlelong,male,u20
+344,8:26.19,,Hailemariyam AMARE,22 FEB 1997,ETH,12,"National Stadium, Beijing (CHN)",24 AUG 2015,1139,3000-metres-steeplechase,middlelong,male,u20
+346,8:26.20,,Nahom Mesfin TARIKU,03 JUN 1989,ETH,1,Gavá (ESP),04 JUN 2006,1139,3000-metres-steeplechase,middlelong,male,u20
+347,8:26.22,,Tesfaye GIRMA,24 JAN 1997,ETH,1,Barcelona (ESP),30 JUN 2016,1139,3000-metres-steeplechase,middlelong,male,u20
+348,8:26.31,,Nahom Mesfin TARIKU,03 JUN 1989,ETH,5,Barcelona (ESP),10 JUN 2006,1138,3000-metres-steeplechase,middlelong,male,u20
+349,8:26.33,,Tafese SOBOKA,29 SEP 1993,ETH,5,Porto Novo (BEN),29 JUN 2012,1138,3000-metres-steeplechase,middlelong,male,u20
+350,8:26.34,,Nelson KIPKOGEI,09 MAR 1993,KEN,1,Bottrop (GER),07 JUL 2012,1138,3000-metres-steeplechase,middlelong,male,u20
+351,8:26.37,,Justus LAGAT,20 MAY 1996,KEN,2,Sollentuna (SWE),25 JUN 2015,1138,3000-metres-steeplechase,middlelong,male,u20
+352,8:26.45,,Paul Malakwen KOSGEI,22 APR 1978,KEN,12,"Stade Louis II, Monaco (MON)",16 AUG 1997,1138,3000-metres-steeplechase,middlelong,male,u20
+353,8:26.47,,Justus LAGAT,20 MAY 1996,KEN,2,Bilbao (ESP),20 JUN 2015,1138,3000-metres-steeplechase,middlelong,male,u20
+354,8:26.51,,Philemon Kiplagat RUTO,20 SEP 2001,KEN,1f1,Okayama (JPN),25 JUN 2017,1138,3000-metres-steeplechase,middlelong,male,u20
+355,8:26.52,,Girma DABA MARU,12 DEC 1980,ETH,7,"FBK Stadium, Hengelo (NED)",30 MAY 1999,1137,3000-metres-steeplechase,middlelong,male,u20
+355,8:26.52,,Philemon Kiplagat RUTO,20 SEP 2001,KEN,2,Nairobi (KEN),11 JUN 2018,1137,3000-metres-steeplechase,middlelong,male,u20
+357,8:26.58,,Gilbert KIRUI,22 JAN 1994,KEN,1h1,"Estadio Olímpico, Barcelona (ESP)",13 JUL 2012,1137,3000-metres-steeplechase,middlelong,male,u20
+358,8:26.59,,Bisluke Kipkorir KIPLAGAT,08 AUG 1988,KEN,8,"Stadion Juliska, Praha (CZE)",13 JUN 2007,1137,3000-metres-steeplechase,middlelong,male,u20
+359,8:26.60,,Paul CHEMASE,24 AUG 1976,KEN,8,"Olympiastadion, Berlin (GER)",01 SEP 1995,1137,3000-metres-steeplechase,middlelong,male,u20
+360,8:26.62,,Wogene Sebisibe SIDAMO,23 JUN 1998,ETH,4,Brazzaville (CGO),13 SEP 2015,1137,3000-metres-steeplechase,middlelong,male,u20
+361,8:26.65,,John KOECH,23 AUG 1995,BRN,8,Huelva (ESP),12 JUN 2014,1137,3000-metres-steeplechase,middlelong,male,u20
+362,8:26.68,,Nahom Mesfin TARIKU,03 JUN 1989,ETH,7,Ostrava (CZE),27 JUN 2007,1137,3000-metres-steeplechase,middlelong,male,u20
+363,8:26.72,,Yemane HAILESELASSIE,21 FEB 1998,ERI,4h2,"Estádio Olímpico, Rio de Janeiro (BRA)",15 AUG 2016,1137,3000-metres-steeplechase,middlelong,male,u20
+364,8:26.79,,John KOECH,23 AUG 1995,BRN,13,"Stade Louis II, Monaco (MON)",18 JUL 2014,1136,3000-metres-steeplechase,middlelong,male,u20
+365,8:26.8h,,Bisluke Kipkorir KIPLAGAT,08 AUG 1988,KEN,1,Nairobi (KEN),22 JUL 2006,1136,3000-metres-steeplechase,middlelong,male,u20
+366,8:26.81,,Jakob INGEBRIGTSEN,19 SEP 2000,NOR,1,Kortrijk (BEL),08 JUL 2017,1136,3000-metres-steeplechase,middlelong,male,u20
+367,8:26.82,,John KOECH,23 AUG 1995,BRN,8,Luzern (SUI),15 JUL 2014,1136,3000-metres-steeplechase,middlelong,male,u20
+368,8:26.83,,Nelson KIPKOGEI,09 MAR 1993,KEN,12,"Stadio Olimpico, Roma (ITA)",31 MAY 2012,1136,3000-metres-steeplechase,middlelong,male,u20
+369,8:27.0h,,Raymond Kipkorir YATOR,07 APR 1981,KEN,1,Nairobi (KEN),22 SEP 2000,1135,3000-metres-steeplechase,middlelong,male,u20
+369,8:27.0h,,Chala BEYO,18 JAN 1996,ETH,4,Montbéliard (FRA),05 JUN 2015,1135,3000-metres-steeplechase,middlelong,male,u20
+371,8:27.03,,Daniel NJENGA,07 MAY 1976,KEN,1,Fukuoka (JPN),02 SEP 1995,1135,3000-metres-steeplechase,middlelong,male,u20
+372,8:27.06,,Justus Kipchirchir KIPRONO,28 FEB 1987,KEN,8,Herakleion (GRE),04 JUL 2004,1135,3000-metres-steeplechase,middlelong,male,u20
+373,8:27.18,,Leonard Kipkemoi BETT,03 NOV 2000,KEN,8,"Letzigrund, Zürich (SUI)",30 AUG 2018,1135,3000-metres-steeplechase,middlelong,male,u20
+374,8:27.22,,Joash RUTO,15 AUG 2006,KEN,3f1,"Cougar Athletic Stadium, Azusa, CA (USA)",16 APR 2025,1134,3000-metres-steeplechase,middlelong,male,u20
+375,8:27.23,,Matthew BIRIR,05 JUL 1972,KEN,,Granada (ESP),25 MAY 1991,1134,3000-metres-steeplechase,middlelong,male,u20
+376,8:27.26,,James Mwanzia MUTUKU,20 DEC 2002,KEN,4,"Sports Park Mladost, Zagreb (CRO)",14 SEP 2021,1134,3000-metres-steeplechase,middlelong,male,u20
+377,8:27.30,,Conseslus KIPRUTO,08 DEC 1994,KEN,1,Königs Wusterhausen (GER),09 SEP 2011,1134,3000-metres-steeplechase,middlelong,male,u20
+378,8:27.39,,Ezekiel KEMBOI,25 MAY 1982,KEN,5,Milano (ITA),06 JUN 2001,1134,3000-metres-steeplechase,middlelong,male,u20
+379,8:27.4h,,Michael KIPYEGO,02 OCT 1983,KEN,1,Nairobi (KEN),17 JUN 2002,1134,3000-metres-steeplechase,middlelong,male,u20
+379,8:27.4h,,Amos KIRUI,09 FEB 1998,KEN,2,Nairobi (KEN),22 JUN 2016,1134,3000-metres-steeplechase,middlelong,male,u20
+379,8:27.40,,Samuel DUGUNA,20 SEP 2003,ETH,2,"Moi International Sports Centre, Kasarani, Nairobi (KEN)",07 MAY 2022,1134,3000-metres-steeplechase,middlelong,male,u20
+382,8:27.52,,Thomas KIPLITAN,15 JUN 1983,KEN,3,Dortmund (GER),08 JUN 2002,1133,3000-metres-steeplechase,middlelong,male,u20
+383,8:27.55,,Ronald Kipchumba RUTTO,08 OCT 1987,KEN,1,Sotteville-lès-Rouen (FRA),08 JUL 2005,1133,3000-metres-steeplechase,middlelong,male,u20
+383,8:27.55,,Milkesa FIKADU,20 FEB 2005,ETH,5,"University of Ghana Sports Stadium, Accra (GHA)",18 MAR 2024,1133,3000-metres-steeplechase,middlelong,male,u20
+385,8:27.56,,Abdelghani AIT BAHMED,28 JUL 1989,MAR,6,Neerpelt (BEL),31 MAY 2008,1133,3000-metres-steeplechase,middlelong,male,u20
+386,8:27.57,,Cleophas Kandie MEYAN,14 AUG 2000,KEN,13,"Complexe Sportif Prince Moulay Abdellah, Rabat (MAR)",13 JUL 2018,1133,3000-metres-steeplechase,middlelong,male,u20
+387,8:27.67,,Paul Malakwen KOSGEI,22 APR 1978,KEN,8,Fukuoka (JPN),13 SEP 1997,1132,3000-metres-steeplechase,middlelong,male,u20
+388,8:27.68,,Edmund SEREM,27 DEC 2007,KEN,1,"Ulinzi Sports Complex, Langata, Nairobi (KEN)",31 MAY 2025,1132,3000-metres-steeplechase,middlelong,male,u20
+389,8:27.70,,Tesfaye DERIBA,11 SEP 1998,ETH,2,Djibouti (DJI),25 MAR 2017,1132,3000-metres-steeplechase,middlelong,male,u20
+390,8:27.72,,Bisluke Kipkorir KIPLAGAT,08 AUG 1988,KEN,3,Huelva (ESP),13 SEP 2007,1132,3000-metres-steeplechase,middlelong,male,u20
+391,8:27.73,,Nahom Mesfin TARIKU,03 JUN 1989,ETH,1,Barakaldo (ESP),24 JUN 2006,1132,3000-metres-steeplechase,middlelong,male,u20
+392,8:27.79,,Soufiane EL BAKKALI,07 JAN 1996,MAR,3,Amiens (FRA),27 JUN 2015,1132,3000-metres-steeplechase,middlelong,male,u20
+393,8:28.0h,,Willy Rutto KOMEN,22 DEC 1987,KEN,2,Nairobi (KEN),22 JUL 2006,1131,3000-metres-steeplechase,middlelong,male,u20
+394,8:28.03,,Chala BEYO,18 JAN 1996,ETH,5,Brazzaville (CGO),13 SEP 2015,1131,3000-metres-steeplechase,middlelong,male,u20
+395,8:28.05,,Silas Kosgei KITUM,25 MAY 1990,KEN,3,"Stadion Juliska, Praha (CZE)",08 JUN 2009,1131,3000-metres-steeplechase,middlelong,male,u20
+396,8:28.08,,Jairus Kipchoge BIRECH,14 DEC 1992,KEN,2,Gaborone (BOT),12 MAY 2011,1131,3000-metres-steeplechase,middlelong,male,u20
+397,8:28.10,,Abraham CHERONO,21 JUL 1980,KEN,7,Athina (GRE),16 JUN 1999,1130,3000-metres-steeplechase,middlelong,male,u20
+397,8:28.1h,,Jonathan Muia NDIKU,18 SEP 1991,KEN,1,Nairobi (KEN),16 JUN 2009,1130,3000-metres-steeplechase,middlelong,male,u20
+399,8:28.12,,Collins KOSGEI,04 AUG 1986,KEN,1,Melbourne (AUS),17 FEB 2005,1130,3000-metres-steeplechase,middlelong,male,u20
+400,8:28.13,,Clement Kimutai KEMBOI,10 FEB 1992,KEN,2,Königs Wusterhausen (GER),09 SEP 2011,1130,3000-metres-steeplechase,middlelong,male,u20
+401,8:28.14,,Jacob ARAPTANY,11 FEB 1992,UGA,1h2,"Croix-Bleue Medavie Stadium, Moncton (CAN)",23 JUL 2010,1130,3000-metres-steeplechase,middlelong,male,u20
+402,8:28.23,,Jonathan Muia NDIKU,18 SEP 1991,KEN,2h2,"Croix-Bleue Medavie Stadium, Moncton (CAN)",23 JUL 2010,1130,3000-metres-steeplechase,middlelong,male,u20
+403,8:28.29,,Nahom Mesfin TARIKU,03 JUN 1989,ETH,4,"Chaoyang Sport Center, Beijing (CHN)",19 AUG 2006,1130,3000-metres-steeplechase,middlelong,male,u20
+404,8:28.33,,Conseslus KIPRUTO,08 DEC 1994,KEN,4,Dubnica nad Váhom (SVK),15 SEP 2011,1129,3000-metres-steeplechase,middlelong,male,u20
+405,8:28.36,,Abdelghani AIT BAHMED,28 JUL 1989,MAR,7,Algiers (ALG),22 JUN 2006,1129,3000-metres-steeplechase,middlelong,male,u20
+406,8:28.43,,Matthew BIRIR,05 JUL 1972,KEN,1,Nurmijärvi (FIN),20 JUN 1990,1129,3000-metres-steeplechase,middlelong,male,u20
+406,8:28.43,,Hirko HAYILU,05 JAN 2006,ETH,1,"Sola Arena, Karlstad (SWE)",03 JUL 2025,1129,3000-metres-steeplechase,middlelong,male,u20
+408,8:28.44,,Abraham KEBETO,1986,ETH,3,Barakaldo (ESP),10 JUL 2004,1129,3000-metres-steeplechase,middlelong,male,u20
+409,8:28.48,,Abrham SIME,07 NOV 2001,ETH,4,Hengelo (NED),17 JUL 2019,1129,3000-metres-steeplechase,middlelong,male,u20
+410,8:28.49,,Samuel CHEPKOK,18 NOV 1977,KEN,7,Sevilla (ESP),06 JUN 1996,1129,3000-metres-steeplechase,middlelong,male,u20
+411,8:28.51,,Ryuji MIURA,11 FEB 2002,JPN,1,"Denka Big Swan Stadium, Niigata (JPN)",11 SEP 2020,1129,3000-metres-steeplechase,middlelong,male,u20
+412,8:28.53,,Kipkurui MISOI,23 OCT 1978,KEN,16,Zürich (SUI),13 AUG 1997,1129,3000-metres-steeplechase,middlelong,male,u20
+413,8:28.60,,Mohamed ISMAIL,01 JAN 1997,DJI,3f1,Barcelona (ESP),08 JUL 2015,1128,3000-metres-steeplechase,middlelong,male,u20
+414,8:28.62,,Elijah CHELIMO,20 APR 1987,KEN,1,Cottbus (GER),05 JUN 2005,1128,3000-metres-steeplechase,middlelong,male,u20
+415,8:28.7h,,Reuben KOSGEI,12 AUG 1979,KEN,1,Nairobi (KEN),16 JUN 1998,1128,3000-metres-steeplechase,middlelong,male,u20
+416,8:28.71,,Nelson KIPKOGEI,09 MAR 1993,KEN,5,Bydgoszcz (POL),03 JUN 2012,1128,3000-metres-steeplechase,middlelong,male,u20
+417,8:28.78,,Hicham CHAMLAL,02 DEC 1997,MAR,10,"Complexe Sportif Prince Moulay Abdellah, Rabat (MAR)",14 JUN 2015,1127,3000-metres-steeplechase,middlelong,male,u20
+418,8:28.8h,,Benjamin KIPLAGAT,04 MAR 1989,UGA,1,Kampala (UGA),26 JUL 2008,1127,3000-metres-steeplechase,middlelong,male,u20
+419,8:28.83,,Jonathan Muia NDIKU,18 SEP 1991,KEN,1,Bambous (MRI),30 JUL 2009,1127,3000-metres-steeplechase,middlelong,male,u20
+419,8:28.83,,Nicholas Kiptonui BETT,20 DEC 1996,KEN,3,Dessau (GER),11 JUN 2014,1127,3000-metres-steeplechase,middlelong,male,u20
+421,8:28.86,,Collins KOSGEI,04 AUG 1986,KEN,2,Zaragoza (ESP),23 JUN 2005,1127,3000-metres-steeplechase,middlelong,male,u20
+421,8:28.86,,Nahom Mesfin TARIKU,03 JUN 1989,ETH,12,"Yanmar Stadium Nagai, Osaka (JPN)",28 AUG 2007,1127,3000-metres-steeplechase,middlelong,male,u20
+421,8:28.86,,Joash RUTO,15 AUG 2006,KEN,1h2,"Cushing Stadium, College Station, TX (USA)",30 MAY 2025,1127,3000-metres-steeplechase,middlelong,male,u20
+424,8:28.89,,Simon Kiprop KOECH,10 JUN 2003,KEN,2h1,"Moi International Sports Centre, Kasarani, Nairobi (KEN)",02 JUL 2021,1127,3000-metres-steeplechase,middlelong,male,u20
+425,8:28.90,,Philip TARUS,1982,KEN,4,Grudziadz (POL),07 SEP 2001,1127,3000-metres-steeplechase,middlelong,male,u20
+426,8:28.96,,John KOECH,23 AUG 1995,BRN,5,"Le Grand Stade, Marrakech (MAR)",14 SEP 2014,1127,3000-metres-steeplechase,middlelong,male,u20
+427,8:28.97,,Weynay GHEBRESILASIE,24 MAR 1994,ERI,2,Oordegem (BEL),26 MAY 2012,1127,3000-metres-steeplechase,middlelong,male,u20
+428,8:29.0h,,Getnet WALE,16 JUL 2000,ETH,1,Addis Abeba (ETH),22 APR 2018,1126,3000-metres-steeplechase,middlelong,male,u20
+429,8:29.03,,Habtamu FAYISA,19 APR 1993,ETH,6,Porto Novo (BEN),29 JUN 2012,1126,3000-metres-steeplechase,middlelong,male,u20
+430,8:29.05,,Tetsu SASAKI,24 NOV 2006,JPN,2,"Egao Kenko Stadium, Kumamoto (JPN)",12 APR 2025,1126,3000-metres-steeplechase,middlelong,male,u20
+431,8:29.1h,,Patrick Kipyegon TERER,06 JUL 1989,KEN,1,Nairobi (KEN),18 JUN 2008,1126,3000-metres-steeplechase,middlelong,male,u20
+431,8:29.1h,,Getnet WALE,16 JUL 2000,ETH,1,Addis Abeba (ETH),11 MAY 2019,1126,3000-metres-steeplechase,middlelong,male,u20
+433,8:29.11,,Legesse LAMISO,13 JAN 1990,ETH,11,"FBK Stadium, Hengelo (NED)",01 JUN 2009,1126,3000-metres-steeplechase,middlelong,male,u20
+434,8:29.12,,Axel Vang CHRISTENSEN,30 JUL 2004,DEN,7,"Fana Stadion, Bergen (NOR)",08 JUN 2022,1126,3000-metres-steeplechase,middlelong,male,u20
+435,8:29.16,,Tareq Mubarak TAHER,01 DEC 1986,BRN,6,"AC Gianni Brera, Milano (ITA)",01 JUN 2005,1126,3000-metres-steeplechase,middlelong,male,u20
+436,8:29.19,,Matthew BIRIR,05 JUL 1972,KEN,9,Barcelona (ESP),16 JUL 1990,1126,3000-metres-steeplechase,middlelong,male,u20
+437,8:29.21,,Million WOLDE,17 MAR 1979,ETH,8,"FBK Stadium, Hengelo (NED)",31 MAY 1997,1126,3000-metres-steeplechase,middlelong,male,u20
+438,8:29.24,,Chala BEYO,18 JAN 1996,ETH,6,"Stadion Juliska, Praha (CZE)",08 JUN 2015,1125,3000-metres-steeplechase,middlelong,male,u20
+439,8:29.28,,Dominic Chemut KIPTARUS,19 AUG 1996,KEN,3,Nairobi (KEN),25 JUN 2014,1125,3000-metres-steeplechase,middlelong,male,u20
+440,8:29.50,,Ralf PÖNITZSCH,20 OCT 1957,GDR,4,Warszawa (POL),19 AUG 1976,1124,3000-metres-steeplechase,middlelong,male,u20
+440,8:29.50,,Girma DABA MARU,12 DEC 1980,ETH,1,Cottbus (GER),26 MAY 1999,1124,3000-metres-steeplechase,middlelong,male,u20
+442,8:29.54,,Michael KIPYEGO,02 OCT 1983,KEN,1,"National Stadium, Kingston (JAM)",20 JUL 2002,1124,3000-metres-steeplechase,middlelong,male,u20
+443,8:29.57,,Wenli SUN,09 FEB 1978,CHN,3,Shanghai (CHN),19 OCT 1997,1124,3000-metres-steeplechase,middlelong,male,u20
+443,8:29.57,,Nahom Mesfin TARIKU,03 JUN 1989,ETH,2h2,"Yanmar Stadium Nagai, Osaka (JPN)",26 AUG 2007,1124,3000-metres-steeplechase,middlelong,male,u20
+445,8:29.59,,Abraham KEBETO,1986,ETH,6,San Sebastián (ESP),03 JUL 2004,1124,3000-metres-steeplechase,middlelong,male,u20
+446,8:29.75,,Collins KOSGEI,04 AUG 1986,KEN,1,Sollentuna (SWE),28 JUN 2005,1123,3000-metres-steeplechase,middlelong,male,u20
+447,8:29.76,,Abel Kiprop MUTAI,02 OCT 1988,KEN,1,Ouagadougou (BUR),09 AUG 2007,1123,3000-metres-steeplechase,middlelong,male,u20
+448,8:29.78,,Xiangqian LIN,27 JAN 1987,CHN,1,Shijiazhuang (CHN),06 AUG 2006,1123,3000-metres-steeplechase,middlelong,male,u20
+448,8:29.78,,Titus KIBIEGO,03 MAY 1996,KEN,6,"Sports Park Mladost, Zagreb (CRO)",02 SEP 2014,1123,3000-metres-steeplechase,middlelong,male,u20
+450,8:29.8h,,Jonathan Muia NDIKU,18 SEP 1991,KEN,2,Nairobi (KEN),18 JUN 2008,1123,3000-metres-steeplechase,middlelong,male,u20
+451,8:29.85,,Paul DAVIES-HALE,21 JUN 1962,GBR,3,London (GBR),31 AUG 1981,1123,3000-metres-steeplechase,middlelong,male,u20
+452,8:29.90,,Legesse LAMISO,13 JAN 1990,ETH,11,"Stade de France, Paris-St-Denis (FRA)",17 JUL 2009,1123,3000-metres-steeplechase,middlelong,male,u20
+453,8:29.92,,Meresa KAHSAY,23 MAY 1996,ETH,11,"Olympiastadion, Stockholm (SWE)",22 AUG 2013,1122,3000-metres-steeplechase,middlelong,male,u20
+454,8:29.97,,Edmund SEREM,27 DEC 2007,KEN,1h1,"National Stadium, Tokyo (JPN)",13 SEP 2025,1122,3000-metres-steeplechase,middlelong,male,u20
+455,8:29.98,,Abraham KEBETO,1986,ETH,4,"Stadion Juliska, Praha (CZE)",28 JUN 2004,1122,3000-metres-steeplechase,middlelong,male,u20
+455,8:29.98,,Amos SEREM,28 AUG 2002,KEN,1h2,"Moi International Sports Centre, Kasarani, Nairobi (KEN)",20 AUG 2021,1122,3000-metres-steeplechase,middlelong,male,u20
+457,8:29.99,,Julius Kipling CHELULE,25 DEC 1978,KEN,2,Cape Town (RSA),06 MAY 1995,1122,3000-metres-steeplechase,middlelong,male,u20
+457,8:29.99,,Yacob JARSO,05 FEB 1988,ETH,2,Ouagadougou (BUR),09 AUG 2007,1122,3000-metres-steeplechase,middlelong,male,u20

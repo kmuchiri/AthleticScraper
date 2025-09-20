@@ -26,72 +26,73 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 25,58.97,,Chenyi MA,01 JAN 2008,CHN,1,"Olympic Sports Center, Huangshi (CHN)",29 JUN 2025,1052,discus-throw,throws,female,u18
 26,58.85,,Xuejun MA,26 MAR 1985,CHN,1,"National Stadium, Kingston (JAM)",19 JUL 2002,1050,discus-throw,throws,female,u18
 27,58.65,,Xuejun MA,26 MAR 1985,CHN,9,Guangzhou (CHN),18 NOV 2001,1047,discus-throw,throws,female,u18
-28,58.52,,Saili PAN,04 DEC 1988,CHN,1,Zhaoqing (CHN),09 APR 2005,1044,discus-throw,throws,female,u18
-28,58.52,,Dani STEVENS,26 MAY 1988,AUS,1,Brisbane (AUS),26 NOV 2005,1044,discus-throw,throws,female,u18
-30,58.50,,Yaqing ZHANG,15 JAN 1977,CHN,2,Beijing (CHN),14 APR 1994,1044,discus-throw,throws,female,u18
-31,58.46,,Zhichao JIANG,06 JAN 2005,CHN,1,Huangshi (CHN),26 OCT 2022,1043,discus-throw,throws,female,u18
-32,58.34,,Shuli MA,20 JAN 1978,CHN,2,Jinan (CHN),15 MAR 1995,1041,discus-throw,throws,female,u18
-33,58.28,,Alida VAN DAALEN,12 APR 2002,NED,1,Zwolle (NED),15 SEP 2019,1040,discus-throw,throws,female,u18
-34,58.09,,Alexandra EMILIANOV,19 SEP 1999,MDA,1,"New District Stadium, Tbilisi (GEO)",15 JUL 2016,1036,discus-throw,throws,female,u18
-35,57.74,,Ilke WYLUDDA,28 MAR 1969,GDR,1,Cottbus (GER),26 JUL 1984,1030,discus-throw,throws,female,u18
-36,57.61,,Yan LIANG,02 JAN 1995,CHN,6,Tianjin (CHN),13 MAY 2012,1027,discus-throw,throws,female,u18
-37,57.58,,Yuanyuan JIN,24 JAN 1990,CHN,1,Beijing (CHN),20 APR 2007,1027,discus-throw,throws,female,u18
-38,57.57,,Bingyang HAN,16 JAN 2007,CHN,1,"Estadio Atlético de la VIDENA, Lima (PER)",28 AUG 2024,1027,discus-throw,throws,female,u18
-39,57.56,,Xuejun MA,26 MAR 1985,CHN,2,Bangkok (THA),30 OCT 2002,1026,discus-throw,throws,female,u18
-40,57.50,,Özlem BECEREK,22 APR 2002,TUR,1,Kyiv (UKR),29 JUN 2019,1025,discus-throw,throws,female,u18
-41,57.47,,Özlem BECEREK,22 APR 2002,TUR,1,Pravets (BUL),02 SEP 2019,1025,discus-throw,throws,female,u18
-42,57.45,,Özlem BECEREK,22 APR 2002,TUR,1,Antalya (TUR),05 FEB 2019,1024,discus-throw,throws,female,u18
-43,57.38,,Ilke WYLUDDA,28 MAR 1969,GDR,1,"Max-Reimann-Stadion, Cottbus (GDR)",24 AUG 1985,1023,discus-throw,throws,female,u18
-44,57.36,,Pia NORTHOFF,11 DEC 2002,GER,1,Schönebeck (GER),24 MAY 2019,1023,discus-throw,throws,female,u18
-45,57.31,,Özlem BECEREK,22 APR 2002,TUR,1,Antalya (TUR),28 APR 2019,1022,discus-throw,throws,female,u18
-46,57.21,,Özlem BECEREK,22 APR 2002,TUR,1,Bursa (TUR),19 JUN 2019,1020,discus-throw,throws,female,u18
-47,57.20,,Seema PUNIA,27 JUL 1983,IND,1,Calcutta (IND),11 OCT 2000,1020,discus-throw,throws,female,u18
-48,57.17,,Yu WANG,22 SEP 1985,CHN,4,Wuxi (CHN),23 MAY 2002,1019,discus-throw,throws,female,u18
-48,57.17,,Julia TUNKS,20 JUL 2006,CAN,1,"McLeod Stadium, Langley (CAN)",29 JUL 2023,1019,discus-throw,throws,female,u18
-50,57.09,,Xuejun MA,26 MAR 1985,CHN,q,Chengdu (CHN),28 JUN 2001,1018,discus-throw,throws,female,u18
-50,57.09,,Xuejun MA,26 MAR 1985,CHN,q,Chengdu (CHN),28 JUL 2001,1018,discus-throw,throws,female,u18
-52,57.01,,Jian TAN,22 JAN 1988,CHN,1,Sydney (AUS),21 JAN 2005,1016,discus-throw,throws,female,u18
-53,56.98,,Julia TUNKS,20 JUL 2006,CAN,1,"Estadio Jose A. Figueroa Freyre, Mayagüez (PUR)",05 AUG 2023,1016,discus-throw,throws,female,u18
-54,56.94,,Franka DIETZSCH,22 JAN 1968,GDR,1,Pitesti (ROU),04 AUG 1985,1015,discus-throw,throws,female,u18
-55,56.91,,Julia TUNKS,20 JUL 2006,CAN,1,"Alumni Field, Windsor (CAN)",24 JUN 2023,1014,discus-throw,throws,female,u18
-56,56.89,,Xiaojing LIN,08 JAN 1986,CHN,4,Tiantai (CHN),27 OCT 2002,1014,discus-throw,throws,female,u18
-57,56.88,,Silvia MADETZKY,24 JUN 1962,GDR,2,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",19 AUG 1979,1014,discus-throw,throws,female,u18
-57,56.88,,Qunhua JIANG,26 SEP 1974,CHN,4,Shanghai (CHN),02 OCT 1991,1014,discus-throw,throws,female,u18
-59,56.84,,Darya PISHCHALNIKOVA,19 JUL 1985,RUS,,Krasnodar (RUS),07 MAY 2002,1013,discus-throw,throws,female,u18
-59,56.84,,Özlem BECEREK,22 APR 2002,TUR,1,Mersin (TUR),23 FEB 2019,1013,discus-throw,throws,female,u18
-61,56.79,,Melany del Pilar MATHEUS,19 JAN 2001,CUB,1,Camagüey (CUB),29 JUN 2018,1012,discus-throw,throws,female,u18
-62,56.77,,Saili PAN,04 DEC 1988,CHN,9,Zhongshan (CHN),23 APR 2005,1012,discus-throw,throws,female,u18
-63,56.71,,Jian TAN,22 JAN 1988,CHN,10,Zhongshan (CHN),23 APR 2005,1011,discus-throw,throws,female,u18
-64,56.70,,Larisa KOROTKEVICH,03 JAN 1967,URS,1,Staiki (URS),02 JUN 1984,1011,discus-throw,throws,female,u18
-64,56.70,,Larisa KOROTKEVICH,03 JAN 1967,URS,1,Minsk (BLR),08 JUN 1984,1011,discus-throw,throws,female,u18
-66,56.68,,Julia TUNKS,20 JUL 2006,CAN,2,"Alumni Stadium, Guelph (CAN)",20 JUN 2023,1010,discus-throw,throws,female,u18
-67,56.66,,Darya PISHCHALNIKOVA,19 JUL 1985,RUS,4,"Adler, Sochi (RUS)",24 FEB 2002,1010,discus-throw,throws,female,u18
-68,56.65,,Xiaojing LIN,08 JAN 1986,CHN,3,Changsha (CHN),25 OCT 2003,1010,discus-throw,throws,female,u18
-68,56.65,,Chenyi MA,01 JAN 2008,CHN,2,"Handan Sports Center, Handan (CHN)",20 MAR 2025,1010,discus-throw,throws,female,u18
-70,56.64,,Grit HAUPT,04 JUN 1966,GDR,1,Jena (GDR),28 JUN 1983,1010,discus-throw,throws,female,u18
-71,56.60,,Pia NORTHOFF,11 DEC 2002,GER,1,Halle (GER),02 JUN 2019,1009,discus-throw,throws,female,u18
-72,56.58,,Jian TAN,22 JAN 1988,CHN,7,Chengdu (CHN),09 APR 2005,1008,discus-throw,throws,female,u18
-73,56.56,,Jian TAN,22 JAN 1988,CHN,8,Chongqing (CHN),14 MAY 2005,1008,discus-throw,throws,female,u18
-74,56.53,,Xiaojing LIN,08 JAN 1986,CHN,6,Wuxi (CHN),23 MAY 2002,1007,discus-throw,throws,female,u18
-75,56.50,,Xuejun MA,26 MAR 1985,CHN,1,Shanghai (CHN),21 MAY 2002,1007,discus-throw,throws,female,u18
-75,56.50,,Yan LIANG,02 JAN 1995,CHN,11,Zhaoqing (CHN),15 APR 2012,1007,discus-throw,throws,female,u18
-77,56.48,,Corrie DE BRUIN,26 OCT 1976,NED,1,Zevenbergen (NED),18 APR 1992,1007,discus-throw,throws,female,u18
-77,56.48,,Melanie UHER,01 APR 1985,USA,1,"Dewitt, MI (USA)",16 APR 2002,1007,discus-throw,throws,female,u18
-79,56.47,,Bingyang HAN,16 JAN 2007,CHN,5,"Sports Center, Quzhou (CHN)",15 SEP 2024,1006,discus-throw,throws,female,u18
-80,56.41,,Julia TUNKS,20 JUL 2006,CAN,1,"Millican Field at Throw Town, Ramona, OK (USA)",16 APR 2023,1005,discus-throw,throws,female,u18
-81,56.40,,Sieglinde BLUDAU,04 JUN 1958,GDR,4,Potsdam (GDR),10 AUG 1975,1005,discus-throw,throws,female,u18
-82,56.39,,Melany del Pilar MATHEUS,19 JAN 2001,CUB,1,Las Tunas (CUB),10 FEB 2018,1005,discus-throw,throws,female,u18
-83,56.35,,Bingyang HAN,16 JAN 2007,CHN,1,Dubai (UAE),25 APR 2024,1004,discus-throw,throws,female,u18
-84,56.34,,Yuchen XIE,12 MAY 1996,CHN,1,Donetsk (UKR),10 JUL 2013,1004,discus-throw,throws,female,u18
-85,56.28,,Heidi KRIEGER,20 JUL 1965,GDR,1,Magdeburg (GER),10 JUN 1982,1003,discus-throw,throws,female,u18
-85,56.28,,Shaorong HUA,07 APR 1974,CHN,6,Dalian (CHN),07 MAY 1991,1003,discus-throw,throws,female,u18
-85,56.28,,Wang XUAN,1981,CHN,1,Shijiazhuang (CHN),27 AUG 1998,1003,discus-throw,throws,female,u18
-85,56.28,,Xuejun MA,26 MAR 1985,CHN,6,Jinan (CHN),17 AUG 2002,1003,discus-throw,throws,female,u18
-89,56.27,,Chenyi MA,01 JAN 2008,CHN,1q2,"Olympic Sports Center, Huangshi (CHN)",28 JUN 2025,1003,discus-throw,throws,female,u18
-90,56.24,,Xuejun MA,26 MAR 1985,CHN,2,Deyang (CHN),14 MAY 2002,1002,discus-throw,throws,female,u18
-91,56.21,,Zhichao JIANG,06 JAN 2005,CHN,1,Qingdao (CHN),07 MAY 2022,1002,discus-throw,throws,female,u18
-92,56.12,,Özlem BECEREK,22 APR 2002,TUR,1,Bursa (TUR),20 AUG 2019,1000,discus-throw,throws,female,u18
-93,56.10,,Jana HARTER,16 JUN 1966,GER,1,Leipzig (GER),27 JUL 1983,1000,discus-throw,throws,female,u18
-94,56.09,,Alida VAN DAALEN,12 APR 2002,NED,1,"Sportcomplex Het Langepad, Rotterdam (NED)",07 JUL 2019,999,discus-throw,throws,female,u18
-95,56.06,,Linpeng LIU,22 FEB 1987,CHN,4,Shanghai (CHN),31 AUG 2004,999,discus-throw,throws,female,u18
-96,56.00,,Jian TAN,22 JAN 1988,CHN,9,Beijing (CHN),17 JUL 2004,998,discus-throw,throws,female,u18
+28,58.64,,Chenyi MA,01 JAN 2008,CHN,1,"Olympic Center, Shenyang (CHN)",13 AUG 2025,1046,discus-throw,throws,female,u18
+29,58.52,,Saili PAN,04 DEC 1988,CHN,1,Zhaoqing (CHN),09 APR 2005,1044,discus-throw,throws,female,u18
+29,58.52,,Dani STEVENS,26 MAY 1988,AUS,1,Brisbane (AUS),26 NOV 2005,1044,discus-throw,throws,female,u18
+31,58.50,,Yaqing ZHANG,15 JAN 1977,CHN,2,Beijing (CHN),14 APR 1994,1044,discus-throw,throws,female,u18
+32,58.46,,Zhichao JIANG,06 JAN 2005,CHN,1,Huangshi (CHN),26 OCT 2022,1043,discus-throw,throws,female,u18
+33,58.34,,Shuli MA,20 JAN 1978,CHN,2,Jinan (CHN),15 MAR 1995,1041,discus-throw,throws,female,u18
+34,58.28,,Alida VAN DAALEN,12 APR 2002,NED,1,Zwolle (NED),15 SEP 2019,1040,discus-throw,throws,female,u18
+35,58.09,,Alexandra EMILIANOV,19 SEP 1999,MDA,1,"New District Stadium, Tbilisi (GEO)",15 JUL 2016,1036,discus-throw,throws,female,u18
+36,57.74,,Ilke WYLUDDA,28 MAR 1969,GDR,1,Cottbus (GER),26 JUL 1984,1030,discus-throw,throws,female,u18
+37,57.61,,Yan LIANG,02 JAN 1995,CHN,6,Tianjin (CHN),13 MAY 2012,1027,discus-throw,throws,female,u18
+38,57.58,,Yuanyuan JIN,24 JAN 1990,CHN,1,Beijing (CHN),20 APR 2007,1027,discus-throw,throws,female,u18
+39,57.57,,Bingyang HAN,16 JAN 2007,CHN,1,"Estadio Atlético de la VIDENA, Lima (PER)",28 AUG 2024,1027,discus-throw,throws,female,u18
+40,57.56,,Xuejun MA,26 MAR 1985,CHN,2,Bangkok (THA),30 OCT 2002,1026,discus-throw,throws,female,u18
+41,57.50,,Özlem BECEREK,22 APR 2002,TUR,1,Kyiv (UKR),29 JUN 2019,1025,discus-throw,throws,female,u18
+42,57.47,,Özlem BECEREK,22 APR 2002,TUR,1,Pravets (BUL),02 SEP 2019,1025,discus-throw,throws,female,u18
+43,57.45,,Özlem BECEREK,22 APR 2002,TUR,1,Antalya (TUR),05 FEB 2019,1024,discus-throw,throws,female,u18
+44,57.38,,Ilke WYLUDDA,28 MAR 1969,GDR,1,"Max-Reimann-Stadion, Cottbus (GDR)",24 AUG 1985,1023,discus-throw,throws,female,u18
+45,57.36,,Pia NORTHOFF,11 DEC 2002,GER,1,Schönebeck (GER),24 MAY 2019,1023,discus-throw,throws,female,u18
+46,57.31,,Özlem BECEREK,22 APR 2002,TUR,1,Antalya (TUR),28 APR 2019,1022,discus-throw,throws,female,u18
+47,57.21,,Özlem BECEREK,22 APR 2002,TUR,1,Bursa (TUR),19 JUN 2019,1020,discus-throw,throws,female,u18
+48,57.20,,Seema PUNIA,27 JUL 1983,IND,1,Calcutta (IND),11 OCT 2000,1020,discus-throw,throws,female,u18
+49,57.17,,Yu WANG,22 SEP 1985,CHN,4,Wuxi (CHN),23 MAY 2002,1019,discus-throw,throws,female,u18
+49,57.17,,Julia TUNKS,20 JUL 2006,CAN,1,"McLeod Stadium, Langley (CAN)",29 JUL 2023,1019,discus-throw,throws,female,u18
+51,57.09,,Xuejun MA,26 MAR 1985,CHN,q,Chengdu (CHN),28 JUN 2001,1018,discus-throw,throws,female,u18
+51,57.09,,Xuejun MA,26 MAR 1985,CHN,q,Chengdu (CHN),28 JUL 2001,1018,discus-throw,throws,female,u18
+53,57.01,,Jian TAN,22 JAN 1988,CHN,1,Sydney (AUS),21 JAN 2005,1016,discus-throw,throws,female,u18
+54,56.98,,Julia TUNKS,20 JUL 2006,CAN,1,"Estadio Jose A. Figueroa Freyre, Mayagüez (PUR)",05 AUG 2023,1016,discus-throw,throws,female,u18
+55,56.94,,Franka DIETZSCH,22 JAN 1968,GDR,1,Pitesti (ROU),04 AUG 1985,1015,discus-throw,throws,female,u18
+56,56.91,,Julia TUNKS,20 JUL 2006,CAN,1,"Alumni Field, Windsor (CAN)",24 JUN 2023,1014,discus-throw,throws,female,u18
+57,56.89,,Xiaojing LIN,08 JAN 1986,CHN,4,Tiantai (CHN),27 OCT 2002,1014,discus-throw,throws,female,u18
+58,56.88,,Silvia MADETZKY,24 JUN 1962,GDR,2,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",19 AUG 1979,1014,discus-throw,throws,female,u18
+58,56.88,,Qunhua JIANG,26 SEP 1974,CHN,4,Shanghai (CHN),02 OCT 1991,1014,discus-throw,throws,female,u18
+60,56.84,,Darya PISHCHALNIKOVA,19 JUL 1985,RUS,,Krasnodar (RUS),07 MAY 2002,1013,discus-throw,throws,female,u18
+60,56.84,,Özlem BECEREK,22 APR 2002,TUR,1,Mersin (TUR),23 FEB 2019,1013,discus-throw,throws,female,u18
+62,56.79,,Melany del Pilar MATHEUS,19 JAN 2001,CUB,1,Camagüey (CUB),29 JUN 2018,1012,discus-throw,throws,female,u18
+63,56.77,,Saili PAN,04 DEC 1988,CHN,9,Zhongshan (CHN),23 APR 2005,1012,discus-throw,throws,female,u18
+64,56.71,,Jian TAN,22 JAN 1988,CHN,10,Zhongshan (CHN),23 APR 2005,1011,discus-throw,throws,female,u18
+65,56.70,,Larisa KOROTKEVICH,03 JAN 1967,URS,1,Staiki (URS),02 JUN 1984,1011,discus-throw,throws,female,u18
+65,56.70,,Larisa KOROTKEVICH,03 JAN 1967,URS,1,Minsk (BLR),08 JUN 1984,1011,discus-throw,throws,female,u18
+67,56.68,,Julia TUNKS,20 JUL 2006,CAN,2,"Alumni Stadium, Guelph (CAN)",20 JUN 2023,1010,discus-throw,throws,female,u18
+68,56.66,,Darya PISHCHALNIKOVA,19 JUL 1985,RUS,4,"Adler, Sochi (RUS)",24 FEB 2002,1010,discus-throw,throws,female,u18
+69,56.65,,Xiaojing LIN,08 JAN 1986,CHN,3,Changsha (CHN),25 OCT 2003,1010,discus-throw,throws,female,u18
+69,56.65,,Chenyi MA,01 JAN 2008,CHN,2,"Handan Sports Center, Handan (CHN)",20 MAR 2025,1010,discus-throw,throws,female,u18
+71,56.64,,Grit HAUPT,04 JUN 1966,GDR,1,Jena (GDR),28 JUN 1983,1010,discus-throw,throws,female,u18
+72,56.60,,Pia NORTHOFF,11 DEC 2002,GER,1,Halle (GER),02 JUN 2019,1009,discus-throw,throws,female,u18
+73,56.58,,Jian TAN,22 JAN 1988,CHN,7,Chengdu (CHN),09 APR 2005,1008,discus-throw,throws,female,u18
+74,56.56,,Jian TAN,22 JAN 1988,CHN,8,Chongqing (CHN),14 MAY 2005,1008,discus-throw,throws,female,u18
+75,56.53,,Xiaojing LIN,08 JAN 1986,CHN,6,Wuxi (CHN),23 MAY 2002,1007,discus-throw,throws,female,u18
+76,56.50,,Xuejun MA,26 MAR 1985,CHN,1,Shanghai (CHN),21 MAY 2002,1007,discus-throw,throws,female,u18
+76,56.50,,Yan LIANG,02 JAN 1995,CHN,11,Zhaoqing (CHN),15 APR 2012,1007,discus-throw,throws,female,u18
+78,56.48,,Corrie DE BRUIN,26 OCT 1976,NED,1,Zevenbergen (NED),18 APR 1992,1007,discus-throw,throws,female,u18
+78,56.48,,Melanie UHER,01 APR 1985,USA,1,"Dewitt, MI (USA)",16 APR 2002,1007,discus-throw,throws,female,u18
+80,56.47,,Bingyang HAN,16 JAN 2007,CHN,5,"Sports Center, Quzhou (CHN)",15 SEP 2024,1006,discus-throw,throws,female,u18
+81,56.41,,Julia TUNKS,20 JUL 2006,CAN,1,"Millican Field at Throw Town, Ramona, OK (USA)",16 APR 2023,1005,discus-throw,throws,female,u18
+82,56.40,,Sieglinde BLUDAU,04 JUN 1958,GDR,4,Potsdam (GDR),10 AUG 1975,1005,discus-throw,throws,female,u18
+83,56.39,,Melany del Pilar MATHEUS,19 JAN 2001,CUB,1,Las Tunas (CUB),10 FEB 2018,1005,discus-throw,throws,female,u18
+84,56.35,,Bingyang HAN,16 JAN 2007,CHN,1,Dubai (UAE),25 APR 2024,1004,discus-throw,throws,female,u18
+85,56.34,,Yuchen XIE,12 MAY 1996,CHN,1,Donetsk (UKR),10 JUL 2013,1004,discus-throw,throws,female,u18
+86,56.28,,Heidi KRIEGER,20 JUL 1965,GDR,1,Magdeburg (GER),10 JUN 1982,1003,discus-throw,throws,female,u18
+86,56.28,,Shaorong HUA,07 APR 1974,CHN,6,Dalian (CHN),07 MAY 1991,1003,discus-throw,throws,female,u18
+86,56.28,,Wang XUAN,1981,CHN,1,Shijiazhuang (CHN),27 AUG 1998,1003,discus-throw,throws,female,u18
+86,56.28,,Xuejun MA,26 MAR 1985,CHN,6,Jinan (CHN),17 AUG 2002,1003,discus-throw,throws,female,u18
+90,56.27,,Chenyi MA,01 JAN 2008,CHN,1q2,"Olympic Sports Center, Huangshi (CHN)",28 JUN 2025,1003,discus-throw,throws,female,u18
+91,56.24,,Xuejun MA,26 MAR 1985,CHN,2,Deyang (CHN),14 MAY 2002,1002,discus-throw,throws,female,u18
+92,56.21,,Zhichao JIANG,06 JAN 2005,CHN,1,Qingdao (CHN),07 MAY 2022,1002,discus-throw,throws,female,u18
+93,56.12,,Özlem BECEREK,22 APR 2002,TUR,1,Bursa (TUR),20 AUG 2019,1000,discus-throw,throws,female,u18
+94,56.10,,Jana HARTER,16 JUN 1966,GER,1,Leipzig (GER),27 JUL 1983,1000,discus-throw,throws,female,u18
+95,56.09,,Alida VAN DAALEN,12 APR 2002,NED,1,"Sportcomplex Het Langepad, Rotterdam (NED)",07 JUL 2019,999,discus-throw,throws,female,u18
+96,56.06,,Linpeng LIU,22 FEB 1987,CHN,4,Shanghai (CHN),31 AUG 2004,999,discus-throw,throws,female,u18
+97,56.00,,Jian TAN,22 JAN 1988,CHN,9,Beijing (CHN),17 JUL 2004,998,discus-throw,throws,female,u18

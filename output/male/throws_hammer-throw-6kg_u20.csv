@@ -5,670 +5,672 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 4,84.66,,Ashraf ELSEIFY,20 FEB 1995,QAT,1,Rhede (GER),11 JUL 2014,,hammer-throw-6kg,throws,male,u20
 5,84.22,,Christos FRANTZESKAKIS,26 APR 2000,GRE,2,"Ryavallen, Borås (SWE)",19 JUL 2019,,hammer-throw-6kg,throws,male,u20
 6,83.32,,Mykhaylo KOKHAN,22 JAN 2001,UKR,1,"Ekrem Koçak Atletizm Pisti, Istanbul (TUR)",12 SEP 2020,,hammer-throw-6kg,throws,male,u20
-7,82.97,,Javier CIENFUEGOS,15 JUL 1990,ESP,1,Madrid (ESP),17 JUN 2009,,hammer-throw-6kg,throws,male,u20
-8,82.93,,Ármin SZABADOS,11 JAN 2006,HUN,1,"Egyetemi Stadion, Veszprém (HUN)",26 APR 2025,,hammer-throw-6kg,throws,male,u20
-9,82.84,,Quentin BIGOT,01 DEC 1992,FRA,1f1,Bondoufle (FRA),15 OCT 2011,,hammer-throw-6kg,throws,male,u20
-10,82.80,,Iosif KESIDIS,19 AUG 2005,CYP,1,"Estadio Atlético de la VIDENA, Lima (PER)",29 AUG 2024,,hammer-throw-6kg,throws,male,u20
-11,82.64,,Bence HALÁSZ,04 AUG 1997,HUN,1,Szombathely (HUN),25 JUN 2016,,hammer-throw-6kg,throws,male,u20
-12,82.62,,Yevgeniy AYDAMIROV,11 MAY 1987,RUS,1,Tula (RUS),22 JUL 2006,,hammer-throw-6kg,throws,male,u20
-13,82.22,,Ashraf ELSEIFY,20 FEB 1995,QAT,1,Doha (QAT),23 APR 2012,,hammer-throw-6kg,throws,male,u20
-14,81.76,,Bence HALÁSZ,04 AUG 1997,HUN,1,Szombathely (HUN),01 MAY 2016,,hammer-throw-6kg,throws,male,u20
-15,81.75,,Hlib PISKUNOV,25 NOV 1998,UKR,1,"Stadio Zecchini, Grosseto (ITA)",21 JUL 2017,,hammer-throw-6kg,throws,male,u20
-16,81.74,,Bence HALÁSZ,04 AUG 1997,HUN,1,Szombathely (HUN),08 JUN 2016,,hammer-throw-6kg,throws,male,u20
-17,81.73,,Aliaksandr SHYMANOVICH,09 FEB 1998,BLR,1,Brest (BLR),28 APR 2017,,hammer-throw-6kg,throws,male,u20
-18,81.62,,Christos FRANTZESKAKIS,26 APR 2000,GRE,1,Tripoli (GRE),11 MAY 2019,,hammer-throw-6kg,throws,male,u20
-19,81.34,,Krisztián PARS,18 FEB 1982,HUN,1,Szombathely (HUN),02 SEP 2001,,hammer-throw-6kg,throws,male,u20
-20,81.32,,Hlib PISKUNOV,25 NOV 1998,UKR,1,Halle (GER),20 MAY 2017,,hammer-throw-6kg,throws,male,u20
-20,81.32,,Christos FRANTZESKAKIS,26 APR 2000,GRE,1,Tripoli (GRE),05 MAY 2018,,hammer-throw-6kg,throws,male,u20
-22,81.21,,Bence HALÁSZ,04 AUG 1997,HUN,1,Potchefstroom (RSA),22 APR 2016,,hammer-throw-6kg,throws,male,u20
-22,81.21,,Merlin HUMMEL,04 JAN 2002,GER,1,"Fuchs-Park-Stadion, Bamberg (GER)",26 JUN 2021,,hammer-throw-6kg,throws,male,u20
-24,81.17,,Merlin HUMMEL,04 JAN 2002,GER,1,"Michael-Hoffmann-Stadion, Mannheim (GER)",03 JUL 2021,,hammer-throw-6kg,throws,male,u20
-25,81.16,,Özkan BALTACI,13 FEB 1994,TUR,1,Ankara (TUR),31 JUL 2013,,hammer-throw-6kg,throws,male,u20
-25,81.16,,Bence HALÁSZ,04 AUG 1997,HUN,1,Veszprém (HUN),12 JUN 2016,,hammer-throw-6kg,throws,male,u20
-27,81.15,,Ákos HUDI,10 AUG 1991,HUN,1,Veszprém (HUN),07 JUL 2010,,hammer-throw-6kg,throws,male,u20
-28,81.11,,Mykhaylo KOKHAN,22 JAN 2001,UKR,1,Lutsk (UKR),29 JUN 2019,,hammer-throw-6kg,throws,male,u20
-29,81.07,,Iosif KESIDIS,19 AUG 2005,CYP,,"Municipal Stadium, Trikala (GRE)",27 JUL 2024,,hammer-throw-6kg,throws,male,u20
-30,81.06,,Merlin HUMMEL,04 JAN 2002,GER,1,"Stadion Hassloch, Hassloch (GER)",15 AUG 2021,,hammer-throw-6kg,throws,male,u20
-31,81.04,,Werner SMIT,14 SEP 1984,RSA,1,Bellville (RSA),29 MAR 2003,,hammer-throw-6kg,throws,male,u20
-32,81.02,,Ármin SZABADOS,11 JAN 2006,HUN,1,"Atlétikai Központ, Szolnok (HUN)",06 JUL 2025,,hammer-throw-6kg,throws,male,u20
-33,80.94,,Jean Baptiste BRUXELLE,09 JUL 2002,FRA,1,"Stade R. Bobin, Bondoufle (FRA)",10 JUL 2021,,hammer-throw-6kg,throws,male,u20
-34,80.93,,Bence HALÁSZ,04 AUG 1997,HUN,1,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",22 JUL 2016,,hammer-throw-6kg,throws,male,u20
-35,80.89,,Bence HALÁSZ,04 AUG 1997,HUN,1,Halle (GER),21 MAY 2016,,hammer-throw-6kg,throws,male,u20
-35,80.89,,Christos FRANTZESKAKIS,26 APR 2000,GRE,1,Katerini (GRE),22 JUN 2019,,hammer-throw-6kg,throws,male,u20
-37,80.85,,Ashraf ELSEIFY,20 FEB 1995,QAT,1,Colombo (SRI),09 JUN 2012,,hammer-throw-6kg,throws,male,u20
-38,80.79,,Conor MCCULLOUGH,31 JAN 1991,USA,1,"Croix-Bleue Medavie Stadium, Moncton (CAN)",25 JUL 2010,,hammer-throw-6kg,throws,male,u20
-39,80.78,,Ármin SZABADOS,11 JAN 2006,HUN,1,"Bodosi Mihály Atlétikai Pálya, Kaposvár (HUN)",19 JUL 2025,,hammer-throw-6kg,throws,male,u20
-40,80.77,,Bence HALÁSZ,04 AUG 1997,HUN,1,Tapolca (HUN),06 AUG 2016,,hammer-throw-6kg,throws,male,u20
-41,80.73,,Merlin HUMMEL,04 JAN 2002,GER,1f2,"Sportfreianlage, Dissen (GER)",05 SEP 2021,,hammer-throw-6kg,throws,male,u20
-42,80.70,,Valeriy PRONKIN,15 JUN 1994,RUS,1,"Adler, Sochi (RUS)",23 APR 2013,,hammer-throw-6kg,throws,male,u20
-43,80.67,,Andriy MARTYNYUK,23 SEP 1990,UKR,1,Donetsk (UKR),23 JUN 2009,,hammer-throw-6kg,throws,male,u20
-44,80.65,,Jake NORRIS,30 JUN 1999,GBR,1,"Ratinan Stadion, Tampere (FIN)",13 JUL 2018,,hammer-throw-6kg,throws,male,u20
-45,80.63,,Jean Baptiste BRUXELLE,09 JUL 2002,FRA,1,"Stade de La Croix-de-Berny, Antony (FRA)",30 MAY 2021,,hammer-throw-6kg,throws,male,u20
-46,80.60,,Hlib PISKUNOV,25 NOV 1998,UKR,1,Lutsk (UKR),26 JUN 2017,,hammer-throw-6kg,throws,male,u20
-47,80.59,,Joaquin GOMEZ,14 OCT 1996,ARG,1,Cuenca (ECU),31 MAY 2015,,hammer-throw-6kg,throws,male,u20
-48,80.54,,Aleksi JAAKKOLA,17 NOV 1997,FIN,1,Nokia (FIN),28 APR 2016,,hammer-throw-6kg,throws,male,u20
-49,80.51,,Andrey AZARENKOV,26 SEP 1985,RUS,1,"Adler, Sochi (RUS)",07 FEB 2004,,hammer-throw-6kg,throws,male,u20
-50,80.50,,Mykhaylo KOKHAN,22 JAN 2001,UKR,1,"Avangard Stadium, Lutsk (UKR)",12 AUG 2020,,hammer-throw-6kg,throws,male,u20
-51,80.48,,Matthew DENNY,02 JUN 1996,AUS,1,Townsville (AUS),25 SEP 2015,,hammer-throw-6kg,throws,male,u20
-51,80.48,,Aleksi JAAKKOLA,17 NOV 1997,FIN,1,Lappeenranta (FIN),06 AUG 2016,,hammer-throw-6kg,throws,male,u20
-53,80.45,,Jake NORRIS,30 JUN 1999,GBR,1,Bedford (GBR),16 JUN 2018,,hammer-throw-6kg,throws,male,u20
-54,80.44,,Merlin HUMMEL,04 JAN 2002,GER,1,"Leichtathletikstadion, Rostock (GER)",30 JUL 2021,,hammer-throw-6kg,throws,male,u20
-55,80.34,,David CHAUSSINAND,19 APR 1973,FRA,1,Aix-les-Bains (FRA),24 OCT 1992,,hammer-throw-6kg,throws,male,u20
-56,80.31,,Valeriy PRONKIN,15 JUN 1994,RUS,1,Kazan (RUS),15 JUN 2013,,hammer-throw-6kg,throws,male,u20
-57,80.29,,Bence PÁSZTOR,05 FEB 1995,HUN,1,Budapest (HUN),15 JUN 2014,,hammer-throw-6kg,throws,male,u20
-58,80.28,,Jake NORRIS,30 JUN 1999,GBR,1,Mannheim (GER),23 JUN 2018,,hammer-throw-6kg,throws,male,u20
-59,80.27,,Andrey AZARENKOV,26 SEP 1985,RUS,1,"Adler, Sochi (RUS)",21 FEB 2004,,hammer-throw-6kg,throws,male,u20
-60,80.26,,Aliaksandr SHYMANOVICH,09 FEB 1998,BLR,1,Minsk (BLR),15 FEB 2017,,hammer-throw-6kg,throws,male,u20
-61,80.25,,Javier CIENFUEGOS,15 JUL 1990,ESP,1,Madrid (ESP),14 MAY 2009,,hammer-throw-6kg,throws,male,u20
-61,80.25,,Bence PÁSZTOR,05 FEB 1995,HUN,1,Halle (GER),17 MAY 2014,,hammer-throw-6kg,throws,male,u20
-63,80.24,,Javier CIENFUEGOS,15 JUL 1990,ESP,1,Madrid (ESP),24 APR 2009,,hammer-throw-6kg,throws,male,u20
-64,80.23,,Bence PÁSZTOR,05 FEB 1995,HUN,1,Slovenj Gradec (SLO),05 JUL 2014,,hammer-throw-6kg,throws,male,u20
-65,80.21,,Humberto MANSILLA,22 MAY 1996,CHI,1,Edmonton (CAN),02 AUG 2015,,hammer-throw-6kg,throws,male,u20
-66,80.12,,Anatoliy POZDNYAKOV,01 FEB 1987,RUS,2,Tula (RUS),22 JUL 2006,,hammer-throw-6kg,throws,male,u20
-66,80.12,,Aleksi JAAKKOLA,17 NOV 1997,FIN,1,Tampere (FIN),20 AUG 2016,,hammer-throw-6kg,throws,male,u20
-68,80.05,,Yevgeniy AYDAMIROV,11 MAY 1987,RUS,1,Tula (RUS),15 JUL 2006,,hammer-throw-6kg,throws,male,u20
-68,80.05,,Christos FRANTZESKAKIS,26 APR 2000,GRE,1,Halle (GER),26 MAY 2018,,hammer-throw-6kg,throws,male,u20
-70,79.99,,Bence PÁSZTOR,05 FEB 1995,HUN,2,"Hayward Field, Eugene, OR (USA)",25 JUL 2014,,hammer-throw-6kg,throws,male,u20
-71,79.98,,Kristóf NÉMETH,17 SEP 1987,HUN,1,Szombathely (HUN),24 JUN 2006,,hammer-throw-6kg,throws,male,u20
-71,79.98,,Ashraf ELSEIFY,20 FEB 1995,QAT,1q1,"Estadio Olímpico, Barcelona (ESP)",13 JUL 2012,,hammer-throw-6kg,throws,male,u20
-73,79.96,,Ashraf ELSEIFY,20 FEB 1995,QAT,1,Doha (QAT),12 MAR 2012,,hammer-throw-6kg,throws,male,u20
-73,79.96,,Alexei MIKHAILOV,12 APR 1996,GER,1,Leverkusen (GER),30 MAY 2015,,hammer-throw-6kg,throws,male,u20
-75,79.93,,Aleksi JAAKKOLA,17 NOV 1997,FIN,1,Hafnarfjördur (ISL),14 AUG 2016,,hammer-throw-6kg,throws,male,u20
-76,79.90,,Merlin HUMMEL,04 JAN 2002,GER,1q1,"Kadrioru staadion, Tallinn (EST)",15 JUL 2021,,hammer-throw-6kg,throws,male,u20
-77,79.88,,Werner SMIT,14 SEP 1984,RSA,1,Pretoria (RSA),06 APR 2003,,hammer-throw-6kg,throws,male,u20
-78,79.86,,Bence HALÁSZ,04 AUG 1997,HUN,1,Halle (GER),16 MAY 2015,,hammer-throw-6kg,throws,male,u20
-79,79.84,,Yevgeniy AYDAMIROV,11 MAY 1987,RUS,1,"Adler, Sochi (RUS)",18 FEB 2006,,hammer-throw-6kg,throws,male,u20
-79,79.84,,Ahmed Tarek ISMAIL,18 OCT 1997,EGY,1,Kapfenberg (AUT),24 JUN 2016,,hammer-throw-6kg,throws,male,u20
-81,79.81,,Hilmar Örn JÓNSSON,06 MAY 1996,ISL,1,Hafnarfjördur (ISL),22 JUL 2015,,hammer-throw-6kg,throws,male,u20
-82,79.80,,Mykhaylo KOKHAN,22 JAN 2001,UKR,1,Antalya (TUR),09 JAN 2020,,hammer-throw-6kg,throws,male,u20
-82,79.80,,Iosif KESIDIS,19 AUG 2005,CYP,1,"Tsirio Stadium, Limassol (CYP)",05 JUL 2024,,hammer-throw-6kg,throws,male,u20
-84,79.76,,Quentin BIGOT,01 DEC 1992,FRA,1,Luxembourg (LUX),08 JUL 2011,,hammer-throw-6kg,throws,male,u20
-85,79.75,,Merlin HUMMEL,04 JAN 2002,GER,1,"Frankenstadion, Heilbronn (GER)",04 SEP 2020,,hammer-throw-6kg,throws,male,u20
-86,79.72,,Valeriy PRONKIN,15 JUN 1994,RUS,1,Krasnodar (RUS),16 MAY 2013,,hammer-throw-6kg,throws,male,u20
-86,79.72,,Max LAMPINEN,11 OCT 2004,FIN,1,"Givat Ram Stadium, Jerusalem (ISR)",09 AUG 2023,,hammer-throw-6kg,throws,male,u20
-88,79.71,,Ashraf ELSEIFY,20 FEB 1995,QAT,1,Taipei City (TPE),12 JUN 2014,,hammer-throw-6kg,throws,male,u20
-89,79.68,,Mykhaylo KOKHAN,22 JAN 2001,UKR,2,"Ratinan Stadion, Tampere (FIN)",13 JUL 2018,,hammer-throw-6kg,throws,male,u20
-90,79.67,,Yevgeniy AYDAMIROV,11 MAY 1987,RUS,1,Tula (RUS),26 JUN 2005,,hammer-throw-6kg,throws,male,u20
-90,79.67,,Ashraf ELSEIFY,20 FEB 1995,QAT,1,Al-Kuwait (KUW),04 APR 2012,,hammer-throw-6kg,throws,male,u20
-92,79.66,,Merlin HUMMEL,04 JAN 2002,GER,1,"Hammerwurf-Anlage KSV Fürth, Fürth (GER)",22 MAY 2021,,hammer-throw-6kg,throws,male,u20
-93,79.62,,Alaa EL ASHRY,06 JAN 1991,EGY,1,Cairo (EGY),19 NOV 2010,,hammer-throw-6kg,throws,male,u20
-94,79.60,,Bence HALÁSZ,04 AUG 1997,HUN,1,"Ekängens Friidrottsarena, Eskilstuna (SWE)",17 JUL 2015,,hammer-throw-6kg,throws,male,u20
-95,79.59,,Dawid PIŁAT,06 FEB 2002,POL,1,"Kadrioru staadion, Tallinn (EST)",16 JUL 2021,,hammer-throw-6kg,throws,male,u20
-96,79.58,,Hlib PISKUNOV,25 NOV 1998,UKR,2,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",22 JUL 2016,,hammer-throw-6kg,throws,male,u20
-97,79.56,,Mohsen ANANI,21 MAY 1985,EGY,1,Cairo (EGY),28 DEC 2004,,hammer-throw-6kg,throws,male,u20
-98,79.55,,Anatoliy POZDNYAKOV,01 FEB 1987,RUS,2,Tula (RUS),15 JUL 2006,,hammer-throw-6kg,throws,male,u20
-98,79.55,,Jake NORRIS,30 JUN 1999,GBR,1,"Baton Rouge, LA (USA)",07 APR 2018,,hammer-throw-6kg,throws,male,u20
-100,79.54,,Andriy MARTYNYUK,23 SEP 1990,UKR,1,"Karađorđe Stadium, Novi Sad (SRB)",26 JUL 2009,,hammer-throw-6kg,throws,male,u20
-101,79.50,,Dawid PIŁAT,06 FEB 2002,POL,1,"Stadion MOSiR, Stalowa Wola (POL)",05 JUN 2021,,hammer-throw-6kg,throws,male,u20
-102,79.45,,Werner SMIT,14 SEP 1984,RSA,1,Bellville (RSA),22 MAR 2003,,hammer-throw-6kg,throws,male,u20
-103,79.40,,Ákos HUDI,10 AUG 1991,HUN,1,Veszprém (HUN),10 JUL 2010,,hammer-throw-6kg,throws,male,u20
-104,79.39,,Valeriy PRONKIN,15 JUN 1994,RUS,1,"Adler, Sochi (RUS)",21 APR 2012,,hammer-throw-6kg,throws,male,u20
-105,79.36,,Javier CIENFUEGOS,15 JUL 1990,ESP,1,Calvia (ESP),11 JUL 2009,,hammer-throw-6kg,throws,male,u20
-106,79.34,,Bence HALÁSZ,04 AUG 1997,HUN,1,Budapest (HUN),19 AUG 2016,,hammer-throw-6kg,throws,male,u20
-107,79.32,,Merlin HUMMEL,04 JAN 2002,GER,2,"Kadrioru staadion, Tallinn (EST)",16 JUL 2021,,hammer-throw-6kg,throws,male,u20
-108,79.28,,Bence HALÁSZ,04 AUG 1997,HUN,1,Miskolc (HUN),01 JUL 2016,,hammer-throw-6kg,throws,male,u20
-109,79.26,,Bence PÁSZTOR,05 FEB 1995,HUN,1q2,"Hayward Field, Eugene, OR (USA)",24 JUL 2014,,hammer-throw-6kg,throws,male,u20
-110,79.24,,Ashraf ELSEIFY,20 FEB 1995,QAT,1,Doha (QAT),13 MAR 2013,,hammer-throw-6kg,throws,male,u20
-111,79.23,,Giorgio OLIVIERI,05 NOV 2000,ITA,1,Rieti (ITA),08 JUN 2019,,hammer-throw-6kg,throws,male,u20
-112,79.18,,Mykhaylo KOKHAN,22 JAN 2001,UKR,1q1,"Ryavallen, Borås (SWE)",18 JUL 2019,,hammer-throw-6kg,throws,male,u20
-113,79.16,,Hlib PISKUNOV,25 NOV 1998,UKR,1,Kirovograd (UKR),08 JUN 2016,,hammer-throw-6kg,throws,male,u20
-114,79.14,,Reinier MEJÍAS,22 SEP 1990,CUB,1,La Habana (CUB),26 JUN 2009,,hammer-throw-6kg,throws,male,u20
-114,79.14,,Ákos HUDI,10 AUG 1991,HUN,2,"Karađorđe Stadium, Novi Sad (SRB)",26 JUL 2009,,hammer-throw-6kg,throws,male,u20
-116,79.12,,Javier CIENFUEGOS,15 JUL 1990,ESP,3,"Karađorđe Stadium, Novi Sad (SRB)",26 JUL 2009,,hammer-throw-6kg,throws,male,u20
-117,79.11,,Mohsen ANANI,21 MAY 1985,EGY,1,Cairo (EGY),17 DEC 2004,,hammer-throw-6kg,throws,male,u20
-117,79.11,,Matthew DENNY,02 JUN 1996,AUS,2,Leverkusen (GER),30 MAY 2015,,hammer-throw-6kg,throws,male,u20
-117,79.11,,Dawid PIŁAT,06 FEB 2002,POL,1,"Stadion Zygmunta Szelesta, Warszawa (POL)",29 MAY 2021,,hammer-throw-6kg,throws,male,u20
-117,79.11,,Ioannis KORAKIDIS,23 JUN 2003,GRE,1,"Pascual Guerrero Stadium, Cali (COL)",04 AUG 2022,,hammer-throw-6kg,throws,male,u20
-121,79.05,,Miguel Alberto BLANCO,22 FEB 1996,ESP,2,"Ekängens Friidrottsarena, Eskilstuna (SWE)",17 JUL 2015,,hammer-throw-6kg,throws,male,u20
-122,79.03,,Bence HALÁSZ,04 AUG 1997,HUN,1,Szombathely (HUN),16 JUN 2016,,hammer-throw-6kg,throws,male,u20
-123,79.01,,Özkan BALTACI,13 FEB 1994,TUR,1,Trabzon (TUR),20 AUG 2013,,hammer-throw-6kg,throws,male,u20
-124,79.00,,Reinier MEJÍAS,22 SEP 1990,CUB,1,La Habana (CUB),27 FEB 2009,,hammer-throw-6kg,throws,male,u20
-125,78.96,,Alexei MIKHAILOV,12 APR 1996,GER,1,Mannheim (GER),27 JUN 2015,,hammer-throw-6kg,throws,male,u20
-126,78.95,,Reinier MEJÍAS,22 SEP 1990,CUB,1,La Habana (CUB),22 MAY 2009,,hammer-throw-6kg,throws,male,u20
-127,78.91,,Jake NORRIS,30 JUN 1999,GBR,1,Manchester (GBR),15 AUG 2018,,hammer-throw-6kg,throws,male,u20
-128,78.90,,Valentin ANDREEV,19 JAN 2002,BUL,1,Balchik (BUL),15 MAY 2021,,hammer-throw-6kg,throws,male,u20
-129,78.87,,Bence HALÁSZ,04 AUG 1997,HUN,1,Szombathely (HUN),05 MAR 2016,,hammer-throw-6kg,throws,male,u20
-130,78.85,,Kristóf NÉMETH,17 SEP 1987,HUN,1,"S. Darius & S. Girėnas Stadium, Kaunas (LTU)",24 JUL 2005,,hammer-throw-6kg,throws,male,u20
-131,78.84,,Hlib PISKUNOV,25 NOV 1998,UKR,1,Kirovograd (UKR),03 JUL 2016,,hammer-throw-6kg,throws,male,u20
-132,78.83,,Alaa EL ASHRY,06 JAN 1991,EGY,1,Cairo (EGY),12 NOV 2010,,hammer-throw-6kg,throws,male,u20
-133,78.76,,Werner SMIT,14 SEP 1984,RSA,1,Bellville (RSA),25 NOV 2003,,hammer-throw-6kg,throws,male,u20
-133,78.76,,Miguel Ángel ZAMORA,25 JAN 1999,CUB,1,La Habana (CUB),09 JUN 2018,,hammer-throw-6kg,throws,male,u20
-135,78.75,,Giorgio OLIVIERI,05 NOV 2000,ITA,3,"Ryavallen, Borås (SWE)",19 JUL 2019,,hammer-throw-6kg,throws,male,u20
-136,78.74,,Taylor CAMPBELL,30 JUN 1996,GBR,1,Bedford (GBR),20 JUN 2015,,hammer-throw-6kg,throws,male,u20
-137,78.73,,Javier CIENFUEGOS,15 JUL 1990,ESP,1,Halle (GER),23 MAY 2009,,hammer-throw-6kg,throws,male,u20
-138,78.72,,Bence PÁSZTOR,05 FEB 1995,HUN,1,Debrecen (HUN),29 JUN 2014,,hammer-throw-6kg,throws,male,u20
-139,78.69,,Humberto MANSILLA,22 MAY 1996,CHI,2,Cuenca (ECU),31 MAY 2015,,hammer-throw-6kg,throws,male,u20
-140,78.67,,Aleksi JAAKKOLA,17 NOV 1997,FIN,1,Nurmijärvi (FIN),14 JUN 2016,,hammer-throw-6kg,throws,male,u20
-141,78.62,,Reinier MEJÍAS,22 SEP 1990,CUB,1,La Habana (CUB),12 JUN 2009,,hammer-throw-6kg,throws,male,u20
-141,78.62,,Ashraf ELSEIFY,20 FEB 1995,QAT,1,Amman (JOR),17 MAY 2012,,hammer-throw-6kg,throws,male,u20
-141,78.62,,Ahmed Tarek ISMAIL,18 OCT 1997,EGY,1,Szombathely (HUN),29 JUN 2016,,hammer-throw-6kg,throws,male,u20
-144,78.57,,Jean Baptiste BRUXELLE,09 JUL 2002,FRA,1,"Stade d'Honneur Marcel Roustan, Salon-de-Provence (FRA)",21 FEB 2021,,hammer-throw-6kg,throws,male,u20
-145,78.53,,Jovan STRANIĆ,26 JUN 2004,SRB,1,"Sports Park Mladost, Zagreb (CRO)",20 MAY 2023,,hammer-throw-6kg,throws,male,u20
-145,78.53,,Iosif KESIDIS,19 AUG 2005,CYP,1q1,"Estadio Atlético de la VIDENA, Lima (PER)",27 AUG 2024,,hammer-throw-6kg,throws,male,u20
-147,78.52,,Yevgeniy AYDAMIROV,11 MAY 1987,RUS,1,"Adler, Sochi (RUS)",05 FEB 2006,,hammer-throw-6kg,throws,male,u20
-148,78.51,,Werner SMIT,14 SEP 1984,RSA,1,Bellville (RSA),15 MAR 2003,,hammer-throw-6kg,throws,male,u20
-148,78.51,,Bence PÁSZTOR,05 FEB 1995,HUN,1,Veszprém (HUN),26 APR 2014,,hammer-throw-6kg,throws,male,u20
-148,78.51,,Alberto GONZÁLEZ,01 JUN 1998,ESP,1,Jaén (ESP),15 JUL 2017,,hammer-throw-6kg,throws,male,u20
-151,78.45,,Quentin BIGOT,01 DEC 1992,FRA,1,"Kadrioru staadion, Tallinn (EST)",22 JUL 2011,,hammer-throw-6kg,throws,male,u20
-151,78.45,,Christos FRANTZESKAKIS,26 APR 2000,GRE,1,Chania (GRE),09 JUN 2019,,hammer-throw-6kg,throws,male,u20
-153,78.44,,Kristóf NÉMETH,17 SEP 1987,HUN,1,Budapest (HUN),08 JUL 2006,,hammer-throw-6kg,throws,male,u20
-153,78.44,,Özkan BALTACI,13 FEB 1994,TUR,1,Ankara (TUR),22 JUN 2013,,hammer-throw-6kg,throws,male,u20
-153,78.44,,Miklós CSEKŐ,25 MAR 2004,HUN,1,"Atletski stadion Poljane, Maribor (SLO)",16 JUL 2022,,hammer-throw-6kg,throws,male,u20
-156,78.43,,Denis LUKYANOV,14 JUL 1989,RUS,1,Sochi (RUS),26 MAY 2008,,hammer-throw-6kg,throws,male,u20
-156,78.43,,Donát VARGA,08 APR 2000,HUN,4,"Ryavallen, Borås (SWE)",19 JUL 2019,,hammer-throw-6kg,throws,male,u20
-158,78.42,,Yevgeniy AYDAMIROV,11 MAY 1987,RUS,1,"Chaoyang Sport Center, Beijing (CHN)",18 AUG 2006,,hammer-throw-6kg,throws,male,u20
-159,78.41,,Ali Mohamed AL ZENKAWI,27 FEB 1984,KUW,1,Al-Kuwait (KUW),02 MAR 2003,,hammer-throw-6kg,throws,male,u20
-160,78.39,,Kristóf NÉMETH,17 SEP 1987,HUN,2,"Chaoyang Sport Center, Beijing (CHN)",18 AUG 2006,,hammer-throw-6kg,throws,male,u20
-160,78.39,,Miklós CSEKŐ,25 MAR 2004,HUN,1,"Sugár úti Atlétikai Centrum, Szombathely (HUN)",29 JUL 2023,,hammer-throw-6kg,throws,male,u20
-162,78.38,,Reinier MEJÍAS,22 SEP 1990,CUB,1,Port-of-Spain (TTO),02 AUG 2009,,hammer-throw-6kg,throws,male,u20
-163,78.37,,Ákos HUDI,10 AUG 1991,HUN,2,"Croix-Bleue Medavie Stadium, Moncton (CAN)",25 JUL 2010,,hammer-throw-6kg,throws,male,u20
-164,78.36,,Ákos HUDI,10 AUG 1991,HUN,1,Veszprém (HUN),11 MAY 2010,,hammer-throw-6kg,throws,male,u20
-165,78.34,,Ákos HUDI,10 AUG 1991,HUN,1,Veszprém (HUN),20 JUN 2009,,hammer-throw-6kg,throws,male,u20
-165,78.34,,Valeriy PRONKIN,15 JUN 1994,RUS,1,"Stadio Guidobaldi, Rieti (ITA)",19 JUL 2013,,hammer-throw-6kg,throws,male,u20
-167,78.32,,Valeriy PRONKIN,15 JUN 1994,RUS,1,"Adler, Sochi (RUS)",27 FEB 2013,,hammer-throw-6kg,throws,male,u20
-168,78.30,,Eivind HENRIKSEN,14 SEP 1990,NOR,1,Bodø (NOR),15 AUG 2009,,hammer-throw-6kg,throws,male,u20
-168,78.30,,Angelos MANTZOURANIS,01 MAY 2004,GRE,1,"Municipal Sports Center, Tripoli (GRE)",03 JUN 2023,,hammer-throw-6kg,throws,male,u20
-170,78.28,,Conor MCCULLOUGH,31 JAN 1991,USA,1,"Des Moines, IA (USA)",25 JUN 2010,,hammer-throw-6kg,throws,male,u20
-170,78.28,,Ákos HUDI,10 AUG 1991,HUN,1,Budapest (HUN),27 JUN 2010,,hammer-throw-6kg,throws,male,u20
-170,78.28,,Dawid PIŁAT,06 FEB 2002,POL,1,"Stadion OPO Cetniewo, Władysławowo (POL)",11 JUL 2021,,hammer-throw-6kg,throws,male,u20
-173,78.26,,Alaa EL ASHRY,06 JAN 1991,EGY,1,Cairo (EGY),05 NOV 2010,,hammer-throw-6kg,throws,male,u20
-174,78.23,,Kristóf NÉMETH,17 SEP 1987,HUN,1,Pápa (HUN),26 AUG 2006,,hammer-throw-6kg,throws,male,u20
-174,78.23,,Ilya TERENTEV,25 JAN 1995,RUS,1,Cheboksary (RUS),16 JUN 2014,,hammer-throw-6kg,throws,male,u20
-176,78.20,,Kristóf NÉMETH,17 SEP 1987,HUN,1,Szombathely (HUN),16 SEP 2006,,hammer-throw-6kg,throws,male,u20
-177,78.16,,Ákos HUDI,10 AUG 1991,HUN,1,Veszprém (HUN),08 SEP 2010,,hammer-throw-6kg,throws,male,u20
-178,78.14,,Ákos HUDI,10 AUG 1991,HUN,1,Székesfehérvár (HUN),03 JUL 2010,,hammer-throw-6kg,throws,male,u20
-179,78.13,,Hlib PISKUNOV,25 NOV 1998,UKR,1q2,"Stadio Zecchini, Grosseto (ITA)",20 JUL 2017,,hammer-throw-6kg,throws,male,u20
-180,78.11,,Kristóf NÉMETH,17 SEP 1987,HUN,1,Szombathely (HUN),13 MAY 2006,,hammer-throw-6kg,throws,male,u20
-180,78.11,,Ákos HUDI,10 AUG 1991,HUN,1f1,Budapest (HUN),09 OCT 2010,,hammer-throw-6kg,throws,male,u20
-182,78.10,,Reinier MEJÍAS,22 SEP 1990,CUB,1,La Habana (CUB),19 JUN 2009,,hammer-throw-6kg,throws,male,u20
-182,78.10,,Aaron KANGAS,03 JUL 1997,FIN,2,Nokia (FIN),28 APR 2016,,hammer-throw-6kg,throws,male,u20
-184,78.09,,Jake NORRIS,30 JUN 1999,GBR,1,Loughborough (GBR),21 MAY 2017,,hammer-throw-6kg,throws,male,u20
-185,78.07,,Hilmar Örn JÓNSSON,06 MAY 1996,ISL,1,Hafnarfjördur (ISL),05 JUN 2015,,hammer-throw-6kg,throws,male,u20
-185,78.07,,Orestis NTOUSAKIS,02 MAY 2002,GRE,1,Istanbul (TUR),12 JUN 2021,,hammer-throw-6kg,throws,male,u20
-187,78.06,,Merlin HUMMEL,04 JAN 2002,GER,1,"Steigerwaldstadion, Erfurt (GER)",19 SEP 2020,,hammer-throw-6kg,throws,male,u20
-188,78.04,,Miguel Ángel ZAMORA,25 JAN 1999,CUB,1,La Habana (CUB),02 JUN 2018,,hammer-throw-6kg,throws,male,u20
-188,78.04,,Miklós CSEKŐ,25 MAR 2004,HUN,1,"Egyetemi Stadion, Veszprém (HUN)",25 MAR 2023,,hammer-throw-6kg,throws,male,u20
-190,78.03,,Iosif KESIDIS,19 AUG 2005,CYP,1,"GPS Stadium, Nicosia (CYP)",01 MAR 2024,,hammer-throw-6kg,throws,male,u20
-191,78.02,,Miklós CSEKŐ,25 MAR 2004,HUN,1,"Egyetemi Stadion, Veszprém (HUN)",13 MAY 2023,,hammer-throw-6kg,throws,male,u20
-192,78.00,,Quentin BIGOT,01 DEC 1992,FRA,1,Metz (FRA),27 JUN 2011,,hammer-throw-6kg,throws,male,u20
-193,77.98,,Quentin BIGOT,01 DEC 1992,FRA,1,Veszprém (HUN),11 MAY 2011,,hammer-throw-6kg,throws,male,u20
-193,77.98,,Quentin BIGOT,01 DEC 1992,FRA,1,Dreux (FRA),17 JUL 2011,,hammer-throw-6kg,throws,male,u20
-193,77.98,,Angelos MANTZOURANIS,01 MAY 2004,GRE,1,"Kaftanzoglio Stadium, Thessaloniki (GRE)",26 JUL 2023,,hammer-throw-6kg,throws,male,u20
-196,77.97,,Kristóf NÉMETH,17 SEP 1987,HUN,1,Budapest (HUN),25 JUN 2006,,hammer-throw-6kg,throws,male,u20
-196,77.97,,Ethan KATZBERG,05 APR 2002,CAN,1,"Hillside Stadium, Kamloops (CAN)",23 MAY 2021,,hammer-throw-6kg,throws,male,u20
-198,77.93,,Bence HALÁSZ,04 AUG 1997,HUN,1,Szombathely (HUN),05 AUG 2015,,hammer-throw-6kg,throws,male,u20
-198,77.93,,Aleksi JAAKKOLA,17 NOV 1997,FIN,1,Savonlinna (FIN),15 AUG 2015,,hammer-throw-6kg,throws,male,u20
-200,77.92,,Ákos HUDI,10 AUG 1991,HUN,1,Halle (GER),15 MAY 2010,,hammer-throw-6kg,throws,male,u20
-201,77.90,,Matija GREGURIĆ,17 SEP 1996,CRO,1,Zagreb (CRO),09 JUN 2015,,hammer-throw-6kg,throws,male,u20
-201,77.90,,Jean Baptiste BRUXELLE,09 JUL 2002,FRA,3,"Kadrioru staadion, Tallinn (EST)",16 JUL 2021,,hammer-throw-6kg,throws,male,u20
-201,77.90,,Ármin SZABADOS,11 JAN 2006,HUN,1,"Sugár úti Atlétikai Centrum, Szombathely (HUN)",21 MAY 2024,,hammer-throw-6kg,throws,male,u20
-204,77.88,,Aleksi JAAKKOLA,17 NOV 1997,FIN,3,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",22 JUL 2016,,hammer-throw-6kg,throws,male,u20
-205,77.87,,Ákos HUDI,10 AUG 1991,HUN,1,Szombathely (HUN),20 JUN 2009,,hammer-throw-6kg,throws,male,u20
-205,77.87,,Bence HALÁSZ,04 AUG 1997,HUN,1,Budapest (HUN),01 MAR 2015,,hammer-throw-6kg,throws,male,u20
-205,77.87,,Bence HALÁSZ,04 AUG 1997,HUN,1,Tapolca (HUN),01 AUG 2015,,hammer-throw-6kg,throws,male,u20
-208,77.86,,Alexandros POURSANIDIS,23 JAN 1993,CYP,1,Lefkosia (CYP),22 JUN 2012,,hammer-throw-6kg,throws,male,u20
-208,77.86,,Ashraf ELSEIFY,20 FEB 1995,QAT,1,Doha (QAT),09 MAR 2014,,hammer-throw-6kg,throws,male,u20
-208,77.86,,Alexei MIKHAILOV,12 APR 1996,GER,1,Jena (GER),01 AUG 2015,,hammer-throw-6kg,throws,male,u20
-208,77.86,,Hleb DUDARAU,17 OCT 1996,BLR,1,Novopolotsk (BLR),27 NOV 2015,,hammer-throw-6kg,throws,male,u20
-208,77.86,,Bence HALÁSZ,04 AUG 1997,HUN,1q1,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",20 JUL 2016,,hammer-throw-6kg,throws,male,u20
-213,77.85,,Ákos HUDI,10 AUG 1991,HUN,1,Budapest (HUN),30 MAY 2010,,hammer-throw-6kg,throws,male,u20
-213,77.85,,Igor YEVSEYEV,27 MAR 1996,RUS,1,Krasnodar (RUS),19 MAY 2014,,hammer-throw-6kg,throws,male,u20
-213,77.85,,Angelos MANTZOURANIS,01 MAY 2004,GRE,1,"National Stadium, Serres (GRE)",10 JUN 2023,,hammer-throw-6kg,throws,male,u20
-216,77.83,,Bence HALÁSZ,04 AUG 1997,HUN,1,Szombathely (HUN),23 SEP 2015,,hammer-throw-6kg,throws,male,u20
-216,77.83,,Jan DOLEŽÁLEK,23 MAY 2002,CZE,1,"Moi International Sports Centre, Kasarani, Nairobi (KEN)",20 AUG 2021,,hammer-throw-6kg,throws,male,u20
-218,77.82,,Javier CIENFUEGOS,15 JUL 1990,ESP,1,Madrid (ESP),08 AUG 2009,,hammer-throw-6kg,throws,male,u20
-219,77.81,,Özkan BALTACI,13 FEB 1994,TUR,1,Denizli (TUR),06 JUL 2013,,hammer-throw-6kg,throws,male,u20
-220,77.78,,Orestis NTOUSAKIS,02 MAY 2002,GRE,2,"Moi International Sports Centre, Kasarani, Nairobi (KEN)",20 AUG 2021,,hammer-throw-6kg,throws,male,u20
-220,77.78,,Iosif KESIDIS,19 AUG 2005,CYP,1,"Werferzentrum Brandberge, Halle (GER)",20 MAY 2023,,hammer-throw-6kg,throws,male,u20
-222,77.77,,Georgios PAPANASTASIOU,09 DEC 2005,GRE,1,"Municipal Sports Center, Tripoli (GRE)",11 MAY 2024,,hammer-throw-6kg,throws,male,u20
-223,77.76,,Mohsen ANANI,21 MAY 1985,EGY,1,Cairo (EGY),03 DEC 2004,,hammer-throw-6kg,throws,male,u20
-223,77.76,,Dániel RÁBA,24 APR 1998,HUN,2,Szombathely (HUN),25 JUN 2016,,hammer-throw-6kg,throws,male,u20
-225,77.74,,Ákos HUDI,10 AUG 1991,HUN,1,Szombathely (HUN),13 MAR 2010,,hammer-throw-6kg,throws,male,u20
-225,77.74,,Aliaksandr SHYMANOVICH,09 FEB 1998,BLR,2,"Stadio Zecchini, Grosseto (ITA)",21 JUL 2017,,hammer-throw-6kg,throws,male,u20
-227,77.73,,Quentin BIGOT,01 DEC 1992,FRA,1,Mannheim (GER),02 JUL 2011,,hammer-throw-6kg,throws,male,u20
-227,77.73,,Iosif KESIDIS,19 AUG 2005,CYP,2,"Givat Ram Stadium, Jerusalem (ISR)",09 AUG 2023,,hammer-throw-6kg,throws,male,u20
-229,77.72,,Nikolaos POLYCHRONIOU,29 MAY 2003,GRE,1,"National Stadium, Serres (GRE)",09 JUL 2022,,hammer-throw-6kg,throws,male,u20
-230,77.71,,Mykhailo HAVRYLIUK,19 JAN 1999,UKR,3,"Ratinan Stadion, Tampere (FIN)",13 JUL 2018,,hammer-throw-6kg,throws,male,u20
-231,77.70,,Özkan BALTACI,13 FEB 1994,TUR,1,Ankara (TUR),16 JUN 2012,,hammer-throw-6kg,throws,male,u20
-231,77.70,,Jean Baptiste BRUXELLE,09 JUL 2002,FRA,3,"Moi International Sports Centre, Kasarani, Nairobi (KEN)",20 AUG 2021,,hammer-throw-6kg,throws,male,u20
-233,77.67,,Jake NORRIS,30 JUN 1999,GBR,1,Bedford (GBR),17 JUN 2017,,hammer-throw-6kg,throws,male,u20
-234,77.66,,Mohsen ANANI,21 MAY 1985,EGY,1,Cairo (EGY),29 NOV 2004,,hammer-throw-6kg,throws,male,u20
-234,77.66,,Ákos HUDI,10 AUG 1991,HUN,1,Veszprém (HUN),23 MAY 2009,,hammer-throw-6kg,throws,male,u20
-236,77.65,,Ashraf ELSEIFY,20 FEB 1995,QAT,1q1,"Hayward Field, Eugene, OR (USA)",24 JUL 2014,,hammer-throw-6kg,throws,male,u20
-237,77.64,,Eivind HENRIKSEN,14 SEP 1990,NOR,1,Göteborg (SWE),27 JUN 2009,,hammer-throw-6kg,throws,male,u20
-238,77.62,,Ragnar CARLSSON,16 NOV 2000,SWE,4,"Ratinan Stadion, Tampere (FIN)",13 JUL 2018,,hammer-throw-6kg,throws,male,u20
-239,77.61,,Hilmar Örn JÓNSSON,06 MAY 1996,ISL,1,Selfoss (ISL),21 AUG 2015,,hammer-throw-6kg,throws,male,u20
-239,77.61,,Dawid PIŁAT,06 FEB 2002,POL,1,"MOSiR Stadion, Rybnik (POL)",24 APR 2021,,hammer-throw-6kg,throws,male,u20
-241,77.60,,Aleh DUBITSKI,19 OCT 1990,BLR,1,Minsk (BLR),06 JUN 2009,,hammer-throw-6kg,throws,male,u20
-241,77.60,,Ashraf ELSEIFY,20 FEB 1995,QAT,1,Doha (QAT),02 APR 2013,,hammer-throw-6kg,throws,male,u20
-241,77.60,,Hilmar Örn JÓNSSON,06 MAY 1996,ISL,1,Espoo (FIN),30 AUG 2015,,hammer-throw-6kg,throws,male,u20
-241,77.60,,Miklós CSEKŐ,25 MAR 2004,HUN,1,"Egyetemi Stadion, Veszprém (HUN)",30 SEP 2023,,hammer-throw-6kg,throws,male,u20
-245,77.59,,Eivind HENRIKSEN,14 SEP 1990,NOR,1,Bærum (NOR),28 AUG 2009,,hammer-throw-6kg,throws,male,u20
-245,77.59,,Bence HALÁSZ,04 AUG 1997,HUN,1,Szombathely (HUN),16 SEP 2015,,hammer-throw-6kg,throws,male,u20
-247,77.58,,Andriy MARTYNYUK,23 SEP 1990,UKR,1,Kyiv (UKR),16 MAY 2009,,hammer-throw-6kg,throws,male,u20
-247,77.58,,Jan DOLEŽÁLEK,23 MAY 2002,CZE,1q2,"Moi International Sports Centre, Kasarani, Nairobi (KEN)",18 AUG 2021,,hammer-throw-6kg,throws,male,u20
-249,77.57,,Ákos HUDI,10 AUG 1991,HUN,1,Uherské Hradiste (CZE),04 JUL 2009,,hammer-throw-6kg,throws,male,u20
-250,77.55,,Dániel SZABÓ,28 JUN 1991,HUN,1,Szombathely (HUN),13 JUN 2010,,hammer-throw-6kg,throws,male,u20
-251,77.54,,Hilmar Örn JÓNSSON,06 MAY 1996,ISL,1,Selfoss (ISL),12 AUG 2014,,hammer-throw-6kg,throws,male,u20
-251,77.54,,Gabriel KEHR,03 SEP 1996,CHI,3,Cuenca (ECU),31 MAY 2015,,hammer-throw-6kg,throws,male,u20
-253,77.53,,Dawid PIŁAT,06 FEB 2002,POL,1,"Stadion MOSiR, Stalowa Wola (POL)",22 AUG 2020,,hammer-throw-6kg,throws,male,u20
-254,77.52,,Ioannis KORAKIDIS,23 JUN 2003,GRE,1,"Eleftheria Stadium, Iraklio (GRE)",05 MAR 2022,,hammer-throw-6kg,throws,male,u20
-255,77.51,,Valeriy PRONKIN,15 JUN 1994,RUS,1,"Adler, Sochi (RUS)",17 FEB 2012,,hammer-throw-6kg,throws,male,u20
-256,77.48,,Ákos HUDI,10 AUG 1991,HUN,1,Tapolca (HUN),28 AUG 2010,,hammer-throw-6kg,throws,male,u20
-257,77.47,,Kristóf NÉMETH,17 SEP 1987,HUN,1,Veszprém (HUN),11 MAR 2006,,hammer-throw-6kg,throws,male,u20
-258,77.46,,Kristóf NÉMETH,17 SEP 1987,HUN,1,Veszprém (HUN),29 APR 2006,,hammer-throw-6kg,throws,male,u20
-258,77.46,,Siarhei KALAMOYETS,11 AUG 1989,BLR,1,Brest (BLR),14 JUN 2008,,hammer-throw-6kg,throws,male,u20
-260,77.43,,Jake NORRIS,30 JUN 1999,GBR,1,"Allianz Park, London (GBR)",29 JUL 2018,,hammer-throw-6kg,throws,male,u20
-260,77.43,,Giorgio OLIVIERI,05 NOV 2000,ITA,1,Halle (GER),01 JUN 2019,,hammer-throw-6kg,throws,male,u20
-262,77.42,,Andrey AZARENKOV,26 SEP 1985,RUS,1,Krasnodar (RUS),24 MAY 2004,,hammer-throw-6kg,throws,male,u20
-262,77.42,,Orestis NTOUSAKIS,02 MAY 2002,GRE,1,"Strovolos, GPS Stadium, Nicosia (CYP)",14 APR 2021,,hammer-throw-6kg,throws,male,u20
-262,77.42,,Jean Baptiste BRUXELLE,09 JUL 2002,FRA,1,"Stade Throo, Guebwiller (FRA)",30 OCT 2021,,hammer-throw-6kg,throws,male,u20
-265,77.41,,Ioannis KORAKIDIS,23 JUN 2003,GRE,1,"Kaftanzoglio warm-up track, Thessaloniki (GRE)",15 JUN 2022,,hammer-throw-6kg,throws,male,u20
-266,77.40,,Bence PÁSZTOR,05 FEB 1995,HUN,1,Szombathely (HUN),18 JUN 2014,,hammer-throw-6kg,throws,male,u20
-266,77.40,,Aliaksandr SHYMANOVICH,09 FEB 1998,BLR,1,Novopolotsk (BLR),17 NOV 2017,,hammer-throw-6kg,throws,male,u20
-268,77.39,,Kristóf NÉMETH,17 SEP 1987,HUN,1,Szombathely (HUN),01 JUN 2005,,hammer-throw-6kg,throws,male,u20
-269,77.36,,Benedek DOMA,17 OCT 2001,HUN,1f1,"Sugár úti Atlétikai Centrum, Szombathely (HUN)",25 JUL 2020,,hammer-throw-6kg,throws,male,u20
-270,77.35,,Bence PÁSZTOR,05 FEB 1995,HUN,2,"Stadio Guidobaldi, Rieti (ITA)",19 JUL 2013,,hammer-throw-6kg,throws,male,u20
-270,77.35,,Matija GREGURIĆ,17 SEP 1996,CRO,3,"Ekängens Friidrottsarena, Eskilstuna (SWE)",17 JUL 2015,,hammer-throw-6kg,throws,male,u20
-270,77.35,,Ethan KATZBERG,05 APR 2002,CAN,1,"Hillside Stadium, Kamloops (CAN)",20 NOV 2021,,hammer-throw-6kg,throws,male,u20
-273,77.34,,Maksim MITSKOU,12 JAN 1995,BLR,1,Brest (BLR),25 JUN 2014,,hammer-throw-6kg,throws,male,u20
-273,77.34,,Taylor CAMPBELL,30 JUN 1996,GBR,2,Mannheim (GER),27 JUN 2015,,hammer-throw-6kg,throws,male,u20
-275,77.33,,Eivind HENRIKSEN,14 SEP 1990,NOR,1,Greverud (NOR),04 OCT 2009,,hammer-throw-6kg,throws,male,u20
-275,77.33,,Aliaksandr SHYMANOVICH,09 FEB 1998,BLR,1,Minsk (BLR),16 JUN 2017,,hammer-throw-6kg,throws,male,u20
-277,77.32,,Yuriy KUZIV,29 MAY 1996,RUS,4,"Ekängens Friidrottsarena, Eskilstuna (SWE)",17 JUL 2015,,hammer-throw-6kg,throws,male,u20
-277,77.32,,Jean Baptiste BRUXELLE,09 JUL 2002,FRA,1q2,"Stade R. Bobin, Bondoufle (FRA)",09 JUL 2021,,hammer-throw-6kg,throws,male,u20
-279,77.28,,Richard OLBRICH,07 APR 1990,GER,2,Halle (GER),23 MAY 2009,,hammer-throw-6kg,throws,male,u20
-279,77.28,,Ákos HUDI,10 AUG 1991,HUN,1,Veszprém (HUN),01 MAY 2010,,hammer-throw-6kg,throws,male,u20
-279,77.28,,Ákos HUDI,10 AUG 1991,HUN,1f1,Veszprém (HUN),01 MAY 2010,,hammer-throw-6kg,throws,male,u20
-282,77.27,,Kristóf NÉMETH,17 SEP 1987,HUN,1,Varaždin (CRO),02 JUL 2005,,hammer-throw-6kg,throws,male,u20
-282,77.27,,Georgios PAPANASTASIOU,09 DEC 2005,GRE,1,"Municipal Stadium, Trikala (GRE)",27 JUL 2024,,hammer-throw-6kg,throws,male,u20
-284,77.25,,Mohsen ANANI,21 MAY 1985,EGY,1,Cairo (EGY),12 NOV 2004,,hammer-throw-6kg,throws,male,u20
-284,77.25,,Eivind HENRIKSEN,14 SEP 1990,NOR,1,Torsby (SWE),30 MAY 2009,,hammer-throw-6kg,throws,male,u20
-286,77.23,,Mohsen ANANI,21 MAY 1985,EGY,1,Cairo (EGY),12 MAR 2004,,hammer-throw-6kg,throws,male,u20
-286,77.23,,Ethan KATZBERG,05 APR 2002,CAN,1,"Hillside Stadium, Kamloops (CAN)",19 NOV 2021,,hammer-throw-6kg,throws,male,u20
-288,77.21,,Giorgio OLIVIERI,05 NOV 2000,ITA,1,San Benedetto del Tronto (ITA),16 SEP 2018,,hammer-throw-6kg,throws,male,u20
-288,77.21,,Orestis NTOUSAKIS,02 MAY 2002,GRE,1,"Municipal Sports Center, Tripoli (GRE)",22 MAY 2021,,hammer-throw-6kg,throws,male,u20
-290,77.20,,Mykhailo HAVRYLIUK,19 JAN 1999,UKR,1,Kamianets Podilskyi (UKR),27 APR 2018,,hammer-throw-6kg,throws,male,u20
-290,77.20,,Ronald MENCIA ZAYAS,26 AUG 2002,CUB,1,"Estadio Panamericano, La Habana (CUB)",31 JUL 2021,,hammer-throw-6kg,throws,male,u20
-290,77.20,,Ioannis KORAKIDIS,23 JUN 2003,GRE,2,"National Stadium, Serres (GRE)",09 JUL 2022,,hammer-throw-6kg,throws,male,u20
-293,77.19,,Kristóf NÉMETH,17 SEP 1987,HUN,1,Santa Fé (ARG),18 FEB 2006,,hammer-throw-6kg,throws,male,u20
-293,77.19,,Mykhaylo KOKHAN,22 JAN 2001,UKR,1,Kropyvnytskiy (UKR),23 JUN 2018,,hammer-throw-6kg,throws,male,u20
-295,77.18,,Bence HALÁSZ,04 AUG 1997,HUN,1,Szombathely (HUN),02 APR 2016,,hammer-throw-6kg,throws,male,u20
-296,77.17,,Andriy MARTYNYUK,23 SEP 1990,UKR,1,Kyiv (UKR),29 MAY 2009,,hammer-throw-6kg,throws,male,u20
-297,77.16,,Ákos HUDI,10 AUG 1991,HUN,1,Veszprém (HUN),16 MAY 2009,,hammer-throw-6kg,throws,male,u20
-297,77.16,,Angelos MANTZOURANIS,01 MAY 2004,GRE,1q2,"Givat Ram Stadium, Jerusalem (ISR)",08 AUG 2023,,hammer-throw-6kg,throws,male,u20
-299,77.15,,Valentin ANDREEV,19 JAN 2002,BUL,5,"Ryavallen, Borås (SWE)",19 JUL 2019,,hammer-throw-6kg,throws,male,u20
-299,77.15,,Angelos MANTZOURANIS,01 MAY 2004,GRE,1,"Agios Kosmas Training Center, Elliniko, Athina (GRE)",14 MAY 2023,,hammer-throw-6kg,throws,male,u20
-301,77.11,,Miklós CSEKŐ,25 MAR 2004,HUN,1,"Egyetemi Stadion, Veszprém (HUN)",07 OCT 2023,,hammer-throw-6kg,throws,male,u20
-302,77.10,,Kristóf NÉMETH,17 SEP 1987,HUN,1,Szombathely (HUN),30 APR 2005,,hammer-throw-6kg,throws,male,u20
-303,77.09,,Dawid PIŁAT,06 FEB 2002,POL,4,"Moi International Sports Centre, Kasarani, Nairobi (KEN)",20 AUG 2021,,hammer-throw-6kg,throws,male,u20
-304,77.08,,Ákos HUDI,10 AUG 1991,HUN,1,Veszprém (HUN),06 OCT 2010,,hammer-throw-6kg,throws,male,u20
-304,77.08,,Matthew DENNY,02 JUN 1996,AUS,1,Gold Coast (AUS),15 NOV 2015,,hammer-throw-6kg,throws,male,u20
-306,77.06,,Marcel LOMNICKÝ,06 JUL 1987,SVK,3,"Chaoyang Sport Center, Beijing (CHN)",18 AUG 2006,,hammer-throw-6kg,throws,male,u20
-307,77.03,,Igor YEVSEYEV,27 MAR 1996,RUS,1,Krasnodar (RUS),23 MAY 2015,,hammer-throw-6kg,throws,male,u20
-308,77.02,,Bence PÁSZTOR,05 FEB 1995,HUN,1,Veszprém (HUN),19 MAY 2012,,hammer-throw-6kg,throws,male,u20
-308,77.02,,Serhiy REHEDA,06 FEB 1994,UKR,1,Yalta (UKR),31 MAY 2012,,hammer-throw-6kg,throws,male,u20
-310,77.01,,Aleksey KOCHNEV,06 APR 1990,RUS,1,Sochi (RUS),21 MAY 2009,,hammer-throw-6kg,throws,male,u20
-311,76.99,,Valentin ANDREEV,19 JAN 2002,BUL,2,Istanbul (TUR),12 JUN 2021,,hammer-throw-6kg,throws,male,u20
-312,76.98,,Serhiy REHEDA,06 FEB 1994,UKR,1,Yalta (UKR),20 FEB 2013,,hammer-throw-6kg,throws,male,u20
-313,76.97,,Yevgeniy AYDAMIROV,11 MAY 1987,RUS,1,Tula (RUS),03 JUL 2005,,hammer-throw-6kg,throws,male,u20
-313,76.97,,Jake NORRIS,30 JUN 1999,GBR,1,Leiria (POR),15 APR 2017,,hammer-throw-6kg,throws,male,u20
-313,76.97,,Jake NORRIS,30 JUN 1999,GBR,1f1,Bromley (GBR),28 MAY 2017,,hammer-throw-6kg,throws,male,u20
-316,76.95,,Kristóf NÉMETH,17 SEP 1987,HUN,1,Maribor (SLO),15 JUL 2006,,hammer-throw-6kg,throws,male,u20
-316,76.95,,Yury SHAYUNOU,22 OCT 1987,BLR,4,"Chaoyang Sport Center, Beijing (CHN)",18 AUG 2006,,hammer-throw-6kg,throws,male,u20
-316,76.95,,Jake NORRIS,30 JUN 1999,GBR,1q1,"Ratinan Stadion, Tampere (FIN)",11 JUL 2018,,hammer-throw-6kg,throws,male,u20
-316,76.95,,Merlin HUMMEL,04 JAN 2002,GER,1,Neubrandenburg (GER),16 FEB 2020,,hammer-throw-6kg,throws,male,u20
-320,76.94,,Özkan BALTACI,13 FEB 1994,TUR,1,Eskisehir (TUR),09 JUN 2012,,hammer-throw-6kg,throws,male,u20
-321,76.93,,Aleh DUBITSKI,19 OCT 1990,BLR,1,Staiki (BLR),03 FEB 2009,,hammer-throw-6kg,throws,male,u20
-321,76.93,,Dániel RÁBA,24 APR 1998,HUN,1,Szombathely (HUN),04 MAR 2017,,hammer-throw-6kg,throws,male,u20
-321,76.93,,Max LAMPINEN,11 OCT 2004,FIN,1,"Nikulan raviradan heittopaikka, Kaustinen (FIN)",29 JUN 2023,,hammer-throw-6kg,throws,male,u20
-324,76.92,,Walter HENNING,24 JAN 1989,USA,1,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",12 JUL 2008,,hammer-throw-6kg,throws,male,u20
-324,76.92,,Miguel Ángel ZAMORA,25 JAN 1999,CUB,1,La Habana (CUB),15 JUN 2018,,hammer-throw-6kg,throws,male,u20
-326,76.91,,Donát VARGA,08 APR 2000,HUN,1,Tapolca (HUN),17 AUG 2019,,hammer-throw-6kg,throws,male,u20
-326,76.91,,Max LAMPINEN,11 OCT 2004,FIN,1,"Hiekkaharjun urheilupuisto, Vantaa (FIN)",01 AUG 2023,,hammer-throw-6kg,throws,male,u20
-328,76.90,,Eivind HENRIKSEN,14 SEP 1990,NOR,1,Oslo (NOR),20 AUG 2009,,hammer-throw-6kg,throws,male,u20
-328,76.90,,Giorgio OLIVIERI,05 NOV 2000,ITA,1,Ancona (ITA),02 MAR 2019,,hammer-throw-6kg,throws,male,u20
-330,76.89,,Richard OLBRICH,07 APR 1990,GER,1,Fränkisch-Crumbach (GER),31 MAY 2009,,hammer-throw-6kg,throws,male,u20
-330,76.89,,Yuriy KUZIV,29 MAY 1996,RUS,2,Krasnodar (RUS),23 MAY 2015,,hammer-throw-6kg,throws,male,u20
-332,76.88,,Marcel LOMNICKÝ,06 JUL 1987,SVK,1,Nitra (SVK),15 JUL 2006,,hammer-throw-6kg,throws,male,u20
-332,76.88,,Bence HALÁSZ,04 AUG 1997,HUN,1,Potchefstroom (RSA),29 JAN 2015,,hammer-throw-6kg,throws,male,u20
-334,76.87,,Taylor CAMPBELL,30 JUN 1996,GBR,1,Lee Valley (GBR),13 JUN 2015,,hammer-throw-6kg,throws,male,u20
-334,76.87,,Miklós CSEKŐ,25 MAR 2004,HUN,3,"Givat Ram Stadium, Jerusalem (ISR)",09 AUG 2023,,hammer-throw-6kg,throws,male,u20
-336,76.86,,Eivind HENRIKSEN,14 SEP 1990,NOR,1,Notodden (NOR),20 SEP 2009,,hammer-throw-6kg,throws,male,u20
-336,76.86,,Miguel Alberto BLANCO,22 FEB 1996,ESP,1,Barcelona (ESP),03 JUN 2015,,hammer-throw-6kg,throws,male,u20
-336,76.86,,Ashish JAKHAR,05 JAN 1999,IND,1,Gifu (JPN),07 JUN 2018,,hammer-throw-6kg,throws,male,u20
-339,76.85,,Taylor CAMPBELL,30 JUN 1996,GBR,2,Halle (GER),16 MAY 2015,,hammer-throw-6kg,throws,male,u20
-340,76.84,,Jake NORRIS,30 JUN 1999,GBR,1,Birmingham (GBR),08 JUL 2017,,hammer-throw-6kg,throws,male,u20
-341,76.83,,Tomasz RATAJCZYK,20 SEP 2002,POL,1,"Stadion MOSiR, Lublin (POL)",23 MAY 2021,,hammer-throw-6kg,throws,male,u20
-341,76.83,,Jean Baptiste BRUXELLE,09 JUL 2002,FRA,1f4,"Stade Jean Leroi, Blois (FRA)",09 OCT 2021,,hammer-throw-6kg,throws,male,u20
-343,76.81,,Taylor CAMPBELL,30 JUN 1996,GBR,1,Loughborough (GBR),25 APR 2015,,hammer-throw-6kg,throws,male,u20
-344,76.79,,Jan EMBERŠIČ,06 APR 2003,SLO,1,"Športni park, Domžale (SLO)",02 JUN 2022,,hammer-throw-6kg,throws,male,u20
-344,76.79,,Jan EMBERŠIČ,06 APR 2003,SLO,1,"Atletski stadion Poljane, Maribor (SLO)",14 JUN 2022,,hammer-throw-6kg,throws,male,u20
-346,76.77,,Ákos HUDI,10 AUG 1991,HUN,1,Veszprém (HUN),22 SEP 2010,,hammer-throw-6kg,throws,male,u20
-346,76.77,,Bence HALÁSZ,04 AUG 1997,HUN,1,Budapest (HUN),13 JUN 2015,,hammer-throw-6kg,throws,male,u20
-346,76.77,,Orestis NTOUSAKIS,02 MAY 2002,GRE,1,"Kaftanzoglio throws auxiliary field, Thessaloniki (GRE)",17 APR 2021,,hammer-throw-6kg,throws,male,u20
-349,76.76,,Yury SHAYUNOU,22 OCT 1987,BLR,1q2,"Chaoyang Sport Center, Beijing (CHN)",16 AUG 2006,,hammer-throw-6kg,throws,male,u20
-349,76.76,,Walter HENNING,24 JAN 1989,USA,1,"Chapel Hill, NC (USA)",09 MAY 2008,,hammer-throw-6kg,throws,male,u20
-349,76.76,,Orestis NTOUSAKIS,02 MAY 2002,GRE,4,"Kadrioru staadion, Tallinn (EST)",16 JUL 2021,,hammer-throw-6kg,throws,male,u20
-352,76.75,,Eivind HENRIKSEN,14 SEP 1990,NOR,1,Helsingborg (SWE),10 JUL 2009,,hammer-throw-6kg,throws,male,u20
-353,76.74,,Dániel SZABÓ,28 JUN 1991,HUN,1,Szombathely (HUN),17 APR 2010,,hammer-throw-6kg,throws,male,u20
-353,76.74,,Bence PÁSZTOR,05 FEB 1995,HUN,2,"Estadio Olímpico, Barcelona (ESP)",14 JUL 2012,,hammer-throw-6kg,throws,male,u20
-353,76.74,,Alexei MIKHAILOV,12 APR 1996,GER,1q1,"Ekängens Friidrottsarena, Eskilstuna (SWE)",16 JUL 2015,,hammer-throw-6kg,throws,male,u20
-356,76.73,,Yevgeniy AYDAMIROV,11 MAY 1987,RUS,2,"S. Darius & S. Girėnas Stadium, Kaunas (LTU)",24 JUL 2005,,hammer-throw-6kg,throws,male,u20
-356,76.73,,Aleh DUBITSKI,19 OCT 1990,BLR,1,Brest (BLR),19 JUN 2009,,hammer-throw-6kg,throws,male,u20
-356,76.73,,Jean Baptiste BRUXELLE,09 JUL 2002,FRA,1,"Stade de La Croix-de-Berny, Antony (FRA)",25 JUL 2020,,hammer-throw-6kg,throws,male,u20
-359,76.71,,Dániel RÁBA,24 APR 1998,HUN,4,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",22 JUL 2016,,hammer-throw-6kg,throws,male,u20
-360,76.70,,Massimo MARUSSI,05 APR 1984,ITA,1,Grosseto (ITA),13 JUN 2003,,hammer-throw-6kg,throws,male,u20
-360,76.70,,Kristóf NÉMETH,17 SEP 1987,HUN,1,Szombathely (HUN),04 MAY 2005,,hammer-throw-6kg,throws,male,u20
-360,76.70,,Jake NORRIS,30 JUN 1999,GBR,1,Manchester (GBR),16 AUG 2017,,hammer-throw-6kg,throws,male,u20
-363,76.69,,Eivind HENRIKSEN,14 SEP 1990,NOR,1,Tønsberg (NOR),05 MAY 2009,,hammer-throw-6kg,throws,male,u20
-363,76.69,,Bence HALÁSZ,04 AUG 1997,HUN,1,Szombathely (HUN),19 MAR 2016,,hammer-throw-6kg,throws,male,u20
-365,76.67,,Peter SMITH,20 JUL 1990,GBR,,Birmingham (GBR),10 JUL 2009,,hammer-throw-6kg,throws,male,u20
-365,76.67,,Jan EMBERŠIČ,06 APR 2003,SLO,1,"Športni park, Nova Gorica (SLO)",02 JUL 2022,,hammer-throw-6kg,throws,male,u20
-367,76.66,,Alaa EL ASHRY,06 JAN 1991,EGY,3,"Croix-Bleue Medavie Stadium, Moncton (CAN)",25 JUL 2010,,hammer-throw-6kg,throws,male,u20
-367,76.66,,Daniil DANILOV,05 JAN 1998,RUS,1,"Adler, Sochi (RUS)",16 FEB 2017,,hammer-throw-6kg,throws,male,u20
-369,76.65,,Eivind HENRIKSEN,14 SEP 1990,NOR,4,"Karađorđe Stadium, Novi Sad (SRB)",26 JUL 2009,,hammer-throw-6kg,throws,male,u20
-370,76.64,,Igor YEVSEYEV,27 MAR 1996,RUS,1,"Yunost Stadium, Adler, Sochi (RUS)",23 FEB 2015,,hammer-throw-6kg,throws,male,u20
-370,76.64,,Volodymyr MYSLYVCHUK,25 APR 1996,UKR,5,"Ekängens Friidrottsarena, Eskilstuna (SWE)",17 JUL 2015,,hammer-throw-6kg,throws,male,u20
-370,76.64,,Miklós CSEKŐ,25 MAR 2004,HUN,2,"Werferzentrum Brandberge, Halle (GER)",20 MAY 2023,,hammer-throw-6kg,throws,male,u20
-373,76.63,,Ákos HUDI,10 AUG 1991,HUN,1,Szombathely (HUN),04 SEP 2010,,hammer-throw-6kg,throws,male,u20
-373,76.63,,Ioannis KORAKIDIS,23 JUN 2003,GRE,1,"Municipal Stadium, Nikiti (GRE)",04 JUN 2022,,hammer-throw-6kg,throws,male,u20
-373,76.63,,Miklós CSEKŐ,25 MAR 2004,HUN,1,"Sugár úti Atlétikai Centrum, Szombathely (HUN)",18 JUN 2022,,hammer-throw-6kg,throws,male,u20
-376,76.62,,Ákos HUDI,10 AUG 1991,HUN,1q2,"Croix-Bleue Medavie Stadium, Moncton (CAN)",23 JUL 2010,,hammer-throw-6kg,throws,male,u20
-376,76.62,,Jake NORRIS,30 JUN 1999,GBR,1q1,"Stadio Zecchini, Grosseto (ITA)",20 JUL 2017,,hammer-throw-6kg,throws,male,u20
-378,76.61,,Mykhailo HAVRYLIUK,19 JAN 1999,UKR,1,Nova Kakhovka (UKR),31 MAR 2018,,hammer-throw-6kg,throws,male,u20
-378,76.61,,Dawid PIŁAT,06 FEB 2002,POL,1,"Stadion MOSiR, Stalowa Wola (POL)",22 MAY 2021,,hammer-throw-6kg,throws,male,u20
-380,76.60,,Serghei MARGHIEV,06 NOV 1992,MDA,2,"Kadrioru staadion, Tallinn (EST)",22 JUL 2011,,hammer-throw-6kg,throws,male,u20
-380,76.60,,Hilmar Örn JÓNSSON,06 MAY 1996,ISL,1,Hafnarfjördur (ISL),14 SEP 2015,,hammer-throw-6kg,throws,male,u20
-380,76.60,,Christos FRANTZESKAKIS,26 APR 2000,GRE,1,Istanbul (TUR),21 JUN 2018,,hammer-throw-6kg,throws,male,u20
-383,76.59,,Kristóf NÉMETH,17 SEP 1987,HUN,1,Uherské Hradiste (CZE),29 JUN 2005,,hammer-throw-6kg,throws,male,u20
-383,76.59,,Joaquin GOMEZ,14 OCT 1996,ARG,1,Buenos Aires (ARG),11 OCT 2014,,hammer-throw-6kg,throws,male,u20
-385,76.58,,Kristóf NÉMETH,17 SEP 1987,HUN,1,Budapest (HUN),25 JUN 2005,,hammer-throw-6kg,throws,male,u20
-385,76.58,,Miklós CSEKŐ,25 MAR 2004,HUN,1,"Egyetemi Stadion, Veszprém (HUN)",24 SEP 2022,,hammer-throw-6kg,throws,male,u20
-387,76.55,,Yury SHAYUNOU,22 OCT 1987,BLR,1,Staiki (BLR),23 JUN 2006,,hammer-throw-6kg,throws,male,u20
-387,76.55,,Dawid PIŁAT,06 FEB 2002,POL,1,"Centralny Ośrodek Sportu, Spala (POL)",08 AUG 2020,,hammer-throw-6kg,throws,male,u20
-389,76.54,,Siarhei KALAMOYETS,11 AUG 1989,BLR,1,Minsk (BLR),07 JUN 2008,,hammer-throw-6kg,throws,male,u20
-390,76.53,,Kristóf NÉMETH,17 SEP 1987,HUN,1,Szombathely (HUN),16 APR 2005,,hammer-throw-6kg,throws,male,u20
-390,76.53,,Hilmar Örn JÓNSSON,06 MAY 1996,ISL,1,Hafnarfjördur (ISL),09 MAY 2015,,hammer-throw-6kg,throws,male,u20
-390,76.53,,Dániel RÁBA,24 APR 1998,HUN,1,Budapest (HUN),27 AUG 2017,,hammer-throw-6kg,throws,male,u20
-393,76.52,,Yuriy KUZIV,29 MAY 1996,RUS,1,Cheboksary (RUS),26 JUN 2015,,hammer-throw-6kg,throws,male,u20
-393,76.52,,Jakob URBANČ,27 MAY 2004,SLO,2,"Sports Park Mladost, Zagreb (CRO)",20 MAY 2023,,hammer-throw-6kg,throws,male,u20
-395,76.51,,Javier CIENFUEGOS,15 JUL 1990,ESP,1,Vénissieux (FRA),08 MAR 2009,,hammer-throw-6kg,throws,male,u20
-395,76.51,,Hilmar Örn JÓNSSON,06 MAY 1996,ISL,1,Hafnarfjördur (ISL),27 JUN 2014,,hammer-throw-6kg,throws,male,u20
-397,76.50,,Matija GREGURIĆ,17 SEP 1996,CRO,1,Bar (MNE),01 MAY 2014,,hammer-throw-6kg,throws,male,u20
-397,76.50,,Taylor CAMPBELL,30 JUN 1996,GBR,1,Bedford (GBR),31 MAY 2015,,hammer-throw-6kg,throws,male,u20
-397,76.50,,Jakob URBANČ,27 MAY 2004,SLO,1,"Športni park, Domžale (SLO)",19 MAR 2023,,hammer-throw-6kg,throws,male,u20
-400,76.49,,Miguel Ángel ZAMORA,25 JAN 1999,CUB,1,Las Tunas (CUB),09 FEB 2018,,hammer-throw-6kg,throws,male,u20
-401,76.47,,Özkan BALTACI,13 FEB 1994,TUR,1,Bursa (TUR),05 MAY 2012,,hammer-throw-6kg,throws,male,u20
-402,76.45,,Serghei MARGHIEV,06 NOV 1992,MDA,1,Chisinau (MDA),28 MAY 2011,,hammer-throw-6kg,throws,male,u20
-402,76.45,,Bence PÁSZTOR,05 FEB 1995,HUN,1,Budapest (HUN),02 MAR 2014,,hammer-throw-6kg,throws,male,u20
-404,76.43,,Werner SMIT,14 SEP 1984,RSA,1,"National Stadium, Kingston (JAM)",17 JUL 2002,,hammer-throw-6kg,throws,male,u20
-404,76.43,,Joaquin GOMEZ,14 OCT 1996,ARG,1,Buenos Aires (ARG),27 MAR 2015,,hammer-throw-6kg,throws,male,u20
-404,76.43,,Max LAMPINEN,11 OCT 2004,FIN,1,"Bislett Stadion, Oslo (NOR)",23 JUL 2023,,hammer-throw-6kg,throws,male,u20
-407,76.42,,Raman ZHOLUDZEU,08 JAN 1996,BLR,1,Minsk (BLR),10 APR 2015,,hammer-throw-6kg,throws,male,u20
-408,76.41,,Quentin BIGOT,01 DEC 1992,FRA,1,Forbach (FRA),29 MAY 2011,,hammer-throw-6kg,throws,male,u20
-408,76.41,,Benedek DOMA,17 OCT 2001,HUN,1,"Sugár úti Atlétikai Centrum, Szombathely (HUN)",24 SEP 2020,,hammer-throw-6kg,throws,male,u20
-410,76.39,,Dániel RÁBA,24 APR 1998,HUN,1,Budapest (HUN),17 JUN 2017,,hammer-throw-6kg,throws,male,u20
-410,76.39,,Ármin SZABADOS,11 JAN 2006,HUN,1,"Sportcentrum, Pápa (HUN)",20 APR 2024,,hammer-throw-6kg,throws,male,u20
-412,76.38,,Yury SHAYUNOU,22 OCT 1987,BLR,1,Brest (BLR),28 APR 2006,,hammer-throw-6kg,throws,male,u20
-412,76.38,,Aleksi JAAKKOLA,17 NOV 1997,FIN,1,Kaustinen (FIN),20 FEB 2016,,hammer-throw-6kg,throws,male,u20
-412,76.38,,Jan DOLEŽÁLEK,23 MAY 2002,CZE,1,"Vitkovice, Ostrava (CZE)",05 SEP 2020,,hammer-throw-6kg,throws,male,u20
-415,76.37,,Eivind HENRIKSEN,14 SEP 1990,NOR,1,Bottnaryd (SWE),28 JUN 2009,,hammer-throw-6kg,throws,male,u20
-416,76.36,,Miguel Ángel ZAMORA,25 JAN 1999,CUB,1,La Habana (CUB),17 FEB 2018,,hammer-throw-6kg,throws,male,u20
-417,76.35,,Ioannis KORAKIDIS,23 JUN 2003,GRE,1,"National Stadium, Serres (GRE)",25 MAY 2022,,hammer-throw-6kg,throws,male,u20
-418,76.34,,Markus JOHANSSON,08 MAY 1990,SWE,2,Torsby (SWE),30 MAY 2009,,hammer-throw-6kg,throws,male,u20
-419,76.33,,Max LAMPINEN,11 OCT 2004,FIN,2,"Pascual Guerrero Stadium, Cali (COL)",04 AUG 2022,,hammer-throw-6kg,throws,male,u20
-419,76.33,,Ármin SZABADOS,11 JAN 2006,HUN,1,"Lantos Mihály Sportközpont, Budapest (HUN)",16 MAR 2024,,hammer-throw-6kg,throws,male,u20
-421,76.32,,Yury SHAYUNOU,22 OCT 1987,BLR,1,Brest (BLR),14 JUL 2006,,hammer-throw-6kg,throws,male,u20
-421,76.32,,Hilmar Örn JÓNSSON,06 MAY 1996,ISL,1,Saudárkrókur (ISL),15 AUG 2015,,hammer-throw-6kg,throws,male,u20
-421,76.32,,Iosif KESIDIS,19 AUG 2005,CYP,3,"Pascual Guerrero Stadium, Cali (COL)",04 AUG 2022,,hammer-throw-6kg,throws,male,u20
-421,76.32,,Miklós CSEKŐ,25 MAR 2004,HUN,1,"Atlétikai Központ, Szolnok (HUN)",15 JUL 2023,,hammer-throw-6kg,throws,male,u20
-421,76.32,,Aatu KANGASNIEMI,25 FEB 2006,FIN,1,"Tammelan urheilukenttä, Tammela (FIN)",29 MAY 2025,,hammer-throw-6kg,throws,male,u20
-426,76.31,,Ilya TERENTEV,25 JAN 1995,RUS,3,"Hayward Field, Eugene, OR (USA)",25 JUL 2014,,hammer-throw-6kg,throws,male,u20
-426,76.31,,Hilmar Örn JÓNSSON,06 MAY 1996,ISL,3,Mannheim (GER),27 JUN 2015,,hammer-throw-6kg,throws,male,u20
-428,76.30,,Vítor COSTA,28 MAY 1974,POR,,Evry (FRA),05 JUN 1993,,hammer-throw-6kg,throws,male,u20
-428,76.30,,Aleh DUBITSKI,19 OCT 1990,BLR,2,Brest (BLR),14 JUN 2008,,hammer-throw-6kg,throws,male,u20
-428,76.30,,Qi WANG,10 FEB 2001,CHN,1,"Shanxi Sports Center Stadium, Taiyuan (CHN)",14 AUG 2019,,hammer-throw-6kg,throws,male,u20
-431,76.28,,Andrey AZARENKOV,26 SEP 1985,RUS,1,Toulouse (FRA),06 MAR 2004,,hammer-throw-6kg,throws,male,u20
-431,76.28,,Kristóf NÉMETH,17 SEP 1987,HUN,1,Budapest (HUN),05 JUN 2005,,hammer-throw-6kg,throws,male,u20
-431,76.28,,Merlin HUMMEL,04 JAN 2002,GER,1,"Sepp-Brenninger-Stadion, Erding (GER)",27 SEP 2020,,hammer-throw-6kg,throws,male,u20
-434,76.27,,Valeriy PRONKIN,15 JUN 1994,RUS,1,Krasnodar (RUS),19 MAY 2012,,hammer-throw-6kg,throws,male,u20
-435,76.26,,Ákos HUDI,10 AUG 1991,HUN,1,Veszprém (HUN),18 APR 2010,,hammer-throw-6kg,throws,male,u20
-435,76.26,,Orestis NTOUSAKIS,02 MAY 2002,GRE,1,"Kaftanzoglio throws auxiliary field, Thessaloniki (GRE)",03 JUL 2021,,hammer-throw-6kg,throws,male,u20
-435,76.26,,Ronald MENCIA ZAYAS,26 AUG 2002,CUB,1q,"Estadio Panamericano, La Habana (CUB)",06 AUG 2021,,hammer-throw-6kg,throws,male,u20
-438,76.25,,Orestis NTOUSAKIS,02 MAY 2002,GRE,1q1,"Moi International Sports Centre, Kasarani, Nairobi (KEN)",18 AUG 2021,,hammer-throw-6kg,throws,male,u20
-439,76.24,,Valentin ANDREEV,19 JAN 2002,BUL,2,"Ekrem Koçak Atletizm Pisti, Istanbul (TUR)",12 SEP 2020,,hammer-throw-6kg,throws,male,u20
-440,76.23,,Dániel SZABÓ,28 JUN 1991,HUN,1,Budapest (HUN),22 MAY 2010,,hammer-throw-6kg,throws,male,u20
-440,76.23,,Bence HALÁSZ,04 AUG 1997,HUN,1,Szombathely (HUN),03 MAY 2015,,hammer-throw-6kg,throws,male,u20
-442,76.22,,Dániel SZABÓ,28 JUN 1991,HUN,1,Szombathely (HUN),19 MAY 2010,,hammer-throw-6kg,throws,male,u20
-443,76.19,,Dániel SZABÓ,28 JUN 1991,HUN,2,Szombathely (HUN),13 MAR 2010,,hammer-throw-6kg,throws,male,u20
-444,76.18,,Ragnar CARLSSON,16 NOV 2000,SWE,2,Mannheim (GER),23 JUN 2018,,hammer-throw-6kg,throws,male,u20
-444,76.18,,Ronald MENCIA ZAYAS,26 AUG 2002,CUB,1q,"Estadio Panamericano, La Habana (CUB)",30 JUL 2021,,hammer-throw-6kg,throws,male,u20
-446,76.17,,Ákos HUDI,10 AUG 1991,HUN,1,Veszprém (HUN),16 OCT 2010,,hammer-throw-6kg,throws,male,u20
-447,76.16,,Sukhrob KHODJAEV,21 MAY 1993,UZB,3,"Estadio Olímpico, Barcelona (ESP)",14 JUL 2012,,hammer-throw-6kg,throws,male,u20
-447,76.16,,Ronald MENCIA ZAYAS,26 AUG 2002,CUB,1,"Estadio Panamericano, La Habana (CUB)",07 AUG 2021,,hammer-throw-6kg,throws,male,u20
-449,76.15,,Hlib PISKUNOV,25 NOV 1998,UKR,2q1,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",20 JUL 2016,,hammer-throw-6kg,throws,male,u20
-450,76.14,,Özkan BALTACI,13 FEB 1994,TUR,1,Mersin (TUR),17 FEB 2013,,hammer-throw-6kg,throws,male,u20
-450,76.14,,Bence PÁSZTOR,05 FEB 1995,HUN,1,Veszprém (HUN),19 OCT 2013,,hammer-throw-6kg,throws,male,u20
-450,76.14,,Ronald MENCIA ZAYAS,26 AUG 2002,CUB,1,"Estadio Panamericano, La Habana (CUB)",20 MAR 2020,,hammer-throw-6kg,throws,male,u20
-453,76.13,,Javier CIENFUEGOS,15 JUL 1990,ESP,1,Majadahonda (ESP),14 JUN 2008,,hammer-throw-6kg,throws,male,u20
-453,76.13,,Ákos HUDI,10 AUG 1991,HUN,1,Budapest (HUN),08 MAY 2010,,hammer-throw-6kg,throws,male,u20
-453,76.13,,Giorgio OLIVIERI,05 NOV 2000,ITA,1,Ancona (ITA),30 JUN 2018,,hammer-throw-6kg,throws,male,u20
-456,76.12,,Bence HALÁSZ,04 AUG 1997,HUN,1,Veszprém (HUN),07 JUN 2015,,hammer-throw-6kg,throws,male,u20
-456,76.12,,Jake NORRIS,30 JUN 1999,GBR,1,Bracknell (GBR),14 MAY 2017,,hammer-throw-6kg,throws,male,u20
-456,76.12,,Nikolaos POLYCHRONIOU,29 MAY 2003,GRE,4,"Pascual Guerrero Stadium, Cali (COL)",04 AUG 2022,,hammer-throw-6kg,throws,male,u20
-459,76.11,,Kristóf NÉMETH,17 SEP 1987,HUN,1,Szombathely (HUN),21 MAY 2005,,hammer-throw-6kg,throws,male,u20
-460,76.10,,Mohsen ANANI,21 MAY 1985,EGY,1,Cairo (EGY),11 AUG 2004,,hammer-throw-6kg,throws,male,u20
-461,76.09,,Anatoliy POZDNYAKOV,01 FEB 1987,RUS,5,"Chaoyang Sport Center, Beijing (CHN)",18 AUG 2006,,hammer-throw-6kg,throws,male,u20
-461,76.09,,Joaquin GOMEZ,14 OCT 1996,ARG,1,Buenos Aires (ARG),07 MAR 2015,,hammer-throw-6kg,throws,male,u20
-463,76.08,,Kristóf NÉMETH,17 SEP 1987,HUN,1,Szombathely (HUN),20 SEP 2006,,hammer-throw-6kg,throws,male,u20
-463,76.08,,Javier CIENFUEGOS,15 JUL 1990,ESP,1,"Colegio Tajamar, Madrid (ESP)",15 FEB 2009,,hammer-throw-6kg,throws,male,u20
-465,76.07,,Ragnar CARLSSON,16 NOV 2000,SWE,1,Bottnaryd (SWE),17 JUN 2018,,hammer-throw-6kg,throws,male,u20
-465,76.07,,Miguel Ángel ZAMORA,25 JAN 1999,CUB,1,Camagüey (CUB),28 JUN 2018,,hammer-throw-6kg,throws,male,u20
-467,76.06,,Raman ZHOLUDZEU,08 JAN 1996,BLR,2,Brest (BLR),25 JUN 2014,,hammer-throw-6kg,throws,male,u20
-468,76.05,,Conor MCCULLOUGH,31 JAN 1991,USA,1q1,"Croix-Bleue Medavie Stadium, Moncton (CAN)",23 JUL 2010,,hammer-throw-6kg,throws,male,u20
-468,76.05,,Alexandros POURSANIDIS,23 JAN 1993,CYP,4,"Estadio Olímpico, Barcelona (ESP)",14 JUL 2012,,hammer-throw-6kg,throws,male,u20
-470,76.04,,Donát VARGA,08 APR 2000,HUN,1,Szombathely (HUN),23 FEB 2019,,hammer-throw-6kg,throws,male,u20
-471,76.03,,Eivind HENRIKSEN,14 SEP 1990,NOR,1,"Lambertseter Stadion, Oslo (NOR)",04 OCT 2009,,hammer-throw-6kg,throws,male,u20
-471,76.03,,Hilmar Örn JÓNSSON,06 MAY 1996,ISL,2q1,"Hayward Field, Eugene, OR (USA)",24 JUL 2014,,hammer-throw-6kg,throws,male,u20
-471,76.03,,Aliaksandr SHYMANOVICH,09 FEB 1998,BLR,2q2,"Stadio Zecchini, Grosseto (ITA)",20 JUL 2017,,hammer-throw-6kg,throws,male,u20
-474,76.02,,Dániel SZABÓ,28 JUN 1991,HUN,2,Budapest (HUN),30 MAY 2010,,hammer-throw-6kg,throws,male,u20
-474,76.02,,Miguel Alberto BLANCO,22 FEB 1996,ESP,1,Gavá (ESP),11 JUL 2015,,hammer-throw-6kg,throws,male,u20
-476,76.01,,Ákos HUDI,10 AUG 1991,HUN,1,Budapest (HUN),29 MAY 2009,,hammer-throw-6kg,throws,male,u20
-477,76.00,,Kristóf NÉMETH,17 SEP 1987,HUN,1,Szombathely (HUN),08 JUN 2006,,hammer-throw-6kg,throws,male,u20
-477,76.00,,Aleksey KOCHNEV,06 APR 1990,RUS,1,Saransk (RUS),03 JUL 2009,,hammer-throw-6kg,throws,male,u20
-479,75.99,,Reinier MEJÍAS,22 SEP 1990,CUB,1,La Habana (CUB),13 FEB 2009,,hammer-throw-6kg,throws,male,u20
-479,75.99,,Hilmar Örn JÓNSSON,06 MAY 1996,ISL,1,Kristiansand (NOR),17 AUG 2014,,hammer-throw-6kg,throws,male,u20
-479,75.99,,Hugo TAVERNIER,01 DEC 1999,FRA,5,"Ratinan Stadion, Tampere (FIN)",13 JUL 2018,,hammer-throw-6kg,throws,male,u20
-479,75.99,,Nikolaos POLYCHRONIOU,29 MAY 2003,GRE,2,"Kaftanzoglio warm-up track, Thessaloniki (GRE)",15 JUN 2022,,hammer-throw-6kg,throws,male,u20
-483,75.98,,Shixian GONG,24 AUG 1996,CHN,1,Fuzhou (CHN),23 OCT 2015,,hammer-throw-6kg,throws,male,u20
-484,75.97,,Dakai QI,23 MAY 1987,CHN,6,"Chaoyang Sport Center, Beijing (CHN)",18 AUG 2006,,hammer-throw-6kg,throws,male,u20
-485,75.96,,Serhiy REHEDA,06 FEB 1994,UKR,1,Yalta (UKR),24 MAR 2012,,hammer-throw-6kg,throws,male,u20
-486,75.95,,Matko TEŠIJA,04 MAR 1985,CRO,1,Hartberg (AUT),18 MAY 2003,,hammer-throw-6kg,throws,male,u20
-486,75.95,,Andriy MARTYNYUK,23 SEP 1990,UKR,3,Halle (GER),23 MAY 2009,,hammer-throw-6kg,throws,male,u20
-486,75.95,,Joaquin GOMEZ,14 OCT 1996,ARG,1,Azul (ARG),25 FEB 2015,,hammer-throw-6kg,throws,male,u20
-486,75.95,,Dániel RÁBA,24 APR 1998,HUN,3,"Stadio Zecchini, Grosseto (ITA)",21 JUL 2017,,hammer-throw-6kg,throws,male,u20
-490,75.94,,Valentin ANDREEV,19 JAN 2002,BUL,1,"Vasil Levski National Stadium, Sofia (BUL)",29 MAY 2021,,hammer-throw-6kg,throws,male,u20
-491,75.92,,Javier CIENFUEGOS,15 JUL 1990,ESP,1,"Colegio Tajamar, Madrid (ESP)",15 MAY 2008,,hammer-throw-6kg,throws,male,u20
-491,75.92,,Reinier MEJÍAS,22 SEP 1990,CUB,1,"Estadio Panamericano, La Habana (CUB)",06 FEB 2009,,hammer-throw-6kg,throws,male,u20
-493,75.91,,Joshua HERNANDEZ,01 FEB 1998,USA,1,"Sacramento, CA (USA)",24 JUN 2017,,hammer-throw-6kg,throws,male,u20
-494,75.90,,Yevgeniy AYDAMIROV,11 MAY 1987,RUS,2q2,"Chaoyang Sport Center, Beijing (CHN)",16 AUG 2006,,hammer-throw-6kg,throws,male,u20
-494,75.90,,Rudy WINKLER,06 DEC 1994,USA,1,"West Point, NY (USA)",02 JUL 2013,,hammer-throw-6kg,throws,male,u20
-494,75.90,,Bence HALÁSZ,04 AUG 1997,HUN,1,Veszprém (HUN),25 APR 2015,,hammer-throw-6kg,throws,male,u20
-494,75.90,,Matija GREGURIĆ,17 SEP 1996,CRO,1,Zagreb (CRO),02 MAY 2015,,hammer-throw-6kg,throws,male,u20
-494,75.90,,Bence HALÁSZ,04 AUG 1997,HUN,1,Miskolc (HUN),27 JUN 2015,,hammer-throw-6kg,throws,male,u20
-494,75.90,,Dzianis SHABASAU,27 MAR 2000,BLR,1,Brest (BLR),26 APR 2019,,hammer-throw-6kg,throws,male,u20
-494,75.90,,Merlin HUMMEL,04 JAN 2002,GER,1,"Dantestadion, München (GER)",09 MAY 2021,,hammer-throw-6kg,throws,male,u20
-494,75.90,,Aatu KANGASNIEMI,25 FEB 2006,FIN,1,"Eläintarhan urheilukenttä, Helsinki (FIN)",19 MAY 2025,,hammer-throw-6kg,throws,male,u20
-502,75.88,,Conor MCCULLOUGH,31 JAN 1991,USA,2,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",12 JUL 2008,,hammer-throw-6kg,throws,male,u20
-502,75.88,,Richard OLBRICH,07 APR 1990,GER,1,Rhede (GER),08 AUG 2009,,hammer-throw-6kg,throws,male,u20
-502,75.88,,Alexei MIKHAILOV,12 APR 1996,GER,4,"Hayward Field, Eugene, OR (USA)",25 JUL 2014,,hammer-throw-6kg,throws,male,u20
-502,75.88,,Humberto MANSILLA,22 MAY 1996,CHI,2,Buenos Aires (ARG),27 MAR 2015,,hammer-throw-6kg,throws,male,u20
-502,75.88,,Aaron KANGAS,03 JUL 1997,FIN,2,Nurmijärvi (FIN),14 JUN 2016,,hammer-throw-6kg,throws,male,u20
-502,75.88,,Merlin HUMMEL,04 JAN 2002,GER,1,"Sportplatz Allee der Kosmonauten 131, Berlin-Marzhan, Berlin (GER)",27 JUN 2020,,hammer-throw-6kg,throws,male,u20
-502,75.88,,Miklós CSEKŐ,25 MAR 2004,HUN,1,"Egyetemi Stadion, Veszprém (HUN)",07 MAY 2022,,hammer-throw-6kg,throws,male,u20
-502,75.88,,Max LAMPINEN,11 OCT 2004,FIN,1,"Tammelan urheilukenttä, Tammela (FIN)",10 JUN 2023,,hammer-throw-6kg,throws,male,u20
-510,75.87,,Matthew DENNY,02 JUN 1996,AUS,1,Gold Coast (AUS),28 JUN 2014,,hammer-throw-6kg,throws,male,u20
-510,75.87,,Dániel RÁBA,24 APR 1998,HUN,2,Miskolc (HUN),01 JUL 2016,,hammer-throw-6kg,throws,male,u20
-510,75.87,,Miklós CSEKŐ,25 MAR 2004,HUN,1,"Egyetemi Stadion, Veszprém (HUN)",17 JUN 2023,,hammer-throw-6kg,throws,male,u20
-513,75.86,,Kristóf NÉMETH,17 SEP 1987,HUN,1,Budapest (HUN),08 MAY 2005,,hammer-throw-6kg,throws,male,u20
-514,75.85,,Kirill IKONNIKOV,05 MAR 1984,RUS,1,"Adler, Sochi (RUS)",22 FEB 2003,,hammer-throw-6kg,throws,male,u20
-514,75.85,,Ilya TERENTEV,25 JAN 1995,RUS,2,Krasnodar (RUS),19 MAY 2014,,hammer-throw-6kg,throws,male,u20
-514,75.85,,Mykhailo HAVRYLIUK,19 JAN 1999,UKR,2,Lutsk (UKR),26 JUN 2017,,hammer-throw-6kg,throws,male,u20
-517,75.84,,Marcel LOMNICKÝ,06 JUL 1987,SVK,1,Schwechat (AUT),04 JUN 2006,,hammer-throw-6kg,throws,male,u20
-518,75.83,,Serhiy REHEDA,06 FEB 1994,UKR,1,Kyiv (UKR),19 MAY 2012,,hammer-throw-6kg,throws,male,u20
-518,75.83,,Igor BURIY,08 APR 1993,RUS,5,"Estadio Olímpico, Barcelona (ESP)",14 JUL 2012,,hammer-throw-6kg,throws,male,u20
-520,75.82,,Angelos MANTZOURANIS,01 MAY 2004,GRE,1,"National Stadium, Serres (GRE)",24 MAY 2023,,hammer-throw-6kg,throws,male,u20
-521,75.81,,Aliaksandr SHYMANOVICH,09 FEB 1998,BLR,1q2,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",20 JUL 2016,,hammer-throw-6kg,throws,male,u20
-522,75.80,,Matthew DENNY,02 JUN 1996,AUS,1,Sydney (AUS),14 MAR 2015,,hammer-throw-6kg,throws,male,u20
-522,75.80,,Aliaksandr SHYMANOVICH,09 FEB 1998,BLR,1,Zhirovichi (BLR),08 JUL 2016,,hammer-throw-6kg,throws,male,u20
-524,75.79,,Yuriy KUZIV,29 MAY 1996,RUS,1,"Adler, Sochi (RUS)",23 APR 2015,,hammer-throw-6kg,throws,male,u20
-525,75.78,,Aliaksandr SHYMANOVICH,09 FEB 1998,BLR,1,Minsk (BLR),09 JUN 2016,,hammer-throw-6kg,throws,male,u20
-525,75.78,,Aatu KANGASNIEMI,25 FEB 2006,FIN,1,"Nikkilän keskusurheilukenttä, Sipoo (FIN)",24 JUL 2024,,hammer-throw-6kg,throws,male,u20
-527,75.77,,Joaquin GOMEZ,14 OCT 1996,ARG,2q2,"Hayward Field, Eugene, OR (USA)",24 JUL 2014,,hammer-throw-6kg,throws,male,u20
-527,75.77,,Bence HALÁSZ,04 AUG 1997,HUN,1,Szombathely (HUN),17 JUN 2015,,hammer-throw-6kg,throws,male,u20
-529,75.76,,Dawid PIŁAT,06 FEB 2002,POL,1,"Stadion MOSiR, Stalowa Wola (POL)",28 AUG 2021,,hammer-throw-6kg,throws,male,u20
-530,75.74,,Bence PÁSZTOR,05 FEB 1995,HUN,1,Veszprém (HUN),13 JUN 2013,,hammer-throw-6kg,throws,male,u20
-530,75.74,,Christos FRANTZESKAKIS,26 APR 2000,GRE,1q2,"Ryavallen, Borås (SWE)",18 JUL 2019,,hammer-throw-6kg,throws,male,u20
-530,75.74,,Tomasz RATAJCZYK,20 SEP 2002,POL,1,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",26 JUL 2020,,hammer-throw-6kg,throws,male,u20
-530,75.74,,Tomasz RATAJCZYK,20 SEP 2002,POL,1,"Stadion MOSiR, Lublin (POL)",08 MAY 2021,,hammer-throw-6kg,throws,male,u20
-534,75.73,,Daniil DANILOV,05 JAN 1998,RUS,1,"Adler, Sochi (RUS)",11 FEB 2016,,hammer-throw-6kg,throws,male,u20
-535,75.72,,Werner SMIT,14 SEP 1984,RSA,1,"Parow, Cape Town (RSA)",19 DEC 2003,,hammer-throw-6kg,throws,male,u20
-535,75.72,,Kristóf NÉMETH,17 SEP 1987,HUN,1,Szombathely (HUN),02 APR 2005,,hammer-throw-6kg,throws,male,u20
-537,75.71,,Mohsen ANANI,21 MAY 1985,EGY,1,Cairo (EGY),22 AUG 2003,,hammer-throw-6kg,throws,male,u20
-537,75.71,,Matija GREGURIĆ,17 SEP 1996,CRO,5,"Hayward Field, Eugene, OR (USA)",25 JUL 2014,,hammer-throw-6kg,throws,male,u20
-537,75.71,,Max LAMPINEN,11 OCT 2004,FIN,1,"Eläintarhan urheilukenttä, Helsinki (FIN)",17 JUL 2023,,hammer-throw-6kg,throws,male,u20
-540,75.70,,Mohsen ANANI,21 MAY 1985,EGY,1,Cairo (EGY),23 APR 2004,,hammer-throw-6kg,throws,male,u20
-540,75.70,,Ákos HUDI,10 AUG 1991,HUN,1,Veszprém (HUN),12 MAY 2009,,hammer-throw-6kg,throws,male,u20
-540,75.70,,Ákos HUDI,10 AUG 1991,HUN,1,Szombathely (HUN),14 OCT 2010,,hammer-throw-6kg,throws,male,u20
-540,75.70,,Mykhailo HAVRYLIUK,19 JAN 1999,UKR,1,Lutsk (UKR),03 JUN 2018,,hammer-throw-6kg,throws,male,u20
-540,75.70,,Giorgio OLIVIERI,05 NOV 2000,ITA,1,Lucca (ITA),23 FEB 2019,,hammer-throw-6kg,throws,male,u20
-545,75.68,,Jan EMBERŠIČ,06 APR 2003,SLO,2,"Atletski stadion Poljane, Maribor (SLO)",16 JUL 2022,,hammer-throw-6kg,throws,male,u20
-546,75.67,,Bence HALÁSZ,04 AUG 1997,HUN,1,Veszprém (HUN),08 JUN 2014,,hammer-throw-6kg,throws,male,u20
-547,75.66,,Bence PÁSZTOR,05 FEB 1995,HUN,1,Budapest (HUN),02 JUN 2012,,hammer-throw-6kg,throws,male,u20
-548,75.65,,Mohsen ANANI,21 MAY 1985,EGY,,Szombathely (HUN),12 JUN 2004,,hammer-throw-6kg,throws,male,u20
-548,75.65,,Kristóf NÉMETH,17 SEP 1987,HUN,1,Budapest (HUN),05 MAR 2005,,hammer-throw-6kg,throws,male,u20
-548,75.65,,Hilmar Örn JÓNSSON,06 MAY 1996,ISL,1,Mannheim (GER),05 JUL 2014,,hammer-throw-6kg,throws,male,u20
-551,75.63,,Taylor CAMPBELL,30 JUN 1996,GBR,6,"Ekängens Friidrottsarena, Eskilstuna (SWE)",17 JUL 2015,,hammer-throw-6kg,throws,male,u20
-551,75.63,,Merlin HUMMEL,04 JAN 2002,GER,1,"Sportzentrum, Wiesau (GER)",25 JAN 2020,,hammer-throw-6kg,throws,male,u20
-551,75.63,,Jan DOLEŽÁLEK,23 MAY 2002,CZE,1,Nové Město nad Metují (CZE),29 AUG 2020,,hammer-throw-6kg,throws,male,u20
-554,75.62,,Aaron FISH,27 FEB 1981,AUS,1,Brisbane (AUS),03 SEP 2000,,hammer-throw-6kg,throws,male,u20
-554,75.62,,Mikhail LEVIN,10 APR 1986,RUS,2,Toulouse (FRA),06 MAR 2004,,hammer-throw-6kg,throws,male,u20
-554,75.62,,Aliaksandr SHYMANOVICH,09 FEB 1998,BLR,1,Brno (CZE),16 SEP 2017,,hammer-throw-6kg,throws,male,u20
-554,75.62,,Valentin ANDREEV,19 JAN 2002,BUL,2q1,"Kadrioru staadion, Tallinn (EST)",15 JUL 2021,,hammer-throw-6kg,throws,male,u20
-558,75.61,,Siarhei KALAMOYETS,11 AUG 1989,BLR,1,Brest (BLR),25 APR 2008,,hammer-throw-6kg,throws,male,u20
-558,75.61,,Bence PÁSZTOR,05 FEB 1995,HUN,1q1,"Stadio Guidobaldi, Rieti (ITA)",18 JUL 2013,,hammer-throw-6kg,throws,male,u20
-560,75.60,,Ákos HUDI,10 AUG 1991,HUN,2,Budapest (HUN),22 MAY 2010,,hammer-throw-6kg,throws,male,u20
-560,75.60,,Joelvis HERNÁNDEZ,17 SEP 1991,CUB,1,La Habana (CUB),12 JUN 2010,,hammer-throw-6kg,throws,male,u20
-560,75.60,,Serhiy REHEDA,06 FEB 1994,UKR,1,Yalta (UKR),28 MAR 2013,,hammer-throw-6kg,throws,male,u20
-560,75.60,,Aleksi JAAKKOLA,17 NOV 1997,FIN,1,Kankaanpää (FIN),26 MAY 2015,,hammer-throw-6kg,throws,male,u20
-560,75.60,,Aliaksandr SHYMANOVICH,09 FEB 1998,BLR,1,Lutsk (UKR),13 MAY 2017,,hammer-throw-6kg,throws,male,u20
-560,75.60,,Aliaksandr SHYMANOVICH,09 FEB 1998,BLR,1,Brest (BLR),28 JUN 2017,,hammer-throw-6kg,throws,male,u20
-560,75.60,,Ethan KATZBERG,05 APR 2002,CAN,1,"Cowichan Sportsplex, Duncan (CAN)",12 MAY 2021,,hammer-throw-6kg,throws,male,u20
-567,75.59,,Guram FEROYEV,08 OCT 1983,RUS,1,Kazan (RUS),26 JUN 2002,,hammer-throw-6kg,throws,male,u20
-567,75.59,,Ákos HUDI,10 AUG 1991,HUN,1,Székesfehérvár (HUN),27 JUN 2009,,hammer-throw-6kg,throws,male,u20
-567,75.59,,Alaa EL ASHRY,06 JAN 1991,EGY,1,Bambous (MRI),31 JUL 2009,,hammer-throw-6kg,throws,male,u20
-567,75.59,,Dawid PIŁAT,06 FEB 2002,POL,1,"Stadion Juwenia, Przemyśl (POL)",27 JUN 2020,,hammer-throw-6kg,throws,male,u20
-571,75.58,,Yevgeniy AYDAMIROV,11 MAY 1987,RUS,1q,Tula (RUS),02 JUL 2005,,hammer-throw-6kg,throws,male,u20
-572,75.57,,Ilya TERENTEV,25 JAN 1995,RUS,1,Sochi (RUS),23 APR 2014,,hammer-throw-6kg,throws,male,u20
-573,75.56,,Matija GREGURIĆ,17 SEP 1996,CRO,1,Varaždin (CRO),28 JUN 2015,,hammer-throw-6kg,throws,male,u20
-574,75.55,,Conor MCCULLOUGH,31 JAN 1991,USA,1,"Walnut, CA (USA)",15 JUN 2008,,hammer-throw-6kg,throws,male,u20
-575,75.54,,Merlin HUMMEL,04 JAN 2002,GER,1,"Hammerwurf-Anlage KSV Fürth, Fürth (GER)",22 AUG 2020,,hammer-throw-6kg,throws,male,u20
-576,75.53,,Serghei MARGHIEV,06 NOV 1992,MDA,1,Chisinau (MDA),05 FEB 2011,,hammer-throw-6kg,throws,male,u20
-576,75.53,,Ashraf ELSEIFY,20 FEB 1995,QAT,1,Doha (QAT),06 APR 2014,,hammer-throw-6kg,throws,male,u20
-578,75.52,,Alberto GONZÁLEZ,01 JUN 1998,ESP,5,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",22 JUL 2016,,hammer-throw-6kg,throws,male,u20
-578,75.52,,Dániel RÁBA,24 APR 1998,HUN,1,Leiria (POR),29 JUL 2017,,hammer-throw-6kg,throws,male,u20
-580,75.51,,Alaa EL ASHRY,06 JAN 1991,EGY,1,Cairo (EGY),06 MAY 2010,,hammer-throw-6kg,throws,male,u20
-580,75.51,,Bence PÁSZTOR,05 FEB 1995,HUN,1,Veszprém (HUN),17 SEP 2014,,hammer-throw-6kg,throws,male,u20
-582,75.50,,Kristóf NÉMETH,17 SEP 1987,HUN,2,Schwechat (AUT),04 JUN 2006,,hammer-throw-6kg,throws,male,u20
-582,75.50,,Hilmar Örn JÓNSSON,06 MAY 1996,ISL,1,Hafnarfjördur (ISL),06 MAY 2015,,hammer-throw-6kg,throws,male,u20
-584,75.49,,Bence HALÁSZ,04 AUG 1997,HUN,1,Szombathely (HUN),02 JUL 2014,,hammer-throw-6kg,throws,male,u20
-584,75.49,,Bence HALÁSZ,04 AUG 1997,HUN,1,Szombathely (HUN),18 APR 2015,,hammer-throw-6kg,throws,male,u20
-586,75.48,,Alexander ZIEGLER,07 JUL 1987,GER,1f,Heidenheim (GER),01 JUL 2006,,hammer-throw-6kg,throws,male,u20
-586,75.48,,Yuriy KUZIV,29 MAY 1996,RUS,2,"Yunost Stadium, Adler, Sochi (RUS)",23 FEB 2015,,hammer-throw-6kg,throws,male,u20
-588,75.47,,Raman ZHOLUDZEU,08 JAN 1996,BLR,1,Brest (BLR),29 APR 2015,,hammer-throw-6kg,throws,male,u20
-589,75.46,,Andriy MARTYNYUK,23 SEP 1990,UKR,1,Yalta (UKR),16 JUN 2008,,hammer-throw-6kg,throws,male,u20
-590,75.45,,Dániel SZABÓ,28 JUN 1991,HUN,1,Szombathely (HUN),14 MAY 2010,,hammer-throw-6kg,throws,male,u20
-591,75.44,,Yann CHAUSSINAND,11 MAY 1998,FRA,1,Dreux (FRA),02 JUL 2017,,hammer-throw-6kg,throws,male,u20
-592,75.43,,Igor SERGEEV,07 AUG 1989,RUS,1,Zhukovskiy (RUS),29 JUN 2007,,hammer-throw-6kg,throws,male,u20
-592,75.43,,Miguel Alberto BLANCO,22 FEB 1996,ESP,1,Valladolid (ESP),05 JUL 2015,,hammer-throw-6kg,throws,male,u20
-592,75.43,,Donát VARGA,08 APR 2000,HUN,1,Miskolc (HUN),10 JUN 2018,,hammer-throw-6kg,throws,male,u20
-592,75.43,,Valentin ANDREEV,19 JAN 2002,BUL,2q1,"Ryavallen, Borås (SWE)",18 JUL 2019,,hammer-throw-6kg,throws,male,u20
-596,75.42,,Aleh DUBITSKI,19 OCT 1990,BLR,3,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",12 JUL 2008,,hammer-throw-6kg,throws,male,u20
-596,75.42,,Georgios PAPANASTASIOU,09 DEC 2005,GRE,1,"National Stadium, Serres (GRE)",22 MAY 2024,,hammer-throw-6kg,throws,male,u20
-598,75.41,,Igor YEVSEYEV,27 MAR 1996,RUS,2,Cheboksary (RUS),26 JUN 2015,,hammer-throw-6kg,throws,male,u20
-599,75.40,,Michail ANASTASAKIS,03 DEC 1994,GRE,1,Larisa (GRE),29 JUN 2013,,hammer-throw-6kg,throws,male,u20
-599,75.40,,Donát VARGA,08 APR 2000,HUN,1,Szombathely (HUN),18 MAY 2019,,hammer-throw-6kg,throws,male,u20
-600,75.40,,Donát VARGA,08 APR 2000,HUN,1,Szombathely (HUN),18 MAY 2019,,hammer-throw-6kg,throws,male,u20
-602,75.39,,Ilya TERENTEV,25 JAN 1995,RUS,3q2,"Hayward Field, Eugene, OR (USA)",24 JUL 2014,,hammer-throw-6kg,throws,male,u20
-603,75.38,,Giorgio OLIVIERI,05 NOV 2000,ITA,2q2,"Ryavallen, Borås (SWE)",18 JUL 2019,,hammer-throw-6kg,throws,male,u20
-604,75.37,,Joaquin GOMEZ,14 OCT 1996,ARG,1,Buenos Aires (ARG),28 JUN 2014,,hammer-throw-6kg,throws,male,u20
-605,75.36,,Dániel SZABÓ,28 JUN 1991,HUN,1,Szombathely (HUN),15 JUL 2009,,hammer-throw-6kg,throws,male,u20
-605,75.36,,Jan EMBERŠIČ,06 APR 2003,SLO,1,"Športni center Vinko Cajnko, Slovenj Gradec (SLO)",21 MAY 2022,,hammer-throw-6kg,throws,male,u20
-607,75.35,,Ákos HUDI,10 AUG 1991,HUN,,Szombathely (HUN),26 MAY 2009,,hammer-throw-6kg,throws,male,u20
-607,75.35,,Bence HALÁSZ,04 AUG 1997,HUN,1,Potchefstroom (RSA),20 JAN 2016,,hammer-throw-6kg,throws,male,u20
-607,75.35,,Rowan HAMILTON,29 JAN 2000,CAN,1,San José (CRC),19 JUL 2019,,hammer-throw-6kg,throws,male,u20
-610,75.34,,Jean Baptiste BRUXELLE,09 JUL 2002,FRA,1,"Stade d'Honneur Marcel Roustan, Salon-de-Provence (FRA)",15 FEB 2020,,hammer-throw-6kg,throws,male,u20
-611,75.33,,Miguel Ángel ZAMORA,25 JAN 1999,CUB,1,La Habana (CUB),19 MAY 2018,,hammer-throw-6kg,throws,male,u20
-611,75.33,,Ármin SZABADOS,11 JAN 2006,HUN,1,"Atlétikai Központ, Szolnok (HUN)",27 JUL 2024,,hammer-throw-6kg,throws,male,u20
-611,75.33,,Roland IMRE,08 SEP 2005,HUN,2,"Estadio Atlético de la VIDENA, Lima (PER)",29 AUG 2024,,hammer-throw-6kg,throws,male,u20
-614,75.32,,Kristóf NÉMETH,17 SEP 1987,HUN,1,Szombathely (HUN),11 OCT 2006,,hammer-throw-6kg,throws,male,u20
-614,75.32,,Jan EMBERŠIČ,06 APR 2003,SLO,,"Stadion Park Mladeži, Split (CRO)",06 MAR 2022,,hammer-throw-6kg,throws,male,u20
-614,75.32,,Max LAMPINEN,11 OCT 2004,FIN,1q1,"Pascual Guerrero Stadium, Cali (COL)",02 AUG 2022,,hammer-throw-6kg,throws,male,u20
-617,75.31,,Paweł FAJDEK,04 JUN 1989,POL,4,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",12 JUL 2008,,hammer-throw-6kg,throws,male,u20
-618,75.30,,Yevhen VINOHRADOV,30 APR 1984,UKR,1,Kyiv (UKR),03 JUN 2003,,hammer-throw-6kg,throws,male,u20
-618,75.30,,Conor MCCULLOUGH,31 JAN 1991,USA,1,"Eugene, OR (USA)",26 JUN 2009,,hammer-throw-6kg,throws,male,u20
-620,75.29,,Hilmar Örn JÓNSSON,06 MAY 1996,ISL,1,Reykjavík (ISL),11 JUN 2014,,hammer-throw-6kg,throws,male,u20
-620,75.29,,Miklós CSEKŐ,25 MAR 2004,HUN,1,"Egyetemi Stadion, Veszprém (HUN)",27 MAY 2023,,hammer-throw-6kg,throws,male,u20
-622,75.28,,Peter SMITH,20 JUL 1990,GBR,1,"Sportcity Regional Arena, Manchester (GBR)",20 JUN 2009,,hammer-throw-6kg,throws,male,u20
-622,75.28,,Hilmar Örn JÓNSSON,06 MAY 1996,ISL,1,Hafnarfjördur (ISL),04 MAY 2015,,hammer-throw-6kg,throws,male,u20
-622,75.28,,Tomasz RATAJCZYK,20 SEP 2002,POL,1,"Stadion MOSiR, Lublin (POL)",04 JUL 2021,,hammer-throw-6kg,throws,male,u20
-625,75.27,,Hilmar Örn JÓNSSON,06 MAY 1996,ISL,1,Hafnarfjördur (ISL),21 MAY 2014,,hammer-throw-6kg,throws,male,u20
-625,75.27,,Jan DOLEŽÁLEK,23 MAY 2002,CZE,5,"Kadrioru staadion, Tallinn (EST)",16 JUL 2021,,hammer-throw-6kg,throws,male,u20
-627,75.26,,Ilmari LAHTINEN,12 OCT 1993,FIN,6,"Estadio Olímpico, Barcelona (ESP)",14 JUL 2012,,hammer-throw-6kg,throws,male,u20
-627,75.26,,Matthew DENNY,02 JUN 1996,AUS,1,Gold Coast (AUS),08 NOV 2014,,hammer-throw-6kg,throws,male,u20
-627,75.26,,Roland IMRE,08 SEP 2005,HUN,2q1,"Estadio Atlético de la VIDENA, Lima (PER)",27 AUG 2024,,hammer-throw-6kg,throws,male,u20
-630,75.25,,Aaron KANGAS,03 JUL 1997,FIN,1,Raasepori (FIN),12 JUN 2016,,hammer-throw-6kg,throws,male,u20
-631,75.24,,Dániel SZABÓ,28 JUN 1991,HUN,2f1,Veszprém (HUN),01 MAY 2010,,hammer-throw-6kg,throws,male,u20
-631,75.24,,Miklós CSEKŐ,25 MAR 2004,HUN,1,"Egyetemi Stadion, Veszprém (HUN)",01 APR 2023,,hammer-throw-6kg,throws,male,u20
-633,75.23,,Ragnar CARLSSON,16 NOV 2000,SWE,1,Copenhagen (DEN),11 AUG 2018,,hammer-throw-6kg,throws,male,u20
-633,75.23,,Miklós CSEKŐ,25 MAR 2004,HUN,1,"Atletický stadion města Plzně, Plzeň (CZE)",03 JUN 2023,,hammer-throw-6kg,throws,male,u20
-635,75.22,,Alexei MIKHAILOV,12 APR 1996,GER,1,"Wattenscheid, Bochum (GER)",10 AUG 2014,,hammer-throw-6kg,throws,male,u20
-635,75.22,,Aleksi JAAKKOLA,17 NOV 1997,FIN,1,Kaustinen (FIN),25 JUN 2015,,hammer-throw-6kg,throws,male,u20
-637,75.21,,Aatu KANGASNIEMI,25 FEB 2006,FIN,1,"Peltosaaren yleisurheilukenttä, Riihimäki (FIN)",03 AUG 2024,,hammer-throw-6kg,throws,male,u20
-638,75.20,,Bence PÁSZTOR,05 FEB 1995,HUN,1,Veszprém (HUN),19 SEP 2013,,hammer-throw-6kg,throws,male,u20
-638,75.20,,Hilmar Örn JÓNSSON,06 MAY 1996,ISL,1,Hafnarfjördur (ISL),07 JUN 2014,,hammer-throw-6kg,throws,male,u20
-640,75.19,,Joaquin GOMEZ,14 OCT 1996,ARG,1,Buenos Aires (ARG),22 NOV 2014,,hammer-throw-6kg,throws,male,u20
-640,75.19,,Jan DOLEŽÁLEK,23 MAY 2002,CZE,1,"Městský atletický stadion, Pardubice (CZE)",05 JUN 2021,,hammer-throw-6kg,throws,male,u20
-642,75.18,,Andriy MARTYNYUK,23 SEP 1990,UKR,1,Kyiv (UKR),30 MAY 2008,,hammer-throw-6kg,throws,male,u20
-642,75.18,,Aleh DUBITSKI,19 OCT 1990,BLR,2,Minsk (BLR),07 JUN 2008,,hammer-throw-6kg,throws,male,u20
-642,75.18,,Christos FRANTZESKAKIS,26 APR 2000,GRE,1,Thessaloniki (GRE),17 MAR 2018,,hammer-throw-6kg,throws,male,u20
-642,75.18,,Ragnar CARLSSON,16 NOV 2000,SWE,2q1,"Ratinan Stadion, Tampere (FIN)",11 JUL 2018,,hammer-throw-6kg,throws,male,u20
-646,75.16,,Quentin BIGOT,01 DEC 1992,FRA,1,Tours (FRA),26 FEB 2011,,hammer-throw-6kg,throws,male,u20
-646,75.16,,Alexandros POURSANIDIS,23 JAN 1993,CYP,1q2,"Estadio Olímpico, Barcelona (ESP)",13 JUL 2012,,hammer-throw-6kg,throws,male,u20
-646,75.16,,Ahmed Tarek ISMAIL,18 OCT 1997,EGY,1,Hainfeld (AUT),18 MAY 2016,,hammer-throw-6kg,throws,male,u20
-649,75.15,,Kirill IKONNIKOV,05 MAR 1984,RUS,2,Kazan (RUS),26 JUN 2002,,hammer-throw-6kg,throws,male,u20
-649,75.15,,Michail ANASTASAKIS,03 DEC 1994,GRE,1,Iraklio (GRE),25 MAY 2013,,hammer-throw-6kg,throws,male,u20
-651,75.14,,Richard OLBRICH,07 APR 1990,GER,f,Schwiegershausen (GER),28 MAR 2009,,hammer-throw-6kg,throws,male,u20
-651,75.14,,Ethan KATZBERG,05 APR 2002,CAN,1,"Rotary Bowl, Nanaimo (CAN)",16 MAY 2021,,hammer-throw-6kg,throws,male,u20
-651,75.14,,Jan DOLEŽÁLEK,23 MAY 2002,CZE,1q2,"Kadrioru staadion, Tallinn (EST)",15 JUL 2021,,hammer-throw-6kg,throws,male,u20
-651,75.14,,Zixu LI,11 JUN 2005,CHN,1,Nanping (CHN),17 AUG 2023,,hammer-throw-6kg,throws,male,u20
-655,75.12,,Hilmar Örn JÓNSSON,06 MAY 1996,ISL,3,Halle (GER),16 MAY 2015,,hammer-throw-6kg,throws,male,u20
-655,75.12,,Max LAMPINEN,11 OCT 2004,FIN,1,"Hiekkaharjun urheilupuisto, Vantaa (FIN)",17 SEP 2023,,hammer-throw-6kg,throws,male,u20
-657,75.11,,Angelos MANTZOURANIS,01 MAY 2004,GRE,3,"National Stadium, Serres (GRE)",09 JUL 2022,,hammer-throw-6kg,throws,male,u20
-658,75.10,,Matthew DENNY,02 JUN 1996,AUS,1,Brisbane (AUS),14 JUN 2014,,hammer-throw-6kg,throws,male,u20
-659,75.09,,Tuomas SEPPÄNEN,16 MAY 1986,FIN,1,Pori (FIN),10 SEP 2005,,hammer-throw-6kg,throws,male,u20
-659,75.09,,Dániel RÁBA,24 APR 1998,HUN,2q2,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",20 JUL 2016,,hammer-throw-6kg,throws,male,u20
-661,75.08,,Tarik O'HAGAN,25 NOV 2003,USA,1,"Hayward Field, Eugene, OR (USA)",23 JUN 2022,,hammer-throw-6kg,throws,male,u20
-662,75.07,,Dakai QI,23 MAY 1987,CHN,1,Luohe (CHN),28 JUN 2006,,hammer-throw-6kg,throws,male,u20
-662,75.07,,Ioannis KORAKIDIS,23 JUN 2003,GRE,1q2,"Pascual Guerrero Stadium, Cali (COL)",02 AUG 2022,,hammer-throw-6kg,throws,male,u20
-664,75.06,,Aleksi JAAKKOLA,17 NOV 1997,FIN,3q2,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",20 JUL 2016,,hammer-throw-6kg,throws,male,u20
-665,75.05,,Dawid PIŁAT,06 FEB 2002,POL,1,"Stadium Irena Szewińska, Karpacz (POL)",20 SEP 2020,,hammer-throw-6kg,throws,male,u20
-666,75.04,,Andriy MARTYNYUK,23 SEP 1990,UKR,1,Yalta (UKR),25 MAR 2008,,hammer-throw-6kg,throws,male,u20
-666,75.04,,Ashish JAKHAR,05 JAN 1999,IND,1,Coimbatore (IND),22 APR 2018,,hammer-throw-6kg,throws,male,u20
-668,75.02,,Kamilius BETHKE,21 FEB 1985,GER,f,Leverkusen (GER),29 AUG 2004,,hammer-throw-6kg,throws,male,u20
-668,75.02,,Matthew DENNY,02 JUN 1996,AUS,1,Brisbane (AUS),07 FEB 2014,,hammer-throw-6kg,throws,male,u20
-668,75.02,,Matthew DENNY,02 JUN 1996,AUS,1,Brisbane (AUS),01 MAR 2014,,hammer-throw-6kg,throws,male,u20
-671,75.01,,Aleksandr KOZULKO,08 DEC 1983,BLR,1q2,"National Stadium, Kingston (JAM)",16 JUL 2002,,hammer-throw-6kg,throws,male,u20
-672,75.00,,Andriy MARTYNYUK,23 SEP 1990,UKR,1,Yalta (UKR),19 FEB 2009,,hammer-throw-6kg,throws,male,u20
-672,75.00,,Aatu KANGASNIEMI,25 FEB 2006,FIN,1,"Nikkilän keskusurheilukenttä, Sipoo (FIN)",26 MAY 2025,,hammer-throw-6kg,throws,male,u20
+7,83.25,,Ármin SZABADOS,11 JAN 2006,HUN,1,"Sportcentrum, Pápa (HUN)",30 AUG 2025,,hammer-throw-6kg,throws,male,u20
+8,82.97,,Javier CIENFUEGOS,15 JUL 1990,ESP,1,Madrid (ESP),17 JUN 2009,,hammer-throw-6kg,throws,male,u20
+9,82.93,,Ármin SZABADOS,11 JAN 2006,HUN,1,"Egyetemi Stadion, Veszprém (HUN)",26 APR 2025,,hammer-throw-6kg,throws,male,u20
+10,82.91,,Ármin SZABADOS,11 JAN 2006,HUN,1f1,"Ratinan Stadion, Tampere (FIN)",08 AUG 2025,,hammer-throw-6kg,throws,male,u20
+11,82.84,,Quentin BIGOT,01 DEC 1992,FRA,1f1,Bondoufle (FRA),15 OCT 2011,,hammer-throw-6kg,throws,male,u20
+12,82.80,,Iosif KESIDIS,19 AUG 2005,CYP,1,"Estadio Atlético de la VIDENA, Lima (PER)",29 AUG 2024,,hammer-throw-6kg,throws,male,u20
+13,82.64,,Bence HALÁSZ,04 AUG 1997,HUN,1,Szombathely (HUN),25 JUN 2016,,hammer-throw-6kg,throws,male,u20
+14,82.62,,Yevgeniy AYDAMIROV,11 MAY 1987,RUS,1,Tula (RUS),22 JUL 2006,,hammer-throw-6kg,throws,male,u20
+15,82.22,,Ashraf ELSEIFY,20 FEB 1995,QAT,1,Doha (QAT),23 APR 2012,,hammer-throw-6kg,throws,male,u20
+16,81.76,,Bence HALÁSZ,04 AUG 1997,HUN,1,Szombathely (HUN),01 MAY 2016,,hammer-throw-6kg,throws,male,u20
+17,81.75,,Hlib PISKUNOV,25 NOV 1998,UKR,1,"Stadio Zecchini, Grosseto (ITA)",21 JUL 2017,,hammer-throw-6kg,throws,male,u20
+18,81.74,,Bence HALÁSZ,04 AUG 1997,HUN,1,Szombathely (HUN),08 JUN 2016,,hammer-throw-6kg,throws,male,u20
+19,81.73,,Aliaksandr SHYMANOVICH,09 FEB 1998,BLR,1,Brest (BLR),28 APR 2017,,hammer-throw-6kg,throws,male,u20
+20,81.62,,Christos FRANTZESKAKIS,26 APR 2000,GRE,1,Tripoli (GRE),11 MAY 2019,,hammer-throw-6kg,throws,male,u20
+21,81.34,,Krisztián PARS,18 FEB 1982,HUN,1,Szombathely (HUN),02 SEP 2001,,hammer-throw-6kg,throws,male,u20
+22,81.32,,Hlib PISKUNOV,25 NOV 1998,UKR,1,Halle (GER),20 MAY 2017,,hammer-throw-6kg,throws,male,u20
+22,81.32,,Christos FRANTZESKAKIS,26 APR 2000,GRE,1,Tripoli (GRE),05 MAY 2018,,hammer-throw-6kg,throws,male,u20
+24,81.21,,Bence HALÁSZ,04 AUG 1997,HUN,1,Potchefstroom (RSA),22 APR 2016,,hammer-throw-6kg,throws,male,u20
+24,81.21,,Merlin HUMMEL,04 JAN 2002,GER,1,"Fuchs-Park-Stadion, Bamberg (GER)",26 JUN 2021,,hammer-throw-6kg,throws,male,u20
+26,81.17,,Merlin HUMMEL,04 JAN 2002,GER,1,"Michael-Hoffmann-Stadion, Mannheim (GER)",03 JUL 2021,,hammer-throw-6kg,throws,male,u20
+27,81.16,,Özkan BALTACI,13 FEB 1994,TUR,1,Ankara (TUR),31 JUL 2013,,hammer-throw-6kg,throws,male,u20
+27,81.16,,Bence HALÁSZ,04 AUG 1997,HUN,1,Veszprém (HUN),12 JUN 2016,,hammer-throw-6kg,throws,male,u20
+29,81.15,,Ákos HUDI,10 AUG 1991,HUN,1,Veszprém (HUN),07 JUL 2010,,hammer-throw-6kg,throws,male,u20
+30,81.11,,Mykhaylo KOKHAN,22 JAN 2001,UKR,1,Lutsk (UKR),29 JUN 2019,,hammer-throw-6kg,throws,male,u20
+31,81.07,,Iosif KESIDIS,19 AUG 2005,CYP,,"Municipal Stadium, Trikala (GRE)",27 JUL 2024,,hammer-throw-6kg,throws,male,u20
+32,81.06,,Merlin HUMMEL,04 JAN 2002,GER,1,"Stadion Hassloch, Hassloch (GER)",15 AUG 2021,,hammer-throw-6kg,throws,male,u20
+33,81.04,,Werner SMIT,14 SEP 1984,RSA,1,Bellville (RSA),29 MAR 2003,,hammer-throw-6kg,throws,male,u20
+34,81.02,,Ármin SZABADOS,11 JAN 2006,HUN,1,"Atlétikai Központ, Szolnok (HUN)",06 JUL 2025,,hammer-throw-6kg,throws,male,u20
+35,80.94,,Jean Baptiste BRUXELLE,09 JUL 2002,FRA,1,"Stade R. Bobin, Bondoufle (FRA)",10 JUL 2021,,hammer-throw-6kg,throws,male,u20
+36,80.93,,Bence HALÁSZ,04 AUG 1997,HUN,1,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",22 JUL 2016,,hammer-throw-6kg,throws,male,u20
+37,80.89,,Bence HALÁSZ,04 AUG 1997,HUN,1,Halle (GER),21 MAY 2016,,hammer-throw-6kg,throws,male,u20
+37,80.89,,Christos FRANTZESKAKIS,26 APR 2000,GRE,1,Katerini (GRE),22 JUN 2019,,hammer-throw-6kg,throws,male,u20
+39,80.85,,Ashraf ELSEIFY,20 FEB 1995,QAT,1,Colombo (SRI),09 JUN 2012,,hammer-throw-6kg,throws,male,u20
+40,80.79,,Conor MCCULLOUGH,31 JAN 1991,USA,1,"Croix-Bleue Medavie Stadium, Moncton (CAN)",25 JUL 2010,,hammer-throw-6kg,throws,male,u20
+41,80.78,,Ármin SZABADOS,11 JAN 2006,HUN,1,"Bodosi Mihály Atlétikai Pálya, Kaposvár (HUN)",19 JUL 2025,,hammer-throw-6kg,throws,male,u20
+42,80.77,,Bence HALÁSZ,04 AUG 1997,HUN,1,Tapolca (HUN),06 AUG 2016,,hammer-throw-6kg,throws,male,u20
+43,80.73,,Merlin HUMMEL,04 JAN 2002,GER,1f2,"Sportfreianlage, Dissen (GER)",05 SEP 2021,,hammer-throw-6kg,throws,male,u20
+44,80.70,,Valeriy PRONKIN,15 JUN 1994,RUS,1,"Adler, Sochi (RUS)",23 APR 2013,,hammer-throw-6kg,throws,male,u20
+45,80.68,,Ármin SZABADOS,11 JAN 2006,HUN,1q2,"Ratinan Stadion, Tampere (FIN)",07 AUG 2025,,hammer-throw-6kg,throws,male,u20
+46,80.67,,Andriy MARTYNYUK,23 SEP 1990,UKR,1,Donetsk (UKR),23 JUN 2009,,hammer-throw-6kg,throws,male,u20
+47,80.65,,Jake NORRIS,30 JUN 1999,GBR,1,"Ratinan Stadion, Tampere (FIN)",13 JUL 2018,,hammer-throw-6kg,throws,male,u20
+48,80.63,,Jean Baptiste BRUXELLE,09 JUL 2002,FRA,1,"Stade de La Croix-de-Berny, Antony (FRA)",30 MAY 2021,,hammer-throw-6kg,throws,male,u20
+49,80.60,,Hlib PISKUNOV,25 NOV 1998,UKR,1,Lutsk (UKR),26 JUN 2017,,hammer-throw-6kg,throws,male,u20
+50,80.59,,Joaquin GOMEZ,14 OCT 1996,ARG,1,Cuenca (ECU),31 MAY 2015,,hammer-throw-6kg,throws,male,u20
+51,80.54,,Aleksi JAAKKOLA,17 NOV 1997,FIN,1,Nokia (FIN),28 APR 2016,,hammer-throw-6kg,throws,male,u20
+52,80.51,,Andrey AZARENKOV,26 SEP 1985,RUS,1,"Adler, Sochi (RUS)",07 FEB 2004,,hammer-throw-6kg,throws,male,u20
+53,80.50,,Mykhaylo KOKHAN,22 JAN 2001,UKR,1,"Avangard Stadium, Lutsk (UKR)",12 AUG 2020,,hammer-throw-6kg,throws,male,u20
+54,80.48,,Matthew DENNY,02 JUN 1996,AUS,1,Townsville (AUS),25 SEP 2015,,hammer-throw-6kg,throws,male,u20
+54,80.48,,Aleksi JAAKKOLA,17 NOV 1997,FIN,1,Lappeenranta (FIN),06 AUG 2016,,hammer-throw-6kg,throws,male,u20
+56,80.45,,Jake NORRIS,30 JUN 1999,GBR,1,Bedford (GBR),16 JUN 2018,,hammer-throw-6kg,throws,male,u20
+57,80.44,,Merlin HUMMEL,04 JAN 2002,GER,1,"Leichtathletikstadion, Rostock (GER)",30 JUL 2021,,hammer-throw-6kg,throws,male,u20
+58,80.34,,David CHAUSSINAND,19 APR 1973,FRA,1,Aix-les-Bains (FRA),24 OCT 1992,,hammer-throw-6kg,throws,male,u20
+59,80.31,,Valeriy PRONKIN,15 JUN 1994,RUS,1,Kazan (RUS),15 JUN 2013,,hammer-throw-6kg,throws,male,u20
+60,80.29,,Bence PÁSZTOR,05 FEB 1995,HUN,1,Budapest (HUN),15 JUN 2014,,hammer-throw-6kg,throws,male,u20
+61,80.28,,Jake NORRIS,30 JUN 1999,GBR,1,Mannheim (GER),23 JUN 2018,,hammer-throw-6kg,throws,male,u20
+62,80.27,,Andrey AZARENKOV,26 SEP 1985,RUS,1,"Adler, Sochi (RUS)",21 FEB 2004,,hammer-throw-6kg,throws,male,u20
+63,80.26,,Aliaksandr SHYMANOVICH,09 FEB 1998,BLR,1,Minsk (BLR),15 FEB 2017,,hammer-throw-6kg,throws,male,u20
+64,80.25,,Javier CIENFUEGOS,15 JUL 1990,ESP,1,Madrid (ESP),14 MAY 2009,,hammer-throw-6kg,throws,male,u20
+64,80.25,,Bence PÁSZTOR,05 FEB 1995,HUN,1,Halle (GER),17 MAY 2014,,hammer-throw-6kg,throws,male,u20
+66,80.24,,Javier CIENFUEGOS,15 JUL 1990,ESP,1,Madrid (ESP),24 APR 2009,,hammer-throw-6kg,throws,male,u20
+67,80.23,,Bence PÁSZTOR,05 FEB 1995,HUN,1,Slovenj Gradec (SLO),05 JUL 2014,,hammer-throw-6kg,throws,male,u20
+68,80.21,,Humberto MANSILLA,22 MAY 1996,CHI,1,Edmonton (CAN),02 AUG 2015,,hammer-throw-6kg,throws,male,u20
+69,80.12,,Anatoliy POZDNYAKOV,01 FEB 1987,RUS,2,Tula (RUS),22 JUL 2006,,hammer-throw-6kg,throws,male,u20
+69,80.12,,Aleksi JAAKKOLA,17 NOV 1997,FIN,1,Tampere (FIN),20 AUG 2016,,hammer-throw-6kg,throws,male,u20
+71,80.05,,Yevgeniy AYDAMIROV,11 MAY 1987,RUS,1,Tula (RUS),15 JUL 2006,,hammer-throw-6kg,throws,male,u20
+71,80.05,,Christos FRANTZESKAKIS,26 APR 2000,GRE,1,Halle (GER),26 MAY 2018,,hammer-throw-6kg,throws,male,u20
+73,79.99,,Bence PÁSZTOR,05 FEB 1995,HUN,2,"Hayward Field, Eugene, OR (USA)",25 JUL 2014,,hammer-throw-6kg,throws,male,u20
+74,79.98,,Kristóf NÉMETH,17 SEP 1987,HUN,1,Szombathely (HUN),24 JUN 2006,,hammer-throw-6kg,throws,male,u20
+74,79.98,,Ashraf ELSEIFY,20 FEB 1995,QAT,1q1,"Estadio Olímpico, Barcelona (ESP)",13 JUL 2012,,hammer-throw-6kg,throws,male,u20
+76,79.96,,Ashraf ELSEIFY,20 FEB 1995,QAT,1,Doha (QAT),12 MAR 2012,,hammer-throw-6kg,throws,male,u20
+76,79.96,,Alexei MIKHAILOV,12 APR 1996,GER,1,Leverkusen (GER),30 MAY 2015,,hammer-throw-6kg,throws,male,u20
+78,79.93,,Aleksi JAAKKOLA,17 NOV 1997,FIN,1,Hafnarfjördur (ISL),14 AUG 2016,,hammer-throw-6kg,throws,male,u20
+79,79.90,,Merlin HUMMEL,04 JAN 2002,GER,1q1,"Kadrioru staadion, Tallinn (EST)",15 JUL 2021,,hammer-throw-6kg,throws,male,u20
+80,79.88,,Werner SMIT,14 SEP 1984,RSA,1,Pretoria (RSA),06 APR 2003,,hammer-throw-6kg,throws,male,u20
+81,79.86,,Bence HALÁSZ,04 AUG 1997,HUN,1,Halle (GER),16 MAY 2015,,hammer-throw-6kg,throws,male,u20
+82,79.84,,Yevgeniy AYDAMIROV,11 MAY 1987,RUS,1,"Adler, Sochi (RUS)",18 FEB 2006,,hammer-throw-6kg,throws,male,u20
+82,79.84,,Ahmed Tarek ISMAIL,18 OCT 1997,EGY,1,Kapfenberg (AUT),24 JUN 2016,,hammer-throw-6kg,throws,male,u20
+84,79.81,,Hilmar Örn JÓNSSON,06 MAY 1996,ISL,1,Hafnarfjördur (ISL),22 JUL 2015,,hammer-throw-6kg,throws,male,u20
+85,79.80,,Mykhaylo KOKHAN,22 JAN 2001,UKR,1,Antalya (TUR),09 JAN 2020,,hammer-throw-6kg,throws,male,u20
+85,79.80,,Iosif KESIDIS,19 AUG 2005,CYP,1,"Tsirio Stadium, Limassol (CYP)",05 JUL 2024,,hammer-throw-6kg,throws,male,u20
+87,79.76,,Quentin BIGOT,01 DEC 1992,FRA,1,Luxembourg (LUX),08 JUL 2011,,hammer-throw-6kg,throws,male,u20
+88,79.75,,Merlin HUMMEL,04 JAN 2002,GER,1,"Frankenstadion, Heilbronn (GER)",04 SEP 2020,,hammer-throw-6kg,throws,male,u20
+89,79.72,,Valeriy PRONKIN,15 JUN 1994,RUS,1,Krasnodar (RUS),16 MAY 2013,,hammer-throw-6kg,throws,male,u20
+89,79.72,,Max LAMPINEN,11 OCT 2004,FIN,1,"Givat Ram Stadium, Jerusalem (ISR)",09 AUG 2023,,hammer-throw-6kg,throws,male,u20
+91,79.71,,Ashraf ELSEIFY,20 FEB 1995,QAT,1,Taipei City (TPE),12 JUN 2014,,hammer-throw-6kg,throws,male,u20
+92,79.68,,Mykhaylo KOKHAN,22 JAN 2001,UKR,2,"Ratinan Stadion, Tampere (FIN)",13 JUL 2018,,hammer-throw-6kg,throws,male,u20
+93,79.67,,Yevgeniy AYDAMIROV,11 MAY 1987,RUS,1,Tula (RUS),26 JUN 2005,,hammer-throw-6kg,throws,male,u20
+93,79.67,,Ashraf ELSEIFY,20 FEB 1995,QAT,1,Al-Kuwait (KUW),04 APR 2012,,hammer-throw-6kg,throws,male,u20
+95,79.66,,Merlin HUMMEL,04 JAN 2002,GER,1,"Hammerwurf-Anlage KSV Fürth, Fürth (GER)",22 MAY 2021,,hammer-throw-6kg,throws,male,u20
+96,79.62,,Alaa EL ASHRY,06 JAN 1991,EGY,1,Cairo (EGY),19 NOV 2010,,hammer-throw-6kg,throws,male,u20
+97,79.60,,Bence HALÁSZ,04 AUG 1997,HUN,1,"Ekängens Friidrottsarena, Eskilstuna (SWE)",17 JUL 2015,,hammer-throw-6kg,throws,male,u20
+98,79.59,,Dawid PIŁAT,06 FEB 2002,POL,1,"Kadrioru staadion, Tallinn (EST)",16 JUL 2021,,hammer-throw-6kg,throws,male,u20
+99,79.58,,Hlib PISKUNOV,25 NOV 1998,UKR,2,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",22 JUL 2016,,hammer-throw-6kg,throws,male,u20
+100,79.56,,Mohsen ANANI,21 MAY 1985,EGY,1,Cairo (EGY),28 DEC 2004,,hammer-throw-6kg,throws,male,u20
+101,79.55,,Anatoliy POZDNYAKOV,01 FEB 1987,RUS,2,Tula (RUS),15 JUL 2006,,hammer-throw-6kg,throws,male,u20
+101,79.55,,Jake NORRIS,30 JUN 1999,GBR,1,"Baton Rouge, LA (USA)",07 APR 2018,,hammer-throw-6kg,throws,male,u20
+103,79.54,,Andriy MARTYNYUK,23 SEP 1990,UKR,1,"Karađorđe Stadium, Novi Sad (SRB)",26 JUL 2009,,hammer-throw-6kg,throws,male,u20
+104,79.50,,Dawid PIŁAT,06 FEB 2002,POL,1,"Stadion MOSiR, Stalowa Wola (POL)",05 JUN 2021,,hammer-throw-6kg,throws,male,u20
+105,79.45,,Werner SMIT,14 SEP 1984,RSA,1,Bellville (RSA),22 MAR 2003,,hammer-throw-6kg,throws,male,u20
+106,79.40,,Ákos HUDI,10 AUG 1991,HUN,1,Veszprém (HUN),10 JUL 2010,,hammer-throw-6kg,throws,male,u20
+107,79.39,,Valeriy PRONKIN,15 JUN 1994,RUS,1,"Adler, Sochi (RUS)",21 APR 2012,,hammer-throw-6kg,throws,male,u20
+108,79.36,,Javier CIENFUEGOS,15 JUL 1990,ESP,1,Calvia (ESP),11 JUL 2009,,hammer-throw-6kg,throws,male,u20
+109,79.34,,Bence HALÁSZ,04 AUG 1997,HUN,1,Budapest (HUN),19 AUG 2016,,hammer-throw-6kg,throws,male,u20
+110,79.32,,Merlin HUMMEL,04 JAN 2002,GER,2,"Kadrioru staadion, Tallinn (EST)",16 JUL 2021,,hammer-throw-6kg,throws,male,u20
+111,79.28,,Bence HALÁSZ,04 AUG 1997,HUN,1,Miskolc (HUN),01 JUL 2016,,hammer-throw-6kg,throws,male,u20
+112,79.26,,Bence PÁSZTOR,05 FEB 1995,HUN,1q2,"Hayward Field, Eugene, OR (USA)",24 JUL 2014,,hammer-throw-6kg,throws,male,u20
+113,79.24,,Ashraf ELSEIFY,20 FEB 1995,QAT,1,Doha (QAT),13 MAR 2013,,hammer-throw-6kg,throws,male,u20
+114,79.23,,Giorgio OLIVIERI,05 NOV 2000,ITA,1,Rieti (ITA),08 JUN 2019,,hammer-throw-6kg,throws,male,u20
+115,79.18,,Mykhaylo KOKHAN,22 JAN 2001,UKR,1q1,"Ryavallen, Borås (SWE)",18 JUL 2019,,hammer-throw-6kg,throws,male,u20
+116,79.16,,Hlib PISKUNOV,25 NOV 1998,UKR,1,Kirovograd (UKR),08 JUN 2016,,hammer-throw-6kg,throws,male,u20
+117,79.14,,Reinier MEJÍAS,22 SEP 1990,CUB,1,La Habana (CUB),26 JUN 2009,,hammer-throw-6kg,throws,male,u20
+117,79.14,,Ákos HUDI,10 AUG 1991,HUN,2,"Karađorđe Stadium, Novi Sad (SRB)",26 JUL 2009,,hammer-throw-6kg,throws,male,u20
+119,79.12,,Javier CIENFUEGOS,15 JUL 1990,ESP,3,"Karađorđe Stadium, Novi Sad (SRB)",26 JUL 2009,,hammer-throw-6kg,throws,male,u20
+120,79.11,,Mohsen ANANI,21 MAY 1985,EGY,1,Cairo (EGY),17 DEC 2004,,hammer-throw-6kg,throws,male,u20
+120,79.11,,Matthew DENNY,02 JUN 1996,AUS,2,Leverkusen (GER),30 MAY 2015,,hammer-throw-6kg,throws,male,u20
+120,79.11,,Dawid PIŁAT,06 FEB 2002,POL,1,"Stadion Zygmunta Szelesta, Warszawa (POL)",29 MAY 2021,,hammer-throw-6kg,throws,male,u20
+120,79.11,,Ioannis KORAKIDIS,23 JUN 2003,GRE,1,"Pascual Guerrero Stadium, Cali (COL)",04 AUG 2022,,hammer-throw-6kg,throws,male,u20
+124,79.05,,Miguel Alberto BLANCO,22 FEB 1996,ESP,2,"Ekängens Friidrottsarena, Eskilstuna (SWE)",17 JUL 2015,,hammer-throw-6kg,throws,male,u20
+125,79.03,,Bence HALÁSZ,04 AUG 1997,HUN,1,Szombathely (HUN),16 JUN 2016,,hammer-throw-6kg,throws,male,u20
+126,79.01,,Özkan BALTACI,13 FEB 1994,TUR,1,Trabzon (TUR),20 AUG 2013,,hammer-throw-6kg,throws,male,u20
+127,79.00,,Reinier MEJÍAS,22 SEP 1990,CUB,1,La Habana (CUB),27 FEB 2009,,hammer-throw-6kg,throws,male,u20
+128,78.96,,Alexei MIKHAILOV,12 APR 1996,GER,1,Mannheim (GER),27 JUN 2015,,hammer-throw-6kg,throws,male,u20
+129,78.95,,Reinier MEJÍAS,22 SEP 1990,CUB,1,La Habana (CUB),22 MAY 2009,,hammer-throw-6kg,throws,male,u20
+130,78.91,,Jake NORRIS,30 JUN 1999,GBR,1,Manchester (GBR),15 AUG 2018,,hammer-throw-6kg,throws,male,u20
+131,78.90,,Valentin ANDREEV,19 JAN 2002,BUL,1,Balchik (BUL),15 MAY 2021,,hammer-throw-6kg,throws,male,u20
+132,78.87,,Bence HALÁSZ,04 AUG 1997,HUN,1,Szombathely (HUN),05 MAR 2016,,hammer-throw-6kg,throws,male,u20
+133,78.85,,Kristóf NÉMETH,17 SEP 1987,HUN,1,"S. Darius & S. Girėnas Stadium, Kaunas (LTU)",24 JUL 2005,,hammer-throw-6kg,throws,male,u20
+134,78.84,,Hlib PISKUNOV,25 NOV 1998,UKR,1,Kirovograd (UKR),03 JUL 2016,,hammer-throw-6kg,throws,male,u20
+135,78.83,,Alaa EL ASHRY,06 JAN 1991,EGY,1,Cairo (EGY),12 NOV 2010,,hammer-throw-6kg,throws,male,u20
+136,78.76,,Werner SMIT,14 SEP 1984,RSA,1,Bellville (RSA),25 NOV 2003,,hammer-throw-6kg,throws,male,u20
+136,78.76,,Miguel Ángel ZAMORA,25 JAN 1999,CUB,1,La Habana (CUB),09 JUN 2018,,hammer-throw-6kg,throws,male,u20
+138,78.75,,Giorgio OLIVIERI,05 NOV 2000,ITA,3,"Ryavallen, Borås (SWE)",19 JUL 2019,,hammer-throw-6kg,throws,male,u20
+139,78.74,,Taylor CAMPBELL,30 JUN 1996,GBR,1,Bedford (GBR),20 JUN 2015,,hammer-throw-6kg,throws,male,u20
+140,78.73,,Javier CIENFUEGOS,15 JUL 1990,ESP,1,Halle (GER),23 MAY 2009,,hammer-throw-6kg,throws,male,u20
+141,78.72,,Bence PÁSZTOR,05 FEB 1995,HUN,1,Debrecen (HUN),29 JUN 2014,,hammer-throw-6kg,throws,male,u20
+142,78.69,,Humberto MANSILLA,22 MAY 1996,CHI,2,Cuenca (ECU),31 MAY 2015,,hammer-throw-6kg,throws,male,u20
+143,78.67,,Aleksi JAAKKOLA,17 NOV 1997,FIN,1,Nurmijärvi (FIN),14 JUN 2016,,hammer-throw-6kg,throws,male,u20
+144,78.62,,Reinier MEJÍAS,22 SEP 1990,CUB,1,La Habana (CUB),12 JUN 2009,,hammer-throw-6kg,throws,male,u20
+144,78.62,,Ashraf ELSEIFY,20 FEB 1995,QAT,1,Amman (JOR),17 MAY 2012,,hammer-throw-6kg,throws,male,u20
+144,78.62,,Ahmed Tarek ISMAIL,18 OCT 1997,EGY,1,Szombathely (HUN),29 JUN 2016,,hammer-throw-6kg,throws,male,u20
+147,78.57,,Jean Baptiste BRUXELLE,09 JUL 2002,FRA,1,"Stade d'Honneur Marcel Roustan, Salon-de-Provence (FRA)",21 FEB 2021,,hammer-throw-6kg,throws,male,u20
+148,78.53,,Jovan STRANIĆ,26 JUN 2004,SRB,1,"Sports Park Mladost, Zagreb (CRO)",20 MAY 2023,,hammer-throw-6kg,throws,male,u20
+148,78.53,,Iosif KESIDIS,19 AUG 2005,CYP,1q1,"Estadio Atlético de la VIDENA, Lima (PER)",27 AUG 2024,,hammer-throw-6kg,throws,male,u20
+150,78.52,,Yevgeniy AYDAMIROV,11 MAY 1987,RUS,1,"Adler, Sochi (RUS)",05 FEB 2006,,hammer-throw-6kg,throws,male,u20
+151,78.51,,Werner SMIT,14 SEP 1984,RSA,1,Bellville (RSA),15 MAR 2003,,hammer-throw-6kg,throws,male,u20
+151,78.51,,Bence PÁSZTOR,05 FEB 1995,HUN,1,Veszprém (HUN),26 APR 2014,,hammer-throw-6kg,throws,male,u20
+151,78.51,,Alberto GONZÁLEZ,01 JUN 1998,ESP,1,Jaén (ESP),15 JUL 2017,,hammer-throw-6kg,throws,male,u20
+154,78.45,,Quentin BIGOT,01 DEC 1992,FRA,1,"Kadrioru staadion, Tallinn (EST)",22 JUL 2011,,hammer-throw-6kg,throws,male,u20
+154,78.45,,Christos FRANTZESKAKIS,26 APR 2000,GRE,1,Chania (GRE),09 JUN 2019,,hammer-throw-6kg,throws,male,u20
+156,78.44,,Kristóf NÉMETH,17 SEP 1987,HUN,1,Budapest (HUN),08 JUL 2006,,hammer-throw-6kg,throws,male,u20
+156,78.44,,Özkan BALTACI,13 FEB 1994,TUR,1,Ankara (TUR),22 JUN 2013,,hammer-throw-6kg,throws,male,u20
+156,78.44,,Miklós CSEKŐ,25 MAR 2004,HUN,1,"Atletski stadion Poljane, Maribor (SLO)",16 JUL 2022,,hammer-throw-6kg,throws,male,u20
+159,78.43,,Denis LUKYANOV,14 JUL 1989,RUS,1,Sochi (RUS),26 MAY 2008,,hammer-throw-6kg,throws,male,u20
+159,78.43,,Donát VARGA,08 APR 2000,HUN,4,"Ryavallen, Borås (SWE)",19 JUL 2019,,hammer-throw-6kg,throws,male,u20
+161,78.42,,Yevgeniy AYDAMIROV,11 MAY 1987,RUS,1,"Chaoyang Sport Center, Beijing (CHN)",18 AUG 2006,,hammer-throw-6kg,throws,male,u20
+162,78.41,,Ali Mohamed AL ZENKAWI,27 FEB 1984,KUW,1,Al-Kuwait (KUW),02 MAR 2003,,hammer-throw-6kg,throws,male,u20
+163,78.39,,Kristóf NÉMETH,17 SEP 1987,HUN,2,"Chaoyang Sport Center, Beijing (CHN)",18 AUG 2006,,hammer-throw-6kg,throws,male,u20
+163,78.39,,Miklós CSEKŐ,25 MAR 2004,HUN,1,"Sugár úti Atlétikai Centrum, Szombathely (HUN)",29 JUL 2023,,hammer-throw-6kg,throws,male,u20
+165,78.38,,Reinier MEJÍAS,22 SEP 1990,CUB,1,Port-of-Spain (TTO),02 AUG 2009,,hammer-throw-6kg,throws,male,u20
+166,78.37,,Ákos HUDI,10 AUG 1991,HUN,2,"Croix-Bleue Medavie Stadium, Moncton (CAN)",25 JUL 2010,,hammer-throw-6kg,throws,male,u20
+167,78.36,,Ákos HUDI,10 AUG 1991,HUN,1,Veszprém (HUN),11 MAY 2010,,hammer-throw-6kg,throws,male,u20
+168,78.34,,Ákos HUDI,10 AUG 1991,HUN,1,Veszprém (HUN),20 JUN 2009,,hammer-throw-6kg,throws,male,u20
+168,78.34,,Valeriy PRONKIN,15 JUN 1994,RUS,1,"Stadio Guidobaldi, Rieti (ITA)",19 JUL 2013,,hammer-throw-6kg,throws,male,u20
+170,78.32,,Valeriy PRONKIN,15 JUN 1994,RUS,1,"Adler, Sochi (RUS)",27 FEB 2013,,hammer-throw-6kg,throws,male,u20
+171,78.30,,Eivind HENRIKSEN,14 SEP 1990,NOR,1,Bodø (NOR),15 AUG 2009,,hammer-throw-6kg,throws,male,u20
+171,78.30,,Angelos MANTZOURANIS,01 MAY 2004,GRE,1,"Municipal Sports Center, Tripoli (GRE)",03 JUN 2023,,hammer-throw-6kg,throws,male,u20
+173,78.28,,Conor MCCULLOUGH,31 JAN 1991,USA,1,"Des Moines, IA (USA)",25 JUN 2010,,hammer-throw-6kg,throws,male,u20
+173,78.28,,Ákos HUDI,10 AUG 1991,HUN,1,Budapest (HUN),27 JUN 2010,,hammer-throw-6kg,throws,male,u20
+173,78.28,,Dawid PIŁAT,06 FEB 2002,POL,1,"Stadion OPO Cetniewo, Władysławowo (POL)",11 JUL 2021,,hammer-throw-6kg,throws,male,u20
+176,78.26,,Alaa EL ASHRY,06 JAN 1991,EGY,1,Cairo (EGY),05 NOV 2010,,hammer-throw-6kg,throws,male,u20
+177,78.23,,Kristóf NÉMETH,17 SEP 1987,HUN,1,Pápa (HUN),26 AUG 2006,,hammer-throw-6kg,throws,male,u20
+177,78.23,,Ilya TERENTEV,25 JAN 1995,RUS,1,Cheboksary (RUS),16 JUN 2014,,hammer-throw-6kg,throws,male,u20
+179,78.20,,Kristóf NÉMETH,17 SEP 1987,HUN,1,Szombathely (HUN),16 SEP 2006,,hammer-throw-6kg,throws,male,u20
+180,78.16,,Ákos HUDI,10 AUG 1991,HUN,1,Veszprém (HUN),08 SEP 2010,,hammer-throw-6kg,throws,male,u20
+181,78.14,,Ákos HUDI,10 AUG 1991,HUN,1,Székesfehérvár (HUN),03 JUL 2010,,hammer-throw-6kg,throws,male,u20
+182,78.13,,Hlib PISKUNOV,25 NOV 1998,UKR,1q2,"Stadio Zecchini, Grosseto (ITA)",20 JUL 2017,,hammer-throw-6kg,throws,male,u20
+183,78.11,,Kristóf NÉMETH,17 SEP 1987,HUN,1,Szombathely (HUN),13 MAY 2006,,hammer-throw-6kg,throws,male,u20
+183,78.11,,Ákos HUDI,10 AUG 1991,HUN,1f1,Budapest (HUN),09 OCT 2010,,hammer-throw-6kg,throws,male,u20
+185,78.10,,Reinier MEJÍAS,22 SEP 1990,CUB,1,La Habana (CUB),19 JUN 2009,,hammer-throw-6kg,throws,male,u20
+185,78.10,,Aaron KANGAS,03 JUL 1997,FIN,2,Nokia (FIN),28 APR 2016,,hammer-throw-6kg,throws,male,u20
+187,78.09,,Jake NORRIS,30 JUN 1999,GBR,1,Loughborough (GBR),21 MAY 2017,,hammer-throw-6kg,throws,male,u20
+188,78.07,,Hilmar Örn JÓNSSON,06 MAY 1996,ISL,1,Hafnarfjördur (ISL),05 JUN 2015,,hammer-throw-6kg,throws,male,u20
+188,78.07,,Orestis NTOUSAKIS,02 MAY 2002,GRE,1,Istanbul (TUR),12 JUN 2021,,hammer-throw-6kg,throws,male,u20
+190,78.06,,Merlin HUMMEL,04 JAN 2002,GER,1,"Steigerwaldstadion, Erfurt (GER)",19 SEP 2020,,hammer-throw-6kg,throws,male,u20
+191,78.04,,Miguel Ángel ZAMORA,25 JAN 1999,CUB,1,La Habana (CUB),02 JUN 2018,,hammer-throw-6kg,throws,male,u20
+191,78.04,,Miklós CSEKŐ,25 MAR 2004,HUN,1,"Egyetemi Stadion, Veszprém (HUN)",25 MAR 2023,,hammer-throw-6kg,throws,male,u20
+193,78.03,,Iosif KESIDIS,19 AUG 2005,CYP,1,"GPS Stadium, Nicosia (CYP)",01 MAR 2024,,hammer-throw-6kg,throws,male,u20
+194,78.02,,Miklós CSEKŐ,25 MAR 2004,HUN,1,"Egyetemi Stadion, Veszprém (HUN)",13 MAY 2023,,hammer-throw-6kg,throws,male,u20
+195,78.00,,Quentin BIGOT,01 DEC 1992,FRA,1,Metz (FRA),27 JUN 2011,,hammer-throw-6kg,throws,male,u20
+196,77.98,,Quentin BIGOT,01 DEC 1992,FRA,1,Veszprém (HUN),11 MAY 2011,,hammer-throw-6kg,throws,male,u20
+196,77.98,,Quentin BIGOT,01 DEC 1992,FRA,1,Dreux (FRA),17 JUL 2011,,hammer-throw-6kg,throws,male,u20
+196,77.98,,Angelos MANTZOURANIS,01 MAY 2004,GRE,1,"Kaftanzoglio Stadium, Thessaloniki (GRE)",26 JUL 2023,,hammer-throw-6kg,throws,male,u20
+199,77.97,,Kristóf NÉMETH,17 SEP 1987,HUN,1,Budapest (HUN),25 JUN 2006,,hammer-throw-6kg,throws,male,u20
+199,77.97,,Ethan KATZBERG,05 APR 2002,CAN,1,"Hillside Stadium, Kamloops (CAN)",23 MAY 2021,,hammer-throw-6kg,throws,male,u20
+201,77.93,,Bence HALÁSZ,04 AUG 1997,HUN,1,Szombathely (HUN),05 AUG 2015,,hammer-throw-6kg,throws,male,u20
+201,77.93,,Aleksi JAAKKOLA,17 NOV 1997,FIN,1,Savonlinna (FIN),15 AUG 2015,,hammer-throw-6kg,throws,male,u20
+203,77.92,,Ákos HUDI,10 AUG 1991,HUN,1,Halle (GER),15 MAY 2010,,hammer-throw-6kg,throws,male,u20
+204,77.90,,Matija GREGURIĆ,17 SEP 1996,CRO,1,Zagreb (CRO),09 JUN 2015,,hammer-throw-6kg,throws,male,u20
+204,77.90,,Jean Baptiste BRUXELLE,09 JUL 2002,FRA,3,"Kadrioru staadion, Tallinn (EST)",16 JUL 2021,,hammer-throw-6kg,throws,male,u20
+204,77.90,,Ármin SZABADOS,11 JAN 2006,HUN,1,"Sugár úti Atlétikai Centrum, Szombathely (HUN)",21 MAY 2024,,hammer-throw-6kg,throws,male,u20
+207,77.88,,Aleksi JAAKKOLA,17 NOV 1997,FIN,3,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",22 JUL 2016,,hammer-throw-6kg,throws,male,u20
+208,77.87,,Ákos HUDI,10 AUG 1991,HUN,1,Szombathely (HUN),20 JUN 2009,,hammer-throw-6kg,throws,male,u20
+208,77.87,,Bence HALÁSZ,04 AUG 1997,HUN,1,Budapest (HUN),01 MAR 2015,,hammer-throw-6kg,throws,male,u20
+208,77.87,,Bence HALÁSZ,04 AUG 1997,HUN,1,Tapolca (HUN),01 AUG 2015,,hammer-throw-6kg,throws,male,u20
+211,77.86,,Alexandros POURSANIDIS,23 JAN 1993,CYP,1,Lefkosia (CYP),22 JUN 2012,,hammer-throw-6kg,throws,male,u20
+211,77.86,,Ashraf ELSEIFY,20 FEB 1995,QAT,1,Doha (QAT),09 MAR 2014,,hammer-throw-6kg,throws,male,u20
+211,77.86,,Alexei MIKHAILOV,12 APR 1996,GER,1,Jena (GER),01 AUG 2015,,hammer-throw-6kg,throws,male,u20
+211,77.86,,Hleb DUDARAU,17 OCT 1996,BLR,1,Novopolotsk (BLR),27 NOV 2015,,hammer-throw-6kg,throws,male,u20
+211,77.86,,Bence HALÁSZ,04 AUG 1997,HUN,1q1,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",20 JUL 2016,,hammer-throw-6kg,throws,male,u20
+216,77.85,,Ákos HUDI,10 AUG 1991,HUN,1,Budapest (HUN),30 MAY 2010,,hammer-throw-6kg,throws,male,u20
+216,77.85,,Igor YEVSEYEV,27 MAR 1996,RUS,1,Krasnodar (RUS),19 MAY 2014,,hammer-throw-6kg,throws,male,u20
+216,77.85,,Angelos MANTZOURANIS,01 MAY 2004,GRE,1,"National Stadium, Serres (GRE)",10 JUN 2023,,hammer-throw-6kg,throws,male,u20
+219,77.83,,Bence HALÁSZ,04 AUG 1997,HUN,1,Szombathely (HUN),23 SEP 2015,,hammer-throw-6kg,throws,male,u20
+219,77.83,,Jan DOLEŽÁLEK,23 MAY 2002,CZE,1,"Moi International Sports Centre, Kasarani, Nairobi (KEN)",20 AUG 2021,,hammer-throw-6kg,throws,male,u20
+221,77.82,,Javier CIENFUEGOS,15 JUL 1990,ESP,1,Madrid (ESP),08 AUG 2009,,hammer-throw-6kg,throws,male,u20
+222,77.81,,Özkan BALTACI,13 FEB 1994,TUR,1,Denizli (TUR),06 JUL 2013,,hammer-throw-6kg,throws,male,u20
+223,77.78,,Orestis NTOUSAKIS,02 MAY 2002,GRE,2,"Moi International Sports Centre, Kasarani, Nairobi (KEN)",20 AUG 2021,,hammer-throw-6kg,throws,male,u20
+223,77.78,,Iosif KESIDIS,19 AUG 2005,CYP,1,"Werferzentrum Brandberge, Halle (GER)",20 MAY 2023,,hammer-throw-6kg,throws,male,u20
+225,77.77,,Georgios PAPANASTASIOU,09 DEC 2005,GRE,1,"Municipal Sports Center, Tripoli (GRE)",11 MAY 2024,,hammer-throw-6kg,throws,male,u20
+226,77.76,,Mohsen ANANI,21 MAY 1985,EGY,1,Cairo (EGY),03 DEC 2004,,hammer-throw-6kg,throws,male,u20
+226,77.76,,Dániel RÁBA,24 APR 1998,HUN,2,Szombathely (HUN),25 JUN 2016,,hammer-throw-6kg,throws,male,u20
+228,77.74,,Ákos HUDI,10 AUG 1991,HUN,1,Szombathely (HUN),13 MAR 2010,,hammer-throw-6kg,throws,male,u20
+228,77.74,,Aliaksandr SHYMANOVICH,09 FEB 1998,BLR,2,"Stadio Zecchini, Grosseto (ITA)",21 JUL 2017,,hammer-throw-6kg,throws,male,u20
+230,77.73,,Quentin BIGOT,01 DEC 1992,FRA,1,Mannheim (GER),02 JUL 2011,,hammer-throw-6kg,throws,male,u20
+230,77.73,,Iosif KESIDIS,19 AUG 2005,CYP,2,"Givat Ram Stadium, Jerusalem (ISR)",09 AUG 2023,,hammer-throw-6kg,throws,male,u20
+232,77.72,,Nikolaos POLYCHRONIOU,29 MAY 2003,GRE,1,"National Stadium, Serres (GRE)",09 JUL 2022,,hammer-throw-6kg,throws,male,u20
+233,77.71,,Mykhailo HAVRYLIUK,19 JAN 1999,UKR,3,"Ratinan Stadion, Tampere (FIN)",13 JUL 2018,,hammer-throw-6kg,throws,male,u20
+234,77.70,,Özkan BALTACI,13 FEB 1994,TUR,1,Ankara (TUR),16 JUN 2012,,hammer-throw-6kg,throws,male,u20
+234,77.70,,Jean Baptiste BRUXELLE,09 JUL 2002,FRA,3,"Moi International Sports Centre, Kasarani, Nairobi (KEN)",20 AUG 2021,,hammer-throw-6kg,throws,male,u20
+236,77.67,,Jake NORRIS,30 JUN 1999,GBR,1,Bedford (GBR),17 JUN 2017,,hammer-throw-6kg,throws,male,u20
+237,77.66,,Mohsen ANANI,21 MAY 1985,EGY,1,Cairo (EGY),29 NOV 2004,,hammer-throw-6kg,throws,male,u20
+237,77.66,,Ákos HUDI,10 AUG 1991,HUN,1,Veszprém (HUN),23 MAY 2009,,hammer-throw-6kg,throws,male,u20
+239,77.65,,Ashraf ELSEIFY,20 FEB 1995,QAT,1q1,"Hayward Field, Eugene, OR (USA)",24 JUL 2014,,hammer-throw-6kg,throws,male,u20
+240,77.64,,Eivind HENRIKSEN,14 SEP 1990,NOR,1,Göteborg (SWE),27 JUN 2009,,hammer-throw-6kg,throws,male,u20
+241,77.62,,Ragnar CARLSSON,16 NOV 2000,SWE,4,"Ratinan Stadion, Tampere (FIN)",13 JUL 2018,,hammer-throw-6kg,throws,male,u20
+242,77.61,,Hilmar Örn JÓNSSON,06 MAY 1996,ISL,1,Selfoss (ISL),21 AUG 2015,,hammer-throw-6kg,throws,male,u20
+242,77.61,,Dawid PIŁAT,06 FEB 2002,POL,1,"MOSiR Stadion, Rybnik (POL)",24 APR 2021,,hammer-throw-6kg,throws,male,u20
+244,77.60,,Aleh DUBITSKI,19 OCT 1990,BLR,1,Minsk (BLR),06 JUN 2009,,hammer-throw-6kg,throws,male,u20
+244,77.60,,Ashraf ELSEIFY,20 FEB 1995,QAT,1,Doha (QAT),02 APR 2013,,hammer-throw-6kg,throws,male,u20
+244,77.60,,Hilmar Örn JÓNSSON,06 MAY 1996,ISL,1,Espoo (FIN),30 AUG 2015,,hammer-throw-6kg,throws,male,u20
+244,77.60,,Miklós CSEKŐ,25 MAR 2004,HUN,1,"Egyetemi Stadion, Veszprém (HUN)",30 SEP 2023,,hammer-throw-6kg,throws,male,u20
+248,77.59,,Eivind HENRIKSEN,14 SEP 1990,NOR,1,Bærum (NOR),28 AUG 2009,,hammer-throw-6kg,throws,male,u20
+248,77.59,,Bence HALÁSZ,04 AUG 1997,HUN,1,Szombathely (HUN),16 SEP 2015,,hammer-throw-6kg,throws,male,u20
+250,77.58,,Andriy MARTYNYUK,23 SEP 1990,UKR,1,Kyiv (UKR),16 MAY 2009,,hammer-throw-6kg,throws,male,u20
+250,77.58,,Jan DOLEŽÁLEK,23 MAY 2002,CZE,1q2,"Moi International Sports Centre, Kasarani, Nairobi (KEN)",18 AUG 2021,,hammer-throw-6kg,throws,male,u20
+252,77.57,,Ákos HUDI,10 AUG 1991,HUN,1,Uherské Hradiste (CZE),04 JUL 2009,,hammer-throw-6kg,throws,male,u20
+253,77.55,,Dániel SZABÓ,28 JUN 1991,HUN,1,Szombathely (HUN),13 JUN 2010,,hammer-throw-6kg,throws,male,u20
+254,77.54,,Hilmar Örn JÓNSSON,06 MAY 1996,ISL,1,Selfoss (ISL),12 AUG 2014,,hammer-throw-6kg,throws,male,u20
+254,77.54,,Gabriel KEHR,03 SEP 1996,CHI,3,Cuenca (ECU),31 MAY 2015,,hammer-throw-6kg,throws,male,u20
+256,77.53,,Dawid PIŁAT,06 FEB 2002,POL,1,"Stadion MOSiR, Stalowa Wola (POL)",22 AUG 2020,,hammer-throw-6kg,throws,male,u20
+257,77.52,,Ioannis KORAKIDIS,23 JUN 2003,GRE,1,"Eleftheria Stadium, Iraklio (GRE)",05 MAR 2022,,hammer-throw-6kg,throws,male,u20
+258,77.51,,Valeriy PRONKIN,15 JUN 1994,RUS,1,"Adler, Sochi (RUS)",17 FEB 2012,,hammer-throw-6kg,throws,male,u20
+259,77.48,,Ákos HUDI,10 AUG 1991,HUN,1,Tapolca (HUN),28 AUG 2010,,hammer-throw-6kg,throws,male,u20
+260,77.47,,Kristóf NÉMETH,17 SEP 1987,HUN,1,Veszprém (HUN),11 MAR 2006,,hammer-throw-6kg,throws,male,u20
+261,77.46,,Kristóf NÉMETH,17 SEP 1987,HUN,1,Veszprém (HUN),29 APR 2006,,hammer-throw-6kg,throws,male,u20
+261,77.46,,Siarhei KALAMOYETS,11 AUG 1989,BLR,1,Brest (BLR),14 JUN 2008,,hammer-throw-6kg,throws,male,u20
+263,77.43,,Jake NORRIS,30 JUN 1999,GBR,1,"Allianz Park, London (GBR)",29 JUL 2018,,hammer-throw-6kg,throws,male,u20
+263,77.43,,Giorgio OLIVIERI,05 NOV 2000,ITA,1,Halle (GER),01 JUN 2019,,hammer-throw-6kg,throws,male,u20
+265,77.42,,Andrey AZARENKOV,26 SEP 1985,RUS,1,Krasnodar (RUS),24 MAY 2004,,hammer-throw-6kg,throws,male,u20
+265,77.42,,Orestis NTOUSAKIS,02 MAY 2002,GRE,1,"Strovolos, GPS Stadium, Nicosia (CYP)",14 APR 2021,,hammer-throw-6kg,throws,male,u20
+265,77.42,,Jean Baptiste BRUXELLE,09 JUL 2002,FRA,1,"Stade Throo, Guebwiller (FRA)",30 OCT 2021,,hammer-throw-6kg,throws,male,u20
+268,77.41,,Ioannis KORAKIDIS,23 JUN 2003,GRE,1,"Kaftanzoglio warm-up track, Thessaloniki (GRE)",15 JUN 2022,,hammer-throw-6kg,throws,male,u20
+269,77.40,,Bence PÁSZTOR,05 FEB 1995,HUN,1,Szombathely (HUN),18 JUN 2014,,hammer-throw-6kg,throws,male,u20
+269,77.40,,Aliaksandr SHYMANOVICH,09 FEB 1998,BLR,1,Novopolotsk (BLR),17 NOV 2017,,hammer-throw-6kg,throws,male,u20
+271,77.39,,Kristóf NÉMETH,17 SEP 1987,HUN,1,Szombathely (HUN),01 JUN 2005,,hammer-throw-6kg,throws,male,u20
+272,77.36,,Benedek DOMA,17 OCT 2001,HUN,1f1,"Sugár úti Atlétikai Centrum, Szombathely (HUN)",25 JUL 2020,,hammer-throw-6kg,throws,male,u20
+273,77.35,,Bence PÁSZTOR,05 FEB 1995,HUN,2,"Stadio Guidobaldi, Rieti (ITA)",19 JUL 2013,,hammer-throw-6kg,throws,male,u20
+273,77.35,,Matija GREGURIĆ,17 SEP 1996,CRO,3,"Ekängens Friidrottsarena, Eskilstuna (SWE)",17 JUL 2015,,hammer-throw-6kg,throws,male,u20
+273,77.35,,Ethan KATZBERG,05 APR 2002,CAN,1,"Hillside Stadium, Kamloops (CAN)",20 NOV 2021,,hammer-throw-6kg,throws,male,u20
+276,77.34,,Maksim MITSKOU,12 JAN 1995,BLR,1,Brest (BLR),25 JUN 2014,,hammer-throw-6kg,throws,male,u20
+276,77.34,,Taylor CAMPBELL,30 JUN 1996,GBR,2,Mannheim (GER),27 JUN 2015,,hammer-throw-6kg,throws,male,u20
+278,77.33,,Eivind HENRIKSEN,14 SEP 1990,NOR,1,Greverud (NOR),04 OCT 2009,,hammer-throw-6kg,throws,male,u20
+278,77.33,,Aliaksandr SHYMANOVICH,09 FEB 1998,BLR,1,Minsk (BLR),16 JUN 2017,,hammer-throw-6kg,throws,male,u20
+280,77.32,,Yuriy KUZIV,29 MAY 1996,RUS,4,"Ekängens Friidrottsarena, Eskilstuna (SWE)",17 JUL 2015,,hammer-throw-6kg,throws,male,u20
+280,77.32,,Jean Baptiste BRUXELLE,09 JUL 2002,FRA,1q2,"Stade R. Bobin, Bondoufle (FRA)",09 JUL 2021,,hammer-throw-6kg,throws,male,u20
+282,77.28,,Richard OLBRICH,07 APR 1990,GER,2,Halle (GER),23 MAY 2009,,hammer-throw-6kg,throws,male,u20
+282,77.28,,Ákos HUDI,10 AUG 1991,HUN,1,Veszprém (HUN),01 MAY 2010,,hammer-throw-6kg,throws,male,u20
+282,77.28,,Ákos HUDI,10 AUG 1991,HUN,1f1,Veszprém (HUN),01 MAY 2010,,hammer-throw-6kg,throws,male,u20
+285,77.27,,Kristóf NÉMETH,17 SEP 1987,HUN,1,Varaždin (CRO),02 JUL 2005,,hammer-throw-6kg,throws,male,u20
+285,77.27,,Georgios PAPANASTASIOU,09 DEC 2005,GRE,1,"Municipal Stadium, Trikala (GRE)",27 JUL 2024,,hammer-throw-6kg,throws,male,u20
+287,77.25,,Mohsen ANANI,21 MAY 1985,EGY,1,Cairo (EGY),12 NOV 2004,,hammer-throw-6kg,throws,male,u20
+287,77.25,,Eivind HENRIKSEN,14 SEP 1990,NOR,1,Torsby (SWE),30 MAY 2009,,hammer-throw-6kg,throws,male,u20
+289,77.23,,Mohsen ANANI,21 MAY 1985,EGY,1,Cairo (EGY),12 MAR 2004,,hammer-throw-6kg,throws,male,u20
+289,77.23,,Ethan KATZBERG,05 APR 2002,CAN,1,"Hillside Stadium, Kamloops (CAN)",19 NOV 2021,,hammer-throw-6kg,throws,male,u20
+291,77.21,,Giorgio OLIVIERI,05 NOV 2000,ITA,1,San Benedetto del Tronto (ITA),16 SEP 2018,,hammer-throw-6kg,throws,male,u20
+291,77.21,,Orestis NTOUSAKIS,02 MAY 2002,GRE,1,"Municipal Sports Center, Tripoli (GRE)",22 MAY 2021,,hammer-throw-6kg,throws,male,u20
+293,77.20,,Mykhailo HAVRYLIUK,19 JAN 1999,UKR,1,Kamianets Podilskyi (UKR),27 APR 2018,,hammer-throw-6kg,throws,male,u20
+293,77.20,,Ronald MENCIA ZAYAS,26 AUG 2002,CUB,1,"Estadio Panamericano, La Habana (CUB)",31 JUL 2021,,hammer-throw-6kg,throws,male,u20
+293,77.20,,Ioannis KORAKIDIS,23 JUN 2003,GRE,2,"National Stadium, Serres (GRE)",09 JUL 2022,,hammer-throw-6kg,throws,male,u20
+296,77.19,,Kristóf NÉMETH,17 SEP 1987,HUN,1,Santa Fé (ARG),18 FEB 2006,,hammer-throw-6kg,throws,male,u20
+296,77.19,,Mykhaylo KOKHAN,22 JAN 2001,UKR,1,Kropyvnytskiy (UKR),23 JUN 2018,,hammer-throw-6kg,throws,male,u20
+298,77.18,,Bence HALÁSZ,04 AUG 1997,HUN,1,Szombathely (HUN),02 APR 2016,,hammer-throw-6kg,throws,male,u20
+299,77.17,,Andriy MARTYNYUK,23 SEP 1990,UKR,1,Kyiv (UKR),29 MAY 2009,,hammer-throw-6kg,throws,male,u20
+300,77.16,,Ákos HUDI,10 AUG 1991,HUN,1,Veszprém (HUN),16 MAY 2009,,hammer-throw-6kg,throws,male,u20
+300,77.16,,Angelos MANTZOURANIS,01 MAY 2004,GRE,1q2,"Givat Ram Stadium, Jerusalem (ISR)",08 AUG 2023,,hammer-throw-6kg,throws,male,u20
+302,77.15,,Valentin ANDREEV,19 JAN 2002,BUL,5,"Ryavallen, Borås (SWE)",19 JUL 2019,,hammer-throw-6kg,throws,male,u20
+302,77.15,,Angelos MANTZOURANIS,01 MAY 2004,GRE,1,"Agios Kosmas Training Center, Elliniko, Athina (GRE)",14 MAY 2023,,hammer-throw-6kg,throws,male,u20
+304,77.11,,Miklós CSEKŐ,25 MAR 2004,HUN,1,"Egyetemi Stadion, Veszprém (HUN)",07 OCT 2023,,hammer-throw-6kg,throws,male,u20
+305,77.10,,Kristóf NÉMETH,17 SEP 1987,HUN,1,Szombathely (HUN),30 APR 2005,,hammer-throw-6kg,throws,male,u20
+306,77.09,,Dawid PIŁAT,06 FEB 2002,POL,4,"Moi International Sports Centre, Kasarani, Nairobi (KEN)",20 AUG 2021,,hammer-throw-6kg,throws,male,u20
+307,77.08,,Ákos HUDI,10 AUG 1991,HUN,1,Veszprém (HUN),06 OCT 2010,,hammer-throw-6kg,throws,male,u20
+307,77.08,,Matthew DENNY,02 JUN 1996,AUS,1,Gold Coast (AUS),15 NOV 2015,,hammer-throw-6kg,throws,male,u20
+309,77.06,,Marcel LOMNICKÝ,06 JUL 1987,SVK,3,"Chaoyang Sport Center, Beijing (CHN)",18 AUG 2006,,hammer-throw-6kg,throws,male,u20
+310,77.03,,Igor YEVSEYEV,27 MAR 1996,RUS,1,Krasnodar (RUS),23 MAY 2015,,hammer-throw-6kg,throws,male,u20
+311,77.02,,Bence PÁSZTOR,05 FEB 1995,HUN,1,Veszprém (HUN),19 MAY 2012,,hammer-throw-6kg,throws,male,u20
+311,77.02,,Serhiy REHEDA,06 FEB 1994,UKR,1,Yalta (UKR),31 MAY 2012,,hammer-throw-6kg,throws,male,u20
+313,77.01,,Aleksey KOCHNEV,06 APR 1990,RUS,1,Sochi (RUS),21 MAY 2009,,hammer-throw-6kg,throws,male,u20
+314,76.99,,Valentin ANDREEV,19 JAN 2002,BUL,2,Istanbul (TUR),12 JUN 2021,,hammer-throw-6kg,throws,male,u20
+315,76.98,,Serhiy REHEDA,06 FEB 1994,UKR,1,Yalta (UKR),20 FEB 2013,,hammer-throw-6kg,throws,male,u20
+316,76.97,,Yevgeniy AYDAMIROV,11 MAY 1987,RUS,1,Tula (RUS),03 JUL 2005,,hammer-throw-6kg,throws,male,u20
+316,76.97,,Jake NORRIS,30 JUN 1999,GBR,1,Leiria (POR),15 APR 2017,,hammer-throw-6kg,throws,male,u20
+316,76.97,,Jake NORRIS,30 JUN 1999,GBR,1f1,Bromley (GBR),28 MAY 2017,,hammer-throw-6kg,throws,male,u20
+319,76.95,,Kristóf NÉMETH,17 SEP 1987,HUN,1,Maribor (SLO),15 JUL 2006,,hammer-throw-6kg,throws,male,u20
+319,76.95,,Yury SHAYUNOU,22 OCT 1987,BLR,4,"Chaoyang Sport Center, Beijing (CHN)",18 AUG 2006,,hammer-throw-6kg,throws,male,u20
+319,76.95,,Jake NORRIS,30 JUN 1999,GBR,1q1,"Ratinan Stadion, Tampere (FIN)",11 JUL 2018,,hammer-throw-6kg,throws,male,u20
+319,76.95,,Merlin HUMMEL,04 JAN 2002,GER,1,Neubrandenburg (GER),16 FEB 2020,,hammer-throw-6kg,throws,male,u20
+323,76.94,,Özkan BALTACI,13 FEB 1994,TUR,1,Eskisehir (TUR),09 JUN 2012,,hammer-throw-6kg,throws,male,u20
+324,76.93,,Aleh DUBITSKI,19 OCT 1990,BLR,1,Staiki (BLR),03 FEB 2009,,hammer-throw-6kg,throws,male,u20
+324,76.93,,Dániel RÁBA,24 APR 1998,HUN,1,Szombathely (HUN),04 MAR 2017,,hammer-throw-6kg,throws,male,u20
+324,76.93,,Max LAMPINEN,11 OCT 2004,FIN,1,"Nikulan raviradan heittopaikka, Kaustinen (FIN)",29 JUN 2023,,hammer-throw-6kg,throws,male,u20
+327,76.92,,Walter HENNING,24 JAN 1989,USA,1,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",12 JUL 2008,,hammer-throw-6kg,throws,male,u20
+327,76.92,,Miguel Ángel ZAMORA,25 JAN 1999,CUB,1,La Habana (CUB),15 JUN 2018,,hammer-throw-6kg,throws,male,u20
+329,76.91,,Donát VARGA,08 APR 2000,HUN,1,Tapolca (HUN),17 AUG 2019,,hammer-throw-6kg,throws,male,u20
+329,76.91,,Max LAMPINEN,11 OCT 2004,FIN,1,"Hiekkaharjun urheilupuisto, Vantaa (FIN)",01 AUG 2023,,hammer-throw-6kg,throws,male,u20
+331,76.90,,Eivind HENRIKSEN,14 SEP 1990,NOR,1,Oslo (NOR),20 AUG 2009,,hammer-throw-6kg,throws,male,u20
+331,76.90,,Giorgio OLIVIERI,05 NOV 2000,ITA,1,Ancona (ITA),02 MAR 2019,,hammer-throw-6kg,throws,male,u20
+333,76.89,,Richard OLBRICH,07 APR 1990,GER,1,Fränkisch-Crumbach (GER),31 MAY 2009,,hammer-throw-6kg,throws,male,u20
+333,76.89,,Yuriy KUZIV,29 MAY 1996,RUS,2,Krasnodar (RUS),23 MAY 2015,,hammer-throw-6kg,throws,male,u20
+335,76.88,,Marcel LOMNICKÝ,06 JUL 1987,SVK,1,Nitra (SVK),15 JUL 2006,,hammer-throw-6kg,throws,male,u20
+335,76.88,,Bence HALÁSZ,04 AUG 1997,HUN,1,Potchefstroom (RSA),29 JAN 2015,,hammer-throw-6kg,throws,male,u20
+337,76.87,,Taylor CAMPBELL,30 JUN 1996,GBR,1,Lee Valley (GBR),13 JUN 2015,,hammer-throw-6kg,throws,male,u20
+337,76.87,,Miklós CSEKŐ,25 MAR 2004,HUN,3,"Givat Ram Stadium, Jerusalem (ISR)",09 AUG 2023,,hammer-throw-6kg,throws,male,u20
+339,76.86,,Eivind HENRIKSEN,14 SEP 1990,NOR,1,Notodden (NOR),20 SEP 2009,,hammer-throw-6kg,throws,male,u20
+339,76.86,,Miguel Alberto BLANCO,22 FEB 1996,ESP,1,Barcelona (ESP),03 JUN 2015,,hammer-throw-6kg,throws,male,u20
+339,76.86,,Ashish JAKHAR,05 JAN 1999,IND,1,Gifu (JPN),07 JUN 2018,,hammer-throw-6kg,throws,male,u20
+342,76.85,,Taylor CAMPBELL,30 JUN 1996,GBR,2,Halle (GER),16 MAY 2015,,hammer-throw-6kg,throws,male,u20
+343,76.84,,Jake NORRIS,30 JUN 1999,GBR,1,Birmingham (GBR),08 JUL 2017,,hammer-throw-6kg,throws,male,u20
+344,76.83,,Tomasz RATAJCZYK,20 SEP 2002,POL,1,"Stadion MOSiR, Lublin (POL)",23 MAY 2021,,hammer-throw-6kg,throws,male,u20
+344,76.83,,Jean Baptiste BRUXELLE,09 JUL 2002,FRA,1f4,"Stade Jean Leroi, Blois (FRA)",09 OCT 2021,,hammer-throw-6kg,throws,male,u20
+346,76.81,,Taylor CAMPBELL,30 JUN 1996,GBR,1,Loughborough (GBR),25 APR 2015,,hammer-throw-6kg,throws,male,u20
+347,76.79,,Jan EMBERŠIČ,06 APR 2003,SLO,1,"Športni park, Domžale (SLO)",02 JUN 2022,,hammer-throw-6kg,throws,male,u20
+347,76.79,,Jan EMBERŠIČ,06 APR 2003,SLO,1,"Atletski stadion Poljane, Maribor (SLO)",14 JUN 2022,,hammer-throw-6kg,throws,male,u20
+349,76.77,,Ákos HUDI,10 AUG 1991,HUN,1,Veszprém (HUN),22 SEP 2010,,hammer-throw-6kg,throws,male,u20
+349,76.77,,Bence HALÁSZ,04 AUG 1997,HUN,1,Budapest (HUN),13 JUN 2015,,hammer-throw-6kg,throws,male,u20
+349,76.77,,Orestis NTOUSAKIS,02 MAY 2002,GRE,1,"Kaftanzoglio throws auxiliary field, Thessaloniki (GRE)",17 APR 2021,,hammer-throw-6kg,throws,male,u20
+352,76.76,,Yury SHAYUNOU,22 OCT 1987,BLR,1q2,"Chaoyang Sport Center, Beijing (CHN)",16 AUG 2006,,hammer-throw-6kg,throws,male,u20
+352,76.76,,Walter HENNING,24 JAN 1989,USA,1,"Chapel Hill, NC (USA)",09 MAY 2008,,hammer-throw-6kg,throws,male,u20
+352,76.76,,Orestis NTOUSAKIS,02 MAY 2002,GRE,4,"Kadrioru staadion, Tallinn (EST)",16 JUL 2021,,hammer-throw-6kg,throws,male,u20
+355,76.75,,Eivind HENRIKSEN,14 SEP 1990,NOR,1,Helsingborg (SWE),10 JUL 2009,,hammer-throw-6kg,throws,male,u20
+356,76.74,,Dániel SZABÓ,28 JUN 1991,HUN,1,Szombathely (HUN),17 APR 2010,,hammer-throw-6kg,throws,male,u20
+356,76.74,,Bence PÁSZTOR,05 FEB 1995,HUN,2,"Estadio Olímpico, Barcelona (ESP)",14 JUL 2012,,hammer-throw-6kg,throws,male,u20
+356,76.74,,Alexei MIKHAILOV,12 APR 1996,GER,1q1,"Ekängens Friidrottsarena, Eskilstuna (SWE)",16 JUL 2015,,hammer-throw-6kg,throws,male,u20
+359,76.73,,Yevgeniy AYDAMIROV,11 MAY 1987,RUS,2,"S. Darius & S. Girėnas Stadium, Kaunas (LTU)",24 JUL 2005,,hammer-throw-6kg,throws,male,u20
+359,76.73,,Aleh DUBITSKI,19 OCT 1990,BLR,1,Brest (BLR),19 JUN 2009,,hammer-throw-6kg,throws,male,u20
+359,76.73,,Jean Baptiste BRUXELLE,09 JUL 2002,FRA,1,"Stade de La Croix-de-Berny, Antony (FRA)",25 JUL 2020,,hammer-throw-6kg,throws,male,u20
+362,76.71,,Dániel RÁBA,24 APR 1998,HUN,4,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",22 JUL 2016,,hammer-throw-6kg,throws,male,u20
+363,76.70,,Massimo MARUSSI,05 APR 1984,ITA,1,Grosseto (ITA),13 JUN 2003,,hammer-throw-6kg,throws,male,u20
+363,76.70,,Kristóf NÉMETH,17 SEP 1987,HUN,1,Szombathely (HUN),04 MAY 2005,,hammer-throw-6kg,throws,male,u20
+363,76.70,,Jake NORRIS,30 JUN 1999,GBR,1,Manchester (GBR),16 AUG 2017,,hammer-throw-6kg,throws,male,u20
+366,76.69,,Eivind HENRIKSEN,14 SEP 1990,NOR,1,Tønsberg (NOR),05 MAY 2009,,hammer-throw-6kg,throws,male,u20
+366,76.69,,Bence HALÁSZ,04 AUG 1997,HUN,1,Szombathely (HUN),19 MAR 2016,,hammer-throw-6kg,throws,male,u20
+368,76.67,,Peter SMITH,20 JUL 1990,GBR,,Birmingham (GBR),10 JUL 2009,,hammer-throw-6kg,throws,male,u20
+368,76.67,,Jan EMBERŠIČ,06 APR 2003,SLO,1,"Športni park, Nova Gorica (SLO)",02 JUL 2022,,hammer-throw-6kg,throws,male,u20
+370,76.66,,Alaa EL ASHRY,06 JAN 1991,EGY,3,"Croix-Bleue Medavie Stadium, Moncton (CAN)",25 JUL 2010,,hammer-throw-6kg,throws,male,u20
+370,76.66,,Daniil DANILOV,05 JAN 1998,RUS,1,"Adler, Sochi (RUS)",16 FEB 2017,,hammer-throw-6kg,throws,male,u20
+372,76.65,,Eivind HENRIKSEN,14 SEP 1990,NOR,4,"Karađorđe Stadium, Novi Sad (SRB)",26 JUL 2009,,hammer-throw-6kg,throws,male,u20
+373,76.64,,Igor YEVSEYEV,27 MAR 1996,RUS,1,"Yunost Stadium, Adler, Sochi (RUS)",23 FEB 2015,,hammer-throw-6kg,throws,male,u20
+373,76.64,,Volodymyr MYSLYVCHUK,25 APR 1996,UKR,5,"Ekängens Friidrottsarena, Eskilstuna (SWE)",17 JUL 2015,,hammer-throw-6kg,throws,male,u20
+373,76.64,,Miklós CSEKŐ,25 MAR 2004,HUN,2,"Werferzentrum Brandberge, Halle (GER)",20 MAY 2023,,hammer-throw-6kg,throws,male,u20
+376,76.63,,Ákos HUDI,10 AUG 1991,HUN,1,Szombathely (HUN),04 SEP 2010,,hammer-throw-6kg,throws,male,u20
+376,76.63,,Ioannis KORAKIDIS,23 JUN 2003,GRE,1,"Municipal Stadium, Nikiti (GRE)",04 JUN 2022,,hammer-throw-6kg,throws,male,u20
+376,76.63,,Miklós CSEKŐ,25 MAR 2004,HUN,1,"Sugár úti Atlétikai Centrum, Szombathely (HUN)",18 JUN 2022,,hammer-throw-6kg,throws,male,u20
+379,76.62,,Ákos HUDI,10 AUG 1991,HUN,1q2,"Croix-Bleue Medavie Stadium, Moncton (CAN)",23 JUL 2010,,hammer-throw-6kg,throws,male,u20
+379,76.62,,Jake NORRIS,30 JUN 1999,GBR,1q1,"Stadio Zecchini, Grosseto (ITA)",20 JUL 2017,,hammer-throw-6kg,throws,male,u20
+381,76.61,,Mykhailo HAVRYLIUK,19 JAN 1999,UKR,1,Nova Kakhovka (UKR),31 MAR 2018,,hammer-throw-6kg,throws,male,u20
+381,76.61,,Dawid PIŁAT,06 FEB 2002,POL,1,"Stadion MOSiR, Stalowa Wola (POL)",22 MAY 2021,,hammer-throw-6kg,throws,male,u20
+383,76.60,,Serghei MARGHIEV,06 NOV 1992,MDA,2,"Kadrioru staadion, Tallinn (EST)",22 JUL 2011,,hammer-throw-6kg,throws,male,u20
+383,76.60,,Hilmar Örn JÓNSSON,06 MAY 1996,ISL,1,Hafnarfjördur (ISL),14 SEP 2015,,hammer-throw-6kg,throws,male,u20
+383,76.60,,Christos FRANTZESKAKIS,26 APR 2000,GRE,1,Istanbul (TUR),21 JUN 2018,,hammer-throw-6kg,throws,male,u20
+386,76.59,,Kristóf NÉMETH,17 SEP 1987,HUN,1,Uherské Hradiste (CZE),29 JUN 2005,,hammer-throw-6kg,throws,male,u20
+386,76.59,,Joaquin GOMEZ,14 OCT 1996,ARG,1,Buenos Aires (ARG),11 OCT 2014,,hammer-throw-6kg,throws,male,u20
+388,76.58,,Kristóf NÉMETH,17 SEP 1987,HUN,1,Budapest (HUN),25 JUN 2005,,hammer-throw-6kg,throws,male,u20
+388,76.58,,Miklós CSEKŐ,25 MAR 2004,HUN,1,"Egyetemi Stadion, Veszprém (HUN)",24 SEP 2022,,hammer-throw-6kg,throws,male,u20
+390,76.55,,Yury SHAYUNOU,22 OCT 1987,BLR,1,Staiki (BLR),23 JUN 2006,,hammer-throw-6kg,throws,male,u20
+390,76.55,,Dawid PIŁAT,06 FEB 2002,POL,1,"Centralny Ośrodek Sportu, Spala (POL)",08 AUG 2020,,hammer-throw-6kg,throws,male,u20
+392,76.54,,Siarhei KALAMOYETS,11 AUG 1989,BLR,1,Minsk (BLR),07 JUN 2008,,hammer-throw-6kg,throws,male,u20
+393,76.53,,Kristóf NÉMETH,17 SEP 1987,HUN,1,Szombathely (HUN),16 APR 2005,,hammer-throw-6kg,throws,male,u20
+393,76.53,,Hilmar Örn JÓNSSON,06 MAY 1996,ISL,1,Hafnarfjördur (ISL),09 MAY 2015,,hammer-throw-6kg,throws,male,u20
+393,76.53,,Dániel RÁBA,24 APR 1998,HUN,1,Budapest (HUN),27 AUG 2017,,hammer-throw-6kg,throws,male,u20
+396,76.52,,Yuriy KUZIV,29 MAY 1996,RUS,1,Cheboksary (RUS),26 JUN 2015,,hammer-throw-6kg,throws,male,u20
+396,76.52,,Jakob URBANČ,27 MAY 2004,SLO,2,"Sports Park Mladost, Zagreb (CRO)",20 MAY 2023,,hammer-throw-6kg,throws,male,u20
+398,76.51,,Javier CIENFUEGOS,15 JUL 1990,ESP,1,Vénissieux (FRA),08 MAR 2009,,hammer-throw-6kg,throws,male,u20
+398,76.51,,Hilmar Örn JÓNSSON,06 MAY 1996,ISL,1,Hafnarfjördur (ISL),27 JUN 2014,,hammer-throw-6kg,throws,male,u20
+400,76.50,,Matija GREGURIĆ,17 SEP 1996,CRO,1,Bar (MNE),01 MAY 2014,,hammer-throw-6kg,throws,male,u20
+400,76.50,,Taylor CAMPBELL,30 JUN 1996,GBR,1,Bedford (GBR),31 MAY 2015,,hammer-throw-6kg,throws,male,u20
+400,76.50,,Jakob URBANČ,27 MAY 2004,SLO,1,"Športni park, Domžale (SLO)",19 MAR 2023,,hammer-throw-6kg,throws,male,u20
+403,76.49,,Miguel Ángel ZAMORA,25 JAN 1999,CUB,1,Las Tunas (CUB),09 FEB 2018,,hammer-throw-6kg,throws,male,u20
+404,76.47,,Özkan BALTACI,13 FEB 1994,TUR,1,Bursa (TUR),05 MAY 2012,,hammer-throw-6kg,throws,male,u20
+405,76.45,,Serghei MARGHIEV,06 NOV 1992,MDA,1,Chisinau (MDA),28 MAY 2011,,hammer-throw-6kg,throws,male,u20
+405,76.45,,Bence PÁSZTOR,05 FEB 1995,HUN,1,Budapest (HUN),02 MAR 2014,,hammer-throw-6kg,throws,male,u20
+407,76.43,,Werner SMIT,14 SEP 1984,RSA,1,"National Stadium, Kingston (JAM)",17 JUL 2002,,hammer-throw-6kg,throws,male,u20
+407,76.43,,Joaquin GOMEZ,14 OCT 1996,ARG,1,Buenos Aires (ARG),27 MAR 2015,,hammer-throw-6kg,throws,male,u20
+407,76.43,,Max LAMPINEN,11 OCT 2004,FIN,1,"Bislett Stadion, Oslo (NOR)",23 JUL 2023,,hammer-throw-6kg,throws,male,u20
+410,76.42,,Raman ZHOLUDZEU,08 JAN 1996,BLR,1,Minsk (BLR),10 APR 2015,,hammer-throw-6kg,throws,male,u20
+411,76.41,,Quentin BIGOT,01 DEC 1992,FRA,1,Forbach (FRA),29 MAY 2011,,hammer-throw-6kg,throws,male,u20
+411,76.41,,Benedek DOMA,17 OCT 2001,HUN,1,"Sugár úti Atlétikai Centrum, Szombathely (HUN)",24 SEP 2020,,hammer-throw-6kg,throws,male,u20
+413,76.39,,Dániel RÁBA,24 APR 1998,HUN,1,Budapest (HUN),17 JUN 2017,,hammer-throw-6kg,throws,male,u20
+413,76.39,,Ármin SZABADOS,11 JAN 2006,HUN,1,"Sportcentrum, Pápa (HUN)",20 APR 2024,,hammer-throw-6kg,throws,male,u20
+415,76.38,,Yury SHAYUNOU,22 OCT 1987,BLR,1,Brest (BLR),28 APR 2006,,hammer-throw-6kg,throws,male,u20
+415,76.38,,Aleksi JAAKKOLA,17 NOV 1997,FIN,1,Kaustinen (FIN),20 FEB 2016,,hammer-throw-6kg,throws,male,u20
+415,76.38,,Jan DOLEŽÁLEK,23 MAY 2002,CZE,1,"Vitkovice, Ostrava (CZE)",05 SEP 2020,,hammer-throw-6kg,throws,male,u20
+418,76.37,,Eivind HENRIKSEN,14 SEP 1990,NOR,1,Bottnaryd (SWE),28 JUN 2009,,hammer-throw-6kg,throws,male,u20
+419,76.36,,Miguel Ángel ZAMORA,25 JAN 1999,CUB,1,La Habana (CUB),17 FEB 2018,,hammer-throw-6kg,throws,male,u20
+420,76.35,,Ioannis KORAKIDIS,23 JUN 2003,GRE,1,"National Stadium, Serres (GRE)",25 MAY 2022,,hammer-throw-6kg,throws,male,u20
+421,76.34,,Markus JOHANSSON,08 MAY 1990,SWE,2,Torsby (SWE),30 MAY 2009,,hammer-throw-6kg,throws,male,u20
+422,76.33,,Max LAMPINEN,11 OCT 2004,FIN,2,"Pascual Guerrero Stadium, Cali (COL)",04 AUG 2022,,hammer-throw-6kg,throws,male,u20
+422,76.33,,Ármin SZABADOS,11 JAN 2006,HUN,1,"Lantos Mihály Sportközpont, Budapest (HUN)",16 MAR 2024,,hammer-throw-6kg,throws,male,u20
+424,76.32,,Yury SHAYUNOU,22 OCT 1987,BLR,1,Brest (BLR),14 JUL 2006,,hammer-throw-6kg,throws,male,u20
+424,76.32,,Hilmar Örn JÓNSSON,06 MAY 1996,ISL,1,Saudárkrókur (ISL),15 AUG 2015,,hammer-throw-6kg,throws,male,u20
+424,76.32,,Iosif KESIDIS,19 AUG 2005,CYP,3,"Pascual Guerrero Stadium, Cali (COL)",04 AUG 2022,,hammer-throw-6kg,throws,male,u20
+424,76.32,,Miklós CSEKŐ,25 MAR 2004,HUN,1,"Atlétikai Központ, Szolnok (HUN)",15 JUL 2023,,hammer-throw-6kg,throws,male,u20
+424,76.32,,Aatu KANGASNIEMI,25 FEB 2006,FIN,1,"Tammelan urheilukenttä, Tammela (FIN)",29 MAY 2025,,hammer-throw-6kg,throws,male,u20
+429,76.31,,Ilya TERENTEV,25 JAN 1995,RUS,3,"Hayward Field, Eugene, OR (USA)",25 JUL 2014,,hammer-throw-6kg,throws,male,u20
+429,76.31,,Hilmar Örn JÓNSSON,06 MAY 1996,ISL,3,Mannheim (GER),27 JUN 2015,,hammer-throw-6kg,throws,male,u20
+431,76.30,,Vítor COSTA,28 MAY 1974,POR,,Evry (FRA),05 JUN 1993,,hammer-throw-6kg,throws,male,u20
+431,76.30,,Aleh DUBITSKI,19 OCT 1990,BLR,2,Brest (BLR),14 JUN 2008,,hammer-throw-6kg,throws,male,u20
+431,76.30,,Qi WANG,10 FEB 2001,CHN,1,"Shanxi Sports Center Stadium, Taiyuan (CHN)",14 AUG 2019,,hammer-throw-6kg,throws,male,u20
+434,76.28,,Andrey AZARENKOV,26 SEP 1985,RUS,1,Toulouse (FRA),06 MAR 2004,,hammer-throw-6kg,throws,male,u20
+434,76.28,,Kristóf NÉMETH,17 SEP 1987,HUN,1,Budapest (HUN),05 JUN 2005,,hammer-throw-6kg,throws,male,u20
+434,76.28,,Merlin HUMMEL,04 JAN 2002,GER,1,"Sepp-Brenninger-Stadion, Erding (GER)",27 SEP 2020,,hammer-throw-6kg,throws,male,u20
+437,76.27,,Valeriy PRONKIN,15 JUN 1994,RUS,1,Krasnodar (RUS),19 MAY 2012,,hammer-throw-6kg,throws,male,u20
+438,76.26,,Ákos HUDI,10 AUG 1991,HUN,1,Veszprém (HUN),18 APR 2010,,hammer-throw-6kg,throws,male,u20
+438,76.26,,Orestis NTOUSAKIS,02 MAY 2002,GRE,1,"Kaftanzoglio throws auxiliary field, Thessaloniki (GRE)",03 JUL 2021,,hammer-throw-6kg,throws,male,u20
+438,76.26,,Ronald MENCIA ZAYAS,26 AUG 2002,CUB,1q,"Estadio Panamericano, La Habana (CUB)",06 AUG 2021,,hammer-throw-6kg,throws,male,u20
+441,76.25,,Orestis NTOUSAKIS,02 MAY 2002,GRE,1q1,"Moi International Sports Centre, Kasarani, Nairobi (KEN)",18 AUG 2021,,hammer-throw-6kg,throws,male,u20
+442,76.24,,Valentin ANDREEV,19 JAN 2002,BUL,2,"Ekrem Koçak Atletizm Pisti, Istanbul (TUR)",12 SEP 2020,,hammer-throw-6kg,throws,male,u20
+443,76.23,,Dániel SZABÓ,28 JUN 1991,HUN,1,Budapest (HUN),22 MAY 2010,,hammer-throw-6kg,throws,male,u20
+443,76.23,,Bence HALÁSZ,04 AUG 1997,HUN,1,Szombathely (HUN),03 MAY 2015,,hammer-throw-6kg,throws,male,u20
+445,76.22,,Dániel SZABÓ,28 JUN 1991,HUN,1,Szombathely (HUN),19 MAY 2010,,hammer-throw-6kg,throws,male,u20
+446,76.19,,Dániel SZABÓ,28 JUN 1991,HUN,2,Szombathely (HUN),13 MAR 2010,,hammer-throw-6kg,throws,male,u20
+447,76.18,,Ragnar CARLSSON,16 NOV 2000,SWE,2,Mannheim (GER),23 JUN 2018,,hammer-throw-6kg,throws,male,u20
+447,76.18,,Ronald MENCIA ZAYAS,26 AUG 2002,CUB,1q,"Estadio Panamericano, La Habana (CUB)",30 JUL 2021,,hammer-throw-6kg,throws,male,u20
+449,76.17,,Ákos HUDI,10 AUG 1991,HUN,1,Veszprém (HUN),16 OCT 2010,,hammer-throw-6kg,throws,male,u20
+450,76.16,,Sukhrob KHODJAEV,21 MAY 1993,UZB,3,"Estadio Olímpico, Barcelona (ESP)",14 JUL 2012,,hammer-throw-6kg,throws,male,u20
+450,76.16,,Ronald MENCIA ZAYAS,26 AUG 2002,CUB,1,"Estadio Panamericano, La Habana (CUB)",07 AUG 2021,,hammer-throw-6kg,throws,male,u20
+452,76.15,,Hlib PISKUNOV,25 NOV 1998,UKR,2q1,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",20 JUL 2016,,hammer-throw-6kg,throws,male,u20
+453,76.14,,Özkan BALTACI,13 FEB 1994,TUR,1,Mersin (TUR),17 FEB 2013,,hammer-throw-6kg,throws,male,u20
+453,76.14,,Bence PÁSZTOR,05 FEB 1995,HUN,1,Veszprém (HUN),19 OCT 2013,,hammer-throw-6kg,throws,male,u20
+453,76.14,,Ronald MENCIA ZAYAS,26 AUG 2002,CUB,1,"Estadio Panamericano, La Habana (CUB)",20 MAR 2020,,hammer-throw-6kg,throws,male,u20
+456,76.13,,Javier CIENFUEGOS,15 JUL 1990,ESP,1,Majadahonda (ESP),14 JUN 2008,,hammer-throw-6kg,throws,male,u20
+456,76.13,,Ákos HUDI,10 AUG 1991,HUN,1,Budapest (HUN),08 MAY 2010,,hammer-throw-6kg,throws,male,u20
+456,76.13,,Giorgio OLIVIERI,05 NOV 2000,ITA,1,Ancona (ITA),30 JUN 2018,,hammer-throw-6kg,throws,male,u20
+459,76.12,,Bence HALÁSZ,04 AUG 1997,HUN,1,Veszprém (HUN),07 JUN 2015,,hammer-throw-6kg,throws,male,u20
+459,76.12,,Jake NORRIS,30 JUN 1999,GBR,1,Bracknell (GBR),14 MAY 2017,,hammer-throw-6kg,throws,male,u20
+459,76.12,,Nikolaos POLYCHRONIOU,29 MAY 2003,GRE,4,"Pascual Guerrero Stadium, Cali (COL)",04 AUG 2022,,hammer-throw-6kg,throws,male,u20
+462,76.11,,Kristóf NÉMETH,17 SEP 1987,HUN,1,Szombathely (HUN),21 MAY 2005,,hammer-throw-6kg,throws,male,u20
+463,76.10,,Mohsen ANANI,21 MAY 1985,EGY,1,Cairo (EGY),11 AUG 2004,,hammer-throw-6kg,throws,male,u20
+464,76.09,,Anatoliy POZDNYAKOV,01 FEB 1987,RUS,5,"Chaoyang Sport Center, Beijing (CHN)",18 AUG 2006,,hammer-throw-6kg,throws,male,u20
+464,76.09,,Joaquin GOMEZ,14 OCT 1996,ARG,1,Buenos Aires (ARG),07 MAR 2015,,hammer-throw-6kg,throws,male,u20
+466,76.08,,Kristóf NÉMETH,17 SEP 1987,HUN,1,Szombathely (HUN),20 SEP 2006,,hammer-throw-6kg,throws,male,u20
+466,76.08,,Javier CIENFUEGOS,15 JUL 1990,ESP,1,"Colegio Tajamar, Madrid (ESP)",15 FEB 2009,,hammer-throw-6kg,throws,male,u20
+468,76.07,,Ragnar CARLSSON,16 NOV 2000,SWE,1,Bottnaryd (SWE),17 JUN 2018,,hammer-throw-6kg,throws,male,u20
+468,76.07,,Miguel Ángel ZAMORA,25 JAN 1999,CUB,1,Camagüey (CUB),28 JUN 2018,,hammer-throw-6kg,throws,male,u20
+470,76.06,,Raman ZHOLUDZEU,08 JAN 1996,BLR,2,Brest (BLR),25 JUN 2014,,hammer-throw-6kg,throws,male,u20
+471,76.05,,Conor MCCULLOUGH,31 JAN 1991,USA,1q1,"Croix-Bleue Medavie Stadium, Moncton (CAN)",23 JUL 2010,,hammer-throw-6kg,throws,male,u20
+471,76.05,,Alexandros POURSANIDIS,23 JAN 1993,CYP,4,"Estadio Olímpico, Barcelona (ESP)",14 JUL 2012,,hammer-throw-6kg,throws,male,u20
+473,76.04,,Donát VARGA,08 APR 2000,HUN,1,Szombathely (HUN),23 FEB 2019,,hammer-throw-6kg,throws,male,u20
+474,76.03,,Eivind HENRIKSEN,14 SEP 1990,NOR,1,"Lambertseter Stadion, Oslo (NOR)",04 OCT 2009,,hammer-throw-6kg,throws,male,u20
+474,76.03,,Hilmar Örn JÓNSSON,06 MAY 1996,ISL,2q1,"Hayward Field, Eugene, OR (USA)",24 JUL 2014,,hammer-throw-6kg,throws,male,u20
+474,76.03,,Aliaksandr SHYMANOVICH,09 FEB 1998,BLR,2q2,"Stadio Zecchini, Grosseto (ITA)",20 JUL 2017,,hammer-throw-6kg,throws,male,u20
+477,76.02,,Dániel SZABÓ,28 JUN 1991,HUN,2,Budapest (HUN),30 MAY 2010,,hammer-throw-6kg,throws,male,u20
+477,76.02,,Miguel Alberto BLANCO,22 FEB 1996,ESP,1,Gavá (ESP),11 JUL 2015,,hammer-throw-6kg,throws,male,u20
+479,76.01,,Ákos HUDI,10 AUG 1991,HUN,1,Budapest (HUN),29 MAY 2009,,hammer-throw-6kg,throws,male,u20
+480,76.00,,Kristóf NÉMETH,17 SEP 1987,HUN,1,Szombathely (HUN),08 JUN 2006,,hammer-throw-6kg,throws,male,u20
+480,76.00,,Aleksey KOCHNEV,06 APR 1990,RUS,1,Saransk (RUS),03 JUL 2009,,hammer-throw-6kg,throws,male,u20
+482,75.99,,Reinier MEJÍAS,22 SEP 1990,CUB,1,La Habana (CUB),13 FEB 2009,,hammer-throw-6kg,throws,male,u20
+482,75.99,,Hilmar Örn JÓNSSON,06 MAY 1996,ISL,1,Kristiansand (NOR),17 AUG 2014,,hammer-throw-6kg,throws,male,u20
+482,75.99,,Hugo TAVERNIER,01 DEC 1999,FRA,5,"Ratinan Stadion, Tampere (FIN)",13 JUL 2018,,hammer-throw-6kg,throws,male,u20
+482,75.99,,Nikolaos POLYCHRONIOU,29 MAY 2003,GRE,2,"Kaftanzoglio warm-up track, Thessaloniki (GRE)",15 JUN 2022,,hammer-throw-6kg,throws,male,u20
+486,75.98,,Shixian GONG,24 AUG 1996,CHN,1,Fuzhou (CHN),23 OCT 2015,,hammer-throw-6kg,throws,male,u20
+487,75.97,,Dakai QI,23 MAY 1987,CHN,6,"Chaoyang Sport Center, Beijing (CHN)",18 AUG 2006,,hammer-throw-6kg,throws,male,u20
+488,75.96,,Serhiy REHEDA,06 FEB 1994,UKR,1,Yalta (UKR),24 MAR 2012,,hammer-throw-6kg,throws,male,u20
+489,75.95,,Matko TEŠIJA,04 MAR 1985,CRO,1,Hartberg (AUT),18 MAY 2003,,hammer-throw-6kg,throws,male,u20
+489,75.95,,Andriy MARTYNYUK,23 SEP 1990,UKR,3,Halle (GER),23 MAY 2009,,hammer-throw-6kg,throws,male,u20
+489,75.95,,Joaquin GOMEZ,14 OCT 1996,ARG,1,Azul (ARG),25 FEB 2015,,hammer-throw-6kg,throws,male,u20
+489,75.95,,Dániel RÁBA,24 APR 1998,HUN,3,"Stadio Zecchini, Grosseto (ITA)",21 JUL 2017,,hammer-throw-6kg,throws,male,u20
+493,75.94,,Valentin ANDREEV,19 JAN 2002,BUL,1,"Vasil Levski National Stadium, Sofia (BUL)",29 MAY 2021,,hammer-throw-6kg,throws,male,u20
+494,75.92,,Javier CIENFUEGOS,15 JUL 1990,ESP,1,"Colegio Tajamar, Madrid (ESP)",15 MAY 2008,,hammer-throw-6kg,throws,male,u20
+494,75.92,,Reinier MEJÍAS,22 SEP 1990,CUB,1,"Estadio Panamericano, La Habana (CUB)",06 FEB 2009,,hammer-throw-6kg,throws,male,u20
+496,75.91,,Joshua HERNANDEZ,01 FEB 1998,USA,1,"Sacramento, CA (USA)",24 JUN 2017,,hammer-throw-6kg,throws,male,u20
+497,75.90,,Yevgeniy AYDAMIROV,11 MAY 1987,RUS,2q2,"Chaoyang Sport Center, Beijing (CHN)",16 AUG 2006,,hammer-throw-6kg,throws,male,u20
+497,75.90,,Rudy WINKLER,06 DEC 1994,USA,1,"West Point, NY (USA)",02 JUL 2013,,hammer-throw-6kg,throws,male,u20
+497,75.90,,Bence HALÁSZ,04 AUG 1997,HUN,1,Veszprém (HUN),25 APR 2015,,hammer-throw-6kg,throws,male,u20
+497,75.90,,Matija GREGURIĆ,17 SEP 1996,CRO,1,Zagreb (CRO),02 MAY 2015,,hammer-throw-6kg,throws,male,u20
+497,75.90,,Bence HALÁSZ,04 AUG 1997,HUN,1,Miskolc (HUN),27 JUN 2015,,hammer-throw-6kg,throws,male,u20
+497,75.90,,Dzianis SHABASAU,27 MAR 2000,BLR,1,Brest (BLR),26 APR 2019,,hammer-throw-6kg,throws,male,u20
+497,75.90,,Merlin HUMMEL,04 JAN 2002,GER,1,"Dantestadion, München (GER)",09 MAY 2021,,hammer-throw-6kg,throws,male,u20
+497,75.90,,Aatu KANGASNIEMI,25 FEB 2006,FIN,1,"Eläintarhan urheilukenttä, Helsinki (FIN)",19 MAY 2025,,hammer-throw-6kg,throws,male,u20
+505,75.88,,Conor MCCULLOUGH,31 JAN 1991,USA,2,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",12 JUL 2008,,hammer-throw-6kg,throws,male,u20
+505,75.88,,Richard OLBRICH,07 APR 1990,GER,1,Rhede (GER),08 AUG 2009,,hammer-throw-6kg,throws,male,u20
+505,75.88,,Alexei MIKHAILOV,12 APR 1996,GER,4,"Hayward Field, Eugene, OR (USA)",25 JUL 2014,,hammer-throw-6kg,throws,male,u20
+505,75.88,,Humberto MANSILLA,22 MAY 1996,CHI,2,Buenos Aires (ARG),27 MAR 2015,,hammer-throw-6kg,throws,male,u20
+505,75.88,,Aaron KANGAS,03 JUL 1997,FIN,2,Nurmijärvi (FIN),14 JUN 2016,,hammer-throw-6kg,throws,male,u20
+505,75.88,,Merlin HUMMEL,04 JAN 2002,GER,1,"Sportplatz Allee der Kosmonauten 131, Berlin-Marzhan, Berlin (GER)",27 JUN 2020,,hammer-throw-6kg,throws,male,u20
+505,75.88,,Miklós CSEKŐ,25 MAR 2004,HUN,1,"Egyetemi Stadion, Veszprém (HUN)",07 MAY 2022,,hammer-throw-6kg,throws,male,u20
+505,75.88,,Max LAMPINEN,11 OCT 2004,FIN,1,"Tammelan urheilukenttä, Tammela (FIN)",10 JUN 2023,,hammer-throw-6kg,throws,male,u20
+513,75.87,,Matthew DENNY,02 JUN 1996,AUS,1,Gold Coast (AUS),28 JUN 2014,,hammer-throw-6kg,throws,male,u20
+513,75.87,,Dániel RÁBA,24 APR 1998,HUN,2,Miskolc (HUN),01 JUL 2016,,hammer-throw-6kg,throws,male,u20
+513,75.87,,Miklós CSEKŐ,25 MAR 2004,HUN,1,"Egyetemi Stadion, Veszprém (HUN)",17 JUN 2023,,hammer-throw-6kg,throws,male,u20
+516,75.86,,Kristóf NÉMETH,17 SEP 1987,HUN,1,Budapest (HUN),08 MAY 2005,,hammer-throw-6kg,throws,male,u20
+517,75.85,,Kirill IKONNIKOV,05 MAR 1984,RUS,1,"Adler, Sochi (RUS)",22 FEB 2003,,hammer-throw-6kg,throws,male,u20
+517,75.85,,Ilya TERENTEV,25 JAN 1995,RUS,2,Krasnodar (RUS),19 MAY 2014,,hammer-throw-6kg,throws,male,u20
+517,75.85,,Mykhailo HAVRYLIUK,19 JAN 1999,UKR,2,Lutsk (UKR),26 JUN 2017,,hammer-throw-6kg,throws,male,u20
+520,75.84,,Marcel LOMNICKÝ,06 JUL 1987,SVK,1,Schwechat (AUT),04 JUN 2006,,hammer-throw-6kg,throws,male,u20
+521,75.83,,Serhiy REHEDA,06 FEB 1994,UKR,1,Kyiv (UKR),19 MAY 2012,,hammer-throw-6kg,throws,male,u20
+521,75.83,,Igor BURIY,08 APR 1993,RUS,5,"Estadio Olímpico, Barcelona (ESP)",14 JUL 2012,,hammer-throw-6kg,throws,male,u20
+523,75.82,,Angelos MANTZOURANIS,01 MAY 2004,GRE,1,"National Stadium, Serres (GRE)",24 MAY 2023,,hammer-throw-6kg,throws,male,u20
+524,75.81,,Aliaksandr SHYMANOVICH,09 FEB 1998,BLR,1q2,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",20 JUL 2016,,hammer-throw-6kg,throws,male,u20
+525,75.80,,Matthew DENNY,02 JUN 1996,AUS,1,Sydney (AUS),14 MAR 2015,,hammer-throw-6kg,throws,male,u20
+525,75.80,,Aliaksandr SHYMANOVICH,09 FEB 1998,BLR,1,Zhirovichi (BLR),08 JUL 2016,,hammer-throw-6kg,throws,male,u20
+527,75.79,,Yuriy KUZIV,29 MAY 1996,RUS,1,"Adler, Sochi (RUS)",23 APR 2015,,hammer-throw-6kg,throws,male,u20
+528,75.78,,Aliaksandr SHYMANOVICH,09 FEB 1998,BLR,1,Minsk (BLR),09 JUN 2016,,hammer-throw-6kg,throws,male,u20
+528,75.78,,Aatu KANGASNIEMI,25 FEB 2006,FIN,1,"Nikkilän keskusurheilukenttä, Sipoo (FIN)",24 JUL 2024,,hammer-throw-6kg,throws,male,u20
+530,75.77,,Joaquin GOMEZ,14 OCT 1996,ARG,2q2,"Hayward Field, Eugene, OR (USA)",24 JUL 2014,,hammer-throw-6kg,throws,male,u20
+530,75.77,,Bence HALÁSZ,04 AUG 1997,HUN,1,Szombathely (HUN),17 JUN 2015,,hammer-throw-6kg,throws,male,u20
+532,75.76,,Dawid PIŁAT,06 FEB 2002,POL,1,"Stadion MOSiR, Stalowa Wola (POL)",28 AUG 2021,,hammer-throw-6kg,throws,male,u20
+533,75.74,,Bence PÁSZTOR,05 FEB 1995,HUN,1,Veszprém (HUN),13 JUN 2013,,hammer-throw-6kg,throws,male,u20
+533,75.74,,Christos FRANTZESKAKIS,26 APR 2000,GRE,1q2,"Ryavallen, Borås (SWE)",18 JUL 2019,,hammer-throw-6kg,throws,male,u20
+533,75.74,,Tomasz RATAJCZYK,20 SEP 2002,POL,1,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",26 JUL 2020,,hammer-throw-6kg,throws,male,u20
+533,75.74,,Tomasz RATAJCZYK,20 SEP 2002,POL,1,"Stadion MOSiR, Lublin (POL)",08 MAY 2021,,hammer-throw-6kg,throws,male,u20
+537,75.73,,Daniil DANILOV,05 JAN 1998,RUS,1,"Adler, Sochi (RUS)",11 FEB 2016,,hammer-throw-6kg,throws,male,u20
+538,75.72,,Werner SMIT,14 SEP 1984,RSA,1,"Parow, Cape Town (RSA)",19 DEC 2003,,hammer-throw-6kg,throws,male,u20
+538,75.72,,Kristóf NÉMETH,17 SEP 1987,HUN,1,Szombathely (HUN),02 APR 2005,,hammer-throw-6kg,throws,male,u20
+540,75.71,,Mohsen ANANI,21 MAY 1985,EGY,1,Cairo (EGY),22 AUG 2003,,hammer-throw-6kg,throws,male,u20
+540,75.71,,Matija GREGURIĆ,17 SEP 1996,CRO,5,"Hayward Field, Eugene, OR (USA)",25 JUL 2014,,hammer-throw-6kg,throws,male,u20
+540,75.71,,Max LAMPINEN,11 OCT 2004,FIN,1,"Eläintarhan urheilukenttä, Helsinki (FIN)",17 JUL 2023,,hammer-throw-6kg,throws,male,u20
+543,75.70,,Mohsen ANANI,21 MAY 1985,EGY,1,Cairo (EGY),23 APR 2004,,hammer-throw-6kg,throws,male,u20
+543,75.70,,Ákos HUDI,10 AUG 1991,HUN,1,Veszprém (HUN),12 MAY 2009,,hammer-throw-6kg,throws,male,u20
+543,75.70,,Ákos HUDI,10 AUG 1991,HUN,1,Szombathely (HUN),14 OCT 2010,,hammer-throw-6kg,throws,male,u20
+543,75.70,,Mykhailo HAVRYLIUK,19 JAN 1999,UKR,1,Lutsk (UKR),03 JUN 2018,,hammer-throw-6kg,throws,male,u20
+543,75.70,,Giorgio OLIVIERI,05 NOV 2000,ITA,1,Lucca (ITA),23 FEB 2019,,hammer-throw-6kg,throws,male,u20
+548,75.68,,Jan EMBERŠIČ,06 APR 2003,SLO,2,"Atletski stadion Poljane, Maribor (SLO)",16 JUL 2022,,hammer-throw-6kg,throws,male,u20
+549,75.67,,Bence HALÁSZ,04 AUG 1997,HUN,1,Veszprém (HUN),08 JUN 2014,,hammer-throw-6kg,throws,male,u20
+550,75.66,,Bence PÁSZTOR,05 FEB 1995,HUN,1,Budapest (HUN),02 JUN 2012,,hammer-throw-6kg,throws,male,u20
+551,75.65,,Mohsen ANANI,21 MAY 1985,EGY,,Szombathely (HUN),12 JUN 2004,,hammer-throw-6kg,throws,male,u20
+551,75.65,,Kristóf NÉMETH,17 SEP 1987,HUN,1,Budapest (HUN),05 MAR 2005,,hammer-throw-6kg,throws,male,u20
+551,75.65,,Hilmar Örn JÓNSSON,06 MAY 1996,ISL,1,Mannheim (GER),05 JUL 2014,,hammer-throw-6kg,throws,male,u20
+554,75.63,,Taylor CAMPBELL,30 JUN 1996,GBR,6,"Ekängens Friidrottsarena, Eskilstuna (SWE)",17 JUL 2015,,hammer-throw-6kg,throws,male,u20
+554,75.63,,Merlin HUMMEL,04 JAN 2002,GER,1,"Sportzentrum, Wiesau (GER)",25 JAN 2020,,hammer-throw-6kg,throws,male,u20
+554,75.63,,Jan DOLEŽÁLEK,23 MAY 2002,CZE,1,Nové Město nad Metují (CZE),29 AUG 2020,,hammer-throw-6kg,throws,male,u20
+557,75.62,,Aaron FISH,27 FEB 1981,AUS,1,Brisbane (AUS),03 SEP 2000,,hammer-throw-6kg,throws,male,u20
+557,75.62,,Mikhail LEVIN,10 APR 1986,RUS,2,Toulouse (FRA),06 MAR 2004,,hammer-throw-6kg,throws,male,u20
+557,75.62,,Aliaksandr SHYMANOVICH,09 FEB 1998,BLR,1,Brno (CZE),16 SEP 2017,,hammer-throw-6kg,throws,male,u20
+557,75.62,,Valentin ANDREEV,19 JAN 2002,BUL,2q1,"Kadrioru staadion, Tallinn (EST)",15 JUL 2021,,hammer-throw-6kg,throws,male,u20
+561,75.61,,Siarhei KALAMOYETS,11 AUG 1989,BLR,1,Brest (BLR),25 APR 2008,,hammer-throw-6kg,throws,male,u20
+561,75.61,,Bence PÁSZTOR,05 FEB 1995,HUN,1q1,"Stadio Guidobaldi, Rieti (ITA)",18 JUL 2013,,hammer-throw-6kg,throws,male,u20
+563,75.60,,Ákos HUDI,10 AUG 1991,HUN,2,Budapest (HUN),22 MAY 2010,,hammer-throw-6kg,throws,male,u20
+563,75.60,,Joelvis HERNÁNDEZ,17 SEP 1991,CUB,1,La Habana (CUB),12 JUN 2010,,hammer-throw-6kg,throws,male,u20
+563,75.60,,Serhiy REHEDA,06 FEB 1994,UKR,1,Yalta (UKR),28 MAR 2013,,hammer-throw-6kg,throws,male,u20
+563,75.60,,Aleksi JAAKKOLA,17 NOV 1997,FIN,1,Kankaanpää (FIN),26 MAY 2015,,hammer-throw-6kg,throws,male,u20
+563,75.60,,Aliaksandr SHYMANOVICH,09 FEB 1998,BLR,1,Lutsk (UKR),13 MAY 2017,,hammer-throw-6kg,throws,male,u20
+563,75.60,,Aliaksandr SHYMANOVICH,09 FEB 1998,BLR,1,Brest (BLR),28 JUN 2017,,hammer-throw-6kg,throws,male,u20
+563,75.60,,Ethan KATZBERG,05 APR 2002,CAN,1,"Cowichan Sportsplex, Duncan (CAN)",12 MAY 2021,,hammer-throw-6kg,throws,male,u20
+570,75.59,,Guram FEROYEV,08 OCT 1983,RUS,1,Kazan (RUS),26 JUN 2002,,hammer-throw-6kg,throws,male,u20
+570,75.59,,Ákos HUDI,10 AUG 1991,HUN,1,Székesfehérvár (HUN),27 JUN 2009,,hammer-throw-6kg,throws,male,u20
+570,75.59,,Alaa EL ASHRY,06 JAN 1991,EGY,1,Bambous (MRI),31 JUL 2009,,hammer-throw-6kg,throws,male,u20
+570,75.59,,Dawid PIŁAT,06 FEB 2002,POL,1,"Stadion Juwenia, Przemyśl (POL)",27 JUN 2020,,hammer-throw-6kg,throws,male,u20
+574,75.58,,Yevgeniy AYDAMIROV,11 MAY 1987,RUS,1q,Tula (RUS),02 JUL 2005,,hammer-throw-6kg,throws,male,u20
+575,75.57,,Ilya TERENTEV,25 JAN 1995,RUS,1,Sochi (RUS),23 APR 2014,,hammer-throw-6kg,throws,male,u20
+576,75.56,,Matija GREGURIĆ,17 SEP 1996,CRO,1,Varaždin (CRO),28 JUN 2015,,hammer-throw-6kg,throws,male,u20
+577,75.55,,Conor MCCULLOUGH,31 JAN 1991,USA,1,"Walnut, CA (USA)",15 JUN 2008,,hammer-throw-6kg,throws,male,u20
+578,75.54,,Merlin HUMMEL,04 JAN 2002,GER,1,"Hammerwurf-Anlage KSV Fürth, Fürth (GER)",22 AUG 2020,,hammer-throw-6kg,throws,male,u20
+579,75.53,,Serghei MARGHIEV,06 NOV 1992,MDA,1,Chisinau (MDA),05 FEB 2011,,hammer-throw-6kg,throws,male,u20
+579,75.53,,Ashraf ELSEIFY,20 FEB 1995,QAT,1,Doha (QAT),06 APR 2014,,hammer-throw-6kg,throws,male,u20
+581,75.52,,Alberto GONZÁLEZ,01 JUN 1998,ESP,5,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",22 JUL 2016,,hammer-throw-6kg,throws,male,u20
+581,75.52,,Dániel RÁBA,24 APR 1998,HUN,1,Leiria (POR),29 JUL 2017,,hammer-throw-6kg,throws,male,u20
+583,75.51,,Alaa EL ASHRY,06 JAN 1991,EGY,1,Cairo (EGY),06 MAY 2010,,hammer-throw-6kg,throws,male,u20
+583,75.51,,Bence PÁSZTOR,05 FEB 1995,HUN,1,Veszprém (HUN),17 SEP 2014,,hammer-throw-6kg,throws,male,u20
+585,75.50,,Kristóf NÉMETH,17 SEP 1987,HUN,2,Schwechat (AUT),04 JUN 2006,,hammer-throw-6kg,throws,male,u20
+585,75.50,,Hilmar Örn JÓNSSON,06 MAY 1996,ISL,1,Hafnarfjördur (ISL),06 MAY 2015,,hammer-throw-6kg,throws,male,u20
+587,75.49,,Bence HALÁSZ,04 AUG 1997,HUN,1,Szombathely (HUN),02 JUL 2014,,hammer-throw-6kg,throws,male,u20
+587,75.49,,Bence HALÁSZ,04 AUG 1997,HUN,1,Szombathely (HUN),18 APR 2015,,hammer-throw-6kg,throws,male,u20
+589,75.48,,Alexander ZIEGLER,07 JUL 1987,GER,1f,Heidenheim (GER),01 JUL 2006,,hammer-throw-6kg,throws,male,u20
+589,75.48,,Yuriy KUZIV,29 MAY 1996,RUS,2,"Yunost Stadium, Adler, Sochi (RUS)",23 FEB 2015,,hammer-throw-6kg,throws,male,u20
+591,75.47,,Raman ZHOLUDZEU,08 JAN 1996,BLR,1,Brest (BLR),29 APR 2015,,hammer-throw-6kg,throws,male,u20
+592,75.46,,Andriy MARTYNYUK,23 SEP 1990,UKR,1,Yalta (UKR),16 JUN 2008,,hammer-throw-6kg,throws,male,u20
+593,75.45,,Dániel SZABÓ,28 JUN 1991,HUN,1,Szombathely (HUN),14 MAY 2010,,hammer-throw-6kg,throws,male,u20
+594,75.44,,Yann CHAUSSINAND,11 MAY 1998,FRA,1,Dreux (FRA),02 JUL 2017,,hammer-throw-6kg,throws,male,u20
+595,75.43,,Igor SERGEEV,07 AUG 1989,RUS,1,Zhukovskiy (RUS),29 JUN 2007,,hammer-throw-6kg,throws,male,u20
+595,75.43,,Miguel Alberto BLANCO,22 FEB 1996,ESP,1,Valladolid (ESP),05 JUL 2015,,hammer-throw-6kg,throws,male,u20
+595,75.43,,Donát VARGA,08 APR 2000,HUN,1,Miskolc (HUN),10 JUN 2018,,hammer-throw-6kg,throws,male,u20
+595,75.43,,Valentin ANDREEV,19 JAN 2002,BUL,2q1,"Ryavallen, Borås (SWE)",18 JUL 2019,,hammer-throw-6kg,throws,male,u20
+599,75.42,,Aleh DUBITSKI,19 OCT 1990,BLR,3,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",12 JUL 2008,,hammer-throw-6kg,throws,male,u20
+599,75.42,,Georgios PAPANASTASIOU,09 DEC 2005,GRE,1,"National Stadium, Serres (GRE)",22 MAY 2024,,hammer-throw-6kg,throws,male,u20
+601,75.41,,Igor YEVSEYEV,27 MAR 1996,RUS,2,Cheboksary (RUS),26 JUN 2015,,hammer-throw-6kg,throws,male,u20
+602,75.40,,Michail ANASTASAKIS,03 DEC 1994,GRE,1,Larisa (GRE),29 JUN 2013,,hammer-throw-6kg,throws,male,u20
+602,75.40,,Donát VARGA,08 APR 2000,HUN,1,Szombathely (HUN),18 MAY 2019,,hammer-throw-6kg,throws,male,u20
+604,75.39,,Ilya TERENTEV,25 JAN 1995,RUS,3q2,"Hayward Field, Eugene, OR (USA)",24 JUL 2014,,hammer-throw-6kg,throws,male,u20
+605,75.38,,Giorgio OLIVIERI,05 NOV 2000,ITA,2q2,"Ryavallen, Borås (SWE)",18 JUL 2019,,hammer-throw-6kg,throws,male,u20
+606,75.37,,Joaquin GOMEZ,14 OCT 1996,ARG,1,Buenos Aires (ARG),28 JUN 2014,,hammer-throw-6kg,throws,male,u20
+607,75.36,,Dániel SZABÓ,28 JUN 1991,HUN,1,Szombathely (HUN),15 JUL 2009,,hammer-throw-6kg,throws,male,u20
+607,75.36,,Jan EMBERŠIČ,06 APR 2003,SLO,1,"Športni center Vinko Cajnko, Slovenj Gradec (SLO)",21 MAY 2022,,hammer-throw-6kg,throws,male,u20
+609,75.35,,Ákos HUDI,10 AUG 1991,HUN,,Szombathely (HUN),26 MAY 2009,,hammer-throw-6kg,throws,male,u20
+609,75.35,,Bence HALÁSZ,04 AUG 1997,HUN,1,Potchefstroom (RSA),20 JAN 2016,,hammer-throw-6kg,throws,male,u20
+609,75.35,,Rowan HAMILTON,29 JAN 2000,CAN,1,San José (CRC),19 JUL 2019,,hammer-throw-6kg,throws,male,u20
+612,75.34,,Jean Baptiste BRUXELLE,09 JUL 2002,FRA,1,"Stade d'Honneur Marcel Roustan, Salon-de-Provence (FRA)",15 FEB 2020,,hammer-throw-6kg,throws,male,u20
+613,75.33,,Miguel Ángel ZAMORA,25 JAN 1999,CUB,1,La Habana (CUB),19 MAY 2018,,hammer-throw-6kg,throws,male,u20
+613,75.33,,Ármin SZABADOS,11 JAN 2006,HUN,1,"Atlétikai Központ, Szolnok (HUN)",27 JUL 2024,,hammer-throw-6kg,throws,male,u20
+613,75.33,,Roland IMRE,08 SEP 2005,HUN,2,"Estadio Atlético de la VIDENA, Lima (PER)",29 AUG 2024,,hammer-throw-6kg,throws,male,u20
+616,75.32,,Kristóf NÉMETH,17 SEP 1987,HUN,1,Szombathely (HUN),11 OCT 2006,,hammer-throw-6kg,throws,male,u20
+616,75.32,,Jan EMBERŠIČ,06 APR 2003,SLO,,"Stadion Park Mladeži, Split (CRO)",06 MAR 2022,,hammer-throw-6kg,throws,male,u20
+616,75.32,,Max LAMPINEN,11 OCT 2004,FIN,1q1,"Pascual Guerrero Stadium, Cali (COL)",02 AUG 2022,,hammer-throw-6kg,throws,male,u20
+619,75.31,,Paweł FAJDEK,04 JUN 1989,POL,4,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",12 JUL 2008,,hammer-throw-6kg,throws,male,u20
+620,75.30,,Yevhen VINOHRADOV,30 APR 1984,UKR,1,Kyiv (UKR),03 JUN 2003,,hammer-throw-6kg,throws,male,u20
+620,75.30,,Conor MCCULLOUGH,31 JAN 1991,USA,1,"Eugene, OR (USA)",26 JUN 2009,,hammer-throw-6kg,throws,male,u20
+622,75.29,,Hilmar Örn JÓNSSON,06 MAY 1996,ISL,1,Reykjavík (ISL),11 JUN 2014,,hammer-throw-6kg,throws,male,u20
+622,75.29,,Miklós CSEKŐ,25 MAR 2004,HUN,1,"Egyetemi Stadion, Veszprém (HUN)",27 MAY 2023,,hammer-throw-6kg,throws,male,u20
+624,75.28,,Peter SMITH,20 JUL 1990,GBR,1,"Sportcity Regional Arena, Manchester (GBR)",20 JUN 2009,,hammer-throw-6kg,throws,male,u20
+624,75.28,,Hilmar Örn JÓNSSON,06 MAY 1996,ISL,1,Hafnarfjördur (ISL),04 MAY 2015,,hammer-throw-6kg,throws,male,u20
+624,75.28,,Tomasz RATAJCZYK,20 SEP 2002,POL,1,"Stadion MOSiR, Lublin (POL)",04 JUL 2021,,hammer-throw-6kg,throws,male,u20
+627,75.27,,Hilmar Örn JÓNSSON,06 MAY 1996,ISL,1,Hafnarfjördur (ISL),21 MAY 2014,,hammer-throw-6kg,throws,male,u20
+627,75.27,,Jan DOLEŽÁLEK,23 MAY 2002,CZE,5,"Kadrioru staadion, Tallinn (EST)",16 JUL 2021,,hammer-throw-6kg,throws,male,u20
+629,75.26,,Ilmari LAHTINEN,12 OCT 1993,FIN,6,"Estadio Olímpico, Barcelona (ESP)",14 JUL 2012,,hammer-throw-6kg,throws,male,u20
+629,75.26,,Matthew DENNY,02 JUN 1996,AUS,1,Gold Coast (AUS),08 NOV 2014,,hammer-throw-6kg,throws,male,u20
+629,75.26,,Roland IMRE,08 SEP 2005,HUN,2q1,"Estadio Atlético de la VIDENA, Lima (PER)",27 AUG 2024,,hammer-throw-6kg,throws,male,u20
+632,75.25,,Aaron KANGAS,03 JUL 1997,FIN,1,Raasepori (FIN),12 JUN 2016,,hammer-throw-6kg,throws,male,u20
+633,75.24,,Dániel SZABÓ,28 JUN 1991,HUN,2f1,Veszprém (HUN),01 MAY 2010,,hammer-throw-6kg,throws,male,u20
+633,75.24,,Miklós CSEKŐ,25 MAR 2004,HUN,1,"Egyetemi Stadion, Veszprém (HUN)",01 APR 2023,,hammer-throw-6kg,throws,male,u20
+635,75.23,,Ragnar CARLSSON,16 NOV 2000,SWE,1,Copenhagen (DEN),11 AUG 2018,,hammer-throw-6kg,throws,male,u20
+635,75.23,,Miklós CSEKŐ,25 MAR 2004,HUN,1,"Atletický stadion města Plzně, Plzeň (CZE)",03 JUN 2023,,hammer-throw-6kg,throws,male,u20
+637,75.22,,Alexei MIKHAILOV,12 APR 1996,GER,1,"Wattenscheid, Bochum (GER)",10 AUG 2014,,hammer-throw-6kg,throws,male,u20
+637,75.22,,Aleksi JAAKKOLA,17 NOV 1997,FIN,1,Kaustinen (FIN),25 JUN 2015,,hammer-throw-6kg,throws,male,u20
+639,75.21,,Aatu KANGASNIEMI,25 FEB 2006,FIN,1,"Peltosaaren yleisurheilukenttä, Riihimäki (FIN)",03 AUG 2024,,hammer-throw-6kg,throws,male,u20
+640,75.20,,Bence PÁSZTOR,05 FEB 1995,HUN,1,Veszprém (HUN),19 SEP 2013,,hammer-throw-6kg,throws,male,u20
+640,75.20,,Hilmar Örn JÓNSSON,06 MAY 1996,ISL,1,Hafnarfjördur (ISL),07 JUN 2014,,hammer-throw-6kg,throws,male,u20
+642,75.19,,Joaquin GOMEZ,14 OCT 1996,ARG,1,Buenos Aires (ARG),22 NOV 2014,,hammer-throw-6kg,throws,male,u20
+642,75.19,,Jan DOLEŽÁLEK,23 MAY 2002,CZE,1,"Městský atletický stadion, Pardubice (CZE)",05 JUN 2021,,hammer-throw-6kg,throws,male,u20
+644,75.18,,Andriy MARTYNYUK,23 SEP 1990,UKR,1,Kyiv (UKR),30 MAY 2008,,hammer-throw-6kg,throws,male,u20
+644,75.18,,Aleh DUBITSKI,19 OCT 1990,BLR,2,Minsk (BLR),07 JUN 2008,,hammer-throw-6kg,throws,male,u20
+644,75.18,,Christos FRANTZESKAKIS,26 APR 2000,GRE,1,Thessaloniki (GRE),17 MAR 2018,,hammer-throw-6kg,throws,male,u20
+644,75.18,,Ragnar CARLSSON,16 NOV 2000,SWE,2q1,"Ratinan Stadion, Tampere (FIN)",11 JUL 2018,,hammer-throw-6kg,throws,male,u20
+648,75.16,,Quentin BIGOT,01 DEC 1992,FRA,1,Tours (FRA),26 FEB 2011,,hammer-throw-6kg,throws,male,u20
+648,75.16,,Alexandros POURSANIDIS,23 JAN 1993,CYP,1q2,"Estadio Olímpico, Barcelona (ESP)",13 JUL 2012,,hammer-throw-6kg,throws,male,u20
+648,75.16,,Ahmed Tarek ISMAIL,18 OCT 1997,EGY,1,Hainfeld (AUT),18 MAY 2016,,hammer-throw-6kg,throws,male,u20
+651,75.15,,Kirill IKONNIKOV,05 MAR 1984,RUS,2,Kazan (RUS),26 JUN 2002,,hammer-throw-6kg,throws,male,u20
+651,75.15,,Michail ANASTASAKIS,03 DEC 1994,GRE,1,Iraklio (GRE),25 MAY 2013,,hammer-throw-6kg,throws,male,u20
+653,75.14,,Richard OLBRICH,07 APR 1990,GER,f,Schwiegershausen (GER),28 MAR 2009,,hammer-throw-6kg,throws,male,u20
+653,75.14,,Ethan KATZBERG,05 APR 2002,CAN,1,"Rotary Bowl, Nanaimo (CAN)",16 MAY 2021,,hammer-throw-6kg,throws,male,u20
+653,75.14,,Jan DOLEŽÁLEK,23 MAY 2002,CZE,1q2,"Kadrioru staadion, Tallinn (EST)",15 JUL 2021,,hammer-throw-6kg,throws,male,u20
+653,75.14,,Zixu LI,11 JUN 2005,CHN,1,Nanping (CHN),17 AUG 2023,,hammer-throw-6kg,throws,male,u20
+657,75.12,,Hilmar Örn JÓNSSON,06 MAY 1996,ISL,3,Halle (GER),16 MAY 2015,,hammer-throw-6kg,throws,male,u20
+657,75.12,,Max LAMPINEN,11 OCT 2004,FIN,1,"Hiekkaharjun urheilupuisto, Vantaa (FIN)",17 SEP 2023,,hammer-throw-6kg,throws,male,u20
+659,75.11,,Angelos MANTZOURANIS,01 MAY 2004,GRE,3,"National Stadium, Serres (GRE)",09 JUL 2022,,hammer-throw-6kg,throws,male,u20
+660,75.10,,Matthew DENNY,02 JUN 1996,AUS,1,Brisbane (AUS),14 JUN 2014,,hammer-throw-6kg,throws,male,u20
+661,75.09,,Tuomas SEPPÄNEN,16 MAY 1986,FIN,1,Pori (FIN),10 SEP 2005,,hammer-throw-6kg,throws,male,u20
+661,75.09,,Dániel RÁBA,24 APR 1998,HUN,2q2,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",20 JUL 2016,,hammer-throw-6kg,throws,male,u20
+663,75.08,,Tarik O'HAGAN,25 NOV 2003,USA,1,"Hayward Field, Eugene, OR (USA)",23 JUN 2022,,hammer-throw-6kg,throws,male,u20
+664,75.07,,Dakai QI,23 MAY 1987,CHN,1,Luohe (CHN),28 JUN 2006,,hammer-throw-6kg,throws,male,u20
+664,75.07,,Ioannis KORAKIDIS,23 JUN 2003,GRE,1q2,"Pascual Guerrero Stadium, Cali (COL)",02 AUG 2022,,hammer-throw-6kg,throws,male,u20
+666,75.06,,Aleksi JAAKKOLA,17 NOV 1997,FIN,3q2,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",20 JUL 2016,,hammer-throw-6kg,throws,male,u20
+667,75.05,,Dawid PIŁAT,06 FEB 2002,POL,1,"Stadium Irena Szewińska, Karpacz (POL)",20 SEP 2020,,hammer-throw-6kg,throws,male,u20
+668,75.04,,Andriy MARTYNYUK,23 SEP 1990,UKR,1,Yalta (UKR),25 MAR 2008,,hammer-throw-6kg,throws,male,u20
+668,75.04,,Ashish JAKHAR,05 JAN 1999,IND,1,Coimbatore (IND),22 APR 2018,,hammer-throw-6kg,throws,male,u20
+670,75.02,,Kamilius BETHKE,21 FEB 1985,GER,f,Leverkusen (GER),29 AUG 2004,,hammer-throw-6kg,throws,male,u20
+670,75.02,,Matthew DENNY,02 JUN 1996,AUS,1,Brisbane (AUS),07 FEB 2014,,hammer-throw-6kg,throws,male,u20
+670,75.02,,Matthew DENNY,02 JUN 1996,AUS,1,Brisbane (AUS),01 MAR 2014,,hammer-throw-6kg,throws,male,u20
+673,75.01,,Aleksandr KOZULKO,08 DEC 1983,BLR,1q2,"National Stadium, Kingston (JAM)",16 JUL 2002,,hammer-throw-6kg,throws,male,u20
+674,75.00,,Andriy MARTYNYUK,23 SEP 1990,UKR,1,Yalta (UKR),19 FEB 2009,,hammer-throw-6kg,throws,male,u20
+674,75.00,,Aatu KANGASNIEMI,25 FEB 2006,FIN,1,"Nikkilän keskusurheilukenttä, Sipoo (FIN)",26 MAY 2025,,hammer-throw-6kg,throws,male,u20

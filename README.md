@@ -9,7 +9,7 @@ Inspired by: https://github.com/thomascamminady/world-athletics-database/
 
 Used the options.json file from that repo to help
 
-Note: Datasets here were generated on: 2025-06-24
+Note: Datasets here were generated on: 2025-09-20
 
 ### Repo Structure
  - Output: Folder for the csv files created as a result of scraping

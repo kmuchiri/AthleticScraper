@@ -1,663 +1,125 @@
 rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,discipline,type,sex,age_cat,normalized_discipline,track_field,mark_numeric,venue_country,age_at_event,season
 1,2:11.96,,Noah NGENY,1978-11-02,KEN,1,Rieti (ITA),1999-09-05,1250.0,1000-metres,middlelong,male,senior,1000-metres,track,131.96,ITA,20.0,1999
 2,2:12.18,,Sebastian COE,1956-09-29,GBR,1,Oslo (NOR),1981-07-11,1245.0,1000-metres,middlelong,male,senior,1000-metres,track,132.18,NOR,24.0,1981
-3,2:12.66,,Noah NGENY,1978-11-02,KEN,1,Nice (FRA),1999-07-17,1234.0,1000-metres,middlelong,male,senior,1000-metres,track,132.66,FRA,20.0,1999
-4,2:12.88,,Steve CRAM,1960-10-14,GBR,1,Gateshead (GBR),1985-08-09,1229.0,1000-metres,middlelong,male,senior,1000-metres,track,132.88,GBR,24.0,1985
-5,2:13.08,,Taoufik MAKHLOUFI,1988-04-29,ALG,1,"Stade Raymond Petit, Tomblaine (FRA)",2015-07-01,1224.0,1000-metres,middlelong,male,senior,1000-metres,track,133.08,FRA,27.0,2015
-6,2:13.13,,Marco AROP,1998-09-20,CAN,1,"Sports Park Mladost, Zagreb (CRO)",2024-09-08,1223.0,1000-metres,middlelong,male,senior,1000-metres,track,133.13,CRO,25.0,2024
-7,2:13.40,,Sebastian COE,1956-09-29,GBR,1,Oslo (NOR),1980-07-01,1216.0,1000-metres,middlelong,male,senior,1000-metres,track,133.4,NOR,23.0,1980
-8,2:13.49,,Ayanleh SOULEIMAN,1992-12-03,DJI,1,"Stade Olympique de la Pontaise, Lausanne (SUI)",2016-08-25,1214.0,1000-metres,middlelong,male,senior,1000-metres,track,133.49,SUI,23.0,2016
-9,2:13.56,,Kennedy KIMWETICH,,KEN,2,Nice (FRA),1999-07-17,1213.0,1000-metres,middlelong,male,senior,1000-metres,track,133.56,FRA,,1999
-10,2:13.62,,Abubaker KAKI,1989-06-21,SUD,1,"Hayward Field, Eugene, OR (USA)",2010-07-03,1211.0,1000-metres,middlelong,male,senior,1000-metres,track,133.62,USA,21.0,2010
-11,2:13.73,,Noureddine MORCELI,1970-02-28,ALG,1,Villeneuve d'Ascq (FRA),1993-07-02,1209.0,1000-metres,middlelong,male,senior,1000-metres,track,133.73,FRA,23.0,1993
-12,2:13.88,,Jake WIGHTMAN,1994-07-11,GBR,1,"Stade Louis II, Monaco (MON)",2022-08-10,1205.0,1000-metres,middlelong,male,senior,1000-metres,track,133.88,MON,28.0,2022
-13,2:13.89,,Robert BIWOTT,1996-01-28,KEN,2,"Stade Olympique de la Pontaise, Lausanne (SUI)",2016-08-25,1205.0,1000-metres,middlelong,male,senior,1000-metres,track,133.89,SUI,20.0,2016
-14,2:13.9h,,Rick WOHLHUTER,1948-12-23,USA,1,Oslo (NOR),1974-07-30,1205.0,1000-metres,middlelong,male,senior,1000-metres,track,133.9,NOR,25.0,1974
+3,2:12.25,,Mohamed ATTAOUI,2001-09-26,ESP,1,"Moselstadion, Trier (GER)",2025-09-02,1244.0,1000-metres,middlelong,male,senior,1000-metres,track,132.25,GER,23.0,2025
+4,2:12.66,,Noah NGENY,1978-11-02,KEN,1,Nice (FRA),1999-07-17,1234.0,1000-metres,middlelong,male,senior,1000-metres,track,132.66,FRA,20.0,1999
+5,2:12.88,,Steve CRAM,1960-10-14,GBR,1,Gateshead (GBR),1985-08-09,1229.0,1000-metres,middlelong,male,senior,1000-metres,track,132.88,GBR,24.0,1985
+6,2:12.96,,Festus LAGAT,1996-10-10,KEN,2,"Moselstadion, Trier (GER)",2025-09-02,1227.0,1000-metres,middlelong,male,senior,1000-metres,track,132.96,GER,28.0,2025
+7,2:13.08,,Taoufik MAKHLOUFI,1988-04-29,ALG,1,"Stade Raymond Petit, Tomblaine (FRA)",2015-07-01,1224.0,1000-metres,middlelong,male,senior,1000-metres,track,133.08,FRA,27.0,2015
+8,2:13.13,,Marco AROP,1998-09-20,CAN,1,"Sports Park Mladost, Zagreb (CRO)",2024-09-08,1223.0,1000-metres,middlelong,male,senior,1000-metres,track,133.13,CRO,25.0,2024
+9,2:13.40,,Sebastian COE,1956-09-29,GBR,1,Oslo (NOR),1980-07-01,1216.0,1000-metres,middlelong,male,senior,1000-metres,track,133.4,NOR,23.0,1980
+10,2:13.49,,Ayanleh SOULEIMAN,1992-12-03,DJI,1,"Stade Olympique de la Pontaise, Lausanne (SUI)",2016-08-25,1214.0,1000-metres,middlelong,male,senior,1000-metres,track,133.49,SUI,23.0,2016
+11,2:13.56,,Kennedy KIMWETICH,,KEN,2,Nice (FRA),1999-07-17,1213.0,1000-metres,middlelong,male,senior,1000-metres,track,133.56,FRA,,1999
+12,2:13.62,,Abubaker KAKI,1989-06-21,SUD,1,"Hayward Field, Eugene, OR (USA)",2010-07-03,1211.0,1000-metres,middlelong,male,senior,1000-metres,track,133.62,USA,21.0,2010
+13,2:13.73,,Noureddine MORCELI,1970-02-28,ALG,1,Villeneuve d'Ascq (FRA),1993-07-02,1209.0,1000-metres,middlelong,male,senior,1000-metres,track,133.73,FRA,23.0,1993
+14,2:13.88,,Jake WIGHTMAN,1994-07-11,GBR,1,"Stade Louis II, Monaco (MON)",2022-08-10,1205.0,1000-metres,middlelong,male,senior,1000-metres,track,133.88,MON,28.0,2022
+15,2:13.89,,Robert BIWOTT,1996-01-28,KEN,2,"Stade Olympique de la Pontaise, Lausanne (SUI)",2016-08-25,1205.0,1000-metres,middlelong,male,senior,1000-metres,track,133.89,SUI,20.0,2016
+16,2:13.9h,,Rick WOHLHUTER,1948-12-23,USA,1,Oslo (NOR),1974-07-30,1205.0,1000-metres,middlelong,male,senior,1000-metres,track,133.9,NOR,25.0,1974
+17,2:13.93,,Abubaker KAKI,1989-06-21,SUD,1,Stockholm (SWE),2008-07-22,1204.0,1000-metres,middlelong,male,senior,1000-metres,track,133.93,SWE,19.0,2008
 1,2:13.93,,Abubaker KAKI,1989-06-21,SUD,1,Stockholm (SWE),2008-07-22,1204.0,1000-metres,middlelong,male,u20,1000-metres,track,133.93,SWE,19.0,2008
-15,2:13.93,,Abubaker KAKI,1989-06-21,SUD,1,Stockholm (SWE),2008-07-22,1204.0,1000-metres,middlelong,male,senior,1000-metres,track,133.93,SWE,19.0,2008
-16,2:13.95,,Jonathan KITILIT,1995-07-06,KEN,3,"Stade Olympique de la Pontaise, Lausanne (SUI)",2016-08-25,1204.0,1000-metres,middlelong,male,senior,1000-metres,track,133.95,SUI,21.0,2016
-17,2:13.96,,Mehdi BAALA,1978-08-17,FRA,1,Strasbourg (FRA),2003-06-26,1203.0,1000-metres,middlelong,male,senior,1000-metres,track,133.96,FRA,24.0,2003
-18,2:13.97,,Djamel SEDJATI,1999-05-03,ALG,1,"McArthur Stadium, Potchefstroom (RSA)",2024-03-05,1203.0,1000-metres,middlelong,male,senior,1000-metres,track,133.97,RSA,24.0,2024
-19,2:14.09,,Joaquim CRUZ,1963-03-12,BRA,1,Nice (FRA),1984-08-20,1200.0,1000-metres,middlelong,male,senior,1000-metres,track,134.09,FRA,21.0,1984
-20,2:14.20,,Ayanleh SOULEIMAN,1992-12-03,DJI,1,"Globe Arena, Stockholm (SWE) (i)",2016-02-17,1274.0,1000-metres,middlelong,male,senior,1000-metres,track,134.2,SWE,23.0,2016
-21,2:14.23,,Asbel KIPROP,1989-06-30,KEN,4,"Stade Olympique de la Pontaise, Lausanne (SUI)",2016-08-25,1197.0,1000-metres,middlelong,male,senior,1000-metres,track,134.23,SUI,27.0,2016
-22,2:14.28,,Japheth KIMUTAI,1978-12-20,KEN,1,Stockholm (SWE),2000-08-01,1196.0,1000-metres,middlelong,male,senior,1000-metres,track,134.28,SWE,21.0,2000
-23,2:14.30,,Marcin LEWANDOWSKI,1987-06-13,POL,5,"Stade Olympique de la Pontaise, Lausanne (SUI)",2016-08-25,1196.0,1000-metres,middlelong,male,senior,1000-metres,track,134.3,SUI,29.0,2016
-24,2:14.35,,Marco AROP,1998-09-20,CAN,2,"Stade Louis II, Monaco (MON)",2022-08-10,1194.0,1000-metres,middlelong,male,senior,1000-metres,track,134.35,MON,23.0,2022
-25,2:14.37,,Niels LAROS,2005-04-17,NED,1,"FBK Stadium, Hengelo (NED)",2024-07-07,1194.0,1000-metres,middlelong,male,senior,1000-metres,track,134.37,NED,19.0,2024
+18,2:13.95,,Jonathan KITILIT,1995-07-06,KEN,3,"Stade Olympique de la Pontaise, Lausanne (SUI)",2016-08-25,1204.0,1000-metres,middlelong,male,senior,1000-metres,track,133.95,SUI,21.0,2016
+19,2:13.96,,Mehdi BAALA,1978-08-17,FRA,1,Strasbourg (FRA),2003-06-26,1203.0,1000-metres,middlelong,male,senior,1000-metres,track,133.96,FRA,24.0,2003
+20,2:13.97,,Djamel SEDJATI,1999-05-03,ALG,1,"McArthur Stadium, Potchefstroom (RSA)",2024-03-05,1203.0,1000-metres,middlelong,male,senior,1000-metres,track,133.97,RSA,24.0,2024
+21,2:14.09,,Joaquim CRUZ,1963-03-12,BRA,1,Nice (FRA),1984-08-20,1200.0,1000-metres,middlelong,male,senior,1000-metres,track,134.09,FRA,21.0,1984
+22,2:14.20,,Ayanleh SOULEIMAN,1992-12-03,DJI,1,"Globe Arena, Stockholm (SWE) (i)",2016-02-17,1274.0,1000-metres,middlelong,male,senior,1000-metres,track,134.2,SWE,23.0,2016
+23,2:14.23,,Asbel KIPROP,1989-06-30,KEN,4,"Stade Olympique de la Pontaise, Lausanne (SUI)",2016-08-25,1197.0,1000-metres,middlelong,male,senior,1000-metres,track,134.23,SUI,27.0,2016
+24,2:14.28,,Japheth KIMUTAI,1978-12-20,KEN,1,Stockholm (SWE),2000-08-01,1196.0,1000-metres,middlelong,male,senior,1000-metres,track,134.28,SWE,21.0,2000
+25,2:14.30,,Marcin LEWANDOWSKI,1987-06-13,POL,5,"Stade Olympique de la Pontaise, Lausanne (SUI)",2016-08-25,1196.0,1000-metres,middlelong,male,senior,1000-metres,track,134.3,SUI,29.0,2016
+26,2:14.35,,Marco AROP,1998-09-20,CAN,2,"Stade Louis II, Monaco (MON)",2022-08-10,1194.0,1000-metres,middlelong,male,senior,1000-metres,track,134.35,MON,23.0,2022
+27,2:14.37,,Niels LAROS,2005-04-17,NED,1,"FBK Stadium, Hengelo (NED)",2024-07-07,1194.0,1000-metres,middlelong,male,senior,1000-metres,track,134.37,NED,19.0,2024
 2,2:14.37,,Niels LAROS,2005-04-17,NED,1,"FBK Stadium, Hengelo (NED)",2024-07-07,1194.0,1000-metres,middlelong,male,u20,1000-metres,track,134.37,NED,19.0,2024
-26,2:14.41,,William YIAMPOY,1974-05-17,KEN,2,Rieti (ITA),1999-09-05,1193.0,1000-metres,middlelong,male,senior,1000-metres,track,134.41,ITA,25.0,1999
-27,2:14.43,,Laban ROTICH,1969-01-20,KEN,1,Nice (FRA),1997-07-16,1193.0,1000-metres,middlelong,male,senior,1000-metres,track,134.43,FRA,28.0,1997
-28,2:14.48,,Josh HOEY,1999-11-01,USA,1,"Ott Center for Track & Field, Philadelphia, PA (USA) (i)",2025-01-18,1268.0,1000-metres,middlelong,male,senior,1000-metres,track,134.48,USA,25.0,2025
-29,2:14.50,,Abdi BILE,1962-12-28,SOM,1,Jerez de la Frontera (ESP),1989-09-13,1191.0,1000-metres,middlelong,male,senior,1000-metres,track,134.5,ESP,26.0,1989
-30,2:14.51,,Abdi BILE,1962-12-28,SOM,1,"Crystal Palace, London (GBR)",1989-07-14,1191.0,1000-metres,middlelong,male,senior,1000-metres,track,134.51,GBR,26.0,1989
-31,2:14.52,,Djabir SAID-GUERNI,1977-03-29,ALG,3,Rieti (ITA),1999-09-05,1190.0,1000-metres,middlelong,male,senior,1000-metres,track,134.52,ITA,22.0,1999
-32,2:14.53,,Willi WÜLBECK,1954-12-18,FRG,2,Oslo (NOR),1980-07-01,1190.0,1000-metres,middlelong,male,senior,1000-metres,track,134.53,NOR,25.0,1980
-33,2:14.54,,Joaquim CRUZ,1963-03-12,BRA,1,"Eugene, OR (USA)",1984-07-21,1190.0,1000-metres,middlelong,male,senior,1000-metres,track,134.54,USA,21.0,1984
-34,2:14.64,,Laban ROTICH,1969-01-20,KEN,3,Nice (FRA),1999-07-17,1188.0,1000-metres,middlelong,male,senior,1000-metres,track,134.64,FRA,30.0,1999
-35,2:14.69,,El-Mahjoub HAIDA,1970-07-01,MAR,1,Nice (FRA),1995-07-12,1186.0,1000-metres,middlelong,male,senior,1000-metres,track,134.69,FRA,25.0,1995
-36,2:14.72,,Yusuf Saad KAMEL,1983-03-29,BRN,2,Stockholm (SWE),2008-07-22,1186.0,1000-metres,middlelong,male,senior,1000-metres,track,134.72,SWE,25.0,2008
-37,2:14.73,,Joseph TENGELEI,1972-12-08,KEN,2,Nice (FRA),1995-07-12,1186.0,1000-metres,middlelong,male,senior,1000-metres,track,134.73,FRA,22.0,1995
-37,2:14.73,,Patrick KONCHELLAH,1968-04-20,KEN,2,Stockholm (SWE),2000-08-01,1186.0,1000-metres,middlelong,male,senior,1000-metres,track,134.73,SWE,32.0,2000
-39,2:14.74,,Marco AROP,1998-09-20,CAN,1,"The Track at New Balance, Boston, MA (USA) (i)",2024-02-04,1261.0,1000-metres,middlelong,male,senior,1000-metres,track,134.74,USA,25.0,2024
-40,2:14.78,,Noah NGENY,1978-11-02,KEN,1,Nice (FRA),2000-07-08,1184.0,1000-metres,middlelong,male,senior,1000-metres,track,134.78,FRA,21.0,2000
-41,2:14.79,,William YIAMPOY,1974-05-17,KEN,3,Stockholm (SWE),2000-08-01,1184.0,1000-metres,middlelong,male,senior,1000-metres,track,134.79,SWE,26.0,2000
-42,2:14.83,,Boaz Kiplagat LALANG,1989-02-08,KEN,2,"Hayward Field, Eugene, OR (USA)",2010-07-03,1183.0,1000-metres,middlelong,male,senior,1000-metres,track,134.83,USA,21.0,2010
-43,2:14.88,,Ferguson Cheruiyot ROTICH,1989-11-30,KEN,1,"Olympiastadion, Stockholm (SWE)",2018-06-10,1182.0,1000-metres,middlelong,male,senior,1000-metres,track,134.88,SWE,28.0,2018
-44,2:14.90,,Sebastian COE,1956-09-29,GBR,1,Haringey (GBR),1986-07-16,1182.0,1000-metres,middlelong,male,senior,1000-metres,track,134.9,GBR,29.0,1986
-45,2:14.95,,Sammy KOSKEI,1961-05-14,KEN,1,Bruxelles (BEL),1985-08-30,1181.0,1000-metres,middlelong,male,senior,1000-metres,track,134.95,BEL,24.0,1985
-46,2:14.96,,Wilson KIPKETER,1972-12-12,DEN,1,Birmingham (GBR) (i),2000-02-20,1256.0,1000-metres,middlelong,male,senior,1000-metres,track,134.96,GBR,27.0,2000
-46,2:14.96,,Benson KOECH,1974-11-10,KEN,2,Nice (FRA),1997-07-16,1180.0,1000-metres,middlelong,male,senior,1000-metres,track,134.96,FRA,22.0,1997
-46,2:14.96,,Andreas KRAMER,1997-04-13,SWE,1,"Påskbergsvallen, Varberg (SWE)",2025-07-22,1180.0,1000-metres,middlelong,male,senior,1000-metres,track,134.96,SWE,28.0,2025
-49,2:14.99,,William CHIRCHIR,1979-02-06,KEN,4,Nice (FRA),1999-07-17,1180.0,1000-metres,middlelong,male,senior,1000-metres,track,134.99,FRA,20.0,1999
-49,2:14.99,,Mehdi BAALA,1978-08-17,FRA,1,Villeneuve d'Ascq (FRA),2006-06-09,1180.0,1000-metres,middlelong,male,senior,1000-metres,track,134.99,FRA,27.0,2006
-51,2:15.00,,Benjamin KIPKURUI,1980-12-28,KEN,5,Nice (FRA),1999-07-17,1179.0,1000-metres,middlelong,male,senior,1000-metres,track,135.0,FRA,18.0,1999
+28,2:14.41,,William YIAMPOY,1974-05-17,KEN,2,Rieti (ITA),1999-09-05,1193.0,1000-metres,middlelong,male,senior,1000-metres,track,134.41,ITA,25.0,1999
+29,2:14.43,,Laban ROTICH,1969-01-20,KEN,1,Nice (FRA),1997-07-16,1193.0,1000-metres,middlelong,male,senior,1000-metres,track,134.43,FRA,28.0,1997
+30,2:14.48,,Josh HOEY,1999-11-01,USA,1,"Ott Center for Track & Field, Philadelphia, PA (USA) (i)",2025-01-18,1268.0,1000-metres,middlelong,male,senior,1000-metres,track,134.48,USA,25.0,2025
+31,2:14.49,,Moad ZAHAFI,1998-05-09,MAR,1,"Putbosstadion, Oordegem (BEL)",2025-08-09,1191.0,1000-metres,middlelong,male,senior,1000-metres,track,134.49,BEL,27.0,2025
+32,2:14.50,,Abdi BILE,1962-12-28,SOM,1,Jerez de la Frontera (ESP),1989-09-13,1191.0,1000-metres,middlelong,male,senior,1000-metres,track,134.5,ESP,26.0,1989
+33,2:14.51,,Abdi BILE,1962-12-28,SOM,1,"Crystal Palace, London (GBR)",1989-07-14,1191.0,1000-metres,middlelong,male,senior,1000-metres,track,134.51,GBR,26.0,1989
+34,2:14.52,,Djabir SAID-GUERNI,1977-03-29,ALG,3,Rieti (ITA),1999-09-05,1190.0,1000-metres,middlelong,male,senior,1000-metres,track,134.52,ITA,22.0,1999
+35,2:14.53,,Willi WÜLBECK,1954-12-18,FRG,2,Oslo (NOR),1980-07-01,1190.0,1000-metres,middlelong,male,senior,1000-metres,track,134.53,NOR,25.0,1980
+36,2:14.54,,Joaquim CRUZ,1963-03-12,BRA,1,"Eugene, OR (USA)",1984-07-21,1190.0,1000-metres,middlelong,male,senior,1000-metres,track,134.54,USA,21.0,1984
+37,2:14.64,,Laban ROTICH,1969-01-20,KEN,3,Nice (FRA),1999-07-17,1188.0,1000-metres,middlelong,male,senior,1000-metres,track,134.64,FRA,30.0,1999
+38,2:14.69,,El-Mahjoub HAIDA,1970-07-01,MAR,1,Nice (FRA),1995-07-12,1186.0,1000-metres,middlelong,male,senior,1000-metres,track,134.69,FRA,25.0,1995
+39,2:14.72,,Yusuf Saad KAMEL,1983-03-29,BRN,2,Stockholm (SWE),2008-07-22,1186.0,1000-metres,middlelong,male,senior,1000-metres,track,134.72,SWE,25.0,2008
+40,2:14.73,,Joseph TENGELEI,1972-12-08,KEN,2,Nice (FRA),1995-07-12,1186.0,1000-metres,middlelong,male,senior,1000-metres,track,134.73,FRA,22.0,1995
+40,2:14.73,,Patrick KONCHELLAH,1968-04-20,KEN,2,Stockholm (SWE),2000-08-01,1186.0,1000-metres,middlelong,male,senior,1000-metres,track,134.73,SWE,32.0,2000
+42,2:14.74,,Marco AROP,1998-09-20,CAN,1,"The Track at New Balance, Boston, MA (USA) (i)",2024-02-04,1261.0,1000-metres,middlelong,male,senior,1000-metres,track,134.74,USA,25.0,2024
+43,2:14.78,,Noah NGENY,1978-11-02,KEN,1,Nice (FRA),2000-07-08,1184.0,1000-metres,middlelong,male,senior,1000-metres,track,134.78,FRA,21.0,2000
+44,2:14.79,,William YIAMPOY,1974-05-17,KEN,3,Stockholm (SWE),2000-08-01,1184.0,1000-metres,middlelong,male,senior,1000-metres,track,134.79,SWE,26.0,2000
+45,2:14.83,,Boaz Kiplagat LALANG,1989-02-08,KEN,2,"Hayward Field, Eugene, OR (USA)",2010-07-03,1183.0,1000-metres,middlelong,male,senior,1000-metres,track,134.83,USA,21.0,2010
+46,2:14.88,,Ferguson Cheruiyot ROTICH,1989-11-30,KEN,1,"Olympiastadion, Stockholm (SWE)",2018-06-10,1182.0,1000-metres,middlelong,male,senior,1000-metres,track,134.88,SWE,28.0,2018
+47,2:14.90,,Sebastian COE,1956-09-29,GBR,1,Haringey (GBR),1986-07-16,1182.0,1000-metres,middlelong,male,senior,1000-metres,track,134.9,GBR,29.0,1986
+48,2:14.95,,Sammy KOSKEI,1961-05-14,KEN,1,Bruxelles (BEL),1985-08-30,1181.0,1000-metres,middlelong,male,senior,1000-metres,track,134.95,BEL,24.0,1985
+49,2:14.96,,Benson KOECH,1974-11-10,KEN,2,Nice (FRA),1997-07-16,1180.0,1000-metres,middlelong,male,senior,1000-metres,track,134.96,FRA,22.0,1997
+49,2:14.96,,Wilson KIPKETER,1972-12-12,DEN,1,Birmingham (GBR) (i),2000-02-20,1256.0,1000-metres,middlelong,male,senior,1000-metres,track,134.96,GBR,27.0,2000
+49,2:14.96,,Andreas KRAMER,1997-04-13,SWE,1,"Påskbergsvallen, Varberg (SWE)",2025-07-22,1180.0,1000-metres,middlelong,male,senior,1000-metres,track,134.96,SWE,28.0,2025
+52,2:14.99,,William CHIRCHIR,1979-02-06,KEN,4,Nice (FRA),1999-07-17,1180.0,1000-metres,middlelong,male,senior,1000-metres,track,134.99,FRA,20.0,1999
+52,2:14.99,,Mehdi BAALA,1978-08-17,FRA,1,Villeneuve d'Ascq (FRA),2006-06-09,1180.0,1000-metres,middlelong,male,senior,1000-metres,track,134.99,FRA,27.0,2006
+54,2:15.00,,Benjamin KIPKURUI,1980-12-28,KEN,5,Nice (FRA),1999-07-17,1179.0,1000-metres,middlelong,male,senior,1000-metres,track,135.0,FRA,18.0,1999
 3,2:15.00,,Benjamin KIPKURUI,1980-12-28,KEN,5,Nice (FRA),1999-07-17,1179.0,1000-metres,middlelong,male,u20,1000-metres,track,135.0,FRA,18.0,1999
-52,2:15.03,,Mohamed ATTAOUI,2001-09-26,ESP,1f1,"Polideportivo Zorrotza, Bilbao (ESP)",2024-06-18,1179.0,1000-metres,middlelong,male,senior,1000-metres,track,135.03,ESP,22.0,2024
-53,2:15.05,,Marko KOERS,1972-11-03,NED,3,Nice (FRA),1997-07-16,1178.0,1000-metres,middlelong,male,senior,1000-metres,track,135.05,FRA,24.0,1997
-54,2:15.08,,Ilham Tanui ÖZBILEN,1990-03-05,TUR,1,"Mestský Stadion, Ostrava (CZE)",2014-06-17,1178.0,1000-metres,middlelong,male,senior,1000-metres,track,135.08,CZE,24.0,2014
-55,2:15.09,,Steve CRAM,1960-10-14,GBR,1,Edinburgh (GBR),1985-07-23,1177.0,1000-metres,middlelong,male,senior,1000-metres,track,135.09,GBR,24.0,1985
-55,2:15.09,,Elkanah Onkware ANGWENYI,1983-02-05,KEN,2,Villeneuve d'Ascq (FRA),2006-06-09,1177.0,1000-metres,middlelong,male,senior,1000-metres,track,135.09,FRA,23.0,2006
-57,2:15.11,,Joaquim CRUZ,1963-03-12,BRA,1,Bern (SUI),1985-08-16,1177.0,1000-metres,middlelong,male,senior,1000-metres,track,135.11,SUI,22.0,1985
-58,2:15.12,,Steve CRAM,1960-10-14,GBR,1,London (GBR),1982-09-17,1177.0,1000-metres,middlelong,male,senior,1000-metres,track,135.12,GBR,21.0,1982
-59,2:15.15,,Jonah KOECH,1996-12-12,USA,2,"Sports Park Mladost, Zagreb (CRO)",2024-09-08,1176.0,1000-metres,middlelong,male,senior,1000-metres,track,135.15,CRO,27.0,2024
-60,2:15.16,,Saïd AOUITA,1959-11-02,MAR,1,London (GBR),1988-08-28,1176.0,1000-metres,middlelong,male,senior,1000-metres,track,135.16,GBR,28.0,1988
-61,2:15.17,,Mehdi BAALA,1978-08-17,FRA,1,Nancy (FRA),2002-09-17,1175.0,1000-metres,middlelong,male,senior,1000-metres,track,135.17,FRA,24.0,2002
-61,2:15.17,,El-Mahjoub HAIDA,1970-07-01,MAR,1,Stockholm (SWE),1998-08-05,1175.0,1000-metres,middlelong,male,senior,1000-metres,track,135.17,SWE,28.0,1998
-63,2:15.21,,Mehdi BAALA,1978-08-17,FRA,1,"Stade Raymond Petit, Tomblaine (FRA)",2006-09-05,1175.0,1000-metres,middlelong,male,senior,1000-metres,track,135.21,FRA,28.0,2006
-64,2:15.23,,Rob DRUPPERS,1962-04-29,NED,1,Utrecht (NED),1985-08-17,1174.0,1000-metres,middlelong,male,senior,1000-metres,track,135.23,NED,23.0,1985
-64,2:15.23,,Belal Mansoor ALI,1988-10-17,BRN,1,Stockholm (SWE),2007-08-07,1174.0,1000-metres,middlelong,male,senior,1000-metres,track,135.23,SWE,18.0,2007
+55,2:15.03,,Mohamed ATTAOUI,2001-09-26,ESP,1f1,"Polideportivo Zorrotza, Bilbao (ESP)",2024-06-18,1179.0,1000-metres,middlelong,male,senior,1000-metres,track,135.03,ESP,22.0,2024
+56,2:15.05,,Marko KOERS,1972-11-03,NED,3,Nice (FRA),1997-07-16,1178.0,1000-metres,middlelong,male,senior,1000-metres,track,135.05,FRA,24.0,1997
+57,2:15.08,,Ilham Tanui ÖZBILEN,1990-03-05,TUR,1,"Mestský Stadion, Ostrava (CZE)",2014-06-17,1178.0,1000-metres,middlelong,male,senior,1000-metres,track,135.08,CZE,24.0,2014
+58,2:15.09,,Elkanah Onkware ANGWENYI,1983-02-05,KEN,2,Villeneuve d'Ascq (FRA),2006-06-09,1177.0,1000-metres,middlelong,male,senior,1000-metres,track,135.09,FRA,23.0,2006
+58,2:15.09,,Steve CRAM,1960-10-14,GBR,1,Edinburgh (GBR),1985-07-23,1177.0,1000-metres,middlelong,male,senior,1000-metres,track,135.09,GBR,24.0,1985
+60,2:15.11,,Joaquim CRUZ,1963-03-12,BRA,1,Bern (SUI),1985-08-16,1177.0,1000-metres,middlelong,male,senior,1000-metres,track,135.11,SUI,22.0,1985
+61,2:15.12,,Steve CRAM,1960-10-14,GBR,1,London (GBR),1982-09-17,1177.0,1000-metres,middlelong,male,senior,1000-metres,track,135.12,GBR,21.0,1982
+62,2:15.15,,Jonah KOECH,1996-12-12,USA,2,"Sports Park Mladost, Zagreb (CRO)",2024-09-08,1176.0,1000-metres,middlelong,male,senior,1000-metres,track,135.15,CRO,27.0,2024
+63,2:15.16,,Saïd AOUITA,1959-11-02,MAR,1,London (GBR),1988-08-28,1176.0,1000-metres,middlelong,male,senior,1000-metres,track,135.16,GBR,28.0,1988
+64,2:15.17,,El-Mahjoub HAIDA,1970-07-01,MAR,1,Stockholm (SWE),1998-08-05,1175.0,1000-metres,middlelong,male,senior,1000-metres,track,135.17,SWE,28.0,1998
+64,2:15.17,,Mehdi BAALA,1978-08-17,FRA,1,Nancy (FRA),2002-09-17,1175.0,1000-metres,middlelong,male,senior,1000-metres,track,135.17,FRA,24.0,2002
+66,2:15.21,,Mehdi BAALA,1978-08-17,FRA,1,"Stade Raymond Petit, Tomblaine (FRA)",2006-09-05,1175.0,1000-metres,middlelong,male,senior,1000-metres,track,135.21,FRA,28.0,2006
 4,2:15.23,,Belal Mansoor ALI,1988-10-17,BRN,1,Stockholm (SWE),2007-08-07,1174.0,1000-metres,middlelong,male,u20,1000-metres,track,135.23,SWE,18.0,2007
-66,2:15.25,,Wilson KIPKETER,1972-12-12,DEN,1,Stuttgart (GER) (i),2000-02-06,1249.0,1000-metres,middlelong,male,senior,1000-metres,track,135.25,GER,27.0,2000
-66,2:15.25,,Andreas BUSSE,1959-05-06,GDR,1,Berlin (GER),1983-07-31,1174.0,1000-metres,middlelong,male,senior,1000-metres,track,135.25,GER,24.0,1983
-68,2:15.26,,Driss MAAZOUZI,1969-10-15,FRA,6,Nice (FRA),1999-07-17,1173.0,1000-metres,middlelong,male,senior,1000-metres,track,135.26,FRA,29.0,1999
-68,2:15.26,,Noureddine MORCELI,1970-02-28,ALG,1,Birmingham (GBR) (i),1992-02-22,1249.0,1000-metres,middlelong,male,senior,1000-metres,track,135.26,GBR,21.0,1992
-70,2:15.28,,Joaquim CRUZ,1963-03-12,BRA,1,Bern (SUI),1983-07-29,1173.0,1000-metres,middlelong,male,senior,1000-metres,track,135.28,SUI,20.0,1983
-71,2:15.3h,,Mike BOIT,1949-01-06,KEN,1,Wattenscheid (GER),1977-09-23,1172.0,1000-metres,middlelong,male,senior,1000-metres,track,135.3,GER,28.0,1977
-72,2:15.31,,Amine LAALOU,1982-05-13,MAR,1,Rabat (MAR),2011-06-05,1172.0,1000-metres,middlelong,male,senior,1000-metres,track,135.31,MAR,29.0,2011
-72,2:15.31,,Pierre-Ambroise BOSSE,1992-05-11,FRA,2,"Mestský Stadion, Ostrava (CZE)",2014-06-17,1172.0,1000-metres,middlelong,male,senior,1000-metres,track,135.31,CZE,22.0,2014
-74,2:15.33,,Rob DRUPPERS,1962-04-29,NED,2,Bruxelles (BEL),1985-08-30,1172.0,1000-metres,middlelong,male,senior,1000-metres,track,135.33,BEL,23.0,1985
-75,2:15.39,,Laban ROTICH,1969-01-20,KEN,2,Stockholm (SWE),1998-08-05,1170.0,1000-metres,middlelong,male,senior,1000-metres,track,135.39,SWE,29.0,1998
-76,2:15.45,,Japheth KIMUTAI,1978-12-20,KEN,1,Stockholm (SWE),1999-07-30,1169.0,1000-metres,middlelong,male,senior,1000-metres,track,135.45,SWE,20.0,1999
-76,2:15.45,,Mehdi BAALA,1978-08-17,FRA,2,Nice (FRA),2000-07-08,1169.0,1000-metres,middlelong,male,senior,1000-metres,track,135.45,FRA,21.0,2000
-78,2:15.47,,Japheth KIMUTAI,1978-12-20,KEN,3,Stockholm (SWE),1998-08-05,1169.0,1000-metres,middlelong,male,senior,1000-metres,track,135.47,SWE,19.0,1998
-78,2:15.47,,Mehdi BAALA,1978-08-17,FRA,1,Longeville (FRA),2006-07-02,1169.0,1000-metres,middlelong,male,senior,1000-metres,track,135.47,FRA,27.0,2006
-80,2:15.48,,Arthémon HATUNGIMANA,1974-01-21,BDI,3,Nice (FRA),1995-07-12,1168.0,1000-metres,middlelong,male,senior,1000-metres,track,135.48,FRA,21.0,1995
-81,2:15.50,,Yuriy BORZAKOVSKIY,1981-04-12,RUS,3,Stockholm (SWE),2008-07-22,1168.0,1000-metres,middlelong,male,senior,1000-metres,track,135.5,SWE,27.0,2008
-81,2:15.50,,Kennedy KIMWETICH,,KEN,2,Stuttgart (GER) (i),2000-02-06,1243.0,1000-metres,middlelong,male,senior,1000-metres,track,135.5,GER,,2000
-81,2:15.5h,,Ivo VAN DAMME,1954-02-21,BEL,1,Namur (BEL),1976-07-14,1168.0,1000-metres,middlelong,male,senior,1000-metres,track,135.5,BEL,22.0,1976
-84,2:15.51,,Nadir BOSCH,1973-05-16,FRA,7,Nice (FRA),1999-07-17,1168.0,1000-metres,middlelong,male,senior,1000-metres,track,135.51,FRA,26.0,1999
-85,2:15.52,,Pieter SISK,1999-12-08,BEL,2,"FBK Stadium, Hengelo (NED)",2024-07-07,1167.0,1000-metres,middlelong,male,senior,1000-metres,track,135.52,NED,24.0,2024
-86,2:15.53,,Noah NGENY,1978-11-02,KEN,1,Athina (GRE),2000-06-28,1167.0,1000-metres,middlelong,male,senior,1000-metres,track,135.53,GRE,21.0,2000
-87,2:15.55,,Noureddine MORCELI,1970-02-28,ALG,1,Villeneuve d'Ascq (FRA),1995-06-17,1167.0,1000-metres,middlelong,male,senior,1000-metres,track,135.55,FRA,25.0,1995
-88,2:15.57,,James MCILROY,1976-12-30,IRL,4,Rieti (ITA),1999-09-05,1166.0,1000-metres,middlelong,male,senior,1000-metres,track,135.57,ITA,22.0,1999
-89,2:15.62,,Vénuste NIYONGABO,1973-12-09,BDI,1,Stockholm (SWE) (i),1995-02-27,1240.0,1000-metres,middlelong,male,senior,1000-metres,track,135.62,SWE,21.0,1995
-90,2:15.63,,Vénuste NIYONGABO,1973-12-09,BDI,1,"Helmántico, Salamanca (ESP)",1995-07-18,1165.0,1000-metres,middlelong,male,senior,1000-metres,track,135.63,ESP,21.0,1995
-90,2:15.63,,André BUCHER,1976-10-19,SUI,1,Langenthal (SUI),2001-05-24,1165.0,1000-metres,middlelong,male,senior,1000-metres,track,135.63,SUI,24.0,2001
-92,2:15.66,,André BUCHER,1976-10-19,SUI,1,Langenthal (SUI),1999-05-13,1164.0,1000-metres,middlelong,male,senior,1000-metres,track,135.66,SUI,22.0,1999
-93,2:15.67,,Benjamin KIPKURUI,1980-12-28,KEN,2,Stockholm (SWE),1999-07-30,1164.0,1000-metres,middlelong,male,senior,1000-metres,track,135.67,SWE,18.0,1999
+67,2:15.23,,Rob DRUPPERS,1962-04-29,NED,1,Utrecht (NED),1985-08-17,1174.0,1000-metres,middlelong,male,senior,1000-metres,track,135.23,NED,23.0,1985
+67,2:15.23,,Belal Mansoor ALI,1988-10-17,BRN,1,Stockholm (SWE),2007-08-07,1174.0,1000-metres,middlelong,male,senior,1000-metres,track,135.23,SWE,18.0,2007
+69,2:15.25,,Andreas BUSSE,1959-05-06,GDR,1,Berlin (GER),1983-07-31,1174.0,1000-metres,middlelong,male,senior,1000-metres,track,135.25,GER,24.0,1983
+69,2:15.25,,Wilson KIPKETER,1972-12-12,DEN,1,Stuttgart (GER) (i),2000-02-06,1249.0,1000-metres,middlelong,male,senior,1000-metres,track,135.25,GER,27.0,2000
+71,2:15.26,,Noureddine MORCELI,1970-02-28,ALG,1,Birmingham (GBR) (i),1992-02-22,1249.0,1000-metres,middlelong,male,senior,1000-metres,track,135.26,GBR,21.0,1992
+71,2:15.26,,Driss MAAZOUZI,1969-10-15,FRA,6,Nice (FRA),1999-07-17,1173.0,1000-metres,middlelong,male,senior,1000-metres,track,135.26,FRA,29.0,1999
+73,2:15.28,,Joaquim CRUZ,1963-03-12,BRA,1,Bern (SUI),1983-07-29,1173.0,1000-metres,middlelong,male,senior,1000-metres,track,135.28,SUI,20.0,1983
+74,2:15.29,,Pieter SISK,1999-12-08,BEL,2,"Putbosstadion, Oordegem (BEL)",2025-08-09,1173.0,1000-metres,middlelong,male,senior,1000-metres,track,135.29,BEL,25.0,2025
+75,2:15.3h,,Mike BOIT,1949-01-06,KEN,1,Wattenscheid (GER),1977-09-23,1172.0,1000-metres,middlelong,male,senior,1000-metres,track,135.3,GER,28.0,1977
+76,2:15.31,,Amine LAALOU,1982-05-13,MAR,1,Rabat (MAR),2011-06-05,1172.0,1000-metres,middlelong,male,senior,1000-metres,track,135.31,MAR,29.0,2011
+76,2:15.31,,Pierre-Ambroise BOSSE,1992-05-11,FRA,2,"Mestský Stadion, Ostrava (CZE)",2014-06-17,1172.0,1000-metres,middlelong,male,senior,1000-metres,track,135.31,CZE,22.0,2014
+78,2:15.33,,Rob DRUPPERS,1962-04-29,NED,2,Bruxelles (BEL),1985-08-30,1172.0,1000-metres,middlelong,male,senior,1000-metres,track,135.33,BEL,23.0,1985
+79,2:15.39,,Laban ROTICH,1969-01-20,KEN,2,Stockholm (SWE),1998-08-05,1170.0,1000-metres,middlelong,male,senior,1000-metres,track,135.39,SWE,29.0,1998
+80,2:15.45,,Japheth KIMUTAI,1978-12-20,KEN,1,Stockholm (SWE),1999-07-30,1169.0,1000-metres,middlelong,male,senior,1000-metres,track,135.45,SWE,20.0,1999
+80,2:15.45,,Mehdi BAALA,1978-08-17,FRA,2,Nice (FRA),2000-07-08,1169.0,1000-metres,middlelong,male,senior,1000-metres,track,135.45,FRA,21.0,2000
+82,2:15.47,,Japheth KIMUTAI,1978-12-20,KEN,3,Stockholm (SWE),1998-08-05,1169.0,1000-metres,middlelong,male,senior,1000-metres,track,135.47,SWE,19.0,1998
+82,2:15.47,,Mehdi BAALA,1978-08-17,FRA,1,Longeville (FRA),2006-07-02,1169.0,1000-metres,middlelong,male,senior,1000-metres,track,135.47,FRA,27.0,2006
+84,2:15.48,,Arthémon HATUNGIMANA,1974-01-21,BDI,3,Nice (FRA),1995-07-12,1168.0,1000-metres,middlelong,male,senior,1000-metres,track,135.48,FRA,21.0,1995
+85,2:15.5h,,Ivo VAN DAMME,1954-02-21,BEL,1,Namur (BEL),1976-07-14,1168.0,1000-metres,middlelong,male,senior,1000-metres,track,135.5,BEL,22.0,1976
+85,2:15.50,,Kennedy KIMWETICH,,KEN,2,Stuttgart (GER) (i),2000-02-06,1243.0,1000-metres,middlelong,male,senior,1000-metres,track,135.5,GER,,2000
+85,2:15.50,,Yuriy BORZAKOVSKIY,1981-04-12,RUS,3,Stockholm (SWE),2008-07-22,1168.0,1000-metres,middlelong,male,senior,1000-metres,track,135.5,SWE,27.0,2008
+88,2:15.51,,Nadir BOSCH,1973-05-16,FRA,7,Nice (FRA),1999-07-17,1168.0,1000-metres,middlelong,male,senior,1000-metres,track,135.51,FRA,26.0,1999
+89,2:15.52,,Pieter SISK,1999-12-08,BEL,2,"FBK Stadium, Hengelo (NED)",2024-07-07,1167.0,1000-metres,middlelong,male,senior,1000-metres,track,135.52,NED,24.0,2024
+90,2:15.53,,Noah NGENY,1978-11-02,KEN,1,Athina (GRE),2000-06-28,1167.0,1000-metres,middlelong,male,senior,1000-metres,track,135.53,GRE,21.0,2000
+91,2:15.55,,Noureddine MORCELI,1970-02-28,ALG,1,Villeneuve d'Ascq (FRA),1995-06-17,1167.0,1000-metres,middlelong,male,senior,1000-metres,track,135.55,FRA,25.0,1995
+92,2:15.57,,James MCILROY,1976-12-30,IRL,4,Rieti (ITA),1999-09-05,1166.0,1000-metres,middlelong,male,senior,1000-metres,track,135.57,ITA,22.0,1999
+93,2:15.62,,Vénuste NIYONGABO,1973-12-09,BDI,1,Stockholm (SWE) (i),1995-02-27,1240.0,1000-metres,middlelong,male,senior,1000-metres,track,135.62,SWE,21.0,1995
+94,2:15.63,,Vénuste NIYONGABO,1973-12-09,BDI,1,"Helmántico, Salamanca (ESP)",1995-07-18,1165.0,1000-metres,middlelong,male,senior,1000-metres,track,135.63,ESP,21.0,1995
+94,2:15.63,,André BUCHER,1976-10-19,SUI,1,Langenthal (SUI),2001-05-24,1165.0,1000-metres,middlelong,male,senior,1000-metres,track,135.63,SUI,24.0,2001
+96,2:15.66,,André BUCHER,1976-10-19,SUI,1,Langenthal (SUI),1999-05-13,1164.0,1000-metres,middlelong,male,senior,1000-metres,track,135.66,SUI,22.0,1999
+97,2:15.67,,Benjamin KIPKURUI,1980-12-28,KEN,2,Stockholm (SWE),1999-07-30,1164.0,1000-metres,middlelong,male,senior,1000-metres,track,135.67,SWE,18.0,1999
 5,2:15.67,,Benjamin KIPKURUI,1980-12-28,KEN,2,Stockholm (SWE),1999-07-30,1164.0,1000-metres,middlelong,male,u20,1000-metres,track,135.67,SWE,18.0,1999
-94,2:15.72,,Adam KSZCZOT,1989-09-02,POL,1,"Boudewijnstadion, Bruxelles (BEL)",2014-09-05,1163.0,1000-metres,middlelong,male,senior,1000-metres,track,135.72,BEL,25.0,2014
-94,2:15.72,,William CHIRCHIR,1979-02-06,KEN,3,Stockholm (SWE),1999-07-30,1163.0,1000-metres,middlelong,male,senior,1000-metres,track,135.72,SWE,20.0,1999
-96,2:15.73,,Clayton MURPHY,1995-02-26,USA,3,"Stade Louis II, Monaco (MON)",2022-08-10,1163.0,1000-metres,middlelong,male,senior,1000-metres,track,135.73,MON,27.0,2022
-96,2:15.73,,André BUCHER,1976-10-19,SUI,1,Langenthal (SUI),2000-06-02,1163.0,1000-metres,middlelong,male,senior,1000-metres,track,135.73,SUI,23.0,2000
-98,2:15.75,,Mohammed AMAN,1994-01-10,ETH,2,"Boudewijnstadion, Bruxelles (BEL)",2014-09-05,1162.0,1000-metres,middlelong,male,senior,1000-metres,track,135.75,BEL,20.0,2014
-98,2:15.75,,Saïd AOUITA,1959-11-02,MAR,1,Grosseto (ITA),1983-08-18,1162.0,1000-metres,middlelong,male,senior,1000-metres,track,135.75,ITA,23.0,1983
-100,2:15.76,,Marcin LEWANDOWSKI,1987-06-13,POL,2,Rabat (MAR),2011-06-05,1162.0,1000-metres,middlelong,male,senior,1000-metres,track,135.76,MAR,23.0,2011
-100,2:15.76,,Andrea BENVENUTI,1969-12-13,ITA,1,Nuoro (ITA),1992-09-12,1162.0,1000-metres,middlelong,male,senior,1000-metres,track,135.76,ITA,22.0,1992
+98,2:15.72,,Adam KSZCZOT,1989-09-02,POL,1,"Boudewijnstadion, Bruxelles (BEL)",2014-09-05,1163.0,1000-metres,middlelong,male,senior,1000-metres,track,135.72,BEL,25.0,2014
+98,2:15.72,,William CHIRCHIR,1979-02-06,KEN,3,Stockholm (SWE),1999-07-30,1163.0,1000-metres,middlelong,male,senior,1000-metres,track,135.72,SWE,20.0,1999
+100,2:15.73,,André BUCHER,1976-10-19,SUI,1,Langenthal (SUI),2000-06-02,1163.0,1000-metres,middlelong,male,senior,1000-metres,track,135.73,SUI,23.0,2000
 6,2:15.77,,Abubaker KAKI,1989-06-21,SUD,1,Stockholm (SWE) (i),2008-02-21,1237.0,1000-metres,middlelong,male,u20,1000-metres,track,135.77,SWE,18.0,2008
-102,2:15.77,,Steve CRAM,1960-10-14,GBR,1,London (GBR),1986-07-11,1162.0,1000-metres,middlelong,male,senior,1000-metres,track,135.77,GBR,25.0,1986
-102,2:15.77,,Ayanleh SOULEIMAN,1992-12-03,DJI,1,Sollentuna (SWE),2013-08-05,1162.0,1000-metres,middlelong,male,senior,1000-metres,track,135.77,SWE,20.0,2013
-102,2:15.77,,Abubaker KAKI,1989-06-21,SUD,1,Stockholm (SWE) (i),2008-02-21,1237.0,1000-metres,middlelong,male,senior,1000-metres,track,135.77,SWE,18.0,2008
-102,2:15.77,,Noah NGENY,1978-11-02,KEN,4,Stockholm (SWE),1998-08-05,1162.0,1000-metres,middlelong,male,senior,1000-metres,track,135.77,SWE,19.0,1998
-106,2:15.78,,Jonathan KITILIT,1995-07-06,KEN,2,"Stade Raymond Petit, Tomblaine (FRA)",2015-07-01,1161.0,1000-metres,middlelong,male,senior,1000-metres,track,135.78,FRA,20.0,2015
-106,2:15.78,,Paul ANSELMINI,2003-08-02,FRA,4,"Sports Park Mladost, Zagreb (CRO)",2024-09-08,1161.0,1000-metres,middlelong,male,senior,1000-metres,track,135.78,CRO,21.0,2024
-106,2:15.78,,Stefan NILLESSEN,2003-01-02,NED,3,"Sports Park Mladost, Zagreb (CRO)",2024-09-08,1161.0,1000-metres,middlelong,male,senior,1000-metres,track,135.78,CRO,21.0,2024
-106,2:15.78,,Wyclife KINYAMAL,1997-07-02,KEN,4,"Stade Louis II, Monaco (MON)",2022-08-10,1161.0,1000-metres,middlelong,male,senior,1000-metres,track,135.78,MON,25.0,2022
-110,2:15.79,,Marcin LEWANDOWSKI,1987-06-13,POL,3,"Boudewijnstadion, Bruxelles (BEL)",2014-09-05,1161.0,1000-metres,middlelong,male,senior,1000-metres,track,135.79,BEL,27.0,2014
-111,2:15.81,,Agberto Conceiço GUIMARĂES,1957-08-18,BRA,2,Bern (SUI),1983-07-29,1161.0,1000-metres,middlelong,male,senior,1000-metres,track,135.81,SUI,25.0,1983
-111,2:15.81,,Robert FARKEN,1997-09-20,GER,1,"Nordanlage, Leipzig (GER)",2021-07-21,1161.0,1000-metres,middlelong,male,senior,1000-metres,track,135.81,GER,23.0,2021
-113,2:15.83,,William TANUI,1964-02-22,KEN,1,Auckland (NZL),1990-01-20,1160.0,1000-metres,middlelong,male,senior,1000-metres,track,135.83,NZL,25.0,1990
-113,2:15.83,,Andrea LONGO,1975-06-26,ITA,4,Nice (FRA),1997-07-16,1160.0,1000-metres,middlelong,male,senior,1000-metres,track,135.83,FRA,22.0,1997
-115,2:15.84,,Steve CRAM,1960-10-14,GBR,1,London (GBR),1982-08-07,1160.0,1000-metres,middlelong,male,senior,1000-metres,track,135.84,GBR,21.0,1982
-116,2:15.86,,Steve CRAM,1960-10-14,GBR,1,Birmingham (GBR),1986-08-19,1160.0,1000-metres,middlelong,male,senior,1000-metres,track,135.86,GBR,25.0,1986
-116,2:15.86,,Mbulaeni MULAUDZI,1980-09-08,RSA,2,Stockholm (SWE),2007-08-07,1160.0,1000-metres,middlelong,male,senior,1000-metres,track,135.86,SWE,26.0,2007
-118,2:15.87,,Giuseppe D'URSO,1969-09-15,ITA,8,Nice (FRA),1999-07-17,1159.0,1000-metres,middlelong,male,senior,1000-metres,track,135.87,FRA,29.0,1999
-118,2:15.87,,Mehdi BAALA,1978-08-17,FRA,1,Metz (FRA),2000-06-19,1159.0,1000-metres,middlelong,male,senior,1000-metres,track,135.87,FRA,21.0,2000
-120,2:15.89,,Vincent MALAKWEN,1974-07-19,KEN,1,Sarajevo (BIH),1996-09-09,1159.0,1000-metres,middlelong,male,senior,1000-metres,track,135.89,BIH,22.0,1996
-120,2:15.89,,Abdi BILE,1962-12-28,SOM,1,Edinburgh (GBR),1990-07-06,1159.0,1000-metres,middlelong,male,senior,1000-metres,track,135.89,GBR,27.0,1990
-120,2:15.89,,Juma N'DIWA,1960-11-28,KEN,3,Bruxelles (BEL),1985-08-30,1159.0,1000-metres,middlelong,male,senior,1000-metres,track,135.89,BEL,24.0,1985
-120,2:15.89,,Driss MAAZOUZI,1969-10-15,FRA,5,Stockholm (SWE),1998-08-05,1159.0,1000-metres,middlelong,male,senior,1000-metres,track,135.89,SWE,28.0,1998
-124,2:15.91,,Vénuste NIYONGABO,1973-12-09,BDI,1,Madrid (ESP),1994-09-06,1158.0,1000-metres,middlelong,male,senior,1000-metres,track,135.91,ESP,20.0,1994
-124,2:15.91,,Steve OVETT,1955-10-09,GBR,1,Koblenz (GER),1979-09-06,1158.0,1000-metres,middlelong,male,senior,1000-metres,track,135.91,GER,23.0,1979
-124,2:15.91,,Patrick KONCHELLAH,1968-04-20,KEN,2,Athina (GRE),2000-06-28,1158.0,1000-metres,middlelong,male,senior,1000-metres,track,135.91,GRE,32.0,2000
-124,2:15.91,,William CHIRCHIR,1979-02-06,KEN,4,Stockholm (SWE),2000-08-01,1158.0,1000-metres,middlelong,male,senior,1000-metres,track,135.91,SWE,21.0,2000
-128,2:15.96,,Ilham Tanui ÖZBILEN,1990-03-05,TUR,1,Istanbul (TUR) (i),2014-02-20,1232.0,1000-metres,middlelong,male,senior,1000-metres,track,135.96,TUR,23.0,2014
-128,2:15.96,,Tshepo TSHITE,1997-01-15,RSA,3,"FBK Stadium, Hengelo (NED)",2024-07-07,1157.0,1000-metres,middlelong,male,senior,1000-metres,track,135.96,NED,27.0,2024
-130,2:15.97,,David KRUMMENACKER,1975-05-24,USA,1,"Portland, OR (USA)",2002-05-18,1157.0,1000-metres,middlelong,male,senior,1000-metres,track,135.97,USA,27.0,2002
-130,2:15.97,,Geoffrey Kipkoech RONO,1987-04-21,KEN,4,Stockholm (SWE),2008-07-22,1157.0,1000-metres,middlelong,male,senior,1000-metres,track,135.97,SWE,21.0,2008
-132,2:15.98,,Mike BOIT,1949-01-06,KEN,1,Nice (FRA),1978-08-20,1157.0,1000-metres,middlelong,male,senior,1000-metres,track,135.98,FRA,29.0,1978
-132,2:15.98,,Steve CRAM,1960-10-14,GBR,1,Loughborough (GBR),1984-06-17,1157.0,1000-metres,middlelong,male,senior,1000-metres,track,135.98,GBR,23.0,1984
-134,2:15.99,,Jesús GÓMEZ,1991-04-24,ESP,1,"Estadio Enrique Lopez Cuenca, Nerja (ESP)",2021-05-12,1157.0,1000-metres,middlelong,male,senior,1000-metres,track,135.99,ESP,30.0,2021
-134,2:15.99,,Bryce HOPPEL,1997-09-05,USA,5,"Stade Louis II, Monaco (MON)",2022-08-10,1157.0,1000-metres,middlelong,male,senior,1000-metres,track,135.99,MON,24.0,2022
-136,2:16.0h,,Danie MALAN,1950-06-26,RSA,1,München (GER),1973-06-24,1156.0,1000-metres,middlelong,male,senior,1000-metres,track,136.0,GER,23.0,1973
-136,2:16.0h,,Vladimir MALOZYEMLIN,1956-01-26,URS,1,Kiev (URS),1981-06-27,1156.0,1000-metres,middlelong,male,senior,1000-metres,track,136.0,URS,25.0,1981
-136,2:16.0h,,Vladimir MALOZYEMLIN,1956-01-26,URS,1,Kiev (URS),1981-06-10,1156.0,1000-metres,middlelong,male,senior,1000-metres,track,136.0,URS,25.0,1981
-136,2:16.0h,,Joaquim CRUZ,1963-03-12,BRA,1,Paris (FRA),1985-07-13,1156.0,1000-metres,middlelong,male,senior,1000-metres,track,136.0,FRA,22.0,1985
-140,2:16.01,,Andrea LONGO,1975-06-26,ITA,4,Stockholm (SWE),1999-07-30,1156.0,1000-metres,middlelong,male,senior,1000-metres,track,136.01,SWE,24.0,1999
-141,2:16.03,,Mike BOIT,1949-01-06,KEN,1,Nice (FRA),1981-08-23,1156.0,1000-metres,middlelong,male,senior,1000-metres,track,136.03,FRA,32.0,1981
-142,2:16.08,,Ayanleh SOULEIMAN,1992-12-03,DJI,1,"Bregyó Athletic Center, Székesfehérvár (HUN)",2018-07-02,1155.0,1000-metres,middlelong,male,senior,1000-metres,track,136.07999999999998,HUN,25.0,2018
-143,2:16.09,,Samuel CHAPPLE,1998-11-23,NED,1,"Utilita Arena Birmingham, Birmingham (GBR) (i)",2025-02-15,1229.0,1000-metres,middlelong,male,senior,1000-metres,track,136.09,GBR,26.0,2025
-143,2:16.09,,Jeffrey RISELEY,1986-11-11,AUS,3,"Mestský Stadion, Ostrava (CZE)",2014-06-17,1154.0,1000-metres,middlelong,male,senior,1000-metres,track,136.09,CZE,27.0,2014
-145,2:16.1h,,Tom BYERS,1955-05-12,USA,1,København (DEN),1981-08-06,1154.0,1000-metres,middlelong,male,senior,1000-metres,track,136.1,DEN,26.0,1981
-146,2:16.12,,Alex Ngeno KIPNGETICH,2000-08-17,KEN,5,"Sports Park Mladost, Zagreb (CRO)",2024-09-08,1154.0,1000-metres,middlelong,male,senior,1000-metres,track,136.12,CRO,24.0,2024
-147,2:16.13,,Tarek BOUKENSA,1981-11-19,ALG,3,Villeneuve d'Ascq (FRA),2006-06-09,1153.0,1000-metres,middlelong,male,senior,1000-metres,track,136.13,FRA,24.0,2006
-147,2:16.13,,Fermín CACHO,1969-02-16,ESP,1,Andújar (ESP),1993-09-06,1153.0,1000-metres,middlelong,male,senior,1000-metres,track,136.13,ESP,24.0,1993
-149,2:16.14,,Japheth KIMUTAI,1978-12-20,KEN,2,"Portland, OR (USA)",2002-05-18,1153.0,1000-metres,middlelong,male,senior,1000-metres,track,136.14,USA,23.0,2002
-149,2:16.14,,Mike BOIT,1949-01-06,KEN,2,Koblenz (GER),1979-09-06,1153.0,1000-metres,middlelong,male,senior,1000-metres,track,136.14,GER,30.0,1979
 7,2:16.15,,Abubaker KAKI,1989-06-21,SUD,1,Gent (BEL) (i),2008-02-24,1228.0,1000-metres,middlelong,male,u20,1000-metres,track,136.15,BEL,18.0,2008
-151,2:16.15,,Abubaker KAKI,1989-06-21,SUD,1,Gent (BEL) (i),2008-02-24,1228.0,1000-metres,middlelong,male,senior,1000-metres,track,136.15,BEL,18.0,2008
-152,2:16.16,,Shane STREICH,1996-09-19,USA,1,"Norton Sports Center, Louisville, KY (USA) (i)",2022-02-12,1228.0,1000-metres,middlelong,male,senior,1000-metres,track,136.16,USA,25.0,2022
-153,2:16.17,,Nicholas Kiplangat KIPKOECH,1992-10-22,KEN,2,"Bregyó Athletic Center, Székesfehérvár (HUN)",2018-07-02,1153.0,1000-metres,middlelong,male,senior,1000-metres,track,136.17000000000002,HUN,25.0,2018
-154,2:16.18,,Bernard LAGAT,1974-12-12,USA,1,"International Stadium, Gateshead (GBR)",2008-08-31,1152.0,1000-metres,middlelong,male,senior,1000-metres,track,136.18,GBR,33.0,2008
-155,2:16.19,,Timothy KIPTANUI,1980-01-05,KEN,1,Rethymno (GRE),2003-07-06,1152.0,1000-metres,middlelong,male,senior,1000-metres,track,136.19,GRE,23.0,2003
-155,2:16.19,,Giuseppe D'URSO,1969-09-15,ITA,2,Villeneuve d'Ascq (FRA),1993-07-02,1152.0,1000-metres,middlelong,male,senior,1000-metres,track,136.19,FRA,23.0,1993
-157,2:16.2h,,Franz-Josef KEMPER,1945-09-30,FRG,1,Hannover (GER),1966-09-21,1152.0,1000-metres,middlelong,male,senior,1000-metres,track,136.2,GER,20.0,1966
-157,2:16.2h,,Jürgen MAY,1942-06-18,GDR,1,Erfurt (GER),1965-07-20,1152.0,1000-metres,middlelong,male,senior,1000-metres,track,136.2,GER,23.0,1965
-157,2:16.20,,Vincent MALAKWEN,1974-07-19,KEN,4,Nice (FRA),1995-07-12,1152.0,1000-metres,middlelong,male,senior,1000-metres,track,136.2,FRA,20.0,1995
-157,2:16.20,,Steve CRAM,1960-10-14,GBR,1,Stockholm (SWE),1987-06-30,1152.0,1000-metres,middlelong,male,senior,1000-metres,track,136.2,SWE,26.0,1987
-161,2:16.23,,Abubaker KAKI,1989-06-21,SUD,1,"Schleyer Halle, Stuttgart (GER) (i)",2009-02-07,1226.0,1000-metres,middlelong,male,senior,1000-metres,track,136.23,GER,19.0,2009
-162,2:16.24,,William CHIRCHIR,1979-02-06,KEN,3,"Portland, OR (USA)",2002-05-18,1151.0,1000-metres,middlelong,male,senior,1000-metres,track,136.24,USA,23.0,2002
-163,2:16.25,,James MAINA BOI,1954-04-04,KEN,3,Koblenz (GER),1979-09-06,1151.0,1000-metres,middlelong,male,senior,1000-metres,track,136.25,GER,25.0,1979
-163,2:16.25,,Bernard LAGAT,1974-12-12,USA,3,Stockholm (SWE),2007-08-07,1151.0,1000-metres,middlelong,male,senior,1000-metres,track,136.25,SWE,32.0,2007
-163,2:16.25,,Mariano GARCÍA,1997-09-25,ESP,1,"Centro de Tecnificación de Atletismo, Antequera (ESP) (i)",2025-01-25,1226.0,1000-metres,middlelong,male,senior,1000-metres,track,136.25,ESP,27.0,2025
-166,2:16.26,,William TANUI,1964-02-22,KEN,5,Nice (FRA),1995-07-12,1151.0,1000-metres,middlelong,male,senior,1000-metres,track,136.26,FRA,31.0,1995
-167,2:16.27,,Yassine BENSGHIR,1983-01-03,MAR,4,Stockholm (SWE),2007-08-07,1150.0,1000-metres,middlelong,male,senior,1000-metres,track,136.27,SWE,24.0,2007
-167,2:16.27,,Bryce HOPPEL,1997-09-05,USA,1,"Ocean Breeze Athl. Complex, New York, NY (USA) (i)",2021-02-13,1225.0,1000-metres,middlelong,male,senior,1000-metres,track,136.27,USA,23.0,2021
-167,2:16.27,,Jonathan KITILIT,1995-07-06,KEN,3,"Bregyó Athletic Center, Székesfehérvár (HUN)",2018-07-02,1150.0,1000-metres,middlelong,male,senior,1000-metres,track,136.27,HUN,23.0,2018
-167,2:16.27,,Jake WIGHTMAN,1994-07-11,GBR,2,"Olympiastadion, Stockholm (SWE)",2018-06-10,1150.0,1000-metres,middlelong,male,senior,1000-metres,track,136.27,SWE,23.0,2018
-171,2:16.28,,Kennedy KIMWETICH,,KEN,5,Stockholm (SWE),2000-08-01,1150.0,1000-metres,middlelong,male,senior,1000-metres,track,136.28,SWE,,2000
-172,2:16.29,,Wilson KIPKETER,1972-12-12,DEN,1,København (DEN),1995-08-23,1150.0,1000-metres,middlelong,male,senior,1000-metres,track,136.29,DEN,22.0,1995
-172,2:16.29,,Peter BOL,1994-02-22,AUS,1f1,"Hagenauer Reserve, Box Hill, Melbourne (AUS)",2025-03-06,1150.0,1000-metres,middlelong,male,senior,1000-metres,track,136.29,AUS,31.0,2025
-174,2:16.3h,,Mike BOIT,1949-01-06,KEN,1,København (DEN),1974-08-14,1150.0,1000-metres,middlelong,male,senior,1000-metres,track,136.3,DEN,25.0,1974
-174,2:16.3h,,Andreas HAUCK,1960-06-19,GDR,1,Potsdam (GDR),1984-07-12,1150.0,1000-metres,middlelong,male,senior,1000-metres,track,136.3,GDR,24.0,1984
-174,2:16.3h,,Willi WÜLBECK,1954-12-18,FRG,2,Wattenscheid (GER),1977-09-23,1150.0,1000-metres,middlelong,male,senior,1000-metres,track,136.3,GER,22.0,1977
-174,2:16.3h,,James ROBINSON,1954-08-27,USA,2,København (DEN),1981-08-06,1150.0,1000-metres,middlelong,male,senior,1000-metres,track,136.3,DEN,26.0,1981
-174,2:16.3h,,Andreas BUSSE,1959-05-06,GDR,2,Potsdam (GDR),1984-07-12,1150.0,1000-metres,middlelong,male,senior,1000-metres,track,136.3,GDR,25.0,1984
-174,2:16.30,,Mehdi BAALA,1978-08-17,FRA,1,Strasbourg (FRA),2008-07-02,1150.0,1000-metres,middlelong,male,senior,1000-metres,track,136.3,FRA,29.0,2008
-174,2:16.30,,Peter ELLIOTT,1962-10-09,GBR,1,Hamilton (NZL),1990-01-17,1150.0,1000-metres,middlelong,male,senior,1000-metres,track,136.3,NZL,27.0,1990
-174,2:16.30,,Rui SILVA,1977-08-03,POR,9,Nice (FRA),1999-07-17,1150.0,1000-metres,middlelong,male,senior,1000-metres,track,136.3,FRA,21.0,1999
-182,2:16.32,,Samuel TIROP,1959-01-13,KEN,2,Auckland (NZL),1990-01-20,1149.0,1000-metres,middlelong,male,senior,1000-metres,track,136.32,NZL,31.0,1990
-183,2:16.33,,Mohammed AMAN,1994-01-10,ETH,4,"Mestský Stadion, Ostrava (CZE)",2014-06-17,1149.0,1000-metres,middlelong,male,senior,1000-metres,track,136.32999999999998,CZE,20.0,2014
-184,2:16.34,,Matthew YATES,1969-02-04,GBR,2,Edinburgh (GBR),1990-07-06,1149.0,1000-metres,middlelong,male,senior,1000-metres,track,136.34,GBR,21.0,1990
-185,2:16.35,,Nick SYMMONDS,1983-12-30,USA,3,"Hayward Field, Eugene, OR (USA)",2010-07-03,1148.0,1000-metres,middlelong,male,senior,1000-metres,track,136.35,USA,26.0,2010
-186,2:16.36,,Arthémon HATUNGIMANA,1974-01-21,BDI,5,Nice (FRA),1997-07-16,1148.0,1000-metres,middlelong,male,senior,1000-metres,track,136.36,FRA,23.0,1997
-187,2:16.38,,Joshua THOMPSON,1993-05-09,USA,6,"Stade Louis II, Monaco (MON)",2022-08-10,1148.0,1000-metres,middlelong,male,senior,1000-metres,track,136.38,MON,29.0,2022
-188,2:16.39,,Benson SEUREI,1984-03-27,KEN,1,Linz (AUT),2012-08-20,1148.0,1000-metres,middlelong,male,senior,1000-metres,track,136.39,AUT,28.0,2012
-188,2:16.39,,Yassine HETHAT,1991-08-30,ALG,2,"McArthur Stadium, Potchefstroom (RSA)",2024-03-05,1148.0,1000-metres,middlelong,male,senior,1000-metres,track,136.39,RSA,32.0,2024
-190,2:16.4h,,Nikolay SHIROKOV,,URS,2,Kiev (URS),1981-06-10,1147.0,1000-metres,middlelong,male,senior,1000-metres,track,136.4,URS,,1981
-190,2:16.4h,,Rob DRUPPERS,1962-04-29,NED,1,Den Haag (NED) (i),1988-02-20,1222.0,1000-metres,middlelong,male,senior,1000-metres,track,136.4,NED,25.0,1988
-190,2:16.4h,,Nikolay SHIROKOV,,URS,2,Kiev (URS),1981-06-11,1147.0,1000-metres,middlelong,male,senior,1000-metres,track,136.4,URS,,1981
-190,2:16.40,,Steve SCOTT,1956-05-05,USA,2,Nice (FRA),1981-08-23,1147.0,1000-metres,middlelong,male,senior,1000-metres,track,136.4,FRA,25.0,1981
-190,2:16.40,,Luke MCCANN,1998-03-12,IRL,7,"Stade Louis II, Monaco (MON)",2022-08-10,1147.0,1000-metres,middlelong,male,senior,1000-metres,track,136.4,MON,24.0,2022
-190,2:16.4h,,Thomas WESSINGHAGE,1952-02-22,FRG,3,Wattenscheid (GER),1977-09-23,1147.0,1000-metres,middlelong,male,senior,1000-metres,track,136.4,GER,25.0,1977
-190,2:16.4h,,Mike BOIT,1949-01-06,KEN,2,München (GER),1973-06-24,1147.0,1000-metres,middlelong,male,senior,1000-metres,track,136.4,GER,24.0,1973
-197,2:16.42,,André BUCHER,1976-10-19,SUI,1,Willisau (SUI),2001-05-12,1147.0,1000-metres,middlelong,male,senior,1000-metres,track,136.42000000000002,SUI,24.0,2001
-198,2:16.43,,David LELEI,1971-05-10,KEN,1,"Palo Alto, CA (USA)",2003-06-07,1147.0,1000-metres,middlelong,male,senior,1000-metres,track,136.43,USA,32.0,2003
-199,2:16.44,,Benson SEUREI,1984-03-27,BRN,1,Dillingen (GER),2013-07-21,1146.0,1000-metres,middlelong,male,senior,1000-metres,track,136.44,GER,29.0,2013
-199,2:16.44,,Saïd AOUITA,1959-11-02,MAR,1,Padova (ITA),1987-09-13,1146.0,1000-metres,middlelong,male,senior,1000-metres,track,136.44,ITA,27.0,1987
-201,2:16.45,,Nixon KIPROTICH,1962-12-04,KEN,2,"Crystal Palace, London (GBR)",1989-07-14,1146.0,1000-metres,middlelong,male,senior,1000-metres,track,136.45,GBR,26.0,1989
-201,2:16.45,,Steve SCOTT,1956-05-05,USA,1,Byrkjelo (NOR),1983-07-03,1146.0,1000-metres,middlelong,male,senior,1000-metres,track,136.45,NOR,27.0,1983
-201,2:16.45,,Laban ROTICH,1969-01-20,KEN,3,Nice (FRA),2000-07-08,1146.0,1000-metres,middlelong,male,senior,1000-metres,track,136.45,FRA,31.0,2000
 8,2:16.46,,Hobbs KESSLER,2003-03-15,USA,8,"Stade Louis II, Monaco (MON)",2022-08-10,1146.0,1000-metres,middlelong,male,u20,1000-metres,track,136.46,MON,19.0,2022
-204,2:16.46,,Filip INGEBRIGTSEN,1993-04-20,NOR,1,"Bislett Stadion, Oslo (NOR)",2020-06-11,1146.0,1000-metres,middlelong,male,senior,1000-metres,track,136.46,NOR,27.0,2020
-204,2:16.46,,Hobbs KESSLER,2003-03-15,USA,8,"Stade Louis II, Monaco (MON)",2022-08-10,1146.0,1000-metres,middlelong,male,senior,1000-metres,track,136.46,MON,19.0,2022
-206,2:16.47,,Peter ELLIOTT,1962-10-09,GBR,1,Belfast (GBR),1988-06-27,1146.0,1000-metres,middlelong,male,senior,1000-metres,track,136.47,GBR,25.0,1988
-206,2:16.47,,Hezekiel SEPENG,1974-06-30,RSA,6,Stockholm (SWE),2000-08-01,1146.0,1000-metres,middlelong,male,senior,1000-metres,track,136.47,SWE,26.0,2000
-206,2:16.47,,Wilson KIPKETER,1972-12-12,DEN,1,Stockholm (SWE) (i),2000-02-17,1220.0,1000-metres,middlelong,male,senior,1000-metres,track,136.47,SWE,27.0,2000
-206,2:16.47,,Andrea LONGO,1975-06-26,ITA,1,Avezzano (ITA),1999-09-12,1146.0,1000-metres,middlelong,male,senior,1000-metres,track,136.47,ITA,24.0,1999
-210,2:16.5h,,Bodo TÜMMLER,1943-12-08,FRG,2,Hannover (GER),1966-09-21,1145.0,1000-metres,middlelong,male,senior,1000-metres,track,136.5,GER,22.0,1966
-211,2:16.51,,Ayanleh SOULEIMAN,1992-12-03,DJI,1,Šamorín (SVK),2019-06-15,1145.0,1000-metres,middlelong,male,senior,1000-metres,track,136.51,SVK,26.0,2019
-212,2:16.52,,Nathan BRANNEN,1982-09-08,CAN,2,Linz (AUT),2012-08-20,1145.0,1000-metres,middlelong,male,senior,1000-metres,track,136.52,AUT,29.0,2012
-212,2:16.52,,Jens-Peter HEROLD,1965-06-02,GER,3,Villeneuve d'Ascq (FRA),1993-07-02,1145.0,1000-metres,middlelong,male,senior,1000-metres,track,136.52,FRA,28.0,1993
-212,2:16.52,,Sammy KIRONGO,1994-02-04,KEN,1,"Stade Raymond Petit, Tomblaine (FRA)",2014-06-27,1145.0,1000-metres,middlelong,male,senior,1000-metres,track,136.52,FRA,20.0,2014
-215,2:16.53,,William YIAMPOY,1974-05-17,KEN,1,Nice (FRA),2001-07-09,1144.0,1000-metres,middlelong,male,senior,1000-metres,track,136.53,FRA,27.0,2001
-216,2:16.54,,Jim SPIVEY,1960-03-07,USA,2,"Eugene, OR (USA)",1984-07-21,1144.0,1000-metres,middlelong,male,senior,1000-metres,track,136.54,USA,24.0,1984
-217,2:16.55,,Samuel PIHLSTRÖM,2001-03-08,SWE,1,"Sola Arena, Karlstad (SWE)",2025-07-03,1144.0,1000-metres,middlelong,male,senior,1000-metres,track,136.55,SWE,24.0,2025
-217,2:16.55,,Belal Mansoor ALI,1988-10-17,BRN,1,Stockholm (SWE),2009-07-31,1144.0,1000-metres,middlelong,male,senior,1000-metres,track,136.55,SWE,20.0,2009
-219,2:16.56,,Lukáš VYDRA,1973-08-23,CZE,6,Stockholm (SWE),1998-08-05,1144.0,1000-metres,middlelong,male,senior,1000-metres,track,136.56,SWE,24.0,1998
-219,2:16.56,,William WUYCKE,1958-05-21,VEN,3,Bern (SUI),1983-07-29,1144.0,1000-metres,middlelong,male,senior,1000-metres,track,136.56,SUI,25.0,1983
-221,2:16.57,,Hezekiel SEPENG,1974-06-30,RSA,4,"Portland, OR (USA)",2002-05-18,1143.0,1000-metres,middlelong,male,senior,1000-metres,track,136.57,USA,27.0,2002
-221,2:16.57,,John WALKER,1952-01-12,NZL,3,Oslo (NOR),1980-07-01,1143.0,1000-metres,middlelong,male,senior,1000-metres,track,136.57,NOR,28.0,1980
-223,2:16.58,,Eliott CRESTAN,1999-02-22,BEL,1,"Province Naimette Arena, Liège (BEL)",2025-07-16,1143.0,1000-metres,middlelong,male,senior,1000-metres,track,136.57999999999998,BEL,26.0,2025
-223,2:16.58,,Nick WILLIS,1983-04-25,NZL,3,Linz (AUT),2012-08-20,1143.0,1000-metres,middlelong,male,senior,1000-metres,track,136.57999999999998,AUT,29.0,2012
-223,2:16.58,,Adam KSZCZOT,1989-09-02,POL,3,"Olympiastadion, Stockholm (SWE)",2018-06-10,1143.0,1000-metres,middlelong,male,senior,1000-metres,track,136.57999999999998,SWE,28.0,2018
-223,2:16.58,,Sammy KOSKEI,1961-05-14,KEN,2,Byrkjelo (NOR),1983-07-03,1143.0,1000-metres,middlelong,male,senior,1000-metres,track,136.57999999999998,NOR,22.0,1983
-223,2:16.58,,Omar KHALIFA,1956-12-18,SUD,2,Padova (ITA),1987-09-13,1143.0,1000-metres,middlelong,male,senior,1000-metres,track,136.57999999999998,ITA,30.0,1987
-228,2:16.59,,Yassine HETHAT,1991-08-30,ALG,4,"Bregyó Athletic Center, Székesfehérvár (HUN)",2018-07-02,1143.0,1000-metres,middlelong,male,senior,1000-metres,track,136.59,HUN,26.0,2018
-229,2:16.6h,,Ivo VAN DAMME,1954-02-21,BEL,1,Bruxelles (BEL),1976-09-14,1143.0,1000-metres,middlelong,male,senior,1000-metres,track,136.6,BEL,22.0,1976
-229,2:16.6h,,Thomas WESSINGHAGE,1952-02-22,FRG,1,Koblenz (GER),1975-08-06,1143.0,1000-metres,middlelong,male,senior,1000-metres,track,136.6,GER,23.0,1975
-229,2:16.6h,,Peter SNELL,1938-12-17,NZL,1,Auckland (NZL),1964-11-12,1143.0,1000-metres,middlelong,male,senior,1000-metres,track,136.6,NZL,25.0,1964
-229,2:16.6h,,Philippe COLLARD,1960-02-26,FRA,1,Parilly (FRA),1986-07-18,1143.0,1000-metres,middlelong,male,senior,1000-metres,track,136.6,FRA,26.0,1986
-229,2:16.6h,,Philippe COLLARD,1960-02-26,FRA,3,Padova (ITA),1987-09-13,1143.0,1000-metres,middlelong,male,senior,1000-metres,track,136.6,ITA,27.0,1987
-234,2:16.61,,Grant CREMER,1978-06-09,AUS,7,Stockholm (SWE),2000-08-01,1143.0,1000-metres,middlelong,male,senior,1000-metres,track,136.61,SWE,22.0,2000
-235,2:16.63,,David KRUMMENACKER,1975-05-24,USA,5,Stockholm (SWE),1999-07-30,1142.0,1000-metres,middlelong,male,senior,1000-metres,track,136.63,SWE,24.0,1999
-235,2:16.63,,Jeffrey RISELEY,1986-11-11,AUS,4,Linz (AUT),2012-08-20,1142.0,1000-metres,middlelong,male,senior,1000-metres,track,136.63,AUT,25.0,2012
-237,2:16.64,,Antonio PAEZ,1956-09-05,ESP,4,Oslo (NOR),1980-07-01,1142.0,1000-metres,middlelong,male,senior,1000-metres,track,136.64,NOR,23.0,1980
-238,2:16.65,,Vénuste NIYONGABO,1973-12-09,BDI,1,Parma (ITA),1994-06-12,1142.0,1000-metres,middlelong,male,senior,1000-metres,track,136.65,ITA,20.0,1994
-239,2:16.66,,Kethobogile HAINGURA,1998-12-14,BOT,2,"Province Naimette Arena, Liège (BEL)",2025-07-16,1141.0,1000-metres,middlelong,male,senior,1000-metres,track,136.66,BEL,26.0,2025
-240,2:16.67,,Matthew CENTROWITZ,1989-10-18,USA,6,"Stade Olympique de la Pontaise, Lausanne (SUI)",2016-08-25,1141.0,1000-metres,middlelong,male,senior,1000-metres,track,136.67000000000002,SUI,26.0,2016
-240,2:16.67,,Benjamin ALLEN,1998-04-17,USA,1f1,"Ocean Breeze Athl. Complex, New York, NY (USA) (i)",2024-02-23,1216.0,1000-metres,middlelong,male,senior,1000-metres,track,136.67000000000002,USA,25.0,2024
-242,2:16.68,,Steve HOLMAN,1970-03-02,USA,5,Rieti (ITA),1999-09-05,1141.0,1000-metres,middlelong,male,senior,1000-metres,track,136.68,ITA,29.0,1999
-242,2:16.68,,Nicholas Kiplangat KIPKOECH,1992-10-22,KEN,7,"Stade Olympique de la Pontaise, Lausanne (SUI)",2016-08-25,1141.0,1000-metres,middlelong,male,senior,1000-metres,track,136.68,SUI,23.0,2016
-244,2:16.69,,Oussama CHERRAD,2000-03-06,ALG,3,"McArthur Stadium, Potchefstroom (RSA)",2024-03-05,1141.0,1000-metres,middlelong,male,senior,1000-metres,track,136.69,RSA,24.0,2024
-245,2:16.7h,,Siegfried VALENTIN,1936-02-23,GDR,1,Potsdam (GDR),1960-07-19,1141.0,1000-metres,middlelong,male,senior,1000-metres,track,136.7,GDR,24.0,1960
-245,2:16.7h,,John MARSHALL,1963-11-05,USA,2,Paris (FRA),1985-07-13,1141.0,1000-metres,middlelong,male,senior,1000-metres,track,136.7,FRA,21.0,1985
-245,2:16.7h,,Detlef WAGENKNECHT,1959-01-03,GDR,1,Berlin (GER),1982-05-26,1141.0,1000-metres,middlelong,male,senior,1000-metres,track,136.7,GER,23.0,1982
-245,2:16.7h,,Mike BOIT,1949-01-06,KEN,2,Oslo (NOR),1974-07-30,1141.0,1000-metres,middlelong,male,senior,1000-metres,track,136.7,NOR,25.0,1974
-245,2:16.7h,,Danie MALAN,1950-06-26,RSA,2,Namur (BEL),1976-07-14,1141.0,1000-metres,middlelong,male,senior,1000-metres,track,136.7,BEL,26.0,1976
-250,2:16.71,,Ali HAKIMI,1976-04-24,TUN,6,Stockholm (SWE),1999-07-30,1140.0,1000-metres,middlelong,male,senior,1000-metres,track,136.71,SWE,23.0,1999
-250,2:16.71,,Johan BOTHA,1974-01-10,RSA,1,Erfurt (GER) (i),1999-02-03,1215.0,1000-metres,middlelong,male,senior,1000-metres,track,136.71,GER,25.0,1999
-250,2:16.71,,Billy KONCHELLAH,1961-10-20,KEN,4,Bruxelles (BEL),1985-08-30,1140.0,1000-metres,middlelong,male,senior,1000-metres,track,136.71,BEL,23.0,1985
-253,2:16.73,,Japheth KIMUTAI,1978-12-20,KEN,1,Florø (NOR),1998-05-23,1140.0,1000-metres,middlelong,male,senior,1000-metres,track,136.73,NOR,19.0,1998
-253,2:16.73,,Catalin TECUCEANU,1999-09-09,ITA,1,"Arena Civica Gianni Brera, Milano (ITA)",2024-04-27,1140.0,1000-metres,middlelong,male,senior,1000-metres,track,136.73,ITA,24.0,2024
-255,2:16.74,,Luciano FIORE,1997-10-31,USA,1f1,"Boston Univ. Track & Tennis Center, Boston, MA (USA) (i)",2025-02-14,1214.0,1000-metres,middlelong,male,senior,1000-metres,track,136.74,USA,27.0,2025
-255,2:16.74,,Neil GOURLEY,1995-02-07,GBR,2,"Utilita Arena Birmingham, Birmingham (GBR) (i)",2025-02-15,1214.0,1000-metres,middlelong,male,senior,1000-metres,track,136.74,GBR,30.0,2025
-257,2:16.75,,Jeffrey RISELEY,1986-11-11,AUS,1,"Mestský Stadion, Ostrava (CZE)",2011-05-31,1139.0,1000-metres,middlelong,male,senior,1000-metres,track,136.75,CZE,24.0,2011
-258,2:16.76,,Yassine HETHAT,1991-08-30,ALG,2,"Stade Raymond Petit, Tomblaine (FRA)",2014-06-27,1139.0,1000-metres,middlelong,male,senior,1000-metres,track,136.76,FRA,22.0,2014
-258,2:16.76,,Haron KEITANY,1983-12-17,KEN,1f2,Moskva (RUS) (i),2009-02-01,1214.0,1000-metres,middlelong,male,senior,1000-metres,track,136.76,RUS,25.0,2009
-258,2:16.76,,David TORRENCE,1985-11-26,USA,1,"Boston, MA (USA) (i)",2014-03-02,1214.0,1000-metres,middlelong,male,senior,1000-metres,track,136.76,USA,28.0,2014
-261,2:16.78,,Jens-Peter HEROLD,1965-06-02,GDR,1,Berlin (GER),1989-07-30,1139.0,1000-metres,middlelong,male,senior,1000-metres,track,136.78,GER,24.0,1989
-261,2:16.78,,Vebjørn RODAL,1972-09-16,NOR,1,London (GBR),1996-08-11,1139.0,1000-metres,middlelong,male,senior,1000-metres,track,136.78,GBR,23.0,1996
-263,2:16.79,,Jakub HOLUŠA,1988-02-20,CZE,5,"Mestský Stadion, Ostrava (CZE)",2014-06-17,1139.0,1000-metres,middlelong,male,senior,1000-metres,track,136.79,CZE,26.0,2014
-263,2:16.79,,Jackson Mumbwa KIVUVA,1989-08-11,KEN,5,"Bregyó Athletic Center, Székesfehérvár (HUN)",2018-07-02,1139.0,1000-metres,middlelong,male,senior,1000-metres,track,136.79,HUN,28.0,2018
-265,2:16.80,,Robert KIBET,1965-12-15,KEN,3,Sarajevo (BIH),1996-09-09,1138.0,1000-metres,middlelong,male,senior,1000-metres,track,136.8,BIH,30.0,1996
-265,2:16.8h,,Vitaliy TISHCHENKO,1957-07-28,URS,3,Kiev (URS),1981-06-11,1138.0,1000-metres,middlelong,male,senior,1000-metres,track,136.8,URS,23.0,1981
-265,2:16.8h,,José MARAJO,1954-08-10,FRA,1,Paris (FRA),1980-07-17,1138.0,1000-metres,middlelong,male,senior,1000-metres,track,136.8,FRA,25.0,1980
-268,2:16.82,,Geoffrey Kipkoech RONO,1987-04-21,KEN,2,Stockholm (SWE),2009-07-31,1138.0,1000-metres,middlelong,male,senior,1000-metres,track,136.82,SWE,22.0,2009
-268,2:16.82,,Graham WILLIAMSON,1960-06-15,GBR,1,Edinburgh (GBR),1984-07-17,1138.0,1000-metres,middlelong,male,senior,1000-metres,track,136.82,GBR,24.0,1984
-270,2:16.83,,Japheth KIMUTAI,1978-12-20,KEN,2,Rethymno (GRE),2003-07-06,1138.0,1000-metres,middlelong,male,senior,1000-metres,track,136.82999999999998,GRE,24.0,2003
 9,2:16.84,,Ali HAKIMI,1976-04-24,TUN,1,Lindau (GER),1995-07-28,1137.0,1000-metres,middlelong,male,u20,1000-metres,track,136.84,GER,19.0,1995
-271,2:16.84,,Tinoda MATSATSA,2004-09-20,USA,1f1,"Ashenfelter Indoor Track, State College, PA (USA) (i)",2025-01-18,1212.0,1000-metres,middlelong,male,senior,1000-metres,track,136.84,USA,20.0,2025
-271,2:16.84,,Nixon KIPROTICH,1962-12-04,KEN,3,Edinburgh (GBR),1990-07-06,1137.0,1000-metres,middlelong,male,senior,1000-metres,track,136.84,GBR,27.0,1990
-271,2:16.84,,Ali HAKIMI,1976-04-24,TUN,1,Lindau (GER),1995-07-28,1137.0,1000-metres,middlelong,male,senior,1000-metres,track,136.84,GER,19.0,1995
-274,2:16.85,,Antoine GAKEME,1991-12-24,BDI,4,"Olympiastadion, Stockholm (SWE)",2018-06-10,1137.0,1000-metres,middlelong,male,senior,1000-metres,track,136.85,SWE,26.0,2018
-274,2:16.85,,Hicham EL GUERROUJ,1974-09-14,MAR,6,Nice (FRA),1995-07-12,1137.0,1000-metres,middlelong,male,senior,1000-metres,track,136.85,FRA,20.0,1995
-276,2:16.86,,Nicolas AÏSSAT,1980-07-24,FRA,1,Strasbourg (FRA),2001-06-19,1137.0,1000-metres,middlelong,male,senior,1000-metres,track,136.86,FRA,20.0,2001
 10,2:16.86,,Japheth KIMUTAI,1978-12-20,KEN,1,Bruxelles (BEL),1997-08-22,1137.0,1000-metres,middlelong,male,u20,1000-metres,track,136.86,BEL,18.0,1997
-276,2:16.86,,Graham WILLIAMSON,1960-06-15,GBR,2,Nice (FRA),1984-08-20,1137.0,1000-metres,middlelong,male,senior,1000-metres,track,136.86,FRA,24.0,1984
-276,2:16.86,,Japheth KIMUTAI,1978-12-20,KEN,1,Bruxelles (BEL),1997-08-22,1137.0,1000-metres,middlelong,male,senior,1000-metres,track,136.86,BEL,18.0,1997
-276,2:16.86,,Ali HAKIMI,1976-04-24,TUN,4,Nice (FRA),2000-07-08,1137.0,1000-metres,middlelong,male,senior,1000-metres,track,136.86,FRA,24.0,2000
-276,2:16.86,,Sammy KOSKEI,1961-05-14,KEN,2,Belfast (GBR),1988-06-27,1137.0,1000-metres,middlelong,male,senior,1000-metres,track,136.86,GBR,27.0,1988
-281,2:16.87,,Nathan BRANNEN,1982-09-08,CAN,2,"Boston, MA (USA) (i)",2014-03-02,1211.0,1000-metres,middlelong,male,senior,1000-metres,track,136.87,USA,31.0,2014
-281,2:16.87,,Pierre DÉLÈZE,1958-08-25,SUI,4,Bern (SUI),1983-07-29,1137.0,1000-metres,middlelong,male,senior,1000-metres,track,136.87,SUI,24.0,1983
-283,2:16.88,,Ferguson Cheruiyot ROTICH,1989-11-30,KEN,4,"Boudewijnstadion, Bruxelles (BEL)",2014-09-05,1136.0,1000-metres,middlelong,male,senior,1000-metres,track,136.88,BEL,24.0,2014
-283,2:16.88,,Ari SUHONEN,1965-12-19,FIN,1,Lahti (FIN),1987-08-11,1136.0,1000-metres,middlelong,male,senior,1000-metres,track,136.88,FIN,21.0,1987
-283,2:16.88,,Graham HOOD,1972-04-02,CAN,1,Montréal (CAN),1996-06-10,1136.0,1000-metres,middlelong,male,senior,1000-metres,track,136.88,CAN,24.0,1996
-286,2:16.89,,Cornelius TUWEI,1993-05-24,KEN,6,"Bregyó Athletic Center, Székesfehérvár (HUN)",2018-07-02,1136.0,1000-metres,middlelong,male,senior,1000-metres,track,136.89,HUN,25.0,2018
-287,2:16.90,,Timo BENITZ,1991-12-24,GER,1f2,Pliezhausen (GER),2014-05-18,1136.0,1000-metres,middlelong,male,senior,1000-metres,track,136.9,GER,22.0,2014
-287,2:16.90,,David MACK,1961-05-30,USA,2,Edinburgh (GBR),1985-07-23,1136.0,1000-metres,middlelong,male,senior,1000-metres,track,136.9,GBR,24.0,1985
-287,2:16.90,,Thomas WESSINGHAGE,1952-02-22,FRG,4,Koblenz (GER),1979-09-06,1136.0,1000-metres,middlelong,male,senior,1000-metres,track,136.9,GER,27.0,1979
-287,2:16.9h,,Saïd AOUITA,1959-11-02,MAR,1,Casablanca (MAR),1983-03-13,1136.0,1000-metres,middlelong,male,senior,1000-metres,track,136.9,MAR,23.0,1983
-287,2:16.9h,,Francesco ARESE,1944-04-13,ITA,1,Torino (ITA),1970-10-11,1136.0,1000-metres,middlelong,male,senior,1000-metres,track,136.9,ITA,26.0,1970
-287,2:16.9h,,Danie MALAN,1950-06-26,RSA,1,Stuttgart (GER),1975-08-26,1136.0,1000-metres,middlelong,male,senior,1000-metres,track,136.9,GER,25.0,1975
-293,2:16.91,,Bryce HOPPEL,1997-09-05,USA,2,"The Track at New Balance, Boston, MA (USA) (i)",2024-02-04,1210.0,1000-metres,middlelong,male,senior,1000-metres,track,136.91,USA,26.0,2024
-294,2:16.92,,Collins KIPRUTO,1994-04-12,KEN,2,Šamorín (SVK),2019-06-15,1136.0,1000-metres,middlelong,male,senior,1000-metres,track,136.92000000000002,SVK,25.0,2019
-294,2:16.92,,Jürgen STRAUB,1953-11-03,GDR,1,Potsdam (GDR),1980-07-13,1136.0,1000-metres,middlelong,male,senior,1000-metres,track,136.92000000000002,GDR,26.0,1980
-296,2:16.93,,Nick WILLIS,1983-04-25,NZL,2,"International Stadium, Gateshead (GBR)",2008-08-31,1135.0,1000-metres,middlelong,male,senior,1000-metres,track,136.93,GBR,25.0,2008
-296,2:16.93,,Noah NGENY,1978-11-02,KEN,2,Nice (FRA),2001-07-09,1135.0,1000-metres,middlelong,male,senior,1000-metres,track,136.93,FRA,22.0,2001
-298,2:16.94,,Alex KIPCHIRCHIR,1984-11-26,KEN,1,"New York, NY (USA)",2005-06-11,1135.0,1000-metres,middlelong,male,senior,1000-metres,track,136.94,USA,20.0,2005
-299,2:16.95,,Willi WÜLBECK,1954-12-18,FRG,1,Köln (GER),1982-08-22,1135.0,1000-metres,middlelong,male,senior,1000-metres,track,136.95,GER,27.0,1982
-299,2:16.95,,Jack ANSTEY,1997-04-08,AUS,1f1,"Boston Univ. Track & Tennis Center, Boston, MA (USA) (i)",2024-02-10,1209.0,1000-metres,middlelong,male,senior,1000-metres,track,136.95,USA,26.0,2024
-299,2:16.95,,Filip INGEBRIGTSEN,1993-04-20,NOR,8,"Stade Olympique de la Pontaise, Lausanne (SUI)",2016-08-25,1135.0,1000-metres,middlelong,male,senior,1000-metres,track,136.95,SUI,23.0,2016
-302,2:16.96,,Richard KIPLAGAT,1984-05-03,KEN,2,Stockholm (SWE) (i),2008-02-21,1209.0,1000-metres,middlelong,male,senior,1000-metres,track,136.96,SWE,23.0,2008
-302,2:16.96,,Nabil MADI,1981-06-09,ALG,4,Villeneuve d'Ascq (FRA),2006-06-09,1135.0,1000-metres,middlelong,male,senior,1000-metres,track,136.96,FRA,25.0,2006
-302,2:16.96,,Andreas KRAMER,1997-04-13,SWE,1,"Slottsskogsvallen, Göteborg (SWE)",2023-06-18,1135.0,1000-metres,middlelong,male,senior,1000-metres,track,136.96,SWE,26.0,2023
-302,2:16.96,,Luke MCCANN,1998-03-12,IRL,1,"Stadion BOSiR, Białystok (POL)",2024-08-31,1135.0,1000-metres,middlelong,male,senior,1000-metres,track,136.96,POL,26.0,2024
-302,2:16.96,,Adam KSZCZOT,1989-09-02,POL,6,"Mestský Stadion, Ostrava (CZE)",2014-06-17,1135.0,1000-metres,middlelong,male,senior,1000-metres,track,136.96,CZE,24.0,2014
-307,2:16.98,,Kipyegon BETT,1998-02-01,KEN,5,"Olympiastadion, Stockholm (SWE)",2018-06-10,1134.0,1000-metres,middlelong,male,senior,1000-metres,track,136.98,SWE,20.0,2018
-307,2:16.98,,Tshepo TSHITE,1997-01-15,RSA,3,"Province Naimette Arena, Liège (BEL)",2025-07-16,1134.0,1000-metres,middlelong,male,senior,1000-metres,track,136.98,BEL,28.0,2025
-307,2:16.98,,Jean-Patrick NDUWIMANA,1978-03-09,BDI,8,Stockholm (SWE),2000-08-01,1134.0,1000-metres,middlelong,male,senior,1000-metres,track,136.98,SWE,22.0,2000
-307,2:16.98,,Abubaker KAKI,1989-06-21,SUD,3,Stockholm (SWE),2009-07-31,1134.0,1000-metres,middlelong,male,senior,1000-metres,track,136.98,SWE,20.0,2009
-311,2:16.99,,Joaquim CRUZ,1963-03-12,BRA,1,Stuttgart (GER) (i),1989-02-12,1208.0,1000-metres,middlelong,male,senior,1000-metres,track,136.99,GER,25.0,1989
-311,2:16.99,,Anthony MORRELL,1962-05-03,GBR,2,London (GBR),1988-08-28,1134.0,1000-metres,middlelong,male,senior,1000-metres,track,136.99,GBR,26.0,1988
-311,2:16.99,,Adam KSZCZOT,1989-09-02,POL,2,"Mestský Stadion, Ostrava (CZE)",2011-05-31,1134.0,1000-metres,middlelong,male,senior,1000-metres,track,136.99,CZE,21.0,2011
-311,2:16.99,,Andrew BADDELEY,1982-06-20,GBR,5,Stockholm (SWE),2007-08-07,1134.0,1000-metres,middlelong,male,senior,1000-metres,track,136.99,SWE,25.0,2007
-315,2:17.00,,Matthew CENTROWITZ,1989-10-18,USA,1,"Reggie Lewis Center, Boston, MA (USA) (i)",2015-02-07,1208.0,1000-metres,middlelong,male,senior,1000-metres,track,137.0,USA,25.0,2015
-315,2:17.00,,Patrick KONCHELLAH,1968-04-20,KEN,1,Hamburg (GER),1999-07-29,1134.0,1000-metres,middlelong,male,senior,1000-metres,track,137.0,GER,31.0,1999
-315,2:17.0h,,Byron DYCE,1948-03-27,JAM,2,København (DEN),1973-08-15,1134.0,1000-metres,middlelong,male,senior,1000-metres,track,137.0,DEN,25.0,1973
-315,2:17.0h,,Marcel PHILIPPE,1951-09-16,FRA,1,Paris (FRA),1973-06-28,1134.0,1000-metres,middlelong,male,senior,1000-metres,track,137.0,FRA,21.0,1973
-315,2:17.00,,Ferguson Cheruiyot ROTICH,1989-11-30,KEN,9,"Stade Louis II, Monaco (MON)",2022-08-10,1134.0,1000-metres,middlelong,male,senior,1000-metres,track,137.0,MON,32.0,2022
-315,2:17.0h,,Lutz ZAUBER,1958-08-09,GDR,2,Berlin (GER),1982-05-26,1134.0,1000-metres,middlelong,male,senior,1000-metres,track,137.0,GER,23.0,1982
-315,2:17.0h,,Johan FOURIE,1959-12-02,RSA,1,Bloemfontein (RSA),1985-01-28,1134.0,1000-metres,middlelong,male,senior,1000-metres,track,137.0,RSA,25.0,1985
-322,2:17.01,,Mehdi BAALA,1978-08-17,FRA,1,Karlsruhe (GER) (i),2005-02-13,1208.0,1000-metres,middlelong,male,senior,1000-metres,track,137.01,GER,26.0,2005
-322,2:17.01,,Bram SOM,1980-02-20,NED,1f3,Lisse (NED),2010-05-15,1134.0,1000-metres,middlelong,male,senior,1000-metres,track,137.01,NED,30.0,2010
-322,2:17.01,,Benyounés LAHLOU,1964-11-03,MAR,6,Nice (FRA),1997-07-16,1134.0,1000-metres,middlelong,male,senior,1000-metres,track,137.01,FRA,32.0,1997
-325,2:17.02,,André BUCHER,1976-10-19,SUI,1,Willisau (SUI),1999-05-08,1133.0,1000-metres,middlelong,male,senior,1000-metres,track,137.02,SUI,22.0,1999
-325,2:17.02,,Thijmen KUPERS,1991-10-04,NED,2,"Globe Arena, Stockholm (SWE) (i)",2016-02-17,1207.0,1000-metres,middlelong,male,senior,1000-metres,track,137.02,SWE,24.0,2016
-325,2:17.02,,Marino BLOUDEK,1999-07-18,CRO,6,"Sports Park Mladost, Zagreb (CRO)",2024-09-08,1133.0,1000-metres,middlelong,male,senior,1000-metres,track,137.02,CRO,25.0,2024
-328,2:17.03,,Ali HAKIMI,1976-04-24,TUN,9,Stockholm (SWE),2000-08-01,1133.0,1000-metres,middlelong,male,senior,1000-metres,track,137.03,SWE,24.0,2000
-328,2:17.03,,Paul ANSELMINI,2003-08-02,FRA,2,"Arena Civica Gianni Brera, Milano (ITA)",2024-04-27,1133.0,1000-metres,middlelong,male,senior,1000-metres,track,137.03,ITA,20.0,2024
-330,2:17.05,,Ayanleh SOULEIMAN,1992-12-03,DJI,1,"Globe Arena, Stockholm (SWE) (i)",2013-02-21,1207.0,1000-metres,middlelong,male,senior,1000-metres,track,137.05,SWE,20.0,2013
-330,2:17.05,,Charles NKAZAMYAMPI,1964-11-01,BDI,4,Villeneuve d'Ascq (FRA),1993-07-02,1133.0,1000-metres,middlelong,male,senior,1000-metres,track,137.05,FRA,28.0,1993
-330,2:17.05,,Filip SASÍNEK,1996-01-08,CZE,1,"Wieslaw Maniak Municipal Athletic Stadium, Szczecin (POL)",2020-08-16,1133.0,1000-metres,middlelong,male,senior,1000-metres,track,137.05,POL,24.0,2020
-333,2:17.06,,Peter ELLIOTT,1962-10-09,GBR,1,Madrid (ESP),1987-06-04,1132.0,1000-metres,middlelong,male,senior,1000-metres,track,137.06,ESP,24.0,1987
-333,2:17.06,,Mehdi BAALA,1978-08-17,FRA,1,Liévin (FRA) (i),2004-02-28,1206.0,1000-metres,middlelong,male,senior,1000-metres,track,137.06,FRA,25.0,2004
-333,2:17.06,,Tony VAN DIEPEN,1996-04-17,NED,10,"Stade Louis II, Monaco (MON)",2022-08-10,1132.0,1000-metres,middlelong,male,senior,1000-metres,track,137.06,MON,26.0,2022
-333,2:17.06,,Belal Mansoor ALI,1988-10-17,BRN,2,Gent (BEL) (i),2008-02-24,1206.0,1000-metres,middlelong,male,senior,1000-metres,track,137.06,BEL,19.0,2008
-337,2:17.07,,Paul KORIR,1977-07-15,KEN,2,Liévin (FRA) (i),2004-02-28,1206.0,1000-metres,middlelong,male,senior,1000-metres,track,137.07,FRA,26.0,2004
-337,2:17.07,,Philip KIBITOK,1971-03-23,KEN,7,Nice (FRA),1997-07-16,1132.0,1000-metres,middlelong,male,senior,1000-metres,track,137.07,FRA,26.0,1997
-337,2:17.07,,Rob DRUPPERS,1962-04-29,NED,3,"Eugene, OR (USA)",1984-07-21,1132.0,1000-metres,middlelong,male,senior,1000-metres,track,137.07,USA,22.0,1984
-340,2:17.08,,Ole Jakob HØSTELAND SOLBU,2003-08-19,NOR,2,"Slottsskogsvallen, Göteborg (SWE)",2023-06-18,1132.0,1000-metres,middlelong,male,senior,1000-metres,track,137.07999999999998,SWE,19.0,2023
-340,2:17.08,,Wilson KIPKETER,1972-12-12,DEN,1,Stockholm (SWE) (i),1996-02-25,1206.0,1000-metres,middlelong,male,senior,1000-metres,track,137.07999999999998,SWE,23.0,1996
-340,2:17.08,,Abraham Kipchirchir ROTICH,1993-09-26,KEN,1,Dubnica nad Váhom (SVK),2012-08-26,1132.0,1000-metres,middlelong,male,senior,1000-metres,track,137.07999999999998,SVK,18.0,2012
-340,2:17.08,,Jakub HOLUŠA,1988-02-20,CZE,4,"Mestský Stadion, Ostrava (CZE)",2011-05-31,1132.0,1000-metres,middlelong,male,senior,1000-metres,track,137.07999999999998,CZE,23.0,2011
-340,2:17.08,,Ilham Tanui ÖZBILEN,1990-03-05,KEN,3,"Mestský Stadion, Ostrava (CZE)",2011-05-31,1132.0,1000-metres,middlelong,male,senior,1000-metres,track,137.07999999999998,CZE,21.0,2011
 11,2:17.08,,Abraham Kipchirchir ROTICH,1993-09-26,KEN,1,Dubnica nad Váhom (SVK),2012-08-26,1132.0,1000-metres,middlelong,male,u20,1000-metres,track,137.07999999999998,SVK,18.0,2012
-345,2:17.09,,Elijah Motonei MANANGOI,1993-01-05,KEN,3,"Globe Arena, Stockholm (SWE) (i)",2016-02-17,1206.0,1000-metres,middlelong,male,senior,1000-metres,track,137.09,SWE,23.0,2016
-345,2:17.09,,Jens-Peter HEROLD,1965-06-02,GER,1,Berlin (GER) (i),1993-02-05,1206.0,1000-metres,middlelong,male,senior,1000-metres,track,137.09,GER,27.0,1993
-345,2:17.09,,Vincent MALAKWEN,1974-07-19,KEN,2,London (GBR),1996-08-11,1132.0,1000-metres,middlelong,male,senior,1000-metres,track,137.09,GBR,22.0,1996
-348,2:17.10,,Marco AROP,1998-09-20,CAN,2,"Ocean Breeze Athl. Complex, New York, NY (USA) (i)",2021-02-13,1206.0,1000-metres,middlelong,male,senior,1000-metres,track,137.1,USA,22.0,2021
-348,2:17.10,,Sam ELLIS,1998-10-20,USA,3,"The Track at New Balance, Boston, MA (USA) (i)",2024-02-04,1206.0,1000-metres,middlelong,male,senior,1000-metres,track,137.1,USA,25.0,2024
-348,2:17.10,,Nick SYMMONDS,1983-12-30,USA,3,"International Stadium, Gateshead (GBR)",2008-08-31,1132.0,1000-metres,middlelong,male,senior,1000-metres,track,137.1,GBR,24.0,2008
-348,2:17.10,,Julius ACHON,1976-12-12,UGA,2,Rhede (GER),1995-07-30,1132.0,1000-metres,middlelong,male,senior,1000-metres,track,137.1,GER,18.0,1995
-348,2:17.10,,Driss MAAZOUZI,1969-10-15,FRA,3,Nice (FRA),2001-07-09,1132.0,1000-metres,middlelong,male,senior,1000-metres,track,137.1,FRA,31.0,2001
-348,2:17.10,,David KRUMMENACKER,1975-05-24,USA,2,"Palo Alto, CA (USA)",2003-06-07,1132.0,1000-metres,middlelong,male,senior,1000-metres,track,137.1,USA,28.0,2003
-348,2:17.10,,Yuriy BORZAKOVSKIY,1981-04-12,RUS,2f2,Moskva (RUS) (i),2009-02-01,1206.0,1000-metres,middlelong,male,senior,1000-metres,track,137.1,RUS,27.0,2009
 12,2:17.10,,Julius ACHON,1976-12-12,UGA,2,Rhede (GER),1995-07-30,1132.0,1000-metres,middlelong,male,u20,1000-metres,track,137.1,GER,18.0,1995
-355,2:17.11,,Ronald MUSAGALA,1992-12-16,UGA,5,"Boudewijnstadion, Bruxelles (BEL)",2014-09-05,1131.0,1000-metres,middlelong,male,senior,1000-metres,track,137.11,BEL,21.0,2014
-355,2:17.11,,Japheth KIMUTAI,1978-12-20,KEN,1,Rethymno (GRE),2002-07-07,1131.0,1000-metres,middlelong,male,senior,1000-metres,track,137.11,GRE,23.0,2002
-355,2:17.11,,Benjamin ROBERT,1998-01-04,FRA,11,"Stade Louis II, Monaco (MON)",2022-08-10,1131.0,1000-metres,middlelong,male,senior,1000-metres,track,137.11,MON,24.0,2022
-355,2:17.11,,Stefan NILLESSEN,2003-01-02,NED,4,"FBK Stadium, Hengelo (NED)",2024-07-07,1131.0,1000-metres,middlelong,male,senior,1000-metres,track,137.11,NED,21.0,2024
-359,2:17.13,,Michael RIMMER,1986-02-03,GBR,5,Linz (AUT),2012-08-20,1131.0,1000-metres,middlelong,male,senior,1000-metres,track,137.13,AUT,26.0,2012
-359,2:17.13,,Elkanah Onkware ANGWENYI,1983-02-05,KEN,2,"New York, NY (USA)",2005-06-11,1131.0,1000-metres,middlelong,male,senior,1000-metres,track,137.13,USA,22.0,2005
-359,2:17.13,,Yassine HETHAT,1991-08-30,ALG,1,"Stade Annexe du 5 Juillet, Algiers (ALG)",2022-03-19,1131.0,1000-metres,middlelong,male,senior,1000-metres,track,137.13,ALG,30.0,2022
-359,2:17.13,,Fouad EL KAAM,1988-05-27,MAR,1,"Wieslaw Maniak Municipal Athletic Stadium, Szczecin (POL)",2018-08-15,1131.0,1000-metres,middlelong,male,senior,1000-metres,track,137.13,POL,30.0,2018
-363,2:17.14,,Riccardo MATERAZZI,1963-06-15,ITA,1,Pisa (ITA),1984-06-20,1131.0,1000-metres,middlelong,male,senior,1000-metres,track,137.14,ITA,21.0,1984
-363,2:17.14,,Mahiedine MEKHISSI,1985-03-15,FRA,1,"Stade Raymond Petit, Tomblaine (FRA)",2009-06-26,1131.0,1000-metres,middlelong,male,senior,1000-metres,track,137.14,FRA,24.0,2009
-363,2:17.14,,John GLADWIN,1963-05-07,GBR,4,Edinburgh (GBR),1990-07-06,1131.0,1000-metres,middlelong,male,senior,1000-metres,track,137.14,GBR,27.0,1990
-366,2:17.15,,Yassine HETHAT,1991-08-30,ALG,6,"Boudewijnstadion, Bruxelles (BEL)",2014-09-05,1130.0,1000-metres,middlelong,male,senior,1000-metres,track,137.15,BEL,23.0,2014
-366,2:17.15,,Steve CRAM,1960-10-14,GBR,1,London (GBR),1987-08-22,1130.0,1000-metres,middlelong,male,senior,1000-metres,track,137.15,GBR,26.0,1987
-366,2:17.15,,Abdi BILE,1962-12-28,SOM,3,Edinburgh (GBR),1985-07-23,1130.0,1000-metres,middlelong,male,senior,1000-metres,track,137.15,GBR,22.0,1985
-369,2:17.16,,Viktor CHUDINOVSKIY,1989-11-13,RUS,1f2,Yekaterinburg (RUS) (i),2009-01-07,1204.0,1000-metres,middlelong,male,senior,1000-metres,track,137.16,RUS,19.0,2009
-369,2:17.16,,Nicholas Kiplangat KIPKOECH,1992-10-22,KEN,6,Linz (AUT),2012-08-20,1130.0,1000-metres,middlelong,male,senior,1000-metres,track,137.16,AUT,19.0,2012
-371,2:17.17,,El-Mahjoub HAIDA,1970-07-01,MAR,2,Stockholm (SWE) (i),1996-02-25,1204.0,1000-metres,middlelong,male,senior,1000-metres,track,137.17000000000002,SWE,25.0,1996
-371,2:17.17,,Clayton MURPHY,1995-02-26,USA,1,"Portland, OR (USA)",2017-06-11,1130.0,1000-metres,middlelong,male,senior,1000-metres,track,137.17000000000002,USA,22.0,2017
-371,2:17.17,,Pieter SISK,1999-12-08,BEL,1,"Topsporthal Vlaanderen, Gent (BEL) (i)",2024-02-03,1204.0,1000-metres,middlelong,male,senior,1000-metres,track,137.17000000000002,BEL,24.0,2024
-374,2:17.18,,Joseph CHESIRE,1957-11-12,KEN,3,"Crystal Palace, London (GBR)",1989-07-14,1130.0,1000-metres,middlelong,male,senior,1000-metres,track,137.18,GBR,31.0,1989
-374,2:17.18,,Andrew OSAGIE,1988-02-19,GBR,6,"Olympiastadion, Stockholm (SWE)",2018-06-10,1130.0,1000-metres,middlelong,male,senior,1000-metres,track,137.18,SWE,30.0,2018
-374,2:17.18,,Mahiedine MEKHISSI,1985-03-15,FRA,3,"Stade Raymond Petit, Tomblaine (FRA)",2014-06-27,1130.0,1000-metres,middlelong,male,senior,1000-metres,track,137.18,FRA,29.0,2014
-374,2:17.18,,Eckhardt RÜTER,1963-10-24,FRG,1,Hamm (GER),1988-09-09,1130.0,1000-metres,middlelong,male,senior,1000-metres,track,137.18,GER,24.0,1988
-374,2:17.18,,Mehdi BAALA,1978-08-17,FRA,1,Liévin (FRA) (i),2003-02-23,1204.0,1000-metres,middlelong,male,senior,1000-metres,track,137.18,FRA,24.0,2003
-379,2:17.19,,Tamás KAZI,1985-05-16,HUN,7,"Bregyó Athletic Center, Székesfehérvár (HUN)",2018-07-02,1129.0,1000-metres,middlelong,male,senior,1000-metres,track,137.19,HUN,33.0,2018
-379,2:17.19,,Johan BOTHA,1974-01-10,RSA,10,Nice (FRA),1999-07-17,1129.0,1000-metres,middlelong,male,senior,1000-metres,track,137.19,FRA,25.0,1999
-381,2:17.2h,,Rod DIXON,1950-07-13,NZL,4,Oslo (NOR),1974-07-30,1129.0,1000-metres,middlelong,male,senior,1000-metres,track,137.2,NOR,24.0,1974
-381,2:17.20,,Mustapha LACHAAL,1964-02-10,MAR,2,Jerez de la Frontera (ESP),1989-09-13,1129.0,1000-metres,middlelong,male,senior,1000-metres,track,137.2,ESP,25.0,1989
-381,2:17.20,,Charlie DA'VALL GRICE,1993-11-07,GBR,3,"Ocean Breeze Athl. Complex, New York, NY (USA) (i)",2021-02-13,1203.0,1000-metres,middlelong,male,senior,1000-metres,track,137.2,USA,27.0,2021
-381,2:17.2h,,Vladimir SHERONOV,1955-06-14,URS,1,Podolsk (URS),1978-08-20,1129.0,1000-metres,middlelong,male,senior,1000-metres,track,137.2,URS,23.0,1978
-381,2:17.20,,George KERSH,1968-07-03,USA,5,Villeneuve d'Ascq (FRA),1993-07-02,1129.0,1000-metres,middlelong,male,senior,1000-metres,track,137.2,FRA,25.0,1993
-381,2:17.2h,,Vladimir VOLKOV,1956-01-12,URS,1,Kiev (URS),1981-06-15,1129.0,1000-metres,middlelong,male,senior,1000-metres,track,137.2,URS,25.0,1981
-381,2:17.20,,Rui SILVA,1977-08-03,POR,1,Lisboa (POR),1997-04-12,1129.0,1000-metres,middlelong,male,senior,1000-metres,track,137.2,POR,19.0,1997
-381,2:17.20,,Rob HARRISON,1959-06-05,GBR,1,London (GBR),1984-08-18,1129.0,1000-metres,middlelong,male,senior,1000-metres,track,137.2,GBR,25.0,1984
-381,2:17.2h,,John WALKER,1952-01-12,NZL,1,Milano (ITA),1975-07-02,1129.0,1000-metres,middlelong,male,senior,1000-metres,track,137.2,ITA,23.0,1975
-390,2:17.21,,Michał ROZMYS,1995-03-13,POL,1,"Forest Stadium, Sopot (POL)",2021-08-30,1129.0,1000-metres,middlelong,male,senior,1000-metres,track,137.21,POL,26.0,2021
-390,2:17.21,,Brannon KIDDER,1993-11-18,USA,1f1,"Ashenfelter Indoor Track, State College, PA (USA) (i)",2025-01-31,1203.0,1000-metres,middlelong,male,senior,1000-metres,track,137.21,USA,31.0,2025
-390,2:17.21,,Abdessalem AYOUNI,1994-05-16,TUN,4,"Province Naimette Arena, Liège (BEL)",2025-07-16,1129.0,1000-metres,middlelong,male,senior,1000-metres,track,137.21,BEL,31.0,2025
-390,2:17.21,,Yassine BENSGHIR,1983-01-03,MAR,7,Linz (AUT),2012-08-20,1129.0,1000-metres,middlelong,male,senior,1000-metres,track,137.21,AUT,29.0,2012
-390,2:17.21,,Billy KONCHELLAH,1961-10-20,KEN,2,Stockholm (SWE),1987-06-30,1129.0,1000-metres,middlelong,male,senior,1000-metres,track,137.21,SWE,25.0,1987
-395,2:17.22,,Abubaker KAKI,1989-06-21,SUD,1,Praha (CZE) (i),2009-02-26,1203.0,1000-metres,middlelong,male,senior,1000-metres,track,137.22,CZE,19.0,2009
-395,2:17.22,,Paweł CZAPIEWSKI,1978-03-30,POL,1,Kraków (POL),2002-09-22,1129.0,1000-metres,middlelong,male,senior,1000-metres,track,137.22,POL,24.0,2002
-397,2:17.23,,Joao BUSSOTTI NEVES,1993-05-10,ITA,1f1,"Arena Civica Gianni Brera, Milano (ITA)",2024-04-13,1129.0,1000-metres,middlelong,male,senior,1000-metres,track,137.23,ITA,30.0,2024
-397,2:17.23,,Josh HOEY,1999-11-01,USA,4,"The Track at New Balance, Boston, MA (USA) (i)",2024-02-04,1202.0,1000-metres,middlelong,male,senior,1000-metres,track,137.23,USA,24.0,2024
-397,2:17.23,,William WUYCKE,1958-05-21,VEN,2,Madrid (ESP),1987-06-04,1129.0,1000-metres,middlelong,male,senior,1000-metres,track,137.23,ESP,29.0,1987
-400,2:17.24,,Baptiste MISCHLER,1997-11-23,FRA,2,"Estadio Enrique Lopez Cuenca, Nerja (ESP)",2021-05-12,1128.0,1000-metres,middlelong,male,senior,1000-metres,track,137.24,ESP,23.0,2021
-400,2:17.24,,Isaac VICIOSA,1969-12-26,ESP,2,"Helmántico, Salamanca (ESP)",1995-07-18,1128.0,1000-metres,middlelong,male,senior,1000-metres,track,137.24,ESP,25.0,1995
-400,2:17.24,,Marcin LEWANDOWSKI,1987-06-13,POL,2,"Wieslaw Maniak Municipal Athletic Stadium, Szczecin (POL)",2018-08-15,1128.0,1000-metres,middlelong,male,senior,1000-metres,track,137.24,POL,31.0,2018
-400,2:17.24,,Driss MAAZOUZI,1969-10-15,MAR,1,Villeneuve d'Ascq (FRA),1997-06-29,1128.0,1000-metres,middlelong,male,senior,1000-metres,track,137.24,FRA,27.0,1997
 13,2:17.25,,Cameron MYERS,2006-06-09,AUS,1f1,"Parc des Sports, Maisons-Laffitte (FRA)",2025-06-07,1128.0,1000-metres,middlelong,male,u20,1000-metres,track,137.25,FRA,19.0,2025
-404,2:17.25,,Abdelslam KENNOUCHE,1980-10-07,ALG,2,Strasbourg (FRA),2003-06-26,1128.0,1000-metres,middlelong,male,senior,1000-metres,track,137.25,FRA,22.0,2003
-404,2:17.25,,Eric HOLT,1995-05-12,USA,2f1,"Ocean Breeze Athl. Complex, New York, NY (USA) (i)",2024-02-23,1202.0,1000-metres,middlelong,male,senior,1000-metres,track,137.25,USA,28.0,2024
-404,2:17.25,,Marcin LEWANDOWSKI,1987-06-13,POL,1,"Mestský Stadion, Ostrava (CZE)",2015-05-26,1128.0,1000-metres,middlelong,male,senior,1000-metres,track,137.25,CZE,27.0,2015
-404,2:17.25,,Alex BOTTERILL,2000-01-18,GBR,3,"Utilita Arena Birmingham, Birmingham (GBR) (i)",2025-02-15,1202.0,1000-metres,middlelong,male,senior,1000-metres,track,137.25,GBR,25.0,2025
-404,2:17.25,,Cameron MYERS,2006-06-09,AUS,1f1,"Parc des Sports, Maisons-Laffitte (FRA)",2025-06-07,1128.0,1000-metres,middlelong,male,senior,1000-metres,track,137.25,FRA,19.0,2025
-404,2:17.25,,Earl JONES,1964-07-17,USA,2,London (GBR),1986-07-11,1128.0,1000-metres,middlelong,male,senior,1000-metres,track,137.25,GBR,21.0,1986
-410,2:17.26,,Hezekiel SEPENG,1974-06-30,RSA,4,Nice (FRA),2001-07-09,1128.0,1000-metres,middlelong,male,senior,1000-metres,track,137.26,FRA,27.0,2001
-410,2:17.26,,David BARROSO,2001-08-21,ESP,5,"Province Naimette Arena, Liège (BEL)",2025-07-16,1128.0,1000-metres,middlelong,male,senior,1000-metres,track,137.26,BEL,23.0,2025
-410,2:17.26,,Steve OVETT,1955-10-09,GBR,1,London (GBR),1983-07-15,1128.0,1000-metres,middlelong,male,senior,1000-metres,track,137.26,GBR,27.0,1983
-410,2:17.26,,Noah NGENY,1978-11-02,KEN,1,Gent (BEL) (i),2001-02-23,1202.0,1000-metres,middlelong,male,senior,1000-metres,track,137.26,BEL,22.0,2001
-414,2:17.27,,Johnny GRAY,1960-06-19,USA,2,London (GBR),1984-08-18,1128.0,1000-metres,middlelong,male,senior,1000-metres,track,137.27,GBR,24.0,1984
-415,2:17.28,,Gennaro DI NAPOLI,1968-03-05,ITA,1,Parma (ITA),1991-06-22,1127.0,1000-metres,middlelong,male,senior,1000-metres,track,137.28,ITA,23.0,1991
-416,2:17.29,,Marcin LEWANDOWSKI,1987-06-13,POL,1,Dubnica nad Váhom (SVK),2010-08-22,1127.0,1000-metres,middlelong,male,senior,1000-metres,track,137.29,SVK,23.0,2010
-416,2:17.29,,Mehdi BAALA,1978-08-17,FRA,2,"Schleyer Halle, Stuttgart (GER) (i)",2009-02-07,1201.0,1000-metres,middlelong,male,senior,1000-metres,track,137.29,GER,30.0,2009
-416,2:17.29,,Ignacio FONTES,1998-06-22,ESP,2,"Wieslaw Maniak Municipal Athletic Stadium, Szczecin (POL)",2020-08-16,1127.0,1000-metres,middlelong,male,senior,1000-metres,track,137.29,POL,22.0,2020
-416,2:17.29,,Rich KENAH,1970-08-04,USA,3,London (GBR),1996-08-11,1127.0,1000-metres,middlelong,male,senior,1000-metres,track,137.29,GBR,26.0,1996
-416,2:17.29,,Rich KENAH,1970-08-04,USA,3,London (GBR),1995-08-11,1127.0,1000-metres,middlelong,male,senior,1000-metres,track,137.29,GBR,25.0,1995
-416,2:17.29,,Yassine HETHAT,1991-08-30,ALG,7,"Mestský Stadion, Ostrava (CZE)",2014-06-17,1127.0,1000-metres,middlelong,male,senior,1000-metres,track,137.29,CZE,22.0,2014
-422,2:17.3h,,Harald NORPOTH,1942-08-22,FRG,3,Hannover (GER),1966-09-21,1127.0,1000-metres,middlelong,male,senior,1000-metres,track,137.3,GER,24.0,1966
-422,2:17.30,,Tonino VIALI,1960-09-16,ITA,1,Grosseto (ITA),1990-08-13,1127.0,1000-metres,middlelong,male,senior,1000-metres,track,137.3,ITA,29.0,1990
-422,2:17.30,,Michał ROZMYS,1995-03-13,POL,3,"Wieslaw Maniak Municipal Athletic Stadium, Szczecin (POL)",2020-08-16,1127.0,1000-metres,middlelong,male,senior,1000-metres,track,137.3,POL,25.0,2020
-422,2:17.3h,,Hans-Peter FERNER,1956-06-06,FRG,3,København (DEN),1981-08-06,1127.0,1000-metres,middlelong,male,senior,1000-metres,track,137.3,DEN,25.0,1981
-422,2:17.30,,Laban ROTICH,1969-01-20,KEN,10,Stockholm (SWE),2000-08-01,1127.0,1000-metres,middlelong,male,senior,1000-metres,track,137.3,SWE,31.0,2000
-422,2:17.30,,Arnoud OKKEN,1982-04-20,NED,2f3,Lisse (NED),2010-05-15,1127.0,1000-metres,middlelong,male,senior,1000-metres,track,137.3,NED,28.0,2010
-428,2:17.31,,Wilson KIPKETER,1972-12-12,DEN,1,Stuttgart (GER) (i),1996-02-04,1201.0,1000-metres,middlelong,male,senior,1000-metres,track,137.31,GER,23.0,1996
-428,2:17.31,,Adrián BEN,1998-08-04,ESP,1,"Stade Jean Jacoby, Schifflange (LUX)",2024-07-21,1127.0,1000-metres,middlelong,male,senior,1000-metres,track,137.31,LUX,25.0,2024
-430,2:17.32,,Mohamad ALGARNI,1992-07-02,QAT,8,Linz (AUT),2012-08-20,1127.0,1000-metres,middlelong,male,senior,1000-metres,track,137.32,AUT,20.0,2012
-431,2:17.33,,Silas Kimeli TOO,,KEN,2,Dillingen (GER),2013-07-21,1126.0,1000-metres,middlelong,male,senior,1000-metres,track,137.32999999999998,GER,,2013
-431,2:17.33,,Steve CRAM,1960-10-14,GBR,1,Gateshead (GBR),1987-07-26,1126.0,1000-metres,middlelong,male,senior,1000-metres,track,137.32999999999998,GBR,26.0,1987
-433,2:17.34,,Arthémon HATUNGIMANA,1974-01-21,BDI,2,Strasbourg (FRA),2001-06-19,1126.0,1000-metres,middlelong,male,senior,1000-metres,track,137.34,FRA,27.0,2001
-433,2:17.34,,Nathan BRANNEN,1982-09-08,CAN,4,"International Stadium, Gateshead (GBR)",2008-08-31,1126.0,1000-metres,middlelong,male,senior,1000-metres,track,137.34,GBR,25.0,2008
-433,2:17.34,,Joel N'GETICH,1955-06-02,KEN,3,Köln (GER),1982-08-22,1126.0,1000-metres,middlelong,male,senior,1000-metres,track,137.34,GER,27.0,1982
-433,2:17.34,,Jean-Patrick NDUWIMANA,1978-03-09,BDI,5,Nice (FRA),2001-07-09,1126.0,1000-metres,middlelong,male,senior,1000-metres,track,137.34,FRA,23.0,2001
-433,2:17.34,,Florent LACASSE,1981-01-21,FRA,1,St-Florentin (FRA),2003-09-14,1126.0,1000-metres,middlelong,male,senior,1000-metres,track,137.34,FRA,22.0,2003
-438,2:17.35,,Kennedy KIMWETICH,,KEN,6,Nice (FRA),2001-07-09,1126.0,1000-metres,middlelong,male,senior,1000-metres,track,137.35,FRA,,2001
-438,2:17.35,,Jeffrey RISELEY,1986-11-11,AUS,4,Stockholm (SWE),2009-07-31,1126.0,1000-metres,middlelong,male,senior,1000-metres,track,137.35,SWE,22.0,2009
-440,2:17.36,,Rui SILVA,1977-08-03,POR,3,Gent (BEL) (i),2001-02-23,1199.0,1000-metres,middlelong,male,senior,1000-metres,track,137.36,BEL,23.0,2001
-440,2:17.36,,Neil HORSFIELD,1966-12-07,GBR,2,Gateshead (GBR),1991-08-09,1126.0,1000-metres,middlelong,male,senior,1000-metres,track,137.36,GBR,24.0,1991
-440,2:17.36,,Mehdi BAALA,1978-08-17,FRA,2,Gent (BEL) (i),2001-02-23,1199.0,1000-metres,middlelong,male,senior,1000-metres,track,137.36,BEL,22.0,2001
-440,2:17.36,,José Luis BARBOSA,1961-05-27,BRA,1,Nice (FRA),1985-07-16,1126.0,1000-metres,middlelong,male,senior,1000-metres,track,137.36,FRA,24.0,1985
-444,2:17.37,,Sammy KOSKEI,1961-05-14,KEN,3,Madrid (ESP),1987-06-04,1125.0,1000-metres,middlelong,male,senior,1000-metres,track,137.37,ESP,26.0,1987
-444,2:17.37,,Paul ERENG,1967-08-22,KEN,1,Budapest (HUN),1989-08-08,1125.0,1000-metres,middlelong,male,senior,1000-metres,track,137.37,HUN,21.0,1989
-446,2:17.38,,Tamás KAZI,1985-05-16,HUN,8,"Mestský Stadion, Ostrava (CZE)",2014-06-17,1125.0,1000-metres,middlelong,male,senior,1000-metres,track,137.38,CZE,29.0,2014
-446,2:17.38,,Asbel KIPROP,1989-06-30,KEN,2,"Mestský Stadion, Ostrava (CZE)",2015-05-26,1125.0,1000-metres,middlelong,male,senior,1000-metres,track,137.38,CZE,25.0,2015
-448,2:17.39,,Nicolas AÏSSAT,1980-07-24,FRA,7,Nice (FRA),2001-07-09,1125.0,1000-metres,middlelong,male,senior,1000-metres,track,137.39,FRA,20.0,2001
-448,2:17.39,,Abel TEFFRA,2002-01-23,USA,2f1,"Ashenfelter Indoor Track, State College, PA (USA) (i)",2025-01-18,1199.0,1000-metres,middlelong,male,senior,1000-metres,track,137.39,USA,23.0,2025
-450,2:17.40,,Abdelkader CHÉKHÉMANI,1971-07-18,FRA,3,Strasbourg (FRA),2003-06-26,1125.0,1000-metres,middlelong,male,senior,1000-metres,track,137.4,FRA,31.0,2003
-450,2:17.4h,,Dieter FROMM,1948-04-21,GDR,1,Erfurt (GER),1973-07-17,1125.0,1000-metres,middlelong,male,senior,1000-metres,track,137.4,GER,25.0,1973
-450,2:17.40,,Luke MCCANN,1998-03-12,IRL,2,"Norton Sports Center, Louisville, KY (USA) (i)",2022-02-12,1198.0,1000-metres,middlelong,male,senior,1000-metres,track,137.4,USA,23.0,2022
-450,2:17.40,,Yuriy BORZAKOVSKIY,1981-04-12,RUS,5,Nice (FRA),2000-07-08,1125.0,1000-metres,middlelong,male,senior,1000-metres,track,137.4,FRA,19.0,2000
-450,2:17.4h,,Abderrahmane MORCELI,,ALG,2,Nice (FRA),1978-08-20,1125.0,1000-metres,middlelong,male,senior,1000-metres,track,137.4,FRA,,1978
-450,2:17.40,,Benson KOECH,1974-11-10,KEN,7,Nice (FRA),1995-07-12,1125.0,1000-metres,middlelong,male,senior,1000-metres,track,137.4,FRA,20.0,1995
-450,2:17.40,,Alfred KIPKETER,1996-12-28,KEN,7,"Olympiastadion, Stockholm (SWE)",2018-06-10,1125.0,1000-metres,middlelong,male,senior,1000-metres,track,137.4,SWE,21.0,2018
 14,2:17.40,,Yuriy BORZAKOVSKIY,1981-04-12,RUS,5,Nice (FRA),2000-07-08,1125.0,1000-metres,middlelong,male,u20,1000-metres,track,137.4,FRA,19.0,2000
-457,2:17.41,,Mohamed Amine DRABLI,2000-04-21,ALG,4,"McArthur Stadium, Potchefstroom (RSA)",2024-03-05,1125.0,1000-metres,middlelong,male,senior,1000-metres,track,137.41,RSA,23.0,2024
-457,2:17.41,,Bryce HOPPEL,1997-09-05,USA,1,"Reggie Lewis Center, Boston, MA (USA) (i)",2020-01-25,1198.0,1000-metres,middlelong,male,senior,1000-metres,track,137.41,USA,22.0,2020
-459,2:17.42,,Solomon LEKUTA,1999-10-03,KEN,1,"Stade Louis II, Monaco (MON)",2018-07-20,1124.0,1000-metres,middlelong,male,senior,1000-metres,track,137.42000000000002,MON,18.0,2018
 15,2:17.42,,Solomon LEKUTA,1999-10-03,KEN,1,"Stade Louis II, Monaco (MON)",2018-07-20,1124.0,1000-metres,middlelong,male,u20,1000-metres,track,137.42000000000002,MON,18.0,2018
-460,2:17.43,,Dirk HEINZE,1976-07-02,GER,1,Weimar (GER),1999-06-27,1124.0,1000-metres,middlelong,male,senior,1000-metres,track,137.43,GER,23.0,1999
-460,2:17.43,,Gareth BROWN,1961-12-29,GBR,3,London (GBR),1984-08-18,1124.0,1000-metres,middlelong,male,senior,1000-metres,track,137.43,GBR,22.0,1984
-460,2:17.43,,Abraham ALVARADO,1995-08-04,USA,3,"Norton Sports Center, Louisville, KY (USA) (i)",2022-02-12,1198.0,1000-metres,middlelong,male,senior,1000-metres,track,137.43,USA,26.0,2022
-460,2:17.43,,Peter ELLIOTT,1962-10-09,GBR,2,Gateshead (GBR),1987-07-26,1124.0,1000-metres,middlelong,male,senior,1000-metres,track,137.43,GBR,24.0,1987
-464,2:17.44,,Cameron MYERS,2006-06-09,AUS,5,"FBK Stadium, Hengelo (NED)",2024-07-07,1124.0,1000-metres,middlelong,male,senior,1000-metres,track,137.44,NED,18.0,2024
-464,2:17.44,,Carsten SCHLANGEN,1980-12-31,GER,1,Königs Wusterhausen (GER),2008-05-27,1124.0,1000-metres,middlelong,male,senior,1000-metres,track,137.44,GER,27.0,2008
-16,2:17.44,,Cameron MYERS,2006-06-09,AUS,5,"FBK Stadium, Hengelo (NED)",2024-07-07,1124.0,1000-metres,middlelong,male,u20,1000-metres,track,137.44,NED,18.0,2024
 16,2:17.44,,Hamza DRIOUCH,1994-11-16,QAT,1,Sollentuna (SWE),2011-08-09,1124.0,1000-metres,middlelong,male,u20,1000-metres,track,137.44,SWE,16.0,2011
-464,2:17.44,,Hamza DRIOUCH,1994-11-16,QAT,1,Sollentuna (SWE),2011-08-09,1124.0,1000-metres,middlelong,male,senior,1000-metres,track,137.44,SWE,16.0,2011
-464,2:17.44,,Nils SCHUMANN,1978-05-20,GER,2,Weimar (GER),1999-06-27,1124.0,1000-metres,middlelong,male,senior,1000-metres,track,137.44,GER,21.0,1999
-464,2:17.44,,Andrew WHEATING,1987-11-21,USA,9,Linz (AUT),2012-08-20,1124.0,1000-metres,middlelong,male,senior,1000-metres,track,137.44,AUT,24.0,2012
-469,2:17.45,,André BUCHER,1976-10-19,SUI,1,Langenthal (SUI),1998-05-23,1124.0,1000-metres,middlelong,male,senior,1000-metres,track,137.45,SUI,21.0,1998
-469,2:17.45,,Chris MCGEORGE,1962-01-13,GBR,3,Nice (FRA),1984-08-20,1124.0,1000-metres,middlelong,male,senior,1000-metres,track,137.45,FRA,22.0,1984
-469,2:17.45,,Reyes ESTÉVEZ,1976-08-02,ESP,1,Andújar (ESP),2000-09-05,1124.0,1000-metres,middlelong,male,senior,1000-metres,track,137.45,ESP,24.0,2000
-472,2:17.46,,David TORRENCE,1985-11-26,USA,10,Linz (AUT),2012-08-20,1123.0,1000-metres,middlelong,male,senior,1000-metres,track,137.46,AUT,26.0,2012
-472,2:17.46,,William SEREM,1971-08-18,KEN,1,Hildesheim (GER),1995-06-25,1123.0,1000-metres,middlelong,male,senior,1000-metres,track,137.46,GER,23.0,1995
+16,2:17.44,,Cameron MYERS,2006-06-09,AUS,5,"FBK Stadium, Hengelo (NED)",2024-07-07,1124.0,1000-metres,middlelong,male,u20,1000-metres,track,137.44,NED,18.0,2024
 18,2:17.47,,Jackson Mumbwa KIVUVA,1989-08-11,KEN,5,Stockholm (SWE),2008-07-22,1123.0,1000-metres,middlelong,male,u20,1000-metres,track,137.47,SWE,18.0,2008
-474,2:17.47,,Collins KIPRUTO,1994-04-12,KEN,1,Varberg (SWE),2019-07-15,1123.0,1000-metres,middlelong,male,senior,1000-metres,track,137.47,SWE,25.0,2019
-474,2:17.47,,Kyle LANGFORD,1996-02-02,GBR,3,Šamorín (SVK),2019-06-15,1123.0,1000-metres,middlelong,male,senior,1000-metres,track,137.47,SVK,23.0,2019
-474,2:17.47,,Jackson Mumbwa KIVUVA,1989-08-11,KEN,5,Stockholm (SWE),2008-07-22,1123.0,1000-metres,middlelong,male,senior,1000-metres,track,137.47,SWE,18.0,2008
 19,2:17.48,,Benson Marrianyi ESHO,1987-02-02,KEN,5,Villeneuve d'Ascq (FRA),2006-06-09,1123.0,1000-metres,middlelong,male,u20,1000-metres,track,137.48,FRA,19.0,2006
-477,2:17.48,,Robert CHIRCHIR,1972-11-26,KEN,11,Nice (FRA),1999-07-17,1123.0,1000-metres,middlelong,male,senior,1000-metres,track,137.48,FRA,26.0,1999
-477,2:17.48,,Benson Marrianyi ESHO,1987-02-02,KEN,5,Villeneuve d'Ascq (FRA),2006-06-09,1123.0,1000-metres,middlelong,male,senior,1000-metres,track,137.48,FRA,19.0,2006
-479,2:17.49,,Hauke FUHLBRÜGGE,1966-03-21,GDR,1,Budapest (HUN),1986-08-11,1123.0,1000-metres,middlelong,male,senior,1000-metres,track,137.49,HUN,20.0,1986
-479,2:17.49,,Michael HILLARDT,1961-01-22,AUS,4,London (GBR),1984-08-18,1123.0,1000-metres,middlelong,male,senior,1000-metres,track,137.49,GBR,23.0,1984
-481,2:17.5h,,Mehdi BAALA,1978-08-17,FRA,1,Nantes (FRA),1999-09-22,1123.0,1000-metres,middlelong,male,senior,1000-metres,track,137.5,FRA,21.0,1999
-481,2:17.5h,,Vladimir PONOMARYOV,1952-08-10,URS,2,Podolsk (URS),1978-08-20,1123.0,1000-metres,middlelong,male,senior,1000-metres,track,137.5,URS,26.0,1978
-481,2:17.5h,,Amar BRAHMIA,1954-09-02,ALG,3,Nice (FRA),1978-08-20,1123.0,1000-metres,middlelong,male,senior,1000-metres,track,137.5,FRA,23.0,1978
-481,2:17.5h,,Mike BOIT,1949-01-06,KEN,1,Ingelheim (FRG),1978-09-12,1123.0,1000-metres,middlelong,male,senior,1000-metres,track,137.5,FRG,29.0,1978
-481,2:17.50,,Bram SOM,1980-02-20,NED,5,"International Stadium, Gateshead (GBR)",2008-08-31,1123.0,1000-metres,middlelong,male,senior,1000-metres,track,137.5,GBR,28.0,2008
-481,2:17.5h,,Ivo VAN DAMME,1954-02-21,BEL,1,Edinburgh (GBR),1976-08-06,1123.0,1000-metres,middlelong,male,senior,1000-metres,track,137.5,GBR,22.0,1976
-481,2:17.5h,,Jozef PLACHÝ,1949-02-28,TCH,1,Karlstad (SWE),1977-08-10,1123.0,1000-metres,middlelong,male,senior,1000-metres,track,137.5,SWE,28.0,1977
-488,2:17.51,,David FIEGEN,1984-09-03,LUX,2,Longeville (FRA),2006-07-02,1122.0,1000-metres,middlelong,male,senior,1000-metres,track,137.51,FRA,21.0,2006
-488,2:17.51,,Mariano GARCÍA,1997-09-25,ESP,1,"Centro de Tecnificación de Atletismo, Antequera (ESP) (i)",2024-01-13,1196.0,1000-metres,middlelong,male,senior,1000-metres,track,137.51,ESP,26.0,2024
-488,2:17.51,,Edwin Kiplagat MELLY,1994-04-23,KEN,3,"Stade Raymond Petit, Tomblaine (FRA)",2015-07-01,1122.0,1000-metres,middlelong,male,senior,1000-metres,track,137.51,FRA,21.0,2015
-488,2:17.51,,Joseph WIGFIELD,2000-01-18,GBR,4,"Utilita Arena Birmingham, Birmingham (GBR) (i)",2025-02-15,1196.0,1000-metres,middlelong,male,senior,1000-metres,track,137.51,GBR,25.0,2025
-488,2:17.51,,Jake WIGHTMAN,1994-07-11,GBR,2,"Reggie Lewis Center, Boston, MA (USA) (i)",2020-01-25,1196.0,1000-metres,middlelong,male,senior,1000-metres,track,137.51,USA,25.0,2020
-493,2:17.52,,Bernard LAGAT,1974-12-12,USA,5,Stockholm (SWE),2009-07-31,1122.0,1000-metres,middlelong,male,senior,1000-metres,track,137.52,SWE,34.0,2009
-494,2:17.53,,Job KINYOR,1990-05-08,KEN,2,Dubnica nad Váhom (SVK),2010-08-22,1122.0,1000-metres,middlelong,male,senior,1000-metres,track,137.53,SVK,20.0,2010
-494,2:17.53,,Yassine HETHAT,1991-08-30,ALG,4,Šamorín (SVK),2019-06-15,1122.0,1000-metres,middlelong,male,senior,1000-metres,track,137.53,SVK,27.0,2019
-494,2:17.53,,Graham HOOD,1972-04-02,CAN,2,Villeneuve d'Ascq (FRA),1997-06-29,1122.0,1000-metres,middlelong,male,senior,1000-metres,track,137.53,FRA,25.0,1997
-494,2:17.53,,Mehdi BAALA,1978-08-17,FRA,1,Amiens (FRA),1999-07-23,1122.0,1000-metres,middlelong,male,senior,1000-metres,track,137.53,FRA,20.0,1999
-498,2:17.55,,Abubaker KAKI,1989-06-21,SUD,1,Stockholm (SWE) (i),2011-02-22,1195.0,1000-metres,middlelong,male,senior,1000-metres,track,137.55,SWE,21.0,2011
-498,2:17.55,,Joseph Mwengi MUTUA,1978-12-10,KEN,2,Rethymno (GRE),2002-07-07,1121.0,1000-metres,middlelong,male,senior,1000-metres,track,137.55,GRE,23.0,2002
-498,2:17.55,,Ignacio FONTES,1998-06-22,ESP,3,"Estadio Enrique Lopez Cuenca, Nerja (ESP)",2021-05-12,1121.0,1000-metres,middlelong,male,senior,1000-metres,track,137.55,ESP,22.0,2021
-501,2:17.56,,Homiyu TESFAYE,1993-06-23,GER,2f2,Pliezhausen (GER),2014-05-18,1121.0,1000-metres,middlelong,male,senior,1000-metres,track,137.56,GER,20.0,2014
-501,2:17.56,,Abubaker KAKI,1989-06-21,SUD,1,Stockholm (SWE) (i),2009-02-18,1195.0,1000-metres,middlelong,male,senior,1000-metres,track,137.56,SWE,19.0,2009
-501,2:17.56,,Stephen Ole MARAI,1962-11-11,KEN,1,Rhede (GER),1990-08-03,1121.0,1000-metres,middlelong,male,senior,1000-metres,track,137.56,GER,27.0,1990
-504,2:17.57,,Richard KIPLAGAT,1984-05-03,KEN,6,"International Stadium, Gateshead (GBR)",2008-08-31,1121.0,1000-metres,middlelong,male,senior,1000-metres,track,137.57,GBR,24.0,2008
-504,2:17.57,,Agberto Conceiço GUIMARĂES,1957-08-18,BRA,4,"Eugene, OR (USA)",1984-07-21,1121.0,1000-metres,middlelong,male,senior,1000-metres,track,137.57,USA,26.0,1984
-504,2:17.57,,David KRUMMENACKER,1975-05-24,USA,3,"New York, NY (USA)",2005-06-11,1121.0,1000-metres,middlelong,male,senior,1000-metres,track,137.57,USA,30.0,2005
-507,2:17.58,,David MATTHEWS,1974-04-09,IRL,4,Sarajevo (BIH),1996-09-09,1121.0,1000-metres,middlelong,male,senior,1000-metres,track,137.57999999999998,BIH,22.0,1996
-507,2:17.58,,Alexandre GONZALEZ,1951-03-16,FRA,4,Nice (FRA),1981-08-23,1121.0,1000-metres,middlelong,male,senior,1000-metres,track,137.57999999999998,FRA,30.0,1981
-507,2:17.58,,Wilson KIPKETER,1972-12-12,DEN,1,Liévin (FRA) (i),1996-02-18,1194.0,1000-metres,middlelong,male,senior,1000-metres,track,137.57999999999998,FRA,23.0,1996
-507,2:17.58,,Arthémon HATUNGIMANA,1974-01-21,BDI,8,Nice (FRA),2001-07-09,1121.0,1000-metres,middlelong,male,senior,1000-metres,track,137.57999999999998,FRA,27.0,2001
-507,2:17.58,,Bryan WOODWARD,1974-03-03,USA,2,Hamburg (GER),1999-07-29,1121.0,1000-metres,middlelong,male,senior,1000-metres,track,137.57999999999998,GER,25.0,1999
-507,2:17.58,,Steve CRAM,1960-10-14,GBR,2,Edinburgh (GBR),1984-07-17,1121.0,1000-metres,middlelong,male,senior,1000-metres,track,137.57999999999998,GBR,23.0,1984
-513,2:17.59,,Japheth KIMUTAI,1978-12-20,KEN,2,København (DEN),1995-08-23,1120.0,1000-metres,middlelong,male,senior,1000-metres,track,137.59,DEN,16.0,1995
-513,2:17.59,,Vincent MALAKWEN,1974-07-19,KEN,2,Stuttgart (GER) (i),1996-02-04,1194.0,1000-metres,middlelong,male,senior,1000-metres,track,137.59,GER,21.0,1996
-513,2:17.59,,William YIAMPOY,1974-05-17,KEN,3,Rethymno (GRE),2002-07-07,1120.0,1000-metres,middlelong,male,senior,1000-metres,track,137.59,GRE,28.0,2002
 20,2:17.59,,Japheth KIMUTAI,1978-12-20,KEN,2,København (DEN),1995-08-23,1120.0,1000-metres,middlelong,male,u20,1000-metres,track,137.59,DEN,16.0,1995
-513,2:17.59,,Kevin SULLIVAN,1974-03-20,CAN,3,Athina (GRE),2000-06-28,1120.0,1000-metres,middlelong,male,senior,1000-metres,track,137.59,GRE,26.0,2000
-517,2:17.6h,,Dominique BOUCHARD,1963-02-04,FRA,1,St-Maur (FRA),1987-07-08,1120.0,1000-metres,middlelong,male,senior,1000-metres,track,137.6,FRA,24.0,1987
-517,2:17.60,,Alfred Kirwa YEGO,1986-11-28,KEN,4,"Hayward Field, Eugene, OR (USA)",2010-07-03,1120.0,1000-metres,middlelong,male,senior,1000-metres,track,137.6,USA,23.0,2010
-517,2:17.60,,Timothy SEIN,1988-02-01,KEN,11,Linz (AUT),2012-08-20,1120.0,1000-metres,middlelong,male,senior,1000-metres,track,137.6,AUT,24.0,2012
-517,2:17.60,,Josh KERR,1997-10-08,GBR,1,"McKenzie High School Track, Finn Rock, Oregon (USA)",2020-07-17,1120.0,1000-metres,middlelong,male,senior,1000-metres,track,137.6,USA,22.0,2020
-517,2:17.6h,,Paul-Heinz WELLMANN,1952-03-31,FRG,2,München (GER),1973-06-24,1120.0,1000-metres,middlelong,male,senior,1000-metres,track,137.6,GER,21.0,1973
-522,2:17.61,,Ahmed KRAMA,1973-02-14,ALG,4,London (GBR),1996-08-11,1120.0,1000-metres,middlelong,male,senior,1000-metres,track,137.61,GBR,23.0,1996
-522,2:17.61,,Abdelati EL GUESSE,1993-02-27,MAR,2,"Topsporthal Vlaanderen, Gent (BEL) (i)",2024-02-03,1194.0,1000-metres,middlelong,male,senior,1000-metres,track,137.61,BEL,30.0,2024
-522,2:17.61,,Kennedy KIMWETICH,,KEN,2,Stockholm (SWE) (i),2000-02-17,1194.0,1000-metres,middlelong,male,senior,1000-metres,track,137.61,SWE,,2000
-525,2:17.62,,Timothy KITUM,1994-11-20,KEN,3,"Mestský Stadion, Ostrava (CZE)",2015-05-26,1120.0,1000-metres,middlelong,male,senior,1000-metres,track,137.62,CZE,20.0,2015
-525,2:17.62,,Hauke FUHLBRÜGGE,1966-03-21,GDR,5,Edinburgh (GBR),1990-07-06,1120.0,1000-metres,middlelong,male,senior,1000-metres,track,137.62,GBR,24.0,1990
-527,2:17.63,,Jeffrey RISELEY,1986-11-11,AUS,2,Dubnica nad Váhom (SVK),2012-08-26,1120.0,1000-metres,middlelong,male,senior,1000-metres,track,137.63,SVK,25.0,2012
-527,2:17.63,,Daniel OMWANZA,1948-05-05,KEN,1,London (GBR),1975-06-11,1120.0,1000-metres,middlelong,male,senior,1000-metres,track,137.63,GBR,27.0,1975
-527,2:17.63,,Pierre-Ambroise BOSSE,1992-05-11,FRA,1,"New York, NY (USA) (i)",2014-02-15,1193.0,1000-metres,middlelong,male,senior,1000-metres,track,137.63,USA,21.0,2014
-527,2:17.63,,Thomas LANCASHIRE,1985-07-02,GBR,6,Stockholm (SWE),2009-07-31,1120.0,1000-metres,middlelong,male,senior,1000-metres,track,137.63,SWE,24.0,2009
-531,2:17.64,,Marius VAN HEERDEN,1974-09-08,RSA,1,Stellenbosch (RSA),1996-03-01,1119.0,1000-metres,middlelong,male,senior,1000-metres,track,137.64,RSA,21.0,1996
-531,2:17.64,,Wilfred Oanda KIROCHI,1969-12-12,KEN,2,Parma (ITA),1991-06-22,1119.0,1000-metres,middlelong,male,senior,1000-metres,track,137.64,ITA,21.0,1991
-531,2:17.64,,Olaf BEYER,1957-08-04,GDR,1,Potsdam (GDR),1982-08-28,1119.0,1000-metres,middlelong,male,senior,1000-metres,track,137.64,GDR,25.0,1982
-534,2:17.65,,Christian SMITH,1983-10-31,USA,7,Stockholm (SWE),2009-07-31,1119.0,1000-metres,middlelong,male,senior,1000-metres,track,137.65,SWE,25.0,2009
-534,2:17.65,,Peter ELLIOTT,1962-10-09,GBR,2,London (GBR),1983-07-15,1119.0,1000-metres,middlelong,male,senior,1000-metres,track,137.65,GBR,20.0,1983
-536,2:17.66,,Vladimir GRAUDYN,1963-08-26,URS,2,Budapest (HUN),1986-08-11,1119.0,1000-metres,middlelong,male,senior,1000-metres,track,137.66,HUN,22.0,1986
-536,2:17.66,,Hamada MOHAMED,1992-10-22,EGY,1f1,Göteborg (SWE),2016-07-15,1119.0,1000-metres,middlelong,male,senior,1000-metres,track,137.66,SWE,23.0,2016
-538,2:17.67,,James MAYS,1959-08-15,USA,3,Edinburgh (GBR),1984-07-17,1119.0,1000-metres,middlelong,male,senior,1000-metres,track,137.67000000000002,GBR,24.0,1984
-538,2:17.67,,Marcin LEWANDOWSKI,1987-06-13,POL,1,Metz (FRA) (i),2014-02-28,1192.0,1000-metres,middlelong,male,senior,1000-metres,track,137.67000000000002,FRA,26.0,2014
-538,2:17.67,,Johan ROGESTEDT,1993-01-27,SWE,2f1,Göteborg (SWE),2016-07-15,1119.0,1000-metres,middlelong,male,senior,1000-metres,track,137.67000000000002,SWE,23.0,2016
-538,2:17.67,,Michael HILLARDT,1961-01-22,AUS,1,Melbourne (AUS),1988-01-14,1119.0,1000-metres,middlelong,male,senior,1000-metres,track,137.67000000000002,AUS,26.0,1988
-542,2:17.68,,Passmore FURUSA,1970-12-28,ZIM,2,Lindau (GER),1995-07-28,1118.0,1000-metres,middlelong,male,senior,1000-metres,track,137.68,GER,24.0,1995
-542,2:17.68,,Mehdi BAALA,1978-08-17,FRA,1,Nancy (FRA),1999-09-12,1118.0,1000-metres,middlelong,male,senior,1000-metres,track,137.68,FRA,21.0,1999
-544,2:17.69,,Ryan GREGSON,1990-04-26,AUS,3,Dubnica nad Váhom (SVK),2010-08-22,1118.0,1000-metres,middlelong,male,senior,1000-metres,track,137.69,SVK,20.0,2010
-544,2:17.69,,Kevin MCKAY,1969-02-09,GBR,4,"Crystal Palace, London (GBR)",1989-07-14,1118.0,1000-metres,middlelong,male,senior,1000-metres,track,137.69,GBR,20.0,1989
-544,2:17.69,,Philippe DUPONT,1958-05-31,FRA,4,Nice (FRA),1985-07-16,1118.0,1000-metres,middlelong,male,senior,1000-metres,track,137.69,FRA,27.0,1985
-547,2:17.7h,,Rolf GYSIN,1952-01-29,SUI,2,Stuttgart (GER),1975-08-26,1118.0,1000-metres,middlelong,male,senior,1000-metres,track,137.7,GER,23.0,1975
-547,2:17.7h,,Jozef PLACHÝ,1949-02-28,TCH,4,Wattenscheid (GER),1977-09-23,1118.0,1000-metres,middlelong,male,senior,1000-metres,track,137.7,GER,28.0,1977
-547,2:17.7h,,Juris LUZINS,1947-06-22,USA,1,Verona (ITA),1971-07-21,1118.0,1000-metres,middlelong,male,senior,1000-metres,track,137.7,ITA,24.0,1971
-547,2:17.70,,Rob DRUPPERS,1962-04-29,NED,2,Stuttgart (GER) (i),1989-02-12,1191.0,1000-metres,middlelong,male,senior,1000-metres,track,137.7,GER,26.0,1989
-547,2:17.7h,,John WALKER,1952-01-12,NZL,1,Edinburgh (GBR),1977-08-25,1118.0,1000-metres,middlelong,male,senior,1000-metres,track,137.7,GBR,25.0,1977
-552,2:17.71,,Pascal THIÉBAUT,1959-06-06,FRA,1,Anneville (FRA),1985-06-15,1118.0,1000-metres,middlelong,male,senior,1000-metres,track,137.71,FRA,26.0,1985
-553,2:17.72,,José Luis BARBOSA,1961-05-27,BRA,3,Stockholm (SWE),1987-06-30,1118.0,1000-metres,middlelong,male,senior,1000-metres,track,137.72,SWE,26.0,1987
-553,2:17.72,,Andreas BARANSKI,1960-03-10,FRG,4,Köln (GER),1982-08-22,1118.0,1000-metres,middlelong,male,senior,1000-metres,track,137.72,GER,22.0,1982
-555,2:17.73,,Japheth KIMUTAI,1978-12-20,KEN,1,Sydney (AUS),2000-09-14,1117.0,1000-metres,middlelong,male,senior,1000-metres,track,137.73,AUS,21.0,2000
-555,2:17.73,,Mehdi BAALA,1978-08-17,FRA,1,"Stade Raymond Petit, Tomblaine (FRA)",2007-09-18,1117.0,1000-metres,middlelong,male,senior,1000-metres,track,137.73,FRA,29.0,2007
-555,2:17.73,,André BUCHER,1976-10-19,SUI,1,Willisau (SUI),2000-05-13,1117.0,1000-metres,middlelong,male,senior,1000-metres,track,137.73,SUI,23.0,2000
-555,2:17.73,,Michael ROTICH,1978-07-14,KEN,3,Rethymno (GRE),2003-07-06,1117.0,1000-metres,middlelong,male,senior,1000-metres,track,137.73,GRE,24.0,2003
-559,2:17.74,,David LELEI,1971-05-10,KEN,9,Nice (FRA),2001-07-09,1117.0,1000-metres,middlelong,male,senior,1000-metres,track,137.74,FRA,30.0,2001
-560,2:17.75,,Abubaker KAKI,1989-06-21,SUD,1,"National Indoor Arena, Birmingham (GBR) (i)",2011-02-19,1190.0,1000-metres,middlelong,male,senior,1000-metres,track,137.75,GBR,21.0,2011
-560,2:17.75,,Abdi BILE,1962-12-28,SOM,1,London (GBR),1988-07-08,1117.0,1000-metres,middlelong,male,senior,1000-metres,track,137.75,GBR,25.0,1988
-560,2:17.75,,Steve CRABB,1963-11-30,GBR,1,Oslo (NOR),1987-08-05,1117.0,1000-metres,middlelong,male,senior,1000-metres,track,137.75,NOR,23.0,1987
-563,2:17.76,,Joaquim CRUZ,1963-03-12,BRA,1,"San Diego, CA (USA)",1988-06-25,1117.0,1000-metres,middlelong,male,senior,1000-metres,track,137.76,USA,25.0,1988
-563,2:17.76,,Jozef REPČÍK,1986-08-03,SVK,9,"Mestský Stadion, Ostrava (CZE)",2014-06-17,1117.0,1000-metres,middlelong,male,senior,1000-metres,track,137.76,CZE,27.0,2014
-565,2:17.77,,Daniel WATCKE,2005-01-12,USA,2f1,"Boston Univ. Track & Tennis Center, Boston, MA (USA) (i)",2025-02-14,1190.0,1000-metres,middlelong,male,senior,1000-metres,track,137.77,USA,20.0,2025
-565,2:17.77,,Marko KOERS,1972-11-03,NED,1,Stockholm (SWE) (i),1997-02-20,1190.0,1000-metres,middlelong,male,senior,1000-metres,track,137.77,SWE,24.0,1997
-565,2:17.77,,Marcin LEWANDOWSKI,1987-06-13,POL,2,"Globe Arena, Stockholm (SWE) (i)",2013-02-21,1190.0,1000-metres,middlelong,male,senior,1000-metres,track,137.77,SWE,25.0,2013
-568,2:17.78,,Anthony MORRELL,1962-05-03,GBR,4,Stockholm (SWE),1987-06-30,1116.0,1000-metres,middlelong,male,senior,1000-metres,track,137.78,SWE,25.0,1987
-568,2:17.78,,Rob HARRISON,1959-06-05,GBR,3,London (GBR),1983-07-15,1116.0,1000-metres,middlelong,male,senior,1000-metres,track,137.78,GBR,24.0,1983
-568,2:17.78,,Laban ROTICH,1969-01-20,KEN,7,Stockholm (SWE),1999-07-30,1116.0,1000-metres,middlelong,male,senior,1000-metres,track,137.78,SWE,30.0,1999
-568,2:17.78,,Abdelslam KENNOUCHE,1980-10-07,ALG,3,Stockholm (SWE) (i),2008-02-21,1190.0,1000-metres,middlelong,male,senior,1000-metres,track,137.78,SWE,27.0,2008
-568,2:17.78,,Andrés VERA,1960-12-31,ESP,5,Nice (FRA),1985-07-16,1116.0,1000-metres,middlelong,male,senior,1000-metres,track,137.78,FRA,24.0,1985
-573,2:17.79,,David SHARPE,1967-07-08,GBR,1,Belfast (GBR),1992-08-31,1116.0,1000-metres,middlelong,male,senior,1000-metres,track,137.79,GBR,25.0,1992
-573,2:17.79,,Robert KIBET,1965-12-15,KEN,8,Nice (FRA),1997-07-16,1116.0,1000-metres,middlelong,male,senior,1000-metres,track,137.79,FRA,31.0,1997
-573,2:17.79,,Seneca LASSITER,1977-03-12,USA,10,Nice (FRA),2001-07-09,1116.0,1000-metres,middlelong,male,senior,1000-metres,track,137.79,FRA,24.0,2001
-573,2:17.79,,Augustine Kiprono CHOGE,1987-01-21,KEN,2,Praha (CZE) (i),2009-02-26,1189.0,1000-metres,middlelong,male,senior,1000-metres,track,137.79,CZE,22.0,2009
-577,2:17.80,,Steve CRAM,1960-10-14,GBR,2,London (GBR),1988-07-08,1116.0,1000-metres,middlelong,male,senior,1000-metres,track,137.8,GBR,27.0,1988
-577,2:17.8h,,Dan WAERN,1933-01-17,SWE,1,Karlstad (SWE),1959-08-21,1116.0,1000-metres,middlelong,male,senior,1000-metres,track,137.8,SWE,26.0,1959
-577,2:17.80,,Bernard KISILU,1974-12-06,KEN,9,Nice (FRA),1997-07-16,1116.0,1000-metres,middlelong,male,senior,1000-metres,track,137.8,FRA,22.0,1997
-577,2:17.8h,,Rod DIXON,1950-07-13,NZL,2,Milano (ITA),1975-07-02,1116.0,1000-metres,middlelong,male,senior,1000-metres,track,137.8,ITA,24.0,1975
-577,2:17.80,,Mehdi BAALA,1978-08-17,FRA,3,Strasbourg (FRA),2001-06-19,1116.0,1000-metres,middlelong,male,senior,1000-metres,track,137.8,FRA,22.0,2001
-582,2:17.81,,Paweł CZAPIEWSKI,1978-03-30,POL,1,Kraków (POL),2005-08-27,1116.0,1000-metres,middlelong,male,senior,1000-metres,track,137.81,POL,27.0,2005
-582,2:17.81,,Boaz Kiplagat LALANG,1989-02-08,KEN,2,"National Indoor Arena, Birmingham (GBR) (i)",2011-02-19,1189.0,1000-metres,middlelong,male,senior,1000-metres,track,137.81,GBR,22.0,2011
-582,2:17.81,,Peter VAN DER WESTHUIZEN,1984-12-21,RSA,8,Stockholm (SWE),2009-07-31,1116.0,1000-metres,middlelong,male,senior,1000-metres,track,137.81,SWE,24.0,2009
-582,2:17.81,,Oussama CHERRAD,2000-03-06,ALG,6,"FBK Stadium, Hengelo (NED)",2024-07-07,1116.0,1000-metres,middlelong,male,senior,1000-metres,track,137.81,NED,24.0,2024
-582,2:17.81,,Bram SOM,1980-02-20,NED,1,"Schleyer Halle, Stuttgart (GER) (i)",2003-02-02,1189.0,1000-metres,middlelong,male,senior,1000-metres,track,137.81,GER,22.0,2003
-587,2:17.82,,Belal Mansoor ALI,1988-10-17,BRN,3f2,Moskva (RUS) (i),2009-02-01,1189.0,1000-metres,middlelong,male,senior,1000-metres,track,137.82,RUS,20.0,2009
-587,2:17.82,,Joseph TENGELEI,1972-12-08,KEN,3,Villeneuve d'Ascq (FRA),1997-06-29,1115.0,1000-metres,middlelong,male,senior,1000-metres,track,137.82,FRA,24.0,1997
-587,2:17.82,,Jakub HOLUŠA,1988-02-20,CZE,4,Dubnica nad Váhom (SVK),2010-08-22,1115.0,1000-metres,middlelong,male,senior,1000-metres,track,137.82,SVK,22.0,2010
-590,2:17.84,,Duane SOLOMON,1984-12-28,USA,5,"Hayward Field, Eugene, OR (USA)",2010-07-03,1115.0,1000-metres,middlelong,male,senior,1000-metres,track,137.84,USA,25.0,2010
-590,2:17.84,,Maurice SMITH,1962-11-20,USA,3,Belfast (GBR),1988-06-27,1115.0,1000-metres,middlelong,male,senior,1000-metres,track,137.84,GBR,25.0,1988
-590,2:17.84,,Maurice SMITH,1962-11-20,USA,3,Belfast (GBR),1985-06-27,1115.0,1000-metres,middlelong,male,senior,1000-metres,track,137.84,GBR,22.0,1985
-593,2:17.85,,Samwel MWERA,1985-06-03,TAN,1,Oristano (ITA),2003-09-06,1115.0,1000-metres,middlelong,male,senior,1000-metres,track,137.85,ITA,18.0,2003
-593,2:17.85,,Joaquim CRUZ,1963-03-12,BRA,1,Viareggio (ITA),1988-08-03,1115.0,1000-metres,middlelong,male,senior,1000-metres,track,137.85,ITA,25.0,1988
-21,2:17.85,,Samwel MWERA,1985-06-03,TAN,1,Oristano (ITA),2003-09-06,1115.0,1000-metres,middlelong,male,u20,1000-metres,track,137.85,ITA,18.0,2003
-595,2:17.86,,Matthew YATES,1969-02-04,GBR,2,Birmingham (GBR) (i),1992-02-22,1188.0,1000-metres,middlelong,male,senior,1000-metres,track,137.86,GBR,23.0,1992
-595,2:17.86,,David KRUMMENACKER,1975-05-24,USA,1,"Boston, MA (USA) (i)",2002-01-27,1188.0,1000-metres,middlelong,male,senior,1000-metres,track,137.86,USA,26.0,2002
-595,2:17.86,,Mehdi BAALA,1978-08-17,FRA,1,Liévin (FRA) (i),2005-02-26,1188.0,1000-metres,middlelong,male,senior,1000-metres,track,137.86,FRA,26.0,2005
-598,2:17.87,,Nathan BRANNEN,1982-09-08,CAN,9,Stockholm (SWE),2009-07-31,1114.0,1000-metres,middlelong,male,senior,1000-metres,track,137.87,SWE,26.0,2009
-598,2:17.87,,Enda FITZPATRICK,1965-04-28,IRL,3,Budapest (HUN),1986-08-11,1114.0,1000-metres,middlelong,male,senior,1000-metres,track,137.87,HUN,21.0,1986
-600,2:17.88,,Eugenio BARRIOS,1976-11-03,ESP,1,Andújar (ESP),2006-09-07,1114.0,1000-metres,middlelong,male,senior,1000-metres,track,137.88,ESP,29.0,2006
-600,2:17.88,,Johan ROGESTEDT,1993-01-27,SWE,9,"Stade Olympique de la Pontaise, Lausanne (SUI)",2016-08-25,1114.0,1000-metres,middlelong,male,senior,1000-metres,track,137.88,SUI,23.0,2016
-602,2:17.89,,James ROBINSON,1954-08-27,USA,5,Koblenz (GER),1979-09-06,1114.0,1000-metres,middlelong,male,senior,1000-metres,track,137.89,GER,25.0,1979
-602,2:17.89,,Geoffrey Kipkoech RONO,1987-04-21,KEN,5,"Mestský Stadion, Ostrava (CZE)",2011-05-31,1114.0,1000-metres,middlelong,male,senior,1000-metres,track,137.89,CZE,24.0,2011
-602,2:17.89,,Vincent MALAKWEN,1974-07-19,KEN,2,Stockholm (SWE) (i),1997-02-20,1187.0,1000-metres,middlelong,male,senior,1000-metres,track,137.89,SWE,22.0,1997
-602,2:17.89,,Hauke FUHLBRÜGGE,1966-03-21,GDR,1,Berlin (GER),1988-09-13,1114.0,1000-metres,middlelong,male,senior,1000-metres,track,137.89,GER,22.0,1988
-602,2:17.89,,Filip RAK,2003-02-03,POL,7,"Sports Park Mladost, Zagreb (CRO)",2024-09-08,1114.0,1000-metres,middlelong,male,senior,1000-metres,track,137.89,CRO,21.0,2024
-607,2:17.90,,Faouzi LAHBI,1958-03-02,MAR,5,Köln (GER),1982-08-22,1114.0,1000-metres,middlelong,male,senior,1000-metres,track,137.9,GER,24.0,1982
-607,2:17.9h,,Mark WINZENRIED,1949-10-13,USA,1,Århus (DEN),1973-06-25,1114.0,1000-metres,middlelong,male,senior,1000-metres,track,137.9,DEN,23.0,1973
-607,2:17.9h,,Gerhard STOLLE,1952-11-11,GDR,1,Potsdam (GDR),1974-08-28,1114.0,1000-metres,middlelong,male,senior,1000-metres,track,137.9,GDR,21.0,1974
-607,2:17.90,,Robby ANDREWS,1991-03-29,USA,1,"New York, NY (USA) (i)",2013-02-01,1187.0,1000-metres,middlelong,male,senior,1000-metres,track,137.9,USA,21.0,2013
-607,2:17.9h,,Milovan SAVIĆ,1953-06-16,YUG,2,Karlstad (SWE),1977-08-10,1114.0,1000-metres,middlelong,male,senior,1000-metres,track,137.9,SWE,24.0,1977
-607,2:17.90,,Peter ELLIOTT,1962-10-09,GBR,3,London (GBR),1988-07-08,1114.0,1000-metres,middlelong,male,senior,1000-metres,track,137.9,GBR,25.0,1988
-613,2:17.91,,Tyler MULDER,1987-02-15,USA,6,"Hayward Field, Eugene, OR (USA)",2010-07-03,1113.0,1000-metres,middlelong,male,senior,1000-metres,track,137.91,USA,23.0,2010
-613,2:17.91,,Amine EL MANAOUI,1991-11-20,MAR,4,"Stade Raymond Petit, Tomblaine (FRA)",2014-06-27,1113.0,1000-metres,middlelong,male,senior,1000-metres,track,137.91,FRA,22.0,2014
-615,2:17.92,,René ALBRECHT,,SUI,1,Arbon (SUI),1999-08-18,1113.0,1000-metres,middlelong,male,senior,1000-metres,track,137.92000000000002,SUI,,1999
-615,2:17.92,,Abderrahmane ANOU,1991-01-29,ALG,4,"Stade Raymond Petit, Tomblaine (FRA)",2015-07-01,1113.0,1000-metres,middlelong,male,senior,1000-metres,track,137.92000000000002,FRA,24.0,2015
-617,2:17.93,,Jürgen GROTHE,1960-04-14,FRG,6,Köln (GER),1982-08-22,1113.0,1000-metres,middlelong,male,senior,1000-metres,track,137.93,GER,22.0,1982
-617,2:17.93,,Paul ROBINSON,1991-05-24,IRL,10,"Mestský Stadion, Ostrava (CZE)",2014-06-17,1113.0,1000-metres,middlelong,male,senior,1000-metres,track,137.93,CZE,23.0,2014
-617,2:17.93,,El-Mahjoub HAIDA,1970-07-01,MAR,2,Liévin (FRA) (i),1996-02-18,1186.0,1000-metres,middlelong,male,senior,1000-metres,track,137.93,FRA,25.0,1996
-620,2:17.95,,Ibrahim OKASH,1964-09-18,SOM,4,Belfast (GBR),1988-06-27,1112.0,1000-metres,middlelong,male,senior,1000-metres,track,137.95,GBR,23.0,1988
-620,2:17.95,,Mark SCRUTTON,1960-04-14,GBR,4,Edinburgh (GBR),1984-07-17,1112.0,1000-metres,middlelong,male,senior,1000-metres,track,137.95,GBR,24.0,1984
-22,2:17.96,,Sylas KIMUTAI,1983-10-12,KEN,1,Pireaus (GRE) (i),2002-02-20,1185.0,1000-metres,middlelong,male,u20,1000-metres,track,137.96,GRE,18.0,2002
-22,2:17.96,,Timothy KITUM,1994-11-20,KEN,3,Dubnica nad Váhom (SVK),2012-08-26,1112.0,1000-metres,middlelong,male,u20,1000-metres,track,137.96,SVK,17.0,2012
-622,2:17.96,,Sylas KIMUTAI,1983-10-12,KEN,1,Pireaus (GRE) (i),2002-02-20,1185.0,1000-metres,middlelong,male,senior,1000-metres,track,137.96,GRE,18.0,2002
-622,2:17.96,,Timothy KITUM,1994-11-20,KEN,3,Dubnica nad Váhom (SVK),2012-08-26,1112.0,1000-metres,middlelong,male,senior,1000-metres,track,137.96,SVK,17.0,2012
-622,2:17.96,,Ikem BILLY,1964-01-25,GBR,5,"Crystal Palace, London (GBR)",1989-07-14,1112.0,1000-metres,middlelong,male,senior,1000-metres,track,137.96,GBR,25.0,1989
-625,2:17.97,,Andrea LONGO,1975-06-26,ITA,6,Nice (FRA),2000-07-08,1112.0,1000-metres,middlelong,male,senior,1000-metres,track,137.97,FRA,25.0,2000
-625,2:17.97,,Mariano GARCÍA,1997-09-25,ESP,5,"The Track at New Balance, Boston, MA (USA) (i)",2024-02-04,1185.0,1000-metres,middlelong,male,senior,1000-metres,track,137.97,USA,26.0,2024
-625,2:17.97,,Jean-Patrick NDUWIMANA,1978-03-09,BDI,8,Stockholm (SWE),1999-07-30,1112.0,1000-metres,middlelong,male,senior,1000-metres,track,137.97,SWE,21.0,1999
-628,2:17.98,,Pat SCAMMELL,1961-04-15,AUS,2,London (GBR),1987-08-22,1112.0,1000-metres,middlelong,male,senior,1000-metres,track,137.98,GBR,26.0,1987
-628,2:17.98,,Reuben BETT,1984-11-06,KEN,7,"Boudewijnstadion, Bruxelles (BEL)",2014-09-05,1112.0,1000-metres,middlelong,male,senior,1000-metres,track,137.98,BEL,29.0,2014
-628,2:17.98,,Réda ABDENOUZ,1968-09-25,ALG,6,Villeneuve d'Ascq (FRA),1993-07-02,1112.0,1000-metres,middlelong,male,senior,1000-metres,track,137.98,FRA,24.0,1993
-631,2:17.99,,Rich KENAH,1970-08-04,USA,4,Athina (GRE),2000-06-28,1112.0,1000-metres,middlelong,male,senior,1000-metres,track,137.99,GRE,29.0,2000
-632,2:18.00,,Igor LOTARYOV,1964-08-30,URS,1,Moskva (URS) (i),1987-02-14,1185.0,1000-metres,middlelong,male,senior,1000-metres,track,138.0,URS,22.0,1987
-632,2:18.00,,Robert CHIRCHIR,1972-11-26,KEN,3,Stockholm (SWE) (i),1997-02-20,1185.0,1000-metres,middlelong,male,senior,1000-metres,track,138.0,SWE,24.0,1997
-632,2:18.0h,,Ryszard OSTROWSKI,1961-02-06,POL,1,Poznan (POL),1984-05-12,1111.0,1000-metres,middlelong,male,senior,1000-metres,track,138.0,POL,23.0,1984
-632,2:18.0h,,Francis GONZALEZ,1952-02-06,FRA,4,Nice (FRA),1978-08-20,1111.0,1000-metres,middlelong,male,senior,1000-metres,track,138.0,FRA,26.0,1978
-632,2:18.0h,,Mike BOIT,1949-01-06,KEN,2,Edinburgh (GBR),1977-08-25,1111.0,1000-metres,middlelong,male,senior,1000-metres,track,138.0,GBR,28.0,1977
-632,2:18.0h,,John WALKER,1952-01-12,NZL,1,Berlin (GER),1974-08-21,1111.0,1000-metres,middlelong,male,senior,1000-metres,track,138.0,GER,22.0,1974
-632,2:18.00,,Filip RAK,2003-02-03,POL,2,"Stadion BOSiR, Białystok (POL)",2024-08-31,1111.0,1000-metres,middlelong,male,senior,1000-metres,track,138.0,POL,21.0,2024
-632,2:18.00,,Aléxis ABRAHAM,1976-02-14,FRA,4,Strasbourg (FRA),2001-06-19,1111.0,1000-metres,middlelong,male,senior,1000-metres,track,138.0,FRA,25.0,2001
+21,2:17.74,,Jaouad KHCHINA,2006-02-03,MAR,3,"Stadion BOSiR, Białystok (POL)",2025-08-09,1117.0,1000-metres,middlelong,male,u20,1000-metres,track,137.74,POL,19.0,2025
+22,2:17.85,,Samwel MWERA,1985-06-03,TAN,1,Oristano (ITA),2003-09-06,1115.0,1000-metres,middlelong,male,u20,1000-metres,track,137.85,ITA,18.0,2003
+23,2:17.96,,Sylas KIMUTAI,1983-10-12,KEN,1,Pireaus (GRE) (i),2002-02-20,1185.0,1000-metres,middlelong,male,u20,1000-metres,track,137.96,GRE,18.0,2002
+23,2:17.96,,Timothy KITUM,1994-11-20,KEN,3,Dubnica nad Váhom (SVK),2012-08-26,1112.0,1000-metres,middlelong,male,u20,1000-metres,track,137.96,SVK,17.0,2012

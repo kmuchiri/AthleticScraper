@@ -1476,517 +1476,521 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 1473,8080,,Aleksey DROZDOV,03 DEC 1983,RUS,4,"Stade Pierre Paul Bernard, Talence (FRA)",18 SEP 2005,1139,decathlon,combined-events,male,senior
 1473,8080,,Artem LUKYANENKO,30 JAN 1990,RUS,2,"Adler, Sochi (RUS)",08 MAY 2012,1139,decathlon,combined-events,male,senior
 1473,8080,,Mathias BRUGGER,06 AUG 1992,GER,2,"Stadionring, Ratingen (GER)",20 JUN 2021,1139,decathlon,combined-events,male,senior
-1478,8079,,Rainer SONNENBURG,20 OCT 1960,FRG,11,Götzis (AUT),19 JUN 1988,1138,decathlon,combined-events,male,senior
-1478,8079,,Phil MCMULLEN,03 FEB 1975,USA,15,"Commonwealth Stadium, Edmonton (CAN)",07 AUG 2001,1138,decathlon,combined-events,male,senior
-1478,8079,,Jeff TESSELAAR,03 MAY 2003,NED,12,"Stadio Olimpico, Roma (ITA)",11 JUN 2024,1138,decathlon,combined-events,male,senior
-1478,8079,,Kendrick THOMPSON,28 AUG 1997,BAH,15,"Mösle-Stadium, Götzis (AUT)",01 JUN 2025,1138,decathlon,combined-events,male,senior
-1482,8078,,Tomáš DVOŘÁK,11 MAY 1972,CZE,6,Götzis (AUT),29 MAY 1994,1138,decathlon,combined-events,male,senior
-1482,8078,,Alexander KRUGER,18 NOV 1963,GBR,7,Götzis (AUT),29 MAY 1994,1138,decathlon,combined-events,male,senior
-1482,8078,,Maurice SMITH,28 SEP 1980,JAM,1,Kingston (JAM),28 MAY 2011,1138,decathlon,combined-events,male,senior
-1482,8078,,Florian GEFFROUAIS,05 DEC 1988,FRA,1,Aubagne (FRA),28 MAY 2012,1138,decathlon,combined-events,male,senior
-1486,8077,,Florian SCHÖNBECK,13 JAN 1974,GER,12,"Olympic Stadium, Athina (GRE)",24 AUG 2004,1138,decathlon,combined-events,male,senior
-1486,8077,,Mikk PAHAPILL,18 JUL 1983,EST,1,"Stade Pierre Paul Bernard, Talence (FRA)",21 SEP 2014,1138,decathlon,combined-events,male,senior
-1486,8077,,Oleksiy KASYANOV,26 AUG 1985,UKR,1,"Stade Pierre Paul Bernard, Talence (FRA)",18 SEP 2016,1138,decathlon,combined-events,male,senior
-1486,8077,,Artyom MAKARENKO,23 APR 1997,ANA,2,"Olympic Stadium, Cheboksary (RUS)",03 AUG 2022,1138,decathlon,combined-events,male,senior
-1490,8076,,Beat GÄHWILER,26 JAN 1965,SUI,6,Helmond (NED),07 JUL 1991,1138,decathlon,combined-events,male,senior
-1490,8076,,Gernot KELLERMAYR,05 APR 1966,AUT,11,"Estadio Olímpico, Barcelona (ESP)",06 AUG 1992,1138,decathlon,combined-events,male,senior
-1490,8076,,Petri KESKITALO,10 MAR 1967,FIN,4,Oulu (FIN),11 JUL 1993,1138,decathlon,combined-events,male,senior
-1490,8076,,Roman ŠEBRLE,26 NOV 1974,CZE,2,Kladno (CZE),19 JUN 2008,1138,decathlon,combined-events,male,senior
-1494,8075,,Vitaliy KOLPAKOV,02 FEB 1972,UKR,5,Oulu (FIN),11 JUL 1993,1138,decathlon,combined-events,male,senior
-1494,8075,,Michael KOHNLE,03 MAY 1970,GER,9,"Gottlieb-Daimler Stadion, Stuttgart (GER)",20 AUG 1993,1138,decathlon,combined-events,male,senior
-1494,8075,,Chad SMITH,09 JAN 1974,USA,4,"Eugene, OR (USA)",22 JUN 2001,1138,decathlon,combined-events,male,senior
-1494,8075,,Norman MÜLLER,07 AUG 1985,GER,4,"Stade Pierre Paul Bernard, Talence (FRA)",14 SEP 2008,1138,decathlon,combined-events,male,senior
-1494,8075,,Ashton EATON,21 JAN 1988,USA,2,"Eugene, OR (USA)",26 JUN 2009,1138,decathlon,combined-events,male,senior
-1494,8075,,Adam Sebastian HELCELET,27 OCT 1991,CZE,4,"Mösle-Stadium, Götzis (AUT)",26 MAY 2013,1138,decathlon,combined-events,male,senior
-1494,8075,,Jente HAUTTEKEETE,14 MAR 2002,BEL,12,"Mösle-Stadium, Götzis (AUT)",28 MAY 2023,1138,decathlon,combined-events,male,senior
-1494,8075,,Tim NOWAK,13 AUG 1995,GER,6,"Stadionring, Ratingen (GER)",18 JUN 2023,1138,decathlon,combined-events,male,senior
-1494,8075,,Jorge UREÑA,08 OCT 1993,ESP,1,"Estadi Natalia Rodríguez, Tarragona (ESP)",02 AUG 2025,1138,decathlon,combined-events,male,senior
-1503,8074,,Peter WINTER,17 JAN 1971,AUS,2,Victoria (CAN),24 AUG 1994,1138,decathlon,combined-events,male,senior
-1503,8074,,André NIKLAUS,30 AUG 1981,GER,7,"Mösle-Stadium, Götzis (AUT)",29 MAY 2005,1138,decathlon,combined-events,male,senior
-1503,8074,,Maurice SMITH,28 SEP 1980,JAM,2,Melbourne (AUS),21 MAR 2006,1138,decathlon,combined-events,male,senior
-1503,8074,,Yordani GARCÍA,21 NOV 1988,CUB,3,Guadalajara (MEX),25 OCT 2011,1138,decathlon,combined-events,male,senior
-1503,8074,,Ondřej KOPECKÝ,16 MAY 1998,CZE,1,"Atletický stadion Slavia Praha, Praha (CZE)",13 AUG 2023,1138,decathlon,combined-events,male,senior
-1503,8074,,Denim ROGERS,08 FEB 1998,USA,2,"Enwag-Stadion, Wetzlar (GER)",21 JUL 2024,1138,decathlon,combined-events,male,senior
-1509,8073,,Fedor LAUKHIN,13 FEB 1974,UKR,1,Kyiv (UKR),28 JUL 2000,1138,decathlon,combined-events,male,senior
-1509,8073,,Pelle RIETVELD,04 FEB 1985,NED,3,Kladno (CZE),10 JUN 2012,1138,decathlon,combined-events,male,senior
-1509,8073,,Florian GEFFROUAIS,05 DEC 1988,FRA,2,Angers (FRA),25 JUN 2016,1138,decathlon,combined-events,male,senior
-1509,8073,,Jorge UREÑA,08 OCT 1993,ESP,3,Lutsk (UKR),07 JUL 2019,1138,decathlon,combined-events,male,senior
-1509,8073,,Mathias BRUGGER,06 AUG 1992,GER,12,"Mösle-Stadium, Götzis (AUT)",30 MAY 2021,1138,decathlon,combined-events,male,senior
-1509,8073,,Jorge UREÑA,08 OCT 1993,ESP,1,"Polideportivo Juan de la Cierva, Getafe (ESP)",26 JUN 2021,1138,decathlon,combined-events,male,senior
-1515,8072,,Andrei NAZAROV,09 JAN 1965,URS,8,"Poljud Stadion, Split (CRO)",29 AUG 1990,1137,decathlon,combined-events,male,senior
-1515,8072,,Aleksandr POGORELOV,10 JAN 1980,RUS,1,Arles (FRA),08 JUN 2003,1137,decathlon,combined-events,male,senior
-1515,8072,,Hans VAN ALPHEN,12 JAN 1982,BEL,5,"Estadio Olímpico, Barcelona (ESP)",29 JUL 2010,1137,decathlon,combined-events,male,senior
-1515,8072,,Oleksiy KASYANOV,26 AUG 1985,UKR,4,"Olympisch Stadion, Amsterdam (NED)",07 JUL 2016,1137,decathlon,combined-events,male,senior
-1519,8071,,Viktor RADCHENKO,11 MAY 1968,EUN,12,"Estadio Olímpico, Barcelona (ESP)",06 AUG 1992,1137,decathlon,combined-events,male,senior
-1519,8071,,Sándor MUNKÁCSY,24 JUL 1969,HUN,6,"Olympiastadion, Helsinki (FIN)",13 AUG 1994,1137,decathlon,combined-events,male,senior
-1519,8071,,Lev LOBODIN,01 APR 1969,RUS,13,"Olympic Stadium, Sydney (AUS)",28 SEP 2000,1137,decathlon,combined-events,male,senior
-1519,8071,,Eduard HÄMÄLÄINEN,21 JAN 1969,FIN,4,Arles (FRA),01 JUL 2001,1137,decathlon,combined-events,male,senior
-1519,8071,,Maicel UIBO,27 DEC 1992,EST,2,"Stade Pierre Paul Bernard, Talence (FRA)",18 SEP 2016,1137,decathlon,combined-events,male,senior
-1519,8071,,Daniel GOLUBOVIC,29 NOV 1993,AUS,14,"Hayward Field, Eugene, OR (USA)",24 JUL 2022,1137,decathlon,combined-events,male,senior
-1525,8070,,Dan STEELE,20 MAR 1969,USA,2,Winnipeg (CAN),25 JUL 1999,1137,decathlon,combined-events,male,senior
-1525,8070,,Hans VAN ALPHEN,12 JAN 1982,BEL,4,"Stade Pierre Paul Bernard, Talence (FRA)",20 SEP 2009,1137,decathlon,combined-events,male,senior
-1525,8070,,Jamie ADJETEY-NELSON,20 MAY 1984,CAN,1,New Delhi (IND),08 OCT 2010,1137,decathlon,combined-events,male,senior
-1525,8070,,Aleksandr TABALA,23 MAY 1986,RUS,3,"Adler, Sochi (RUS)",08 MAY 2012,1137,decathlon,combined-events,male,senior
-1525,8070,,Ashley BRYANT,17 MAY 1991,GBR,4,"Ratinan Stadion, Tampere (FIN)",12 JUL 2013,1137,decathlon,combined-events,male,senior
-1525,8070,,Kurt FELIX,04 JUL 1988,GRN,3,"Hampden Park, Glasgow (GBR)",29 JUL 2014,1137,decathlon,combined-events,male,senior
-1525,8070,,Luiz Alberto DE ARAUJO,27 JUN 1987,BRA,1,Sao Bernardo do Campo (BRA),02 JUL 2016,1137,decathlon,combined-events,male,senior
-1525,8070,,Fredrik SAMUELSSON,16 FEB 1995,SWE,2,"Stadio Tre Stelle, Desenzano del Garda (ITA)",30 APR 2023,1137,decathlon,combined-events,male,senior
-1533,8069,,Thorsten DAUTH,11 MAR 1968,GER,10,"National Stadium, Tokyo (JPN)",30 AUG 1991,1137,decathlon,combined-events,male,senior
-1533,8069,,Prodromos KORKIZOGLOU,27 FEB 1975,GRE,1,Ibach (SUI),02 JUL 2000,1137,decathlon,combined-events,male,senior
-1533,8069,,Raúl DUANY BUENO,04 JAN 1975,CUB,1,Beijing (CHN),31 AUG 2001,1137,decathlon,combined-events,male,senior
-1533,8069,,Pascal BEHRENBRUCH,19 JAN 1985,GER,10,"Mösle-Stadium, Götzis (AUT)",28 MAY 2006,1137,decathlon,combined-events,male,senior
-1533,8069,,Robert Jacob ARNOLD,03 JAN 1984,USA,10,"Mösle-Stadium, Götzis (AUT)",31 MAY 2009,1137,decathlon,combined-events,male,senior
-1533,8069,,Pascal BEHRENBRUCH,19 JAN 1985,GER,8,"Mösle-Stadium, Götzis (AUT)",30 MAY 2010,1137,decathlon,combined-events,male,senior
-1533,8069,,Thomas VAN DER PLAETSEN,24 DEC 1990,BEL,13,"DS, Daegu (KOR)",28 AUG 2011,1137,decathlon,combined-events,male,senior
-1533,8069,,Roman ŠEBRLE,26 NOV 1974,CZE,14,"DS, Daegu (KOR)",28 AUG 2011,1137,decathlon,combined-events,male,senior
-1541,8068,,Tomáš DVOŘÁK,11 MAY 1972,CZE,8,"Olympiastadion, Helsinki (FIN)",10 AUG 2005,1137,decathlon,combined-events,male,senior
-1541,8068,,Aleksey SYSOYEV,08 MAR 1985,RUS,10,"Ullevi Stadium, Göteborg (SWE)",11 AUG 2006,1137,decathlon,combined-events,male,senior
-1541,8068,,Carlos Eduardo BEZERRA CHININ,03 MAY 1985,BRA,5,Kladno (CZE),16 JUN 2011,1137,decathlon,combined-events,male,senior
-1541,8068,,Dakotah KEYS,27 SEP 1991,USA,3,"Eugene, OR (USA)",12 JUN 2014,1137,decathlon,combined-events,male,senior
-1541,8068,,Yordani GARCÍA,21 NOV 1988,CUB,2,La Habana (CUB),18 MAR 2016,1137,decathlon,combined-events,male,senior
-1541,8068,,Felix WOLTER,04 OCT 1997,GER,1,"Stadion Miejski, Nakło nad Notecią (POL)",01 SEP 2024,1137,decathlon,combined-events,male,senior
-1547,8067,,Sebastian CHMARA,21 NOV 1971,POL,1f,"Bressanone, Trentino-Alto Adige (ITA)",05 JUL 1998,1137,decathlon,combined-events,male,senior
-1547,8067,,Roland SCHWARZL,10 DEC 1980,AUT,11,Götzis (AUT),30 MAY 2004,1137,decathlon,combined-events,male,senior
-1547,8067,,Romain BARRAS,01 AUG 1980,FRA,13,"Olympic Stadium, Athina (GRE)",24 AUG 2004,1137,decathlon,combined-events,male,senior
-1547,8067,,Erki NOOL,25 JUN 1970,EST,4,Talence (FRA),26 SEP 2004,1137,decathlon,combined-events,male,senior
-1547,8067,,Roman ŠEBRLE,26 NOV 1974,CZE,4,"Stade Pierre Paul Bernard, Talence (FRA)",23 SEP 2007,1137,decathlon,combined-events,male,senior
-1547,8067,,Yordani GARCÍA,21 NOV 1988,CUB,6,Kladno (CZE),16 JUN 2011,1137,decathlon,combined-events,male,senior
-1547,8067,,Isaac MURPHY,10 MAY 1990,USA,1,"Austin, TX (USA)",29 MAR 2012,1137,decathlon,combined-events,male,senior
-1547,8067,,Artem LUKYANENKO,30 JAN 1990,RUS,4,"Kadrioru staadion, Tallinn (EST)",30 JUN 2013,1137,decathlon,combined-events,male,senior
-1547,8067,,Jan DOLEŽAL,06 JUN 1996,CZE,8,"Olympiastadion, Berlin (GER)",08 AUG 2018,1137,decathlon,combined-events,male,senior
-1547,8067,,Manuel EITEL,28 JAN 1997,GER,3,"Gunder Hägg Stadion, Gävle (SWE)",14 JUL 2019,1137,decathlon,combined-events,male,senior
-1547,8067,,Maicel UIBO,27 DEC 1992,EST,7,"Mösle-Stadium, Götzis (AUT)",29 MAY 2022,1137,decathlon,combined-events,male,senior
-1547,8067,,Lewis CHURCH,27 SEP 1996,GBR,1,"Centro Gabre Gabric, Brescia (ITA)",27 APR 2025,1137,decathlon,combined-events,male,senior
-1559,8066,,Frank MÜLLER,18 JUN 1968,GER,13,"Estadio Olímpico, Barcelona (ESP)",06 AUG 1992,1136,decathlon,combined-events,male,senior
-1559,8066,,Valeriy BELOUSOV,22 JAN 1970,RUS,2,Krasnodar (RUS),21 MAY 1997,1136,decathlon,combined-events,male,senior
-1559,8066,,Mike MACZEY,28 SEP 1972,GER,7,"Stadionring, Ratingen (GER)",16 JUN 2002,1136,decathlon,combined-events,male,senior
-1559,8066,,Vasiliy KHARLAMOV,08 JAN 1986,RUS,2,Cheboksary (RUS),10 JUN 2011,1136,decathlon,combined-events,male,senior
-1559,8066,,Tim EHRHARDT,16 MAR 1995,USA,3f4,"Azusa, CA (USA)",18 APR 2019,1136,decathlon,combined-events,male,senior
-1564,8065,,Tomáš DVOŘÁK,11 MAY 1972,CZE,7,"Olympiastadion, Helsinki (FIN)",13 AUG 1994,1136,decathlon,combined-events,male,senior
-1564,8065,,Dmitriy IVANOV,23 MAR 1977,RUS,1,St. Petersburg (RUS),10 JUN 2001,1136,decathlon,combined-events,male,senior
-1564,8065,,Vasiliy KHARLAMOV,08 JAN 1986,RUS,16,"Olympiastadion, Berlin (GER)",20 AUG 2009,1136,decathlon,combined-events,male,senior
-1564,8065,,Gonzalo BARROILHET,13 AUG 1986,CHI,1,"Charlottesville, VA (USA)",20 APR 2012,1136,decathlon,combined-events,male,senior
-1564,8065,,Edgaras BENKUNSKAS,28 MAY 1999,LTU,1,"Palangos Stadionas, Palanga (LTU)",29 JUN 2024,1136,decathlon,combined-events,male,senior
-1569,8064,,Sheldon BLOCKBURGER,19 SEP 1964,USA,8,Götzis (AUT),29 MAY 1994,1136,decathlon,combined-events,male,senior
-1569,8064,,Mike MACZEY,28 SEP 1972,GER,4,"Stadionring, Ratingen (GER)",18 JUL 1999,1136,decathlon,combined-events,male,senior
-1569,8064,,Romain BARRAS,01 AUG 1980,FRA,10,"Mösle-Stadium, Götzis (AUT)",27 MAY 2007,1136,decathlon,combined-events,male,senior
-1569,8064,,Paul TEREK,20 OCT 1979,USA,2,"Indianapolis, IN (USA)",23 JUN 2007,1136,decathlon,combined-events,male,senior
-1569,8064,,Pascal BEHRENBRUCH,19 JAN 1985,GER,10,"Mösle-Stadium, Götzis (AUT)",29 MAY 2011,1136,decathlon,combined-events,male,senior
-1569,8064,,Adam Sebastian HELCELET,27 OCT 1991,CZE,3,"Stade Pierre Paul Bernard, Talence (FRA)",16 SEP 2012,1136,decathlon,combined-events,male,senior
-1569,8064,,Bastien AUZEIL,22 OCT 1989,FRA,13,"Estádio Olímpico, Rio de Janeiro (BRA)",18 AUG 2016,1136,decathlon,combined-events,male,senior
-1569,8064,,Paweł WIESIOŁEK,13 AUG 1991,POL,12,"Khalifa International Stadium, Doha (QAT)",04 OCT 2019,1136,decathlon,combined-events,male,senior
-1569,8064,,Ryan TALBOT,07 OCT 2000,USA,1,"University of Minnesota T&F Stadium, Minneapolis, MN (USA)",14 MAY 2022,1136,decathlon,combined-events,male,senior
-1569,8064,,Till STEINFORTH,11 JUN 2002,GER,1,"Billy Hayes T& F Complex, Bloomington, IN (USA)",13 MAY 2023,1136,decathlon,combined-events,male,senior
-1579,8063,,José Fernando FERREIRA,27 MAR 1999,BRA,1,"Centro de Treinamento Paralímpico Brasileiro, São Paulo (BRA)",28 JUN 2024,1136,decathlon,combined-events,male,senior
-1579,8063,,Aleksandr KOMAROV,04 MAR 2001,RUS,1,"Yunost Stadium, Adler, Sochi (RUS)",29 MAY 2025,1136,decathlon,combined-events,male,senior
-1581,8062,,William MOTTI,25 JUL 1964,FRA,10,"Stadio Olimpico, Roma (ITA)",04 SEP 1987,1136,decathlon,combined-events,male,senior
-1581,8062,,Michael KOHNLE,03 MAY 1970,GER,6,Götzis (AUT),16 JUN 1991,1136,decathlon,combined-events,male,senior
-1581,8062,,Philipp HUBER,18 FEB 1974,SUI,2,Ibach (SUI),02 JUL 2000,1136,decathlon,combined-events,male,senior
-1581,8062,,Kurt FELIX,04 JUL 1988,GRN,1,"Des Moines, IA (USA)",07 JUN 2012,1136,decathlon,combined-events,male,senior
-1581,8062,,Oleksiy KASYANOV,26 AUG 1985,UKR,2,"Stade Pierre Paul Bernard, Talence (FRA)",21 SEP 2014,1136,decathlon,combined-events,male,senior
-1581,8062,,Austin WEST,17 MAR 2000,USA,1,"St. Mark's School of Texas, Dallas, TX (USA)",10 JUL 2022,1136,decathlon,combined-events,male,senior
-1581,8062,,Sander SKOTHEIM,31 MAY 2002,NOR,15,"Hayward Field, Eugene, OR (USA)",24 JUL 2022,1136,decathlon,combined-events,male,senior
-1588,8061,,Jack ROSENDAAL,12 SEP 1973,NED,2,Oulu (FIN),29 JUN 1997,1136,decathlon,combined-events,male,senior
-1588,8061,,Stephen HARRIS,05 DEC 1980,USA,1,"Sacramento, CA (USA)",12 JUN 2003,1136,decathlon,combined-events,male,senior
-1588,8061,,Ashton EATON,21 JAN 1988,USA,17,"Olympiastadion, Berlin (GER)",20 AUG 2009,1136,decathlon,combined-events,male,senior
-1588,8061,,Yordani GARCÍA,21 NOV 1988,CUB,7,"Mösle-Stadium, Götzis (AUT)",27 MAY 2012,1136,decathlon,combined-events,male,senior
-1592,8060,,Chiel WARNERS,02 APR 1978,NED,2,Tallinn (EST),06 JUL 2003,1135,decathlon,combined-events,male,senior
-1592,8060,,Romain BARRAS,01 AUG 1980,FRA,2,Talence (FRA),21 SEP 2003,1135,decathlon,combined-events,male,senior
-1592,8060,,Romain BARRAS,01 AUG 1980,FRA,5,"Stade Pierre Paul Bernard, Talence (FRA)",18 SEP 2005,1135,decathlon,combined-events,male,senior
-1592,8060,,Karl Robert SALURI,06 AUG 1993,EST,1,"Athens, GA (USA)",05 APR 2019,1135,decathlon,combined-events,male,senior
-1592,8060,,Mathias BRUGGER,06 AUG 1992,GER,11,"Mösle-Stadium, Götzis (AUT)",26 MAY 2019,1135,decathlon,combined-events,male,senior
-1592,8060,,Ashley MOLONEY,13 MAR 2000,AUS,1,"QSAC State Athletics Facility, Nathan, Brisbane (AUS)",18 DEC 2022,1135,decathlon,combined-events,male,senior
-1592,8060,,Ken MULLINGS,28 APR 1997,BAH,2,San Salvador (ESA),04 JUL 2023,1135,decathlon,combined-events,male,senior
-1599,8059,,Norbert DEMMEL,10 MAY 1963,FRG,3,Tønsberg (NOR),16 JUL 1989,1135,decathlon,combined-events,male,senior
-1599,8059,,Indrek KASEORG,16 DEC 1967,EST,4,Talence (FRA),19 SEP 1999,1135,decathlon,combined-events,male,senior
-1599,8059,,Vasiliy KHARLAMOV,08 JAN 1986,RUS,2,Cheboksary (RUS),03 JUN 2012,1135,decathlon,combined-events,male,senior
-1599,8059,,Yevgeniy SARANTSEV,05 FEB 1988,RUS,1,"Adler, Sochi (RUS)",12 MAY 2015,1135,decathlon,combined-events,male,senior
-1603,8058,,Mikhail MEDVED,30 JAN 1964,URS,4,Tønsberg (NOR),16 JUL 1989,1135,decathlon,combined-events,male,senior
-1603,8058,,Eugenio BALANQUE,20 DEC 1968,CUB,5,Arles (FRA),04 JUN 2000,1135,decathlon,combined-events,male,senior
-1603,8058,,Roman ŠEBRLE,26 NOV 1974,CZE,2,Kladno (CZE),24 JUN 2009,1135,decathlon,combined-events,male,senior
-1603,8058,,Simon HECHLER,15 JUN 1988,GER,1,"Chula Vista, CA (USA)",14 AUG 2011,1135,decathlon,combined-events,male,senior
-1603,8058,,Keisuke USHIRO,24 JUL 1986,JPN,1,Nagano (JPN),05 JUL 2015,1135,decathlon,combined-events,male,senior
-1603,8058,,Pieter BRAUN,21 JAN 1993,NED,8,"Mösle-Stadium, Götzis (AUT)",29 MAY 2016,1135,decathlon,combined-events,male,senior
-1603,8058,,Vitaliy ZHUK,10 SEP 1996,BLR,13,"Khalifa International Stadium, Doha (QAT)",04 OCT 2019,1135,decathlon,combined-events,male,senior
-1603,8058,,Adam Sebastian HELCELET,27 OCT 1991,CZE,2,"Antonio Domínguez Stadium, Arona (ESP)",13 JUN 2021,1135,decathlon,combined-events,male,senior
-1603,8058,,José Fernando FERREIRA,27 MAR 1999,BRA,1,"COTP Stadium, São Paulo (BRA)",29 JUL 2023,1135,decathlon,combined-events,male,senior
-1612,8057,,Uwe FREIMUTH,10 SEP 1961,GDR,7,Krefeld (GER),08 SEP 1985,1135,decathlon,combined-events,male,senior
-1612,8057,,Kip JANVRIN,08 JUL 1965,USA,3,"Sacramento, CA (USA)",21 JUL 2000,1135,decathlon,combined-events,male,senior
-1612,8057,,Yunior DIAZ,28 APR 1987,CUB,1,La Habana (CUB),08 MAR 2008,1135,decathlon,combined-events,male,senior
-1612,8057,,Florian GEFFROUAIS,05 DEC 1988,FRA,1,Valence (FRA),09 JUL 2010,1135,decathlon,combined-events,male,senior
-1612,8057,,Brent NEWDICK,31 JAN 1985,NZL,1,Melbourne (AUS),14 APR 2012,1135,decathlon,combined-events,male,senior
-1612,8057,,Tim NOWAK,13 AUG 1995,GER,4,"Stadionring, Ratingen (GER)",17 JUN 2018,1135,decathlon,combined-events,male,senior
-1612,8057,,Baptiste THIERY,29 JUN 2001,FRA,9,"Olympiastadion, München (GER)",16 AUG 2022,1135,decathlon,combined-events,male,senior
-1612,8057,,Ondřej KOPECKÝ,16 MAY 1998,CZE,1,"Atleticky stadion Benešov, Benešov (CZE)",15 JUN 2025,1135,decathlon,combined-events,male,senior
-1620,8056,,Roman ŠEBRLE,26 NOV 1974,CZE,5f,Talence (FRA),13 SEP 1998,1135,decathlon,combined-events,male,senior
-1620,8056,,Scott FERRIER,12 JUN 1974,AUS,1,Hobart (AUS),28 FEB 1999,1135,decathlon,combined-events,male,senior
-1620,8056,,Jiří RYBA,15 JUN 1976,CZE,14,"Olympic Stadium, Sydney (AUS)",28 SEP 2000,1135,decathlon,combined-events,male,senior
-1620,8056,,Paolo CASARSA,02 JUL 1975,ITA,1,Südstadt (AUT),06 JUN 2004,1135,decathlon,combined-events,male,senior
-1620,8056,,Ashley BRYANT,17 MAY 1991,GBR,9,"Mösle-Stadium, Götzis (AUT)",29 MAY 2016,1135,decathlon,combined-events,male,senior
-1620,8056,,Janek ÕIGLANE,25 APR 1994,EST,2,"Kadrioru staadion, Tallinn (EST)",27 JUN 2021,1135,decathlon,combined-events,male,senior
-1620,8056,,Sven ROOSEN,27 JUL 2001,NED,2,"Kadrioru staadion, Tallinn (EST)",11 JUL 2021,1135,decathlon,combined-events,male,senior
-1627,8055,,Eugène MARTINEAU,14 MAY 1980,NED,13,"National Stadium, Beijing (CHN)",22 AUG 2008,1135,decathlon,combined-events,male,senior
-1627,8055,,Eugène MARTINEAU,14 MAY 1980,NED,18,"Olympiastadion, Berlin (GER)",20 AUG 2009,1135,decathlon,combined-events,male,senior
-1627,8055,,Nikolay SHUBENOK,04 MAY 1985,BLR,1,Asikkala (FIN),05 AUG 2012,1135,decathlon,combined-events,male,senior
-1627,8055,,Pascal BEHRENBRUCH,19 JAN 1985,GER,4,"Stadionring, Ratingen (GER)",29 JUN 2014,1135,decathlon,combined-events,male,senior
-1627,8055,,Martin ROE,01 APR 1992,NOR,1,"Sportplatz Lana, Lana (ITA)",25 APR 2021,1135,decathlon,combined-events,male,senior
-1627,8055,,Maksim ANDRALOITS,17 JUN 1997,BLR,1,"Dinamo National Olympic Stadium, Minsk (BLR)",30 JUL 2023,1135,decathlon,combined-events,male,senior
-1633,8054,,Raúl DUANY BUENO,04 JAN 1975,CUB,15,"Olympic Stadium, Sydney (AUS)",28 SEP 2000,1135,decathlon,combined-events,male,senior
-1633,8054,,Willem COERTZEN,30 DEC 1982,RSA,11,"Mösle-Stadium, Götzis (AUT)",31 MAY 2009,1135,decathlon,combined-events,male,senior
-1633,8054,,Austin WEST,17 MAR 2000,USA,3,"Mike A. Myers Stadium, Austin, TX (USA)",08 JUN 2023,1135,decathlon,combined-events,male,senior
-1636,8053,,Yunior DIAZ,28 APR 1987,CUB,2,La Habana (CUB),06 MAY 2011,1134,decathlon,combined-events,male,senior
-1636,8053,,Jente HAUTTEKEETE,14 MAR 2002,BEL,16,"Mösle-Stadium, Götzis (AUT)",01 JUN 2025,1134,decathlon,combined-events,male,senior
-1638,8052,,Henrik DAGÅRD,07 AUG 1969,SWE,9,"Poljud Stadion, Split (CRO)",29 AUG 1990,1134,decathlon,combined-events,male,senior
-1638,8052,,Andrei NAZAROV,09 JAN 1965,EST,14,"Estadio Olímpico, Barcelona (ESP)",06 AUG 1992,1134,decathlon,combined-events,male,senior
-1638,8052,,Eelco SINTNICOLAAS,07 APR 1987,NED,12,"Mösle-Stadium, Götzis (AUT)",31 MAY 2009,1134,decathlon,combined-events,male,senior
-1638,8052,,Roman ŠEBRLE,26 NOV 1974,CZE,6,"Olympiastadion, Helsinki (FIN)",28 JUN 2012,1134,decathlon,combined-events,male,senior
-1642,8051,,Dezső SZABÓ,04 SEP 1967,HUN,1,Fukuoka (JPN),02 SEP 1995,1134,decathlon,combined-events,male,senior
-1642,8051,,Philipp HUBER,18 FEB 1974,SUI,11,Götzis (AUT),31 MAY 1998,1134,decathlon,combined-events,male,senior
-1642,8051,,Volodimir MIKHAYLENKO,27 AUG 1973,UKR,1,Kyiv (UKR),04 JUN 2000,1134,decathlon,combined-events,male,senior
-1642,8051,,Laurent HERNU,22 AUG 1976,FRA,7,"Olympiastadion, München (GER)",08 AUG 2002,1134,decathlon,combined-events,male,senior
-1642,8051,,Aleksandr PARKHOMENKO,21 MAR 1981,BLR,1,Izmir (TUR),19 AUG 2005,1134,decathlon,combined-events,male,senior
-1642,8051,,Niels PITTOMVILS,18 JUL 1992,BEL,10,"Mösle-Stadium, Götzis (AUT)",29 MAY 2016,1134,decathlon,combined-events,male,senior
-1642,8051,,Malik DIAKITE,13 MAR 2000,GER,2,"St. Mark's School of Texas, Dallas, TX (USA)",10 JUL 2022,1134,decathlon,combined-events,male,senior
-1642,8051,,Felix WOLTER,04 OCT 1997,GER,13,"Stadio Olimpico, Roma (ITA)",11 JUN 2024,1134,decathlon,combined-events,male,senior
-1650,8050,,Lev LOBODIN,01 APR 1969,UKR,9,Götzis (AUT),29 MAY 1994,1134,decathlon,combined-events,male,senior
-1650,8050,,Ramil GANIYEV,23 SEP 1968,UZB,8,Götzis (AUT),01 JUN 1997,1134,decathlon,combined-events,male,senior
-1650,8050,,Raúl DUANY BUENO,04 JAN 1975,CUB,1,Palma de Mallorca (ESP),12 JUL 1999,1134,decathlon,combined-events,male,senior
-1650,8050,,Henrik DAGÅRD,07 AUG 1969,SWE,14,Götzis (AUT),04 JUN 2000,1134,decathlon,combined-events,male,senior
-1650,8050,,Claston BERNARD,22 MAR 1979,JAM,1,"College Station, TX (USA)",15 MAR 2002,1134,decathlon,combined-events,male,senior
-1650,8050,,Claston BERNARD,22 MAR 1979,JAM,1,Desenzano del Garda (ITA),09 MAY 2004,1134,decathlon,combined-events,male,senior
-1650,8050,,Aleksandr PARKHOMENKO,21 MAR 1981,BLR,1,Minsk (BLR),08 JUN 2006,1134,decathlon,combined-events,male,senior
-1650,8050,,Leonel SUÁREZ,01 SEP 1987,CUB,2,La Habana (CUB),08 MAR 2008,1134,decathlon,combined-events,male,senior
-1650,8050,,Adam Sebastian HELCELET,27 OCT 1991,CZE,11,"Mösle-Stadium, Götzis (AUT)",29 MAY 2016,1134,decathlon,combined-events,male,senior
-1650,8050,,Janek ÕIGLANE,25 APR 1994,EST,12,"Mösle-Stadium, Götzis (AUT)",26 MAY 2019,1134,decathlon,combined-events,male,senior
-1650,8050,,José Fernando FERREIRA,27 MAR 1999,BRA,12,"Mösle-Stadium, Götzis (AUT)",19 MAY 2024,1134,decathlon,combined-events,male,senior
-1661,8049,,Stefan DREWS,12 FEB 1979,GER,1,Vaterstetten (GER),26 AUG 2001,1134,decathlon,combined-events,male,senior
-1661,8049,,Niels PITTOMVILS,18 JUL 1992,BEL,1,Villeneuve d'Ascq (FRA),11 JUL 2015,1134,decathlon,combined-events,male,senior
-1661,8049,,Ashley BRYANT,17 MAY 1991,GBR,11,"Olympic Stadium, London (GBR)",12 AUG 2017,1134,decathlon,combined-events,male,senior
-1661,8049,,Austin WEST,17 MAR 2000,USA,2,"Hilmer Lodge Stadium, Walnut, CA (USA)",17 APR 2025,1134,decathlon,combined-events,male,senior
-1665,8048,,Thorsten DAUTH,11 MAR 1968,GER,10,Götzis (AUT),26 MAY 1996,1134,decathlon,combined-events,male,senior
-1665,8048,,Nikolay AVERYANOV,04 FEB 1980,RUS,1,Tula (RUS),24 JUN 2004,1134,decathlon,combined-events,male,senior
-1665,8048,,Runar HELTNE,21 APR 1980,NOR,,Tiraspol (MDA),14 MAY 2008,1134,decathlon,combined-events,male,senior
-1665,8048,,Yordani GARCÍA,21 NOV 1988,CUB,3,"Stadio Tre Stelle, Desenzano del Garda (ITA)",09 MAY 2010,1134,decathlon,combined-events,male,senior
-1665,8048,,Georni JARAMILLO,06 MAR 1989,VEN,1,Barquisimeto (VEN),05 MAY 2018,1134,decathlon,combined-events,male,senior
-1665,8048,,Ituah ENAHORO,15 DEC 1997,GER,5,"Stadionring, Ratingen (GER)",17 JUN 2018,1134,decathlon,combined-events,male,senior
-1671,8047,,Cedric LOPEZ,13 FEB 1973,FRA,13,"Olympic Stadium, Athina (GRE)",06 AUG 1997,1133,decathlon,combined-events,male,senior
-1671,8047,,Hans VAN ALPHEN,12 JAN 1982,BEL,2,Bangkok (THA),13 AUG 2007,1133,decathlon,combined-events,male,senior
-1671,8047,,Zachery ZIEMEK,23 FEB 1993,USA,2,"Athens, GA (USA)",07 APR 2016,1133,decathlon,combined-events,male,senior
-1674,8046,,Romain BARRAS,01 AUG 1980,FRA,1,Niamey (NIG),15 DEC 2005,1133,decathlon,combined-events,male,senior
-1674,8046,,Dominik DISTELBERGER,16 MAR 1990,AUT,13,"Mösle-Stadium, Götzis (AUT)",28 MAY 2017,1133,decathlon,combined-events,male,senior
-1674,8046,,Hunter VEITH,14 JAN 1995,USA,1,"Austin, TX (USA)",29 MAR 2018,1133,decathlon,combined-events,male,senior
-1674,8046,,Johannes ERM,26 MAR 1998,EST,3,"Eugene, OR (USA)",07 JUN 2018,1133,decathlon,combined-events,male,senior
-1674,8046,,Rik TAAM,17 JAN 1997,NED,16,"Stade de France, Paris (FRA)",03 AUG 2024,1133,decathlon,combined-events,male,senior
-1679,8045,,Rojs PIZIKS,12 FEB 1971,LAT,2,Riga (LAT),16 JUN 1996,1133,decathlon,combined-events,male,senior
-1679,8045,,Dirk-Achim PAJONK,27 MAR 1969,GER,20,"Olympic Stadium, Atlanta, GA (USA)",01 AUG 1996,1133,decathlon,combined-events,male,senior
-1679,8045,,Ramil GANIYEV,23 SEP 1968,UZB,12,Götzis (AUT),31 MAY 1998,1133,decathlon,combined-events,male,senior
-1679,8045,,Chad SMITH,09 JAN 1974,USA,1,"Walnut, CA (USA)",16 APR 1999,1133,decathlon,combined-events,male,senior
-1679,8045,,Christopher HALLMANN,06 JUN 1983,GER,1,Vaterstetten (GER),05 SEP 2004,1133,decathlon,combined-events,male,senior
-1679,8045,,Hans VAN ALPHEN,12 JAN 1982,BEL,11,"Mösle-Stadium, Götzis (AUT)",29 MAY 2011,1133,decathlon,combined-events,male,senior
-1679,8045,,Carlos Eduardo BEZERRA CHININ,03 MAY 1985,BRA,5,"Stadionring, Ratingen (GER)",17 JUL 2011,1133,decathlon,combined-events,male,senior
-1679,8045,,Oleksiy KASYANOV,26 AUG 1985,UKR,4,"Stade Pierre Paul Bernard, Talence (FRA)",18 SEP 2011,1133,decathlon,combined-events,male,senior
-1679,8045,,Jan Felix KNOBEL,16 JAN 1989,GER,1,"Bernhausen, Filderstadt (GER)",09 AUG 2015,1133,decathlon,combined-events,male,senior
-1688,8044,,Florian SCHÖNBECK,13 JAN 1974,GER,2,"Stadionring, Ratingen (GER)",27 JUN 2004,1133,decathlon,combined-events,male,senior
-1688,8044,,Mateo SOSSAH,28 APR 1988,USA,2,"Fayetteville, AR (USA)",11 JUN 2009,1133,decathlon,combined-events,male,senior
-1688,8044,,Adam Sebastian HELCELET,27 OCT 1991,CZE,4,Kladno (CZE),10 JUN 2012,1133,decathlon,combined-events,male,senior
-1688,8044,,Tim EHRHARDT,16 MAR 1995,USA,1,"Charlottesville, VA (USA)",21 APR 2018,1133,decathlon,combined-events,male,senior
-1692,8043,,Nikolay TISHCHENKO,04 FEB 1977,RUS,1,Krasnodar (RUS),29 MAY 2004,1133,decathlon,combined-events,male,senior
-1692,8043,,Akihiko NAKAMURA,23 OCT 1990,JPN,1,Wakayama (JPN),26 APR 2015,1133,decathlon,combined-events,male,senior
-1692,8043,,Oleksiy KASYANOV,26 AUG 1985,UKR,2,"Stade Pierre Paul Bernard, Talence (FRA)",20 SEP 2015,1133,decathlon,combined-events,male,senior
-1695,8042,,Lev LOBODIN,01 APR 1969,UKR,11,Götzis (AUT),28 MAY 1995,1133,decathlon,combined-events,male,senior
-1695,8042,,Indrek KASEORG,16 DEC 1967,EST,11,"Ullevi Stadium, Göteborg (SWE)",07 AUG 1995,1133,decathlon,combined-events,male,senior
-1695,8042,,André NIKLAUS,30 AUG 1981,GER,1,"Olympisch Stadion, Amsterdam (NED)",13 JUL 2001,1133,decathlon,combined-events,male,senior
-1695,8042,,Jaakko OJANIEMI,28 AUG 1980,FIN,9,"Olympiastadion, Helsinki (FIN)",10 AUG 2005,1133,decathlon,combined-events,male,senior
-1695,8042,,Alberto JUANTORENA,27 JUN 1977,CUB,1,La Habana (CUB),22 JUN 2007,1133,decathlon,combined-events,male,senior
-1695,8042,,Edgar CAMPRÉ,29 APR 2000,POR,3,"Hayward Field, Eugene, OR (USA)",06 JUN 2024,1133,decathlon,combined-events,male,senior
-1701,8041,,Indrek KASEORG,16 DEC 1967,EST,12,Götzis (AUT),28 MAY 1995,1133,decathlon,combined-events,male,senior
-1701,8041,,Paul TEREK,20 OCT 1979,USA,2,"Baton Rouge, LA (USA)",01 JUN 2002,1133,decathlon,combined-events,male,senior
-1701,8041,,Haifeng QI,07 AUG 1983,CHN,1,Busan (KOR),10 OCT 2002,1133,decathlon,combined-events,male,senior
-1701,8041,,Trey HARDEE,07 FEB 1984,USA,2,"Austin, TX (USA)",12 JUN 2004,1133,decathlon,combined-events,male,senior
-1701,8041,,Basile ROLNIN,21 JAN 1994,FRA,4,"Stadionring, Ratingen (GER)",25 JUN 2017,1133,decathlon,combined-events,male,senior
-1701,8041,,Ondřej KOPECKÝ,16 MAY 1998,CZE,1,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",15 MAY 2022,1133,decathlon,combined-events,male,senior
-1701,8041,,Andrin HUBER,27 JUN 2004,SUI,5,"Stade Pierre Paul Bernard, Talence (FRA)",15 SEP 2024,1133,decathlon,combined-events,male,senior
-1708,8040,,Marcel DOST,28 SEP 1969,NED,14,"Olympic Stadium, Athina (GRE)",06 AUG 1997,1132,decathlon,combined-events,male,senior
-1708,8040,,Jagan HAMES,31 OCT 1975,AUS,2f,Sydney (AUS),09 AUG 1998,1132,decathlon,combined-events,male,senior
-1708,8040,,Nicklas WIBERG,16 APR 1985,SWE,1,Jyväskylä (FIN),29 JUN 2008,1132,decathlon,combined-events,male,senior
-1708,8040,,Ashley BRYANT,17 MAY 1991,GBR,5,"Olympisch Stadion, Amsterdam (NED)",07 JUL 2016,1132,decathlon,combined-events,male,senior
-1708,8040,,Martin ROE,01 APR 1992,NOR,12,"Olympic Stadium, London (GBR)",12 AUG 2017,1132,decathlon,combined-events,male,senior
-1713,8039,,Michael SMITH,16 SEP 1967,CAN,12,Götzis (AUT),19 JUN 1988,1132,decathlon,combined-events,male,senior
-1713,8039,,Jón Arnar MAGNÚSSON,28 JUL 1969,ISL,1,Reykjavík (ISL),02 JUL 1995,1132,decathlon,combined-events,male,senior
-1713,8039,,Thomas TEBBICH,04 FEB 1975,AUT,7,Götzis (AUT),30 MAY 1999,1132,decathlon,combined-events,male,senior
-1713,8039,,Vitaliy ZHUK,10 SEP 1996,BLR,2,"Dinamo National Olympic Stadium, Minsk (BLR)",30 JUL 2023,1132,decathlon,combined-events,male,senior
-1717,8038,,Aleksey DROZDOV,03 DEC 1983,RUS,10,"Olympiastadion, Helsinki (FIN)",10 AUG 2005,1132,decathlon,combined-events,male,senior
-1717,8038,,Ashley MOLONEY,13 MAR 2000,AUS,13,"Mösle-Stadium, Götzis (AUT)",26 MAY 2019,1132,decathlon,combined-events,male,senior
-1717,8038,,Jack FLOOD,15 SEP 1995,USA,1,"Ray McDonald, Sr., Track Complex, Mount Olive, NC (USA)",15 MAY 2021,1132,decathlon,combined-events,male,senior
-1717,8038,,Ruben GADO,13 DEC 1993,FRA,3,"Antonio Domínguez Stadium, Arona (ESP)",13 JUN 2021,1132,decathlon,combined-events,male,senior
-1717,8038,,Austin WEST,17 MAR 2000,USA,3,"Hilmer Lodge Stadium, Walnut, CA (USA)",13 APR 2023,1132,decathlon,combined-events,male,senior
-1717,8038,,Kai KAZMIREK,28 JAN 1991,GER,1,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",23 JUL 2023,1132,decathlon,combined-events,male,senior
-1723,8037,,Stephen MOORE,13 AUG 1975,USA,2,Aachen (GER),08 AUG 1999,1132,decathlon,combined-events,male,senior
-1723,8037,,Laurent HERNU,22 AUG 1976,FRA,5,Talence (FRA),22 SEP 2002,1132,decathlon,combined-events,male,senior
-1723,8037,,Keisuke USHIRO,24 JUL 1986,JPN,1,Nagano (JPN),03 JUN 2012,1132,decathlon,combined-events,male,senior
-1723,8037,,Dmitriy KARPOV,23 JUL 1981,KAZ,1,Pune (IND),04 JUL 2013,1132,decathlon,combined-events,male,senior
-1723,8037,,Janek ÕIGLANE,25 APR 1994,EST,14,"Mösle-Stadium, Götzis (AUT)",28 MAY 2017,1132,decathlon,combined-events,male,senior
-1723,8037,,Tim NOWAK,13 AUG 1995,GER,1,Halle (GER),06 MAY 2018,1132,decathlon,combined-events,male,senior
-1723,8037,,Martin ROE,01 APR 1992,NOR,1,"Antonio Domínguez Stadium, Arona (ESP)",09 JUN 2019,1132,decathlon,combined-events,male,senior
-1723,8037,,Solomon SIMMONS,26 SEP 1993,USA,8,"Hayward Field, Eugene, OR (USA)",20 JUN 2021,1132,decathlon,combined-events,male,senior
-1723,8037,,Maicel UIBO,27 DEC 1992,EST,15,"National Stadium, Tokyo (JPN)",05 AUG 2021,1132,decathlon,combined-events,male,senior
-1723,8037,,Malik DIAKITE,13 MAR 2000,GER,1,"Antonio Domínguez Stadium, Arona (ESP)",12 MAY 2024,1132,decathlon,combined-events,male,senior
-1733,8036,,Simon SHIRLEY,03 AUG 1966,AUS,15,"Olympic Stadium, Seoul (KOR)",29 SEP 1988,1132,decathlon,combined-events,male,senior
-1733,8036,,Zsolt KÜRTÖSI,21 MAR 1971,HUN,1,Budapest (HUN),06 AUG 2000,1132,decathlon,combined-events,male,senior
-1733,8036,,Jörg GOEDICKE,25 JUN 1974,GER,2,"Bernhausen, Filderstadt (GER)",22 JUL 2001,1132,decathlon,combined-events,male,senior
-1733,8036,,Pavel ANDREYEV,24 NOV 1978,UZB,1,Tashkent (UZB),21 MAY 2004,1132,decathlon,combined-events,male,senior
-1733,8036,,Attila ZSIVOCZKY-PANDEL,29 APR 1977,HUN,5,Talence (FRA),26 SEP 2004,1132,decathlon,combined-events,male,senior
-1733,8036,,Larbi BOURRADA,10 MAY 1988,ALG,1,Algiers (ALG),22 MAY 2009,1132,decathlon,combined-events,male,senior
-1733,8036,,Romain MARTIN,12 JUL 1988,FRA,1,Hexham (GBR),22 JUL 2018,1132,decathlon,combined-events,male,senior
-1733,8036,,Jack FLOOD,15 SEP 1995,USA,9,"Hayward Field, Eugene, OR (USA)",20 JUN 2021,1132,decathlon,combined-events,male,senior
-1741,8035,,Andrei NAZAROV,09 JAN 1965,EST,4,Helmond (NED),02 JUL 1995,1132,decathlon,combined-events,male,senior
-1741,8035,,Jack ROSENDAAL,12 SEP 1973,NED,21,"Olympic Stadium, Atlanta, GA (USA)",01 AUG 1996,1132,decathlon,combined-events,male,senior
-1741,8035,,Eugène MARTINEAU,14 MAY 1980,NED,11,"Ullevi Stadium, Göteborg (SWE)",11 AUG 2006,1132,decathlon,combined-events,male,senior
-1741,8035,,Akihiko NAKAMURA,23 OCT 1990,JPN,2,Nagano (JPN),01 JUN 2014,1132,decathlon,combined-events,male,senior
-1741,8035,,Thomas VAN DER PLAETSEN,24 DEC 1990,BEL,14,"National Stadium, Beijing (CHN)",29 AUG 2015,1132,decathlon,combined-events,male,senior
-1741,8035,,Hunter PRICE,28 AUG 1994,USA,1f2,"Cougar Athletic Stadium, Azusa, CA (USA)",14 MAY 2021,1132,decathlon,combined-events,male,senior
-1741,8035,,Jeff TESSELAAR,03 MAY 2003,NED,2,"Antonio Domínguez Stadium, Arona (ESP)",12 MAY 2024,1132,decathlon,combined-events,male,senior
-1748,8034,,Beat GÄHWILER,26 JAN 1965,SUI,11,"Stadio Olimpico, Roma (ITA)",04 SEP 1987,1131,decathlon,combined-events,male,senior
-1748,8034,,Hans VAN ALPHEN,12 JAN 1982,BEL,11,"Yanmar Stadium Nagai, Osaka (JPN)",01 SEP 2007,1131,decathlon,combined-events,male,senior
-1748,8034,,Andres RAJA,02 JUN 1982,EST,5,"Stade Pierre Paul Bernard, Talence (FRA)",20 SEP 2009,1131,decathlon,combined-events,male,senior
-1748,8034,,Norman MÜLLER,07 AUG 1985,GER,8,"Mösle-Stadium, Götzis (AUT)",27 MAY 2012,1131,decathlon,combined-events,male,senior
-1748,8034,,Eelco SINTNICOLAAS,07 APR 1987,NED,11,"Olympic Stadium, London (GBR)",09 AUG 2012,1131,decathlon,combined-events,male,senior
-1748,8034,,Luiz Alberto DE ARAUJO,27 JUN 1987,BRA,1,Sao Bernardo do Campo (BRA),16 MAY 2015,1131,decathlon,combined-events,male,senior
-1748,8034,,Adam Sebastian HELCELET,27 OCT 1991,CZE,2,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",23 JUL 2023,1131,decathlon,combined-events,male,senior
-1755,8033,,Jan DOLEŽAL,06 JUN 1996,CZE,1,Kladno (CZE),17 JUN 2018,1131,decathlon,combined-events,male,senior
-1755,8033,,Kristjan ROSENBERG,16 MAY 1994,EST,4,Lutsk (UKR),07 JUL 2019,1131,decathlon,combined-events,male,senior
-1755,8033,,Jannis WOLFF,16 MAY 1998,GER,7,"Stadionring, Ratingen (GER)",18 JUN 2023,1131,decathlon,combined-events,male,senior
-1758,8032,,Tomáš DVOŘÁK,11 MAY 1972,CZE,10,"Gottlieb-Daimler Stadion, Stuttgart (GER)",20 AUG 1993,1131,decathlon,combined-events,male,senior
-1758,8032,,Raúl DUANY BUENO,04 JAN 1975,CUB,1,Alhama de Murcia (ESP),22 MAY 1999,1131,decathlon,combined-events,male,senior
-1758,8032,,Stefan DREWS,12 FEB 1979,GER,3,"Stadionring, Ratingen (GER)",27 JUN 2004,1131,decathlon,combined-events,male,senior
-1758,8032,,Norman MÜLLER,07 AUG 1985,GER,6,"Stadionring, Ratingen (GER)",22 JUN 2008,1131,decathlon,combined-events,male,senior
-1758,8032,,Roland SCHWARZL,10 DEC 1980,AUT,9,"Mösle-Stadium, Götzis (AUT)",30 MAY 2010,1131,decathlon,combined-events,male,senior
-1758,8032,,Darius DRAUDVILA,29 MAR 1983,LTU,6,"Estadio Olímpico, Barcelona (ESP)",29 JUL 2010,1131,decathlon,combined-events,male,senior
-1758,8032,,Oleksiy KASYANOV,26 AUG 1985,UKR,7,"Stade Pierre Paul Bernard, Talence (FRA)",19 SEP 2010,1131,decathlon,combined-events,male,senior
-1758,8032,,Harrison WILLIAMS,07 MAR 1996,USA,5,"Eugene, OR (USA)",09 JUN 2016,1131,decathlon,combined-events,male,senior
-1758,8032,,Dennis HUTTERER,04 MAY 1996,GER,1,Darmstadt (GER),13 MAY 2018,1131,decathlon,combined-events,male,senior
-1758,8032,,Kristjan ROSENBERG,16 MAY 1994,EST,13,"Mösle-Stadium, Götzis (AUT)",30 MAY 2021,1131,decathlon,combined-events,male,senior
-1758,8032,,Jack FLOOD,15 SEP 1995,USA,4,"Hilmer Lodge Stadium, Walnut, CA (USA)",18 APR 2024,1131,decathlon,combined-events,male,senior
-1758,8032,,Antoine FERRANTI,09 JAN 2003,FRA,3,"Fana Stadion, Bergen (NOR)",18 JUL 2025,1131,decathlon,combined-events,male,senior
-1770,8031,,Alain BLONDEL,07 DEC 1962,FRA,15,"Estadio Olímpico, Barcelona (ESP)",06 AUG 1992,1131,decathlon,combined-events,male,senior
-1770,8031,,Mathias BRUGGER,06 AUG 1992,GER,1,Halle (GER),07 MAY 2017,1131,decathlon,combined-events,male,senior
-1770,8031,,Cedric DUBLER,13 JAN 1995,AUS,2,Townsville (AUS),26 JUN 2019,1131,decathlon,combined-events,male,senior
-1770,8031,,Rik TAAM,17 JAN 1997,NED,1,Emmeloord (NED),06 SEP 2020,1131,decathlon,combined-events,male,senior
-1774,8030,,Gary KINDER,25 OCT 1962,USA,12,"Stadio Olimpico, Roma (ITA)",04 SEP 1987,1131,decathlon,combined-events,male,senior
-1774,8030,,Henrik DAGÅRD,07 AUG 1969,SWE,2,Helmond (NED),16 JUL 1989,1131,decathlon,combined-events,male,senior
-1774,8030,,Oleksandr YURKOV,21 JUL 1975,UKR,13,"Népstadion, Budapest (HUN)",20 AUG 1998,1131,decathlon,combined-events,male,senior
-1774,8030,,Haifeng QI,07 AUG 1983,CHN,1,Benxi (CHN),09 JUN 2002,1131,decathlon,combined-events,male,senior
-1774,8030,,Chiel WARNERS,02 APR 1978,NED,6,Talence (FRA),26 SEP 2004,1131,decathlon,combined-events,male,senior
-1774,8030,,Ilya SHKURENYOV,11 JAN 1991,RUS,3,Cheboksary (RUS),03 JUN 2012,1131,decathlon,combined-events,male,senior
-1774,8030,,Taavi TŠERNJAVSKI,04 MAR 1995,EST,2,"Stade P-J. Bénard, St-Paul (FRA)",19 DEC 2020,1131,decathlon,combined-events,male,senior
-1774,8030,,Cedric DUBLER,13 JAN 1995,AUS,3,"Alexander Stadium, Birmingham (GBR)",05 AUG 2022,1131,decathlon,combined-events,male,senior
-1782,8029,,Kip JANVRIN,08 JUL 1965,USA,1,"Garden City, NY (USA)",13 AUG 2000,1131,decathlon,combined-events,male,senior
-1782,8029,,Dmitriy KARPOV,23 JUL 1981,KAZ,3,Kladno (CZE),24 JUN 2009,1131,decathlon,combined-events,male,senior
-1782,8029,,Andres RAJA,02 JUN 1982,EST,10,"Mösle-Stadium, Götzis (AUT)",30 MAY 2010,1131,decathlon,combined-events,male,senior
-1782,8029,,Aleksey DROZDOV,03 DEC 1983,RUS,7,"Estadio Olímpico, Barcelona (ESP)",29 JUL 2010,1131,decathlon,combined-events,male,senior
-1782,8029,,Simon EHAMMER,07 FEB 2000,SUI,1,"Sportplatz Tellenfeld, Amriswil (SUI)",19 JUL 2020,1131,decathlon,combined-events,male,senior
-1787,8028,,Stephen MOORE,13 AUG 1975,USA,2,Palma de Mallorca (ESP),12 JUL 1999,1131,decathlon,combined-events,male,senior
-1787,8028,,Eduard HÄMÄLÄINEN,21 JAN 1969,FIN,9,Götzis (AUT),27 MAY 2001,1131,decathlon,combined-events,male,senior
-1787,8028,,Ituah ENAHORO,15 DEC 1997,GER,1,Düsseldorf (GER),30 JUL 2017,1131,decathlon,combined-events,male,senior
-1787,8028,,Risto LILLEMETS,20 NOV 1997,EST,1,"Kadrioru staadion, Tallinn (EST)",03 AUG 2025,1131,decathlon,combined-events,male,senior
-1791,8027,,Ricky BARKER,14 NOV 1969,USA,3f,"Palo Alto, CA (USA)",26 APR 1998,1130,decathlon,combined-events,male,senior
-1791,8027,,Gaël QUERIN,26 JUN 1987,FRA,2,Cannes (FRA),13 MAY 2012,1130,decathlon,combined-events,male,senior
-1791,8027,,Dakotah KEYS,27 SEP 1991,USA,1,"Eugene, OR (USA)",18 APR 2014,1130,decathlon,combined-events,male,senior
-1791,8027,,Leonel SUÁREZ,01 SEP 1987,CUB,1,La Habana (CUB),27 MAY 2015,1130,decathlon,combined-events,male,senior
-1791,8027,,Pierce LEPAGE,22 JAN 1996,CAN,3,"Stade Pierre Paul Bernard, Talence (FRA)",18 SEP 2016,1130,decathlon,combined-events,male,senior
-1791,8027,,Thomas VAN DER PLAETSEN,24 DEC 1990,BEL,1,"Atletiekstadion De Brielmeersen, Deinze (BEL)",27 SEP 2020,1130,decathlon,combined-events,male,senior
-1797,8026,,Jim CONNOLLY,24 MAR 1962,USA,2,Zagreb (CRO),17 JUL 1987,1130,decathlon,combined-events,male,senior
-1797,8026,,Zsolt KÜRTÖSI,21 MAR 1971,HUN,6,Arles (FRA),01 JUL 2001,1130,decathlon,combined-events,male,senior
-1797,8026,,Claston BERNARD,22 MAR 1979,JAM,12,Götzis (AUT),30 MAY 2004,1130,decathlon,combined-events,male,senior
-1797,8026,,Dmitriy KARPOV,23 JUL 1981,KAZ,1,Guangzhou (CHN),25 NOV 2010,1130,decathlon,combined-events,male,senior
-1797,8026,,Leonel SUÁREZ,01 SEP 1987,CUB,1,Barranquilla (COL),30 JUL 2018,1130,decathlon,combined-events,male,senior
-1797,8026,,Devon WILLIAMS,17 JAN 1994,USA,5,"Hayward Field, Eugene, OR (USA)",07 JUL 2023,1130,decathlon,combined-events,male,senior
-1797,8026,,Rasmus ROOSLEHT,25 JUL 2002,EST,1,"Kadrioru staadion, Tallinn (EST)",30 JUN 2024,1130,decathlon,combined-events,male,senior
-1804,8025,,Vitaliy KOLPAKOV,02 FEB 1972,UKR,22,"Olympic Stadium, Atlanta, GA (USA)",01 AUG 1996,1130,decathlon,combined-events,male,senior
-1804,8025,,Prodromos KORKIZOGLOU,27 FEB 1975,GRE,1,Thessaloniki (GRE),30 MAY 1999,1130,decathlon,combined-events,male,senior
-1804,8025,,Aleksandr PARKHOMENKO,21 MAR 1981,BLR,1,Maribor (SLO),03 JUL 2005,1130,decathlon,combined-events,male,senior
-1804,8025,,Rudy BOURGUIGNON,16 JUL 1979,FRA,6,"Stade Pierre Paul Bernard, Talence (FRA)",18 SEP 2005,1130,decathlon,combined-events,male,senior
-1804,8025,,Jangy ADDY,02 MAR 1985,USA,6,"Eugene, OR (USA)",30 JUN 2008,1130,decathlon,combined-events,male,senior
-1804,8025,,Karl Robert SALURI,06 AUG 1993,EST,13,"Olympic Stadium, London (GBR)",12 AUG 2017,1130,decathlon,combined-events,male,senior
-1804,8025,,Adam Sebastian HELCELET,27 OCT 1991,CZE,2,"Sportplatz Lana, Lana (ITA)",25 APR 2021,1130,decathlon,combined-events,male,senior
-1811,8024,,Indrek KASEORG,16 DEC 1967,EST,3,Ibach (SUI),02 JUL 2000,1130,decathlon,combined-events,male,senior
-1811,8024,,Claston BERNARD,22 MAR 1979,JAM,1,"Columbia, SC (USA)",11 MAY 2001,1130,decathlon,combined-events,male,senior
-1811,8024,,Maurice SMITH,28 SEP 1980,JAM,1,"Austin, TX (USA)",01 APR 2004,1130,decathlon,combined-events,male,senior
-1811,8024,,Romain BARRAS,01 AUG 1980,FRA,1,Angers (FRA),15 JUL 2005,1130,decathlon,combined-events,male,senior
-1811,8024,,Cedric DUBLER,13 JAN 1995,AUS,14,"Estádio Olímpico, Rio de Janeiro (BRA)",18 AUG 2016,1130,decathlon,combined-events,male,senior
-1811,8024,,Heath BALDWIN,08 FEB 2001,USA,6,"Hayward Field, Eugene, OR (USA)",07 JUL 2023,1130,decathlon,combined-events,male,senior
-1811,8024,,Austin WEST,17 MAR 2000,USA,5,"Hilmer Lodge Stadium, Walnut, CA (USA)",18 APR 2024,1130,decathlon,combined-events,male,senior
-1818,8023,,Frank MÜLLER,18 JUN 1968,GER,10,Götzis (AUT),29 MAY 1994,1130,decathlon,combined-events,male,senior
-1818,8023,,Florian SCHÖNBECK,13 JAN 1974,GER,8,"Stadionring, Ratingen (GER)",16 JUN 2002,1130,decathlon,combined-events,male,senior
-1818,8023,,Jón Arnar MAGNÚSSON,28 JUL 1969,ISL,2,"Stadionring, Ratingen (GER)",13 JUL 2003,1130,decathlon,combined-events,male,senior
-1818,8023,,Maurice SMITH,28 SEP 1980,JAM,14,"Olympic Stadium, Athina (GRE)",24 AUG 2004,1130,decathlon,combined-events,male,senior
-1818,8023,,Hamdi DHOUIBI,24 JAN 1982,TUN,11,"Olympiastadion, Helsinki (FIN)",10 AUG 2005,1130,decathlon,combined-events,male,senior
-1818,8023,,Ashton EATON,21 JAN 1988,USA,1,"Eugene, OR (USA)",24 APR 2009,1130,decathlon,combined-events,male,senior
-1818,8023,,Andres RAJA,02 JUN 1982,EST,3,Tallinn (EST),27 JUN 2010,1130,decathlon,combined-events,male,senior
-1818,8023,,Andrei KRAUCHANKA,04 JAN 1986,BLR,5,"Stade Pierre Paul Bernard, Talence (FRA)",18 SEP 2011,1130,decathlon,combined-events,male,senior
-1818,8023,,Martin ROE,01 APR 1992,NOR,14,"Mösle-Stadium, Götzis (AUT)",26 MAY 2019,1130,decathlon,combined-events,male,senior
-1818,8023,,Steven BASTIEN,04 MAR 1994,USA,4,"Drake Stadium, Des Moines, IA (USA)",26 JUL 2019,1130,decathlon,combined-events,male,senior
-1828,8022,,Aleksey LYAKH,04 MAY 1962,URS,7,Basel (SUI),05 JUL 1987,1130,decathlon,combined-events,male,senior
-1828,8022,,Jon Ryan HARLAN,25 APR 1981,USA,6,"Stade Pierre Paul Bernard, Talence (FRA)",17 SEP 2006,1130,decathlon,combined-events,male,senior
-1828,8022,,Bastien AUZEIL,22 OCT 1989,FRA,2,Paris (FRA),13 JUL 2013,1130,decathlon,combined-events,male,senior
-1828,8022,,Fredrik SAMUELSSON,16 FEB 1995,SWE,15,"Mösle-Stadium, Götzis (AUT)",26 MAY 2019,1130,decathlon,combined-events,male,senior
-1828,8022,,Maximilian VOLLMER,12 MAR 1998,GER,1,"Cougar Athletic Stadium, Azusa, CA (USA)",14 APR 2022,1130,decathlon,combined-events,male,senior
-1828,8022,,Finley GAIO,15 APR 1999,SUI,13,"Mösle-Stadium, Götzis (AUT)",28 MAY 2023,1130,decathlon,combined-events,male,senior
-1834,8021,,Igor PUPCHONOK,20 MAY 1960,URS,1,Almaty (KAZ),29 AUG 1986,1129,decathlon,combined-events,male,senior
-1834,8021,,Simon POELMAN,27 MAY 1963,NZL,16,"Olympic Stadium, Seoul (KOR)",29 SEP 1988,1129,decathlon,combined-events,male,senior
-1834,8021,,Sándor MUNKÁCSY,24 JUL 1969,HUN,9,Götzis (AUT),31 MAY 1992,1129,decathlon,combined-events,male,senior
-1834,8021,,Haifeng QI,07 AUG 1983,CHN,1,Guangzhou (CHN),22 NOV 2001,1129,decathlon,combined-events,male,senior
-1834,8021,,Vitaliy SMIRNOV,25 OCT 1978,UZB,1,Manila (PHI),23 SEP 2003,1129,decathlon,combined-events,male,senior
-1834,8021,,Nikolay AVERYANOV,04 FEB 1980,RUS,15,"Olympic Stadium, Athina (GRE)",24 AUG 2004,1129,decathlon,combined-events,male,senior
-1834,8021,,Sven ROOSEN,27 JUL 2001,NED,10,"Olympiastadion, München (GER)",16 AUG 2022,1129,decathlon,combined-events,male,senior
-1834,8021,,Yuma MARUYAMA,03 JUN 1998,JPN,2,"Stadion Miejski, Nakło nad Notecią (POL)",01 SEP 2024,1129,decathlon,combined-events,male,senior
-1842,8020,,Derek HUFF,26 NOV 1966,USA,1,"Provo, UT (USA)",03 JUN 1989,1129,decathlon,combined-events,male,senior
-1842,8020,,André NIKLAUS,30 AUG 1981,GER,8,"Stade de France, Paris-St-Denis (FRA)",27 AUG 2003,1129,decathlon,combined-events,male,senior
-1842,8020,,Tomáš DVOŘÁK,11 MAY 1972,CZE,4,Kladno (CZE),20 JUN 2007,1129,decathlon,combined-events,male,senior
-1842,8020,,Nikolay SHUBENOK,04 MAY 1985,BLR,2,Tallinn (EST),08 JUL 2007,1129,decathlon,combined-events,male,senior
-1842,8020,,Andres RAJA,02 JUN 1982,EST,1,Rakvere (EST),19 AUG 2010,1129,decathlon,combined-events,male,senior
-1842,8020,,Kai KAZMIREK,28 JAN 1991,GER,2,"Stade Pierre Paul Bernard, Talence (FRA)",17 SEP 2017,1129,decathlon,combined-events,male,senior
-1842,8020,,Johannes ERM,26 MAR 1998,EST,3,"Athens, GA (USA)",07 APR 2018,1129,decathlon,combined-events,male,senior
-1842,8020,,Dario DESTER,22 JUL 2000,ITA,1,"Stadio Guidobaldi, Rieti (ITA)",26 JUN 2022,1129,decathlon,combined-events,male,senior
-1842,8020,,Sven ROOSEN,27 JUL 2001,NED,1,"Sportpark Orderbos, Apeldoorn (NED)",26 JUN 2022,1129,decathlon,combined-events,male,senior
-1842,8020,,Jente HAUTTEKEETE,14 MAR 2002,BEL,1,"Centro Gabre Gabric, Brescia (ITA)",28 APR 2024,1129,decathlon,combined-events,male,senior
-1842,8020,,Risto LILLEMETS,20 NOV 1997,EST,6,"Stade Pierre Paul Bernard, Talence (FRA)",06 JUL 2025,1129,decathlon,combined-events,male,senior
-1853,8019,,Attila ZSIVOCZKY-PANDEL,29 APR 1977,HUN,5,Praha (CZE),04 JUL 1999,1129,decathlon,combined-events,male,senior
-1853,8019,,Attila ZSIVOCZKY-PANDEL,29 APR 1977,HUN,10,"La Cartuja, Sevilla (ESP)",25 AUG 1999,1129,decathlon,combined-events,male,senior
-1853,8019,,Volodimir MIKHAYLENKO,27 AUG 1973,UKR,2,Beijing (CHN),31 AUG 2001,1129,decathlon,combined-events,male,senior
-1853,8019,,Haifeng QI,07 AUG 1983,CHN,3,Beijing (CHN),31 AUG 2001,1129,decathlon,combined-events,male,senior
-1853,8019,,Rolf SCHLÄFLI,15 MAR 1971,SUI,4,Götzis (AUT),01 JUN 2003,1129,decathlon,combined-events,male,senior
-1853,8019,,Felipe DOS SANTOS,30 JUL 1994,BRA,4,"CIBC, Toronto (CAN)",23 JUL 2015,1129,decathlon,combined-events,male,senior
-1853,8019,,Solomon SIMMONS,26 SEP 1993,USA,2,"Drake Stadium, Des Moines, IA (USA)",22 JUN 2018,1129,decathlon,combined-events,male,senior
-1853,8019,,Devon WILLIAMS,17 JAN 1994,USA,6,"Stade Pierre Paul Bernard, Talence (FRA)",15 SEP 2024,1129,decathlon,combined-events,male,senior
-1861,8018,,Robert ZMĚLÍK,18 APR 1969,CZE,13,Götzis (AUT),28 MAY 1995,1129,decathlon,combined-events,male,senior
-1861,8018,,David MEWES,07 OCT 1976,GER,8,Götzis (AUT),30 MAY 1999,1129,decathlon,combined-events,male,senior
-1861,8018,,Eelco SINTNICOLAAS,07 APR 1987,NED,8,"Stade Pierre Paul Bernard, Talence (FRA)",19 SEP 2010,1129,decathlon,combined-events,male,senior
-1861,8018,,Eelco SINTNICOLAAS,07 APR 1987,NED,3,"Stade Pierre Paul Bernard, Talence (FRA)",15 SEP 2013,1129,decathlon,combined-events,male,senior
-1861,8018,,Austin WEST,17 MAR 2000,USA,6,"Hayward Field, Eugene, OR (USA)",22 JUN 2024,1129,decathlon,combined-events,male,senior
-1866,8017,,Rob MUZZIO,25 JUN 1964,USA,13,"Stadio Olimpico, Roma (ITA)",04 SEP 1987,1129,decathlon,combined-events,male,senior
-1866,8017,,Philipp HUBER,18 FEB 1974,SUI,9,Götzis (AUT),01 JUN 1997,1129,decathlon,combined-events,male,senior
-1866,8017,,Kip JANVRIN,08 JUL 1965,USA,3,Aachen (GER),08 AUG 1999,1129,decathlon,combined-events,male,senior
-1866,8017,,Prodromos KORKIZOGLOU,27 FEB 1975,GRE,15,Götzis (AUT),04 JUN 2000,1129,decathlon,combined-events,male,senior
-1866,8017,,Attila ZSIVOCZKY-PANDEL,29 APR 1977,HUN,12,"Yanmar Stadium Nagai, Osaka (JPN)",01 SEP 2007,1129,decathlon,combined-events,male,senior
-1866,8017,,Maicel UIBO,27 DEC 1992,EST,5,"Eugene, OR (USA)",06 JUN 2013,1129,decathlon,combined-events,male,senior
-1866,8017,,Martin ROE,01 APR 1992,NOR,12,"Mösle-Stadium, Götzis (AUT)",27 MAY 2018,1129,decathlon,combined-events,male,senior
-1873,8016,,Aleksandr APAYCHEV,06 MAY 1961,URS,4,Götzis (AUT),25 MAY 1986,1129,decathlon,combined-events,male,senior
-1873,8016,,Petri KESKITALO,10 MAR 1967,FIN,4,Arles (FRA),05 JUL 1987,1129,decathlon,combined-events,male,senior
-1873,8016,,Marcel DOST,28 SEP 1969,NED,3,Oulu (FIN),29 JUN 1997,1129,decathlon,combined-events,male,senior
-1873,8016,,Aleksandr POGORELOV,10 JAN 1980,RUS,8,"Olympiastadion, München (GER)",08 AUG 2002,1129,decathlon,combined-events,male,senior
-1873,8016,,Oleksiy KASYANOV,26 AUG 1985,UKR,3,"Stade Pierre Paul Bernard, Talence (FRA)",17 SEP 2017,1129,decathlon,combined-events,male,senior
-1873,8016,,Martin ROE,01 APR 1992,NOR,4,"Antonio Domínguez Stadium, Arona (ESP)",13 JUN 2021,1129,decathlon,combined-events,male,senior
-1873,8016,,Vilém STRÁSKÝ,03 JUL 1999,CZE,13,"Mösle-Stadium, Götzis (AUT)",19 MAY 2024,1129,decathlon,combined-events,male,senior
-1880,8015,,Simon POELMAN,27 MAY 1963,NZL,3,Edinburgh (GBR),28 JUL 1986,1129,decathlon,combined-events,male,senior
-1880,8015,,Jiří RYBA,15 JUN 1976,CZE,3,"Stadio Tre Stelle, Desenzano del Garda (ITA)",09 MAY 1999,1129,decathlon,combined-events,male,senior
-1880,8015,,Steven BASTIEN,04 MAR 1994,USA,4,"Eugene, OR (USA)",08 JUN 2017,1129,decathlon,combined-events,male,senior
-1880,8015,,Artem LUKYANENKO,30 JAN 1990,RUS,1,Kazan (RUS),16 AUG 2018,1129,decathlon,combined-events,male,senior
-1880,8015,,Lucas VAN KLAVEREN,11 NOV 1999,NED,4,"Hayward Field, Eugene, OR (USA)",09 JUN 2022,1129,decathlon,combined-events,male,senior
-1880,8015,,Kendrick THOMPSON,28 AUG 1997,BAH,4,"Hilmer Lodge Stadium, Walnut, CA (USA)",13 APR 2023,1129,decathlon,combined-events,male,senior
-1886,8014,,Willem COERTZEN,30 DEC 1982,RSA,1,Durban (RSA),10 APR 2011,1128,decathlon,combined-events,male,senior
-1886,8014,,Larbi BOURRADA,10 MAY 1988,ALG,3,Reims (FRA),12 JUL 2014,1128,decathlon,combined-events,male,senior
-1888,8013,,Frank MÜLLER,18 JUN 1968,GER,14,Götzis (AUT),28 MAY 1995,1128,decathlon,combined-events,male,senior
-1888,8013,,Andrei KRAUCHANKA,04 JAN 1986,BLR,11,"Mösle-Stadium, Götzis (AUT)",28 MAY 2006,1128,decathlon,combined-events,male,senior
-1888,8013,,Yordani GARCÍA,21 NOV 1988,CUB,1,La Habana (CUB),24 MAY 2007,1128,decathlon,combined-events,male,senior
-1888,8013,,Vitaliy SMIRNOV,25 OCT 1978,UZB,1f,Tashkent (UZB),17 JUL 2008,1128,decathlon,combined-events,male,senior
-1888,8013,,Yunior DIAZ,28 APR 1987,CUB,2,La Habana (CUB),04 JUL 2009,1128,decathlon,combined-events,male,senior
-1888,8013,,Romain MARTIN,12 JUL 1988,FRA,6,"Eugene, OR (USA)",06 JUN 2013,1128,decathlon,combined-events,male,senior
-1888,8013,,Arthur ABELE,30 JUL 1986,GER,15,"Estádio Olímpico, Rio de Janeiro (BRA)",18 AUG 2016,1128,decathlon,combined-events,male,senior
-1895,8012,,Petri KESKITALO,10 MAR 1967,FIN,4,Götzis (AUT),17 JUN 1990,1128,decathlon,combined-events,male,senior
-1895,8012,,Stefan SCHMID,06 MAY 1970,GER,11,Götzis (AUT),31 MAY 1992,1128,decathlon,combined-events,male,senior
-1895,8012,,Arthur ABELE,30 JUL 1986,GER,1,Filderstadt (GER),28 MAY 2006,1128,decathlon,combined-events,male,senior
-1895,8012,,Florian OBST,24 FEB 1993,GER,6,"Stadionring, Ratingen (GER)",17 JUN 2018,1128,decathlon,combined-events,male,senior
-1895,8012,,Marcel MEYER,01 JAN 2001,GER,3,"Enwag-Stadion, Wetzlar (GER)",21 JUL 2024,1128,decathlon,combined-events,male,senior
-1895,8012,,Risto LILLEMETS,20 NOV 1997,EST,3,"Stadion Miejski, Nakło nad Notecią (POL)",01 SEP 2024,1128,decathlon,combined-events,male,senior
-1901,8011,,Beat GÄHWILER,26 JAN 1965,SUI,11,"National Stadium, Tokyo (JPN)",30 AUG 1991,1128,decathlon,combined-events,male,senior
-1901,8011,,Stefan SCHMID,06 MAY 1970,GER,14,"Népstadion, Budapest (HUN)",20 AUG 1998,1128,decathlon,combined-events,male,senior
-1901,8011,,Jon Ryan HARLAN,25 APR 1981,USA,2,"Hayward Field, Eugene, OR (USA)",24 JUN 2011,1128,decathlon,combined-events,male,senior
-1901,8011,,Curtis BEACH,22 JUL 1990,USA,1,"Austin, TX (USA)",28 MAR 2013,1128,decathlon,combined-events,male,senior
-1901,8011,,Jack TURNER,11 JUL 2001,GBR,1,"Soccer Stadium - North Texas University, Denton, TX (USA)",12 MAY 2023,1128,decathlon,combined-events,male,senior
-1906,8010,,Stephen MOORE,13 AUG 1975,USA,4,"Palo Alto, CA (USA)",22 JUN 2003,1128,decathlon,combined-events,male,senior
-1906,8010,,Jangy ADDY,02 MAR 1985,USA,1,"Auburn, AL (USA)",16 MAY 2008,1128,decathlon,combined-events,male,senior
-1906,8010,,Chris HELWICK,18 MAR 1985,USA,7,"Eugene, OR (USA)",30 JUN 2008,1128,decathlon,combined-events,male,senior
-1906,8010,,Romain BARRAS,01 AUG 1980,FRA,7,Kladno (CZE),16 JUN 2011,1128,decathlon,combined-events,male,senior
-1906,8010,,Fredrik SAMUELSSON,16 FEB 1995,SWE,2,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",16 JUL 2017,1128,decathlon,combined-events,male,senior
-1906,8010,,Yevgeniy SARANTSEV,05 FEB 1988,RUS,1,"Adler, Sochi (RUS)",03 SEP 2017,1128,decathlon,combined-events,male,senior
-1906,8010,,Harrison WILLIAMS,07 MAR 1996,USA,2,"Austin, TX (USA)",06 JUN 2019,1128,decathlon,combined-events,male,senior
-1906,8010,,Rasmus ROOSLEHT,25 JUL 2002,EST,5,"Leppävaaran Stadion, Espoo (FIN)",16 JUL 2023,1128,decathlon,combined-events,male,senior
-1914,8009,,Michael NOLAN,22 SEP 1973,CAN,10,Götzis (AUT),01 JUN 1997,1128,decathlon,combined-events,male,senior
-1914,8009,,Ingmar VOS,28 MAY 1986,NED,19,"Olympiastadion, Berlin (GER)",20 AUG 2009,1128,decathlon,combined-events,male,senior
-1914,8009,,Mathias BRUGGER,06 AUG 1992,GER,2,"Bernhausen, Filderstadt (GER)",09 AUG 2015,1128,decathlon,combined-events,male,senior
-1914,8009,,Rene STAUSS,17 SEP 1987,GER,2,Düsseldorf (GER),30 JUL 2017,1128,decathlon,combined-events,male,senior
-1914,8009,,Oleksiy KASYANOV,26 AUG 1985,UKR,,Tashkent (UZB),29 MAY 2021,1128,decathlon,combined-events,male,senior
-1914,8009,,Cedric DUBLER,13 JAN 1995,AUS,14,"Mösle-Stadium, Götzis (AUT)",28 MAY 2023,1128,decathlon,combined-events,male,senior
-1914,8009,,Kendrick THOMPSON,28 AUG 1997,BAH,3,"Hilmer Lodge Stadium, Walnut, CA (USA)",17 APR 2025,1128,decathlon,combined-events,male,senior
-1921,8008,,Beat GÄHWILER,26 JAN 1965,SUI,5,Tønsberg (NOR),16 JUL 1989,1127,decathlon,combined-events,male,senior
-1921,8008,,Stephen MOORE,13 AUG 1975,USA,7,Götzis (AUT),02 JUN 2002,1127,decathlon,combined-events,male,senior
-1921,8008,,Romain BARRAS,01 AUG 1980,FRA,1,"Bressanone, Trentino-Alto Adige (ITA)",06 JUL 2003,1127,decathlon,combined-events,male,senior
-1921,8008,,Bastien AUZEIL,22 OCT 1989,FRA,3,Cannes (FRA),13 MAY 2012,1127,decathlon,combined-events,male,senior
-1921,8008,,Steven BASTIEN,04 MAR 1994,USA,1,"Westmont Track/Thorrington Field, Santa Barbara, CA (USA)",26 MAR 2021,1127,decathlon,combined-events,male,senior
-1921,8008,,Keisuke OKUDA,23 OCT 1996,JPN,1,"Chukyo Univ. Stadium, Toyota (JPN)",09 OCT 2022,1127,decathlon,combined-events,male,senior
-1927,8007,,Douglas PIRINI,06 SEP 1969,NZL,4,Kuala Lumpur (MAS),18 SEP 1998,1127,decathlon,combined-events,male,senior
-1927,8007,,Aleksandr SHTEPA,15 MAY 1979,RUS,1,Krasnodar (RUS),25 MAY 2002,1127,decathlon,combined-events,male,senior
-1927,8007,,Romain BARRAS,01 AUG 1980,FRA,3,Aubagne (FRA),05 JUL 2015,1127,decathlon,combined-events,male,senior
-1927,8007,,Romain BARRAS,01 AUG 1980,FRA,1,Perpignan (FRA),05 JUN 2016,1127,decathlon,combined-events,male,senior
-1927,8007,,Thomas VAN DER PLAETSEN,24 DEC 1990,BEL,13,"Mösle-Stadium, Götzis (AUT)",27 MAY 2018,1127,decathlon,combined-events,male,senior
-1927,8007,,Maksim ANDRALOITS,17 JUN 1997,BLR,1,"Dinamo National Olympic Stadium, Minsk (BLR)",26 JUN 2021,1127,decathlon,combined-events,male,senior
-1927,8007,,José Fernando FERREIRA,27 MAR 1999,BRA,1,"Municipal Stadium, Naxos (GRE)",18 MAY 2023,1127,decathlon,combined-events,male,senior
-1934,8006,,William MOTTI,25 JUL 1964,FRA,2,Arles (FRA),18 MAY 1986,1127,decathlon,combined-events,male,senior
-1934,8006,,Michael KOHNLE,03 MAY 1970,GER,9,Götzis (AUT),30 MAY 1993,1127,decathlon,combined-events,male,senior
-1934,8006,,Jan PODĚBRADSKÝ,01 MAR 1974,CZE,7,Lage (GER),15 JUN 1996,1127,decathlon,combined-events,male,senior
-1934,8006,,Jaakko OJANIEMI,28 AUG 1980,FIN,16,"Olympic Stadium, Athina (GRE)",24 AUG 2004,1127,decathlon,combined-events,male,senior
-1934,8006,,Zachery ZIEMEK,23 FEB 1993,USA,15,"National Stadium, Beijing (CHN)",29 AUG 2015,1127,decathlon,combined-events,male,senior
-1934,8006,,Pau TONNESEN,24 OCT 1992,ESP,14,"Olympic Stadium, London (GBR)",12 AUG 2017,1127,decathlon,combined-events,male,senior
-1940,8005,,Beat GÄHWILER,26 JAN 1965,SUI,8,Basel (SUI),05 JUL 1987,1127,decathlon,combined-events,male,senior
-1940,8005,,Álvaro BURRELL,29 APR 1969,ESP,4,Alhama de Murcia (ESP),24 MAY 1992,1127,decathlon,combined-events,male,senior
-1940,8005,,Ramil GANIYEV,23 SEP 1968,UZB,1,Hiroshima (JPN),15 OCT 1994,1127,decathlon,combined-events,male,senior
-1940,8005,,Yordani GARCÍA,21 NOV 1988,CUB,2,"Stadionring, Ratingen (GER)",15 JUN 2012,1127,decathlon,combined-events,male,senior
-1940,8005,,Florian OBST,24 FEB 1993,GER,1,"Charlotte, NC (USA)",25 MAY 2018,1127,decathlon,combined-events,male,senior
-1940,8005,,Fredrik SAMUELSSON,16 FEB 1995,SWE,9,"Olympiastadion, Berlin (GER)",08 AUG 2018,1127,decathlon,combined-events,male,senior
-1940,8005,,Steven BASTIEN,04 MAR 1994,USA,5,"Stade Pierre Paul Bernard, Talence (FRA)",18 SEP 2022,1127,decathlon,combined-events,male,senior
-1940,8005,,Fred Isaac FLEURISSON,17 JUL 2003,GER,1,"Fleinsbachstadion, Bernhausen, Filderstadt (GER)",22 JUN 2025,1127,decathlon,combined-events,male,senior
-1948,8004,,Henrik DAGÅRD,07 AUG 1969,SWE,5,Götzis (AUT),17 JUN 1990,1127,decathlon,combined-events,male,senior
-1948,8004,,Mike MACZEY,28 SEP 1972,GER,2,"Stadionring, Ratingen (GER)",23 JUL 2000,1127,decathlon,combined-events,male,senior
-1948,8004,,Benjamin JENSEN,13 APR 1975,NOR,10,Götzis (AUT),27 MAY 2001,1127,decathlon,combined-events,male,senior
-1948,8004,,Laurent HERNU,22 AUG 1976,FRA,7,Talence (FRA),26 SEP 2004,1127,decathlon,combined-events,male,senior
-1948,8004,,Robert Jacob ARNOLD,03 JAN 1984,USA,13,"Yanmar Stadium Nagai, Osaka (JPN)",01 SEP 2007,1127,decathlon,combined-events,male,senior
-1948,8004,,Moritz CLEVE,18 FEB 1987,GER,1,"Lubbock, TX (USA)",16 MAY 2009,1127,decathlon,combined-events,male,senior
-1948,8004,,Mikhail LOGVINENKO,19 APR 1984,RUS,3,Cheboksary (RUS),10 JUN 2011,1127,decathlon,combined-events,male,senior
-1948,8004,,Eduard MIKHAN,07 JUN 1989,BLR,2,Toruń (POL),06 JUL 2014,1127,decathlon,combined-events,male,senior
-1948,8004,,Andy PRECIADO,12 OCT 1997,ECU,1,"Estadio Alberto Spencer Herrera, Guayaquil (ECU)",31 MAY 2021,1127,decathlon,combined-events,male,senior
-1948,8004,,Adam Sebastian HELCELET,27 OCT 1991,CZE,16,"National Stadium, Tokyo (JPN)",05 AUG 2021,1127,decathlon,combined-events,male,senior
-1948,8004,,Felipe DOS SANTOS,30 JUL 1994,BRA,1,Bragança Paulista (BRA),10 APR 2022,1127,decathlon,combined-events,male,senior
-1959,8003,,Mikk PAHAPILL,18 JUL 1983,EST,12,"Olympiastadion, Helsinki (FIN)",10 AUG 2005,1127,decathlon,combined-events,male,senior
-1959,8003,,Ingmar VOS,28 MAY 1986,NED,13,"Mösle-Stadium, Götzis (AUT)",31 MAY 2009,1127,decathlon,combined-events,male,senior
-1959,8003,,Michael SCHRADER,01 JUL 1987,GER,1,Potsdam (GER),27 AUG 2010,1127,decathlon,combined-events,male,senior
-1959,8003,,Norman MÜLLER,07 AUG 1985,GER,7,"Olympiastadion, Helsinki (FIN)",28 JUN 2012,1127,decathlon,combined-events,male,senior
-1959,8003,,Attila SZABÓ,16 JUL 1984,HUN,1,Budapest (HUN),03 JUL 2012,1127,decathlon,combined-events,male,senior
-1964,8002,,Petri KESKITALO,10 MAR 1967,FIN,3,Stoke-on-Trent (GBR),07 JUL 1991,1127,decathlon,combined-events,male,senior
-1964,8002,,Zsolt KÜRTÖSI,21 MAR 1971,HUN,13,Götzis (AUT),31 MAY 1998,1127,decathlon,combined-events,male,senior
-1964,8002,,Klaus ISEKENMEIER,14 APR 1975,GER,3,"Stadionring, Ratingen (GER)",23 JUL 2000,1127,decathlon,combined-events,male,senior
-1964,8002,,Mikk PAHAPILL,18 JUL 1983,EST,12,"Mösle-Stadium, Götzis (AUT)",28 MAY 2006,1127,decathlon,combined-events,male,senior
-1964,8002,,Romain BARRAS,01 AUG 1980,FRA,6,"Olympisch Stadion, Amsterdam (NED)",07 JUL 2016,1127,decathlon,combined-events,male,senior
-1964,8002,,Fredriech PRETORIUS,04 AUG 1995,RSA,1,Pretoria (RSA),18 MAR 2017,1127,decathlon,combined-events,male,senior
-1964,8002,,Paweł WIESIOŁEK,13 AUG 1991,POL,15,"Mösle-Stadium, Götzis (AUT)",28 MAY 2017,1127,decathlon,combined-events,male,senior
-1964,8002,,Alec DIAMOND,09 AUG 1997,AUS,2,"SOPAC, Sydney (AUS)",02 APR 2022,1127,decathlon,combined-events,male,senior
-1964,8002,,Daniel GOLUBOVIC,29 NOV 1993,AUS,2,"HFC Bank Stadium, Suva (FIJ)",03 JUN 2024,1127,decathlon,combined-events,male,senior
-1964,8002,,Jonathan HERTWIG-ØDEGAARD,28 JUL 2005,NOR,4,"Fana Stadion, Bergen (NOR)",18 JUL 2025,1127,decathlon,combined-events,male,senior
-1974,8001,,Erki NOOL,25 JUN 1970,EST,1,Tartu (EST),18 JUN 1992,1126,decathlon,combined-events,male,senior
-1974,8001,,Indrek KASEORG,16 DEC 1967,EST,1,Kuressaare (EST),24 JUL 1999,1126,decathlon,combined-events,male,senior
-1974,8001,,Jason DUDLEY,10 NOV 1984,AUS,3,Melbourne (AUS),21 MAR 2006,1126,decathlon,combined-events,male,senior
-1974,8001,,Eugène MARTINEAU,14 MAY 1980,NED,2,Yalta (UKR),02 JUL 2006,1126,decathlon,combined-events,male,senior
-1974,8001,,Dakotah KEYS,27 SEP 1991,USA,1,"Los Angeles, CA (USA)",05 MAY 2013,1126,decathlon,combined-events,male,senior
-1974,8001,,Adam Sebastian HELCELET,27 OCT 1991,CZE,9,"Mösle-Stadium, Götzis (AUT)",01 JUN 2014,1126,decathlon,combined-events,male,senior
-1974,8001,,Romain BARRAS,01 AUG 1980,FRA,1,Lunel (FRA),07 JUN 2015,1126,decathlon,combined-events,male,senior
-1981,8000,,Michael KOHNLE,03 MAY 1970,GER,12,"National Stadium, Tokyo (JPN)",30 AUG 1991,1126,decathlon,combined-events,male,senior
-1981,8000,,Petri KESKITALO,10 MAR 1967,FIN,11,"Gottlieb-Daimler Stadion, Stuttgart (GER)",20 AUG 1993,1126,decathlon,combined-events,male,senior
-1981,8000,,Francisco Javier BENET,25 MAR 1968,ESP,2,"Bressanone, Trentino-Alto Adige (ITA)",05 JUL 1998,1126,decathlon,combined-events,male,senior
-1981,8000,,Philipp IBE,05 MAY 1975,GER,4,Aachen (GER),08 AUG 1999,1126,decathlon,combined-events,male,senior
-1981,8000,,Claston BERNARD,22 MAR 1979,JAM,9,"Stade de France, Paris-St-Denis (FRA)",27 AUG 2003,1126,decathlon,combined-events,male,senior
-1981,8000,,Attila ZSIVOCZKY-PANDEL,29 APR 1977,HUN,7,"Stade Pierre Paul Bernard, Talence (FRA)",18 SEP 2005,1126,decathlon,combined-events,male,senior
-1981,8000,,Niels PITTOMVILS,18 JUL 1992,BEL,1,Ribeira Brava (POR),06 JUL 2014,1126,decathlon,combined-events,male,senior
-1981,8000,,Alec DIAMOND,09 AUG 1997,AUS,2,"Sports Reserve, Townsville (AUS)",19 JUN 2021,1126,decathlon,combined-events,male,senior
-1981,8000,,Adam Sebastian HELCELET,27 OCT 1991,CZE,11,"Olympiastadion, München (GER)",16 AUG 2022,1126,decathlon,combined-events,male,senior
-1981,8000,,Maksim ANDRALOITS,17 JUN 1997,BLR,1,"Regional Sport Complex, Brest (BLR)",02 JUL 2023,1126,decathlon,combined-events,male,senior
-1981,8000,,Jaden ROSKELLEY,22 NOV 2002,USA,1,"Clarence F. Robison Track, Provo, UT (USA)",01 MAY 2025,1126,decathlon,combined-events,male,senior
+1473,8080,,Maksim ANDRALOITS,17 JUN 1997,BLR,,"Central Stadium, Kazan (RUS)",08 AUG 2025,1139,decathlon,combined-events,male,senior
+1479,8079,,Rainer SONNENBURG,20 OCT 1960,FRG,11,Götzis (AUT),19 JUN 1988,1138,decathlon,combined-events,male,senior
+1479,8079,,Phil MCMULLEN,03 FEB 1975,USA,15,"Commonwealth Stadium, Edmonton (CAN)",07 AUG 2001,1138,decathlon,combined-events,male,senior
+1479,8079,,Jeff TESSELAAR,03 MAY 2003,NED,12,"Stadio Olimpico, Roma (ITA)",11 JUN 2024,1138,decathlon,combined-events,male,senior
+1479,8079,,Kendrick THOMPSON,28 AUG 1997,BAH,15,"Mösle-Stadium, Götzis (AUT)",01 JUN 2025,1138,decathlon,combined-events,male,senior
+1483,8078,,Tomáš DVOŘÁK,11 MAY 1972,CZE,6,Götzis (AUT),29 MAY 1994,1138,decathlon,combined-events,male,senior
+1483,8078,,Alexander KRUGER,18 NOV 1963,GBR,7,Götzis (AUT),29 MAY 1994,1138,decathlon,combined-events,male,senior
+1483,8078,,Maurice SMITH,28 SEP 1980,JAM,1,Kingston (JAM),28 MAY 2011,1138,decathlon,combined-events,male,senior
+1483,8078,,Florian GEFFROUAIS,05 DEC 1988,FRA,1,Aubagne (FRA),28 MAY 2012,1138,decathlon,combined-events,male,senior
+1487,8077,,Florian SCHÖNBECK,13 JAN 1974,GER,12,"Olympic Stadium, Athina (GRE)",24 AUG 2004,1138,decathlon,combined-events,male,senior
+1487,8077,,Mikk PAHAPILL,18 JUL 1983,EST,1,"Stade Pierre Paul Bernard, Talence (FRA)",21 SEP 2014,1138,decathlon,combined-events,male,senior
+1487,8077,,Oleksiy KASYANOV,26 AUG 1985,UKR,1,"Stade Pierre Paul Bernard, Talence (FRA)",18 SEP 2016,1138,decathlon,combined-events,male,senior
+1487,8077,,Artyom MAKARENKO,23 APR 1997,ANA,2,"Olympic Stadium, Cheboksary (RUS)",03 AUG 2022,1138,decathlon,combined-events,male,senior
+1491,8076,,Beat GÄHWILER,26 JAN 1965,SUI,6,Helmond (NED),07 JUL 1991,1138,decathlon,combined-events,male,senior
+1491,8076,,Gernot KELLERMAYR,05 APR 1966,AUT,11,"Estadio Olímpico, Barcelona (ESP)",06 AUG 1992,1138,decathlon,combined-events,male,senior
+1491,8076,,Petri KESKITALO,10 MAR 1967,FIN,4,Oulu (FIN),11 JUL 1993,1138,decathlon,combined-events,male,senior
+1491,8076,,Roman ŠEBRLE,26 NOV 1974,CZE,2,Kladno (CZE),19 JUN 2008,1138,decathlon,combined-events,male,senior
+1495,8075,,Vitaliy KOLPAKOV,02 FEB 1972,UKR,5,Oulu (FIN),11 JUL 1993,1138,decathlon,combined-events,male,senior
+1495,8075,,Michael KOHNLE,03 MAY 1970,GER,9,"Gottlieb-Daimler Stadion, Stuttgart (GER)",20 AUG 1993,1138,decathlon,combined-events,male,senior
+1495,8075,,Chad SMITH,09 JAN 1974,USA,4,"Eugene, OR (USA)",22 JUN 2001,1138,decathlon,combined-events,male,senior
+1495,8075,,Norman MÜLLER,07 AUG 1985,GER,4,"Stade Pierre Paul Bernard, Talence (FRA)",14 SEP 2008,1138,decathlon,combined-events,male,senior
+1495,8075,,Ashton EATON,21 JAN 1988,USA,2,"Eugene, OR (USA)",26 JUN 2009,1138,decathlon,combined-events,male,senior
+1495,8075,,Adam Sebastian HELCELET,27 OCT 1991,CZE,4,"Mösle-Stadium, Götzis (AUT)",26 MAY 2013,1138,decathlon,combined-events,male,senior
+1495,8075,,Jente HAUTTEKEETE,14 MAR 2002,BEL,12,"Mösle-Stadium, Götzis (AUT)",28 MAY 2023,1138,decathlon,combined-events,male,senior
+1495,8075,,Tim NOWAK,13 AUG 1995,GER,6,"Stadionring, Ratingen (GER)",18 JUN 2023,1138,decathlon,combined-events,male,senior
+1495,8075,,Jorge UREÑA,08 OCT 1993,ESP,1,"Estadi Natalia Rodríguez, Tarragona (ESP)",02 AUG 2025,1138,decathlon,combined-events,male,senior
+1504,8074,,Peter WINTER,17 JAN 1971,AUS,2,Victoria (CAN),24 AUG 1994,1138,decathlon,combined-events,male,senior
+1504,8074,,André NIKLAUS,30 AUG 1981,GER,7,"Mösle-Stadium, Götzis (AUT)",29 MAY 2005,1138,decathlon,combined-events,male,senior
+1504,8074,,Maurice SMITH,28 SEP 1980,JAM,2,Melbourne (AUS),21 MAR 2006,1138,decathlon,combined-events,male,senior
+1504,8074,,Yordani GARCÍA,21 NOV 1988,CUB,3,Guadalajara (MEX),25 OCT 2011,1138,decathlon,combined-events,male,senior
+1504,8074,,Ondřej KOPECKÝ,16 MAY 1998,CZE,1,"Atletický stadion Slavia Praha, Praha (CZE)",13 AUG 2023,1138,decathlon,combined-events,male,senior
+1504,8074,,Denim ROGERS,08 FEB 1998,USA,2,"Enwag-Stadion, Wetzlar (GER)",21 JUL 2024,1138,decathlon,combined-events,male,senior
+1510,8073,,Fedor LAUKHIN,13 FEB 1974,UKR,1,Kyiv (UKR),28 JUL 2000,1138,decathlon,combined-events,male,senior
+1510,8073,,Pelle RIETVELD,04 FEB 1985,NED,3,Kladno (CZE),10 JUN 2012,1138,decathlon,combined-events,male,senior
+1510,8073,,Florian GEFFROUAIS,05 DEC 1988,FRA,2,Angers (FRA),25 JUN 2016,1138,decathlon,combined-events,male,senior
+1510,8073,,Jorge UREÑA,08 OCT 1993,ESP,3,Lutsk (UKR),07 JUL 2019,1138,decathlon,combined-events,male,senior
+1510,8073,,Mathias BRUGGER,06 AUG 1992,GER,12,"Mösle-Stadium, Götzis (AUT)",30 MAY 2021,1138,decathlon,combined-events,male,senior
+1510,8073,,Jorge UREÑA,08 OCT 1993,ESP,1,"Polideportivo Juan de la Cierva, Getafe (ESP)",26 JUN 2021,1138,decathlon,combined-events,male,senior
+1516,8072,,Andrei NAZAROV,09 JAN 1965,URS,8,"Poljud Stadion, Split (CRO)",29 AUG 1990,1137,decathlon,combined-events,male,senior
+1516,8072,,Aleksandr POGORELOV,10 JAN 1980,RUS,1,Arles (FRA),08 JUN 2003,1137,decathlon,combined-events,male,senior
+1516,8072,,Hans VAN ALPHEN,12 JAN 1982,BEL,5,"Estadio Olímpico, Barcelona (ESP)",29 JUL 2010,1137,decathlon,combined-events,male,senior
+1516,8072,,Oleksiy KASYANOV,26 AUG 1985,UKR,4,"Olympisch Stadion, Amsterdam (NED)",07 JUL 2016,1137,decathlon,combined-events,male,senior
+1520,8071,,Viktor RADCHENKO,11 MAY 1968,EUN,12,"Estadio Olímpico, Barcelona (ESP)",06 AUG 1992,1137,decathlon,combined-events,male,senior
+1520,8071,,Sándor MUNKÁCSY,24 JUL 1969,HUN,6,"Olympiastadion, Helsinki (FIN)",13 AUG 1994,1137,decathlon,combined-events,male,senior
+1520,8071,,Lev LOBODIN,01 APR 1969,RUS,13,"Olympic Stadium, Sydney (AUS)",28 SEP 2000,1137,decathlon,combined-events,male,senior
+1520,8071,,Eduard HÄMÄLÄINEN,21 JAN 1969,FIN,4,Arles (FRA),01 JUL 2001,1137,decathlon,combined-events,male,senior
+1520,8071,,Maicel UIBO,27 DEC 1992,EST,2,"Stade Pierre Paul Bernard, Talence (FRA)",18 SEP 2016,1137,decathlon,combined-events,male,senior
+1520,8071,,Daniel GOLUBOVIC,29 NOV 1993,AUS,14,"Hayward Field, Eugene, OR (USA)",24 JUL 2022,1137,decathlon,combined-events,male,senior
+1526,8070,,Dan STEELE,20 MAR 1969,USA,2,Winnipeg (CAN),25 JUL 1999,1137,decathlon,combined-events,male,senior
+1526,8070,,Hans VAN ALPHEN,12 JAN 1982,BEL,4,"Stade Pierre Paul Bernard, Talence (FRA)",20 SEP 2009,1137,decathlon,combined-events,male,senior
+1526,8070,,Jamie ADJETEY-NELSON,20 MAY 1984,CAN,1,New Delhi (IND),08 OCT 2010,1137,decathlon,combined-events,male,senior
+1526,8070,,Aleksandr TABALA,23 MAY 1986,RUS,3,"Adler, Sochi (RUS)",08 MAY 2012,1137,decathlon,combined-events,male,senior
+1526,8070,,Ashley BRYANT,17 MAY 1991,GBR,4,"Ratinan Stadion, Tampere (FIN)",12 JUL 2013,1137,decathlon,combined-events,male,senior
+1526,8070,,Kurt FELIX,04 JUL 1988,GRN,3,"Hampden Park, Glasgow (GBR)",29 JUL 2014,1137,decathlon,combined-events,male,senior
+1526,8070,,Luiz Alberto DE ARAUJO,27 JUN 1987,BRA,1,Sao Bernardo do Campo (BRA),02 JUL 2016,1137,decathlon,combined-events,male,senior
+1526,8070,,Fredrik SAMUELSSON,16 FEB 1995,SWE,2,"Stadio Tre Stelle, Desenzano del Garda (ITA)",30 APR 2023,1137,decathlon,combined-events,male,senior
+1534,8069,,Thorsten DAUTH,11 MAR 1968,GER,10,"National Stadium, Tokyo (JPN)",30 AUG 1991,1137,decathlon,combined-events,male,senior
+1534,8069,,Prodromos KORKIZOGLOU,27 FEB 1975,GRE,1,Ibach (SUI),02 JUL 2000,1137,decathlon,combined-events,male,senior
+1534,8069,,Raúl DUANY BUENO,04 JAN 1975,CUB,1,Beijing (CHN),31 AUG 2001,1137,decathlon,combined-events,male,senior
+1534,8069,,Pascal BEHRENBRUCH,19 JAN 1985,GER,10,"Mösle-Stadium, Götzis (AUT)",28 MAY 2006,1137,decathlon,combined-events,male,senior
+1534,8069,,Robert Jacob ARNOLD,03 JAN 1984,USA,10,"Mösle-Stadium, Götzis (AUT)",31 MAY 2009,1137,decathlon,combined-events,male,senior
+1534,8069,,Pascal BEHRENBRUCH,19 JAN 1985,GER,8,"Mösle-Stadium, Götzis (AUT)",30 MAY 2010,1137,decathlon,combined-events,male,senior
+1534,8069,,Thomas VAN DER PLAETSEN,24 DEC 1990,BEL,13,"DS, Daegu (KOR)",28 AUG 2011,1137,decathlon,combined-events,male,senior
+1534,8069,,Roman ŠEBRLE,26 NOV 1974,CZE,14,"DS, Daegu (KOR)",28 AUG 2011,1137,decathlon,combined-events,male,senior
+1542,8068,,Tomáš DVOŘÁK,11 MAY 1972,CZE,8,"Olympiastadion, Helsinki (FIN)",10 AUG 2005,1137,decathlon,combined-events,male,senior
+1542,8068,,Aleksey SYSOYEV,08 MAR 1985,RUS,10,"Ullevi Stadium, Göteborg (SWE)",11 AUG 2006,1137,decathlon,combined-events,male,senior
+1542,8068,,Carlos Eduardo BEZERRA CHININ,03 MAY 1985,BRA,5,Kladno (CZE),16 JUN 2011,1137,decathlon,combined-events,male,senior
+1542,8068,,Dakotah KEYS,27 SEP 1991,USA,3,"Eugene, OR (USA)",12 JUN 2014,1137,decathlon,combined-events,male,senior
+1542,8068,,Yordani GARCÍA,21 NOV 1988,CUB,2,La Habana (CUB),18 MAR 2016,1137,decathlon,combined-events,male,senior
+1542,8068,,Felix WOLTER,04 OCT 1997,GER,1,"Stadion Miejski, Nakło nad Notecią (POL)",01 SEP 2024,1137,decathlon,combined-events,male,senior
+1548,8067,,Sebastian CHMARA,21 NOV 1971,POL,1f,"Bressanone, Trentino-Alto Adige (ITA)",05 JUL 1998,1137,decathlon,combined-events,male,senior
+1548,8067,,Roland SCHWARZL,10 DEC 1980,AUT,11,Götzis (AUT),30 MAY 2004,1137,decathlon,combined-events,male,senior
+1548,8067,,Romain BARRAS,01 AUG 1980,FRA,13,"Olympic Stadium, Athina (GRE)",24 AUG 2004,1137,decathlon,combined-events,male,senior
+1548,8067,,Erki NOOL,25 JUN 1970,EST,4,Talence (FRA),26 SEP 2004,1137,decathlon,combined-events,male,senior
+1548,8067,,Roman ŠEBRLE,26 NOV 1974,CZE,4,"Stade Pierre Paul Bernard, Talence (FRA)",23 SEP 2007,1137,decathlon,combined-events,male,senior
+1548,8067,,Yordani GARCÍA,21 NOV 1988,CUB,6,Kladno (CZE),16 JUN 2011,1137,decathlon,combined-events,male,senior
+1548,8067,,Isaac MURPHY,10 MAY 1990,USA,1,"Austin, TX (USA)",29 MAR 2012,1137,decathlon,combined-events,male,senior
+1548,8067,,Artem LUKYANENKO,30 JAN 1990,RUS,4,"Kadrioru staadion, Tallinn (EST)",30 JUN 2013,1137,decathlon,combined-events,male,senior
+1548,8067,,Jan DOLEŽAL,06 JUN 1996,CZE,8,"Olympiastadion, Berlin (GER)",08 AUG 2018,1137,decathlon,combined-events,male,senior
+1548,8067,,Manuel EITEL,28 JAN 1997,GER,3,"Gunder Hägg Stadion, Gävle (SWE)",14 JUL 2019,1137,decathlon,combined-events,male,senior
+1548,8067,,Maicel UIBO,27 DEC 1992,EST,7,"Mösle-Stadium, Götzis (AUT)",29 MAY 2022,1137,decathlon,combined-events,male,senior
+1548,8067,,Lewis CHURCH,27 SEP 1996,GBR,1,"Centro Gabre Gabric, Brescia (ITA)",27 APR 2025,1137,decathlon,combined-events,male,senior
+1560,8066,,Frank MÜLLER,18 JUN 1968,GER,13,"Estadio Olímpico, Barcelona (ESP)",06 AUG 1992,1136,decathlon,combined-events,male,senior
+1560,8066,,Valeriy BELOUSOV,22 JAN 1970,RUS,2,Krasnodar (RUS),21 MAY 1997,1136,decathlon,combined-events,male,senior
+1560,8066,,Mike MACZEY,28 SEP 1972,GER,7,"Stadionring, Ratingen (GER)",16 JUN 2002,1136,decathlon,combined-events,male,senior
+1560,8066,,Vasiliy KHARLAMOV,08 JAN 1986,RUS,2,Cheboksary (RUS),10 JUN 2011,1136,decathlon,combined-events,male,senior
+1560,8066,,Tim EHRHARDT,16 MAR 1995,USA,3f4,"Azusa, CA (USA)",18 APR 2019,1136,decathlon,combined-events,male,senior
+1565,8065,,Tomáš DVOŘÁK,11 MAY 1972,CZE,7,"Olympiastadion, Helsinki (FIN)",13 AUG 1994,1136,decathlon,combined-events,male,senior
+1565,8065,,Dmitriy IVANOV,23 MAR 1977,RUS,1,St. Petersburg (RUS),10 JUN 2001,1136,decathlon,combined-events,male,senior
+1565,8065,,Vasiliy KHARLAMOV,08 JAN 1986,RUS,16,"Olympiastadion, Berlin (GER)",20 AUG 2009,1136,decathlon,combined-events,male,senior
+1565,8065,,Gonzalo BARROILHET,13 AUG 1986,CHI,1,"Charlottesville, VA (USA)",20 APR 2012,1136,decathlon,combined-events,male,senior
+1565,8065,,Edgaras BENKUNSKAS,28 MAY 1999,LTU,1,"Palangos Stadionas, Palanga (LTU)",29 JUN 2024,1136,decathlon,combined-events,male,senior
+1570,8064,,Sheldon BLOCKBURGER,19 SEP 1964,USA,8,Götzis (AUT),29 MAY 1994,1136,decathlon,combined-events,male,senior
+1570,8064,,Mike MACZEY,28 SEP 1972,GER,4,"Stadionring, Ratingen (GER)",18 JUL 1999,1136,decathlon,combined-events,male,senior
+1570,8064,,Romain BARRAS,01 AUG 1980,FRA,10,"Mösle-Stadium, Götzis (AUT)",27 MAY 2007,1136,decathlon,combined-events,male,senior
+1570,8064,,Paul TEREK,20 OCT 1979,USA,2,"Indianapolis, IN (USA)",23 JUN 2007,1136,decathlon,combined-events,male,senior
+1570,8064,,Pascal BEHRENBRUCH,19 JAN 1985,GER,10,"Mösle-Stadium, Götzis (AUT)",29 MAY 2011,1136,decathlon,combined-events,male,senior
+1570,8064,,Adam Sebastian HELCELET,27 OCT 1991,CZE,3,"Stade Pierre Paul Bernard, Talence (FRA)",16 SEP 2012,1136,decathlon,combined-events,male,senior
+1570,8064,,Bastien AUZEIL,22 OCT 1989,FRA,13,"Estádio Olímpico, Rio de Janeiro (BRA)",18 AUG 2016,1136,decathlon,combined-events,male,senior
+1570,8064,,Paweł WIESIOŁEK,13 AUG 1991,POL,12,"Khalifa International Stadium, Doha (QAT)",04 OCT 2019,1136,decathlon,combined-events,male,senior
+1570,8064,,Ryan TALBOT,07 OCT 2000,USA,1,"University of Minnesota T&F Stadium, Minneapolis, MN (USA)",14 MAY 2022,1136,decathlon,combined-events,male,senior
+1570,8064,,Till STEINFORTH,11 JUN 2002,GER,1,"Billy Hayes T& F Complex, Bloomington, IN (USA)",13 MAY 2023,1136,decathlon,combined-events,male,senior
+1580,8063,,José Fernando FERREIRA,27 MAR 1999,BRA,1,"Centro de Treinamento Paralímpico Brasileiro, São Paulo (BRA)",28 JUN 2024,1136,decathlon,combined-events,male,senior
+1580,8063,,Aleksandr KOMAROV,04 MAR 2001,RUS,1,"Yunost Stadium, Adler, Sochi (RUS)",29 MAY 2025,1136,decathlon,combined-events,male,senior
+1582,8062,,William MOTTI,25 JUL 1964,FRA,10,"Stadio Olimpico, Roma (ITA)",04 SEP 1987,1136,decathlon,combined-events,male,senior
+1582,8062,,Michael KOHNLE,03 MAY 1970,GER,6,Götzis (AUT),16 JUN 1991,1136,decathlon,combined-events,male,senior
+1582,8062,,Philipp HUBER,18 FEB 1974,SUI,2,Ibach (SUI),02 JUL 2000,1136,decathlon,combined-events,male,senior
+1582,8062,,Kurt FELIX,04 JUL 1988,GRN,1,"Des Moines, IA (USA)",07 JUN 2012,1136,decathlon,combined-events,male,senior
+1582,8062,,Oleksiy KASYANOV,26 AUG 1985,UKR,2,"Stade Pierre Paul Bernard, Talence (FRA)",21 SEP 2014,1136,decathlon,combined-events,male,senior
+1582,8062,,Austin WEST,17 MAR 2000,USA,1,"St. Mark's School of Texas, Dallas, TX (USA)",10 JUL 2022,1136,decathlon,combined-events,male,senior
+1582,8062,,Sander SKOTHEIM,31 MAY 2002,NOR,15,"Hayward Field, Eugene, OR (USA)",24 JUL 2022,1136,decathlon,combined-events,male,senior
+1589,8061,,Jack ROSENDAAL,12 SEP 1973,NED,2,Oulu (FIN),29 JUN 1997,1136,decathlon,combined-events,male,senior
+1589,8061,,Stephen HARRIS,05 DEC 1980,USA,1,"Sacramento, CA (USA)",12 JUN 2003,1136,decathlon,combined-events,male,senior
+1589,8061,,Ashton EATON,21 JAN 1988,USA,17,"Olympiastadion, Berlin (GER)",20 AUG 2009,1136,decathlon,combined-events,male,senior
+1589,8061,,Yordani GARCÍA,21 NOV 1988,CUB,7,"Mösle-Stadium, Götzis (AUT)",27 MAY 2012,1136,decathlon,combined-events,male,senior
+1593,8060,,Chiel WARNERS,02 APR 1978,NED,2,Tallinn (EST),06 JUL 2003,1135,decathlon,combined-events,male,senior
+1593,8060,,Romain BARRAS,01 AUG 1980,FRA,2,Talence (FRA),21 SEP 2003,1135,decathlon,combined-events,male,senior
+1593,8060,,Romain BARRAS,01 AUG 1980,FRA,5,"Stade Pierre Paul Bernard, Talence (FRA)",18 SEP 2005,1135,decathlon,combined-events,male,senior
+1593,8060,,Karl Robert SALURI,06 AUG 1993,EST,1,"Athens, GA (USA)",05 APR 2019,1135,decathlon,combined-events,male,senior
+1593,8060,,Mathias BRUGGER,06 AUG 1992,GER,11,"Mösle-Stadium, Götzis (AUT)",26 MAY 2019,1135,decathlon,combined-events,male,senior
+1593,8060,,Ashley MOLONEY,13 MAR 2000,AUS,1,"QSAC State Athletics Facility, Nathan, Brisbane (AUS)",18 DEC 2022,1135,decathlon,combined-events,male,senior
+1593,8060,,Ken MULLINGS,28 APR 1997,BAH,2,San Salvador (ESA),04 JUL 2023,1135,decathlon,combined-events,male,senior
+1600,8059,,Norbert DEMMEL,10 MAY 1963,FRG,3,Tønsberg (NOR),16 JUL 1989,1135,decathlon,combined-events,male,senior
+1600,8059,,Indrek KASEORG,16 DEC 1967,EST,4,Talence (FRA),19 SEP 1999,1135,decathlon,combined-events,male,senior
+1600,8059,,Vasiliy KHARLAMOV,08 JAN 1986,RUS,2,Cheboksary (RUS),03 JUN 2012,1135,decathlon,combined-events,male,senior
+1600,8059,,Yevgeniy SARANTSEV,05 FEB 1988,RUS,1,"Adler, Sochi (RUS)",12 MAY 2015,1135,decathlon,combined-events,male,senior
+1604,8058,,Mikhail MEDVED,30 JAN 1964,URS,4,Tønsberg (NOR),16 JUL 1989,1135,decathlon,combined-events,male,senior
+1604,8058,,Eugenio BALANQUE,20 DEC 1968,CUB,5,Arles (FRA),04 JUN 2000,1135,decathlon,combined-events,male,senior
+1604,8058,,Roman ŠEBRLE,26 NOV 1974,CZE,2,Kladno (CZE),24 JUN 2009,1135,decathlon,combined-events,male,senior
+1604,8058,,Simon HECHLER,15 JUN 1988,GER,1,"Chula Vista, CA (USA)",14 AUG 2011,1135,decathlon,combined-events,male,senior
+1604,8058,,Keisuke USHIRO,24 JUL 1986,JPN,1,Nagano (JPN),05 JUL 2015,1135,decathlon,combined-events,male,senior
+1604,8058,,Pieter BRAUN,21 JAN 1993,NED,8,"Mösle-Stadium, Götzis (AUT)",29 MAY 2016,1135,decathlon,combined-events,male,senior
+1604,8058,,Vitaliy ZHUK,10 SEP 1996,BLR,13,"Khalifa International Stadium, Doha (QAT)",04 OCT 2019,1135,decathlon,combined-events,male,senior
+1604,8058,,Adam Sebastian HELCELET,27 OCT 1991,CZE,2,"Antonio Domínguez Stadium, Arona (ESP)",13 JUN 2021,1135,decathlon,combined-events,male,senior
+1604,8058,,José Fernando FERREIRA,27 MAR 1999,BRA,1,"COTP Stadium, São Paulo (BRA)",29 JUL 2023,1135,decathlon,combined-events,male,senior
+1613,8057,,Uwe FREIMUTH,10 SEP 1961,GDR,7,Krefeld (GER),08 SEP 1985,1135,decathlon,combined-events,male,senior
+1613,8057,,Kip JANVRIN,08 JUL 1965,USA,3,"Sacramento, CA (USA)",21 JUL 2000,1135,decathlon,combined-events,male,senior
+1613,8057,,Yunior DIAZ,28 APR 1987,CUB,1,La Habana (CUB),08 MAR 2008,1135,decathlon,combined-events,male,senior
+1613,8057,,Florian GEFFROUAIS,05 DEC 1988,FRA,1,Valence (FRA),09 JUL 2010,1135,decathlon,combined-events,male,senior
+1613,8057,,Brent NEWDICK,31 JAN 1985,NZL,1,Melbourne (AUS),14 APR 2012,1135,decathlon,combined-events,male,senior
+1613,8057,,Tim NOWAK,13 AUG 1995,GER,4,"Stadionring, Ratingen (GER)",17 JUN 2018,1135,decathlon,combined-events,male,senior
+1613,8057,,Baptiste THIERY,29 JUN 2001,FRA,9,"Olympiastadion, München (GER)",16 AUG 2022,1135,decathlon,combined-events,male,senior
+1613,8057,,Ondřej KOPECKÝ,16 MAY 1998,CZE,1,"Atleticky stadion Benešov, Benešov (CZE)",15 JUN 2025,1135,decathlon,combined-events,male,senior
+1621,8056,,Roman ŠEBRLE,26 NOV 1974,CZE,5f,Talence (FRA),13 SEP 1998,1135,decathlon,combined-events,male,senior
+1621,8056,,Scott FERRIER,12 JUN 1974,AUS,1,Hobart (AUS),28 FEB 1999,1135,decathlon,combined-events,male,senior
+1621,8056,,Jiří RYBA,15 JUN 1976,CZE,14,"Olympic Stadium, Sydney (AUS)",28 SEP 2000,1135,decathlon,combined-events,male,senior
+1621,8056,,Paolo CASARSA,02 JUL 1975,ITA,1,Südstadt (AUT),06 JUN 2004,1135,decathlon,combined-events,male,senior
+1621,8056,,Ashley BRYANT,17 MAY 1991,GBR,9,"Mösle-Stadium, Götzis (AUT)",29 MAY 2016,1135,decathlon,combined-events,male,senior
+1621,8056,,Janek ÕIGLANE,25 APR 1994,EST,2,"Kadrioru staadion, Tallinn (EST)",27 JUN 2021,1135,decathlon,combined-events,male,senior
+1621,8056,,Sven ROOSEN,27 JUL 2001,NED,2,"Kadrioru staadion, Tallinn (EST)",11 JUL 2021,1135,decathlon,combined-events,male,senior
+1628,8055,,Eugène MARTINEAU,14 MAY 1980,NED,13,"National Stadium, Beijing (CHN)",22 AUG 2008,1135,decathlon,combined-events,male,senior
+1628,8055,,Eugène MARTINEAU,14 MAY 1980,NED,18,"Olympiastadion, Berlin (GER)",20 AUG 2009,1135,decathlon,combined-events,male,senior
+1628,8055,,Nikolay SHUBENOK,04 MAY 1985,BLR,1,Asikkala (FIN),05 AUG 2012,1135,decathlon,combined-events,male,senior
+1628,8055,,Pascal BEHRENBRUCH,19 JAN 1985,GER,4,"Stadionring, Ratingen (GER)",29 JUN 2014,1135,decathlon,combined-events,male,senior
+1628,8055,,Martin ROE,01 APR 1992,NOR,1,"Sportplatz Lana, Lana (ITA)",25 APR 2021,1135,decathlon,combined-events,male,senior
+1628,8055,,Maksim ANDRALOITS,17 JUN 1997,BLR,1,"Dinamo National Olympic Stadium, Minsk (BLR)",30 JUL 2023,1135,decathlon,combined-events,male,senior
+1634,8054,,Raúl DUANY BUENO,04 JAN 1975,CUB,15,"Olympic Stadium, Sydney (AUS)",28 SEP 2000,1135,decathlon,combined-events,male,senior
+1634,8054,,Willem COERTZEN,30 DEC 1982,RSA,11,"Mösle-Stadium, Götzis (AUT)",31 MAY 2009,1135,decathlon,combined-events,male,senior
+1634,8054,,Austin WEST,17 MAR 2000,USA,3,"Mike A. Myers Stadium, Austin, TX (USA)",08 JUN 2023,1135,decathlon,combined-events,male,senior
+1637,8053,,Yunior DIAZ,28 APR 1987,CUB,2,La Habana (CUB),06 MAY 2011,1134,decathlon,combined-events,male,senior
+1637,8053,,Jente HAUTTEKEETE,14 MAR 2002,BEL,16,"Mösle-Stadium, Götzis (AUT)",01 JUN 2025,1134,decathlon,combined-events,male,senior
+1639,8052,,Henrik DAGÅRD,07 AUG 1969,SWE,9,"Poljud Stadion, Split (CRO)",29 AUG 1990,1134,decathlon,combined-events,male,senior
+1639,8052,,Andrei NAZAROV,09 JAN 1965,EST,14,"Estadio Olímpico, Barcelona (ESP)",06 AUG 1992,1134,decathlon,combined-events,male,senior
+1639,8052,,Eelco SINTNICOLAAS,07 APR 1987,NED,12,"Mösle-Stadium, Götzis (AUT)",31 MAY 2009,1134,decathlon,combined-events,male,senior
+1639,8052,,Roman ŠEBRLE,26 NOV 1974,CZE,6,"Olympiastadion, Helsinki (FIN)",28 JUN 2012,1134,decathlon,combined-events,male,senior
+1643,8051,,Dezső SZABÓ,04 SEP 1967,HUN,1,Fukuoka (JPN),02 SEP 1995,1134,decathlon,combined-events,male,senior
+1643,8051,,Philipp HUBER,18 FEB 1974,SUI,11,Götzis (AUT),31 MAY 1998,1134,decathlon,combined-events,male,senior
+1643,8051,,Volodimir MIKHAYLENKO,27 AUG 1973,UKR,1,Kyiv (UKR),04 JUN 2000,1134,decathlon,combined-events,male,senior
+1643,8051,,Laurent HERNU,22 AUG 1976,FRA,7,"Olympiastadion, München (GER)",08 AUG 2002,1134,decathlon,combined-events,male,senior
+1643,8051,,Aleksandr PARKHOMENKO,21 MAR 1981,BLR,1,Izmir (TUR),19 AUG 2005,1134,decathlon,combined-events,male,senior
+1643,8051,,Niels PITTOMVILS,18 JUL 1992,BEL,10,"Mösle-Stadium, Götzis (AUT)",29 MAY 2016,1134,decathlon,combined-events,male,senior
+1643,8051,,Malik DIAKITE,13 MAR 2000,GER,2,"St. Mark's School of Texas, Dallas, TX (USA)",10 JUL 2022,1134,decathlon,combined-events,male,senior
+1643,8051,,Felix WOLTER,04 OCT 1997,GER,13,"Stadio Olimpico, Roma (ITA)",11 JUN 2024,1134,decathlon,combined-events,male,senior
+1651,8050,,Lev LOBODIN,01 APR 1969,UKR,9,Götzis (AUT),29 MAY 1994,1134,decathlon,combined-events,male,senior
+1651,8050,,Ramil GANIYEV,23 SEP 1968,UZB,8,Götzis (AUT),01 JUN 1997,1134,decathlon,combined-events,male,senior
+1651,8050,,Raúl DUANY BUENO,04 JAN 1975,CUB,1,Palma de Mallorca (ESP),12 JUL 1999,1134,decathlon,combined-events,male,senior
+1651,8050,,Henrik DAGÅRD,07 AUG 1969,SWE,14,Götzis (AUT),04 JUN 2000,1134,decathlon,combined-events,male,senior
+1651,8050,,Claston BERNARD,22 MAR 1979,JAM,1,"College Station, TX (USA)",15 MAR 2002,1134,decathlon,combined-events,male,senior
+1651,8050,,Claston BERNARD,22 MAR 1979,JAM,1,Desenzano del Garda (ITA),09 MAY 2004,1134,decathlon,combined-events,male,senior
+1651,8050,,Aleksandr PARKHOMENKO,21 MAR 1981,BLR,1,Minsk (BLR),08 JUN 2006,1134,decathlon,combined-events,male,senior
+1651,8050,,Leonel SUÁREZ,01 SEP 1987,CUB,2,La Habana (CUB),08 MAR 2008,1134,decathlon,combined-events,male,senior
+1651,8050,,Adam Sebastian HELCELET,27 OCT 1991,CZE,11,"Mösle-Stadium, Götzis (AUT)",29 MAY 2016,1134,decathlon,combined-events,male,senior
+1651,8050,,Janek ÕIGLANE,25 APR 1994,EST,12,"Mösle-Stadium, Götzis (AUT)",26 MAY 2019,1134,decathlon,combined-events,male,senior
+1651,8050,,José Fernando FERREIRA,27 MAR 1999,BRA,12,"Mösle-Stadium, Götzis (AUT)",19 MAY 2024,1134,decathlon,combined-events,male,senior
+1662,8049,,Stefan DREWS,12 FEB 1979,GER,1,Vaterstetten (GER),26 AUG 2001,1134,decathlon,combined-events,male,senior
+1662,8049,,Niels PITTOMVILS,18 JUL 1992,BEL,1,Villeneuve d'Ascq (FRA),11 JUL 2015,1134,decathlon,combined-events,male,senior
+1662,8049,,Ashley BRYANT,17 MAY 1991,GBR,11,"Olympic Stadium, London (GBR)",12 AUG 2017,1134,decathlon,combined-events,male,senior
+1662,8049,,Austin WEST,17 MAR 2000,USA,2,"Hilmer Lodge Stadium, Walnut, CA (USA)",17 APR 2025,1134,decathlon,combined-events,male,senior
+1666,8048,,Thorsten DAUTH,11 MAR 1968,GER,10,Götzis (AUT),26 MAY 1996,1134,decathlon,combined-events,male,senior
+1666,8048,,Nikolay AVERYANOV,04 FEB 1980,RUS,1,Tula (RUS),24 JUN 2004,1134,decathlon,combined-events,male,senior
+1666,8048,,Runar HELTNE,21 APR 1980,NOR,,Tiraspol (MDA),14 MAY 2008,1134,decathlon,combined-events,male,senior
+1666,8048,,Yordani GARCÍA,21 NOV 1988,CUB,3,"Stadio Tre Stelle, Desenzano del Garda (ITA)",09 MAY 2010,1134,decathlon,combined-events,male,senior
+1666,8048,,Georni JARAMILLO,06 MAR 1989,VEN,1,Barquisimeto (VEN),05 MAY 2018,1134,decathlon,combined-events,male,senior
+1666,8048,,Ituah ENAHORO,15 DEC 1997,GER,5,"Stadionring, Ratingen (GER)",17 JUN 2018,1134,decathlon,combined-events,male,senior
+1672,8047,,Cedric LOPEZ,13 FEB 1973,FRA,13,"Olympic Stadium, Athina (GRE)",06 AUG 1997,1133,decathlon,combined-events,male,senior
+1672,8047,,Hans VAN ALPHEN,12 JAN 1982,BEL,2,Bangkok (THA),13 AUG 2007,1133,decathlon,combined-events,male,senior
+1672,8047,,Zachery ZIEMEK,23 FEB 1993,USA,2,"Athens, GA (USA)",07 APR 2016,1133,decathlon,combined-events,male,senior
+1675,8046,,Romain BARRAS,01 AUG 1980,FRA,1,Niamey (NIG),15 DEC 2005,1133,decathlon,combined-events,male,senior
+1675,8046,,Dominik DISTELBERGER,16 MAR 1990,AUT,13,"Mösle-Stadium, Götzis (AUT)",28 MAY 2017,1133,decathlon,combined-events,male,senior
+1675,8046,,Hunter VEITH,14 JAN 1995,USA,1,"Austin, TX (USA)",29 MAR 2018,1133,decathlon,combined-events,male,senior
+1675,8046,,Johannes ERM,26 MAR 1998,EST,3,"Eugene, OR (USA)",07 JUN 2018,1133,decathlon,combined-events,male,senior
+1675,8046,,Rik TAAM,17 JAN 1997,NED,16,"Stade de France, Paris (FRA)",03 AUG 2024,1133,decathlon,combined-events,male,senior
+1680,8045,,Rojs PIZIKS,12 FEB 1971,LAT,2,Riga (LAT),16 JUN 1996,1133,decathlon,combined-events,male,senior
+1680,8045,,Dirk-Achim PAJONK,27 MAR 1969,GER,20,"Olympic Stadium, Atlanta, GA (USA)",01 AUG 1996,1133,decathlon,combined-events,male,senior
+1680,8045,,Ramil GANIYEV,23 SEP 1968,UZB,12,Götzis (AUT),31 MAY 1998,1133,decathlon,combined-events,male,senior
+1680,8045,,Chad SMITH,09 JAN 1974,USA,1,"Walnut, CA (USA)",16 APR 1999,1133,decathlon,combined-events,male,senior
+1680,8045,,Christopher HALLMANN,06 JUN 1983,GER,1,Vaterstetten (GER),05 SEP 2004,1133,decathlon,combined-events,male,senior
+1680,8045,,Hans VAN ALPHEN,12 JAN 1982,BEL,11,"Mösle-Stadium, Götzis (AUT)",29 MAY 2011,1133,decathlon,combined-events,male,senior
+1680,8045,,Carlos Eduardo BEZERRA CHININ,03 MAY 1985,BRA,5,"Stadionring, Ratingen (GER)",17 JUL 2011,1133,decathlon,combined-events,male,senior
+1680,8045,,Oleksiy KASYANOV,26 AUG 1985,UKR,4,"Stade Pierre Paul Bernard, Talence (FRA)",18 SEP 2011,1133,decathlon,combined-events,male,senior
+1680,8045,,Jan Felix KNOBEL,16 JAN 1989,GER,1,"Bernhausen, Filderstadt (GER)",09 AUG 2015,1133,decathlon,combined-events,male,senior
+1689,8044,,Florian SCHÖNBECK,13 JAN 1974,GER,2,"Stadionring, Ratingen (GER)",27 JUN 2004,1133,decathlon,combined-events,male,senior
+1689,8044,,Mateo SOSSAH,28 APR 1988,FRA,2,"Fayetteville, AR (USA)",11 JUN 2009,1133,decathlon,combined-events,male,senior
+1689,8044,,Adam Sebastian HELCELET,27 OCT 1991,CZE,4,Kladno (CZE),10 JUN 2012,1133,decathlon,combined-events,male,senior
+1689,8044,,Tim EHRHARDT,16 MAR 1995,USA,1,"Charlottesville, VA (USA)",21 APR 2018,1133,decathlon,combined-events,male,senior
+1693,8043,,Nikolay TISHCHENKO,04 FEB 1977,RUS,1,Krasnodar (RUS),29 MAY 2004,1133,decathlon,combined-events,male,senior
+1693,8043,,Akihiko NAKAMURA,23 OCT 1990,JPN,1,Wakayama (JPN),26 APR 2015,1133,decathlon,combined-events,male,senior
+1693,8043,,Oleksiy KASYANOV,26 AUG 1985,UKR,2,"Stade Pierre Paul Bernard, Talence (FRA)",20 SEP 2015,1133,decathlon,combined-events,male,senior
+1696,8042,,Lev LOBODIN,01 APR 1969,UKR,11,Götzis (AUT),28 MAY 1995,1133,decathlon,combined-events,male,senior
+1696,8042,,Indrek KASEORG,16 DEC 1967,EST,11,"Ullevi Stadium, Göteborg (SWE)",07 AUG 1995,1133,decathlon,combined-events,male,senior
+1696,8042,,André NIKLAUS,30 AUG 1981,GER,1,"Olympisch Stadion, Amsterdam (NED)",13 JUL 2001,1133,decathlon,combined-events,male,senior
+1696,8042,,Jaakko OJANIEMI,28 AUG 1980,FIN,9,"Olympiastadion, Helsinki (FIN)",10 AUG 2005,1133,decathlon,combined-events,male,senior
+1696,8042,,Alberto JUANTORENA,27 JUN 1977,CUB,1,La Habana (CUB),22 JUN 2007,1133,decathlon,combined-events,male,senior
+1696,8042,,Edgar CAMPRÉ,29 APR 2000,POR,3,"Hayward Field, Eugene, OR (USA)",06 JUN 2024,1133,decathlon,combined-events,male,senior
+1702,8041,,Indrek KASEORG,16 DEC 1967,EST,12,Götzis (AUT),28 MAY 1995,1133,decathlon,combined-events,male,senior
+1702,8041,,Paul TEREK,20 OCT 1979,USA,2,"Baton Rouge, LA (USA)",01 JUN 2002,1133,decathlon,combined-events,male,senior
+1702,8041,,Haifeng QI,07 AUG 1983,CHN,1,Busan (KOR),10 OCT 2002,1133,decathlon,combined-events,male,senior
+1702,8041,,Trey HARDEE,07 FEB 1984,USA,2,"Austin, TX (USA)",12 JUN 2004,1133,decathlon,combined-events,male,senior
+1702,8041,,Basile ROLNIN,21 JAN 1994,FRA,4,"Stadionring, Ratingen (GER)",25 JUN 2017,1133,decathlon,combined-events,male,senior
+1702,8041,,Ondřej KOPECKÝ,16 MAY 1998,CZE,1,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",15 MAY 2022,1133,decathlon,combined-events,male,senior
+1702,8041,,Andrin HUBER,27 JUN 2004,SUI,5,"Stade Pierre Paul Bernard, Talence (FRA)",15 SEP 2024,1133,decathlon,combined-events,male,senior
+1709,8040,,Marcel DOST,28 SEP 1969,NED,14,"Olympic Stadium, Athina (GRE)",06 AUG 1997,1132,decathlon,combined-events,male,senior
+1709,8040,,Jagan HAMES,31 OCT 1975,AUS,2f,Sydney (AUS),09 AUG 1998,1132,decathlon,combined-events,male,senior
+1709,8040,,Nicklas WIBERG,16 APR 1985,SWE,1,Jyväskylä (FIN),29 JUN 2008,1132,decathlon,combined-events,male,senior
+1709,8040,,Ashley BRYANT,17 MAY 1991,GBR,5,"Olympisch Stadion, Amsterdam (NED)",07 JUL 2016,1132,decathlon,combined-events,male,senior
+1709,8040,,Martin ROE,01 APR 1992,NOR,12,"Olympic Stadium, London (GBR)",12 AUG 2017,1132,decathlon,combined-events,male,senior
+1714,8039,,Michael SMITH,16 SEP 1967,CAN,12,Götzis (AUT),19 JUN 1988,1132,decathlon,combined-events,male,senior
+1714,8039,,Jón Arnar MAGNÚSSON,28 JUL 1969,ISL,1,Reykjavík (ISL),02 JUL 1995,1132,decathlon,combined-events,male,senior
+1714,8039,,Thomas TEBBICH,04 FEB 1975,AUT,7,Götzis (AUT),30 MAY 1999,1132,decathlon,combined-events,male,senior
+1714,8039,,Vitaliy ZHUK,10 SEP 1996,BLR,2,"Dinamo National Olympic Stadium, Minsk (BLR)",30 JUL 2023,1132,decathlon,combined-events,male,senior
+1714,8039,,Stepan KEKIN,13 NOV 2000,RUS,1,"SK Primorets Stadium, St. Petersburg (RUS)",04 SEP 2025,1132,decathlon,combined-events,male,senior
+1719,8038,,Aleksey DROZDOV,03 DEC 1983,RUS,10,"Olympiastadion, Helsinki (FIN)",10 AUG 2005,1132,decathlon,combined-events,male,senior
+1719,8038,,Ashley MOLONEY,13 MAR 2000,AUS,13,"Mösle-Stadium, Götzis (AUT)",26 MAY 2019,1132,decathlon,combined-events,male,senior
+1719,8038,,Jack FLOOD,15 SEP 1995,USA,1,"Ray McDonald, Sr., Track Complex, Mount Olive, NC (USA)",15 MAY 2021,1132,decathlon,combined-events,male,senior
+1719,8038,,Ruben GADO,13 DEC 1993,FRA,3,"Antonio Domínguez Stadium, Arona (ESP)",13 JUN 2021,1132,decathlon,combined-events,male,senior
+1719,8038,,Austin WEST,17 MAR 2000,USA,3,"Hilmer Lodge Stadium, Walnut, CA (USA)",13 APR 2023,1132,decathlon,combined-events,male,senior
+1719,8038,,Kai KAZMIREK,28 JAN 1991,GER,1,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",23 JUL 2023,1132,decathlon,combined-events,male,senior
+1719,8038,,Austin WEST,17 MAR 2000,USA,1,"Grand Bahama Sports Complex, Freeport (BAH)",16 AUG 2025,1132,decathlon,combined-events,male,senior
+1726,8037,,Stephen MOORE,13 AUG 1975,USA,2,Aachen (GER),08 AUG 1999,1132,decathlon,combined-events,male,senior
+1726,8037,,Laurent HERNU,22 AUG 1976,FRA,5,Talence (FRA),22 SEP 2002,1132,decathlon,combined-events,male,senior
+1726,8037,,Keisuke USHIRO,24 JUL 1986,JPN,1,Nagano (JPN),03 JUN 2012,1132,decathlon,combined-events,male,senior
+1726,8037,,Dmitriy KARPOV,23 JUL 1981,KAZ,1,Pune (IND),04 JUL 2013,1132,decathlon,combined-events,male,senior
+1726,8037,,Janek ÕIGLANE,25 APR 1994,EST,14,"Mösle-Stadium, Götzis (AUT)",28 MAY 2017,1132,decathlon,combined-events,male,senior
+1726,8037,,Tim NOWAK,13 AUG 1995,GER,1,Halle (GER),06 MAY 2018,1132,decathlon,combined-events,male,senior
+1726,8037,,Martin ROE,01 APR 1992,NOR,1,"Antonio Domínguez Stadium, Arona (ESP)",09 JUN 2019,1132,decathlon,combined-events,male,senior
+1726,8037,,Solomon SIMMONS,26 SEP 1993,USA,8,"Hayward Field, Eugene, OR (USA)",20 JUN 2021,1132,decathlon,combined-events,male,senior
+1726,8037,,Maicel UIBO,27 DEC 1992,EST,15,"National Stadium, Tokyo (JPN)",05 AUG 2021,1132,decathlon,combined-events,male,senior
+1726,8037,,Malik DIAKITE,13 MAR 2000,GER,1,"Antonio Domínguez Stadium, Arona (ESP)",12 MAY 2024,1132,decathlon,combined-events,male,senior
+1736,8036,,Simon SHIRLEY,03 AUG 1966,AUS,15,"Olympic Stadium, Seoul (KOR)",29 SEP 1988,1132,decathlon,combined-events,male,senior
+1736,8036,,Zsolt KÜRTÖSI,21 MAR 1971,HUN,1,Budapest (HUN),06 AUG 2000,1132,decathlon,combined-events,male,senior
+1736,8036,,Jörg GOEDICKE,25 JUN 1974,GER,2,"Bernhausen, Filderstadt (GER)",22 JUL 2001,1132,decathlon,combined-events,male,senior
+1736,8036,,Pavel ANDREYEV,24 NOV 1978,UZB,1,Tashkent (UZB),21 MAY 2004,1132,decathlon,combined-events,male,senior
+1736,8036,,Attila ZSIVOCZKY-PANDEL,29 APR 1977,HUN,5,Talence (FRA),26 SEP 2004,1132,decathlon,combined-events,male,senior
+1736,8036,,Larbi BOURRADA,10 MAY 1988,ALG,1,Algiers (ALG),22 MAY 2009,1132,decathlon,combined-events,male,senior
+1736,8036,,Romain MARTIN,12 JUL 1988,FRA,1,Hexham (GBR),22 JUL 2018,1132,decathlon,combined-events,male,senior
+1736,8036,,Jack FLOOD,15 SEP 1995,USA,9,"Hayward Field, Eugene, OR (USA)",20 JUN 2021,1132,decathlon,combined-events,male,senior
+1744,8035,,Andrei NAZAROV,09 JAN 1965,EST,4,Helmond (NED),02 JUL 1995,1132,decathlon,combined-events,male,senior
+1744,8035,,Jack ROSENDAAL,12 SEP 1973,NED,21,"Olympic Stadium, Atlanta, GA (USA)",01 AUG 1996,1132,decathlon,combined-events,male,senior
+1744,8035,,Eugène MARTINEAU,14 MAY 1980,NED,11,"Ullevi Stadium, Göteborg (SWE)",11 AUG 2006,1132,decathlon,combined-events,male,senior
+1744,8035,,Akihiko NAKAMURA,23 OCT 1990,JPN,2,Nagano (JPN),01 JUN 2014,1132,decathlon,combined-events,male,senior
+1744,8035,,Thomas VAN DER PLAETSEN,24 DEC 1990,BEL,14,"National Stadium, Beijing (CHN)",29 AUG 2015,1132,decathlon,combined-events,male,senior
+1744,8035,,Hunter PRICE,28 AUG 1994,USA,1f2,"Cougar Athletic Stadium, Azusa, CA (USA)",14 MAY 2021,1132,decathlon,combined-events,male,senior
+1744,8035,,Jeff TESSELAAR,03 MAY 2003,NED,2,"Antonio Domínguez Stadium, Arona (ESP)",12 MAY 2024,1132,decathlon,combined-events,male,senior
+1751,8034,,Beat GÄHWILER,26 JAN 1965,SUI,11,"Stadio Olimpico, Roma (ITA)",04 SEP 1987,1131,decathlon,combined-events,male,senior
+1751,8034,,Hans VAN ALPHEN,12 JAN 1982,BEL,11,"Yanmar Stadium Nagai, Osaka (JPN)",01 SEP 2007,1131,decathlon,combined-events,male,senior
+1751,8034,,Andres RAJA,02 JUN 1982,EST,5,"Stade Pierre Paul Bernard, Talence (FRA)",20 SEP 2009,1131,decathlon,combined-events,male,senior
+1751,8034,,Norman MÜLLER,07 AUG 1985,GER,8,"Mösle-Stadium, Götzis (AUT)",27 MAY 2012,1131,decathlon,combined-events,male,senior
+1751,8034,,Eelco SINTNICOLAAS,07 APR 1987,NED,11,"Olympic Stadium, London (GBR)",09 AUG 2012,1131,decathlon,combined-events,male,senior
+1751,8034,,Luiz Alberto DE ARAUJO,27 JUN 1987,BRA,1,Sao Bernardo do Campo (BRA),16 MAY 2015,1131,decathlon,combined-events,male,senior
+1751,8034,,Adam Sebastian HELCELET,27 OCT 1991,CZE,2,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",23 JUL 2023,1131,decathlon,combined-events,male,senior
+1758,8033,,Jan DOLEŽAL,06 JUN 1996,CZE,1,Kladno (CZE),17 JUN 2018,1131,decathlon,combined-events,male,senior
+1758,8033,,Kristjan ROSENBERG,16 MAY 1994,EST,4,Lutsk (UKR),07 JUL 2019,1131,decathlon,combined-events,male,senior
+1758,8033,,Jannis WOLFF,16 MAY 1998,GER,7,"Stadionring, Ratingen (GER)",18 JUN 2023,1131,decathlon,combined-events,male,senior
+1761,8032,,Tomáš DVOŘÁK,11 MAY 1972,CZE,10,"Gottlieb-Daimler Stadion, Stuttgart (GER)",20 AUG 1993,1131,decathlon,combined-events,male,senior
+1761,8032,,Raúl DUANY BUENO,04 JAN 1975,CUB,1,Alhama de Murcia (ESP),22 MAY 1999,1131,decathlon,combined-events,male,senior
+1761,8032,,Stefan DREWS,12 FEB 1979,GER,3,"Stadionring, Ratingen (GER)",27 JUN 2004,1131,decathlon,combined-events,male,senior
+1761,8032,,Norman MÜLLER,07 AUG 1985,GER,6,"Stadionring, Ratingen (GER)",22 JUN 2008,1131,decathlon,combined-events,male,senior
+1761,8032,,Roland SCHWARZL,10 DEC 1980,AUT,9,"Mösle-Stadium, Götzis (AUT)",30 MAY 2010,1131,decathlon,combined-events,male,senior
+1761,8032,,Darius DRAUDVILA,29 MAR 1983,LTU,6,"Estadio Olímpico, Barcelona (ESP)",29 JUL 2010,1131,decathlon,combined-events,male,senior
+1761,8032,,Oleksiy KASYANOV,26 AUG 1985,UKR,7,"Stade Pierre Paul Bernard, Talence (FRA)",19 SEP 2010,1131,decathlon,combined-events,male,senior
+1761,8032,,Harrison WILLIAMS,07 MAR 1996,USA,5,"Eugene, OR (USA)",09 JUN 2016,1131,decathlon,combined-events,male,senior
+1761,8032,,Dennis HUTTERER,04 MAY 1996,GER,1,Darmstadt (GER),13 MAY 2018,1131,decathlon,combined-events,male,senior
+1761,8032,,Kristjan ROSENBERG,16 MAY 1994,EST,13,"Mösle-Stadium, Götzis (AUT)",30 MAY 2021,1131,decathlon,combined-events,male,senior
+1761,8032,,Jack FLOOD,15 SEP 1995,USA,4,"Hilmer Lodge Stadium, Walnut, CA (USA)",18 APR 2024,1131,decathlon,combined-events,male,senior
+1761,8032,,Antoine FERRANTI,09 JAN 2003,FRA,3,"Fana Stadion, Bergen (NOR)",18 JUL 2025,1131,decathlon,combined-events,male,senior
+1773,8031,,Alain BLONDEL,07 DEC 1962,FRA,15,"Estadio Olímpico, Barcelona (ESP)",06 AUG 1992,1131,decathlon,combined-events,male,senior
+1773,8031,,Mathias BRUGGER,06 AUG 1992,GER,1,Halle (GER),07 MAY 2017,1131,decathlon,combined-events,male,senior
+1773,8031,,Cedric DUBLER,13 JAN 1995,AUS,2,Townsville (AUS),26 JUN 2019,1131,decathlon,combined-events,male,senior
+1773,8031,,Rik TAAM,17 JAN 1997,NED,1,Emmeloord (NED),06 SEP 2020,1131,decathlon,combined-events,male,senior
+1777,8030,,Gary KINDER,25 OCT 1962,USA,12,"Stadio Olimpico, Roma (ITA)",04 SEP 1987,1131,decathlon,combined-events,male,senior
+1777,8030,,Henrik DAGÅRD,07 AUG 1969,SWE,2,Helmond (NED),16 JUL 1989,1131,decathlon,combined-events,male,senior
+1777,8030,,Oleksandr YURKOV,21 JUL 1975,UKR,13,"Népstadion, Budapest (HUN)",20 AUG 1998,1131,decathlon,combined-events,male,senior
+1777,8030,,Haifeng QI,07 AUG 1983,CHN,1,Benxi (CHN),09 JUN 2002,1131,decathlon,combined-events,male,senior
+1777,8030,,Chiel WARNERS,02 APR 1978,NED,6,Talence (FRA),26 SEP 2004,1131,decathlon,combined-events,male,senior
+1777,8030,,Ilya SHKURENYOV,11 JAN 1991,RUS,3,Cheboksary (RUS),03 JUN 2012,1131,decathlon,combined-events,male,senior
+1777,8030,,Taavi TŠERNJAVSKI,04 MAR 1995,EST,2,"Stade P-J. Bénard, St-Paul (FRA)",19 DEC 2020,1131,decathlon,combined-events,male,senior
+1777,8030,,Cedric DUBLER,13 JAN 1995,AUS,3,"Alexander Stadium, Birmingham (GBR)",05 AUG 2022,1131,decathlon,combined-events,male,senior
+1785,8029,,Kip JANVRIN,08 JUL 1965,USA,1,"Garden City, NY (USA)",13 AUG 2000,1131,decathlon,combined-events,male,senior
+1785,8029,,Dmitriy KARPOV,23 JUL 1981,KAZ,3,Kladno (CZE),24 JUN 2009,1131,decathlon,combined-events,male,senior
+1785,8029,,Andres RAJA,02 JUN 1982,EST,10,"Mösle-Stadium, Götzis (AUT)",30 MAY 2010,1131,decathlon,combined-events,male,senior
+1785,8029,,Aleksey DROZDOV,03 DEC 1983,RUS,7,"Estadio Olímpico, Barcelona (ESP)",29 JUL 2010,1131,decathlon,combined-events,male,senior
+1785,8029,,Simon EHAMMER,07 FEB 2000,SUI,1,"Sportplatz Tellenfeld, Amriswil (SUI)",19 JUL 2020,1131,decathlon,combined-events,male,senior
+1790,8028,,Stephen MOORE,13 AUG 1975,USA,2,Palma de Mallorca (ESP),12 JUL 1999,1131,decathlon,combined-events,male,senior
+1790,8028,,Eduard HÄMÄLÄINEN,21 JAN 1969,FIN,9,Götzis (AUT),27 MAY 2001,1131,decathlon,combined-events,male,senior
+1790,8028,,Ituah ENAHORO,15 DEC 1997,GER,1,Düsseldorf (GER),30 JUL 2017,1131,decathlon,combined-events,male,senior
+1790,8028,,Risto LILLEMETS,20 NOV 1997,EST,1,"Kadrioru staadion, Tallinn (EST)",03 AUG 2025,1131,decathlon,combined-events,male,senior
+1794,8027,,Ricky BARKER,14 NOV 1969,USA,3f,"Palo Alto, CA (USA)",26 APR 1998,1130,decathlon,combined-events,male,senior
+1794,8027,,Gaël QUERIN,26 JUN 1987,FRA,2,Cannes (FRA),13 MAY 2012,1130,decathlon,combined-events,male,senior
+1794,8027,,Dakotah KEYS,27 SEP 1991,USA,1,"Eugene, OR (USA)",18 APR 2014,1130,decathlon,combined-events,male,senior
+1794,8027,,Leonel SUÁREZ,01 SEP 1987,CUB,1,La Habana (CUB),27 MAY 2015,1130,decathlon,combined-events,male,senior
+1794,8027,,Pierce LEPAGE,22 JAN 1996,CAN,3,"Stade Pierre Paul Bernard, Talence (FRA)",18 SEP 2016,1130,decathlon,combined-events,male,senior
+1794,8027,,Thomas VAN DER PLAETSEN,24 DEC 1990,BEL,1,"Atletiekstadion De Brielmeersen, Deinze (BEL)",27 SEP 2020,1130,decathlon,combined-events,male,senior
+1800,8026,,Jim CONNOLLY,24 MAR 1962,USA,2,Zagreb (CRO),17 JUL 1987,1130,decathlon,combined-events,male,senior
+1800,8026,,Zsolt KÜRTÖSI,21 MAR 1971,HUN,6,Arles (FRA),01 JUL 2001,1130,decathlon,combined-events,male,senior
+1800,8026,,Claston BERNARD,22 MAR 1979,JAM,12,Götzis (AUT),30 MAY 2004,1130,decathlon,combined-events,male,senior
+1800,8026,,Dmitriy KARPOV,23 JUL 1981,KAZ,1,Guangzhou (CHN),25 NOV 2010,1130,decathlon,combined-events,male,senior
+1800,8026,,Leonel SUÁREZ,01 SEP 1987,CUB,1,Barranquilla (COL),30 JUL 2018,1130,decathlon,combined-events,male,senior
+1800,8026,,Devon WILLIAMS,17 JAN 1994,USA,5,"Hayward Field, Eugene, OR (USA)",07 JUL 2023,1130,decathlon,combined-events,male,senior
+1800,8026,,Rasmus ROOSLEHT,25 JUL 2002,EST,1,"Kadrioru staadion, Tallinn (EST)",30 JUN 2024,1130,decathlon,combined-events,male,senior
+1807,8025,,Vitaliy KOLPAKOV,02 FEB 1972,UKR,22,"Olympic Stadium, Atlanta, GA (USA)",01 AUG 1996,1130,decathlon,combined-events,male,senior
+1807,8025,,Prodromos KORKIZOGLOU,27 FEB 1975,GRE,1,Thessaloniki (GRE),30 MAY 1999,1130,decathlon,combined-events,male,senior
+1807,8025,,Aleksandr PARKHOMENKO,21 MAR 1981,BLR,1,Maribor (SLO),03 JUL 2005,1130,decathlon,combined-events,male,senior
+1807,8025,,Rudy BOURGUIGNON,16 JUL 1979,FRA,6,"Stade Pierre Paul Bernard, Talence (FRA)",18 SEP 2005,1130,decathlon,combined-events,male,senior
+1807,8025,,Jangy ADDY,02 MAR 1985,USA,6,"Eugene, OR (USA)",30 JUN 2008,1130,decathlon,combined-events,male,senior
+1807,8025,,Karl Robert SALURI,06 AUG 1993,EST,13,"Olympic Stadium, London (GBR)",12 AUG 2017,1130,decathlon,combined-events,male,senior
+1807,8025,,Adam Sebastian HELCELET,27 OCT 1991,CZE,2,"Sportplatz Lana, Lana (ITA)",25 APR 2021,1130,decathlon,combined-events,male,senior
+1814,8024,,Indrek KASEORG,16 DEC 1967,EST,3,Ibach (SUI),02 JUL 2000,1130,decathlon,combined-events,male,senior
+1814,8024,,Claston BERNARD,22 MAR 1979,JAM,1,"Columbia, SC (USA)",11 MAY 2001,1130,decathlon,combined-events,male,senior
+1814,8024,,Maurice SMITH,28 SEP 1980,JAM,1,"Austin, TX (USA)",01 APR 2004,1130,decathlon,combined-events,male,senior
+1814,8024,,Romain BARRAS,01 AUG 1980,FRA,1,Angers (FRA),15 JUL 2005,1130,decathlon,combined-events,male,senior
+1814,8024,,Cedric DUBLER,13 JAN 1995,AUS,14,"Estádio Olímpico, Rio de Janeiro (BRA)",18 AUG 2016,1130,decathlon,combined-events,male,senior
+1814,8024,,Heath BALDWIN,08 FEB 2001,USA,6,"Hayward Field, Eugene, OR (USA)",07 JUL 2023,1130,decathlon,combined-events,male,senior
+1814,8024,,Austin WEST,17 MAR 2000,USA,5,"Hilmer Lodge Stadium, Walnut, CA (USA)",18 APR 2024,1130,decathlon,combined-events,male,senior
+1821,8023,,Frank MÜLLER,18 JUN 1968,GER,10,Götzis (AUT),29 MAY 1994,1130,decathlon,combined-events,male,senior
+1821,8023,,Florian SCHÖNBECK,13 JAN 1974,GER,8,"Stadionring, Ratingen (GER)",16 JUN 2002,1130,decathlon,combined-events,male,senior
+1821,8023,,Jón Arnar MAGNÚSSON,28 JUL 1969,ISL,2,"Stadionring, Ratingen (GER)",13 JUL 2003,1130,decathlon,combined-events,male,senior
+1821,8023,,Maurice SMITH,28 SEP 1980,JAM,14,"Olympic Stadium, Athina (GRE)",24 AUG 2004,1130,decathlon,combined-events,male,senior
+1821,8023,,Hamdi DHOUIBI,24 JAN 1982,TUN,11,"Olympiastadion, Helsinki (FIN)",10 AUG 2005,1130,decathlon,combined-events,male,senior
+1821,8023,,Ashton EATON,21 JAN 1988,USA,1,"Eugene, OR (USA)",24 APR 2009,1130,decathlon,combined-events,male,senior
+1821,8023,,Andres RAJA,02 JUN 1982,EST,3,Tallinn (EST),27 JUN 2010,1130,decathlon,combined-events,male,senior
+1821,8023,,Andrei KRAUCHANKA,04 JAN 1986,BLR,5,"Stade Pierre Paul Bernard, Talence (FRA)",18 SEP 2011,1130,decathlon,combined-events,male,senior
+1821,8023,,Martin ROE,01 APR 1992,NOR,14,"Mösle-Stadium, Götzis (AUT)",26 MAY 2019,1130,decathlon,combined-events,male,senior
+1821,8023,,Steven BASTIEN,04 MAR 1994,USA,4,"Drake Stadium, Des Moines, IA (USA)",26 JUL 2019,1130,decathlon,combined-events,male,senior
+1831,8022,,Aleksey LYAKH,04 MAY 1962,URS,7,Basel (SUI),05 JUL 1987,1130,decathlon,combined-events,male,senior
+1831,8022,,Jon Ryan HARLAN,25 APR 1981,USA,6,"Stade Pierre Paul Bernard, Talence (FRA)",17 SEP 2006,1130,decathlon,combined-events,male,senior
+1831,8022,,Bastien AUZEIL,22 OCT 1989,FRA,2,Paris (FRA),13 JUL 2013,1130,decathlon,combined-events,male,senior
+1831,8022,,Fredrik SAMUELSSON,16 FEB 1995,SWE,15,"Mösle-Stadium, Götzis (AUT)",26 MAY 2019,1130,decathlon,combined-events,male,senior
+1831,8022,,Maximilian VOLLMER,12 MAR 1998,GER,1,"Cougar Athletic Stadium, Azusa, CA (USA)",14 APR 2022,1130,decathlon,combined-events,male,senior
+1831,8022,,Finley GAIO,15 APR 1999,SUI,13,"Mösle-Stadium, Götzis (AUT)",28 MAY 2023,1130,decathlon,combined-events,male,senior
+1837,8021,,Igor PUPCHONOK,20 MAY 1960,URS,1,Almaty (KAZ),29 AUG 1986,1129,decathlon,combined-events,male,senior
+1837,8021,,Simon POELMAN,27 MAY 1963,NZL,16,"Olympic Stadium, Seoul (KOR)",29 SEP 1988,1129,decathlon,combined-events,male,senior
+1837,8021,,Sándor MUNKÁCSY,24 JUL 1969,HUN,9,Götzis (AUT),31 MAY 1992,1129,decathlon,combined-events,male,senior
+1837,8021,,Haifeng QI,07 AUG 1983,CHN,1,Guangzhou (CHN),22 NOV 2001,1129,decathlon,combined-events,male,senior
+1837,8021,,Vitaliy SMIRNOV,25 OCT 1978,UZB,1,Manila (PHI),23 SEP 2003,1129,decathlon,combined-events,male,senior
+1837,8021,,Nikolay AVERYANOV,04 FEB 1980,RUS,15,"Olympic Stadium, Athina (GRE)",24 AUG 2004,1129,decathlon,combined-events,male,senior
+1837,8021,,Sven ROOSEN,27 JUL 2001,NED,10,"Olympiastadion, München (GER)",16 AUG 2022,1129,decathlon,combined-events,male,senior
+1837,8021,,Yuma MARUYAMA,03 JUN 1998,JPN,2,"Stadion Miejski, Nakło nad Notecią (POL)",01 SEP 2024,1129,decathlon,combined-events,male,senior
+1845,8020,,Derek HUFF,26 NOV 1966,USA,1,"Provo, UT (USA)",03 JUN 1989,1129,decathlon,combined-events,male,senior
+1845,8020,,André NIKLAUS,30 AUG 1981,GER,8,"Stade de France, Paris-St-Denis (FRA)",27 AUG 2003,1129,decathlon,combined-events,male,senior
+1845,8020,,Tomáš DVOŘÁK,11 MAY 1972,CZE,4,Kladno (CZE),20 JUN 2007,1129,decathlon,combined-events,male,senior
+1845,8020,,Nikolay SHUBENOK,04 MAY 1985,BLR,2,Tallinn (EST),08 JUL 2007,1129,decathlon,combined-events,male,senior
+1845,8020,,Andres RAJA,02 JUN 1982,EST,1,Rakvere (EST),19 AUG 2010,1129,decathlon,combined-events,male,senior
+1845,8020,,Kai KAZMIREK,28 JAN 1991,GER,2,"Stade Pierre Paul Bernard, Talence (FRA)",17 SEP 2017,1129,decathlon,combined-events,male,senior
+1845,8020,,Johannes ERM,26 MAR 1998,EST,3,"Athens, GA (USA)",07 APR 2018,1129,decathlon,combined-events,male,senior
+1845,8020,,Dario DESTER,22 JUL 2000,ITA,1,"Stadio Guidobaldi, Rieti (ITA)",26 JUN 2022,1129,decathlon,combined-events,male,senior
+1845,8020,,Sven ROOSEN,27 JUL 2001,NED,1,"Sportpark Orderbos, Apeldoorn (NED)",26 JUN 2022,1129,decathlon,combined-events,male,senior
+1845,8020,,Jente HAUTTEKEETE,14 MAR 2002,BEL,1,"Centro Gabre Gabric, Brescia (ITA)",28 APR 2024,1129,decathlon,combined-events,male,senior
+1845,8020,,Risto LILLEMETS,20 NOV 1997,EST,6,"Stade Pierre Paul Bernard, Talence (FRA)",06 JUL 2025,1129,decathlon,combined-events,male,senior
+1856,8019,,Attila ZSIVOCZKY-PANDEL,29 APR 1977,HUN,5,Praha (CZE),04 JUL 1999,1129,decathlon,combined-events,male,senior
+1856,8019,,Attila ZSIVOCZKY-PANDEL,29 APR 1977,HUN,10,"La Cartuja, Sevilla (ESP)",25 AUG 1999,1129,decathlon,combined-events,male,senior
+1856,8019,,Volodimir MIKHAYLENKO,27 AUG 1973,UKR,2,Beijing (CHN),31 AUG 2001,1129,decathlon,combined-events,male,senior
+1856,8019,,Haifeng QI,07 AUG 1983,CHN,3,Beijing (CHN),31 AUG 2001,1129,decathlon,combined-events,male,senior
+1856,8019,,Rolf SCHLÄFLI,15 MAR 1971,SUI,4,Götzis (AUT),01 JUN 2003,1129,decathlon,combined-events,male,senior
+1856,8019,,Felipe DOS SANTOS,30 JUL 1994,BRA,4,"CIBC, Toronto (CAN)",23 JUL 2015,1129,decathlon,combined-events,male,senior
+1856,8019,,Solomon SIMMONS,26 SEP 1993,USA,2,"Drake Stadium, Des Moines, IA (USA)",22 JUN 2018,1129,decathlon,combined-events,male,senior
+1856,8019,,Devon WILLIAMS,17 JAN 1994,USA,6,"Stade Pierre Paul Bernard, Talence (FRA)",15 SEP 2024,1129,decathlon,combined-events,male,senior
+1864,8018,,Robert ZMĚLÍK,18 APR 1969,CZE,13,Götzis (AUT),28 MAY 1995,1129,decathlon,combined-events,male,senior
+1864,8018,,David MEWES,07 OCT 1976,GER,8,Götzis (AUT),30 MAY 1999,1129,decathlon,combined-events,male,senior
+1864,8018,,Eelco SINTNICOLAAS,07 APR 1987,NED,8,"Stade Pierre Paul Bernard, Talence (FRA)",19 SEP 2010,1129,decathlon,combined-events,male,senior
+1864,8018,,Eelco SINTNICOLAAS,07 APR 1987,NED,3,"Stade Pierre Paul Bernard, Talence (FRA)",15 SEP 2013,1129,decathlon,combined-events,male,senior
+1864,8018,,Austin WEST,17 MAR 2000,USA,6,"Hayward Field, Eugene, OR (USA)",22 JUN 2024,1129,decathlon,combined-events,male,senior
+1869,8017,,Rob MUZZIO,25 JUN 1964,USA,13,"Stadio Olimpico, Roma (ITA)",04 SEP 1987,1129,decathlon,combined-events,male,senior
+1869,8017,,Philipp HUBER,18 FEB 1974,SUI,9,Götzis (AUT),01 JUN 1997,1129,decathlon,combined-events,male,senior
+1869,8017,,Kip JANVRIN,08 JUL 1965,USA,3,Aachen (GER),08 AUG 1999,1129,decathlon,combined-events,male,senior
+1869,8017,,Prodromos KORKIZOGLOU,27 FEB 1975,GRE,15,Götzis (AUT),04 JUN 2000,1129,decathlon,combined-events,male,senior
+1869,8017,,Attila ZSIVOCZKY-PANDEL,29 APR 1977,HUN,12,"Yanmar Stadium Nagai, Osaka (JPN)",01 SEP 2007,1129,decathlon,combined-events,male,senior
+1869,8017,,Maicel UIBO,27 DEC 1992,EST,5,"Eugene, OR (USA)",06 JUN 2013,1129,decathlon,combined-events,male,senior
+1869,8017,,Martin ROE,01 APR 1992,NOR,12,"Mösle-Stadium, Götzis (AUT)",27 MAY 2018,1129,decathlon,combined-events,male,senior
+1876,8016,,Aleksandr APAYCHEV,06 MAY 1961,URS,4,Götzis (AUT),25 MAY 1986,1129,decathlon,combined-events,male,senior
+1876,8016,,Petri KESKITALO,10 MAR 1967,FIN,4,Arles (FRA),05 JUL 1987,1129,decathlon,combined-events,male,senior
+1876,8016,,Marcel DOST,28 SEP 1969,NED,3,Oulu (FIN),29 JUN 1997,1129,decathlon,combined-events,male,senior
+1876,8016,,Aleksandr POGORELOV,10 JAN 1980,RUS,8,"Olympiastadion, München (GER)",08 AUG 2002,1129,decathlon,combined-events,male,senior
+1876,8016,,Oleksiy KASYANOV,26 AUG 1985,UKR,3,"Stade Pierre Paul Bernard, Talence (FRA)",17 SEP 2017,1129,decathlon,combined-events,male,senior
+1876,8016,,Martin ROE,01 APR 1992,NOR,4,"Antonio Domínguez Stadium, Arona (ESP)",13 JUN 2021,1129,decathlon,combined-events,male,senior
+1876,8016,,Vilém STRÁSKÝ,03 JUL 1999,CZE,13,"Mösle-Stadium, Götzis (AUT)",19 MAY 2024,1129,decathlon,combined-events,male,senior
+1883,8015,,Simon POELMAN,27 MAY 1963,NZL,3,Edinburgh (GBR),28 JUL 1986,1129,decathlon,combined-events,male,senior
+1883,8015,,Jiří RYBA,15 JUN 1976,CZE,3,"Stadio Tre Stelle, Desenzano del Garda (ITA)",09 MAY 1999,1129,decathlon,combined-events,male,senior
+1883,8015,,Steven BASTIEN,04 MAR 1994,USA,4,"Eugene, OR (USA)",08 JUN 2017,1129,decathlon,combined-events,male,senior
+1883,8015,,Artem LUKYANENKO,30 JAN 1990,RUS,1,Kazan (RUS),16 AUG 2018,1129,decathlon,combined-events,male,senior
+1883,8015,,Lucas VAN KLAVEREN,11 NOV 1999,NED,4,"Hayward Field, Eugene, OR (USA)",09 JUN 2022,1129,decathlon,combined-events,male,senior
+1883,8015,,Kendrick THOMPSON,28 AUG 1997,BAH,4,"Hilmer Lodge Stadium, Walnut, CA (USA)",13 APR 2023,1129,decathlon,combined-events,male,senior
+1889,8014,,Willem COERTZEN,30 DEC 1982,RSA,1,Durban (RSA),10 APR 2011,1128,decathlon,combined-events,male,senior
+1889,8014,,Larbi BOURRADA,10 MAY 1988,ALG,3,Reims (FRA),12 JUL 2014,1128,decathlon,combined-events,male,senior
+1891,8013,,Frank MÜLLER,18 JUN 1968,GER,14,Götzis (AUT),28 MAY 1995,1128,decathlon,combined-events,male,senior
+1891,8013,,Andrei KRAUCHANKA,04 JAN 1986,BLR,11,"Mösle-Stadium, Götzis (AUT)",28 MAY 2006,1128,decathlon,combined-events,male,senior
+1891,8013,,Yordani GARCÍA,21 NOV 1988,CUB,1,La Habana (CUB),24 MAY 2007,1128,decathlon,combined-events,male,senior
+1891,8013,,Vitaliy SMIRNOV,25 OCT 1978,UZB,1f,Tashkent (UZB),17 JUL 2008,1128,decathlon,combined-events,male,senior
+1891,8013,,Yunior DIAZ,28 APR 1987,CUB,2,La Habana (CUB),04 JUL 2009,1128,decathlon,combined-events,male,senior
+1891,8013,,Romain MARTIN,12 JUL 1988,FRA,6,"Eugene, OR (USA)",06 JUN 2013,1128,decathlon,combined-events,male,senior
+1891,8013,,Arthur ABELE,30 JUL 1986,GER,15,"Estádio Olímpico, Rio de Janeiro (BRA)",18 AUG 2016,1128,decathlon,combined-events,male,senior
+1898,8012,,Petri KESKITALO,10 MAR 1967,FIN,4,Götzis (AUT),17 JUN 1990,1128,decathlon,combined-events,male,senior
+1898,8012,,Stefan SCHMID,06 MAY 1970,GER,11,Götzis (AUT),31 MAY 1992,1128,decathlon,combined-events,male,senior
+1898,8012,,Arthur ABELE,30 JUL 1986,GER,1,Filderstadt (GER),28 MAY 2006,1128,decathlon,combined-events,male,senior
+1898,8012,,Florian OBST,24 FEB 1993,GER,6,"Stadionring, Ratingen (GER)",17 JUN 2018,1128,decathlon,combined-events,male,senior
+1898,8012,,Marcel MEYER,01 JAN 2001,GER,3,"Enwag-Stadion, Wetzlar (GER)",21 JUL 2024,1128,decathlon,combined-events,male,senior
+1898,8012,,Risto LILLEMETS,20 NOV 1997,EST,3,"Stadion Miejski, Nakło nad Notecią (POL)",01 SEP 2024,1128,decathlon,combined-events,male,senior
+1904,8011,,Beat GÄHWILER,26 JAN 1965,SUI,11,"National Stadium, Tokyo (JPN)",30 AUG 1991,1128,decathlon,combined-events,male,senior
+1904,8011,,Stefan SCHMID,06 MAY 1970,GER,14,"Népstadion, Budapest (HUN)",20 AUG 1998,1128,decathlon,combined-events,male,senior
+1904,8011,,Jon Ryan HARLAN,25 APR 1981,USA,2,"Hayward Field, Eugene, OR (USA)",24 JUN 2011,1128,decathlon,combined-events,male,senior
+1904,8011,,Curtis BEACH,22 JUL 1990,USA,1,"Austin, TX (USA)",28 MAR 2013,1128,decathlon,combined-events,male,senior
+1904,8011,,Jack TURNER,11 JUL 2001,GBR,1,"Soccer Stadium - North Texas University, Denton, TX (USA)",12 MAY 2023,1128,decathlon,combined-events,male,senior
+1909,8010,,Stephen MOORE,13 AUG 1975,USA,4,"Palo Alto, CA (USA)",22 JUN 2003,1128,decathlon,combined-events,male,senior
+1909,8010,,Jangy ADDY,02 MAR 1985,USA,1,"Auburn, AL (USA)",16 MAY 2008,1128,decathlon,combined-events,male,senior
+1909,8010,,Chris HELWICK,18 MAR 1985,USA,7,"Eugene, OR (USA)",30 JUN 2008,1128,decathlon,combined-events,male,senior
+1909,8010,,Romain BARRAS,01 AUG 1980,FRA,7,Kladno (CZE),16 JUN 2011,1128,decathlon,combined-events,male,senior
+1909,8010,,Fredrik SAMUELSSON,16 FEB 1995,SWE,2,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",16 JUL 2017,1128,decathlon,combined-events,male,senior
+1909,8010,,Yevgeniy SARANTSEV,05 FEB 1988,RUS,1,"Adler, Sochi (RUS)",03 SEP 2017,1128,decathlon,combined-events,male,senior
+1909,8010,,Harrison WILLIAMS,07 MAR 1996,USA,2,"Austin, TX (USA)",06 JUN 2019,1128,decathlon,combined-events,male,senior
+1909,8010,,Rasmus ROOSLEHT,25 JUL 2002,EST,5,"Leppävaaran Stadion, Espoo (FIN)",16 JUL 2023,1128,decathlon,combined-events,male,senior
+1917,8009,,Michael NOLAN,22 SEP 1973,CAN,10,Götzis (AUT),01 JUN 1997,1128,decathlon,combined-events,male,senior
+1917,8009,,Ingmar VOS,28 MAY 1986,NED,19,"Olympiastadion, Berlin (GER)",20 AUG 2009,1128,decathlon,combined-events,male,senior
+1917,8009,,Mathias BRUGGER,06 AUG 1992,GER,2,"Bernhausen, Filderstadt (GER)",09 AUG 2015,1128,decathlon,combined-events,male,senior
+1917,8009,,Rene STAUSS,17 SEP 1987,GER,2,Düsseldorf (GER),30 JUL 2017,1128,decathlon,combined-events,male,senior
+1917,8009,,Oleksiy KASYANOV,26 AUG 1985,UKR,,Tashkent (UZB),29 MAY 2021,1128,decathlon,combined-events,male,senior
+1917,8009,,Cedric DUBLER,13 JAN 1995,AUS,14,"Mösle-Stadium, Götzis (AUT)",28 MAY 2023,1128,decathlon,combined-events,male,senior
+1917,8009,,Kendrick THOMPSON,28 AUG 1997,BAH,3,"Hilmer Lodge Stadium, Walnut, CA (USA)",17 APR 2025,1128,decathlon,combined-events,male,senior
+1924,8008,,Beat GÄHWILER,26 JAN 1965,SUI,5,Tønsberg (NOR),16 JUL 1989,1127,decathlon,combined-events,male,senior
+1924,8008,,Stephen MOORE,13 AUG 1975,USA,7,Götzis (AUT),02 JUN 2002,1127,decathlon,combined-events,male,senior
+1924,8008,,Romain BARRAS,01 AUG 1980,FRA,1,"Bressanone, Trentino-Alto Adige (ITA)",06 JUL 2003,1127,decathlon,combined-events,male,senior
+1924,8008,,Bastien AUZEIL,22 OCT 1989,FRA,3,Cannes (FRA),13 MAY 2012,1127,decathlon,combined-events,male,senior
+1924,8008,,Steven BASTIEN,04 MAR 1994,USA,1,"Westmont Track/Thorrington Field, Santa Barbara, CA (USA)",26 MAR 2021,1127,decathlon,combined-events,male,senior
+1924,8008,,Keisuke OKUDA,23 OCT 1996,JPN,1,"Chukyo Univ. Stadium, Toyota (JPN)",09 OCT 2022,1127,decathlon,combined-events,male,senior
+1930,8007,,Douglas PIRINI,06 SEP 1969,NZL,4,Kuala Lumpur (MAS),18 SEP 1998,1127,decathlon,combined-events,male,senior
+1930,8007,,Aleksandr SHTEPA,15 MAY 1979,RUS,1,Krasnodar (RUS),25 MAY 2002,1127,decathlon,combined-events,male,senior
+1930,8007,,Romain BARRAS,01 AUG 1980,FRA,3,Aubagne (FRA),05 JUL 2015,1127,decathlon,combined-events,male,senior
+1930,8007,,Romain BARRAS,01 AUG 1980,FRA,1,Perpignan (FRA),05 JUN 2016,1127,decathlon,combined-events,male,senior
+1930,8007,,Thomas VAN DER PLAETSEN,24 DEC 1990,BEL,13,"Mösle-Stadium, Götzis (AUT)",27 MAY 2018,1127,decathlon,combined-events,male,senior
+1930,8007,,Maksim ANDRALOITS,17 JUN 1997,BLR,1,"Dinamo National Olympic Stadium, Minsk (BLR)",26 JUN 2021,1127,decathlon,combined-events,male,senior
+1930,8007,,José Fernando FERREIRA,27 MAR 1999,BRA,1,"Municipal Stadium, Naxos (GRE)",18 MAY 2023,1127,decathlon,combined-events,male,senior
+1937,8006,,William MOTTI,25 JUL 1964,FRA,2,Arles (FRA),18 MAY 1986,1127,decathlon,combined-events,male,senior
+1937,8006,,Michael KOHNLE,03 MAY 1970,GER,9,Götzis (AUT),30 MAY 1993,1127,decathlon,combined-events,male,senior
+1937,8006,,Jan PODĚBRADSKÝ,01 MAR 1974,CZE,7,Lage (GER),15 JUN 1996,1127,decathlon,combined-events,male,senior
+1937,8006,,Jaakko OJANIEMI,28 AUG 1980,FIN,16,"Olympic Stadium, Athina (GRE)",24 AUG 2004,1127,decathlon,combined-events,male,senior
+1937,8006,,Zachery ZIEMEK,23 FEB 1993,USA,15,"National Stadium, Beijing (CHN)",29 AUG 2015,1127,decathlon,combined-events,male,senior
+1937,8006,,Pau TONNESEN,24 OCT 1992,ESP,14,"Olympic Stadium, London (GBR)",12 AUG 2017,1127,decathlon,combined-events,male,senior
+1943,8005,,Beat GÄHWILER,26 JAN 1965,SUI,8,Basel (SUI),05 JUL 1987,1127,decathlon,combined-events,male,senior
+1943,8005,,Álvaro BURRELL,29 APR 1969,ESP,4,Alhama de Murcia (ESP),24 MAY 1992,1127,decathlon,combined-events,male,senior
+1943,8005,,Ramil GANIYEV,23 SEP 1968,UZB,1,Hiroshima (JPN),15 OCT 1994,1127,decathlon,combined-events,male,senior
+1943,8005,,Yordani GARCÍA,21 NOV 1988,CUB,2,"Stadionring, Ratingen (GER)",15 JUN 2012,1127,decathlon,combined-events,male,senior
+1943,8005,,Florian OBST,24 FEB 1993,GER,1,"Charlotte, NC (USA)",25 MAY 2018,1127,decathlon,combined-events,male,senior
+1943,8005,,Fredrik SAMUELSSON,16 FEB 1995,SWE,9,"Olympiastadion, Berlin (GER)",08 AUG 2018,1127,decathlon,combined-events,male,senior
+1943,8005,,Steven BASTIEN,04 MAR 1994,USA,5,"Stade Pierre Paul Bernard, Talence (FRA)",18 SEP 2022,1127,decathlon,combined-events,male,senior
+1943,8005,,Fred Isaac FLEURISSON,17 JUL 2003,GER,1,"Fleinsbachstadion, Bernhausen, Filderstadt (GER)",22 JUN 2025,1127,decathlon,combined-events,male,senior
+1951,8004,,Henrik DAGÅRD,07 AUG 1969,SWE,5,Götzis (AUT),17 JUN 1990,1127,decathlon,combined-events,male,senior
+1951,8004,,Mike MACZEY,28 SEP 1972,GER,2,"Stadionring, Ratingen (GER)",23 JUL 2000,1127,decathlon,combined-events,male,senior
+1951,8004,,Benjamin JENSEN,13 APR 1975,NOR,10,Götzis (AUT),27 MAY 2001,1127,decathlon,combined-events,male,senior
+1951,8004,,Laurent HERNU,22 AUG 1976,FRA,7,Talence (FRA),26 SEP 2004,1127,decathlon,combined-events,male,senior
+1951,8004,,Robert Jacob ARNOLD,03 JAN 1984,USA,13,"Yanmar Stadium Nagai, Osaka (JPN)",01 SEP 2007,1127,decathlon,combined-events,male,senior
+1951,8004,,Moritz CLEVE,18 FEB 1987,GER,1,"Lubbock, TX (USA)",16 MAY 2009,1127,decathlon,combined-events,male,senior
+1951,8004,,Mikhail LOGVINENKO,19 APR 1984,RUS,3,Cheboksary (RUS),10 JUN 2011,1127,decathlon,combined-events,male,senior
+1951,8004,,Eduard MIKHAN,07 JUN 1989,BLR,2,Toruń (POL),06 JUL 2014,1127,decathlon,combined-events,male,senior
+1951,8004,,Andy PRECIADO,12 OCT 1997,ECU,1,"Estadio Alberto Spencer Herrera, Guayaquil (ECU)",31 MAY 2021,1127,decathlon,combined-events,male,senior
+1951,8004,,Adam Sebastian HELCELET,27 OCT 1991,CZE,16,"National Stadium, Tokyo (JPN)",05 AUG 2021,1127,decathlon,combined-events,male,senior
+1951,8004,,Felipe DOS SANTOS,30 JUL 1994,BRA,1,Bragança Paulista (BRA),10 APR 2022,1127,decathlon,combined-events,male,senior
+1951,8004,,Maksim ANDRALOITS,17 JUN 1997,BLR,2,"SK Primorets Stadium, St. Petersburg (RUS)",04 SEP 2025,1127,decathlon,combined-events,male,senior
+1963,8003,,Mikk PAHAPILL,18 JUL 1983,EST,12,"Olympiastadion, Helsinki (FIN)",10 AUG 2005,1127,decathlon,combined-events,male,senior
+1963,8003,,Ingmar VOS,28 MAY 1986,NED,13,"Mösle-Stadium, Götzis (AUT)",31 MAY 2009,1127,decathlon,combined-events,male,senior
+1963,8003,,Michael SCHRADER,01 JUL 1987,GER,1,Potsdam (GER),27 AUG 2010,1127,decathlon,combined-events,male,senior
+1963,8003,,Norman MÜLLER,07 AUG 1985,GER,7,"Olympiastadion, Helsinki (FIN)",28 JUN 2012,1127,decathlon,combined-events,male,senior
+1963,8003,,Attila SZABÓ,16 JUL 1984,HUN,1,Budapest (HUN),03 JUL 2012,1127,decathlon,combined-events,male,senior
+1968,8002,,Petri KESKITALO,10 MAR 1967,FIN,3,Stoke-on-Trent (GBR),07 JUL 1991,1127,decathlon,combined-events,male,senior
+1968,8002,,Zsolt KÜRTÖSI,21 MAR 1971,HUN,13,Götzis (AUT),31 MAY 1998,1127,decathlon,combined-events,male,senior
+1968,8002,,Klaus ISEKENMEIER,14 APR 1975,GER,3,"Stadionring, Ratingen (GER)",23 JUL 2000,1127,decathlon,combined-events,male,senior
+1968,8002,,Mikk PAHAPILL,18 JUL 1983,EST,12,"Mösle-Stadium, Götzis (AUT)",28 MAY 2006,1127,decathlon,combined-events,male,senior
+1968,8002,,Romain BARRAS,01 AUG 1980,FRA,6,"Olympisch Stadion, Amsterdam (NED)",07 JUL 2016,1127,decathlon,combined-events,male,senior
+1968,8002,,Fredriech PRETORIUS,04 AUG 1995,RSA,1,Pretoria (RSA),18 MAR 2017,1127,decathlon,combined-events,male,senior
+1968,8002,,Paweł WIESIOŁEK,13 AUG 1991,POL,15,"Mösle-Stadium, Götzis (AUT)",28 MAY 2017,1127,decathlon,combined-events,male,senior
+1968,8002,,Alec DIAMOND,09 AUG 1997,AUS,2,"SOPAC, Sydney (AUS)",02 APR 2022,1127,decathlon,combined-events,male,senior
+1968,8002,,Daniel GOLUBOVIC,29 NOV 1993,AUS,2,"HFC Bank Stadium, Suva (FIJ)",03 JUN 2024,1127,decathlon,combined-events,male,senior
+1968,8002,,Jonathan HERTWIG-ØDEGAARD,28 JUL 2005,NOR,4,"Fana Stadion, Bergen (NOR)",18 JUL 2025,1127,decathlon,combined-events,male,senior
+1978,8001,,Erki NOOL,25 JUN 1970,EST,1,Tartu (EST),18 JUN 1992,1126,decathlon,combined-events,male,senior
+1978,8001,,Indrek KASEORG,16 DEC 1967,EST,1,Kuressaare (EST),24 JUL 1999,1126,decathlon,combined-events,male,senior
+1978,8001,,Jason DUDLEY,10 NOV 1984,AUS,3,Melbourne (AUS),21 MAR 2006,1126,decathlon,combined-events,male,senior
+1978,8001,,Eugène MARTINEAU,14 MAY 1980,NED,2,Yalta (UKR),02 JUL 2006,1126,decathlon,combined-events,male,senior
+1978,8001,,Dakotah KEYS,27 SEP 1991,USA,1,"Los Angeles, CA (USA)",05 MAY 2013,1126,decathlon,combined-events,male,senior
+1978,8001,,Adam Sebastian HELCELET,27 OCT 1991,CZE,9,"Mösle-Stadium, Götzis (AUT)",01 JUN 2014,1126,decathlon,combined-events,male,senior
+1978,8001,,Romain BARRAS,01 AUG 1980,FRA,1,Lunel (FRA),07 JUN 2015,1126,decathlon,combined-events,male,senior
+1985,8000,,Michael KOHNLE,03 MAY 1970,GER,12,"National Stadium, Tokyo (JPN)",30 AUG 1991,1126,decathlon,combined-events,male,senior
+1985,8000,,Petri KESKITALO,10 MAR 1967,FIN,11,"Gottlieb-Daimler Stadion, Stuttgart (GER)",20 AUG 1993,1126,decathlon,combined-events,male,senior
+1985,8000,,Francisco Javier BENET,25 MAR 1968,ESP,2,"Bressanone, Trentino-Alto Adige (ITA)",05 JUL 1998,1126,decathlon,combined-events,male,senior
+1985,8000,,Philipp IBE,05 MAY 1975,GER,4,Aachen (GER),08 AUG 1999,1126,decathlon,combined-events,male,senior
+1985,8000,,Claston BERNARD,22 MAR 1979,JAM,9,"Stade de France, Paris-St-Denis (FRA)",27 AUG 2003,1126,decathlon,combined-events,male,senior
+1985,8000,,Attila ZSIVOCZKY-PANDEL,29 APR 1977,HUN,7,"Stade Pierre Paul Bernard, Talence (FRA)",18 SEP 2005,1126,decathlon,combined-events,male,senior
+1985,8000,,Niels PITTOMVILS,18 JUL 1992,BEL,1,Ribeira Brava (POR),06 JUL 2014,1126,decathlon,combined-events,male,senior
+1985,8000,,Alec DIAMOND,09 AUG 1997,AUS,2,"Sports Reserve, Townsville (AUS)",19 JUN 2021,1126,decathlon,combined-events,male,senior
+1985,8000,,Adam Sebastian HELCELET,27 OCT 1991,CZE,11,"Olympiastadion, München (GER)",16 AUG 2022,1126,decathlon,combined-events,male,senior
+1985,8000,,Maksim ANDRALOITS,17 JUN 1997,BLR,1,"Regional Sport Complex, Brest (BLR)",02 JUL 2023,1126,decathlon,combined-events,male,senior
+1985,8000,,Jaden ROSKELLEY,22 NOV 2002,USA,1,"Clarence F. Robison Track, Provo, UT (USA)",01 MAY 2025,1126,decathlon,combined-events,male,senior

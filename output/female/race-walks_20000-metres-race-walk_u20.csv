@@ -1,12 +1,14 @@
 rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,discipline,type,sex,age_cat
 1,1:29:32.4h,,Hongjuan SONG,04 JUL 1984,CHN,1,Changsha (CHN),23 OCT 2003,1145,20000-metres-race-walk,race-walks,female,u20
 2,1:32:19.71,,Jingjing NIE,01 MAR 1988,CHN,5,Wuhan (CHN),01 NOV 2007,1097,20000-metres-race-walk,race-walks,female,u20
-3,1:34:12.31,,Xue CHAI,21 JAN 1988,CHN,7,Wuhan (CHN),01 NOV 2007,1065,20000-metres-race-walk,race-walks,female,u20
-4,1:34:21.56,,Xue Hui WANG,14 FEB 1990,CHN,8,Wuhan (CHN),01 NOV 2007,1062,20000-metres-race-walk,race-walks,female,u20
-5,1:35:02.56,,Gabriela DE SOUSA,12 JUN 2002,BRA,1,Bragança Paulista (BRA),25 APR 2021,1051,20000-metres-race-walk,race-walks,female,u20
-6,1:35:41.84,,Leilei LI,18 AUG 1989,CHN,10,Wuhan (CHN),01 NOV 2007,1040,20000-metres-race-walk,race-walks,female,u20
-7,1:36:30.5h,,Natalia PULIDO,15 SEP 2004,COL,6,"COTP Stadium, São Paulo (BRA)",29 JUL 2023,1026,20000-metres-race-walk,race-walks,female,u20
-8,1:36:41.36,,Stefany CORONADO,16 SEP 1996,BOL,3,Lima (PER),03 OCT 2015,1023,20000-metres-race-walk,race-walks,female,u20
-9,1:37:03.8h,,Anna PUDOVKINA,13 FEB 1985,RUS,5,Ishevsk (RUS),22 SEP 2003,1017,20000-metres-race-walk,race-walks,female,u20
-10,1:37:12.65,,Leyde GUERRA,27 SEP 1998,PER,2,Lima (PER),30 SEP 2017,1014,20000-metres-race-walk,race-walks,female,u20
-11,1:37:46.79,,Khushbir KAUR,09 JUL 1993,IND,1,Patiala (IND),15 FEB 2012,1005,20000-metres-race-walk,race-walks,female,u20
+3,1:33:21.4h,,Valeria FLORES,17 FEB 2006,MEX,2,"Parque Olímpico Pista De Atletismo, Luque, Asunción (PAR)",18 AUG 2025,1079,20000-metres-race-walk,race-walks,female,u20
+4,1:34:12.31,,Xue CHAI,21 JAN 1988,CHN,7,Wuhan (CHN),01 NOV 2007,1065,20000-metres-race-walk,race-walks,female,u20
+5,1:34:21.56,,Xue Hui WANG,14 FEB 1990,CHN,8,Wuhan (CHN),01 NOV 2007,1062,20000-metres-race-walk,race-walks,female,u20
+6,1:35:02.56,,Gabriela DE SOUSA,12 JUN 2002,BRA,1,Bragança Paulista (BRA),25 APR 2021,1051,20000-metres-race-walk,race-walks,female,u20
+7,1:35:41.84,,Leilei LI,18 AUG 1989,CHN,10,Wuhan (CHN),01 NOV 2007,1040,20000-metres-race-walk,race-walks,female,u20
+8,1:36:30.5h,,Natalia PULIDO,15 SEP 2004,COL,6,"COTP Stadium, São Paulo (BRA)",29 JUL 2023,1026,20000-metres-race-walk,race-walks,female,u20
+9,1:36:41.36,,Stefany CORONADO,16 SEP 1996,BOL,3,Lima (PER),03 OCT 2015,1023,20000-metres-race-walk,race-walks,female,u20
+10,1:36:54.0h,,Rubi Dayana SEGURA GARCIA,27 FEB 2006,COL,4,"Parque Olímpico Pista De Atletismo, Luque, Asunción (PAR)",18 AUG 2025,1020,20000-metres-race-walk,race-walks,female,u20
+11,1:37:03.8h,,Anna PUDOVKINA,13 FEB 1985,RUS,5,Ishevsk (RUS),22 SEP 2003,1017,20000-metres-race-walk,race-walks,female,u20
+12,1:37:12.65,,Leyde GUERRA,27 SEP 1998,PER,2,Lima (PER),30 SEP 2017,1014,20000-metres-race-walk,race-walks,female,u20
+13,1:37:46.79,,Khushbir KAUR,09 JUL 1993,IND,1,Patiala (IND),15 FEB 2012,1005,20000-metres-race-walk,race-walks,female,u20

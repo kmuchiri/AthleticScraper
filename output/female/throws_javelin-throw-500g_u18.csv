@@ -8,200 +8,207 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 7,65.24,,Adriana VILAGOŠ,02 JAN 2004,SRB,1,"Stadion Park Mladeži, Split (CRO)",02 MAY 2021,,javelin-throw-500g,throws,female,u18
 8,65.07,,Adriana VILAGOŠ,02 JAN 2004,SRB,1,"Atletski Stadion, Kraljevo (SRB)",07 AUG 2021,,javelin-throw-500g,throws,female,u18
 9,64.73,,Adriana VILAGOŠ,02 JAN 2004,SRB,1,Split (CRO),27 APR 2019,,javelin-throw-500g,throws,female,u18
-10,63.52,,Ying WANG,05 JUN 2001,CHN,1,Zhuzhou (CHN),17 APR 2018,,javelin-throw-500g,throws,female,u18
-11,63.41,,Ying WANG,05 JUN 2001,CHN,1,Bangkok (THA),05 JUL 2018,,javelin-throw-500g,throws,female,u18
-12,63.34,,Elina TZENGKO,02 SEP 2002,GRE,1q1,Buenos Aires (ARG),13 OCT 2018,,javelin-throw-500g,throws,female,u18
-13,62.92,,Marisleisys DUARTHE,17 SEP 2000,CUB,1,"Kasarani, Nairobi (KEN)",16 JUL 2017,,javelin-throw-500g,throws,female,u18
-14,62.79,,Adriana VILAGOŠ,02 JAN 2004,SRB,1,Split (CRO),15 MAY 2019,,javelin-throw-500g,throws,female,u18
-15,62.65,,Adriana VILAGOŠ,02 JAN 2004,SRB,,Split (CRO),16 JUN 2019,,javelin-throw-500g,throws,female,u18
-16,62.31,,Adriana VILAGOŠ,02 JAN 2004,SRB,1,Istanbul (TUR),14 JUL 2019,,javelin-throw-500g,throws,female,u18
-17,62.05,,Adriana VILAGOŠ,02 JAN 2004,SRB,1,Osijek (CRO),22 FEB 2020,,javelin-throw-500g,throws,female,u18
-18,61.97,,Yuzhen YU,05 MAR 1998,CHN,1,Doha (QAT),08 MAY 2015,,javelin-throw-500g,throws,female,u18
-19,61.89,,Adriana VILAGOŠ,02 JAN 2004,SRB,1,Novi Sad (SRB),08 JUN 2019,,javelin-throw-500g,throws,female,u18
-20,61.81,,Adriana VILAGOŠ,02 JAN 2004,SRB,1,Sremska Mitrovica (SRB),31 MAR 2019,,javelin-throw-500g,throws,female,u18
-21,61.80,,Elina TZENGKO,02 SEP 2002,GRE,1,Halle (GER),02 JUN 2019,,javelin-throw-500g,throws,female,u18
-22,61.74,,Elina TZENGKO,02 SEP 2002,GRE,1f1,Buenos Aires (ARG),16 OCT 2018,,javelin-throw-500g,throws,female,u18
-23,61.51,,Adriana VILAGOŠ,02 JAN 2004,SRB,1,Sremska Mitrovica (SRB),22 JUN 2019,,javelin-throw-500g,throws,female,u18
-24,61.47,,Mackenzie LITTLE,22 DEC 1996,AUS,1,Donetsk (UKR),11 JUL 2013,,javelin-throw-500g,throws,female,u18
-25,61.07,,Vita BARBIĆ,13 AUG 2007,CRO,1f1,Banská Bystrica (SVK),21 JUL 2024,,javelin-throw-500g,throws,female,u18
-26,60.89,,Arianne DUARTE MORAIS,23 MAY 1999,NOR,1,"New District Stadium, Tbilisi (GEO)",17 JUL 2016,,javelin-throw-500g,throws,female,u18
-27,60.81,,Adriana VILAGOŠ,02 JAN 2004,SRB,1,Beograd (SRB),11 MAY 2019,,javelin-throw-500g,throws,female,u18
-28,60.66,,Elina TZENGKO,02 SEP 2002,GRE,1ce,Thessaloniki (GRE),24 APR 2019,,javelin-throw-500g,throws,female,u18
-29,60.48,,Vita BARBIĆ,13 AUG 2007,CRO,1,"Atletski stadion Poljane, Maribor (SLO)",28 JUL 2023,,javelin-throw-500g,throws,female,u18
-30,60.39,,Sofi FLINK,08 JUL 1995,SWE,1,Espoo (FIN),19 AUG 2012,,javelin-throw-500g,throws,female,u18
-31,60.35,,Haruka KITAGUCHI,16 MAR 1998,JPN,1,"Pascual Guerrero Stadium, Cali (COL)",16 JUL 2015,,javelin-throw-500g,throws,female,u18
-32,60.09,,Carolina VISCA,31 MAY 2000,ITA,1,Tbilisi (GEO),01 AUG 2015,,javelin-throw-500g,throws,female,u18
-33,59.98,,Rebecca NELIMARKKA,10 JUL 2006,FIN,1,"Pahkalanniemen urheilukenttä, Parkano (FIN)",04 JUN 2023,,javelin-throw-500g,throws,female,u18
-34,59.94,,Yulenmis AGUILAR,03 AUG 1996,CUB,2,Donetsk (UKR),11 JUL 2013,,javelin-throw-500g,throws,female,u18
-35,59.82,,Juleisy ANGULO,02 JAN 2001,ECU,2q1,Buenos Aires (ARG),13 OCT 2018,,javelin-throw-500g,throws,female,u18
-36,59.81,,Münevver HANCI,25 JAN 2001,TUR,1q1,"Olimpiai Sportpark, Győr (HUN)",07 JUL 2018,,javelin-throw-500g,throws,female,u18
-37,59.69,,Adriana VILAGOŠ,02 JAN 2004,SRB,1,Osijek (CRO),21 APR 2018,,javelin-throw-500g,throws,female,u18
-38,59.52,,Anna TARASIUK,30 OCT 1997,BLR,1f1,"Olympic Stadium, Nanjing (CHN)",25 AUG 2014,,javelin-throw-500g,throws,female,u18
-39,59.31,,Adriana VILAGOŠ,02 JAN 2004,SRB,1,"Atletski stadion, Sremska Mitrovica (SRB)",19 SEP 2020,,javelin-throw-500g,throws,female,u18
-40,59.11,,Qianqian DAI,23 AUG 2000,CHN,1,Weinan (CHN),18 AUG 2017,,javelin-throw-500g,throws,female,u18
-41,59.10,,Carolina VISCA,31 MAY 2000,ITA,2,"New District Stadium, Tbilisi (GEO)",17 JUL 2016,,javelin-throw-500g,throws,female,u18
-42,59.07,,Margaux NICOLLIN,01 MAY 1995,FRA,1,Lens (FRA),21 JUL 2012,,javelin-throw-500g,throws,female,u18
-43,59.04,,Fanni KÖVÉR,15 FEB 2004,HUN,1,"Atlétikai Centrum, Szekszárd (HUN)",07 AUG 2021,,javelin-throw-500g,throws,female,u18
-44,58.96,,Eda TUĞSUZ,27 MAR 1997,TUR,1,Baku (AZE),31 MAY 2014,,javelin-throw-500g,throws,female,u18
-45,58.91,,Rebecca NELIMARKKA,10 JUL 2006,FIN,2,"Atletski stadion Poljane, Maribor (SLO)",28 JUL 2023,,javelin-throw-500g,throws,female,u18
-46,58.88,,Adriana VILAGOŠ,02 JAN 2004,SRB,1,Sremska Mitrovica (SRB),07 APR 2018,,javelin-throw-500g,throws,female,u18
-47,58.87,,Marisleisys DUARTHE,17 SEP 2000,CUB,1,La Habana (CUB),20 MAY 2017,,javelin-throw-500g,throws,female,u18
-48,58.85,,Kaja Mørch PETEERSEN,06 NOV 2001,NOR,1,Skien (NOR),03 JUN 2017,,javelin-throw-500g,throws,female,u18
-49,58.84,,Xinjie GU,02 FEB 2001,CHN,2,Zhuzhou (CHN),17 APR 2018,,javelin-throw-500g,throws,female,u18
-50,58.77,,Gabriela ANDRUKONIS,17 SEP 2002,POL,1,Baku (AZE),26 JUL 2019,,javelin-throw-500g,throws,female,u18
-51,58.72,,Münevver HANCI,25 JAN 2001,TUR,1,Mersin (TUR),18 FEB 2018,,javelin-throw-500g,throws,female,u18
-51,58.72,,Adriana VILAGOŠ,02 JAN 2004,SRB,1,Veszprém (HUN),06 JUL 2019,,javelin-throw-500g,throws,female,u18
-53,58.68,,Carolina VISCA,31 MAY 2000,ITA,1,Roma (ITA),15 JUL 2015,,javelin-throw-500g,throws,female,u18
-54,58.65,,Münevver HANCI,25 JAN 2001,TUR,1,Bolu (TUR),03 AUG 2017,,javelin-throw-500g,throws,female,u18
-55,58.55,,Ying WANG,05 JUN 2001,CHN,2,Weinan (CHN),18 AUG 2017,,javelin-throw-500g,throws,female,u18
-56,58.49,,Xueting BAI,08 JUN 2009,CHN,1,"Sichuan Xipu Training Base, Chengdu (CHN)",02 APR 2025,,javelin-throw-500g,throws,female,u18
-57,58.40,,Adriana VILAGOŠ,02 JAN 2004,SRB,1,Beograd (SRB),12 MAY 2018,,javelin-throw-500g,throws,female,u18
-58,58.30,,Nikol TABAČKOVÁ,24 JAN 1998,CZE,1,Trnava (SVK),06 JUN 2015,,javelin-throw-500g,throws,female,u18
-58,58.30,,Carolina VISCA,31 MAY 2000,ITA,1,Halle (GER),21 MAY 2017,,javelin-throw-500g,throws,female,u18
-60,58.28,,Monique CILIONE,19 NOV 1994,AUS,1,"UQ Athletic Centre, St Lucia, Brisbane (AUS)",04 DEC 2011,,javelin-throw-500g,throws,female,u18
-61,58.22,,Adriana VILAGOŠ,02 JAN 2004,SRB,1,Tiszaújváros (HUN),28 APR 2018,,javelin-throw-500g,throws,female,u18
-62,58.11,,Julia VALTANEN,06 MAY 2001,FIN,1,"Olimpiai Sportpark, Győr (HUN)",29 JUL 2017,,javelin-throw-500g,throws,female,u18
-63,58.05,,Elina TZENGKO,02 SEP 2002,GRE,1,Katerini (GRE),23 JUN 2018,,javelin-throw-500g,throws,female,u18
-64,57.98,,Vivian SUOMINEN,17 SEP 2003,FIN,1,Pihtipudas (FIN),27 JUN 2019,,javelin-throw-500g,throws,female,u18
-65,57.95,,Anna TARASIUK,30 OCT 1997,BLR,1,Brasilia (BRA),02 DEC 2013,,javelin-throw-500g,throws,female,u18
-65,57.95,,Adriana VILAGOŠ,02 JAN 2004,SRB,1,"Atletski stadion, Sremska Mitrovica (SRB)",21 MAR 2021,,javelin-throw-500g,throws,female,u18
-67,57.93,,Viktoriya CHERVYAKOVA,08 MAR 2002,RUS,1,Sochi (RUS),21 FEB 2019,,javelin-throw-500g,throws,female,u18
-68,57.92,,Marcelina WITEK,02 JUN 1995,POL,1,Łódź (POL),29 AUG 2012,,javelin-throw-500g,throws,female,u18
-69,57.88,,Nikol TABAČKOVÁ,24 JAN 1998,CZE,1,Brno (CZE),09 MAY 2015,,javelin-throw-500g,throws,female,u18
-70,57.81,,Vita BARBIĆ,13 AUG 2007,CRO,1,"Atletski stadion Poljane, Maribor (SLO)",06 JUL 2024,,javelin-throw-500g,throws,female,u18
-71,57.80,,Aliaksandra KONSHYNA,14 AUG 2001,BLR,1,Brest (BLR),28 MAY 2018,,javelin-throw-500g,throws,female,u18
-72,57.78,,Laine DONANE,01 OCT 1998,LAT,1,Jelgava (LAT),14 JUN 2015,,javelin-throw-500g,throws,female,u18
-73,57.76,,Veronika ŠOKOTA,09 MAR 2004,CRO,1,"Stadion ŠC Sloboda, Varaždin (CRO)",27 JUN 2021,,javelin-throw-500g,throws,female,u18
-74,57.71,,Fanni KÖVÉR,15 FEB 2004,HUN,1,"Lantos Mihály Sportközpont, Budapest (HUN)",25 SEP 2021,,javelin-throw-500g,throws,female,u18
-75,57.68,,Ilaria CASAROTTO,09 FEB 1997,ITA,1,Rieti (ITA),21 JUN 2014,,javelin-throw-500g,throws,female,u18
-76,57.65,,Aseel Osama ABDEL HAMID,17 FEB 2008,EGY,1,"Armed Forces Stadium, Abu Dhabi (UAE)",25 APR 2025,,javelin-throw-500g,throws,female,u18
-77,57.64,,Konstanze IRLINGER,08 MAR 2007,GER,2f1,Banská Bystrica (SVK),21 JUL 2024,,javelin-throw-500g,throws,female,u18
-78,57.57,,Mckyla VAN DER WESTHUIZEN,11 MAR 2004,RSA,1,"McArthur Stadium, Potchefstroom (RSA)",19 MAR 2021,,javelin-throw-500g,throws,female,u18
-79,57.51,,Arianne DUARTE MORAIS,23 MAY 1999,NOR,1q1,"New District Stadium, Tbilisi (GEO)",16 JUL 2016,,javelin-throw-500g,throws,female,u18
-80,57.45,,Carolina VISCA,31 MAY 2000,ITA,1,Roma (ITA),18 APR 2015,,javelin-throw-500g,throws,female,u18
-81,57.41,,Münevver HANCI,25 JAN 2001,TUR,3q1,Buenos Aires (ARG),13 OCT 2018,,javelin-throw-500g,throws,female,u18
-82,57.40,,Elina KINNUNEN,05 JAN 1999,FIN,3,"New District Stadium, Tbilisi (GEO)",17 JUL 2016,,javelin-throw-500g,throws,female,u18
-83,57.39,,Adriana VILAGOŠ,02 JAN 2004,SRB,1,Zagreb (CRO),21 SEP 2019,,javelin-throw-500g,throws,female,u18
-84,57.35,,Géraldine RUCKSTUHL,24 FEB 1998,SUI,1ce,Landquart (SUI),24 MAY 2014,,javelin-throw-500g,throws,female,u18
-85,57.29,,Marisleisys DUARTHE,17 SEP 2000,CUB,1q2,"Kasarani, Nairobi (KEN)",15 JUL 2017,,javelin-throw-500g,throws,female,u18
-86,57.28,,Qianqian DAI,23 AUG 2000,CHN,1,Rugao (CHN),14 MAY 2017,,javelin-throw-500g,throws,female,u18
-87,57.23,,Fanni KÖVÉR,15 FEB 2004,HUN,1,"SZIE Atlétika Centrum, Gödöllő (HUN)",25 APR 2021,,javelin-throw-500g,throws,female,u18
-88,57.16,,Carolina VISCA,31 MAY 2000,ITA,1,Firenze (ITA),02 OCT 2016,,javelin-throw-500g,throws,female,u18
-89,57.15,,Lianna DAVIDSON,08 NOV 2002,AUS,1,"SOPAC, Sydney (AUS)",27 SEP 2019,,javelin-throw-500g,throws,female,u18
-90,57.14,,Emma HAMPLETT,27 JUL 1998,GBR,1,Loughborough (GBR),01 JUN 2014,,javelin-throw-500g,throws,female,u18
-90,57.14,,Ying WANG,05 JUN 2001,CHN,2f1,Buenos Aires (ARG),16 OCT 2018,,javelin-throw-500g,throws,female,u18
-92,57.12,,Anni-Linnea ALANEN,11 NOV 2002,FIN,2,Pihtipudas (FIN),27 JUN 2019,,javelin-throw-500g,throws,female,u18
-93,57.11,,Stella WEINBERG,21 OCT 1998,NOR,2,"Pascual Guerrero Stadium, Cali (COL)",16 JUL 2015,,javelin-throw-500g,throws,female,u18
-94,57.06,,Münevver HANCI,25 JAN 2001,TUR,3f1,Buenos Aires (ARG),16 OCT 2018,,javelin-throw-500g,throws,female,u18
-95,57.03,,Qing CAI,08 MAR 2000,CHN,1,Nanchang (CHN),19 APR 2017,,javelin-throw-500g,throws,female,u18
-96,57.01,,Qing CAI,08 MAR 2000,CHN,2,"Kasarani, Nairobi (KEN)",16 JUL 2017,,javelin-throw-500g,throws,female,u18
-97,56.97,,Ilaria CASAROTTO,09 FEB 1997,ITA,1,"Stadio della Farnesina, Roma (ITA)",09 JUN 2013,,javelin-throw-500g,throws,female,u18
-98,56.90,,Oleksandra ZARYTSKA,21 JUL 1999,UKR,4,"New District Stadium, Tbilisi (GEO)",17 JUL 2016,,javelin-throw-500g,throws,female,u18
-98,56.90,,Adriana VILAGOŠ,02 JAN 2004,SRB,1,Sremska Mitrovica (SRB),17 AUG 2019,,javelin-throw-500g,throws,female,u18
-100,56.85,,Vita BARBIĆ,13 AUG 2007,CRO,1,"Stadion Branko Čavlović-Čavlek, Karlovac (CRO)",04 JUN 2023,,javelin-throw-500g,throws,female,u18
-101,56.84,,Marine GROBLER,14 AUG 2007,RSA,1,"Pilditch Stadium, Pretoria (RSA)",22 MAR 2024,,javelin-throw-500g,throws,female,u18
-102,56.79,,Nikol TABAČKOVÁ,24 JAN 1998,CZE,1,Halle (GER),17 MAY 2015,,javelin-throw-500g,throws,female,u18
-103,56.77,,Shiyun CHEN,24 AUG 2008,CHN,1,"Olympic Sports Center, Huangshi (CHN)",29 JUN 2025,,javelin-throw-500g,throws,female,u18
-104,56.71,,Julia VALTANEN,06 MAY 2001,FIN,1,Pihtipudas (FIN),29 JUN 2017,,javelin-throw-500g,throws,female,u18
-104,56.71,,Aliaksandra KONSHYNA,14 AUG 2001,BLR,1,"Olimpiai Sportpark, Győr (HUN)",08 JUL 2018,,javelin-throw-500g,throws,female,u18
-106,56.70,,Rebecca NELIMARKKA,10 JUL 2006,FIN,1,"Urheilukenttä, Pihtipudas (FIN)",29 JUN 2023,,javelin-throw-500g,throws,female,u18
-107,56.69,,Adriana VILAGOŠ,02 JAN 2004,SRB,1,Sremska Mitrovica (SRB),02 JUN 2018,,javelin-throw-500g,throws,female,u18
-107,56.69,,Anni-Linnea ALANEN,11 NOV 2002,FIN,1,Vaasa (FIN),17 JUN 2019,,javelin-throw-500g,throws,female,u18
-109,56.68,,Mackenzie LITTLE,22 DEC 1996,AUS,1,Hobart (AUS),02 DEC 2012,,javelin-throw-500g,throws,female,u18
-110,56.64,,Münevver HANCI,25 JAN 2001,TUR,1,Istanbul (TUR),09 JUN 2018,,javelin-throw-500g,throws,female,u18
-111,56.63,,Haruka KITAGUCHI,16 MAR 1998,JPN,1,Wakayama (JPN),30 JUL 2015,,javelin-throw-500g,throws,female,u18
-112,56.61,,Eda TUĞSUZ,27 MAR 1997,TUR,1,Utrecht (NED),19 JUL 2013,,javelin-throw-500g,throws,female,u18
-113,56.58,,Sara ZABARINO,01 AUG 1999,ITA,5,"New District Stadium, Tbilisi (GEO)",17 JUL 2016,,javelin-throw-500g,throws,female,u18
-114,56.47,,Yuliya MAKEYEVA,05 NOV 2000,BLR,2q2,"Kasarani, Nairobi (KEN)",15 JUL 2017,,javelin-throw-500g,throws,female,u18
-115,56.46,,Anna TARASIUK,30 OCT 1997,BLR,2,Utrecht (NED),19 JUL 2013,,javelin-throw-500g,throws,female,u18
-115,56.46,,Arianne DUARTE MORAIS,23 MAY 1999,NOR,1,Sandnes (NOR),03 SEP 2016,,javelin-throw-500g,throws,female,u18
-117,56.42,,Malin KARELL,27 SEP 2005,FIN,1,"Hakkarin urheilukenttä, Lempäälä (FIN)",13 AUG 2022,,javelin-throw-500g,throws,female,u18
-118,56.36,,Xinjie GU,02 FEB 2001,CHN,2,Bangkok (THA),05 JUL 2018,,javelin-throw-500g,throws,female,u18
-118,56.36,,Emilia KARELL,30 MAR 2003,FIN,1,"Klaukkalan moukarikenttä, Nurmijärvi (FIN)",05 SEP 2020,,javelin-throw-500g,throws,female,u18
-120,56.30,,Stella WEINBERG,21 OCT 1998,NOR,1,Skien (NOR),30 MAY 2015,,javelin-throw-500g,throws,female,u18
-121,56.29,,Emma HAMPLETT,27 JUL 1998,GBR,1,Leiria (POR),09 AUG 2015,,javelin-throw-500g,throws,female,u18
-121,56.29,,Yu LIAO,18 MAY 2000,CHN,1,Bangkok (THA),22 MAY 2017,,javelin-throw-500g,throws,female,u18
-123,56.28,,Carolina VISCA,31 MAY 2000,ITA,1,"Bressanone, Trentino-Alto Adige (ITA)",24 MAY 2015,,javelin-throw-500g,throws,female,u18
-123,56.28,,Münevver HANCI,25 JAN 2001,TUR,2,"Olimpiai Sportpark, Győr (HUN)",08 JUL 2018,,javelin-throw-500g,throws,female,u18
-125,56.25,,Nikol TABAČKOVÁ,24 JAN 1998,CZE,1,Schwechat (AUT),24 MAY 2015,,javelin-throw-500g,throws,female,u18
-125,56.25,,Géraldine RUCKSTUHL,24 FEB 1998,SUI,1,Riehen (SUI),30 AUG 2015,,javelin-throw-500g,throws,female,u18
-125,56.25,,Fanni KÖVÉR,15 FEB 2004,HUN,1,"Vanyek Béla Sportcentrum, Vác (HUN)",27 SEP 2020,,javelin-throw-500g,throws,female,u18
-128,56.24,,Vivian SUOMINEN,17 SEP 2003,FIN,2,Baku (AZE),26 JUL 2019,,javelin-throw-500g,throws,female,u18
-129,56.19,,Marisleisys DUARTHE,17 SEP 2000,CUB,1,La Habana (CUB),03 MAR 2017,,javelin-throw-500g,throws,female,u18
-130,56.15,,Laine DONANE,01 OCT 1998,LAT,3,"Pascual Guerrero Stadium, Cali (COL)",16 JUL 2015,,javelin-throw-500g,throws,female,u18
-131,56.09,,Alina SHUKH,12 FEB 1999,UKR,2q1,"New District Stadium, Tbilisi (GEO)",16 JUL 2016,,javelin-throw-500g,throws,female,u18
-131,56.09,,Fanni KÖVÉR,15 FEB 2004,HUN,1,"Lantos Mihály Sportközpont, Budapest (HUN)",29 AUG 2020,,javelin-throw-500g,throws,female,u18
-133,56.00,,Margaux NICOLLIN,01 MAY 1995,FRA,1,Chateauroux (FRA),26 FEB 2012,,javelin-throw-500g,throws,female,u18
-134,55.99,,Elina KINNUNEN,05 JAN 1999,FIN,1,Tampere (FIN),04 SEP 2016,,javelin-throw-500g,throws,female,u18
-135,55.98,,Qianqian DAI,23 AUG 2000,CHN,2,Halle (GER),21 MAY 2017,,javelin-throw-500g,throws,female,u18
-135,55.98,,Melissa M. HERNÁNDEZ,16 MAR 2001,CUB,2,La Habana (CUB),25 MAY 2017,,javelin-throw-500g,throws,female,u18
-137,55.97,,Nikol TABAČKOVÁ,24 JAN 1998,CZE,4,"Pascual Guerrero Stadium, Cali (COL)",16 JUL 2015,,javelin-throw-500g,throws,female,u18
-138,55.96,,Aleksandra OSTROWSKA,19 DEC 1997,POL,1,Bialogard (POL),27 SEP 2014,,javelin-throw-500g,throws,female,u18
-139,55.92,,Julia VALTANEN,06 MAY 2001,FIN,1,"Eerikkilä Sports, Tammela (FIN)",12 MAY 2017,,javelin-throw-500g,throws,female,u18
-140,55.88,,Elina TZENGKO,02 SEP 2002,GRE,1q2,"Olimpiai Sportpark, Győr (HUN)",07 JUL 2018,,javelin-throw-500g,throws,female,u18
-141,55.86,,Esra TÜRKMEN,20 JAN 2002,TUR,1,Bursa (TUR),21 APR 2019,,javelin-throw-500g,throws,female,u18
-142,55.84,,Carolina VISCA,31 MAY 2000,ITA,1,Roma (ITA),18 SEP 2016,,javelin-throw-500g,throws,female,u18
-143,55.80,,Anna TARASIUK,30 OCT 1997,BLR,2,Baku (AZE),31 MAY 2014,,javelin-throw-500g,throws,female,u18
-144,55.79,,Fanni KÖVÉR,15 FEB 2004,HUN,1,"Sports Stadium CESA VUT, Brno (CZE)",14 AUG 2021,,javelin-throw-500g,throws,female,u18
-145,55.77,,Jing ZHANG,27 JAN 2000,CHN,2,Nanchang (CHN),19 APR 2017,,javelin-throw-500g,throws,female,u18
-146,55.76,,Adriana VILAGOŠ,02 JAN 2004,SRB,1,Novi Sad (SRB),10 JUN 2017,,javelin-throw-500g,throws,female,u18
-147,55.74,,Vivian SUOMINEN,17 SEP 2003,FIN,1,Lohja (FIN),01 MAY 2019,,javelin-throw-500g,throws,female,u18
-148,55.73,,Anete KOCIŅA,05 FEB 1996,LAT,1,Ventspils (LAT),14 JUN 2013,,javelin-throw-500g,throws,female,u18
-149,55.71,,Laine DONANE,01 OCT 1998,LAT,1,Riga (LAT),07 MAR 2015,,javelin-throw-500g,throws,female,u18
-149,55.71,,Münevver HANCI,25 JAN 2001,TUR,1,Istanbul (TUR),02 JUN 2018,,javelin-throw-500g,throws,female,u18
-149,55.71,,Vivian SUOMINEN,17 SEP 2003,FIN,1,Helsinki (FIN),12 JUN 2019,,javelin-throw-500g,throws,female,u18
-152,55.70,,Marisleisys DUARTHE,17 SEP 2000,CUB,1,La Habana (CUB),14 MAR 2017,,javelin-throw-500g,throws,female,u18
-153,55.66,,Sara ZABARINO,01 AUG 1999,ITA,1q2,"New District Stadium, Tbilisi (GEO)",16 JUL 2016,,javelin-throw-500g,throws,female,u18
-153,55.66,,Jiayan ZHOU,17 JUN 2003,CHN,1,Huludao (CHN),24 MAY 2019,,javelin-throw-500g,throws,female,u18
-155,55.65,,Marisleisys DUARTHE,17 SEP 2000,CUB,1,La Habana (CUB),25 FEB 2017,,javelin-throw-500g,throws,female,u18
-156,55.63,,Laine DONANE,01 OCT 1998,LAT,1,Ogre (LAT),19 JUN 2015,,javelin-throw-500g,throws,female,u18
-156,55.63,,Julia VALTANEN,06 MAY 2001,FIN,1,Vantaa (FIN),27 MAY 2017,,javelin-throw-500g,throws,female,u18
-158,55.59,,Fanni KÖVÉR,15 FEB 2004,HUN,1,"Vanyek Béla Sportcentrum, Vác (HUN)",10 OCT 2021,,javelin-throw-500g,throws,female,u18
-159,55.58,,Carolina VISCA,31 MAY 2000,ITA,1,Rieti (ITA),14 MAY 2017,,javelin-throw-500g,throws,female,u18
-160,55.56,,Adriana VILAGOŠ,02 JAN 2004,SRB,1,Vác (HUN),30 SEP 2018,,javelin-throw-500g,throws,female,u18
-161,55.55,,Nikol TABAČKOVÁ,24 JAN 1998,CZE,1,Budapest (HUN),28 SEP 2013,,javelin-throw-500g,throws,female,u18
-161,55.55,,Münevver HANCI,25 JAN 2001,TUR,1,Bursa (TUR),22 APR 2018,,javelin-throw-500g,throws,female,u18
-163,55.54,,Tingting ZHAO,14 JUL 2007,CHN,1,"Tuanbo Sports Center, Tianjin (CHN)",21 MAY 2023,,javelin-throw-500g,throws,female,u18
-164,55.53,,Carolina VISCA,31 MAY 2000,ITA,1,L'Aquila (ITA),01 MAY 2016,,javelin-throw-500g,throws,female,u18
-165,55.50,,Veera SAUNA-AHO,24 JUL 2005,FIN,2,"Hakkarin urheilukenttä, Lempäälä (FIN)",13 AUG 2022,,javelin-throw-500g,throws,female,u18
-165,55.50,,Rebecca NELIMARKKA,10 JUL 2006,FIN,1,"Kuortaneen keskusurheilukenttä, Kuortane (FIN)",13 AUG 2023,,javelin-throw-500g,throws,female,u18
-167,55.49,,Adriana VILAGOŠ,02 JAN 2004,SRB,1,Brno (CZE),11 SEP 2019,,javelin-throw-500g,throws,female,u18
-168,55.48,,Anna TARASIUK,30 OCT 1997,BLR,1q,"Olympic Stadium, Nanjing (CHN)",22 AUG 2014,,javelin-throw-500g,throws,female,u18
-168,55.48,,Elina TZENGKO,02 SEP 2002,GRE,1,Edessa (GRE),30 MAY 2018,,javelin-throw-500g,throws,female,u18
-170,55.46,,Vivian SUOMINEN,17 SEP 2003,FIN,1,Lahti (FIN),19 MAY 2019,,javelin-throw-500g,throws,female,u18
-170,55.46,,Aseel Osama ABDEL HAMID,17 FEB 2008,EGY,1,"The Olympic Center For Training National Teams, Cairo (EGY)",30 DEC 2024,,javelin-throw-500g,throws,female,u18
-172,55.45,,Ellie BOWYER,16 MAY 2000,AUS,1,Gold Coast (AUS),08 JUL 2017,,javelin-throw-500g,throws,female,u18
-173,55.44,,Xinjie GU,02 FEB 2001,CHN,3,Nanchang (CHN),19 APR 2017,,javelin-throw-500g,throws,female,u18
-173,55.44,,Wenyue YANG,22 MAR 2009,CHN,2,"Olympic Sports Center, Huangshi (CHN)",29 JUN 2025,,javelin-throw-500g,throws,female,u18
-175,55.37,,Xinjie GU,02 FEB 2001,CHN,3,Weinan (CHN),18 AUG 2017,,javelin-throw-500g,throws,female,u18
-176,55.36,,Fanni KÖVÉR,15 FEB 2004,HUN,1,"SZIE Atlétika Centrum, Gödöllő (HUN)",27 JUN 2020,,javelin-throw-500g,throws,female,u18
-177,55.35,,Yu LIAO,18 MAY 2000,CHN,4,Weinan (CHN),18 AUG 2017,,javelin-throw-500g,throws,female,u18
-177,55.35,,Vivian SUOMINEN,17 SEP 2003,FIN,1,Kankaanpää (FIN),11 AUG 2019,,javelin-throw-500g,throws,female,u18
-177,55.35,,Elin LINDBERG,02 AUG 2008,SWE,1ce,"Sannerudsvallen, Kil (SWE)",14 JUL 2024,,javelin-throw-500g,throws,female,u18
-180,55.32,,Carolina VISCA,31 MAY 2000,ITA,1,Roma (ITA),02 JUL 2016,,javelin-throw-500g,throws,female,u18
-181,55.29,,Nikol TABAČKOVÁ,24 JAN 1998,CZE,1q2,"Pascual Guerrero Stadium, Cali (COL)",15 JUL 2015,,javelin-throw-500g,throws,female,u18
-182,55.28,,Gedly TUGI,11 SEP 2001,EST,3,"Olimpiai Sportpark, Győr (HUN)",08 JUL 2018,,javelin-throw-500g,throws,female,u18
-183,55.27,,Vivian SUOMINEN,17 SEP 2003,FIN,1,"Olympiastadion, Stockholm (SWE)",24 AUG 2019,,javelin-throw-500g,throws,female,u18
-184,55.25,,Kaja Mørch PETEERSEN,06 NOV 2001,NOR,1,Larvik (NOR),10 MAY 2017,,javelin-throw-500g,throws,female,u18
-184,55.25,,Münevver HANCI,25 JAN 2001,TUR,2,"Olimpiai Sportpark, Győr (HUN)",29 JUL 2017,,javelin-throw-500g,throws,female,u18
-186,55.21,,Juleisy ANGULO,02 JAN 2001,ECU,4f1,Buenos Aires (ARG),16 OCT 2018,,javelin-throw-500g,throws,female,u18
-186,55.21,,Anni-Linnea ALANEN,11 NOV 2002,FIN,1,Vaasa (FIN),13 JUN 2019,,javelin-throw-500g,throws,female,u18
-188,55.20,,Aliaksandra KONSHYNA,14 AUG 2001,BLR,5f1,Buenos Aires (ARG),16 OCT 2018,,javelin-throw-500g,throws,female,u18
-188,55.20,,Malin KARELL,27 SEP 2005,FIN,1,"Eläintarhan urheilukenttä, Helsinki (FIN)",21 JUN 2022,,javelin-throw-500g,throws,female,u18
-190,55.19,,Rebecca NELIMARKKA,10 JUL 2006,FIN,1,"Klaukkalan urheilukenttä, Nurmijärvi (FIN)",15 JUN 2023,,javelin-throw-500g,throws,female,u18
-191,55.16,,Ying WANG,05 JUN 2001,CHN,4,Nanchang (CHN),19 APR 2017,,javelin-throw-500g,throws,female,u18
-192,55.15,,Jo-Ane VAN DYK,03 OCT 1997,RSA,1,East London (RSA),23 MAR 2013,,javelin-throw-500g,throws,female,u18
-193,55.13,,Vita BARBIĆ,13 AUG 2007,CRO,1q2,Banská Bystrica (SVK),20 JUL 2024,,javelin-throw-500g,throws,female,u18
-194,55.11,,Qianqian DAI,23 AUG 2000,CHN,5,Nanchang (CHN),19 APR 2017,,javelin-throw-500g,throws,female,u18
-195,55.10,,Qing CAI,08 MAR 2000,CHN,5,Weinan (CHN),18 AUG 2017,,javelin-throw-500g,throws,female,u18
-195,55.10,,Fanni KÖVÉR,15 FEB 2004,HUN,1,"Atlétikai Centrum, Szekszárd (HUN)",03 JUL 2020,,javelin-throw-500g,throws,female,u18
-197,55.07,,Ying WANG,05 JUN 2001,CHN,2,Bangkok (THA),22 MAY 2017,,javelin-throw-500g,throws,female,u18
-197,55.07,,Skylar CICCOLINI,23 JUL 2001,USA,6f1,Buenos Aires (ARG),16 OCT 2018,,javelin-throw-500g,throws,female,u18
-199,55.06,,Julia VALTANEN,06 MAY 2001,FIN,1,Stockholm (SWE),02 SEP 2017,,javelin-throw-500g,throws,female,u18
-199,55.06,,Aliaksandra KONSHYNA,14 AUG 2001,BLR,4q1,Buenos Aires (ARG),13 OCT 2018,,javelin-throw-500g,throws,female,u18
-199,55.06,,Fanni KÖVÉR,15 FEB 2004,HUN,1,"Egyetemi Stadion, Veszprém (HUN)",11 OCT 2020,,javelin-throw-500g,throws,female,u18
-202,55.03,,Réka SZILÁGYI,19 JAN 1996,HUN,1,Budapest (HUN),02 JUN 2013,,javelin-throw-500g,throws,female,u18
-202,55.03,,Valeria RADAJEVA,25 MAY 1998,EST,1,Võru (EST),10 JUL 2014,,javelin-throw-500g,throws,female,u18
-204,55.01,,Maria ANDREJCZYK,09 MAR 1996,POL,1,Łódź (POL),27 JUL 2013,,javelin-throw-500g,throws,female,u18
-204,55.01,,Joanna HAJDROWSKA,28 AUG 1999,POL,1,Rzeszów (POL),22 MAY 2016,,javelin-throw-500g,throws,female,u18
-206,55.00,,Elina KINNUNEN,05 JAN 1999,FIN,1,Tammela (FIN),14 MAY 2016,,javelin-throw-500g,throws,female,u18
+10,64.55,,Ziyi YAN,22 MAY 2008,CHN,1,"Olympic Center, Shenyang (CHN)",13 AUG 2025,,javelin-throw-500g,throws,female,u18
+11,63.69,,Ying WANG,05 JUN 2001,CHN,1,Jinzhou (CHN),05 MAY 2018,,javelin-throw-500g,throws,female,u18
+12,63.52,,Ying WANG,05 JUN 2001,CHN,1,Zhuzhou (CHN),17 APR 2018,,javelin-throw-500g,throws,female,u18
+12,63.52,,Ziyi YAN,22 MAY 2008,CHN,1,"Olympic Center, Shenyang (CHN)",10 AUG 2025,,javelin-throw-500g,throws,female,u18
+14,63.41,,Ying WANG,05 JUN 2001,CHN,1,Bangkok (THA),05 JUL 2018,,javelin-throw-500g,throws,female,u18
+15,63.34,,Elina TZENGKO,02 SEP 2002,GRE,1q1,Buenos Aires (ARG),13 OCT 2018,,javelin-throw-500g,throws,female,u18
+16,62.92,,Marisleisys DUARTHE,17 SEP 2000,CUB,1,"Kasarani, Nairobi (KEN)",16 JUL 2017,,javelin-throw-500g,throws,female,u18
+17,62.79,,Adriana VILAGOŠ,02 JAN 2004,SRB,1,Split (CRO),15 MAY 2019,,javelin-throw-500g,throws,female,u18
+18,62.65,,Adriana VILAGOŠ,02 JAN 2004,SRB,,Split (CRO),16 JUN 2019,,javelin-throw-500g,throws,female,u18
+19,62.31,,Adriana VILAGOŠ,02 JAN 2004,SRB,1,Istanbul (TUR),14 JUL 2019,,javelin-throw-500g,throws,female,u18
+20,62.05,,Adriana VILAGOŠ,02 JAN 2004,SRB,1,Osijek (CRO),22 FEB 2020,,javelin-throw-500g,throws,female,u18
+21,61.97,,Yuzhen YU,05 MAR 1998,CHN,1,Doha (QAT),08 MAY 2015,,javelin-throw-500g,throws,female,u18
+22,61.89,,Adriana VILAGOŠ,02 JAN 2004,SRB,1,Novi Sad (SRB),08 JUN 2019,,javelin-throw-500g,throws,female,u18
+23,61.81,,Adriana VILAGOŠ,02 JAN 2004,SRB,1,Sremska Mitrovica (SRB),31 MAR 2019,,javelin-throw-500g,throws,female,u18
+24,61.80,,Elina TZENGKO,02 SEP 2002,GRE,1,Halle (GER),02 JUN 2019,,javelin-throw-500g,throws,female,u18
+25,61.74,,Elina TZENGKO,02 SEP 2002,GRE,1f1,Buenos Aires (ARG),16 OCT 2018,,javelin-throw-500g,throws,female,u18
+26,61.51,,Adriana VILAGOŠ,02 JAN 2004,SRB,1,Sremska Mitrovica (SRB),22 JUN 2019,,javelin-throw-500g,throws,female,u18
+27,61.47,,Mackenzie LITTLE,22 DEC 1996,AUS,1,Donetsk (UKR),11 JUL 2013,,javelin-throw-500g,throws,female,u18
+28,61.07,,Vita BARBIĆ,13 AUG 2007,CRO,1f1,Banská Bystrica (SVK),21 JUL 2024,,javelin-throw-500g,throws,female,u18
+29,60.89,,Arianne DUARTE MORAIS,23 MAY 1999,NOR,1,"New District Stadium, Tbilisi (GEO)",17 JUL 2016,,javelin-throw-500g,throws,female,u18
+30,60.81,,Adriana VILAGOŠ,02 JAN 2004,SRB,1,Beograd (SRB),11 MAY 2019,,javelin-throw-500g,throws,female,u18
+31,60.66,,Elina TZENGKO,02 SEP 2002,GRE,1ce,Thessaloniki (GRE),24 APR 2019,,javelin-throw-500g,throws,female,u18
+32,60.48,,Vita BARBIĆ,13 AUG 2007,CRO,1,"Atletski stadion Poljane, Maribor (SLO)",28 JUL 2023,,javelin-throw-500g,throws,female,u18
+33,60.39,,Sofi FLINK,08 JUL 1995,SWE,1,Espoo (FIN),19 AUG 2012,,javelin-throw-500g,throws,female,u18
+34,60.35,,Haruka KITAGUCHI,16 MAR 1998,JPN,1,"Pascual Guerrero Stadium, Cali (COL)",16 JUL 2015,,javelin-throw-500g,throws,female,u18
+35,60.09,,Carolina VISCA,31 MAY 2000,ITA,1,Tbilisi (GEO),01 AUG 2015,,javelin-throw-500g,throws,female,u18
+36,59.98,,Rebecca NELIMARKKA,10 JUL 2006,FIN,1,"Pahkalanniemen urheilukenttä, Parkano (FIN)",04 JUN 2023,,javelin-throw-500g,throws,female,u18
+37,59.94,,Yulenmis AGUILAR,03 AUG 1996,CUB,2,Donetsk (UKR),11 JUL 2013,,javelin-throw-500g,throws,female,u18
+38,59.82,,Juleisy ANGULO,02 JAN 2001,ECU,2q1,Buenos Aires (ARG),13 OCT 2018,,javelin-throw-500g,throws,female,u18
+39,59.81,,Münevver HANCI,25 JAN 2001,TUR,1q1,"Olimpiai Sportpark, Győr (HUN)",07 JUL 2018,,javelin-throw-500g,throws,female,u18
+40,59.69,,Adriana VILAGOŠ,02 JAN 2004,SRB,1,Osijek (CRO),21 APR 2018,,javelin-throw-500g,throws,female,u18
+41,59.52,,Anna TARASIUK,30 OCT 1997,BLR,1f1,"Olympic Stadium, Nanjing (CHN)",25 AUG 2014,,javelin-throw-500g,throws,female,u18
+42,59.31,,Adriana VILAGOŠ,02 JAN 2004,SRB,1,"Atletski stadion, Sremska Mitrovica (SRB)",19 SEP 2020,,javelin-throw-500g,throws,female,u18
+43,59.11,,Qianqian DAI,23 AUG 2000,CHN,1,Weinan (CHN),18 AUG 2017,,javelin-throw-500g,throws,female,u18
+44,59.10,,Carolina VISCA,31 MAY 2000,ITA,2,"New District Stadium, Tbilisi (GEO)",17 JUL 2016,,javelin-throw-500g,throws,female,u18
+45,59.07,,Margaux NICOLLIN,01 MAY 1995,FRA,1,Lens (FRA),21 JUL 2012,,javelin-throw-500g,throws,female,u18
+46,59.04,,Fanni KÖVÉR,15 FEB 2004,HUN,1,"Atlétikai Centrum, Szekszárd (HUN)",07 AUG 2021,,javelin-throw-500g,throws,female,u18
+47,58.96,,Eda TUĞSUZ,27 MAR 1997,TUR,1,Baku (AZE),31 MAY 2014,,javelin-throw-500g,throws,female,u18
+48,58.91,,Rebecca NELIMARKKA,10 JUL 2006,FIN,2,"Atletski stadion Poljane, Maribor (SLO)",28 JUL 2023,,javelin-throw-500g,throws,female,u18
+49,58.88,,Adriana VILAGOŠ,02 JAN 2004,SRB,1,Sremska Mitrovica (SRB),07 APR 2018,,javelin-throw-500g,throws,female,u18
+50,58.87,,Marisleisys DUARTHE,17 SEP 2000,CUB,1,La Habana (CUB),20 MAY 2017,,javelin-throw-500g,throws,female,u18
+51,58.85,,Kaja Mørch PETEERSEN,06 NOV 2001,NOR,1,Skien (NOR),03 JUN 2017,,javelin-throw-500g,throws,female,u18
+52,58.84,,Xinjie GU,02 FEB 2001,CHN,2,Zhuzhou (CHN),17 APR 2018,,javelin-throw-500g,throws,female,u18
+53,58.77,,Gabriela ANDRUKONIS,17 SEP 2002,POL,1,Baku (AZE),26 JUL 2019,,javelin-throw-500g,throws,female,u18
+54,58.72,,Münevver HANCI,25 JAN 2001,TUR,1,Mersin (TUR),18 FEB 2018,,javelin-throw-500g,throws,female,u18
+54,58.72,,Adriana VILAGOŠ,02 JAN 2004,SRB,1,Veszprém (HUN),06 JUL 2019,,javelin-throw-500g,throws,female,u18
+56,58.68,,Carolina VISCA,31 MAY 2000,ITA,1,Roma (ITA),15 JUL 2015,,javelin-throw-500g,throws,female,u18
+57,58.65,,Münevver HANCI,25 JAN 2001,TUR,1,Bolu (TUR),03 AUG 2017,,javelin-throw-500g,throws,female,u18
+58,58.55,,Ying WANG,05 JUN 2001,CHN,2,Weinan (CHN),18 AUG 2017,,javelin-throw-500g,throws,female,u18
+59,58.49,,Xueting BAI,08 JUN 2009,CHN,1,"Sichuan Xipu Training Base, Chengdu (CHN)",02 APR 2025,,javelin-throw-500g,throws,female,u18
+60,58.40,,Adriana VILAGOŠ,02 JAN 2004,SRB,1,Beograd (SRB),12 MAY 2018,,javelin-throw-500g,throws,female,u18
+61,58.30,,Nikol TABAČKOVÁ,24 JAN 1998,CZE,1,Trnava (SVK),06 JUN 2015,,javelin-throw-500g,throws,female,u18
+61,58.30,,Carolina VISCA,31 MAY 2000,ITA,1,Halle (GER),21 MAY 2017,,javelin-throw-500g,throws,female,u18
+63,58.28,,Monique CILIONE,19 NOV 1994,AUS,1,"UQ Athletic Centre, St Lucia, Brisbane (AUS)",04 DEC 2011,,javelin-throw-500g,throws,female,u18
+64,58.22,,Adriana VILAGOŠ,02 JAN 2004,SRB,1,Tiszaújváros (HUN),28 APR 2018,,javelin-throw-500g,throws,female,u18
+65,58.11,,Julia VALTANEN,06 MAY 2001,FIN,1,"Olimpiai Sportpark, Győr (HUN)",29 JUL 2017,,javelin-throw-500g,throws,female,u18
+66,58.05,,Elina TZENGKO,02 SEP 2002,GRE,1,Katerini (GRE),23 JUN 2018,,javelin-throw-500g,throws,female,u18
+67,57.98,,Vivian SUOMINEN,17 SEP 2003,FIN,1,Pihtipudas (FIN),27 JUN 2019,,javelin-throw-500g,throws,female,u18
+68,57.95,,Anna TARASIUK,30 OCT 1997,BLR,1,Brasilia (BRA),02 DEC 2013,,javelin-throw-500g,throws,female,u18
+68,57.95,,Adriana VILAGOŠ,02 JAN 2004,SRB,1,"Atletski stadion, Sremska Mitrovica (SRB)",21 MAR 2021,,javelin-throw-500g,throws,female,u18
+70,57.93,,Viktoriya CHERVYAKOVA,08 MAR 2002,RUS,1,Sochi (RUS),21 FEB 2019,,javelin-throw-500g,throws,female,u18
+71,57.92,,Marcelina WITEK,02 JUN 1995,POL,1,Łódź (POL),29 AUG 2012,,javelin-throw-500g,throws,female,u18
+72,57.88,,Nikol TABAČKOVÁ,24 JAN 1998,CZE,1,Brno (CZE),09 MAY 2015,,javelin-throw-500g,throws,female,u18
+73,57.81,,Vita BARBIĆ,13 AUG 2007,CRO,1,"Atletski stadion Poljane, Maribor (SLO)",06 JUL 2024,,javelin-throw-500g,throws,female,u18
+74,57.80,,Aliaksandra KONSHYNA,14 AUG 2001,BLR,1,Brest (BLR),28 MAY 2018,,javelin-throw-500g,throws,female,u18
+75,57.78,,Laine DONANE,01 OCT 1998,LAT,1,Jelgava (LAT),14 JUN 2015,,javelin-throw-500g,throws,female,u18
+75,57.78,,Elin LINDBERG,02 AUG 2008,SWE,1,"Sunnerbovallen, Ljungby (SWE)",17 AUG 2025,,javelin-throw-500g,throws,female,u18
+77,57.76,,Veronika ŠOKOTA,09 MAR 2004,CRO,1,"Stadion ŠC Sloboda, Varaždin (CRO)",27 JUN 2021,,javelin-throw-500g,throws,female,u18
+78,57.71,,Fanni KÖVÉR,15 FEB 2004,HUN,1,"Lantos Mihály Sportközpont, Budapest (HUN)",25 SEP 2021,,javelin-throw-500g,throws,female,u18
+79,57.68,,Ilaria CASAROTTO,09 FEB 1997,ITA,1,Rieti (ITA),21 JUN 2014,,javelin-throw-500g,throws,female,u18
+80,57.65,,Aseel Osama ABDEL HAMID,17 FEB 2008,EGY,1,"Armed Forces Stadium, Abu Dhabi (UAE)",25 APR 2025,,javelin-throw-500g,throws,female,u18
+81,57.64,,Konstanze IRLINGER,08 MAR 2007,GER,2f1,Banská Bystrica (SVK),21 JUL 2024,,javelin-throw-500g,throws,female,u18
+82,57.57,,Mckyla VAN DER WESTHUIZEN,11 MAR 2004,RSA,1,"McArthur Stadium, Potchefstroom (RSA)",19 MAR 2021,,javelin-throw-500g,throws,female,u18
+83,57.51,,Arianne DUARTE MORAIS,23 MAY 1999,NOR,1q1,"New District Stadium, Tbilisi (GEO)",16 JUL 2016,,javelin-throw-500g,throws,female,u18
+84,57.45,,Carolina VISCA,31 MAY 2000,ITA,1,Roma (ITA),18 APR 2015,,javelin-throw-500g,throws,female,u18
+85,57.41,,Münevver HANCI,25 JAN 2001,TUR,3q1,Buenos Aires (ARG),13 OCT 2018,,javelin-throw-500g,throws,female,u18
+86,57.40,,Elina KINNUNEN,05 JAN 1999,FIN,3,"New District Stadium, Tbilisi (GEO)",17 JUL 2016,,javelin-throw-500g,throws,female,u18
+87,57.39,,Adriana VILAGOŠ,02 JAN 2004,SRB,1,Zagreb (CRO),21 SEP 2019,,javelin-throw-500g,throws,female,u18
+88,57.35,,Géraldine RUCKSTUHL,24 FEB 1998,SUI,1ce,Landquart (SUI),24 MAY 2014,,javelin-throw-500g,throws,female,u18
+89,57.29,,Marisleisys DUARTHE,17 SEP 2000,CUB,1q2,"Kasarani, Nairobi (KEN)",15 JUL 2017,,javelin-throw-500g,throws,female,u18
+90,57.28,,Qianqian DAI,23 AUG 2000,CHN,1,Rugao (CHN),14 MAY 2017,,javelin-throw-500g,throws,female,u18
+91,57.23,,Fanni KÖVÉR,15 FEB 2004,HUN,1,"SZIE Atlétika Centrum, Gödöllő (HUN)",25 APR 2021,,javelin-throw-500g,throws,female,u18
+92,57.16,,Carolina VISCA,31 MAY 2000,ITA,1,Firenze (ITA),02 OCT 2016,,javelin-throw-500g,throws,female,u18
+93,57.15,,Lianna DAVIDSON,08 NOV 2002,AUS,1,"SOPAC, Sydney (AUS)",27 SEP 2019,,javelin-throw-500g,throws,female,u18
+94,57.14,,Emma HAMPLETT,27 JUL 1998,GBR,1,Loughborough (GBR),01 JUN 2014,,javelin-throw-500g,throws,female,u18
+94,57.14,,Ying WANG,05 JUN 2001,CHN,2f1,Buenos Aires (ARG),16 OCT 2018,,javelin-throw-500g,throws,female,u18
+96,57.12,,Anni-Linnea ALANEN,11 NOV 2002,FIN,2,Pihtipudas (FIN),27 JUN 2019,,javelin-throw-500g,throws,female,u18
+97,57.11,,Stella WEINBERG,21 OCT 1998,NOR,2,"Pascual Guerrero Stadium, Cali (COL)",16 JUL 2015,,javelin-throw-500g,throws,female,u18
+98,57.06,,Münevver HANCI,25 JAN 2001,TUR,3f1,Buenos Aires (ARG),16 OCT 2018,,javelin-throw-500g,throws,female,u18
+99,57.03,,Qing CAI,08 MAR 2000,CHN,1,Nanchang (CHN),19 APR 2017,,javelin-throw-500g,throws,female,u18
+100,57.01,,Qing CAI,08 MAR 2000,CHN,2,"Kasarani, Nairobi (KEN)",16 JUL 2017,,javelin-throw-500g,throws,female,u18
+101,56.97,,Ilaria CASAROTTO,09 FEB 1997,ITA,1,"Stadio della Farnesina, Roma (ITA)",09 JUN 2013,,javelin-throw-500g,throws,female,u18
+102,56.90,,Oleksandra ZARYTSKA,21 JUL 1999,UKR,4,"New District Stadium, Tbilisi (GEO)",17 JUL 2016,,javelin-throw-500g,throws,female,u18
+102,56.90,,Adriana VILAGOŠ,02 JAN 2004,SRB,1,Sremska Mitrovica (SRB),17 AUG 2019,,javelin-throw-500g,throws,female,u18
+104,56.85,,Vita BARBIĆ,13 AUG 2007,CRO,1,"Stadion Branko Čavlović-Čavlek, Karlovac (CRO)",04 JUN 2023,,javelin-throw-500g,throws,female,u18
+105,56.84,,Marine GROBLER,14 AUG 2007,RSA,1,"Pilditch Stadium, Pretoria (RSA)",22 MAR 2024,,javelin-throw-500g,throws,female,u18
+106,56.79,,Nikol TABAČKOVÁ,24 JAN 1998,CZE,1,Halle (GER),17 MAY 2015,,javelin-throw-500g,throws,female,u18
+107,56.77,,Shiyun CHEN,24 AUG 2008,CHN,1,"Olympic Sports Center, Huangshi (CHN)",29 JUN 2025,,javelin-throw-500g,throws,female,u18
+108,56.71,,Julia VALTANEN,06 MAY 2001,FIN,1,Pihtipudas (FIN),29 JUN 2017,,javelin-throw-500g,throws,female,u18
+108,56.71,,Aliaksandra KONSHYNA,14 AUG 2001,BLR,1,"Olimpiai Sportpark, Győr (HUN)",08 JUL 2018,,javelin-throw-500g,throws,female,u18
+110,56.70,,Rebecca NELIMARKKA,10 JUL 2006,FIN,1,"Urheilukenttä, Pihtipudas (FIN)",29 JUN 2023,,javelin-throw-500g,throws,female,u18
+111,56.69,,Adriana VILAGOŠ,02 JAN 2004,SRB,1,Sremska Mitrovica (SRB),02 JUN 2018,,javelin-throw-500g,throws,female,u18
+111,56.69,,Anni-Linnea ALANEN,11 NOV 2002,FIN,1,Vaasa (FIN),17 JUN 2019,,javelin-throw-500g,throws,female,u18
+113,56.68,,Mackenzie LITTLE,22 DEC 1996,AUS,1,Hobart (AUS),02 DEC 2012,,javelin-throw-500g,throws,female,u18
+114,56.64,,Münevver HANCI,25 JAN 2001,TUR,1,Istanbul (TUR),09 JUN 2018,,javelin-throw-500g,throws,female,u18
+115,56.63,,Haruka KITAGUCHI,16 MAR 1998,JPN,1,Wakayama (JPN),30 JUL 2015,,javelin-throw-500g,throws,female,u18
+116,56.61,,Eda TUĞSUZ,27 MAR 1997,TUR,1,Utrecht (NED),19 JUL 2013,,javelin-throw-500g,throws,female,u18
+117,56.58,,Sara ZABARINO,01 AUG 1999,ITA,5,"New District Stadium, Tbilisi (GEO)",17 JUL 2016,,javelin-throw-500g,throws,female,u18
+118,56.47,,Yuliya MAKEYEVA,05 NOV 2000,BLR,2q2,"Kasarani, Nairobi (KEN)",15 JUL 2017,,javelin-throw-500g,throws,female,u18
+119,56.46,,Anna TARASIUK,30 OCT 1997,BLR,2,Utrecht (NED),19 JUL 2013,,javelin-throw-500g,throws,female,u18
+119,56.46,,Arianne DUARTE MORAIS,23 MAY 1999,NOR,1,Sandnes (NOR),03 SEP 2016,,javelin-throw-500g,throws,female,u18
+121,56.42,,Malin KARELL,27 SEP 2005,FIN,1,"Hakkarin urheilukenttä, Lempäälä (FIN)",13 AUG 2022,,javelin-throw-500g,throws,female,u18
+122,56.36,,Xinjie GU,02 FEB 2001,CHN,2,Bangkok (THA),05 JUL 2018,,javelin-throw-500g,throws,female,u18
+122,56.36,,Emilia KARELL,30 MAR 2003,FIN,1,"Klaukkalan moukarikenttä, Nurmijärvi (FIN)",05 SEP 2020,,javelin-throw-500g,throws,female,u18
+124,56.30,,Stella WEINBERG,21 OCT 1998,NOR,1,Skien (NOR),30 MAY 2015,,javelin-throw-500g,throws,female,u18
+125,56.29,,Emma HAMPLETT,27 JUL 1998,GBR,1,Leiria (POR),09 AUG 2015,,javelin-throw-500g,throws,female,u18
+125,56.29,,Yu LIAO,18 MAY 2000,CHN,1,Bangkok (THA),22 MAY 2017,,javelin-throw-500g,throws,female,u18
+127,56.28,,Carolina VISCA,31 MAY 2000,ITA,1,"Bressanone, Trentino-Alto Adige (ITA)",24 MAY 2015,,javelin-throw-500g,throws,female,u18
+127,56.28,,Münevver HANCI,25 JAN 2001,TUR,2,"Olimpiai Sportpark, Győr (HUN)",08 JUL 2018,,javelin-throw-500g,throws,female,u18
+129,56.25,,Nikol TABAČKOVÁ,24 JAN 1998,CZE,1,Schwechat (AUT),24 MAY 2015,,javelin-throw-500g,throws,female,u18
+129,56.25,,Géraldine RUCKSTUHL,24 FEB 1998,SUI,1,Riehen (SUI),30 AUG 2015,,javelin-throw-500g,throws,female,u18
+129,56.25,,Fanni KÖVÉR,15 FEB 2004,HUN,1,"Vanyek Béla Sportcentrum, Vác (HUN)",27 SEP 2020,,javelin-throw-500g,throws,female,u18
+132,56.24,,Vivian SUOMINEN,17 SEP 2003,FIN,2,Baku (AZE),26 JUL 2019,,javelin-throw-500g,throws,female,u18
+133,56.19,,Marisleisys DUARTHE,17 SEP 2000,CUB,1,La Habana (CUB),03 MAR 2017,,javelin-throw-500g,throws,female,u18
+134,56.15,,Laine DONANE,01 OCT 1998,LAT,3,"Pascual Guerrero Stadium, Cali (COL)",16 JUL 2015,,javelin-throw-500g,throws,female,u18
+135,56.09,,Alina SHUKH,12 FEB 1999,UKR,2q1,"New District Stadium, Tbilisi (GEO)",16 JUL 2016,,javelin-throw-500g,throws,female,u18
+135,56.09,,Fanni KÖVÉR,15 FEB 2004,HUN,1,"Lantos Mihály Sportközpont, Budapest (HUN)",29 AUG 2020,,javelin-throw-500g,throws,female,u18
+137,56.02,,Elin LINDBERG,02 AUG 2008,SWE,1,"Olympiastadion, Stockholm (SWE)",23 AUG 2025,,javelin-throw-500g,throws,female,u18
+138,56.00,,Margaux NICOLLIN,01 MAY 1995,FRA,1,Chateauroux (FRA),26 FEB 2012,,javelin-throw-500g,throws,female,u18
+139,55.99,,Elina KINNUNEN,05 JAN 1999,FIN,1,Tampere (FIN),04 SEP 2016,,javelin-throw-500g,throws,female,u18
+140,55.98,,Qianqian DAI,23 AUG 2000,CHN,2,Halle (GER),21 MAY 2017,,javelin-throw-500g,throws,female,u18
+140,55.98,,Melissa M. HERNÁNDEZ,16 MAR 2001,CUB,2,La Habana (CUB),25 MAY 2017,,javelin-throw-500g,throws,female,u18
+142,55.97,,Nikol TABAČKOVÁ,24 JAN 1998,CZE,4,"Pascual Guerrero Stadium, Cali (COL)",16 JUL 2015,,javelin-throw-500g,throws,female,u18
+143,55.96,,Aleksandra OSTROWSKA,19 DEC 1997,POL,1,Bialogard (POL),27 SEP 2014,,javelin-throw-500g,throws,female,u18
+144,55.92,,Julia VALTANEN,06 MAY 2001,FIN,1,"Eerikkilä Sports, Tammela (FIN)",12 MAY 2017,,javelin-throw-500g,throws,female,u18
+145,55.88,,Elina TZENGKO,02 SEP 2002,GRE,1q2,"Olimpiai Sportpark, Győr (HUN)",07 JUL 2018,,javelin-throw-500g,throws,female,u18
+146,55.86,,Esra TÜRKMEN,20 JAN 2002,TUR,1,Bursa (TUR),21 APR 2019,,javelin-throw-500g,throws,female,u18
+147,55.84,,Carolina VISCA,31 MAY 2000,ITA,1,Roma (ITA),18 SEP 2016,,javelin-throw-500g,throws,female,u18
+148,55.80,,Anna TARASIUK,30 OCT 1997,BLR,2,Baku (AZE),31 MAY 2014,,javelin-throw-500g,throws,female,u18
+149,55.79,,Fanni KÖVÉR,15 FEB 2004,HUN,1,"Sports Stadium CESA VUT, Brno (CZE)",14 AUG 2021,,javelin-throw-500g,throws,female,u18
+150,55.77,,Jing ZHANG,27 JAN 2000,CHN,2,Nanchang (CHN),19 APR 2017,,javelin-throw-500g,throws,female,u18
+151,55.76,,Adriana VILAGOŠ,02 JAN 2004,SRB,1,Novi Sad (SRB),10 JUN 2017,,javelin-throw-500g,throws,female,u18
+152,55.74,,Vivian SUOMINEN,17 SEP 2003,FIN,1,Lohja (FIN),01 MAY 2019,,javelin-throw-500g,throws,female,u18
+152,55.74,,Shiyun CHEN,24 AUG 2008,CHN,2,"Olympic Center, Shenyang (CHN)",10 AUG 2025,,javelin-throw-500g,throws,female,u18
+154,55.73,,Anete KOCIŅA,05 FEB 1996,LAT,1,Ventspils (LAT),14 JUN 2013,,javelin-throw-500g,throws,female,u18
+155,55.71,,Laine DONANE,01 OCT 1998,LAT,1,Riga (LAT),07 MAR 2015,,javelin-throw-500g,throws,female,u18
+155,55.71,,Münevver HANCI,25 JAN 2001,TUR,1,Istanbul (TUR),02 JUN 2018,,javelin-throw-500g,throws,female,u18
+155,55.71,,Vivian SUOMINEN,17 SEP 2003,FIN,1,Helsinki (FIN),12 JUN 2019,,javelin-throw-500g,throws,female,u18
+158,55.70,,Marisleisys DUARTHE,17 SEP 2000,CUB,1,La Habana (CUB),14 MAR 2017,,javelin-throw-500g,throws,female,u18
+159,55.66,,Sara ZABARINO,01 AUG 1999,ITA,1q2,"New District Stadium, Tbilisi (GEO)",16 JUL 2016,,javelin-throw-500g,throws,female,u18
+159,55.66,,Jiayan ZHOU,17 JUN 2003,CHN,1,Huludao (CHN),24 MAY 2019,,javelin-throw-500g,throws,female,u18
+161,55.65,,Marisleisys DUARTHE,17 SEP 2000,CUB,1,La Habana (CUB),25 FEB 2017,,javelin-throw-500g,throws,female,u18
+162,55.63,,Laine DONANE,01 OCT 1998,LAT,1,Ogre (LAT),19 JUN 2015,,javelin-throw-500g,throws,female,u18
+162,55.63,,Julia VALTANEN,06 MAY 2001,FIN,1,Vantaa (FIN),27 MAY 2017,,javelin-throw-500g,throws,female,u18
+164,55.59,,Fanni KÖVÉR,15 FEB 2004,HUN,1,"Vanyek Béla Sportcentrum, Vác (HUN)",10 OCT 2021,,javelin-throw-500g,throws,female,u18
+165,55.58,,Carolina VISCA,31 MAY 2000,ITA,1,Rieti (ITA),14 MAY 2017,,javelin-throw-500g,throws,female,u18
+166,55.56,,Adriana VILAGOŠ,02 JAN 2004,SRB,1,Vác (HUN),30 SEP 2018,,javelin-throw-500g,throws,female,u18
+167,55.55,,Nikol TABAČKOVÁ,24 JAN 1998,CZE,1,Budapest (HUN),28 SEP 2013,,javelin-throw-500g,throws,female,u18
+167,55.55,,Münevver HANCI,25 JAN 2001,TUR,1,Bursa (TUR),22 APR 2018,,javelin-throw-500g,throws,female,u18
+169,55.54,,Tingting ZHAO,14 JUL 2007,CHN,1,"Tuanbo Sports Center, Tianjin (CHN)",21 MAY 2023,,javelin-throw-500g,throws,female,u18
+170,55.53,,Carolina VISCA,31 MAY 2000,ITA,1,L'Aquila (ITA),01 MAY 2016,,javelin-throw-500g,throws,female,u18
+171,55.50,,Veera SAUNA-AHO,24 JUL 2005,FIN,2,"Hakkarin urheilukenttä, Lempäälä (FIN)",13 AUG 2022,,javelin-throw-500g,throws,female,u18
+171,55.50,,Rebecca NELIMARKKA,10 JUL 2006,FIN,1,"Kuortaneen keskusurheilukenttä, Kuortane (FIN)",13 AUG 2023,,javelin-throw-500g,throws,female,u18
+173,55.49,,Adriana VILAGOŠ,02 JAN 2004,SRB,1,Brno (CZE),11 SEP 2019,,javelin-throw-500g,throws,female,u18
+174,55.48,,Anna TARASIUK,30 OCT 1997,BLR,1q,"Olympic Stadium, Nanjing (CHN)",22 AUG 2014,,javelin-throw-500g,throws,female,u18
+174,55.48,,Elina TZENGKO,02 SEP 2002,GRE,1,Edessa (GRE),30 MAY 2018,,javelin-throw-500g,throws,female,u18
+176,55.46,,Vivian SUOMINEN,17 SEP 2003,FIN,1,Lahti (FIN),19 MAY 2019,,javelin-throw-500g,throws,female,u18
+176,55.46,,Aseel Osama ABDEL HAMID,17 FEB 2008,EGY,1,"The Olympic Center For Training National Teams, Cairo (EGY)",30 DEC 2024,,javelin-throw-500g,throws,female,u18
+178,55.45,,Ellie BOWYER,16 MAY 2000,AUS,1,Gold Coast (AUS),08 JUL 2017,,javelin-throw-500g,throws,female,u18
+179,55.44,,Xinjie GU,02 FEB 2001,CHN,3,Nanchang (CHN),19 APR 2017,,javelin-throw-500g,throws,female,u18
+179,55.44,,Wenyue YANG,22 MAR 2009,CHN,2,"Olympic Sports Center, Huangshi (CHN)",29 JUN 2025,,javelin-throw-500g,throws,female,u18
+181,55.37,,Xinjie GU,02 FEB 2001,CHN,3,Weinan (CHN),18 AUG 2017,,javelin-throw-500g,throws,female,u18
+182,55.36,,Fanni KÖVÉR,15 FEB 2004,HUN,1,"SZIE Atlétika Centrum, Gödöllő (HUN)",27 JUN 2020,,javelin-throw-500g,throws,female,u18
+182,55.36,,Aseel Osama ABDEL HAMID,17 FEB 2008,EGY,1,"19 May Athletics Stadium, Annaba (ALG)",03 AUG 2025,,javelin-throw-500g,throws,female,u18
+184,55.35,,Yu LIAO,18 MAY 2000,CHN,4,Weinan (CHN),18 AUG 2017,,javelin-throw-500g,throws,female,u18
+184,55.35,,Vivian SUOMINEN,17 SEP 2003,FIN,1,Kankaanpää (FIN),11 AUG 2019,,javelin-throw-500g,throws,female,u18
+184,55.35,,Elin LINDBERG,02 AUG 2008,SWE,1ce,"Sannerudsvallen, Kil (SWE)",14 JUL 2024,,javelin-throw-500g,throws,female,u18
+187,55.32,,Carolina VISCA,31 MAY 2000,ITA,1,Roma (ITA),02 JUL 2016,,javelin-throw-500g,throws,female,u18
+188,55.29,,Nikol TABAČKOVÁ,24 JAN 1998,CZE,1q2,"Pascual Guerrero Stadium, Cali (COL)",15 JUL 2015,,javelin-throw-500g,throws,female,u18
+189,55.28,,Gedly TUGI,11 SEP 2001,EST,3,"Olimpiai Sportpark, Győr (HUN)",08 JUL 2018,,javelin-throw-500g,throws,female,u18
+190,55.27,,Vivian SUOMINEN,17 SEP 2003,FIN,1,"Olympiastadion, Stockholm (SWE)",24 AUG 2019,,javelin-throw-500g,throws,female,u18
+191,55.25,,Kaja Mørch PETEERSEN,06 NOV 2001,NOR,1,Larvik (NOR),10 MAY 2017,,javelin-throw-500g,throws,female,u18
+191,55.25,,Münevver HANCI,25 JAN 2001,TUR,2,"Olimpiai Sportpark, Győr (HUN)",29 JUL 2017,,javelin-throw-500g,throws,female,u18
+193,55.21,,Juleisy ANGULO,02 JAN 2001,ECU,4f1,Buenos Aires (ARG),16 OCT 2018,,javelin-throw-500g,throws,female,u18
+193,55.21,,Anni-Linnea ALANEN,11 NOV 2002,FIN,1,Vaasa (FIN),13 JUN 2019,,javelin-throw-500g,throws,female,u18
+195,55.20,,Aliaksandra KONSHYNA,14 AUG 2001,BLR,5f1,Buenos Aires (ARG),16 OCT 2018,,javelin-throw-500g,throws,female,u18
+195,55.20,,Malin KARELL,27 SEP 2005,FIN,1,"Eläintarhan urheilukenttä, Helsinki (FIN)",21 JUN 2022,,javelin-throw-500g,throws,female,u18
+197,55.19,,Rebecca NELIMARKKA,10 JUL 2006,FIN,1,"Klaukkalan urheilukenttä, Nurmijärvi (FIN)",15 JUN 2023,,javelin-throw-500g,throws,female,u18
+198,55.16,,Ying WANG,05 JUN 2001,CHN,4,Nanchang (CHN),19 APR 2017,,javelin-throw-500g,throws,female,u18
+199,55.15,,Jo-Ane VAN DYK,03 OCT 1997,RSA,1,East London (RSA),23 MAR 2013,,javelin-throw-500g,throws,female,u18
+200,55.13,,Vita BARBIĆ,13 AUG 2007,CRO,1q2,Banská Bystrica (SVK),20 JUL 2024,,javelin-throw-500g,throws,female,u18
+201,55.11,,Qianqian DAI,23 AUG 2000,CHN,5,Nanchang (CHN),19 APR 2017,,javelin-throw-500g,throws,female,u18
+202,55.10,,Qing CAI,08 MAR 2000,CHN,5,Weinan (CHN),18 AUG 2017,,javelin-throw-500g,throws,female,u18
+202,55.10,,Fanni KÖVÉR,15 FEB 2004,HUN,1,"Atlétikai Centrum, Szekszárd (HUN)",03 JUL 2020,,javelin-throw-500g,throws,female,u18
+204,55.07,,Ying WANG,05 JUN 2001,CHN,2,Bangkok (THA),22 MAY 2017,,javelin-throw-500g,throws,female,u18
+204,55.07,,Skylar CICCOLINI,23 JUL 2001,USA,6f1,Buenos Aires (ARG),16 OCT 2018,,javelin-throw-500g,throws,female,u18
+206,55.06,,Julia VALTANEN,06 MAY 2001,FIN,1,Stockholm (SWE),02 SEP 2017,,javelin-throw-500g,throws,female,u18
+206,55.06,,Aliaksandra KONSHYNA,14 AUG 2001,BLR,4q1,Buenos Aires (ARG),13 OCT 2018,,javelin-throw-500g,throws,female,u18
+206,55.06,,Fanni KÖVÉR,15 FEB 2004,HUN,1,"Egyetemi Stadion, Veszprém (HUN)",11 OCT 2020,,javelin-throw-500g,throws,female,u18
+209,55.03,,Réka SZILÁGYI,19 JAN 1996,HUN,1,Budapest (HUN),02 JUN 2013,,javelin-throw-500g,throws,female,u18
+209,55.03,,Valeria RADAJEVA,25 MAY 1998,EST,1,Võru (EST),10 JUL 2014,,javelin-throw-500g,throws,female,u18
+211,55.01,,Maria ANDREJCZYK,09 MAR 1996,POL,1,Łódź (POL),27 JUL 2013,,javelin-throw-500g,throws,female,u18
+211,55.01,,Joanna HAJDROWSKA,28 AUG 1999,POL,1,Rzeszów (POL),22 MAY 2016,,javelin-throw-500g,throws,female,u18
+213,55.00,,Elina KINNUNEN,05 JAN 1999,FIN,1,Tammela (FIN),14 MAY 2016,,javelin-throw-500g,throws,female,u18

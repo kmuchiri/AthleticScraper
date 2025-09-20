@@ -28,346 +28,351 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 27,50.53,,Okeen WILLIAMS,01 JAN 1996,JAM,1sf3,Donetsk (UKR),11 JUL 2013,,400m-hurdles-840cm,hurdles,male,u18
 27,50.53,,Masaki TOYODA,17 JAN 1998,JPN,3,"Pascual Guerrero Stadium, Cali (COL)",18 JUL 2015,,400m-hurdles-840cm,hurdles,male,u18
 29,50.56,,Linford MAREE,31 JAN 1999,RSA,1,Germiston (RSA),02 APR 2016,,400m-hurdles-840cm,hurdles,male,u18
-30,50.61,,Zhihang XU,18 FEB 1997,CHN,1f1,"Olympic Stadium, Nanjing (CHN)",25 AUG 2014,,400m-hurdles-840cm,hurdles,male,u18
-30,50.61,,Mohamed Fares JLASSI,09 JAN 1997,TUN,2f1,"Olympic Stadium, Nanjing (CHN)",25 AUG 2014,,400m-hurdles-840cm,hurdles,male,u18
-30,50.61,,Matodzi NDO,19 MAR 2007,RSA,2,"Pilditch Stadium, Pretoria (RSA)",08 MAR 2024,,400m-hurdles-840cm,hurdles,male,u18
-33,50.63,,Dániel HULLER,10 MAY 2001,HUN,1,"Olimpiai Sportpark, Győr (HUN)",08 JUL 2018,,400m-hurdles-840cm,hurdles,male,u18
-33,50.63,,Martin FRAYSSE,30 JUN 2001,FRA,1,"Olimpiai Sportpark, Győr (HUN)",08 JUL 2018,,400m-hurdles-840cm,hurdles,male,u18
-33,50.63,,Daniel WRIGHT,31 JUL 2006,JAM,1,"National Stadium, Kingston (JAM)",17 JUN 2023,,400m-hurdles-840cm,hurdles,male,u18
-36,50.68,,Stiaan MYBURGH,08 JAN 2008,RSA,1f1,"UJ Stadium, Johannesburg (RSA)",14 MAR 2025,,400m-hurdles-840cm,hurdles,male,u18
-37,50.69,,Norge SOTOMAYOR,26 APR 1993,CUB,1f3,Singapore (SGP),23 AUG 2010,,400m-hurdles-840cm,hurdles,male,u18
-37,50.69,,Lesibe DIKGALE,03 APR 2007,RSA,1f4,"Pilditch Stadium, Pretoria (RSA)",17 FEB 2024,,400m-hurdles-840cm,hurdles,male,u18
-39,50.71,,Sokwakhana ZAZINI,23 JAN 2000,RSA,1,Pretoria (RSA),15 FEB 2017,,400m-hurdles-840cm,hurdles,male,u18
-40,50.72,,Jason RICHARDSON,04 APR 1986,USA,1,"Amherst, MA (USA)",06 JUL 2003,,400m-hurdles-840cm,hurdles,male,u18
-40,50.72,,Yang WANG,20 SEP 1996,CHN,1sf1,Donetsk (UKR),11 JUL 2013,,400m-hurdles-840cm,hurdles,male,u18
-40,50.72,,Masaki TOYODA,17 JAN 1998,JPN,1sf1,"Pascual Guerrero Stadium, Cali (COL)",16 JUL 2015,,400m-hurdles-840cm,hurdles,male,u18
-43,50.74,,Pieter BENEKE,18 JUL 1990,RSA,1,Pretoria (RSA),14 APR 2007,,400m-hurdles-840cm,hurdles,male,u18
-43,50.74,,Zhihang XU,18 FEB 1997,CHN,1,Bangkok (THA),22 MAY 2014,,400m-hurdles-840cm,hurdles,male,u18
-45,50.75,,Cornel FREDERICKS,03 MAR 1990,RSA,1,Pretoria (RSA),14 APR 2007,,400m-hurdles-840cm,hurdles,male,u18
-45,50.75,,Marlon HUMPHREY,08 JUL 1996,USA,1,"Edwardsville, IL (USA)",26 JUN 2013,,400m-hurdles-840cm,hurdles,male,u18
-47,50.76,,Bandar Yahya AL SHARAKILI,06 MAR 1987,KSA,1,Jeddah (KSA),04 SEP 2004,,400m-hurdles-840cm,hurdles,male,u18
-48,50.78,,Yang WANG,20 SEP 1996,CHN,2,Donetsk (UKR),13 JUL 2013,,400m-hurdles-840cm,hurdles,male,u18
-49,50.79,,Zhihang XU,18 FEB 1997,CHN,1h1,"Olympic Stadium, Nanjing (CHN)",22 AUG 2014,,400m-hurdles-840cm,hurdles,male,u18
-50,50.81,,Bandar Yahya AL SHARAKILI,06 MAR 1987,KSA,1,Damascus (SYR),12 SEP 2004,,400m-hurdles-840cm,hurdles,male,u18
-50,50.81,,Durgesh Pal KUMAR,24 APR 1994,IND,2f3,Singapore (SGP),23 AUG 2010,,400m-hurdles-840cm,hurdles,male,u18
-52,50.82,,LJ VAN ZYL,20 JUL 1985,RSA,1,Caen (FRA),29 MAY 2002,,400m-hurdles-840cm,hurdles,male,u18
-52,50.82,,Daniel WRIGHT,31 JUL 2006,JAM,1,"National Stadium, Kingston (JAM)",07 JUL 2023,,400m-hurdles-840cm,hurdles,male,u18
-54,50.85,,LJ VAN ZYL,20 JUL 1985,RSA,1,Johannesburg (RSA),16 JUN 2001,,400m-hurdles-840cm,hurdles,male,u18
-54,50.85,,Wouter LE ROUX,17 JAN 1986,RSA,2,Sherbrooke (CAN),12 JUL 2003,,400m-hurdles-840cm,hurdles,male,u18
-54,50.85,,Norge SOTOMAYOR,26 APR 1993,CUB,1,La Habana (CUB),18 JUN 2010,,400m-hurdles-840cm,hurdles,male,u18
-54,50.85,,Masaki TOYODA,17 JAN 1998,JPN,2,Wakayama (JPN),31 JUL 2015,,400m-hurdles-840cm,hurdles,male,u18
-54,50.85,,Sokwakhana ZAZINI,23 JAN 2000,RSA,2,Germiston (RSA),02 APR 2016,,400m-hurdles-840cm,hurdles,male,u18
-59,50.87,,Ryusei FUJII,18 MAR 1998,JPN,1h2,"Pascual Guerrero Stadium, Cali (COL)",15 JUL 2015,,400m-hurdles-840cm,hurdles,male,u18
-60,50.89,,Nathan ARNETT,15 DEC 1990,BAH,4,Ostrava (CZE),15 JUL 2007,,400m-hurdles-840cm,hurdles,male,u18
-60,50.89,,Bastian ELNAN AURSTAD,18 JAN 2005,NOR,1f1,"Givat Ram Stadium, Jerusalem (ISR)",07 JUL 2022,,400m-hurdles-840cm,hurdles,male,u18
-60,50.89,,Matodzi NDO,19 MAR 2007,RSA,1,"Msunduzi Athletics Stadium, Pietermaritzburg (RSA)",25 MAR 2023,,400m-hurdles-840cm,hurdles,male,u18
-63,50.90,,Jason RICHARDSON,04 APR 1986,USA,2,"Miami, FL (USA)",03 AUG 2003,,400m-hurdles-840cm,hurdles,male,u18
-63,50.90,,Mohammed DAAK,20 MAR 1988,KSA,1,"Sidi Youssef Ben Ali, Marrakech (MAR)",17 JUL 2005,,400m-hurdles-840cm,hurdles,male,u18
-63,50.90,,David KLECH,29 APR 1988,USA,2,"Sidi Youssef Ben Ali, Marrakech (MAR)",17 JUL 2005,,400m-hurdles-840cm,hurdles,male,u18
-63,50.90,,Kenneth SELMON,27 AUG 1996,USA,2,"Edwardsville, IL (USA)",26 JUN 2013,,400m-hurdles-840cm,hurdles,male,u18
-63,50.90,,Karl JOHNSON,15 APR 2001,GBR,3,"Olimpiai Sportpark, Győr (HUN)",08 JUL 2018,,400m-hurdles-840cm,hurdles,male,u18
-68,50.91,,Sergio HIERREZUELO,15 MAR 1982,CUB,1h1,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",17 JUL 1999,,400m-hurdles-840cm,hurdles,male,u18
-68,50.91,,Mahamat Abakar ABDRAHMAN,17 APR 2006,QAT,1,Tashkent (UZB),30 APR 2023,,400m-hurdles-840cm,hurdles,male,u18
-70,50.92,,Andreas Haara BAKKETUN,21 FEB 2001,NOR,4,"Olimpiai Sportpark, Győr (HUN)",08 JUL 2018,,400m-hurdles-840cm,hurdles,male,u18
-71,50.94,,Lesibe DIKGALE,03 APR 2007,RSA,2f5,"McArthur Stadium, Potchefstroom (RSA)",11 OCT 2024,,400m-hurdles-840cm,hurdles,male,u18
-72,50.95,,Jason RICHARDSON,04 APR 1986,USA,1h3,Sherbrooke (CAN),10 JUL 2003,,400m-hurdles-840cm,hurdles,male,u18
-72,50.95,,Kenneth SELMON,27 AUG 1996,USA,2sf1,Donetsk (UKR),11 JUL 2013,,400m-hurdles-840cm,hurdles,male,u18
-72,50.95,,Norman GRIMES,06 JAN 1998,USA,1h5,"Pascual Guerrero Stadium, Cali (COL)",15 JUL 2015,,400m-hurdles-840cm,hurdles,male,u18
-75,50.96,,David KLECH,29 APR 1988,USA,1sf1,"Sidi Youssef Ben Ali, Marrakech (MAR)",16 JUL 2005,,400m-hurdles-840cm,hurdles,male,u18
-75,50.96,,Marlon HUMPHREY,08 JUL 1996,USA,2sf3,Donetsk (UKR),11 JUL 2013,,400m-hurdles-840cm,hurdles,male,u18
-77,50.97,,Yegor KUZNETSOV,29 NOV 1994,RUS,1,Lille (FRA),09 JUL 2011,,400m-hurdles-840cm,hurdles,male,u18
-77,50.97,,Michal RADA,25 MAY 2007,CZE,1sf2,Banská Bystrica (SVK),20 JUL 2024,,400m-hurdles-840cm,hurdles,male,u18
-77,50.97,,Travis COLLET,2008,FRA,3,"Athletic track of National Arena Philip II, Skopje (MKD)",25 JUL 2025,,400m-hurdles-840cm,hurdles,male,u18
-80,51.00,,Takumu FURUYA,12 MAR 1997,JPN,3sf3,Donetsk (UKR),11 JUL 2013,,400m-hurdles-840cm,hurdles,male,u18
-81,51.01,,Geofrey Kipkoech CHERUIYOT,04 JUN 1996,KEN,3sf1,Donetsk (UKR),11 JUL 2013,,400m-hurdles-840cm,hurdles,male,u18
-81,51.01,,Witthawat THUMCHA,25 JAN 1998,THA,2,Bangkok (THA),22 MAY 2014,,400m-hurdles-840cm,hurdles,male,u18
-83,51.04,,Amaurys VALLE,18 JAN 1990,CUB,2sf2,Ostrava (CZE),14 JUL 2007,,400m-hurdles-840cm,hurdles,male,u18
-83,51.04,,Cornel FREDERICKS,03 MAR 1990,RSA,5,Ostrava (CZE),15 JUL 2007,,400m-hurdles-840cm,hurdles,male,u18
-85,51.06,,Jaheel HYDE,02 FEB 1997,JAM,1,Kingston (JAM),09 MAR 2014,,400m-hurdles-840cm,hurdles,male,u18
-86,51.07,,Felix FRANZ,06 MAY 1993,GER,1,Moskva (RUS),23 MAY 2010,,400m-hurdles-840cm,hurdles,male,u18
-87,51.09,,Stef VANHAEREN,15 JAN 1992,BEL,1,Tampere (FIN),23 JUL 2009,,400m-hurdles-840cm,hurdles,male,u18
-88,51.10,,Akalanka KUDA LIYANAGE,16 JAN 2006,SRI,1,"Sugathadasa Stadium, Colombo (SRI)",27 NOV 2023,,400m-hurdles-840cm,hurdles,male,u18
-89,51.11,,Sokwakhana ZAZINI,23 JAN 2000,RSA,1,Cape Town (RSA),08 APR 2017,,400m-hurdles-840cm,hurdles,male,u18
-90,51.12,,Mikael Antonio DE JESÚS,19 AUG 1997,BRA,2h1,"Olympic Stadium, Nanjing (CHN)",22 AUG 2014,,400m-hurdles-840cm,hurdles,male,u18
-90,51.12,,Rivaldo LEACOCK,01 SEP 1998,BAR,1,Apia (SAM),09 SEP 2015,,400m-hurdles-840cm,hurdles,male,u18
-90,51.12,,Marek VÁŇA,03 AUG 2007,CZE,2f1,Banská Bystrica (SVK),21 JUL 2024,,400m-hurdles-840cm,hurdles,male,u18
-90,51.12,,Stiaan MYBURGH,08 JAN 2008,RSA,1,"Green Point Stadium, Cape Town (RSA)",29 MAR 2025,,400m-hurdles-840cm,hurdles,male,u18
-94,51.13,,Jaber Adel ASSIRI,04 JAN 1990,KSA,2sf1,"Sidi Youssef Ben Ali, Marrakech (MAR)",16 JUL 2005,,400m-hurdles-840cm,hurdles,male,u18
-94,51.13,,Emmanuel Kipyegon LANGAT,26 DEC 1999,KEN,2sf1,"Pascual Guerrero Stadium, Cali (COL)",16 JUL 2015,,400m-hurdles-840cm,hurdles,male,u18
-94,51.13,,Rivaldo LEACOCK,01 SEP 1998,BAR,4,"Pascual Guerrero Stadium, Cali (COL)",18 JUL 2015,,400m-hurdles-840cm,hurdles,male,u18
-97,51.14,,Cornel FREDERICKS,03 MAR 1990,RSA,1,Port Elizabeth (RSA),31 MAR 2007,,400m-hurdles-840cm,hurdles,male,u18
-97,51.14,,Ibrahim Mohammed SALEH,30 MAY 1995,KSA,2,Lille (FRA),09 JUL 2011,,400m-hurdles-840cm,hurdles,male,u18
-99,51.19,,Victor COROLLER,29 JAN 1997,FRA,3f1,"Olympic Stadium, Nanjing (CHN)",25 AUG 2014,,400m-hurdles-840cm,hurdles,male,u18
-100,51.20,,Rivaldo LEACOCK,01 SEP 1998,BAR,3sf1,"Pascual Guerrero Stadium, Cali (COL)",16 JUL 2015,,400m-hurdles-840cm,hurdles,male,u18
-101,51.21,,Jaheel HYDE,02 FEB 1997,JAM,1,Fort-de-France (FRA),20 APR 2014,,400m-hurdles-840cm,hurdles,male,u18
-101,51.21,,Ryusei FUJII,18 MAR 1998,JPN,1sf2,"Pascual Guerrero Stadium, Cali (COL)",16 JUL 2015,,400m-hurdles-840cm,hurdles,male,u18
-103,51.22,,Mohammed DAAK,20 MAR 1988,KSA,2,Jeddah (KSA),04 SEP 2004,,400m-hurdles-840cm,hurdles,male,u18
-103,51.22,,Wiekus JONCK,18 MAR 1988,RSA,3sf1,"Sidi Youssef Ben Ali, Marrakech (MAR)",16 JUL 2005,,400m-hurdles-840cm,hurdles,male,u18
-103,51.22,,Alastair CHALMERS,31 MAR 2000,GBR,1,Nassau (BAH),23 JUL 2017,,400m-hurdles-840cm,hurdles,male,u18
-106,51.23,,William Mbevi MUTUNGA,12 JUL 1993,KEN,3f3,Singapore (SGP),23 AUG 2010,,400m-hurdles-840cm,hurdles,male,u18
-106,51.23,,Victor COROLLER,29 JAN 1997,FRA,1,Valence (FRA),20 JUL 2014,,400m-hurdles-840cm,hurdles,male,u18
-108,51.24,,Christiaan MOUTON,08 AUG 1994,RSA,1,Paarl (RSA),12 MAR 2011,,400m-hurdles-840cm,hurdles,male,u18
-109,51.26,,Takahiro MATSUMOTO,19 SEP 1994,JPN,3,Lille (FRA),09 JUL 2011,,400m-hurdles-840cm,hurdles,male,u18
-109,51.26,,Sean HEWITT,09 DEC 2002,JAM,1,Kingston (JAM),22 JUN 2019,,400m-hurdles-840cm,hurdles,male,u18
-111,51.27,,Diego MANCINI,03 APR 2008,ITA,1h3,"Athletic track of National Arena Philip II, Skopje (MKD)",22 JUL 2025,,400m-hurdles-840cm,hurdles,male,u18
-112,51.28,,Haruto DEGUCHI,23 SEP 2001,JPN,1f2,Buenos Aires (ARG),16 OCT 2018,,400m-hurdles-840cm,hurdles,male,u18
-113,51.29,,Njabulo MBATHA,24 APR 2007,RSA,1h1,"Pilditch Stadium, Pretoria (RSA)",08 MAR 2024,,400m-hurdles-840cm,hurdles,male,u18
-114,51.30,,Jason RICHARDSON,04 APR 1986,USA,1sf2,Sherbrooke (CAN),11 JUL 2003,,400m-hurdles-840cm,hurdles,male,u18
-114,51.30,,Norge SOTOMAYOR,26 APR 1993,CUB,1,"Bressanone, Trentino-Alto Adige (ITA)",11 JUL 2009,,400m-hurdles-840cm,hurdles,male,u18
-114,51.30,,Taariq SOLOMONS,22 AUG 1993,RSA,1,Germiston (RSA),11 APR 2010,,400m-hurdles-840cm,hurdles,male,u18
-114,51.30,,Kenneth SELMON,27 AUG 1996,USA,3,Donetsk (UKR),13 JUL 2013,,400m-hurdles-840cm,hurdles,male,u18
-114,51.30,,Mikael Antonio DE JESÚS,19 AUG 1997,BRA,4f1,"Olympic Stadium, Nanjing (CHN)",25 AUG 2014,,400m-hurdles-840cm,hurdles,male,u18
-119,51.31,,Yegor KUZNETSOV,29 NOV 1994,RUS,1sf3,Lille (FRA),07 JUL 2011,,400m-hurdles-840cm,hurdles,male,u18
-119,51.31,,Marvin WILLIAMS,13 JUN 1996,JAM,1sf2,Donetsk (UKR),11 JUL 2013,,400m-hurdles-840cm,hurdles,male,u18
-121,51.32,,Jonathan WALKER,29 AUG 1984,USA,2,Debrecen (HUN),14 JUL 2001,,400m-hurdles-840cm,hurdles,male,u18
-121,51.32,,Ali AL ROMAIH,19 SEP 2007,KSA,1,"Prince Nayef Sports City, Qatif (KSA)",02 JUN 2023,,400m-hurdles-840cm,hurdles,male,u18
-123,51.33,,Wouter LE ROUX,17 JAN 1986,RSA,1,Port Elizabeth (RSA),29 MAR 2003,,400m-hurdles-840cm,hurdles,male,u18
-123,51.33,,Ken Kirui TELE,28 DEC 1994,KEN,4,Lille (FRA),09 JUL 2011,,400m-hurdles-840cm,hurdles,male,u18
-123,51.33,,Marvin WILLIAMS,13 JUN 1996,JAM,1h2,Donetsk (UKR),10 JUL 2013,,400m-hurdles-840cm,hurdles,male,u18
-126,51.34,,Johannes PRETORIUS,26 JAN 1994,RSA,5,Lille (FRA),09 JUL 2011,,400m-hurdles-840cm,hurdles,male,u18
-126,51.34,,Rivaldo LEACOCK,01 SEP 1998,BAR,1,Basseterre (SKN),05 APR 2015,,400m-hurdles-840cm,hurdles,male,u18
-126,51.34,,Ryusei FUJII,18 MAR 1998,JPN,4,Wakayama (JPN),31 JUL 2015,,400m-hurdles-840cm,hurdles,male,u18
-129,51.35,,Jonathan WALKER,29 AUG 1984,USA,1sf1,Debrecen (HUN),13 JUL 2001,,400m-hurdles-840cm,hurdles,male,u18
-129,51.35,,Rivaldo LEACOCK,01 SEP 1998,BAR,1h6,"Pascual Guerrero Stadium, Cali (COL)",15 JUL 2015,,400m-hurdles-840cm,hurdles,male,u18
-131,51.36,,Javauney JAMES,21 DEC 1998,JAM,1h1,Apia (SAM),08 SEP 2015,,400m-hurdles-840cm,hurdles,male,u18
-131,51.36,,Matodzi NDO,19 MAR 2007,RSA,1,"Levy Mwanawasa Stadion, Ndola (ZAM)",03 MAY 2023,,400m-hurdles-840cm,hurdles,male,u18
-133,51.37,,Rivaldo LEACOCK,01 SEP 1998,BAR,2,Fort-de-France (FRA),20 APR 2014,,400m-hurdles-840cm,hurdles,male,u18
-134,51.38,,Cornel FREDERICKS,03 MAR 1990,RSA,1,Pretoria (RSA),08 APR 2006,,400m-hurdles-840cm,hurdles,male,u18
-134,51.38,,Rivaldo LEACOCK,01 SEP 1998,BAR,1,Bridgetown (BAR),28 MAR 2014,,400m-hurdles-840cm,hurdles,male,u18
-134,51.38,,Bapi HANSDA,26 JUL 2006,IND,2,Tashkent (UZB),30 APR 2023,,400m-hurdles-840cm,hurdles,male,u18
-134,51.38,,Tommaso ARDIZZONE,04 FEB 2007,ITA,3f1,Banská Bystrica (SVK),21 JUL 2024,,400m-hurdles-840cm,hurdles,male,u18
-138,51.39,,Ryusei FUJII,18 MAR 1998,JPN,1sf1,Wakayama (JPN),31 JUL 2015,,400m-hurdles-840cm,hurdles,male,u18
-139,51.40,,Christer GULLSTRAND,26 MAR 1959,SWE,1,Göteborg (SWE),14 AUG 1976,,400m-hurdles-840cm,hurdles,male,u18
-139,51.40,,Robert KIGEN,03 SEP 1988,KEN,1h2,"Sidi Youssef Ben Ali, Marrakech (MAR)",15 JUL 2005,,400m-hurdles-840cm,hurdles,male,u18
-139,51.40,,Mohammed DAAK,20 MAR 1988,KSA,1h4,"Sidi Youssef Ben Ali, Marrakech (MAR)",15 JUL 2005,,400m-hurdles-840cm,hurdles,male,u18
-139,51.40,,Haruto DEGUCHI,23 SEP 2001,JPN,1h1,Buenos Aires (ARG),13 OCT 2018,,400m-hurdles-840cm,hurdles,male,u18
-139,51.40,,Akalanka KUDA LIYANAGE,16 JAN 2006,SRI,3,Tashkent (UZB),30 APR 2023,,400m-hurdles-840cm,hurdles,male,u18
-144,51.41,,Norman GRIMES,06 JAN 1998,USA,1sf3,"Pascual Guerrero Stadium, Cali (COL)",16 JUL 2015,,400m-hurdles-840cm,hurdles,male,u18
-144,51.41,,Oskar EDLUND,16 NOV 2002,SWE,1,Baku (AZE),26 JUL 2019,,400m-hurdles-840cm,hurdles,male,u18
-144,51.41,,Njabulo MBATHA,24 APR 2007,RSA,1h1,"Pilditch Stadium, Pretoria (RSA)",22 MAR 2024,,400m-hurdles-840cm,hurdles,male,u18
-147,51.42,,Stiaan MYBURGH,08 JAN 2008,RSA,1f4,"Pilditch Stadium, Pretoria (RSA)",08 FEB 2025,,400m-hurdles-840cm,hurdles,male,u18
-147,51.42,,Diego ESPESO,15 MAR 2008,ESP,1,"Pistes d'atletisme Gaetà Huguet, Castellón (ESP)",06 JUL 2025,,400m-hurdles-840cm,hurdles,male,u18
-149,51.43,,Antti SAINIO,17 MAY 2005,FIN,1sf2,"Givat Ram Stadium, Jerusalem (ISR)",06 JUL 2022,,400m-hurdles-840cm,hurdles,male,u18
-150,51.44,,Jeremy FARR,20 NOV 2000,JAM,1,Kingston (JAM),31 MAR 2017,,400m-hurdles-840cm,hurdles,male,u18
-151,51.45,,Jeremiah Kipkorir MUTAI,27 DEC 1992,KEN,2,"Bressanone, Trentino-Alto Adige (ITA)",11 JUL 2009,,400m-hurdles-840cm,hurdles,male,u18
-152,51.46,,Matteo BERIA,20 JUN 1996,ITA,1,Brasilia (BRA),03 DEC 2013,,400m-hurdles-840cm,hurdles,male,u18
-152,51.46,,Rivaldo LEACOCK,01 SEP 1998,BAR,2h1,Apia (SAM),08 SEP 2015,,400m-hurdles-840cm,hurdles,male,u18
-152,51.46,,Alessandro SIBILIO,27 APR 1999,ITA,1,"New District Stadium, Tbilisi (GEO)",17 JUL 2016,,400m-hurdles-840cm,hurdles,male,u18
-155,51.47,,Schalk BURGER,20 FEB 1993,RSA,2,Germiston (RSA),11 APR 2010,,400m-hurdles-840cm,hurdles,male,u18
-155,51.47,,Linford MAREE,31 JAN 1999,RSA,1,Bloemfontein (RSA),19 MAR 2016,,400m-hurdles-840cm,hurdles,male,u18
-155,51.47,,Steven Mateus MENDEZ,11 FEB 2010,ECU,1,"Parque Olímpico Pista De Atletismo, Luque, Asunción (PAR)",20 JUL 2025,,400m-hurdles-840cm,hurdles,male,u18
-158,51.48,,Jamaal CHARLES,27 DEC 1986,USA,3,Sherbrooke (CAN),12 JUL 2003,,400m-hurdles-840cm,hurdles,male,u18
-159,51.49,,Durgesh Pal KUMAR,24 APR 1994,IND,1,Ranchi (IND),29 MAY 2011,,400m-hurdles-840cm,hurdles,male,u18
-159,51.49,,Morne VAN AS,02 JAN 1998,RSA,1,Bloemfontein (RSA),11 APR 2015,,400m-hurdles-840cm,hurdles,male,u18
-159,51.49,,Oskar EDLUND,16 NOV 2002,SWE,1,Sollentuna (SWE),08 JUN 2019,,400m-hurdles-840cm,hurdles,male,u18
-162,51.50,,Vincent Mumo KIILU,03 AUG 1982,KEN,3f1,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",18 JUL 1999,,400m-hurdles-840cm,hurdles,male,u18
-162,51.50,,Josè BENCOSME DE LEON,16 MAY 1992,ITA,1,Cuneo (ITA),13 JUN 2009,,400m-hurdles-840cm,hurdles,male,u18
-162,51.50,,Ramfis VEGA,07 JAN 1994,PUR,6,Lille (FRA),09 JUL 2011,,400m-hurdles-840cm,hurdles,male,u18
-162,51.50,,Travis COLLET,2008,FRA,1,"Stade de Courtemanche, Rennes (FRA)",29 JUN 2025,,400m-hurdles-840cm,hurdles,male,u18
-166,51.51,,Victor COROLLER,29 JAN 1997,FRA,1,Baku (AZE),01 JUN 2014,,400m-hurdles-840cm,hurdles,male,u18
-166,51.51,,Daniel WRIGHT,31 JUL 2006,JAM,1,"Hasely Crawford Stadium, Port-of-Spain (TTO)",09 AUG 2023,,400m-hurdles-840cm,hurdles,male,u18
-166,51.51,,Matodzi NDO,19 MAR 2007,RSA,2f5,"Pilditch Stadium, Pretoria (RSA)",18 SEP 2024,,400m-hurdles-840cm,hurdles,male,u18
-166,51.51,,Santiago QUINTERO,23 APR 2008,VEN,2,"Parque Olímpico Pista De Atletismo, Luque, Asunción (PAR)",20 JUL 2025,,400m-hurdles-840cm,hurdles,male,u18
-170,51.52,,Mohamed Fares JLASSI,09 JAN 1997,TUN,1,"National Stadium, Gaborone (BOT)",29 MAY 2014,,400m-hurdles-840cm,hurdles,male,u18
-170,51.52,,Mikael Antonio DE JESÚS,19 AUG 1997,BRA,1,Recifé (BRA),20 SEP 2014,,400m-hurdles-840cm,hurdles,male,u18
-170,51.52,,Martin FRAYSSE,30 JUN 2001,FRA,1sf2,"Olimpiai Sportpark, Győr (HUN)",07 JUL 2018,,400m-hurdles-840cm,hurdles,male,u18
-173,51.53,,Mohammed DAAK,20 MAR 1988,KSA,1,Rabat (MAR),02 AUG 2004,,400m-hurdles-840cm,hurdles,male,u18
-174,51.54,,Felix FRANZ,06 MAY 1993,GER,1h3,Moskva (RUS),21 MAY 2010,,400m-hurdles-840cm,hurdles,male,u18
-174,51.54,,Javauney JAMES,21 DEC 1998,JAM,2,Apia (SAM),09 SEP 2015,,400m-hurdles-840cm,hurdles,male,u18
-176,51.55,,Sam LUNT,23 OCT 2005,GBR,1,"Mary Peters Track, Belfast (GBR)",16 JUL 2022,,400m-hurdles-840cm,hurdles,male,u18
-176,51.55,,Mattia TAMBORONI,11 NOV 2008,ITA,2,"Stadio Guidobaldi, Rieti (ITA)",29 JUN 2025,,400m-hurdles-840cm,hurdles,male,u18
-178,51.56,,Aleix PORRAS,11 SEP 1999,ESP,2,"New District Stadium, Tbilisi (GEO)",17 JUL 2016,,400m-hurdles-840cm,hurdles,male,u18
-179,51.57,,Wouter LE ROUX,17 JAN 1986,RSA,1,Durban (RSA),12 APR 2003,,400m-hurdles-840cm,hurdles,male,u18
-179,51.57,,Durgesh Pal KUMAR,24 APR 1994,IND,1,Coimbatore (IND),25 APR 2010,,400m-hurdles-840cm,hurdles,male,u18
-179,51.57,,Johannes PRETORIUS,26 JAN 1994,RSA,1sf2,Lille (FRA),07 JUL 2011,,400m-hurdles-840cm,hurdles,male,u18
-179,51.57,,Martin FRAYSSE,30 JUN 2001,FRA,1,Blois (FRA),23 JUN 2018,,400m-hurdles-840cm,hurdles,male,u18
-179,51.57,,Matodzi NDO,19 MAR 2007,RSA,1,"Pilditch Stadium, Pretoria (RSA)",11 MAR 2023,,400m-hurdles-840cm,hurdles,male,u18
-179,51.57,,Diego ESPESO,15 MAR 2008,ESP,4,"Athletic track of National Arena Philip II, Skopje (MKD)",25 JUL 2025,,400m-hurdles-840cm,hurdles,male,u18
-185,51.58,,Go TANABE,21 MAR 1986,JPN,4,Sherbrooke (CAN),12 JUL 2003,,400m-hurdles-840cm,hurdles,male,u18
-185,51.58,,Mustafa Ammar SHAHEEN,18 JAN 1994,IRQ,1,Beirut (LBN),25 SEP 2011,,400m-hurdles-840cm,hurdles,male,u18
-185,51.58,,Takumu FURUYA,12 MAR 1997,JPN,4,Donetsk (UKR),13 JUL 2013,,400m-hurdles-840cm,hurdles,male,u18
-185,51.58,,Júlio César DE OLIVEIRA,15 MAY 1996,BRA,1,Maringa (BRA),25 AUG 2013,,400m-hurdles-840cm,hurdles,male,u18
-185,51.58,,Lesibe DIKGALE,03 APR 2007,RSA,2h1,"Pilditch Stadium, Pretoria (RSA)",08 MAR 2024,,400m-hurdles-840cm,hurdles,male,u18
-190,51.59,,Ibrahim Mohammed SALEH,30 MAY 1995,KSA,2sf2,Lille (FRA),07 JUL 2011,,400m-hurdles-840cm,hurdles,male,u18
-190,51.59,,Desmond PALMER,30 JUL 1995,USA,1,"Baltimore, MD (USA)",29 JUL 2012,,400m-hurdles-840cm,hurdles,male,u18
-190,51.59,,Ismail Doudai ABAKAR,01 JAN 2004,QAT,1,"Stadion Radés, Radés (TUN)",28 NOV 2021,,400m-hurdles-840cm,hurdles,male,u18
-193,51.60,,Felix FRANZ,06 MAY 1993,GER,4f3,Singapore (SGP),23 AUG 2010,,400m-hurdles-840cm,hurdles,male,u18
-193,51.60,,WJ FRASER,03 JAN 2006,RSA,2,"Msunduzi Athletics Stadium, Pietermaritzburg (RSA)",25 MAR 2023,,400m-hurdles-840cm,hurdles,male,u18
-195,51.61,,Akalanka KUDA LIYANAGE,16 JAN 2006,SRI,2,"Hasely Crawford Stadium, Port-of-Spain (TTO)",09 AUG 2023,,400m-hurdles-840cm,hurdles,male,u18
-196,51.62,,Salih DAR SAEED,15 SEP 1988,SUD,4sf1,"Sidi Youssef Ben Ali, Marrakech (MAR)",16 JUL 2005,,400m-hurdles-840cm,hurdles,male,u18
-196,51.62,,Jack LOVE,24 APR 2006,AUS,1,"Queensland Sport and Athletics Centre, Nathan, Brisbane (AUS)",16 APR 2023,,400m-hurdles-840cm,hurdles,male,u18
-198,51.63,,Guowei XIANG,08 MAR 2008,CHN,1,"Sports Center, Yulin (CHN)",12 JUL 2024,,400m-hurdles-840cm,hurdles,male,u18
-198,51.63,,Alex IBAÑEZ,18 AUG 2007,ESP,4f1,Banská Bystrica (SVK),21 JUL 2024,,400m-hurdles-840cm,hurdles,male,u18
-200,51.64,,Wouter LE ROUX,17 JAN 1986,RSA,1h2,Sherbrooke (CAN),10 JUL 2003,,400m-hurdles-840cm,hurdles,male,u18
-200,51.64,,Hamed AL BISHI,13 FEB 1990,KSA,6,Ostrava (CZE),15 JUL 2007,,400m-hurdles-840cm,hurdles,male,u18
-200,51.64,,Rasheeme GRIFFITH,03 MAY 2000,BAR,1,Willemstad (AHO),16 APR 2017,,400m-hurdles-840cm,hurdles,male,u18
-203,51.65,,Yegor KUZNETSOV,29 NOV 1994,RUS,1,Sochi (RUS),06 AUG 2011,,400m-hurdles-840cm,hurdles,male,u18
-203,51.65,,Fintan DEWHIRST,31 DEC 2005,IRL,2f1,"Givat Ram Stadium, Jerusalem (ISR)",07 JUL 2022,,400m-hurdles-840cm,hurdles,male,u18
-205,51.66,,Mohammed DAAK,20 MAR 1988,KSA,1sf2,"Sidi Youssef Ben Ali, Marrakech (MAR)",16 JUL 2005,,400m-hurdles-840cm,hurdles,male,u18
-205,51.66,,Enrique GONZÁLEZ,21 FEB 1993,ESP,2,Moskva (RUS),23 MAY 2010,,400m-hurdles-840cm,hurdles,male,u18
-207,51.67,,Hederson ESTEFANI,11 SEP 1991,BRA,1,Lima (PER),30 NOV 2008,,400m-hurdles-840cm,hurdles,male,u18
-207,51.67,,Norman GRIMES,06 JAN 1998,USA,1,"Lisle, IL (USA)",01 JUL 2015,,400m-hurdles-840cm,hurdles,male,u18
-207,51.67,,Sokwakhana ZAZINI,23 JAN 2000,RSA,2,Bloemfontein (RSA),19 MAR 2016,,400m-hurdles-840cm,hurdles,male,u18
-210,51.68,,Jaber Adel ASSIRI,04 JAN 1990,KSA,3,"Sidi Youssef Ben Ali, Marrakech (MAR)",17 JUL 2005,,400m-hurdles-840cm,hurdles,male,u18
-210,51.68,,Okeen WILLIAMS,01 JAN 1996,JAM,1,San Salvador (ESA),29 JUN 2012,,400m-hurdles-840cm,hurdles,male,u18
-210,51.68,,Mikael Antonio DE JESÚS,19 AUG 1997,BRA,1,São José dos Pinhais (BRA),16 OCT 2014,,400m-hurdles-840cm,hurdles,male,u18
-210,51.68,,Ignacio SAEZ,16 FEB 2002,ESP,2,Baku (AZE),26 JUL 2019,,400m-hurdles-840cm,hurdles,male,u18
-210,51.68,,Mimoun ABDOUL WAHAB,01 APR 2004,BEL,1h1,"Netestadion, Lier (BEL)",11 SEP 2021,,400m-hurdles-840cm,hurdles,male,u18
-215,51.69,,Wouter LE ROUX,17 JAN 1986,RSA,1,Pretoria (RSA),07 JUN 2003,,400m-hurdles-840cm,hurdles,male,u18
-215,51.69,,Reggie WYATT,17 SEP 1990,USA,1h4,Ostrava (CZE),13 JUL 2007,,400m-hurdles-840cm,hurdles,male,u18
-215,51.69,,Taylor MCLAUGHLIN,03 AUG 1997,USA,3,"Edwardsville, IL (USA)",26 JUN 2013,,400m-hurdles-840cm,hurdles,male,u18
-218,51.70,,Siphine MTSHALI,10 JUN 1984,RSA,1,Johannesburg (RSA),16 JUN 2001,,400m-hurdles-840cm,hurdles,male,u18
-218,51.70,,Emmanuel Kipyegon LANGAT,26 DEC 1999,KEN,1h4,"Pascual Guerrero Stadium, Cali (COL)",15 JUL 2015,,400m-hurdles-840cm,hurdles,male,u18
-218,51.70,,Lindukuhle GORA,31 JAN 2001,RSA,2h1,Buenos Aires (ARG),13 OCT 2018,,400m-hurdles-840cm,hurdles,male,u18
-218,51.70,,Demarco BENNETT,06 SEP 2007,JAM,1,"National Stadium, Kingston (JAM)",22 MAR 2024,,400m-hurdles-840cm,hurdles,male,u18
-218,51.70,,Sebastian SCHUCH,20 FEB 2007,GER,5f1,Banská Bystrica (SVK),21 JUL 2024,,400m-hurdles-840cm,hurdles,male,u18
-223,51.71,,Ibrahim Mohammed SALEH,30 MAY 1995,KSA,1h6,Lille (FRA),06 JUL 2011,,400m-hurdles-840cm,hurdles,male,u18
-223,51.71,,Tommaso ARDIZZONE,04 FEB 2007,ITA,1,"Stadio M.S. Cozzoli, Molfetta (ITA)",06 JUL 2024,,400m-hurdles-840cm,hurdles,male,u18
-225,51.72,,Shota MADOKORO,22 MAY 1994,JPN,3sf2,Lille (FRA),07 JUL 2011,,400m-hurdles-840cm,hurdles,male,u18
-225,51.72,,Ignacio SAEZ,16 FEB 2002,ESP,1,Gijón (ESP),24 JUN 2018,,400m-hurdles-840cm,hurdles,male,u18
-225,51.72,,Antti SAINIO,17 MAY 2005,FIN,1,"Olympiastadion, Helsinki (FIN)",03 SEP 2022,,400m-hurdles-840cm,hurdles,male,u18
-225,51.72,,Lesibe DIKGALE,03 APR 2007,RSA,1,"Pilditch Stadium, Pretoria (RSA)",24 FEB 2024,,400m-hurdles-840cm,hurdles,male,u18
-229,51.73,,Amin Mohamed AL OZON,07 JUL 1984,SYR,2sf1,Debrecen (HUN),13 JUL 2001,,400m-hurdles-840cm,hurdles,male,u18
-229,51.73,,Vyacheslav SAKAYEV,12 JAN 1988,RUS,5sf1,"Sidi Youssef Ben Ali, Marrakech (MAR)",16 JUL 2005,,400m-hurdles-840cm,hurdles,male,u18
-229,51.73,,Eusebio HALITI,01 JAN 1991,ALB,1,Bari (ITA),25 MAY 2008,,400m-hurdles-840cm,hurdles,male,u18
-229,51.73,,Ian Andrey PATA,02 MAR 2006,ECU,1,"Estadio Atlético de la VIDENA, Lima (PER)",15 SEP 2023,,400m-hurdles-840cm,hurdles,male,u18
-229,51.73,,Juan-Franco HATTINGH,15 MAY 2007,RSA,1f4,"McArthur Stadium, Potchefstroom (RSA)",20 OCT 2023,,400m-hurdles-840cm,hurdles,male,u18
-234,51.74,,Vyacheslav SAKAYEV,12 JAN 1988,RUS,1,Chelyabinsk (RUS),31 JUL 2005,,400m-hurdles-840cm,hurdles,male,u18
-234,51.74,,Josè BENCOSME DE LEON,16 MAY 1992,ITA,3,"Bressanone, Trentino-Alto Adige (ITA)",11 JUL 2009,,400m-hurdles-840cm,hurdles,male,u18
-234,51.74,,Norge SOTOMAYOR,26 APR 1993,CUB,1h3,Singapore (SGP),19 AUG 2010,,400m-hurdles-840cm,hurdles,male,u18
-234,51.74,,Durgesh Pal KUMAR,24 APR 1994,IND,1,Bengaluru (IND),04 DEC 2010,,400m-hurdles-840cm,hurdles,male,u18
-234,51.74,,Omar MCLEOD,25 APR 1994,JAM,2h6,Lille (FRA),06 JUL 2011,,400m-hurdles-840cm,hurdles,male,u18
-234,51.74,,Miguel MARTINEZ-GUISASOLA,21 MAR 2008,ESP,2,"Pistes d'atletisme Gaetà Huguet, Castellón (ESP)",06 JUL 2025,,400m-hurdles-840cm,hurdles,male,u18
-240,51.75,,Amin Mohamed AL OZON,07 JUL 1984,SYR,1h1,Debrecen (HUN),12 JUL 2001,,400m-hurdles-840cm,hurdles,male,u18
-240,51.75,,Sasha ALEXEENKO,23 MAR 1991,AUS,1,Canberra (AUS),05 DEC 2008,,400m-hurdles-840cm,hurdles,male,u18
-240,51.75,,Aleix PORRAS,11 SEP 1999,ESP,1,Ciudad Real (ESP),28 JUN 2015,,400m-hurdles-840cm,hurdles,male,u18
-240,51.75,,Matthew HUNT,23 NOV 2006,AUS,2,"Queensland Sport and Athletics Centre, Nathan, Brisbane (AUS)",16 APR 2023,,400m-hurdles-840cm,hurdles,male,u18
-240,51.75,,Trevoy SMITH,17 MAR 2006,JAM,1,"Estadio Nacional - La Sabana, San José (CRC)",21 JUL 2023,,400m-hurdles-840cm,hurdles,male,u18
-245,51.76,,Josè BENCOSME DE LEON,16 MAY 1992,ITA,1,Doha (QAT),09 DEC 2009,,400m-hurdles-840cm,hurdles,male,u18
-245,51.76,,Enrique GONZÁLEZ,21 FEB 1993,ESP,1,Nerja (ESP),11 JUL 2010,,400m-hurdles-840cm,hurdles,male,u18
-245,51.76,,Durgesh Pal KUMAR,24 APR 1994,IND,1,Douglas (GBR),11 SEP 2011,,400m-hurdles-840cm,hurdles,male,u18
-245,51.76,,Derick DÍAZ,24 JUL 1996,PUR,5,Donetsk (UKR),13 JUL 2013,,400m-hurdles-840cm,hurdles,male,u18
-245,51.76,,Gianni LOMBARD,22 JAN 1998,RSA,2,Bloemfontein (RSA),11 APR 2015,,400m-hurdles-840cm,hurdles,male,u18
-250,51.77,,Nathan ARNETT,15 DEC 1990,BAH,2sf1,Ostrava (CZE),14 JUL 2007,,400m-hurdles-840cm,hurdles,male,u18
-250,51.77,,Julius Rotich OLETYGOR,12 DEC 1990,KEN,3sf1,Ostrava (CZE),14 JUL 2007,,400m-hurdles-840cm,hurdles,male,u18
-250,51.77,,Josè BENCOSME DE LEON,16 MAY 1992,ITA,1,Grosseto (ITA),04 OCT 2009,,400m-hurdles-840cm,hurdles,male,u18
-250,51.77,,Shota MADOKORO,22 MAY 1994,JPN,7,Lille (FRA),09 JUL 2011,,400m-hurdles-840cm,hurdles,male,u18
-250,51.77,,Mikael Antonio DE JESÚS,19 AUG 1997,BRA,1,Cali (COL),30 NOV 2014,,400m-hurdles-840cm,hurdles,male,u18
-250,51.77,,Gergő TAKÁCS,22 JAN 2005,HUN,3f1,"Givat Ram Stadium, Jerusalem (ISR)",07 JUL 2022,,400m-hurdles-840cm,hurdles,male,u18
-250,51.77,,Juan-Franco HATTINGH,15 MAY 2007,RSA,1,"Germiston Stadium, Johannesburg (RSA)",08 MAR 2024,,400m-hurdles-840cm,hurdles,male,u18
-257,51.78,,Xiangchao XU,26 OCT 1993,CHN,1,Huainan (CHN),18 JUL 2010,,400m-hurdles-840cm,hurdles,male,u18
-257,51.78,,Pavel AGAFONOV,28 AUG 1995,RUS,1,Moskva (RUS),15 JUN 2012,,400m-hurdles-840cm,hurdles,male,u18
-257,51.78,,Aleix PORRAS,11 SEP 1999,ESP,1,Palafrugell (ESP),28 MAY 2016,,400m-hurdles-840cm,hurdles,male,u18
-257,51.78,,Ignacio SAEZ,16 FEB 2002,ESP,1h2,Baku (AZE),24 JUL 2019,,400m-hurdles-840cm,hurdles,male,u18
-257,51.78,,David PEREZ,01 MAR 2005,ESP,1,Jerez de la Frontera (ESP),19 JUN 2022,,400m-hurdles-840cm,hurdles,male,u18
-257,51.78,,Sam LUNT,23 OCT 2005,GBR,1,"Bedford Athletic Stadium, Bedford (GBR)",28 AUG 2022,,400m-hurdles-840cm,hurdles,male,u18
-263,51.79,,Julius Rotich OLETYGOR,12 DEC 1990,KEN,7,Ostrava (CZE),15 JUL 2007,,400m-hurdles-840cm,hurdles,male,u18
-263,51.79,,Joel VON DE AHÉ,01 JUL 2006,DEN,1,"Atletski stadion Poljane, Maribor (SLO)",28 JUL 2023,,400m-hurdles-840cm,hurdles,male,u18
-265,51.80,,Dominik HUFNAGL,10 JAN 1997,AUT,2,Baku (AZE),01 JUN 2014,,400m-hurdles-840cm,hurdles,male,u18
-265,51.80,,Witthawat THUMCHA,25 JAN 1998,THA,1h2,"Olympic Stadium, Nanjing (CHN)",22 AUG 2014,,400m-hurdles-840cm,hurdles,male,u18
-265,51.80,,Aleix PORRAS,11 SEP 1999,ESP,1,Lloret de Mar (ESP),04 JUN 2016,,400m-hurdles-840cm,hurdles,male,u18
-265,51.80,,Emil AGYEKUM,22 MAY 1999,GER,3,"New District Stadium, Tbilisi (GEO)",17 JUL 2016,,400m-hurdles-840cm,hurdles,male,u18
-265,51.80,,Dániel HULLER,10 MAY 2001,HUN,1,Budapest (HUN),02 SEP 2018,,400m-hurdles-840cm,hurdles,male,u18
-270,51.81,,Marthinus KRITZINGER,10 FEB 1982,RSA,1h3,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",17 JUL 1999,,400m-hurdles-840cm,hurdles,male,u18
-270,51.81,,Julius BUNGEI,16 JUN 1984,KEN,3sf1,Debrecen (HUN),13 JUL 2001,,400m-hurdles-840cm,hurdles,male,u18
-270,51.81,,Go TANABE,21 MAR 1986,JPN,1,Yamaguchi (JPN),21 JUN 2003,,400m-hurdles-840cm,hurdles,male,u18
-270,51.81,,Rivaldo LEACOCK,01 SEP 1998,BAR,1,Morelia (MEX),04 JUL 2014,,400m-hurdles-840cm,hurdles,male,u18
-274,51.82,,Cornel FREDERICKS,03 MAR 1990,RSA,3sf2,Ostrava (CZE),14 JUL 2007,,400m-hurdles-840cm,hurdles,male,u18
-274,51.82,,Oğuzhan Zeki̇ YEŞİLOBALIGİL,02 JAN 2008,TUR,1h2,"Athletic track of National Arena Philip II, Skopje (MKD)",22 JUL 2025,,400m-hurdles-840cm,hurdles,male,u18
-276,51.83,,Hrvoje ČUKMAN,28 MAY 1998,CRO,1,Čakovec (CRO),07 JUN 2015,,400m-hurdles-840cm,hurdles,male,u18
-276,51.83,,Masaki TOYODA,17 JAN 1998,JPN,2sf3,Wakayama (JPN),31 JUL 2015,,400m-hurdles-840cm,hurdles,male,u18
-276,51.83,,Sokwakhana ZAZINI,23 JAN 2000,RSA,1,Pretoria (RSA),11 FEB 2017,,400m-hurdles-840cm,hurdles,male,u18
-276,51.83,,Ismail MANYANI,28 MAY 2000,MAR,1,Rabat (MAR),26 APR 2017,,400m-hurdles-840cm,hurdles,male,u18
-276,51.83,,Sam LUNT,23 OCT 2005,GBR,1,"Sportcity Regional Arena, Manchester (GBR)",09 JUL 2022,,400m-hurdles-840cm,hurdles,male,u18
-276,51.83,,Morne ENGELBRECHT,16 MAR 2007,RSA,3,"Msunduzi Athletics Stadium, Pietermaritzburg (RSA)",25 MAR 2023,,400m-hurdles-840cm,hurdles,male,u18
-282,51.84,,Wiekus JONCK,18 MAR 1988,RSA,1,Germiston (RSA),02 APR 2005,,400m-hurdles-840cm,hurdles,male,u18
-282,51.84,,David KLECH,29 APR 1988,USA,1h1,"Sidi Youssef Ben Ali, Marrakech (MAR)",15 JUL 2005,,400m-hurdles-840cm,hurdles,male,u18
-282,51.84,,Dashinelle DYER,11 JAN 2000,JAM,1,Kingston (JAM),04 MAR 2017,,400m-hurdles-840cm,hurdles,male,u18
-282,51.84,,Lindukuhle GORA,31 JAN 2001,RSA,1,Boksburg (RSA),28 APR 2018,,400m-hurdles-840cm,hurdles,male,u18
-282,51.84,,Martin FRAYSSE,30 JUN 2001,FRA,1,Bondoufle (FRA),22 JUL 2018,,400m-hurdles-840cm,hurdles,male,u18
-282,51.84,,Ignacio SAEZ,16 FEB 2002,ESP,1,Colmenar Viejo (ESP),09 JUN 2019,,400m-hurdles-840cm,hurdles,male,u18
-282,51.84,,Antonio FORBES,04 OCT 2004,JAM,1,"National Stadium, Kingston (JAM)",14 MAY 2021,,400m-hurdles-840cm,hurdles,male,u18
-289,51.85,,Wouter LE ROUX,17 JAN 1986,RSA,1sf1,Sherbrooke (CAN),11 JUL 2003,,400m-hurdles-840cm,hurdles,male,u18
-289,51.85,,Milton DIAS,11 AUG 1986,POR,1,Paris (FRA),30 JUL 2003,,400m-hurdles-840cm,hurdles,male,u18
-289,51.85,,Qilong HUANG,08 JAN 1991,CHN,2f1,Taian (CHN),31 OCT 2008,,400m-hurdles-840cm,hurdles,male,u18
-289,51.85,,Norge SOTOMAYOR,26 APR 1993,CUB,1,La Habana (CUB),12 JUN 2009,,400m-hurdles-840cm,hurdles,male,u18
-289,51.85,,Rasheeme GRIFFITH,03 MAY 2000,BAR,1,St. Michael (BAR),18 MAR 2017,,400m-hurdles-840cm,hurdles,male,u18
-289,51.85,,Halomoan Edwin BINSAR,20 DEC 2000,INA,1,Jakarta (INA),23 APR 2017,,400m-hurdles-840cm,hurdles,male,u18
-289,51.85,,Dániel HULLER,10 MAY 2001,HUN,1,Győr (HUN),17 JUN 2018,,400m-hurdles-840cm,hurdles,male,u18
-289,51.85,,Daniel WRIGHT,31 JUL 2006,JAM,1,"Jamaica College Ashenheim Stadium, Kingston (JAM)",10 JUN 2023,,400m-hurdles-840cm,hurdles,male,u18
-297,51.86,,Johann HANEKOM,03 DEC 1986,RSA,1,Pretoria (RSA),22 FEB 2003,,400m-hurdles-840cm,hurdles,male,u18
-297,51.86,,Omar MCLEOD,25 APR 1994,JAM,1,Kingston (JAM),19 MAR 2011,,400m-hurdles-840cm,hurdles,male,u18
-297,51.86,,Ryusei FUJII,18 MAR 1998,JPN,1h2,Wakayama (JPN),30 JUL 2015,,400m-hurdles-840cm,hurdles,male,u18
-297,51.86,,Dániel HULLER,10 MAY 2001,HUN,2f2,Buenos Aires (ARG),16 OCT 2018,,400m-hurdles-840cm,hurdles,male,u18
-301,51.87,,Boris VAZOVAN,04 JAN 1978,SVK,1,Bath (GBR),13 JUL 1995,,400m-hurdles-840cm,hurdles,male,u18
-301,51.87,,Siphine MTSHALI,10 JUN 1984,RSA,1sf2,Debrecen (HUN),13 JUL 2001,,400m-hurdles-840cm,hurdles,male,u18
-301,51.87,,Taariq SOLOMONS,22 AUG 1993,RSA,1,Sasolburg (RSA),27 MAR 2010,,400m-hurdles-840cm,hurdles,male,u18
-301,51.87,,Vinicius DE BRITO,03 MAR 2006,BRA,2,"Estadio Atlético de la VIDENA, Lima (PER)",15 SEP 2023,,400m-hurdles-840cm,hurdles,male,u18
-305,51.88,,Karl JOHNSON,15 APR 2001,GBR,1sf1,"Olimpiai Sportpark, Győr (HUN)",07 JUL 2018,,400m-hurdles-840cm,hurdles,male,u18
-305,51.88,,Jayden BROWN,09 FEB 2003,JAM,1,Kingston (JAM),29 MAR 2019,,400m-hurdles-840cm,hurdles,male,u18
-305,51.88,,Berke AKÇAM,10 APR 2002,TUR,1,Antalya (TUR),28 APR 2019,,400m-hurdles-840cm,hurdles,male,u18
-305,51.88,,Eduardo RAMIREZ,29 MAY 2004,ESP,1,"Estadio Iberoamericano, Huelva (ESP)",25 JUL 2021,,400m-hurdles-840cm,hurdles,male,u18
-305,51.88,,Sam LUNT,23 OCT 2005,GBR,1,"Loughborough University Track, Loughborough (GBR)",03 SEP 2022,,400m-hurdles-840cm,hurdles,male,u18
-305,51.88,,Santiago QUINTERO,23 APR 2008,VEN,1,"Pista de Atletismo Pedro Presti, San Luis (ARG)",08 DEC 2024,,400m-hurdles-840cm,hurdles,male,u18
-311,51.89,,Robert KIGEN,03 SEP 1988,KEN,6sf1,"Sidi Youssef Ben Ali, Marrakech (MAR)",16 JUL 2005,,400m-hurdles-840cm,hurdles,male,u18
-311,51.89,,Nikita ANDRIYANOV,07 FEB 1990,RUS,1,Beograd (SRB),26 JUL 2007,,400m-hurdles-840cm,hurdles,male,u18
-311,51.89,,Bastian ELNAN AURSTAD,18 JAN 2005,NOR,1,"Guldbergaunet Idrettspark, Steinkjer (NOR)",22 MAY 2022,,400m-hurdles-840cm,hurdles,male,u18
-314,51.90,,Schalk BURGER,20 FEB 1993,RSA,2,Sasolburg (RSA),27 MAR 2010,,400m-hurdles-840cm,hurdles,male,u18
-314,51.90,,Oskari MÖRÖ,31 JAN 1993,FIN,3,Moskva (RUS),23 MAY 2010,,400m-hurdles-840cm,hurdles,male,u18
-314,51.90,,Oskar EDLUND,16 NOV 2002,SWE,1,Borås (SWE),01 JUN 2019,,400m-hurdles-840cm,hurdles,male,u18
-314,51.90,,Ignacio SAEZ,16 FEB 2002,ESP,1,Castellón (ESP),23 JUN 2019,,400m-hurdles-840cm,hurdles,male,u18
-314,51.90,,Bapi HANSDA,26 JUL 2006,IND,1h1,"Mahatma Gandhi District Stadium Ajjarkad, Udupi (IND)",11 MAR 2023,,400m-hurdles-840cm,hurdles,male,u18
-314,51.90,,Ian Andrey PATA,02 MAR 2006,ECU,1h2,"Estadio Atlético de la VIDENA, Lima (PER)",15 SEP 2023,,400m-hurdles-840cm,hurdles,male,u18
-320,51.91,,Bandar Yahya AL SHARAKILI,06 MAR 1987,KSA,2,Rabat (MAR),02 AUG 2004,,400m-hurdles-840cm,hurdles,male,u18
-320,51.91,,Pieter BENEKE,18 JUL 1990,RSA,2,Port Elizabeth (RSA),31 MAR 2007,,400m-hurdles-840cm,hurdles,male,u18
-320,51.91,,Omar MCLEOD,25 APR 1994,JAM,4sf2,Lille (FRA),07 JUL 2011,,400m-hurdles-840cm,hurdles,male,u18
-320,51.91,,Victor COROLLER,29 JAN 1997,FRA,2h2,"Olympic Stadium, Nanjing (CHN)",22 AUG 2014,,400m-hurdles-840cm,hurdles,male,u18
-320,51.91,,Leonardo LEDGISTER,27 APR 1999,JAM,1h1,Kingston (JAM),05 MAR 2016,,400m-hurdles-840cm,hurdles,male,u18
-325,51.92,,Mohammed DAAK,20 MAR 1988,KSA,1,Manama (BRN),28 APR 2005,,400m-hurdles-840cm,hurdles,male,u18
-325,51.92,,Romel LEWIS,28 JAN 1988,JAM,2sf2,"Sidi Youssef Ben Ali, Marrakech (MAR)",16 JUL 2005,,400m-hurdles-840cm,hurdles,male,u18
-325,51.92,,Josè BENCOSME DE LEON,16 MAY 1992,DOM,1,Bergamo (ITA),07 JUN 2009,,400m-hurdles-840cm,hurdles,male,u18
-325,51.92,,Ken Kirui TELE,28 DEC 1994,KEN,2sf3,Lille (FRA),07 JUL 2011,,400m-hurdles-840cm,hurdles,male,u18
-325,51.92,,Mohamed Amine TOUATI,09 SEP 1998,TUN,2sf3,"Pascual Guerrero Stadium, Cali (COL)",16 JUL 2015,,400m-hurdles-840cm,hurdles,male,u18
-325,51.92,,Michael-Jan DE BEER,01 MAR 2004,RSA,1,"Dal Josaphat Athletics Stadium, Paarl (RSA)",08 APR 2021,,400m-hurdles-840cm,hurdles,male,u18
-325,51.92,,Zijian WANG,02 FEB 2006,CHN,1,"Tuanbo Sports Center, Tianjin (CHN)",22 MAY 2023,,400m-hurdles-840cm,hurdles,male,u18
-332,51.93,,Pieter BENEKE,18 JUL 1990,RSA,8,Ostrava (CZE),15 JUL 2007,,400m-hurdles-840cm,hurdles,male,u18
-332,51.93,,Yahya Ibrahim BARNAWI,28 SEP 1994,KSA,1h1,Lille (FRA),06 JUL 2011,,400m-hurdles-840cm,hurdles,male,u18
-332,51.93,,Ilya AFONIN,23 MAR 2004,RUS,1,"Podolye, Yerino (RUS)",12 AUG 2021,,400m-hurdles-840cm,hurdles,male,u18
-332,51.93,,Marek VÁŇA,03 AUG 2007,CZE,1sf3,Banská Bystrica (SVK),20 JUL 2024,,400m-hurdles-840cm,hurdles,male,u18
-336,51.94,,Julius BUNGEI,16 JUN 1984,KEN,2h1,Debrecen (HUN),12 JUL 2001,,400m-hurdles-840cm,hurdles,male,u18
-336,51.94,,Pieter BENEKE,18 JUL 1990,RSA,4sf1,Ostrava (CZE),14 JUL 2007,,400m-hurdles-840cm,hurdles,male,u18
-336,51.94,,Juan STENNER,26 JAN 1992,MEX,1,Hermosillo (MEX),06 JUN 2009,,400m-hurdles-840cm,hurdles,male,u18
-336,51.94,,Jonathan RUSSELL,02 MAY 1994,USA,2h1,Lille (FRA),06 JUL 2011,,400m-hurdles-840cm,hurdles,male,u18
-336,51.94,,Linford MAREE,31 JAN 1999,RSA,3,Bloemfontein (RSA),11 APR 2015,,400m-hurdles-840cm,hurdles,male,u18
-336,51.94,,Rovane WILLIAMS,18 MAY 2000,JAM,1h1,"Kasarani, Nairobi (KEN)",13 JUL 2017,,400m-hurdles-840cm,hurdles,male,u18
-336,51.94,,Adam MAYO,19 APR 2000,RSA,1f3,Potchefstroom (RSA),21 OCT 2017,,400m-hurdles-840cm,hurdles,male,u18
-336,51.94,,Andreas Haara BAKKETUN,21 FEB 2001,NOR,2sf1,"Olimpiai Sportpark, Győr (HUN)",07 JUL 2018,,400m-hurdles-840cm,hurdles,male,u18
-344,51.95,,Derick DÍAZ,24 JUL 1996,PUR,2sf2,Donetsk (UKR),11 JUL 2013,,400m-hurdles-840cm,hurdles,male,u18
-344,51.95,,Aleix PORRAS,11 SEP 1999,ESP,1f1,Walldorf (GER),02 JUL 2016,,400m-hurdles-840cm,hurdles,male,u18
-344,51.95,,Roshawn CLARKE,01 JUL 2004,JAM,1,San José (CRC),09 JUL 2021,,400m-hurdles-840cm,hurdles,male,u18
-344,51.95,,Bapi HANSDA,26 JUL 2006,IND,1,"Mahatma Gandhi District Stadium Ajjarkad, Udupi (IND)",12 MAR 2023,,400m-hurdles-840cm,hurdles,male,u18
-344,51.95,,Njabulo MBATHA,24 APR 2007,RSA,2f4,"McArthur Stadium, Potchefstroom (RSA)",20 OCT 2023,,400m-hurdles-840cm,hurdles,male,u18
-349,51.96,,Javauney JAMES,21 DEC 1998,JAM,2sf2,"Pascual Guerrero Stadium, Cali (COL)",16 JUL 2015,,400m-hurdles-840cm,hurdles,male,u18
-349,51.96,,Morne VAN AS,02 JAN 1998,RSA,3sf3,"Pascual Guerrero Stadium, Cali (COL)",16 JUL 2015,,400m-hurdles-840cm,hurdles,male,u18
-349,51.96,,Lázaro T. RODRÍGUEZ,17 JUL 1999,CUB,1,La Habana (CUB),28 MAY 2016,,400m-hurdles-840cm,hurdles,male,u18
-349,51.96,,Halomoan Edwin BINSAR,20 DEC 2000,INA,1,Bangkok (THA),23 MAY 2017,,400m-hurdles-840cm,hurdles,male,u18
-349,51.96,,Dániel HULLER,10 MAY 2001,HUN,2sf2,"Olimpiai Sportpark, Győr (HUN)",07 JUL 2018,,400m-hurdles-840cm,hurdles,male,u18
-354,51.97,,Toby ULM,19 MAY 1989,GBR,1,Thessaloniki (GRE),02 JUL 2006,,400m-hurdles-840cm,hurdles,male,u18
-354,51.97,,Devontie ARCHER,26 MAY 2002,JAM,2,Kingston (JAM),22 JUN 2019,,400m-hurdles-840cm,hurdles,male,u18
-354,51.97,,David PEREZ,01 MAR 2005,ESP,4f1,"Givat Ram Stadium, Jerusalem (ISR)",07 JUL 2022,,400m-hurdles-840cm,hurdles,male,u18
-357,51.98,,Michael BAKER,06 APR 1990,GBR,5sf1,Ostrava (CZE),14 JUL 2007,,400m-hurdles-840cm,hurdles,male,u18
-357,51.98,,Pavel AGAFONOV,28 AUG 1995,RUS,1,Penza (RUS),01 JUL 2012,,400m-hurdles-840cm,hurdles,male,u18
-357,51.98,,Dániel HULLER,10 MAY 2001,HUN,1h2,Buenos Aires (ARG),13 OCT 2018,,400m-hurdles-840cm,hurdles,male,u18
-357,51.98,,Xiaoqi FU,07 JAN 2006,CHN,2,"Tuanbo Sports Center, Tianjin (CHN)",22 MAY 2023,,400m-hurdles-840cm,hurdles,male,u18
-357,51.98,,Michal RADA,25 MAY 2007,CZE,1h6,Banská Bystrica (SVK),19 JUL 2024,,400m-hurdles-840cm,hurdles,male,u18
-362,51.99,,Schalk BURGER,20 FEB 1993,RSA,1,Gaborone (BOT),23 MAY 2010,,400m-hurdles-840cm,hurdles,male,u18
-362,51.99,,Yang WANG,20 SEP 1996,CHN,1h4,Donetsk (UKR),10 JUL 2013,,400m-hurdles-840cm,hurdles,male,u18
-362,51.99,,Lewellyn HARMSE,10 DEC 2006,RSA,1h2,"Msunduzi Athletics Stadium, Pietermaritzburg (RSA)",24 MAR 2023,,400m-hurdles-840cm,hurdles,male,u18
-362,51.99,,Akalanka KUDA LIYANAGE,16 JAN 2006,SRI,1h1,"Hasely Crawford Stadium, Port-of-Spain (TTO)",08 AUG 2023,,400m-hurdles-840cm,hurdles,male,u18
-366,52.00,,Filip WALOTKA,17 FEB 1980,POL,1,Lublin (POL),20 SEP 1997,,400m-hurdles-840cm,hurdles,male,u18
-366,52.00,,Jacques DE KOCK,19 FEB 1987,RSA,1,Germiston (RSA),27 MAR 2004,,400m-hurdles-840cm,hurdles,male,u18
-366,52.00,,Marlon HUMPHREY,08 JUL 1996,USA,1h1,Donetsk (UKR),10 JUL 2013,,400m-hurdles-840cm,hurdles,male,u18
-366,52.00,,Rivaldo LEACOCK,01 SEP 1998,BAR,1f1,Bridgetown (BAR),08 JUN 2014,,400m-hurdles-840cm,hurdles,male,u18
-366,52.00,,Seamus DERBYSHIRE,27 JAN 2000,GBR,2,Nassau (BAH),23 JUL 2017,,400m-hurdles-840cm,hurdles,male,u18
-366,52.00,,Njabulo MBATHA,24 APR 2007,RSA,1f1,"Pilditch Stadium, Pretoria (RSA)",17 FEB 2024,,400m-hurdles-840cm,hurdles,male,u18
-366,52.00,,Stiaan MYBURGH,08 JAN 2008,RSA,1f2,"Pilditch Stadium, Pretoria (RSA)",29 JAN 2025,,400m-hurdles-840cm,hurdles,male,u18
+30,50.57,,Chengcheng ZHAO,13 APR 2008,CHN,1,"Olympic Center, Shenyang (CHN)",14 AUG 2025,,400m-hurdles-840cm,hurdles,male,u18
+31,50.61,,Zhihang XU,18 FEB 1997,CHN,1f1,"Olympic Stadium, Nanjing (CHN)",25 AUG 2014,,400m-hurdles-840cm,hurdles,male,u18
+31,50.61,,Mohamed Fares JLASSI,09 JAN 1997,TUN,2f1,"Olympic Stadium, Nanjing (CHN)",25 AUG 2014,,400m-hurdles-840cm,hurdles,male,u18
+31,50.61,,Matodzi NDO,19 MAR 2007,RSA,2,"Pilditch Stadium, Pretoria (RSA)",08 MAR 2024,,400m-hurdles-840cm,hurdles,male,u18
+34,50.63,,Dániel HULLER,10 MAY 2001,HUN,1,"Olimpiai Sportpark, Győr (HUN)",08 JUL 2018,,400m-hurdles-840cm,hurdles,male,u18
+34,50.63,,Martin FRAYSSE,30 JUN 2001,FRA,1,"Olimpiai Sportpark, Győr (HUN)",08 JUL 2018,,400m-hurdles-840cm,hurdles,male,u18
+34,50.63,,Daniel WRIGHT,31 JUL 2006,JAM,1,"National Stadium, Kingston (JAM)",17 JUN 2023,,400m-hurdles-840cm,hurdles,male,u18
+37,50.68,,Stiaan MYBURGH,08 JAN 2008,RSA,1f1,"UJ Stadium, Johannesburg (RSA)",14 MAR 2025,,400m-hurdles-840cm,hurdles,male,u18
+38,50.69,,Norge SOTOMAYOR,26 APR 1993,CUB,1f3,Singapore (SGP),23 AUG 2010,,400m-hurdles-840cm,hurdles,male,u18
+38,50.69,,Lesibe DIKGALE,03 APR 2007,RSA,1f4,"Pilditch Stadium, Pretoria (RSA)",17 FEB 2024,,400m-hurdles-840cm,hurdles,male,u18
+40,50.71,,Sokwakhana ZAZINI,23 JAN 2000,RSA,1,Pretoria (RSA),15 FEB 2017,,400m-hurdles-840cm,hurdles,male,u18
+41,50.72,,Jason RICHARDSON,04 APR 1986,USA,1,"Amherst, MA (USA)",06 JUL 2003,,400m-hurdles-840cm,hurdles,male,u18
+41,50.72,,Yang WANG,20 SEP 1996,CHN,1sf1,Donetsk (UKR),11 JUL 2013,,400m-hurdles-840cm,hurdles,male,u18
+41,50.72,,Masaki TOYODA,17 JAN 1998,JPN,1sf1,"Pascual Guerrero Stadium, Cali (COL)",16 JUL 2015,,400m-hurdles-840cm,hurdles,male,u18
+44,50.74,,Pieter BENEKE,18 JUL 1990,RSA,1,Pretoria (RSA),14 APR 2007,,400m-hurdles-840cm,hurdles,male,u18
+44,50.74,,Zhihang XU,18 FEB 1997,CHN,1,Bangkok (THA),22 MAY 2014,,400m-hurdles-840cm,hurdles,male,u18
+46,50.75,,Cornel FREDERICKS,03 MAR 1990,RSA,1,Pretoria (RSA),14 APR 2007,,400m-hurdles-840cm,hurdles,male,u18
+46,50.75,,Marlon HUMPHREY,08 JUL 1996,USA,1,"Edwardsville, IL (USA)",26 JUN 2013,,400m-hurdles-840cm,hurdles,male,u18
+48,50.76,,Bandar Yahya AL SHARAKILI,06 MAR 1987,KSA,1,Jeddah (KSA),04 SEP 2004,,400m-hurdles-840cm,hurdles,male,u18
+49,50.78,,Yang WANG,20 SEP 1996,CHN,2,Donetsk (UKR),13 JUL 2013,,400m-hurdles-840cm,hurdles,male,u18
+50,50.79,,Zhihang XU,18 FEB 1997,CHN,1h1,"Olympic Stadium, Nanjing (CHN)",22 AUG 2014,,400m-hurdles-840cm,hurdles,male,u18
+51,50.81,,Bandar Yahya AL SHARAKILI,06 MAR 1987,KSA,1,Damascus (SYR),12 SEP 2004,,400m-hurdles-840cm,hurdles,male,u18
+51,50.81,,Durgesh Pal KUMAR,24 APR 1994,IND,2f3,Singapore (SGP),23 AUG 2010,,400m-hurdles-840cm,hurdles,male,u18
+53,50.82,,LJ VAN ZYL,20 JUL 1985,RSA,1,Caen (FRA),29 MAY 2002,,400m-hurdles-840cm,hurdles,male,u18
+53,50.82,,Daniel WRIGHT,31 JUL 2006,JAM,1,"National Stadium, Kingston (JAM)",07 JUL 2023,,400m-hurdles-840cm,hurdles,male,u18
+55,50.85,,LJ VAN ZYL,20 JUL 1985,RSA,1,Johannesburg (RSA),16 JUN 2001,,400m-hurdles-840cm,hurdles,male,u18
+55,50.85,,Wouter LE ROUX,17 JAN 1986,RSA,2,Sherbrooke (CAN),12 JUL 2003,,400m-hurdles-840cm,hurdles,male,u18
+55,50.85,,Norge SOTOMAYOR,26 APR 1993,CUB,1,La Habana (CUB),18 JUN 2010,,400m-hurdles-840cm,hurdles,male,u18
+55,50.85,,Masaki TOYODA,17 JAN 1998,JPN,2,Wakayama (JPN),31 JUL 2015,,400m-hurdles-840cm,hurdles,male,u18
+55,50.85,,Sokwakhana ZAZINI,23 JAN 2000,RSA,2,Germiston (RSA),02 APR 2016,,400m-hurdles-840cm,hurdles,male,u18
+60,50.87,,Ryusei FUJII,18 MAR 1998,JPN,1h2,"Pascual Guerrero Stadium, Cali (COL)",15 JUL 2015,,400m-hurdles-840cm,hurdles,male,u18
+61,50.88,,Guowei XIANG,08 MAR 2008,CHN,2,"Olympic Center, Shenyang (CHN)",14 AUG 2025,,400m-hurdles-840cm,hurdles,male,u18
+62,50.89,,Nathan ARNETT,15 DEC 1990,BAH,4,Ostrava (CZE),15 JUL 2007,,400m-hurdles-840cm,hurdles,male,u18
+62,50.89,,Bastian ELNAN AURSTAD,18 JAN 2005,NOR,1f1,"Givat Ram Stadium, Jerusalem (ISR)",07 JUL 2022,,400m-hurdles-840cm,hurdles,male,u18
+62,50.89,,Matodzi NDO,19 MAR 2007,RSA,1,"Msunduzi Athletics Stadium, Pietermaritzburg (RSA)",25 MAR 2023,,400m-hurdles-840cm,hurdles,male,u18
+65,50.90,,Jason RICHARDSON,04 APR 1986,USA,2,"Miami, FL (USA)",03 AUG 2003,,400m-hurdles-840cm,hurdles,male,u18
+65,50.90,,Mohammed DAAK,20 MAR 1988,KSA,1,"Sidi Youssef Ben Ali, Marrakech (MAR)",17 JUL 2005,,400m-hurdles-840cm,hurdles,male,u18
+65,50.90,,David KLECH,29 APR 1988,USA,2,"Sidi Youssef Ben Ali, Marrakech (MAR)",17 JUL 2005,,400m-hurdles-840cm,hurdles,male,u18
+65,50.90,,Kenneth SELMON,27 AUG 1996,USA,2,"Edwardsville, IL (USA)",26 JUN 2013,,400m-hurdles-840cm,hurdles,male,u18
+65,50.90,,Karl JOHNSON,15 APR 2001,GBR,3,"Olimpiai Sportpark, Győr (HUN)",08 JUL 2018,,400m-hurdles-840cm,hurdles,male,u18
+70,50.91,,Sergio HIERREZUELO,15 MAR 1982,CUB,1h1,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",17 JUL 1999,,400m-hurdles-840cm,hurdles,male,u18
+70,50.91,,Mahamat Abakar ABDRAHMAN,17 APR 2006,QAT,1,Tashkent (UZB),30 APR 2023,,400m-hurdles-840cm,hurdles,male,u18
+72,50.92,,Andreas Haara BAKKETUN,21 FEB 2001,NOR,4,"Olimpiai Sportpark, Győr (HUN)",08 JUL 2018,,400m-hurdles-840cm,hurdles,male,u18
+73,50.94,,Lesibe DIKGALE,03 APR 2007,RSA,2f5,"McArthur Stadium, Potchefstroom (RSA)",11 OCT 2024,,400m-hurdles-840cm,hurdles,male,u18
+74,50.95,,Jason RICHARDSON,04 APR 1986,USA,1h3,Sherbrooke (CAN),10 JUL 2003,,400m-hurdles-840cm,hurdles,male,u18
+74,50.95,,Kenneth SELMON,27 AUG 1996,USA,2sf1,Donetsk (UKR),11 JUL 2013,,400m-hurdles-840cm,hurdles,male,u18
+74,50.95,,Norman GRIMES,06 JAN 1998,USA,1h5,"Pascual Guerrero Stadium, Cali (COL)",15 JUL 2015,,400m-hurdles-840cm,hurdles,male,u18
+77,50.96,,David KLECH,29 APR 1988,USA,1sf1,"Sidi Youssef Ben Ali, Marrakech (MAR)",16 JUL 2005,,400m-hurdles-840cm,hurdles,male,u18
+77,50.96,,Marlon HUMPHREY,08 JUL 1996,USA,2sf3,Donetsk (UKR),11 JUL 2013,,400m-hurdles-840cm,hurdles,male,u18
+79,50.97,,Yegor KUZNETSOV,29 NOV 1994,RUS,1,Lille (FRA),09 JUL 2011,,400m-hurdles-840cm,hurdles,male,u18
+79,50.97,,Michal RADA,25 MAY 2007,CZE,1sf2,Banská Bystrica (SVK),20 JUL 2024,,400m-hurdles-840cm,hurdles,male,u18
+79,50.97,,Travis COLLET,2008,FRA,3,"Athletic track of National Arena Philip II, Skopje (MKD)",25 JUL 2025,,400m-hurdles-840cm,hurdles,male,u18
+82,51.00,,Takumu FURUYA,12 MAR 1997,JPN,3sf3,Donetsk (UKR),11 JUL 2013,,400m-hurdles-840cm,hurdles,male,u18
+83,51.01,,Geofrey Kipkoech CHERUIYOT,04 JUN 1996,KEN,3sf1,Donetsk (UKR),11 JUL 2013,,400m-hurdles-840cm,hurdles,male,u18
+83,51.01,,Witthawat THUMCHA,25 JAN 1998,THA,2,Bangkok (THA),22 MAY 2014,,400m-hurdles-840cm,hurdles,male,u18
+85,51.04,,Amaurys VALLE,18 JAN 1990,CUB,2sf2,Ostrava (CZE),14 JUL 2007,,400m-hurdles-840cm,hurdles,male,u18
+85,51.04,,Cornel FREDERICKS,03 MAR 1990,RSA,5,Ostrava (CZE),15 JUL 2007,,400m-hurdles-840cm,hurdles,male,u18
+87,51.06,,Jaheel HYDE,02 FEB 1997,JAM,1,Kingston (JAM),09 MAR 2014,,400m-hurdles-840cm,hurdles,male,u18
+88,51.07,,Felix FRANZ,06 MAY 1993,GER,1,Moskva (RUS),23 MAY 2010,,400m-hurdles-840cm,hurdles,male,u18
+89,51.09,,Stef VANHAEREN,15 JAN 1992,BEL,1,Tampere (FIN),23 JUL 2009,,400m-hurdles-840cm,hurdles,male,u18
+90,51.10,,Akalanka KUDA LIYANAGE,16 JAN 2006,SRI,1,"Sugathadasa Stadium, Colombo (SRI)",27 NOV 2023,,400m-hurdles-840cm,hurdles,male,u18
+91,51.11,,Sokwakhana ZAZINI,23 JAN 2000,RSA,1,Cape Town (RSA),08 APR 2017,,400m-hurdles-840cm,hurdles,male,u18
+92,51.12,,Mikael Antonio DE JESÚS,19 AUG 1997,BRA,2h1,"Olympic Stadium, Nanjing (CHN)",22 AUG 2014,,400m-hurdles-840cm,hurdles,male,u18
+92,51.12,,Rivaldo LEACOCK,01 SEP 1998,BAR,1,Apia (SAM),09 SEP 2015,,400m-hurdles-840cm,hurdles,male,u18
+92,51.12,,Marek VÁŇA,03 AUG 2007,CZE,2f1,Banská Bystrica (SVK),21 JUL 2024,,400m-hurdles-840cm,hurdles,male,u18
+92,51.12,,Stiaan MYBURGH,08 JAN 2008,RSA,1,"Green Point Stadium, Cape Town (RSA)",29 MAR 2025,,400m-hurdles-840cm,hurdles,male,u18
+96,51.13,,Jaber Adel ASSIRI,04 JAN 1990,KSA,2sf1,"Sidi Youssef Ben Ali, Marrakech (MAR)",16 JUL 2005,,400m-hurdles-840cm,hurdles,male,u18
+96,51.13,,Emmanuel Kipyegon LANGAT,26 DEC 1999,KEN,2sf1,"Pascual Guerrero Stadium, Cali (COL)",16 JUL 2015,,400m-hurdles-840cm,hurdles,male,u18
+96,51.13,,Rivaldo LEACOCK,01 SEP 1998,BAR,4,"Pascual Guerrero Stadium, Cali (COL)",18 JUL 2015,,400m-hurdles-840cm,hurdles,male,u18
+99,51.14,,Cornel FREDERICKS,03 MAR 1990,RSA,1,Port Elizabeth (RSA),31 MAR 2007,,400m-hurdles-840cm,hurdles,male,u18
+99,51.14,,Ibrahim Mohammed SALEH,30 MAY 1995,KSA,2,Lille (FRA),09 JUL 2011,,400m-hurdles-840cm,hurdles,male,u18
+101,51.19,,Victor COROLLER,29 JAN 1997,FRA,3f1,"Olympic Stadium, Nanjing (CHN)",25 AUG 2014,,400m-hurdles-840cm,hurdles,male,u18
+102,51.20,,Rivaldo LEACOCK,01 SEP 1998,BAR,3sf1,"Pascual Guerrero Stadium, Cali (COL)",16 JUL 2015,,400m-hurdles-840cm,hurdles,male,u18
+103,51.21,,Jaheel HYDE,02 FEB 1997,JAM,1,Fort-de-France (FRA),20 APR 2014,,400m-hurdles-840cm,hurdles,male,u18
+103,51.21,,Ryusei FUJII,18 MAR 1998,JPN,1sf2,"Pascual Guerrero Stadium, Cali (COL)",16 JUL 2015,,400m-hurdles-840cm,hurdles,male,u18
+105,51.22,,Mohammed DAAK,20 MAR 1988,KSA,2,Jeddah (KSA),04 SEP 2004,,400m-hurdles-840cm,hurdles,male,u18
+105,51.22,,Wiekus JONCK,18 MAR 1988,RSA,3sf1,"Sidi Youssef Ben Ali, Marrakech (MAR)",16 JUL 2005,,400m-hurdles-840cm,hurdles,male,u18
+105,51.22,,Alastair CHALMERS,31 MAR 2000,GBR,1,Nassau (BAH),23 JUL 2017,,400m-hurdles-840cm,hurdles,male,u18
+108,51.23,,William Mbevi MUTUNGA,12 JUL 1993,KEN,3f3,Singapore (SGP),23 AUG 2010,,400m-hurdles-840cm,hurdles,male,u18
+108,51.23,,Victor COROLLER,29 JAN 1997,FRA,1,Valence (FRA),20 JUL 2014,,400m-hurdles-840cm,hurdles,male,u18
+108,51.23,,Nino CAMIU,2008,SUI,1,"Stadion Trinermatten, Zofingen (SUI)",14 SEP 2025,,400m-hurdles-840cm,hurdles,male,u18
+111,51.24,,Christiaan MOUTON,08 AUG 1994,RSA,1,Paarl (RSA),12 MAR 2011,,400m-hurdles-840cm,hurdles,male,u18
+112,51.26,,Takahiro MATSUMOTO,19 SEP 1994,JPN,3,Lille (FRA),09 JUL 2011,,400m-hurdles-840cm,hurdles,male,u18
+112,51.26,,Sean HEWITT,09 DEC 2002,JAM,1,Kingston (JAM),22 JUN 2019,,400m-hurdles-840cm,hurdles,male,u18
+114,51.27,,Diego MANCINI,03 APR 2008,ITA,1h3,"Athletic track of National Arena Philip II, Skopje (MKD)",22 JUL 2025,,400m-hurdles-840cm,hurdles,male,u18
+115,51.28,,Haruto DEGUCHI,23 SEP 2001,JPN,1f2,Buenos Aires (ARG),16 OCT 2018,,400m-hurdles-840cm,hurdles,male,u18
+116,51.29,,Njabulo MBATHA,24 APR 2007,RSA,1h1,"Pilditch Stadium, Pretoria (RSA)",08 MAR 2024,,400m-hurdles-840cm,hurdles,male,u18
+117,51.30,,Jason RICHARDSON,04 APR 1986,USA,1sf2,Sherbrooke (CAN),11 JUL 2003,,400m-hurdles-840cm,hurdles,male,u18
+117,51.30,,Norge SOTOMAYOR,26 APR 1993,CUB,1,"Bressanone, Trentino-Alto Adige (ITA)",11 JUL 2009,,400m-hurdles-840cm,hurdles,male,u18
+117,51.30,,Taariq SOLOMONS,22 AUG 1993,RSA,1,Germiston (RSA),11 APR 2010,,400m-hurdles-840cm,hurdles,male,u18
+117,51.30,,Kenneth SELMON,27 AUG 1996,USA,3,Donetsk (UKR),13 JUL 2013,,400m-hurdles-840cm,hurdles,male,u18
+117,51.30,,Mikael Antonio DE JESÚS,19 AUG 1997,BRA,4f1,"Olympic Stadium, Nanjing (CHN)",25 AUG 2014,,400m-hurdles-840cm,hurdles,male,u18
+122,51.31,,Yegor KUZNETSOV,29 NOV 1994,RUS,1sf3,Lille (FRA),07 JUL 2011,,400m-hurdles-840cm,hurdles,male,u18
+122,51.31,,Marvin WILLIAMS,13 JUN 1996,JAM,1sf2,Donetsk (UKR),11 JUL 2013,,400m-hurdles-840cm,hurdles,male,u18
+124,51.32,,Jonathan WALKER,29 AUG 1984,USA,2,Debrecen (HUN),14 JUL 2001,,400m-hurdles-840cm,hurdles,male,u18
+124,51.32,,Ali AL ROMAIH,19 SEP 2007,KSA,1,"Prince Nayef Sports City, Qatif (KSA)",02 JUN 2023,,400m-hurdles-840cm,hurdles,male,u18
+126,51.33,,Wouter LE ROUX,17 JAN 1986,RSA,1,Port Elizabeth (RSA),29 MAR 2003,,400m-hurdles-840cm,hurdles,male,u18
+126,51.33,,Ken Kirui TELE,28 DEC 1994,KEN,4,Lille (FRA),09 JUL 2011,,400m-hurdles-840cm,hurdles,male,u18
+126,51.33,,Marvin WILLIAMS,13 JUN 1996,JAM,1h2,Donetsk (UKR),10 JUL 2013,,400m-hurdles-840cm,hurdles,male,u18
+129,51.34,,Johannes PRETORIUS,26 JAN 1994,RSA,5,Lille (FRA),09 JUL 2011,,400m-hurdles-840cm,hurdles,male,u18
+129,51.34,,Rivaldo LEACOCK,01 SEP 1998,BAR,1,Basseterre (SKN),05 APR 2015,,400m-hurdles-840cm,hurdles,male,u18
+129,51.34,,Ryusei FUJII,18 MAR 1998,JPN,4,Wakayama (JPN),31 JUL 2015,,400m-hurdles-840cm,hurdles,male,u18
+132,51.35,,Jonathan WALKER,29 AUG 1984,USA,1sf1,Debrecen (HUN),13 JUL 2001,,400m-hurdles-840cm,hurdles,male,u18
+132,51.35,,Rivaldo LEACOCK,01 SEP 1998,BAR,1h6,"Pascual Guerrero Stadium, Cali (COL)",15 JUL 2015,,400m-hurdles-840cm,hurdles,male,u18
+134,51.36,,Javauney JAMES,21 DEC 1998,JAM,1h1,Apia (SAM),08 SEP 2015,,400m-hurdles-840cm,hurdles,male,u18
+134,51.36,,Matodzi NDO,19 MAR 2007,RSA,1,"Levy Mwanawasa Stadion, Ndola (ZAM)",03 MAY 2023,,400m-hurdles-840cm,hurdles,male,u18
+136,51.37,,Rivaldo LEACOCK,01 SEP 1998,BAR,2,Fort-de-France (FRA),20 APR 2014,,400m-hurdles-840cm,hurdles,male,u18
+137,51.38,,Cornel FREDERICKS,03 MAR 1990,RSA,1,Pretoria (RSA),08 APR 2006,,400m-hurdles-840cm,hurdles,male,u18
+137,51.38,,Rivaldo LEACOCK,01 SEP 1998,BAR,1,Bridgetown (BAR),28 MAR 2014,,400m-hurdles-840cm,hurdles,male,u18
+137,51.38,,Bapi HANSDA,26 JUL 2006,IND,2,Tashkent (UZB),30 APR 2023,,400m-hurdles-840cm,hurdles,male,u18
+137,51.38,,Tommaso ARDIZZONE,04 FEB 2007,ITA,3f1,Banská Bystrica (SVK),21 JUL 2024,,400m-hurdles-840cm,hurdles,male,u18
+141,51.39,,Ryusei FUJII,18 MAR 1998,JPN,1sf1,Wakayama (JPN),31 JUL 2015,,400m-hurdles-840cm,hurdles,male,u18
+142,51.40,,Christer GULLSTRAND,26 MAR 1959,SWE,1,Göteborg (SWE),14 AUG 1976,,400m-hurdles-840cm,hurdles,male,u18
+142,51.40,,Robert KIGEN,03 SEP 1988,KEN,1h2,"Sidi Youssef Ben Ali, Marrakech (MAR)",15 JUL 2005,,400m-hurdles-840cm,hurdles,male,u18
+142,51.40,,Mohammed DAAK,20 MAR 1988,KSA,1h4,"Sidi Youssef Ben Ali, Marrakech (MAR)",15 JUL 2005,,400m-hurdles-840cm,hurdles,male,u18
+142,51.40,,Haruto DEGUCHI,23 SEP 2001,JPN,1h1,Buenos Aires (ARG),13 OCT 2018,,400m-hurdles-840cm,hurdles,male,u18
+142,51.40,,Akalanka KUDA LIYANAGE,16 JAN 2006,SRI,3,Tashkent (UZB),30 APR 2023,,400m-hurdles-840cm,hurdles,male,u18
+147,51.41,,Norman GRIMES,06 JAN 1998,USA,1sf3,"Pascual Guerrero Stadium, Cali (COL)",16 JUL 2015,,400m-hurdles-840cm,hurdles,male,u18
+147,51.41,,Oskar EDLUND,16 NOV 2002,SWE,1,Baku (AZE),26 JUL 2019,,400m-hurdles-840cm,hurdles,male,u18
+147,51.41,,Njabulo MBATHA,24 APR 2007,RSA,1h1,"Pilditch Stadium, Pretoria (RSA)",22 MAR 2024,,400m-hurdles-840cm,hurdles,male,u18
+150,51.42,,Stiaan MYBURGH,08 JAN 2008,RSA,1f4,"Pilditch Stadium, Pretoria (RSA)",08 FEB 2025,,400m-hurdles-840cm,hurdles,male,u18
+150,51.42,,Diego ESPESO,15 MAR 2008,ESP,1,"Pistes d'atletisme Gaetà Huguet, Castellón (ESP)",06 JUL 2025,,400m-hurdles-840cm,hurdles,male,u18
+152,51.43,,Antti SAINIO,17 MAY 2005,FIN,1sf2,"Givat Ram Stadium, Jerusalem (ISR)",06 JUL 2022,,400m-hurdles-840cm,hurdles,male,u18
+153,51.44,,Jeremy FARR,20 NOV 2000,JAM,1,Kingston (JAM),31 MAR 2017,,400m-hurdles-840cm,hurdles,male,u18
+154,51.45,,Jeremiah Kipkorir MUTAI,27 DEC 1992,KEN,2,"Bressanone, Trentino-Alto Adige (ITA)",11 JUL 2009,,400m-hurdles-840cm,hurdles,male,u18
+155,51.46,,Matteo BERIA,20 JUN 1996,ITA,1,Brasilia (BRA),03 DEC 2013,,400m-hurdles-840cm,hurdles,male,u18
+155,51.46,,Rivaldo LEACOCK,01 SEP 1998,BAR,2h1,Apia (SAM),08 SEP 2015,,400m-hurdles-840cm,hurdles,male,u18
+155,51.46,,Alessandro SIBILIO,27 APR 1999,ITA,1,"New District Stadium, Tbilisi (GEO)",17 JUL 2016,,400m-hurdles-840cm,hurdles,male,u18
+158,51.47,,Schalk BURGER,20 FEB 1993,RSA,2,Germiston (RSA),11 APR 2010,,400m-hurdles-840cm,hurdles,male,u18
+158,51.47,,Linford MAREE,31 JAN 1999,RSA,1,Bloemfontein (RSA),19 MAR 2016,,400m-hurdles-840cm,hurdles,male,u18
+158,51.47,,Steven Mateus MENDEZ,11 FEB 2010,ECU,1,"Parque Olímpico Pista De Atletismo, Luque, Asunción (PAR)",20 JUL 2025,,400m-hurdles-840cm,hurdles,male,u18
+161,51.48,,Jamaal CHARLES,27 DEC 1986,USA,3,Sherbrooke (CAN),12 JUL 2003,,400m-hurdles-840cm,hurdles,male,u18
+162,51.49,,Durgesh Pal KUMAR,24 APR 1994,IND,1,Ranchi (IND),29 MAY 2011,,400m-hurdles-840cm,hurdles,male,u18
+162,51.49,,Morne VAN AS,02 JAN 1998,RSA,1,Bloemfontein (RSA),11 APR 2015,,400m-hurdles-840cm,hurdles,male,u18
+162,51.49,,Oskar EDLUND,16 NOV 2002,SWE,1,Sollentuna (SWE),08 JUN 2019,,400m-hurdles-840cm,hurdles,male,u18
+165,51.50,,Vincent Mumo KIILU,03 AUG 1982,KEN,3f1,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",18 JUL 1999,,400m-hurdles-840cm,hurdles,male,u18
+165,51.50,,Josè BENCOSME DE LEON,16 MAY 1992,ITA,1,Cuneo (ITA),13 JUN 2009,,400m-hurdles-840cm,hurdles,male,u18
+165,51.50,,Ramfis VEGA,07 JAN 1994,PUR,6,Lille (FRA),09 JUL 2011,,400m-hurdles-840cm,hurdles,male,u18
+165,51.50,,Travis COLLET,2008,FRA,1,"Stade de Courtemanche, Rennes (FRA)",29 JUN 2025,,400m-hurdles-840cm,hurdles,male,u18
+169,51.51,,Victor COROLLER,29 JAN 1997,FRA,1,Baku (AZE),01 JUN 2014,,400m-hurdles-840cm,hurdles,male,u18
+169,51.51,,Daniel WRIGHT,31 JUL 2006,JAM,1,"Hasely Crawford Stadium, Port-of-Spain (TTO)",09 AUG 2023,,400m-hurdles-840cm,hurdles,male,u18
+169,51.51,,Matodzi NDO,19 MAR 2007,RSA,2f5,"Pilditch Stadium, Pretoria (RSA)",18 SEP 2024,,400m-hurdles-840cm,hurdles,male,u18
+169,51.51,,Santiago QUINTERO,23 APR 2008,VEN,2,"Parque Olímpico Pista De Atletismo, Luque, Asunción (PAR)",20 JUL 2025,,400m-hurdles-840cm,hurdles,male,u18
+173,51.52,,Mohamed Fares JLASSI,09 JAN 1997,TUN,1,"National Stadium, Gaborone (BOT)",29 MAY 2014,,400m-hurdles-840cm,hurdles,male,u18
+173,51.52,,Mikael Antonio DE JESÚS,19 AUG 1997,BRA,1,Recifé (BRA),20 SEP 2014,,400m-hurdles-840cm,hurdles,male,u18
+173,51.52,,Martin FRAYSSE,30 JUN 2001,FRA,1sf2,"Olimpiai Sportpark, Győr (HUN)",07 JUL 2018,,400m-hurdles-840cm,hurdles,male,u18
+176,51.53,,Mohammed DAAK,20 MAR 1988,KSA,1,Rabat (MAR),02 AUG 2004,,400m-hurdles-840cm,hurdles,male,u18
+177,51.54,,Felix FRANZ,06 MAY 1993,GER,1h3,Moskva (RUS),21 MAY 2010,,400m-hurdles-840cm,hurdles,male,u18
+177,51.54,,Javauney JAMES,21 DEC 1998,JAM,2,Apia (SAM),09 SEP 2015,,400m-hurdles-840cm,hurdles,male,u18
+179,51.55,,Sam LUNT,23 OCT 2005,GBR,1,"Mary Peters Track, Belfast (GBR)",16 JUL 2022,,400m-hurdles-840cm,hurdles,male,u18
+179,51.55,,Mattia TAMBORONI,11 NOV 2008,ITA,2,"Stadio Guidobaldi, Rieti (ITA)",29 JUN 2025,,400m-hurdles-840cm,hurdles,male,u18
+181,51.56,,Aleix PORRAS,11 SEP 1999,ESP,2,"New District Stadium, Tbilisi (GEO)",17 JUL 2016,,400m-hurdles-840cm,hurdles,male,u18
+182,51.57,,Wouter LE ROUX,17 JAN 1986,RSA,1,Durban (RSA),12 APR 2003,,400m-hurdles-840cm,hurdles,male,u18
+182,51.57,,Durgesh Pal KUMAR,24 APR 1994,IND,1,Coimbatore (IND),25 APR 2010,,400m-hurdles-840cm,hurdles,male,u18
+182,51.57,,Johannes PRETORIUS,26 JAN 1994,RSA,1sf2,Lille (FRA),07 JUL 2011,,400m-hurdles-840cm,hurdles,male,u18
+182,51.57,,Martin FRAYSSE,30 JUN 2001,FRA,1,Blois (FRA),23 JUN 2018,,400m-hurdles-840cm,hurdles,male,u18
+182,51.57,,Matodzi NDO,19 MAR 2007,RSA,1,"Pilditch Stadium, Pretoria (RSA)",11 MAR 2023,,400m-hurdles-840cm,hurdles,male,u18
+182,51.57,,Diego ESPESO,15 MAR 2008,ESP,4,"Athletic track of National Arena Philip II, Skopje (MKD)",25 JUL 2025,,400m-hurdles-840cm,hurdles,male,u18
+188,51.58,,Go TANABE,21 MAR 1986,JPN,4,Sherbrooke (CAN),12 JUL 2003,,400m-hurdles-840cm,hurdles,male,u18
+188,51.58,,Mustafa Ammar SHAHEEN,18 JAN 1994,IRQ,1,Beirut (LBN),25 SEP 2011,,400m-hurdles-840cm,hurdles,male,u18
+188,51.58,,Takumu FURUYA,12 MAR 1997,JPN,4,Donetsk (UKR),13 JUL 2013,,400m-hurdles-840cm,hurdles,male,u18
+188,51.58,,Júlio César DE OLIVEIRA,15 MAY 1996,BRA,1,Maringa (BRA),25 AUG 2013,,400m-hurdles-840cm,hurdles,male,u18
+188,51.58,,Lesibe DIKGALE,03 APR 2007,RSA,2h1,"Pilditch Stadium, Pretoria (RSA)",08 MAR 2024,,400m-hurdles-840cm,hurdles,male,u18
+193,51.59,,Ibrahim Mohammed SALEH,30 MAY 1995,KSA,2sf2,Lille (FRA),07 JUL 2011,,400m-hurdles-840cm,hurdles,male,u18
+193,51.59,,Desmond PALMER,30 JUL 1995,USA,1,"Baltimore, MD (USA)",29 JUL 2012,,400m-hurdles-840cm,hurdles,male,u18
+193,51.59,,Ismail Doudai ABAKAR,01 JAN 2004,QAT,1,"Stadion Radés, Radés (TUN)",28 NOV 2021,,400m-hurdles-840cm,hurdles,male,u18
+196,51.60,,Felix FRANZ,06 MAY 1993,GER,4f3,Singapore (SGP),23 AUG 2010,,400m-hurdles-840cm,hurdles,male,u18
+196,51.60,,WJ FRASER,03 JAN 2006,RSA,2,"Msunduzi Athletics Stadium, Pietermaritzburg (RSA)",25 MAR 2023,,400m-hurdles-840cm,hurdles,male,u18
+198,51.61,,Akalanka KUDA LIYANAGE,16 JAN 2006,SRI,2,"Hasely Crawford Stadium, Port-of-Spain (TTO)",09 AUG 2023,,400m-hurdles-840cm,hurdles,male,u18
+199,51.62,,Salih DAR SAEED,15 SEP 1988,SUD,4sf1,"Sidi Youssef Ben Ali, Marrakech (MAR)",16 JUL 2005,,400m-hurdles-840cm,hurdles,male,u18
+199,51.62,,Jack LOVE,24 APR 2006,AUS,1,"Queensland Sport and Athletics Centre, Nathan, Brisbane (AUS)",16 APR 2023,,400m-hurdles-840cm,hurdles,male,u18
+201,51.63,,Guowei XIANG,08 MAR 2008,CHN,1,"Sports Center, Yulin (CHN)",12 JUL 2024,,400m-hurdles-840cm,hurdles,male,u18
+201,51.63,,Alex IBAÑEZ,18 AUG 2007,ESP,4f1,Banská Bystrica (SVK),21 JUL 2024,,400m-hurdles-840cm,hurdles,male,u18
+203,51.64,,Wouter LE ROUX,17 JAN 1986,RSA,1h2,Sherbrooke (CAN),10 JUL 2003,,400m-hurdles-840cm,hurdles,male,u18
+203,51.64,,Hamed AL BISHI,13 FEB 1990,KSA,6,Ostrava (CZE),15 JUL 2007,,400m-hurdles-840cm,hurdles,male,u18
+203,51.64,,Rasheeme GRIFFITH,03 MAY 2000,BAR,1,Willemstad (AHO),16 APR 2017,,400m-hurdles-840cm,hurdles,male,u18
+206,51.65,,Yegor KUZNETSOV,29 NOV 1994,RUS,1,Sochi (RUS),06 AUG 2011,,400m-hurdles-840cm,hurdles,male,u18
+206,51.65,,Fintan DEWHIRST,31 DEC 2005,IRL,2f1,"Givat Ram Stadium, Jerusalem (ISR)",07 JUL 2022,,400m-hurdles-840cm,hurdles,male,u18
+208,51.66,,Mohammed DAAK,20 MAR 1988,KSA,1sf2,"Sidi Youssef Ben Ali, Marrakech (MAR)",16 JUL 2005,,400m-hurdles-840cm,hurdles,male,u18
+208,51.66,,Enrique GONZÁLEZ,21 FEB 1993,ESP,2,Moskva (RUS),23 MAY 2010,,400m-hurdles-840cm,hurdles,male,u18
+210,51.67,,Hederson ESTEFANI,11 SEP 1991,BRA,1,Lima (PER),30 NOV 2008,,400m-hurdles-840cm,hurdles,male,u18
+210,51.67,,Norman GRIMES,06 JAN 1998,USA,1,"Lisle, IL (USA)",01 JUL 2015,,400m-hurdles-840cm,hurdles,male,u18
+210,51.67,,Sokwakhana ZAZINI,23 JAN 2000,RSA,2,Bloemfontein (RSA),19 MAR 2016,,400m-hurdles-840cm,hurdles,male,u18
+213,51.68,,Jaber Adel ASSIRI,04 JAN 1990,KSA,3,"Sidi Youssef Ben Ali, Marrakech (MAR)",17 JUL 2005,,400m-hurdles-840cm,hurdles,male,u18
+213,51.68,,Okeen WILLIAMS,01 JAN 1996,JAM,1,San Salvador (ESA),29 JUN 2012,,400m-hurdles-840cm,hurdles,male,u18
+213,51.68,,Mikael Antonio DE JESÚS,19 AUG 1997,BRA,1,São José dos Pinhais (BRA),16 OCT 2014,,400m-hurdles-840cm,hurdles,male,u18
+213,51.68,,Ignacio SAEZ,16 FEB 2002,ESP,2,Baku (AZE),26 JUL 2019,,400m-hurdles-840cm,hurdles,male,u18
+213,51.68,,Mimoun ABDOUL WAHAB,01 APR 2004,BEL,1h1,"Netestadion, Lier (BEL)",11 SEP 2021,,400m-hurdles-840cm,hurdles,male,u18
+218,51.69,,Wouter LE ROUX,17 JAN 1986,RSA,1,Pretoria (RSA),07 JUN 2003,,400m-hurdles-840cm,hurdles,male,u18
+218,51.69,,Reggie WYATT,17 SEP 1990,USA,1h4,Ostrava (CZE),13 JUL 2007,,400m-hurdles-840cm,hurdles,male,u18
+218,51.69,,Taylor MCLAUGHLIN,03 AUG 1997,USA,3,"Edwardsville, IL (USA)",26 JUN 2013,,400m-hurdles-840cm,hurdles,male,u18
+221,51.70,,Siphine MTSHALI,10 JUN 1984,RSA,1,Johannesburg (RSA),16 JUN 2001,,400m-hurdles-840cm,hurdles,male,u18
+221,51.70,,Emmanuel Kipyegon LANGAT,26 DEC 1999,KEN,1h4,"Pascual Guerrero Stadium, Cali (COL)",15 JUL 2015,,400m-hurdles-840cm,hurdles,male,u18
+221,51.70,,Lindukuhle GORA,31 JAN 2001,RSA,2h1,Buenos Aires (ARG),13 OCT 2018,,400m-hurdles-840cm,hurdles,male,u18
+221,51.70,,Demarco BENNETT,06 SEP 2007,JAM,1,"National Stadium, Kingston (JAM)",22 MAR 2024,,400m-hurdles-840cm,hurdles,male,u18
+221,51.70,,Sebastian SCHUCH,20 FEB 2007,GER,5f1,Banská Bystrica (SVK),21 JUL 2024,,400m-hurdles-840cm,hurdles,male,u18
+226,51.71,,Ibrahim Mohammed SALEH,30 MAY 1995,KSA,1h6,Lille (FRA),06 JUL 2011,,400m-hurdles-840cm,hurdles,male,u18
+226,51.71,,Tommaso ARDIZZONE,04 FEB 2007,ITA,1,"Stadio M.S. Cozzoli, Molfetta (ITA)",06 JUL 2024,,400m-hurdles-840cm,hurdles,male,u18
+228,51.72,,Shota MADOKORO,22 MAY 1994,JPN,3sf2,Lille (FRA),07 JUL 2011,,400m-hurdles-840cm,hurdles,male,u18
+228,51.72,,Ignacio SAEZ,16 FEB 2002,ESP,1,Gijón (ESP),24 JUN 2018,,400m-hurdles-840cm,hurdles,male,u18
+228,51.72,,Antti SAINIO,17 MAY 2005,FIN,1,"Olympiastadion, Helsinki (FIN)",03 SEP 2022,,400m-hurdles-840cm,hurdles,male,u18
+228,51.72,,Lesibe DIKGALE,03 APR 2007,RSA,1,"Pilditch Stadium, Pretoria (RSA)",24 FEB 2024,,400m-hurdles-840cm,hurdles,male,u18
+232,51.73,,Amin Mohamed AL OZON,07 JUL 1984,SYR,2sf1,Debrecen (HUN),13 JUL 2001,,400m-hurdles-840cm,hurdles,male,u18
+232,51.73,,Vyacheslav SAKAYEV,12 JAN 1988,RUS,5sf1,"Sidi Youssef Ben Ali, Marrakech (MAR)",16 JUL 2005,,400m-hurdles-840cm,hurdles,male,u18
+232,51.73,,Eusebio HALITI,01 JAN 1991,ALB,1,Bari (ITA),25 MAY 2008,,400m-hurdles-840cm,hurdles,male,u18
+232,51.73,,Ian Andrey PATA,02 MAR 2006,ECU,1,"Estadio Atlético de la VIDENA, Lima (PER)",15 SEP 2023,,400m-hurdles-840cm,hurdles,male,u18
+232,51.73,,Juan-Franco HATTINGH,15 MAY 2007,RSA,1f4,"McArthur Stadium, Potchefstroom (RSA)",20 OCT 2023,,400m-hurdles-840cm,hurdles,male,u18
+237,51.74,,Vyacheslav SAKAYEV,12 JAN 1988,RUS,1,Chelyabinsk (RUS),31 JUL 2005,,400m-hurdles-840cm,hurdles,male,u18
+237,51.74,,Josè BENCOSME DE LEON,16 MAY 1992,ITA,3,"Bressanone, Trentino-Alto Adige (ITA)",11 JUL 2009,,400m-hurdles-840cm,hurdles,male,u18
+237,51.74,,Norge SOTOMAYOR,26 APR 1993,CUB,1h3,Singapore (SGP),19 AUG 2010,,400m-hurdles-840cm,hurdles,male,u18
+237,51.74,,Durgesh Pal KUMAR,24 APR 1994,IND,1,Bengaluru (IND),04 DEC 2010,,400m-hurdles-840cm,hurdles,male,u18
+237,51.74,,Omar MCLEOD,25 APR 1994,JAM,2h6,Lille (FRA),06 JUL 2011,,400m-hurdles-840cm,hurdles,male,u18
+237,51.74,,Miguel MARTINEZ-GUISASOLA,21 MAR 2008,ESP,2,"Pistes d'atletisme Gaetà Huguet, Castellón (ESP)",06 JUL 2025,,400m-hurdles-840cm,hurdles,male,u18
+243,51.75,,Amin Mohamed AL OZON,07 JUL 1984,SYR,1h1,Debrecen (HUN),12 JUL 2001,,400m-hurdles-840cm,hurdles,male,u18
+243,51.75,,Sasha ALEXEENKO,23 MAR 1991,AUS,1,Canberra (AUS),05 DEC 2008,,400m-hurdles-840cm,hurdles,male,u18
+243,51.75,,Aleix PORRAS,11 SEP 1999,ESP,1,Ciudad Real (ESP),28 JUN 2015,,400m-hurdles-840cm,hurdles,male,u18
+243,51.75,,Matthew HUNT,23 NOV 2006,AUS,2,"Queensland Sport and Athletics Centre, Nathan, Brisbane (AUS)",16 APR 2023,,400m-hurdles-840cm,hurdles,male,u18
+243,51.75,,Trevoy SMITH,17 MAR 2006,JAM,1,"Estadio Nacional - La Sabana, San José (CRC)",21 JUL 2023,,400m-hurdles-840cm,hurdles,male,u18
+248,51.76,,Josè BENCOSME DE LEON,16 MAY 1992,ITA,1,Doha (QAT),09 DEC 2009,,400m-hurdles-840cm,hurdles,male,u18
+248,51.76,,Enrique GONZÁLEZ,21 FEB 1993,ESP,1,Nerja (ESP),11 JUL 2010,,400m-hurdles-840cm,hurdles,male,u18
+248,51.76,,Durgesh Pal KUMAR,24 APR 1994,IND,1,Douglas (GBR),11 SEP 2011,,400m-hurdles-840cm,hurdles,male,u18
+248,51.76,,Derick DÍAZ,24 JUL 1996,PUR,5,Donetsk (UKR),13 JUL 2013,,400m-hurdles-840cm,hurdles,male,u18
+248,51.76,,Gianni LOMBARD,22 JAN 1998,RSA,2,Bloemfontein (RSA),11 APR 2015,,400m-hurdles-840cm,hurdles,male,u18
+248,51.76,,Abdelrazig IDRISS,2008,QAT,1,"Stadion Radés, Radés (TUN)",26 AUG 2025,,400m-hurdles-840cm,hurdles,male,u18
+254,51.77,,Nathan ARNETT,15 DEC 1990,BAH,2sf1,Ostrava (CZE),14 JUL 2007,,400m-hurdles-840cm,hurdles,male,u18
+254,51.77,,Julius Rotich OLETYGOR,12 DEC 1990,KEN,3sf1,Ostrava (CZE),14 JUL 2007,,400m-hurdles-840cm,hurdles,male,u18
+254,51.77,,Josè BENCOSME DE LEON,16 MAY 1992,ITA,1,Grosseto (ITA),04 OCT 2009,,400m-hurdles-840cm,hurdles,male,u18
+254,51.77,,Shota MADOKORO,22 MAY 1994,JPN,7,Lille (FRA),09 JUL 2011,,400m-hurdles-840cm,hurdles,male,u18
+254,51.77,,Mikael Antonio DE JESÚS,19 AUG 1997,BRA,1,Cali (COL),30 NOV 2014,,400m-hurdles-840cm,hurdles,male,u18
+254,51.77,,Gergő TAKÁCS,22 JAN 2005,HUN,3f1,"Givat Ram Stadium, Jerusalem (ISR)",07 JUL 2022,,400m-hurdles-840cm,hurdles,male,u18
+254,51.77,,Juan-Franco HATTINGH,15 MAY 2007,RSA,1,"Germiston Stadium, Johannesburg (RSA)",08 MAR 2024,,400m-hurdles-840cm,hurdles,male,u18
+261,51.78,,Xiangchao XU,26 OCT 1993,CHN,1,Huainan (CHN),18 JUL 2010,,400m-hurdles-840cm,hurdles,male,u18
+261,51.78,,Pavel AGAFONOV,28 AUG 1995,RUS,1,Moskva (RUS),15 JUN 2012,,400m-hurdles-840cm,hurdles,male,u18
+261,51.78,,Aleix PORRAS,11 SEP 1999,ESP,1,Palafrugell (ESP),28 MAY 2016,,400m-hurdles-840cm,hurdles,male,u18
+261,51.78,,Ignacio SAEZ,16 FEB 2002,ESP,1h2,Baku (AZE),24 JUL 2019,,400m-hurdles-840cm,hurdles,male,u18
+261,51.78,,David PEREZ,01 MAR 2005,ESP,1,Jerez de la Frontera (ESP),19 JUN 2022,,400m-hurdles-840cm,hurdles,male,u18
+261,51.78,,Sam LUNT,23 OCT 2005,GBR,1,"Bedford Athletic Stadium, Bedford (GBR)",28 AUG 2022,,400m-hurdles-840cm,hurdles,male,u18
+267,51.79,,Julius Rotich OLETYGOR,12 DEC 1990,KEN,7,Ostrava (CZE),15 JUL 2007,,400m-hurdles-840cm,hurdles,male,u18
+267,51.79,,Joel VON DE AHÉ,01 JUL 2006,DEN,1,"Atletski stadion Poljane, Maribor (SLO)",28 JUL 2023,,400m-hurdles-840cm,hurdles,male,u18
+269,51.80,,Dominik HUFNAGL,10 JAN 1997,AUT,2,Baku (AZE),01 JUN 2014,,400m-hurdles-840cm,hurdles,male,u18
+269,51.80,,Witthawat THUMCHA,25 JAN 1998,THA,1h2,"Olympic Stadium, Nanjing (CHN)",22 AUG 2014,,400m-hurdles-840cm,hurdles,male,u18
+269,51.80,,Aleix PORRAS,11 SEP 1999,ESP,1,Lloret de Mar (ESP),04 JUN 2016,,400m-hurdles-840cm,hurdles,male,u18
+269,51.80,,Emil AGYEKUM,22 MAY 1999,GER,3,"New District Stadium, Tbilisi (GEO)",17 JUL 2016,,400m-hurdles-840cm,hurdles,male,u18
+269,51.80,,Dániel HULLER,10 MAY 2001,HUN,1,Budapest (HUN),02 SEP 2018,,400m-hurdles-840cm,hurdles,male,u18
+274,51.81,,Marthinus KRITZINGER,10 FEB 1982,RSA,1h3,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",17 JUL 1999,,400m-hurdles-840cm,hurdles,male,u18
+274,51.81,,Julius BUNGEI,16 JUN 1984,KEN,3sf1,Debrecen (HUN),13 JUL 2001,,400m-hurdles-840cm,hurdles,male,u18
+274,51.81,,Go TANABE,21 MAR 1986,JPN,1,Yamaguchi (JPN),21 JUN 2003,,400m-hurdles-840cm,hurdles,male,u18
+274,51.81,,Rivaldo LEACOCK,01 SEP 1998,BAR,1,Morelia (MEX),04 JUL 2014,,400m-hurdles-840cm,hurdles,male,u18
+278,51.82,,Cornel FREDERICKS,03 MAR 1990,RSA,3sf2,Ostrava (CZE),14 JUL 2007,,400m-hurdles-840cm,hurdles,male,u18
+278,51.82,,Oğuzhan Zeki̇ YEŞİLOBALIGİL,02 JAN 2008,TUR,1h2,"Athletic track of National Arena Philip II, Skopje (MKD)",22 JUL 2025,,400m-hurdles-840cm,hurdles,male,u18
+280,51.83,,Hrvoje ČUKMAN,28 MAY 1998,CRO,1,Čakovec (CRO),07 JUN 2015,,400m-hurdles-840cm,hurdles,male,u18
+280,51.83,,Masaki TOYODA,17 JAN 1998,JPN,2sf3,Wakayama (JPN),31 JUL 2015,,400m-hurdles-840cm,hurdles,male,u18
+280,51.83,,Sokwakhana ZAZINI,23 JAN 2000,RSA,1,Pretoria (RSA),11 FEB 2017,,400m-hurdles-840cm,hurdles,male,u18
+280,51.83,,Ismail MANYANI,28 MAY 2000,MAR,1,Rabat (MAR),26 APR 2017,,400m-hurdles-840cm,hurdles,male,u18
+280,51.83,,Sam LUNT,23 OCT 2005,GBR,1,"Sportcity Regional Arena, Manchester (GBR)",09 JUL 2022,,400m-hurdles-840cm,hurdles,male,u18
+280,51.83,,Morne ENGELBRECHT,16 MAR 2007,RSA,3,"Msunduzi Athletics Stadium, Pietermaritzburg (RSA)",25 MAR 2023,,400m-hurdles-840cm,hurdles,male,u18
+286,51.84,,Wiekus JONCK,18 MAR 1988,RSA,1,Germiston (RSA),02 APR 2005,,400m-hurdles-840cm,hurdles,male,u18
+286,51.84,,David KLECH,29 APR 1988,USA,1h1,"Sidi Youssef Ben Ali, Marrakech (MAR)",15 JUL 2005,,400m-hurdles-840cm,hurdles,male,u18
+286,51.84,,Dashinelle DYER,11 JAN 2000,JAM,1,Kingston (JAM),04 MAR 2017,,400m-hurdles-840cm,hurdles,male,u18
+286,51.84,,Lindukuhle GORA,31 JAN 2001,RSA,1,Boksburg (RSA),28 APR 2018,,400m-hurdles-840cm,hurdles,male,u18
+286,51.84,,Martin FRAYSSE,30 JUN 2001,FRA,1,Bondoufle (FRA),22 JUL 2018,,400m-hurdles-840cm,hurdles,male,u18
+286,51.84,,Ignacio SAEZ,16 FEB 2002,ESP,1,Colmenar Viejo (ESP),09 JUN 2019,,400m-hurdles-840cm,hurdles,male,u18
+286,51.84,,Antonio FORBES,04 OCT 2004,JAM,1,"National Stadium, Kingston (JAM)",14 MAY 2021,,400m-hurdles-840cm,hurdles,male,u18
+293,51.85,,Wouter LE ROUX,17 JAN 1986,RSA,1sf1,Sherbrooke (CAN),11 JUL 2003,,400m-hurdles-840cm,hurdles,male,u18
+293,51.85,,Milton DIAS,11 AUG 1986,POR,1,Paris (FRA),30 JUL 2003,,400m-hurdles-840cm,hurdles,male,u18
+293,51.85,,Qilong HUANG,08 JAN 1991,CHN,2f1,Taian (CHN),31 OCT 2008,,400m-hurdles-840cm,hurdles,male,u18
+293,51.85,,Norge SOTOMAYOR,26 APR 1993,CUB,1,La Habana (CUB),12 JUN 2009,,400m-hurdles-840cm,hurdles,male,u18
+293,51.85,,Rasheeme GRIFFITH,03 MAY 2000,BAR,1,St. Michael (BAR),18 MAR 2017,,400m-hurdles-840cm,hurdles,male,u18
+293,51.85,,Halomoan Edwin BINSAR,20 DEC 2000,INA,1,Jakarta (INA),23 APR 2017,,400m-hurdles-840cm,hurdles,male,u18
+293,51.85,,Dániel HULLER,10 MAY 2001,HUN,1,Győr (HUN),17 JUN 2018,,400m-hurdles-840cm,hurdles,male,u18
+293,51.85,,Daniel WRIGHT,31 JUL 2006,JAM,1,"Jamaica College Ashenheim Stadium, Kingston (JAM)",10 JUN 2023,,400m-hurdles-840cm,hurdles,male,u18
+301,51.86,,Johann HANEKOM,03 DEC 1986,RSA,1,Pretoria (RSA),22 FEB 2003,,400m-hurdles-840cm,hurdles,male,u18
+301,51.86,,Omar MCLEOD,25 APR 1994,JAM,1,Kingston (JAM),19 MAR 2011,,400m-hurdles-840cm,hurdles,male,u18
+301,51.86,,Ryusei FUJII,18 MAR 1998,JPN,1h2,Wakayama (JPN),30 JUL 2015,,400m-hurdles-840cm,hurdles,male,u18
+301,51.86,,Dániel HULLER,10 MAY 2001,HUN,2f2,Buenos Aires (ARG),16 OCT 2018,,400m-hurdles-840cm,hurdles,male,u18
+305,51.87,,Boris VAZOVAN,04 JAN 1978,SVK,1,Bath (GBR),13 JUL 1995,,400m-hurdles-840cm,hurdles,male,u18
+305,51.87,,Siphine MTSHALI,10 JUN 1984,RSA,1sf2,Debrecen (HUN),13 JUL 2001,,400m-hurdles-840cm,hurdles,male,u18
+305,51.87,,Taariq SOLOMONS,22 AUG 1993,RSA,1,Sasolburg (RSA),27 MAR 2010,,400m-hurdles-840cm,hurdles,male,u18
+305,51.87,,Vinicius DE BRITO,03 MAR 2006,BRA,2,"Estadio Atlético de la VIDENA, Lima (PER)",15 SEP 2023,,400m-hurdles-840cm,hurdles,male,u18
+309,51.88,,Karl JOHNSON,15 APR 2001,GBR,1sf1,"Olimpiai Sportpark, Győr (HUN)",07 JUL 2018,,400m-hurdles-840cm,hurdles,male,u18
+309,51.88,,Jayden BROWN,09 FEB 2003,JAM,1,Kingston (JAM),29 MAR 2019,,400m-hurdles-840cm,hurdles,male,u18
+309,51.88,,Berke AKÇAM,10 APR 2002,TUR,1,Antalya (TUR),28 APR 2019,,400m-hurdles-840cm,hurdles,male,u18
+309,51.88,,Eduardo RAMIREZ,29 MAY 2004,ESP,1,"Estadio Iberoamericano, Huelva (ESP)",25 JUL 2021,,400m-hurdles-840cm,hurdles,male,u18
+309,51.88,,Sam LUNT,23 OCT 2005,GBR,1,"Loughborough University Track, Loughborough (GBR)",03 SEP 2022,,400m-hurdles-840cm,hurdles,male,u18
+309,51.88,,Santiago QUINTERO,23 APR 2008,VEN,1,"Pista de Atletismo Pedro Presti, San Luis (ARG)",08 DEC 2024,,400m-hurdles-840cm,hurdles,male,u18
+315,51.89,,Robert KIGEN,03 SEP 1988,KEN,6sf1,"Sidi Youssef Ben Ali, Marrakech (MAR)",16 JUL 2005,,400m-hurdles-840cm,hurdles,male,u18
+315,51.89,,Nikita ANDRIYANOV,07 FEB 1990,RUS,1,Beograd (SRB),26 JUL 2007,,400m-hurdles-840cm,hurdles,male,u18
+315,51.89,,Bastian ELNAN AURSTAD,18 JAN 2005,NOR,1,"Guldbergaunet Idrettspark, Steinkjer (NOR)",22 MAY 2022,,400m-hurdles-840cm,hurdles,male,u18
+318,51.90,,Schalk BURGER,20 FEB 1993,RSA,2,Sasolburg (RSA),27 MAR 2010,,400m-hurdles-840cm,hurdles,male,u18
+318,51.90,,Oskari MÖRÖ,31 JAN 1993,FIN,3,Moskva (RUS),23 MAY 2010,,400m-hurdles-840cm,hurdles,male,u18
+318,51.90,,Oskar EDLUND,16 NOV 2002,SWE,1,Borås (SWE),01 JUN 2019,,400m-hurdles-840cm,hurdles,male,u18
+318,51.90,,Ignacio SAEZ,16 FEB 2002,ESP,1,Castellón (ESP),23 JUN 2019,,400m-hurdles-840cm,hurdles,male,u18
+318,51.90,,Bapi HANSDA,26 JUL 2006,IND,1h1,"Mahatma Gandhi District Stadium Ajjarkad, Udupi (IND)",11 MAR 2023,,400m-hurdles-840cm,hurdles,male,u18
+318,51.90,,Ian Andrey PATA,02 MAR 2006,ECU,1h2,"Estadio Atlético de la VIDENA, Lima (PER)",15 SEP 2023,,400m-hurdles-840cm,hurdles,male,u18
+324,51.91,,Bandar Yahya AL SHARAKILI,06 MAR 1987,KSA,2,Rabat (MAR),02 AUG 2004,,400m-hurdles-840cm,hurdles,male,u18
+324,51.91,,Pieter BENEKE,18 JUL 1990,RSA,2,Port Elizabeth (RSA),31 MAR 2007,,400m-hurdles-840cm,hurdles,male,u18
+324,51.91,,Omar MCLEOD,25 APR 1994,JAM,4sf2,Lille (FRA),07 JUL 2011,,400m-hurdles-840cm,hurdles,male,u18
+324,51.91,,Victor COROLLER,29 JAN 1997,FRA,2h2,"Olympic Stadium, Nanjing (CHN)",22 AUG 2014,,400m-hurdles-840cm,hurdles,male,u18
+324,51.91,,Leonardo LEDGISTER,27 APR 1999,JAM,1h1,Kingston (JAM),05 MAR 2016,,400m-hurdles-840cm,hurdles,male,u18
+329,51.92,,Mohammed DAAK,20 MAR 1988,KSA,1,Manama (BRN),28 APR 2005,,400m-hurdles-840cm,hurdles,male,u18
+329,51.92,,Romel LEWIS,28 JAN 1988,JAM,2sf2,"Sidi Youssef Ben Ali, Marrakech (MAR)",16 JUL 2005,,400m-hurdles-840cm,hurdles,male,u18
+329,51.92,,Josè BENCOSME DE LEON,16 MAY 1992,DOM,1,Bergamo (ITA),07 JUN 2009,,400m-hurdles-840cm,hurdles,male,u18
+329,51.92,,Ken Kirui TELE,28 DEC 1994,KEN,2sf3,Lille (FRA),07 JUL 2011,,400m-hurdles-840cm,hurdles,male,u18
+329,51.92,,Mohamed Amine TOUATI,09 SEP 1998,TUN,2sf3,"Pascual Guerrero Stadium, Cali (COL)",16 JUL 2015,,400m-hurdles-840cm,hurdles,male,u18
+329,51.92,,Michael-Jan DE BEER,01 MAR 2004,RSA,1,"Dal Josaphat Athletics Stadium, Paarl (RSA)",08 APR 2021,,400m-hurdles-840cm,hurdles,male,u18
+329,51.92,,Zijian WANG,02 FEB 2006,CHN,1,"Tuanbo Sports Center, Tianjin (CHN)",22 MAY 2023,,400m-hurdles-840cm,hurdles,male,u18
+336,51.93,,Pieter BENEKE,18 JUL 1990,RSA,8,Ostrava (CZE),15 JUL 2007,,400m-hurdles-840cm,hurdles,male,u18
+336,51.93,,Yahya Ibrahim BARNAWI,28 SEP 1994,KSA,1h1,Lille (FRA),06 JUL 2011,,400m-hurdles-840cm,hurdles,male,u18
+336,51.93,,Ilya AFONIN,23 MAR 2004,RUS,1,"Podolye, Yerino (RUS)",12 AUG 2021,,400m-hurdles-840cm,hurdles,male,u18
+336,51.93,,Marek VÁŇA,03 AUG 2007,CZE,1sf3,Banská Bystrica (SVK),20 JUL 2024,,400m-hurdles-840cm,hurdles,male,u18
+340,51.94,,Julius BUNGEI,16 JUN 1984,KEN,2h1,Debrecen (HUN),12 JUL 2001,,400m-hurdles-840cm,hurdles,male,u18
+340,51.94,,Pieter BENEKE,18 JUL 1990,RSA,4sf1,Ostrava (CZE),14 JUL 2007,,400m-hurdles-840cm,hurdles,male,u18
+340,51.94,,Juan STENNER,26 JAN 1992,MEX,1,Hermosillo (MEX),06 JUN 2009,,400m-hurdles-840cm,hurdles,male,u18
+340,51.94,,Jonathan RUSSELL,02 MAY 1994,USA,2h1,Lille (FRA),06 JUL 2011,,400m-hurdles-840cm,hurdles,male,u18
+340,51.94,,Linford MAREE,31 JAN 1999,RSA,3,Bloemfontein (RSA),11 APR 2015,,400m-hurdles-840cm,hurdles,male,u18
+340,51.94,,Rovane WILLIAMS,18 MAY 2000,JAM,1h1,"Kasarani, Nairobi (KEN)",13 JUL 2017,,400m-hurdles-840cm,hurdles,male,u18
+340,51.94,,Adam MAYO,19 APR 2000,RSA,1f3,Potchefstroom (RSA),21 OCT 2017,,400m-hurdles-840cm,hurdles,male,u18
+340,51.94,,Andreas Haara BAKKETUN,21 FEB 2001,NOR,2sf1,"Olimpiai Sportpark, Győr (HUN)",07 JUL 2018,,400m-hurdles-840cm,hurdles,male,u18
+348,51.95,,Derick DÍAZ,24 JUL 1996,PUR,2sf2,Donetsk (UKR),11 JUL 2013,,400m-hurdles-840cm,hurdles,male,u18
+348,51.95,,Aleix PORRAS,11 SEP 1999,ESP,1f1,Walldorf (GER),02 JUL 2016,,400m-hurdles-840cm,hurdles,male,u18
+348,51.95,,Roshawn CLARKE,01 JUL 2004,JAM,1,San José (CRC),09 JUL 2021,,400m-hurdles-840cm,hurdles,male,u18
+348,51.95,,Bapi HANSDA,26 JUL 2006,IND,1,"Mahatma Gandhi District Stadium Ajjarkad, Udupi (IND)",12 MAR 2023,,400m-hurdles-840cm,hurdles,male,u18
+348,51.95,,Njabulo MBATHA,24 APR 2007,RSA,2f4,"McArthur Stadium, Potchefstroom (RSA)",20 OCT 2023,,400m-hurdles-840cm,hurdles,male,u18
+353,51.96,,Javauney JAMES,21 DEC 1998,JAM,2sf2,"Pascual Guerrero Stadium, Cali (COL)",16 JUL 2015,,400m-hurdles-840cm,hurdles,male,u18
+353,51.96,,Morne VAN AS,02 JAN 1998,RSA,3sf3,"Pascual Guerrero Stadium, Cali (COL)",16 JUL 2015,,400m-hurdles-840cm,hurdles,male,u18
+353,51.96,,Lázaro T. RODRÍGUEZ,17 JUL 1999,CUB,1,La Habana (CUB),28 MAY 2016,,400m-hurdles-840cm,hurdles,male,u18
+353,51.96,,Halomoan Edwin BINSAR,20 DEC 2000,INA,1,Bangkok (THA),23 MAY 2017,,400m-hurdles-840cm,hurdles,male,u18
+353,51.96,,Dániel HULLER,10 MAY 2001,HUN,2sf2,"Olimpiai Sportpark, Győr (HUN)",07 JUL 2018,,400m-hurdles-840cm,hurdles,male,u18
+358,51.97,,Toby ULM,19 MAY 1989,GBR,1,Thessaloniki (GRE),02 JUL 2006,,400m-hurdles-840cm,hurdles,male,u18
+358,51.97,,Devontie ARCHER,26 MAY 2002,JAM,2,Kingston (JAM),22 JUN 2019,,400m-hurdles-840cm,hurdles,male,u18
+358,51.97,,David PEREZ,01 MAR 2005,ESP,4f1,"Givat Ram Stadium, Jerusalem (ISR)",07 JUL 2022,,400m-hurdles-840cm,hurdles,male,u18
+361,51.98,,Michael BAKER,06 APR 1990,GBR,5sf1,Ostrava (CZE),14 JUL 2007,,400m-hurdles-840cm,hurdles,male,u18
+361,51.98,,Pavel AGAFONOV,28 AUG 1995,RUS,1,Penza (RUS),01 JUL 2012,,400m-hurdles-840cm,hurdles,male,u18
+361,51.98,,Dániel HULLER,10 MAY 2001,HUN,1h2,Buenos Aires (ARG),13 OCT 2018,,400m-hurdles-840cm,hurdles,male,u18
+361,51.98,,Xiaoqi FU,07 JAN 2006,CHN,2,"Tuanbo Sports Center, Tianjin (CHN)",22 MAY 2023,,400m-hurdles-840cm,hurdles,male,u18
+361,51.98,,Michal RADA,25 MAY 2007,CZE,1h6,Banská Bystrica (SVK),19 JUL 2024,,400m-hurdles-840cm,hurdles,male,u18
+366,51.99,,Schalk BURGER,20 FEB 1993,RSA,1,Gaborone (BOT),23 MAY 2010,,400m-hurdles-840cm,hurdles,male,u18
+366,51.99,,Yang WANG,20 SEP 1996,CHN,1h4,Donetsk (UKR),10 JUL 2013,,400m-hurdles-840cm,hurdles,male,u18
+366,51.99,,Lewellyn HARMSE,10 DEC 2006,RSA,1h2,"Msunduzi Athletics Stadium, Pietermaritzburg (RSA)",24 MAR 2023,,400m-hurdles-840cm,hurdles,male,u18
+366,51.99,,Akalanka KUDA LIYANAGE,16 JAN 2006,SRI,1h1,"Hasely Crawford Stadium, Port-of-Spain (TTO)",08 AUG 2023,,400m-hurdles-840cm,hurdles,male,u18
+366,51.99,,Moussa BANOUR,,MAR,2,"Stadion Radés, Radés (TUN)",26 AUG 2025,,400m-hurdles-840cm,hurdles,male,u18
+371,52.00,,Filip WALOTKA,17 FEB 1980,POL,1,Lublin (POL),20 SEP 1997,,400m-hurdles-840cm,hurdles,male,u18
+371,52.00,,Jacques DE KOCK,19 FEB 1987,RSA,1,Germiston (RSA),27 MAR 2004,,400m-hurdles-840cm,hurdles,male,u18
+371,52.00,,Marlon HUMPHREY,08 JUL 1996,USA,1h1,Donetsk (UKR),10 JUL 2013,,400m-hurdles-840cm,hurdles,male,u18
+371,52.00,,Rivaldo LEACOCK,01 SEP 1998,BAR,1f1,Bridgetown (BAR),08 JUN 2014,,400m-hurdles-840cm,hurdles,male,u18
+371,52.00,,Seamus DERBYSHIRE,27 JAN 2000,GBR,2,Nassau (BAH),23 JUL 2017,,400m-hurdles-840cm,hurdles,male,u18
+371,52.00,,Njabulo MBATHA,24 APR 2007,RSA,1f1,"Pilditch Stadium, Pretoria (RSA)",17 FEB 2024,,400m-hurdles-840cm,hurdles,male,u18
+371,52.00,,Stiaan MYBURGH,08 JAN 2008,RSA,1f2,"Pilditch Stadium, Pretoria (RSA)",29 JAN 2025,,400m-hurdles-840cm,hurdles,male,u18

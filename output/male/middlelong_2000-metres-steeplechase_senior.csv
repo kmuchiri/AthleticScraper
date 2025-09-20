@@ -60,51 +60,54 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 59,5:21.96,,Farley GERBER,25 APR 1960,USA,3,Oslo (NOR),28 JUN 1984,1168,2000-metres-steeplechase,middlelong,male,senior
 60,5:21.97,,Graeme FELL,19 MAR 1959,CAN,1,Auckland (NZL),20 JAN 1990,1168,2000-metres-steeplechase,middlelong,male,senior
 60,5:21.97,,Richard KOSGEI,29 DEC 1970,KEN,1,Formia (ITA),12 JUL 1998,1168,2000-metres-steeplechase,middlelong,male,senior
-62,5:22.10,,Barnabas KIPYEGO,12 JUN 1995,KEN,2,Andújar (ESP),02 JUN 2017,1168,2000-metres-steeplechase,middlelong,male,senior
-63,5:22.2h,,Yohannes MOHAMED,21 JAN 1948,ETH,2,Montréal (CAN),14 JUL 1976,1167,2000-metres-steeplechase,middlelong,male,senior
-63,5:22.2h,,Mariano SCARTEZZINI,07 NOV 1954,ITA,1,Udine (ITA),20 SEP 1981,1167,2000-metres-steeplechase,middlelong,male,senior
-65,5:22.24,,William VAN DIJCK,24 JAN 1961,BEL,1,Hechtel (BEL),08 AUG 1987,1167,2000-metres-steeplechase,middlelong,male,senior
-66,5:22.32,,Mirosław ŻERKOWSKI,20 AUG 1956,POL,1,Formia (ITA),08 JUL 1991,1166,2000-metres-steeplechase,middlelong,male,senior
-67,5:22.35,,Julius KARIUKI,12 JUN 1961,KEN,1,Gateshead (GBR),09 AUG 1991,1166,2000-metres-steeplechase,middlelong,male,senior
-68,5:22.37,,Mark ROWLAND,07 MAR 1963,GBR,1,Sheffield (GBR),16 SEP 1990,1166,2000-metres-steeplechase,middlelong,male,senior
-69,5:22.52,,Samson OBWOCHA,07 OCT 1954,KEN,1,Birmingham (GBR),19 AUG 1986,1165,2000-metres-steeplechase,middlelong,male,senior
-70,5:22.58,,Vidar JOHANSSON,08 OCT 1996,SWE,2,"Østerbro Stadium, Copenhagen (DEN)",03 SEP 2024,1164,2000-metres-steeplechase,middlelong,male,senior
-71,5:22.62,,Philip BARKUTWO,06 OCT 1966,KEN,3,Gateshead (GBR),17 AUG 1990,1164,2000-metres-steeplechase,middlelong,male,senior
-72,5:22.93,,Eliseo MARTÍN,05 NOV 1973,ESP,2,Andújar (ESP),05 SEP 2001,1162,2000-metres-steeplechase,middlelong,male,senior
-73,5:22.96,,Thomas HANLON,20 MAY 1967,GBR,2,Sheffield (GBR),16 SEP 1990,1162,2000-metres-steeplechase,middlelong,male,senior
-74,5:22.97,,Tim BROE,20 JUN 1977,USA,4,Padova (ITA),26 AUG 2001,1162,2000-metres-steeplechase,middlelong,male,senior
-75,5:23.02,,Abdelkader HACHLAF,03 JUL 1979,MAR,2,Herrera (ESP),19 MAY 2007,1161,2000-metres-steeplechase,middlelong,male,senior
-76,5:23.04,,José Luis BLANCO,03 JUN 1975,ESP,1,Barcelona (ESP),11 JUL 2003,1161,2000-metres-steeplechase,middlelong,male,senior
-77,5:23.14,,Abdelaziz SAHERE,18 SEP 1967,MAR,1,Padova (ITA),08 JUN 1997,1160,2000-metres-steeplechase,middlelong,male,senior
-78,5:23.15,,Leonardo FELETTO,26 JUN 1995,ITA,2,"Sports Park Mladost, Zagreb (CRO)",11 SEP 2022,1160,2000-metres-steeplechase,middlelong,male,senior
-79,5:23.18,,Abderrahim OUGRA,26 NOV 1999,ESP,2,"Pistes d'atletisme Gaetà Huguet, Castellón (ESP)",14 JUN 2023,1160,2000-metres-steeplechase,middlelong,male,senior
-80,5:23.49,,Matthew BIRIR,05 JUL 1972,KEN,2,Caserta (ITA),11 JUN 1992,1158,2000-metres-steeplechase,middlelong,male,senior
-81,5:23.56,,Thomas BUCKNER,16 APR 1963,GBR,1,Gateshead (GBR),17 JUL 1992,1157,2000-metres-steeplechase,middlelong,male,senior
-82,5:23.6h,,Roger HACKNEY,02 SEP 1957,GBR,1,Birmingham (GBR),10 JUN 1982,1157,2000-metres-steeplechase,middlelong,male,senior
-83,5:23.68,,Elijah CHELIMO,20 APR 1987,KEN,3,Herrera (ESP),19 MAY 2007,1157,2000-metres-steeplechase,middlelong,male,senior
-84,5:23.71,,Colin WALKER,29 OCT 1962,GBR,2,London (GBR),28 AUG 1988,1156,2000-metres-steeplechase,middlelong,male,senior
-85,5:23.87,,Colin REITZ,06 APR 1960,GBR,4,Oslo (NOR),28 JUN 1984,1155,2000-metres-steeplechase,middlelong,male,senior
-86,5:23.91,,Philip BARKUTWO,06 OCT 1966,KEN,2,Gateshead (GBR),17 JUL 1992,1155,2000-metres-steeplechase,middlelong,male,senior
-87,5:23.93,,Angelo CAROSI,20 JAN 1964,ITA,5,Rovereto (ITA),23 AUG 1995,1155,2000-metres-steeplechase,middlelong,male,senior
-88,5:24.06,,Peter RENNER,27 OCT 1959,NZL,3,Birmingham (GBR),19 JUL 1986,1154,2000-metres-steeplechase,middlelong,male,senior
-89,5:24.11,,William MUTWOL,10 OCT 1967,KEN,3,Sheffield (GBR),16 SEP 1990,1154,2000-metres-steeplechase,middlelong,male,senior
-90,5:24.12,,Bernard BARMASAI,06 MAY 1974,KEN,1,Kerkrade (NED),24 MAY 1998,1154,2000-metres-steeplechase,middlelong,male,senior
-91,5:24.18,,Jorge BELLO,28 MAR 1963,ESP,1,Barcelona (ESP),16 AUG 1986,1153,2000-metres-steeplechase,middlelong,male,senior
-92,5:24.19,,Béla VÁGÓ,03 OCT 1963,HUN,2,Formia (ITA),08 JUL 1991,1153,2000-metres-steeplechase,middlelong,male,senior
-93,5:24.39,,José Luis BLANCO,03 JUN 1975,ESP,1,Barcelona (ESP),09 JUL 2004,1152,2000-metres-steeplechase,middlelong,male,senior
-94,5:24.41,,Colin WALKER,29 OCT 1962,GBR,2,Auckland (NZL),20 JAN 1990,1152,2000-metres-steeplechase,middlelong,male,senior
-95,5:24.43,,José Luis BLANCO,03 JUN 1975,ESP,3,Andújar (ESP),05 SEP 2001,1151,2000-metres-steeplechase,middlelong,male,senior
-96,5:24.47,,Stefano CIALLELLA,22 APR 1974,ITA,3,La Spezia (ITA),20 JUN 1998,1151,2000-metres-steeplechase,middlelong,male,senior
-97,5:24.54,,William VAN DIJCK,24 JAN 1961,BEL,2,Verona (ITA),12 SEP 1989,1151,2000-metres-steeplechase,middlelong,male,senior
-98,5:24.64,,Joshua KIPKEMBOI,22 FEB 1959,KEN,2,Birmingham (GBR),19 AUG 1986,1150,2000-metres-steeplechase,middlelong,male,senior
-99,5:24.69,,Abel Kiprop MUTAI,02 OCT 1988,KEN,1,"Sidi Youssef Ben Ali, Marrakech (MAR)",15 JUL 2005,1150,2000-metres-steeplechase,middlelong,male,senior
-100,5:24.75,,Richard KOSGEI,29 DEC 1970,KEN,1,Rovereto (ITA),24 JUL 1994,1149,2000-metres-steeplechase,middlelong,male,senior
-100,5:24.75,,Konstantin PLOKHOTNIKOV,24 MAR 1997,RUS,1,"Yelena Yelesina Stadium, Chelyabinsk (RUS)",08 JUL 2023,1149,2000-metres-steeplechase,middlelong,male,senior
-102,5:24.79,,Eliseo MARTÍN,05 NOV 1973,ESP,2,Huelva (ESP),07 JUN 2005,1149,2000-metres-steeplechase,middlelong,male,senior
-103,5:24.87,,Bisluke Kipkorir KIPLAGAT,08 AUG 1988,KEN,2,"Sidi Youssef Ben Ali, Marrakech (MAR)",15 JUL 2005,1148,2000-metres-steeplechase,middlelong,male,senior
-104,5:24.91,,Eddie WEDDERBURN,06 DEC 1960,GBR,3,Birmingham (GBR),19 AUG 1986,1148,2000-metres-steeplechase,middlelong,male,senior
-104,5:24.91,,Philip BARKUTWO,06 OCT 1966,KEN,2,Gateshead (GBR),09 AUG 1991,1148,2000-metres-steeplechase,middlelong,male,senior
-106,5:24.92,,Pascal DOBERT,08 APR 1974,USA,2,Rovereto (ITA),26 AUG 1998,1148,2000-metres-steeplechase,middlelong,male,senior
-107,5:24.93,,Abderrahmane DAAS,08 DEC 1973,ALG,2,Formia (ITA),12 JUL 1998,1148,2000-metres-steeplechase,middlelong,male,senior
-107,5:24.93,,Ala ZOGHLAMI,19 JUN 1994,ITA,2,"Stadio Guidobaldi, Rieti (ITA)",21 MAY 2022,1148,2000-metres-steeplechase,middlelong,male,senior
-109,5:24.99,,Gábor MARKÓ,07 FEB 1960,HUN,5,Oslo (NOR),28 JUN 1984,1148,2000-metres-steeplechase,middlelong,male,senior
+62,5:21.98,,Víctor ORTIZ RIVERA,30 JUN 1998,PUR,1,"Complexe Sportif Claude-Robillard, Montréal (CAN)",06 AUG 2025,1168,2000-metres-steeplechase,middlelong,male,senior
+63,5:22.10,,Barnabas KIPYEGO,12 JUN 1995,KEN,2,Andújar (ESP),02 JUN 2017,1168,2000-metres-steeplechase,middlelong,male,senior
+64,5:22.2h,,Yohannes MOHAMED,21 JAN 1948,ETH,2,Montréal (CAN),14 JUL 1976,1167,2000-metres-steeplechase,middlelong,male,senior
+64,5:22.2h,,Mariano SCARTEZZINI,07 NOV 1954,ITA,1,Udine (ITA),20 SEP 1981,1167,2000-metres-steeplechase,middlelong,male,senior
+66,5:22.21,,Aaron AHL,25 FEB 1999,CAN,2,"Complexe Sportif Claude-Robillard, Montréal (CAN)",06 AUG 2025,1167,2000-metres-steeplechase,middlelong,male,senior
+67,5:22.24,,William VAN DIJCK,24 JAN 1961,BEL,1,Hechtel (BEL),08 AUG 1987,1167,2000-metres-steeplechase,middlelong,male,senior
+68,5:22.32,,Mirosław ŻERKOWSKI,20 AUG 1956,POL,1,Formia (ITA),08 JUL 1991,1166,2000-metres-steeplechase,middlelong,male,senior
+69,5:22.35,,Julius KARIUKI,12 JUN 1961,KEN,1,Gateshead (GBR),09 AUG 1991,1166,2000-metres-steeplechase,middlelong,male,senior
+70,5:22.37,,Mark ROWLAND,07 MAR 1963,GBR,1,Sheffield (GBR),16 SEP 1990,1166,2000-metres-steeplechase,middlelong,male,senior
+71,5:22.52,,Samson OBWOCHA,07 OCT 1954,KEN,1,Birmingham (GBR),19 AUG 1986,1165,2000-metres-steeplechase,middlelong,male,senior
+72,5:22.58,,Vidar JOHANSSON,08 OCT 1996,SWE,2,"Østerbro Stadium, Copenhagen (DEN)",03 SEP 2024,1164,2000-metres-steeplechase,middlelong,male,senior
+73,5:22.62,,Philip BARKUTWO,06 OCT 1966,KEN,3,Gateshead (GBR),17 AUG 1990,1164,2000-metres-steeplechase,middlelong,male,senior
+74,5:22.93,,Eliseo MARTÍN,05 NOV 1973,ESP,2,Andújar (ESP),05 SEP 2001,1162,2000-metres-steeplechase,middlelong,male,senior
+75,5:22.96,,Thomas HANLON,20 MAY 1967,GBR,2,Sheffield (GBR),16 SEP 1990,1162,2000-metres-steeplechase,middlelong,male,senior
+76,5:22.97,,Tim BROE,20 JUN 1977,USA,4,Padova (ITA),26 AUG 2001,1162,2000-metres-steeplechase,middlelong,male,senior
+77,5:23.02,,Abdelkader HACHLAF,03 JUL 1979,MAR,2,Herrera (ESP),19 MAY 2007,1161,2000-metres-steeplechase,middlelong,male,senior
+78,5:23.04,,José Luis BLANCO,03 JUN 1975,ESP,1,Barcelona (ESP),11 JUL 2003,1161,2000-metres-steeplechase,middlelong,male,senior
+79,5:23.14,,Abdelaziz SAHERE,18 SEP 1967,MAR,1,Padova (ITA),08 JUN 1997,1160,2000-metres-steeplechase,middlelong,male,senior
+80,5:23.15,,Leonardo FELETTO,26 JUN 1995,ITA,2,"Sports Park Mladost, Zagreb (CRO)",11 SEP 2022,1160,2000-metres-steeplechase,middlelong,male,senior
+81,5:23.18,,Abderrahim OUGRA,26 NOV 1999,ESP,2,"Pistes d'atletisme Gaetà Huguet, Castellón (ESP)",14 JUN 2023,1160,2000-metres-steeplechase,middlelong,male,senior
+82,5:23.49,,Matthew BIRIR,05 JUL 1972,KEN,2,Caserta (ITA),11 JUN 1992,1158,2000-metres-steeplechase,middlelong,male,senior
+83,5:23.56,,Thomas BUCKNER,16 APR 1963,GBR,1,Gateshead (GBR),17 JUL 1992,1157,2000-metres-steeplechase,middlelong,male,senior
+84,5:23.6h,,Roger HACKNEY,02 SEP 1957,GBR,1,Birmingham (GBR),10 JUN 1982,1157,2000-metres-steeplechase,middlelong,male,senior
+85,5:23.68,,Elijah CHELIMO,20 APR 1987,KEN,3,Herrera (ESP),19 MAY 2007,1157,2000-metres-steeplechase,middlelong,male,senior
+86,5:23.71,,Colin WALKER,29 OCT 1962,GBR,2,London (GBR),28 AUG 1988,1156,2000-metres-steeplechase,middlelong,male,senior
+87,5:23.87,,Colin REITZ,06 APR 1960,GBR,4,Oslo (NOR),28 JUN 1984,1155,2000-metres-steeplechase,middlelong,male,senior
+88,5:23.91,,Philip BARKUTWO,06 OCT 1966,KEN,2,Gateshead (GBR),17 JUL 1992,1155,2000-metres-steeplechase,middlelong,male,senior
+89,5:23.93,,Angelo CAROSI,20 JAN 1964,ITA,5,Rovereto (ITA),23 AUG 1995,1155,2000-metres-steeplechase,middlelong,male,senior
+90,5:24.06,,Peter RENNER,27 OCT 1959,NZL,3,Birmingham (GBR),19 JUL 1986,1154,2000-metres-steeplechase,middlelong,male,senior
+91,5:24.11,,William MUTWOL,10 OCT 1967,KEN,3,Sheffield (GBR),16 SEP 1990,1154,2000-metres-steeplechase,middlelong,male,senior
+92,5:24.12,,Bernard BARMASAI,06 MAY 1974,KEN,1,Kerkrade (NED),24 MAY 1998,1154,2000-metres-steeplechase,middlelong,male,senior
+93,5:24.18,,Jorge BELLO,28 MAR 1963,ESP,1,Barcelona (ESP),16 AUG 1986,1153,2000-metres-steeplechase,middlelong,male,senior
+94,5:24.19,,Béla VÁGÓ,03 OCT 1963,HUN,2,Formia (ITA),08 JUL 1991,1153,2000-metres-steeplechase,middlelong,male,senior
+95,5:24.39,,José Luis BLANCO,03 JUN 1975,ESP,1,Barcelona (ESP),09 JUL 2004,1152,2000-metres-steeplechase,middlelong,male,senior
+96,5:24.41,,Colin WALKER,29 OCT 1962,GBR,2,Auckland (NZL),20 JAN 1990,1152,2000-metres-steeplechase,middlelong,male,senior
+97,5:24.43,,José Luis BLANCO,03 JUN 1975,ESP,3,Andújar (ESP),05 SEP 2001,1151,2000-metres-steeplechase,middlelong,male,senior
+98,5:24.47,,Stefano CIALLELLA,22 APR 1974,ITA,3,La Spezia (ITA),20 JUN 1998,1151,2000-metres-steeplechase,middlelong,male,senior
+99,5:24.54,,William VAN DIJCK,24 JAN 1961,BEL,2,Verona (ITA),12 SEP 1989,1151,2000-metres-steeplechase,middlelong,male,senior
+100,5:24.55,,Jean-Simon DESGAGNÉS,26 JUL 1998,CAN,3,"Complexe Sportif Claude-Robillard, Montréal (CAN)",06 AUG 2025,1151,2000-metres-steeplechase,middlelong,male,senior
+101,5:24.64,,Joshua KIPKEMBOI,22 FEB 1959,KEN,2,Birmingham (GBR),19 AUG 1986,1150,2000-metres-steeplechase,middlelong,male,senior
+102,5:24.69,,Abel Kiprop MUTAI,02 OCT 1988,KEN,1,"Sidi Youssef Ben Ali, Marrakech (MAR)",15 JUL 2005,1150,2000-metres-steeplechase,middlelong,male,senior
+103,5:24.75,,Richard KOSGEI,29 DEC 1970,KEN,1,Rovereto (ITA),24 JUL 1994,1149,2000-metres-steeplechase,middlelong,male,senior
+103,5:24.75,,Konstantin PLOKHOTNIKOV,24 MAR 1997,RUS,1,"Yelena Yelesina Stadium, Chelyabinsk (RUS)",08 JUL 2023,1149,2000-metres-steeplechase,middlelong,male,senior
+105,5:24.79,,Eliseo MARTÍN,05 NOV 1973,ESP,2,Huelva (ESP),07 JUN 2005,1149,2000-metres-steeplechase,middlelong,male,senior
+106,5:24.87,,Bisluke Kipkorir KIPLAGAT,08 AUG 1988,KEN,2,"Sidi Youssef Ben Ali, Marrakech (MAR)",15 JUL 2005,1148,2000-metres-steeplechase,middlelong,male,senior
+107,5:24.91,,Eddie WEDDERBURN,06 DEC 1960,GBR,3,Birmingham (GBR),19 AUG 1986,1148,2000-metres-steeplechase,middlelong,male,senior
+107,5:24.91,,Philip BARKUTWO,06 OCT 1966,KEN,2,Gateshead (GBR),09 AUG 1991,1148,2000-metres-steeplechase,middlelong,male,senior
+109,5:24.92,,Pascal DOBERT,08 APR 1974,USA,2,Rovereto (ITA),26 AUG 1998,1148,2000-metres-steeplechase,middlelong,male,senior
+110,5:24.93,,Abderrahmane DAAS,08 DEC 1973,ALG,2,Formia (ITA),12 JUL 1998,1148,2000-metres-steeplechase,middlelong,male,senior
+110,5:24.93,,Ala ZOGHLAMI,19 JUN 1994,ITA,2,"Stadio Guidobaldi, Rieti (ITA)",21 MAY 2022,1148,2000-metres-steeplechase,middlelong,male,senior
+112,5:24.99,,Gábor MARKÓ,07 FEB 1960,HUN,5,Oslo (NOR),28 JUN 1984,1148,2000-metres-steeplechase,middlelong,male,senior

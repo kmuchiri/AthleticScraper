@@ -1,70 +1,71 @@
 rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,discipline,type,sex,age_cat
 1,14:34.46,,Marta ALEMAYO,08 APR 2008,ETH,8,"Olympic Stadium, London (GBR)",19 JUL 2025,1213,5000-metres,middlelong,female,u18
 2,14:37.94,,Birke HAYLOM,06 JAN 2006,ETH,6,"Olympic Stadium, London (GBR)",23 JUL 2023,1206,5000-metres,middlelong,female,u18
-3,14:39.61,,Marta ALEMAYO,08 APR 2008,ETH,1,"Stade Naimette-Xhovémont, Liège (BEL)",19 JUN 2024,1203,5000-metres,middlelong,female,u18
-4,14:43.84,,Marta ALEMAYO,08 APR 2008,ETH,7,"Stade Louis II, Monaco (MON)",12 JUL 2024,1195,5000-metres,middlelong,female,u18
-5,14:45.13,,Mekedes ALEMESHETE,30 MAR 2006,ETH,6,"Boudewijnstadion, Bruxelles (BEL)",08 SEP 2023,1192,5000-metres,middlelong,female,u18
-6,14:45.71,,Liqing SONG,20 JAN 1980,CHN,h,Shanghai (CHN),21 OCT 1997,1191,5000-metres,middlelong,female,u18
-7,14:47.78,,Yenawa NBRET,18 MAY 2007,ETH,10,"Suzhou Olympic Sports Centre, Suzhou (CHN)",27 APR 2024,1187,5000-metres,middlelong,female,u18
-8,14:49.90,,Tirunesh DIBABA,01 JUN 1985,ETH,6,"Olympiastadion, Berlin (GER)",06 SEP 2002,1183,5000-metres,middlelong,female,u18
-9,14:53.99,,Sentayehu EJIGU,28 JUN 1985,ETH,7,"Olympiastadion, Berlin (GER)",06 SEP 2002,1175,5000-metres,middlelong,female,u18
-10,14:56.15,,Huina XING,25 FEB 1984,CHN,2,Guangzhou (CHN),23 NOV 2001,1170,5000-metres,middlelong,female,u18
-11,14:56.34,,Marta ALEMAYO,08 APR 2008,ETH,17,"Hayward Field, Eugene, OR (USA)",05 JUL 2025,1170,5000-metres,middlelong,female,u18
-12,14:58.23,,Azmera GEBRU,31 OCT 1995,ETH,8,"Stadio Olimpico, Roma (ITA)",31 MAY 2012,1166,5000-metres,middlelong,female,u18
-13,14:58.34,,Azmera GEBRU,31 OCT 1995,ETH,9,"Stade de France, Paris-St-Denis (FRA)",08 JUL 2011,1166,5000-metres,middlelong,female,u18
-14,14:59.53,,Medina EISA,03 JAN 2005,ETH,10,"FBK Stadium, Hengelo (NED)",08 JUN 2021,1164,5000-metres,middlelong,female,u18
-15,15:02.41,,Genzebe DIBABA,08 FEB 1991,ETH,6,"Bislett Stadion, Oslo (NOR)",06 JUN 2008,1158,5000-metres,middlelong,female,u18
-16,15:04.54,,Tirunesh DIBABA,01 JUN 1985,ETH,4,London (GBR),23 AUG 2002,1154,5000-metres,middlelong,female,u18
-17,15:05.75,,Sally BARSOSIO,21 MAR 1978,KEN,5,Bruxelles (BEL),25 AUG 1995,1152,5000-metres,middlelong,female,u18
-18,15:06.08,,Yingying ZHANG,04 JAN 1990,CHN,3,Wuhan (CHN),31 OCT 2007,1151,5000-metres,middlelong,female,u18
-19,15:06.43,,Liqing SONG,20 JAN 1980,CHN,7,Shanghai (CHN),23 OCT 1997,1151,5000-metres,middlelong,female,u18
-20,15:07.45,,Tsiyon ABEBE,17 AUG 2006,ETH,12,"Olympiastadion, Stockholm (SWE)",02 JUL 2023,1149,5000-metres,middlelong,female,u18
-21,15:07.90,,Abersh MINSEWO,22 FEB 2001,ETH,3,"SV 03 Stadion, Tübingen (GER)",16 JUN 2018,1148,5000-metres,middlelong,female,u18
-22,15:08.36,,Meseret DEFAR,19 NOV 1983,ETH,2,Hechtel (BEL),05 AUG 2000,1147,5000-metres,middlelong,female,u18
-23,15:08.42,,Lingling GUO,18 JUN 1986,CHN,4,Guangzhou (CHN),23 NOV 2001,1147,5000-metres,middlelong,female,u18
-24,15:08.65,,Melknat WUDU,03 JAN 2005,ETH,4,"Cote d'Or National Sports Complex, St Pierre (MRI)",09 JUN 2022,1146,5000-metres,middlelong,female,u18
-25,15:09.61,,Genzebe DIBABA,08 FEB 1991,ETH,3,Rieti (ITA),07 SEP 2008,1144,5000-metres,middlelong,female,u18
-26,15:10.65,,Zola BUDD,26 MAY 1966,RSA,1,Port Elizabeth (RSA),17 OCT 1983,1142,5000-metres,middlelong,female,u18
-27,15:11.11,,Vivian Jepkemei CHERUIYOT,11 SEP 1983,KEN,5h3,"Olympic Stadium, Sydney (AUS)",22 SEP 2000,1142,5000-metres,middlelong,female,u18
-28,15:11.91,,Azmera GEBRU,31 OCT 1995,ETH,5,Rabat (MAR),27 MAY 2012,1140,5000-metres,middlelong,female,u18
-29,15:12.89,,Hellen Ekalale LOBUN,18 MAR 1999,KEN,1f6,Yokohama (JPN),03 DEC 2016,1138,5000-metres,middlelong,female,u18
-30,15:13.1h,,Veronicah Nyaruai WANJIRU,29 OCT 1989,KEN,2,Nairobi (KEN),25 JUN 2005,1138,5000-metres,middlelong,female,u18
-31,15:13.78,,Tirunesh DIBABA,01 JUN 1985,ETH,1,"Portland, OR (USA)",18 MAY 2002,1136,5000-metres,middlelong,female,u18
-32,15:13.81,,Martha MOKAYA,12 MAR 2001,KEN,2f1,Nobeoka (JPN),06 MAY 2017,1136,5000-metres,middlelong,female,u18
-33,15:13.84,,Azmera GEBRU,31 OCT 1995,ETH,2,Reims (FRA),04 JUL 2012,1136,5000-metres,middlelong,female,u18
-34,15:13.89,,Teresa MUSSO,2002,KEN,1f3,Oita (JPN),20 OCT 2018,1136,5000-metres,middlelong,female,u18
-35,15:14.01,,Medina EISA,03 JAN 2005,ETH,1,"Stade Naimette-Xhovémont, Liège (BEL)",29 JUN 2022,1136,5000-metres,middlelong,female,u18
-36,15:14.54,,Marta ALEMAYO,08 APR 2008,ETH,1,"Nyayo National Stadium, Nairobi (KEN)",20 APR 2024,1135,5000-metres,middlelong,female,u18
-37,15:14.77,,Asayech AYICHEW,03 APR 2005,ETH,2,"Stade Naimette-Xhovémont, Liège (BEL)",29 JUN 2022,1135,5000-metres,middlelong,female,u18
-38,15:15.35,,Cynthia BAIRE,17 DEC 2002,KEN,2f3,Oita (JPN),20 OCT 2018,1133,5000-metres,middlelong,female,u18
-39,15:15.81,,Asayech AYICHEW,03 APR 2005,ETH,1,"Sportcentrum De Rode Loop in Merksem, Antwerpen (BEL)",03 JUL 2022,1133,5000-metres,middlelong,female,u18
-40,15:16.26,,Yenawa NBRET,18 MAY 2007,ETH,18,"Hayward Field, Eugene, OR (USA)",25 MAY 2024,1132,5000-metres,middlelong,female,u18
-41,15:16.74,,Ayelech WORKU,12 JUN 1979,ETH,4,St-Denis (FRA),03 JUN 1996,1131,5000-metres,middlelong,female,u18
-41,15:16.74,,Alice Aprot NAWOWUNA,02 JAN 1994,KEN,5,"Olympiastadion, Stockholm (SWE)",06 AUG 2010,1131,5000-metres,middlelong,female,u18
-43,15:17.31,,Lydia CHEROMEI,11 MAY 1977,KEN,7,"Olympiastadion, Berlin (GER)",21 AUG 1992,1130,5000-metres,middlelong,female,u18
-44,15:17.32,,Janeth Nyiva MUTUNGI,27 AUG 2004,KEN,1f2,"Municipal Stadium, Miyoshi (JPN)",02 OCT 2021,1130,5000-metres,middlelong,female,u18
-45,15:17.39,,Alice Aprot NAWOWUNA,02 JAN 1994,KEN,3,"Croix-Bleue Medavie Stadium, Moncton (CAN)",21 JUL 2010,1130,5000-metres,middlelong,female,u18
-46,15:18.06,,Meskerem MAMO,13 APR 1999,ETH,4,Durban (RSA),23 JUN 2016,1128,5000-metres,middlelong,female,u18
-47,15:18.14,,Lili YIN,11 NOV 1979,CHN,3,Nanjing (CHN),05 MAY 1996,1128,5000-metres,middlelong,female,u18
-48,15:18.32,,Tsige HAILESLASE,21 SEP 2000,ETH,10,"Shanghai Stadium, Shanghai (CHN)",13 MAY 2017,1128,5000-metres,middlelong,female,u18
-49,15:18.41,,Sally BARSOSIO,21 MAR 1978,KEN,6h2,"Ullevi Stadium, Göteborg (SWE)",10 AUG 1995,1128,5000-metres,middlelong,female,u18
-50,15:18.46,,Gladys WAIRIMU,15 JUL 1991,KEN,2f2,Yokohama (JPN),23 SEP 2007,1127,5000-metres,middlelong,female,u18
-51,15:18.6h,,Eloise WELLINGS,09 NOV 1982,AUS,,Sydney (AUS),16 OCT 1999,1127,5000-metres,middlelong,female,u18
-52,15:18.80,,Tsiyon ABEBE,17 AUG 2006,ETH,17f1,Montesson (FRA),10 JUN 2023,1127,5000-metres,middlelong,female,u18
-53,15:20.20,,Mary AKAI,12 JUN 2008,KEN,9f1,"Aoba Park Athletic Field, Chitose (JPN)",12 JUL 2025,1124,5000-metres,middlelong,female,u18
-54,15:20.27,,Martha MOKAYA,12 MAR 2001,KEN,1f7,Yokohama (JPN),01 DEC 2018,1124,5000-metres,middlelong,female,u18
-55,15:20.41,,Melknat WUDU,03 JAN 2005,ETH,13,"FBK Stadium, Hengelo (NED)",08 JUN 2021,1124,5000-metres,middlelong,female,u18
-56,15:20.44,,Fei XUE,08 AUG 1989,CHN,10,Shanghai (CHN),23 SEP 2006,1124,5000-metres,middlelong,female,u18
-57,15:21.48,,Cynthia BAIRE,17 DEC 2002,KEN,,Fukuoka (JPN),30 JUN 2019,1122,5000-metres,middlelong,female,u18
-58,15:21.59,,Ayelech WORKU,12 JUN 1979,ETH,2h3,"Olympic Stadium, Atlanta, GA (USA)",26 JUL 1996,1122,5000-metres,middlelong,female,u18
-59,15:21.70,,Sule UTURA,08 FEB 1990,ETH,10,"FBK Stadium, Hengelo (NED)",26 MAY 2007,1121,5000-metres,middlelong,female,u18
-59,15:21.70,,Cynthia BAIRE,17 DEC 2002,KEN,4f7,Yokohama (JPN),01 DEC 2018,1121,5000-metres,middlelong,female,u18
-61,15:22.0h,,Nancy WAMBUI,28 JUL 1986,KEN,1,Nairobi (KEN),10 MAY 2001,1121,5000-metres,middlelong,female,u18
-62,15:23.07,,Martha MOKAYA,12 MAR 2001,KEN,2f1,Nobeoka (JPN),05 MAY 2018,1119,5000-metres,middlelong,female,u18
-63,15:23.56,,Shuri OGASAWARA,03 OCT 2000,JPN,3,Osaka (JPN),25 JUN 2017,1118,5000-metres,middlelong,female,u18
-64,15:23.65,,Alice Aprot NAWOWUNA,02 JAN 1994,KEN,13,"Crystal Palace, London (GBR)",13 AUG 2010,1118,5000-metres,middlelong,female,u18
-65,15:23.93,,Lemlem NIBRET,01 JAN 2005,ETH,1,"Polideportivo Municipal, Andújar (ESP)",04 JUN 2022,1117,5000-metres,middlelong,female,u18
-66,15:24.08,,Zola BUDD,26 MAY 1966,RSA,1,Stellenbosch (RSA),25 APR 1983,1117,5000-metres,middlelong,female,u18
-67,15:24.30,,Cynthia CHEPKIRUI,04 SEP 2008,KEN,4,"Ulinzi Sports Complex, Langata, Nairobi (KEN)",31 MAY 2025,1116,5000-metres,middlelong,female,u18
-68,15:24.66,,Caroline Chepkoech KIPKIRUI,26 MAY 1994,KEN,1,Gaborone (BOT),14 MAY 2011,1116,5000-metres,middlelong,female,u18
-69,15:24.92,,Mekedes ALEMESHETE,30 MAR 2006,ETH,1,"Polideportivo Municipal, Andújar (ESP)",26 MAY 2023,1115,5000-metres,middlelong,female,u18
+3,14:38.65,,Marta ALEMAYO,08 APR 2008,ETH,12,"Boudewijnstadion, Bruxelles (BEL)",22 AUG 2025,1205,5000-metres,middlelong,female,u18
+4,14:39.61,,Marta ALEMAYO,08 APR 2008,ETH,1,"Stade Naimette-Xhovémont, Liège (BEL)",19 JUN 2024,1203,5000-metres,middlelong,female,u18
+5,14:43.84,,Marta ALEMAYO,08 APR 2008,ETH,7,"Stade Louis II, Monaco (MON)",12 JUL 2024,1195,5000-metres,middlelong,female,u18
+6,14:45.13,,Mekedes ALEMESHETE,30 MAR 2006,ETH,6,"Boudewijnstadion, Bruxelles (BEL)",08 SEP 2023,1192,5000-metres,middlelong,female,u18
+7,14:45.71,,Liqing SONG,20 JAN 1980,CHN,h,Shanghai (CHN),21 OCT 1997,1191,5000-metres,middlelong,female,u18
+8,14:47.78,,Yenawa NBRET,18 MAY 2007,ETH,10,"Suzhou Olympic Sports Centre, Suzhou (CHN)",27 APR 2024,1187,5000-metres,middlelong,female,u18
+9,14:49.90,,Tirunesh DIBABA,01 JUN 1985,ETH,6,"Olympiastadion, Berlin (GER)",06 SEP 2002,1183,5000-metres,middlelong,female,u18
+10,14:53.99,,Sentayehu EJIGU,28 JUN 1985,ETH,7,"Olympiastadion, Berlin (GER)",06 SEP 2002,1175,5000-metres,middlelong,female,u18
+11,14:56.15,,Huina XING,25 FEB 1984,CHN,2,Guangzhou (CHN),23 NOV 2001,1170,5000-metres,middlelong,female,u18
+12,14:56.34,,Marta ALEMAYO,08 APR 2008,ETH,17,"Hayward Field, Eugene, OR (USA)",05 JUL 2025,1170,5000-metres,middlelong,female,u18
+13,14:58.23,,Azmera GEBRU,31 OCT 1995,ETH,8,"Stadio Olimpico, Roma (ITA)",31 MAY 2012,1166,5000-metres,middlelong,female,u18
+14,14:58.34,,Azmera GEBRU,31 OCT 1995,ETH,9,"Stade de France, Paris-St-Denis (FRA)",08 JUL 2011,1166,5000-metres,middlelong,female,u18
+15,14:59.53,,Medina EISA,03 JAN 2005,ETH,10,"FBK Stadium, Hengelo (NED)",08 JUN 2021,1164,5000-metres,middlelong,female,u18
+16,15:02.41,,Genzebe DIBABA,08 FEB 1991,ETH,6,"Bislett Stadion, Oslo (NOR)",06 JUN 2008,1158,5000-metres,middlelong,female,u18
+17,15:04.54,,Tirunesh DIBABA,01 JUN 1985,ETH,4,London (GBR),23 AUG 2002,1154,5000-metres,middlelong,female,u18
+18,15:05.75,,Sally BARSOSIO,21 MAR 1978,KEN,5,Bruxelles (BEL),25 AUG 1995,1152,5000-metres,middlelong,female,u18
+19,15:06.08,,Yingying ZHANG,04 JAN 1990,CHN,3,Wuhan (CHN),31 OCT 2007,1151,5000-metres,middlelong,female,u18
+20,15:06.43,,Liqing SONG,20 JAN 1980,CHN,7,Shanghai (CHN),23 OCT 1997,1151,5000-metres,middlelong,female,u18
+21,15:07.45,,Tsiyon ABEBE,17 AUG 2006,ETH,12,"Olympiastadion, Stockholm (SWE)",02 JUL 2023,1149,5000-metres,middlelong,female,u18
+22,15:07.90,,Abersh MINSEWO,22 FEB 2001,ETH,3,"SV 03 Stadion, Tübingen (GER)",16 JUN 2018,1148,5000-metres,middlelong,female,u18
+23,15:08.36,,Meseret DEFAR,19 NOV 1983,ETH,2,Hechtel (BEL),05 AUG 2000,1147,5000-metres,middlelong,female,u18
+24,15:08.42,,Lingling GUO,18 JUN 1986,CHN,4,Guangzhou (CHN),23 NOV 2001,1147,5000-metres,middlelong,female,u18
+25,15:08.65,,Melknat WUDU,03 JAN 2005,ETH,4,"Cote d'Or National Sports Complex, St Pierre (MRI)",09 JUN 2022,1146,5000-metres,middlelong,female,u18
+26,15:09.61,,Genzebe DIBABA,08 FEB 1991,ETH,3,Rieti (ITA),07 SEP 2008,1144,5000-metres,middlelong,female,u18
+27,15:10.65,,Zola BUDD,26 MAY 1966,RSA,1,Port Elizabeth (RSA),17 OCT 1983,1142,5000-metres,middlelong,female,u18
+28,15:11.11,,Vivian Jepkemei CHERUIYOT,11 SEP 1983,KEN,5h3,"Olympic Stadium, Sydney (AUS)",22 SEP 2000,1142,5000-metres,middlelong,female,u18
+29,15:11.91,,Azmera GEBRU,31 OCT 1995,ETH,5,Rabat (MAR),27 MAY 2012,1140,5000-metres,middlelong,female,u18
+30,15:12.89,,Hellen Ekalale LOBUN,18 MAR 1999,KEN,1f6,Yokohama (JPN),03 DEC 2016,1138,5000-metres,middlelong,female,u18
+31,15:13.1h,,Veronicah Nyaruai WANJIRU,29 OCT 1989,KEN,2,Nairobi (KEN),25 JUN 2005,1138,5000-metres,middlelong,female,u18
+32,15:13.78,,Tirunesh DIBABA,01 JUN 1985,ETH,1,"Portland, OR (USA)",18 MAY 2002,1136,5000-metres,middlelong,female,u18
+33,15:13.81,,Martha MOKAYA,12 MAR 2001,KEN,2f1,Nobeoka (JPN),06 MAY 2017,1136,5000-metres,middlelong,female,u18
+34,15:13.84,,Azmera GEBRU,31 OCT 1995,ETH,2,Reims (FRA),04 JUL 2012,1136,5000-metres,middlelong,female,u18
+35,15:13.89,,Teresa MUSSO,2002,KEN,1f3,Oita (JPN),20 OCT 2018,1136,5000-metres,middlelong,female,u18
+36,15:14.01,,Medina EISA,03 JAN 2005,ETH,1,"Stade Naimette-Xhovémont, Liège (BEL)",29 JUN 2022,1136,5000-metres,middlelong,female,u18
+37,15:14.54,,Marta ALEMAYO,08 APR 2008,ETH,1,"Nyayo National Stadium, Nairobi (KEN)",20 APR 2024,1135,5000-metres,middlelong,female,u18
+38,15:14.77,,Asayech AYICHEW,03 APR 2005,ETH,2,"Stade Naimette-Xhovémont, Liège (BEL)",29 JUN 2022,1135,5000-metres,middlelong,female,u18
+39,15:15.35,,Cynthia BAIRE,17 DEC 2002,KEN,2f3,Oita (JPN),20 OCT 2018,1133,5000-metres,middlelong,female,u18
+40,15:15.81,,Asayech AYICHEW,03 APR 2005,ETH,1,"Sportcentrum De Rode Loop in Merksem, Antwerpen (BEL)",03 JUL 2022,1133,5000-metres,middlelong,female,u18
+41,15:16.26,,Yenawa NBRET,18 MAY 2007,ETH,18,"Hayward Field, Eugene, OR (USA)",25 MAY 2024,1132,5000-metres,middlelong,female,u18
+42,15:16.74,,Ayelech WORKU,12 JUN 1979,ETH,4,St-Denis (FRA),03 JUN 1996,1131,5000-metres,middlelong,female,u18
+42,15:16.74,,Alice Aprot NAWOWUNA,02 JAN 1994,KEN,5,"Olympiastadion, Stockholm (SWE)",06 AUG 2010,1131,5000-metres,middlelong,female,u18
+44,15:17.31,,Lydia CHEROMEI,11 MAY 1977,KEN,7,"Olympiastadion, Berlin (GER)",21 AUG 1992,1130,5000-metres,middlelong,female,u18
+45,15:17.32,,Janeth Nyiva MUTUNGI,27 AUG 2004,KEN,1f2,"Municipal Stadium, Miyoshi (JPN)",02 OCT 2021,1130,5000-metres,middlelong,female,u18
+46,15:17.39,,Alice Aprot NAWOWUNA,02 JAN 1994,KEN,3,"Croix-Bleue Medavie Stadium, Moncton (CAN)",21 JUL 2010,1130,5000-metres,middlelong,female,u18
+47,15:18.06,,Meskerem MAMO,13 APR 1999,ETH,4,Durban (RSA),23 JUN 2016,1128,5000-metres,middlelong,female,u18
+48,15:18.14,,Lili YIN,11 NOV 1979,CHN,3,Nanjing (CHN),05 MAY 1996,1128,5000-metres,middlelong,female,u18
+49,15:18.32,,Tsige HAILESLASE,21 SEP 2000,ETH,10,"Shanghai Stadium, Shanghai (CHN)",13 MAY 2017,1128,5000-metres,middlelong,female,u18
+50,15:18.41,,Sally BARSOSIO,21 MAR 1978,KEN,6h2,"Ullevi Stadium, Göteborg (SWE)",10 AUG 1995,1128,5000-metres,middlelong,female,u18
+51,15:18.46,,Gladys WAIRIMU,15 JUL 1991,KEN,2f2,Yokohama (JPN),23 SEP 2007,1127,5000-metres,middlelong,female,u18
+52,15:18.6h,,Eloise WELLINGS,09 NOV 1982,AUS,,Sydney (AUS),16 OCT 1999,1127,5000-metres,middlelong,female,u18
+53,15:18.80,,Tsiyon ABEBE,17 AUG 2006,ETH,17f1,Montesson (FRA),10 JUN 2023,1127,5000-metres,middlelong,female,u18
+54,15:20.20,,Mary AKAI,12 JUN 2008,KEN,9f1,"Aoba Park Athletic Field, Chitose (JPN)",12 JUL 2025,1124,5000-metres,middlelong,female,u18
+55,15:20.27,,Martha MOKAYA,12 MAR 2001,KEN,1f7,Yokohama (JPN),01 DEC 2018,1124,5000-metres,middlelong,female,u18
+56,15:20.41,,Melknat WUDU,03 JAN 2005,ETH,13,"FBK Stadium, Hengelo (NED)",08 JUN 2021,1124,5000-metres,middlelong,female,u18
+57,15:20.44,,Fei XUE,08 AUG 1989,CHN,10,Shanghai (CHN),23 SEP 2006,1124,5000-metres,middlelong,female,u18
+58,15:21.48,,Cynthia BAIRE,17 DEC 2002,KEN,,Fukuoka (JPN),30 JUN 2019,1122,5000-metres,middlelong,female,u18
+59,15:21.59,,Ayelech WORKU,12 JUN 1979,ETH,2h3,"Olympic Stadium, Atlanta, GA (USA)",26 JUL 1996,1122,5000-metres,middlelong,female,u18
+60,15:21.70,,Sule UTURA,08 FEB 1990,ETH,10,"FBK Stadium, Hengelo (NED)",26 MAY 2007,1121,5000-metres,middlelong,female,u18
+60,15:21.70,,Cynthia BAIRE,17 DEC 2002,KEN,4f7,Yokohama (JPN),01 DEC 2018,1121,5000-metres,middlelong,female,u18
+62,15:22.0h,,Nancy WAMBUI,28 JUL 1986,KEN,1,Nairobi (KEN),10 MAY 2001,1121,5000-metres,middlelong,female,u18
+63,15:23.07,,Martha MOKAYA,12 MAR 2001,KEN,2f1,Nobeoka (JPN),05 MAY 2018,1119,5000-metres,middlelong,female,u18
+64,15:23.56,,Shuri OGASAWARA,03 OCT 2000,JPN,3,Osaka (JPN),25 JUN 2017,1118,5000-metres,middlelong,female,u18
+65,15:23.65,,Alice Aprot NAWOWUNA,02 JAN 1994,KEN,13,"Crystal Palace, London (GBR)",13 AUG 2010,1118,5000-metres,middlelong,female,u18
+66,15:23.93,,Lemlem NIBRET,01 JAN 2005,ETH,1,"Polideportivo Municipal, Andújar (ESP)",04 JUN 2022,1117,5000-metres,middlelong,female,u18
+67,15:24.08,,Zola BUDD,26 MAY 1966,RSA,1,Stellenbosch (RSA),25 APR 1983,1117,5000-metres,middlelong,female,u18
+68,15:24.30,,Cynthia CHEPKIRUI,04 SEP 2008,KEN,4,"Ulinzi Sports Complex, Langata, Nairobi (KEN)",31 MAY 2025,1116,5000-metres,middlelong,female,u18
+69,15:24.66,,Caroline Chepkoech KIPKIRUI,26 MAY 1994,KEN,1,Gaborone (BOT),14 MAY 2011,1116,5000-metres,middlelong,female,u18
+70,15:24.92,,Mekedes ALEMESHETE,30 MAR 2006,ETH,1,"Polideportivo Municipal, Andújar (ESP)",26 MAY 2023,1115,5000-metres,middlelong,female,u18

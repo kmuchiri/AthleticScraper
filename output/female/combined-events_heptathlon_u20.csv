@@ -8,23 +8,25 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 7,6357,,Géraldine RUCKSTUHL,24 FEB 1998,SUI,2,"Stadio Zecchini, Grosseto (ITA)",21 JUL 2017,1145,heptathlon,combined-events,female,u20
 8,6298,,Nafissatou THIAM,19 AUG 1994,BEL,1,"Stadio Guidobaldi, Rieti (ITA)",19 JUL 2013,1133,heptathlon,combined-events,female,u20
 9,6293,,Jana KOŠČAK,19 MAY 2006,CRO,9,"Mösle-Stadium, Götzis (AUT)",28 MAY 2023,1132,heptathlon,combined-events,female,u20
-10,6291,,Géraldine RUCKSTUHL,24 FEB 1998,SUI,12,"Mösle-Stadium, Götzis (AUT)",28 MAY 2017,1132,heptathlon,combined-events,female,u20
-11,6289,,Svetla DIMITROVA-PISHTIKOVA,27 JAN 1970,BUL,1,"Laurentian University Stadium, Sudbury (CAN)",30 JUL 1988,1132,heptathlon,combined-events,female,u20
-12,6276,,Larisa TURCHINSKAYA,29 APR 1965,URS,8,Kiev (URS),21 JUN 1984,1129,heptathlon,combined-events,female,u20
-13,6273,,Sabine BRAUN,19 JUN 1965,FRG,2,"Rudolf Tonn Stadion, Schwechat (AUT)",28 AUG 1983,1129,heptathlon,combined-events,female,u20
-14,6272,,Carolina KLÜFT,02 FEB 1983,SWE,1,Riga (LAT),30 JUN 2002,1128,heptathlon,combined-events,female,u20
-15,6271,,Saga VANNINEN,04 MAY 2003,FIN,1,"Kadrioru staadion, Tallinn (EST)",16 JUL 2021,1128,heptathlon,combined-events,female,u20
-16,6267,,Katarina JOHNSON-THOMPSON,09 JAN 1993,GBR,13,"Olympic Stadium, London (GBR)",04 AUG 2012,1127,heptathlon,combined-events,female,u20
-17,6260,,Sophia YAKUSHINA,07 JAN 2006,RUS,1,"Cushing Stadium, College Station, TX (USA)",12 APR 2025,1126,heptathlon,combined-events,female,u20
-18,6253,,Niamh EMERSON,22 APR 1999,GBR,1,"Ratinan Stadion, Tampere (FIN)",13 JUL 2018,1125,heptathlon,combined-events,female,u20
-19,6248,,Katarina JOHNSON-THOMPSON,09 JAN 1993,GBR,2,Kladno (CZE),10 JUN 2012,1124,heptathlon,combined-events,female,u20
-20,6236,,Sabine BRAUN,19 JUN 1965,FRG,6,"Memorial Coliseum, Los Angeles, CA (USA)",04 AUG 1984,1121,heptathlon,combined-events,female,u20
-21,6231,,Yorgelis RODRÍGUEZ,25 JAN 1995,CUB,1,La Habana (CUB),22 FEB 2014,1120,heptathlon,combined-events,female,u20
-22,6230,,Géraldine RUCKSTUHL,24 FEB 1998,SUI,11,"Olympic Stadium, London (GBR)",06 AUG 2017,1120,heptathlon,combined-events,female,u20
-23,6227,,Tatyana CHERNOVA,29 JAN 1988,RUS,1,"Chaoyang Sport Center, Beijing (CHN)",19 AUG 2006,1119,heptathlon,combined-events,female,u20
-24,6225,,Sarah LAGGER,03 SEP 1999,AUT,2,"Ratinan Stadion, Tampere (FIN)",13 JUL 2018,1119,heptathlon,combined-events,female,u20
-24,6225,,Sarolta KRISZT,28 OCT 2006,HUN,10,"Mösle-Stadium, Götzis (AUT)",01 JUN 2025,1119,heptathlon,combined-events,female,u20
-26,6224,,Sibylle THIELE,06 MAR 1965,GDR,2,Götzis (AUT),20 MAY 1984,1119,heptathlon,combined-events,female,u20
-26,6224,,Valentina SAVCHENKO,13 MAY 1968,URS,1,Plovdiv (BUL),05 AUG 1984,1119,heptathlon,combined-events,female,u20
-28,6222,,Jana SOBOTKA,03 OCT 1965,GDR,3,"Rudolf Tonn Stadion, Schwechat (AUT)",28 AUG 1983,1118,heptathlon,combined-events,female,u20
-29,6208,,Alina SHUKH,12 FEB 1999,UKR,1,"Kadrioru staadion, Tallinn (EST)",02 JUL 2017,1116,heptathlon,combined-events,female,u20
+9,6293,,Jana KOŠČAK,19 MAY 2006,CRO,1,"Ratinan Stadion, Tampere (FIN)",10 AUG 2025,1132,heptathlon,combined-events,female,u20
+11,6291,,Géraldine RUCKSTUHL,24 FEB 1998,SUI,12,"Mösle-Stadium, Götzis (AUT)",28 MAY 2017,1132,heptathlon,combined-events,female,u20
+12,6289,,Svetla DIMITROVA-PISHTIKOVA,27 JAN 1970,BUL,1,"Laurentian University Stadium, Sudbury (CAN)",30 JUL 1988,1132,heptathlon,combined-events,female,u20
+13,6276,,Larisa TURCHINSKAYA,29 APR 1965,URS,8,Kiev (URS),21 JUN 1984,1129,heptathlon,combined-events,female,u20
+14,6273,,Sabine BRAUN,19 JUN 1965,FRG,2,"Rudolf Tonn Stadion, Schwechat (AUT)",28 AUG 1983,1129,heptathlon,combined-events,female,u20
+15,6272,,Carolina KLÜFT,02 FEB 1983,SWE,1,Riga (LAT),30 JUN 2002,1128,heptathlon,combined-events,female,u20
+16,6271,,Saga VANNINEN,04 MAY 2003,FIN,1,"Kadrioru staadion, Tallinn (EST)",16 JUL 2021,1128,heptathlon,combined-events,female,u20
+17,6267,,Katarina JOHNSON-THOMPSON,09 JAN 1993,GBR,13,"Olympic Stadium, London (GBR)",04 AUG 2012,1127,heptathlon,combined-events,female,u20
+18,6260,,Sophia YAKUSHINA,07 JAN 2006,RUS,1,"Cushing Stadium, College Station, TX (USA)",12 APR 2025,1126,heptathlon,combined-events,female,u20
+19,6253,,Niamh EMERSON,22 APR 1999,GBR,1,"Ratinan Stadion, Tampere (FIN)",13 JUL 2018,1125,heptathlon,combined-events,female,u20
+20,6251,,Sarolta KRISZT,28 OCT 2006,HUN,2,"Ratinan Stadion, Tampere (FIN)",10 AUG 2025,1124,heptathlon,combined-events,female,u20
+21,6248,,Katarina JOHNSON-THOMPSON,09 JAN 1993,GBR,2,Kladno (CZE),10 JUN 2012,1124,heptathlon,combined-events,female,u20
+22,6236,,Sabine BRAUN,19 JUN 1965,FRG,6,"Memorial Coliseum, Los Angeles, CA (USA)",04 AUG 1984,1121,heptathlon,combined-events,female,u20
+23,6231,,Yorgelis RODRÍGUEZ,25 JAN 1995,CUB,1,La Habana (CUB),22 FEB 2014,1120,heptathlon,combined-events,female,u20
+24,6230,,Géraldine RUCKSTUHL,24 FEB 1998,SUI,11,"Olympic Stadium, London (GBR)",06 AUG 2017,1120,heptathlon,combined-events,female,u20
+25,6227,,Tatyana CHERNOVA,29 JAN 1988,RUS,1,"Chaoyang Sport Center, Beijing (CHN)",19 AUG 2006,1119,heptathlon,combined-events,female,u20
+26,6225,,Sarah LAGGER,03 SEP 1999,AUT,2,"Ratinan Stadion, Tampere (FIN)",13 JUL 2018,1119,heptathlon,combined-events,female,u20
+26,6225,,Sarolta KRISZT,28 OCT 2006,HUN,10,"Mösle-Stadium, Götzis (AUT)",01 JUN 2025,1119,heptathlon,combined-events,female,u20
+28,6224,,Sibylle THIELE,06 MAR 1965,GDR,2,Götzis (AUT),20 MAY 1984,1119,heptathlon,combined-events,female,u20
+28,6224,,Valentina SAVCHENKO,13 MAY 1968,URS,1,Plovdiv (BUL),05 AUG 1984,1119,heptathlon,combined-events,female,u20
+30,6222,,Jana SOBOTKA,03 OCT 1965,GDR,3,"Rudolf Tonn Stadion, Schwechat (AUT)",28 AUG 1983,1118,heptathlon,combined-events,female,u20
+31,6208,,Alina SHUKH,12 FEB 1999,UKR,1,"Kadrioru staadion, Tallinn (EST)",02 JUL 2017,1116,heptathlon,combined-events,female,u20

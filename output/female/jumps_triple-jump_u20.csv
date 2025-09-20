@@ -33,102 +33,104 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 31,14.25,+0.5,Dailenys ALCÁNTARA,10 AUG 1991,CUB,1,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",10 JUL 2008,1143,triple-jump,jumps,female,u20
 33,14.24,-0.3,Anastasiya ILYINA,16 JAN 1982,RUS,1,"E.Nacional, Santiago de Chile (CHI)",21 OCT 2000,1143,triple-jump,jumps,female,u20
 33,14.24,+1.5,Mabel GAY,05 MAY 1983,CUB,1,Santiago de Cuba (CUB),04 MAY 2002,1142,triple-jump,jumps,female,u20
-35,14.23,0.0,Jiahui LI,08 AUG 1979,CHN,1,Bangkok (THA),06 NOV 1997,1141,triple-jump,jumps,female,u20
-35,14.23,+1.1,Dailenys ALCÁNTARA,10 AUG 1991,CUB,3f1,"Estadio Panamericano, La Habana (CUB)",06 FEB 2009,1141,triple-jump,jumps,female,u20
-37,14.22,+1.0,Nubia SOARES,26 MAR 1996,BRA,1,São Paulo (BRA),12 OCT 2014,1140,triple-jump,jumps,female,u20
-38,14.21,+1.8,Dailenys ALCÁNTARA,10 AUG 1991,CUB,1,La Habana (CUB),01 MAR 2007,1139,triple-jump,jumps,female,u20
-39,14.20,+1.6,Tereza MARINOVA,25 SEP 1977,BUL,1q2,"SIAC Homebush, Sydney (AUS)",24 AUG 1996,1138,triple-jump,jumps,female,u20
-39,14.20,0.0,Qiuyan HUANG,25 JAN 1980,CHN,1,Guangzhou (CHN),26 MAR 1998,1138,triple-jump,jumps,female,u20
-39,14.20,+1.8,Rouguy DIALLO,05 FEB 1995,FRA,,"Hayward Field, Eugene, OR (USA)",26 JUL 2014,1138,triple-jump,jumps,female,u20
-39,14.20,-0.1,Leyanis PÉREZ HERNÁNDEZ,10 JAN 2002,CUB,1,"Stadio G. Teghil, Lignano Sabbiadoro (ITA)",03 JUL 2021,1138,triple-jump,jumps,female,u20
-43,14.19,+2.0,Anna PYATYKH,04 APR 1981,RUS,1,Lapinlahti (FIN),16 JUL 2000,1137,triple-jump,jumps,female,u20
-43,14.19,-1.2,Anastasiya ILYINA,16 JAN 1982,RUS,2,Chania (GRE),04 JUN 2001,1144,triple-jump,jumps,female,u20
-43,14.19,+1.9,Dailenys ALCÁNTARA,10 AUG 1991,CUB,1,La Habana (CUB),04 JUN 2010,1137,triple-jump,jumps,female,u20
-43,14.19,+1.9,Sharifa DAVRONOVA,27 SEP 2006,UZB,1,"Olympic Training Base, Almaty (KAZ)",03 AUG 2025,1137,triple-jump,jumps,female,u20
-47,14.18,,Yevgeniya STAVCHANSKA,25 SEP 1981,UKR,2,Lviv (UKR) (i),07 FEB 1999,1136,triple-jump,jumps,female,u20
-47,14.18,+1.2,Anna PYATYKH,04 APR 1981,RUS,2,"E.Nacional, Santiago de Chile (CHI)",21 OCT 2000,1136,triple-jump,jumps,female,u20
-47,14.18,-0.1,Anastasiya ILYINA,16 JAN 1982,RUS,4,Athina (GRE),11 JUN 2001,1136,triple-jump,jumps,female,u20
-47,14.18,+0.7,Mabel GAY,05 MAY 1983,CUB,1,Ciudad de Guatemala (GUA),12 MAY 2002,1136,triple-jump,jumps,female,u20
-47,14.18,+1.6,Aleksandra NACHEVA,20 AUG 2001,BUL,1,"Ratinan Stadion, Tampere (FIN)",15 JUL 2018,1136,triple-jump,jumps,female,u20
-52,14.17,,Ruiping REN,01 FEB 1976,CHN,1q1,"Palau Sant Jordi, Barcelona (ESP) (i)",10 MAR 1995,1135,triple-jump,jumps,female,u20
-52,14.17,0.0,Qiuyan HUANG,25 JAN 1980,CHN,2,Shijiazhuang (CHN),26 APR 1998,1135,triple-jump,jumps,female,u20
-52,14.17,-1.0,Ana PELETEIRO,02 DEC 1995,ESP,1,"Estadio Olímpico, Barcelona (ESP)",12 JUL 2012,1141,triple-jump,jumps,female,u20
-52,14.17,+1.6,Dovilė DZINDZALETAITĖ,14 JUL 1993,LTU,2,"Estadio Olímpico, Barcelona (ESP)",12 JUL 2012,1135,triple-jump,jumps,female,u20
-56,14.15,+0.3,Anna PYATYKH,04 APR 1981,RUS,1q2,"E.Nacional, Santiago de Chile (CHI)",20 OCT 2000,1133,triple-jump,jumps,female,u20
-56,14.15,,Anastasiya ILYINA,16 JAN 1982,RUS,1,Kazan (RUS),28 JUN 2001,1133,triple-jump,jumps,female,u20
-56,14.15,-0.2,Tingting XU,12 JUL 1989,CHN,1,Shijiazhuang (CHN),12 OCT 2008,1134,triple-jump,jumps,female,u20
-56,14.15,+1.8,Keturah ORJI,05 MAR 1996,USA,1,"Eugene, OR (USA)",13 JUN 2015,1133,triple-jump,jumps,female,u20
-56,14.15,+0.7,Leyanis PÉREZ HERNÁNDEZ,10 JAN 2002,CUB,3,"Estadio Panamericano, La Habana (CUB)",21 MAR 2020,1133,triple-jump,jumps,female,u20
-61,14.14,+1.1,Anastasiya ZHURAVLYEVA,09 OCT 1981,UZB,2,Busan (KOR),15 MAY 1997,1132,triple-jump,jumps,female,u20
-61,14.14,+1.9,Anastasiya KOBYLYANSKIKH,17 AUG 2006,RUS,2,"Regional Sport Complex, Brest (BLR)",13 JUL 2025,1132,triple-jump,jumps,female,u20
-63,14.13,+1.3,Jiahui LI,08 AUG 1979,CHN,3,Shanghai (CHN),19 OCT 1997,1131,triple-jump,jumps,female,u20
-63,14.13,,Anastasiya ILYINA,16 JAN 1982,RUS,1,Moskva (RUS) (i),14 FEB 2001,1131,triple-jump,jumps,female,u20
-63,14.13,+0.2,Anastasiya ILYINA,16 JAN 1982,RUS,1,Krasnodar (RUS),23 MAY 2001,1131,triple-jump,jumps,female,u20
-63,14.13,+2.0,Blessing OKAGBARE,09 OCT 1988,NGR,1,Lagos (NGR),19 MAY 2007,1131,triple-jump,jumps,female,u20
-63,14.13,0.0,Dailenys ALCÁNTARA,10 AUG 1991,CUB,2,La Habana (CUB),20 JUN 2008,1131,triple-jump,jumps,female,u20
-63,14.13,+0.5,Leyanis PÉREZ HERNÁNDEZ,10 JAN 2002,CUB,2,La Habana (CUB),18 MAY 2019,1131,triple-jump,jumps,female,u20
-63,14.13,+1.4,Aleksandra NACHEVA,20 AUG 2001,BUL,,Pitesti (ROU),21 JUN 2019,1131,triple-jump,jumps,female,u20
-70,14.12,,Qiuyan HUANG,25 JAN 1980,CHN,1,Tianjin (CHN) (i),21 FEB 1998,1130,triple-jump,jumps,female,u20
-70,14.12,+0.8,Anastasiya ILYINA,16 JAN 1982,RUS,1,"Stadio Zecchini, Grosseto (ITA)",20 JUL 2001,1130,triple-jump,jumps,female,u20
-70,14.12,+0.1,Spyridoula KARYDI,30 JAN 2001,GRE,1,"Grigoris Lambrakis Stadium, Kallithea, Athina (GRE)",22 JUL 2020,1130,triple-jump,jumps,female,u20
-73,14.11,+0.4,Anastasiya POTAPOVA,06 SEP 1985,RUS,1,Cheboksary (RUS),28 JUN 2004,1129,triple-jump,jumps,female,u20
-73,14.11,+0.2,Dailenys ALCÁNTARA,10 AUG 1991,CUB,4,La Habana (CUB),01 JUN 2008,1129,triple-jump,jumps,female,u20
-75,14.10,+1.4,Zhuri WANG,04 SEP 1980,CHN,q,Shanghai (CHN),17 OCT 1997,1128,triple-jump,jumps,female,u20
-75,14.10,+1.0,Tetyana DYACHENKO,25 JAN 1986,UKR,1,Tula (RUS),26 JUN 2005,1128,triple-jump,jumps,female,u20
-75,14.10,,Josleidy RIBALTA,02 MAY 1990,CUB,1,La Habana (CUB),11 JUN 2009,1128,triple-jump,jumps,female,u20
-75,14.10,+1.4,Dailenys ALCÁNTARA,10 AUG 1991,CUB,2,La Habana (CUB),03 JUL 2010,1128,triple-jump,jumps,female,u20
-75,14.10,+0.4,Yang YANG,23 AUG 2001,CHN,1,"Guangdong Ersha Sports Training Center, Guangzhou (CHN)",30 MAY 2020,1128,triple-jump,jumps,female,u20
-80,14.09,+1.3,Mabel GAY,05 MAY 1983,CUB,1,"National Stadium, Kingston (JAM)",17 JUL 2002,1127,triple-jump,jumps,female,u20
-80,14.09,+0.7,Limei XIE,27 JUN 1986,CHN,1,"New York, NY (USA)",11 JUN 2005,1127,triple-jump,jumps,female,u20
-80,14.09,+2.0,Dailenys ALCÁNTARA,10 AUG 1991,CUB,1,"Croix-Bleue Medavie Stadium, Moncton (CAN)",22 JUL 2010,1127,triple-jump,jumps,female,u20
-80,14.09,,Rong WANG,01 JUL 1996,CHN,1,Nanjing (CHN) (i),07 MAR 2013,1127,triple-jump,jumps,female,u20
-80,14.09,+0.3,Sharifa DAVRONOVA,27 SEP 2006,UZB,1,"HOC Stadium, Hangzhou (CHN)",04 OCT 2023,1127,triple-jump,jumps,female,u20
-85,14.08,+1.9,Limei XIE,27 JUN 1986,CHN,2,Tianjin (CHN),30 JUL 2004,1126,triple-jump,jumps,female,u20
-85,14.08,0.0,Liadagmis POVEA,06 FEB 1996,CUB,2,Edmonton (CAN),02 AUG 2015,1126,triple-jump,jumps,female,u20
-85,14.08,0.0,Davisleydi VELAZCO,04 SEP 1999,CUB,1,La Habana (CUB),28 MAY 2016,1126,triple-jump,jumps,female,u20
-85,14.08,0.0,Leyanis PÉREZ HERNÁNDEZ,10 JAN 2002,CUB,1,"Estadio Panamericano, La Habana (CUB)",06 MAR 2021,1126,triple-jump,jumps,female,u20
-85,14.08,+0.1,Erika Giorgia Anoeta SARACENI,21 MAY 2006,ITA,3f1,"Estadio Vallehermoso, Madrid (ESP)",28 JUN 2025,1126,triple-jump,jumps,female,u20
-90,14.07,+0.8,Li JING,10 JUL 1979,CHN,4,Shanghai (CHN),19 OCT 1997,1125,triple-jump,jumps,female,u20
-90,14.07,+1.4,Shaohua YU,04 JAN 1985,CHN,1,Deyang (CHN),14 MAY 2002,1125,triple-jump,jumps,female,u20
-90,14.07,0.0,Ana PELETEIRO,02 DEC 1995,ESP,1,Salamanca (ESP),12 JUN 2014,1125,triple-jump,jumps,female,u20
-90,14.07,0.0,Liadagmis POVEA,06 FEB 1996,CUB,1,La Habana (CUB),06 MAR 2015,1125,triple-jump,jumps,female,u20
-94,14.06,-0.1,Qiuyan HUANG,25 JAN 1980,CHN,7,Nice (FRA),16 JUL 1998,1124,triple-jump,jumps,female,u20
-94,14.06,,Cristina-Ioana BUJIN,12 APR 1988,ROU,1,Bucureşti (ROU) (i),28 JAN 2006,1124,triple-jump,jumps,female,u20
-94,14.06,,Xiaohong LI,08 JAN 1995,CHN,2,Nanjing (CHN) (i),07 MAR 2013,1124,triple-jump,jumps,female,u20
-94,14.06,+0.7,Leyanis PÉREZ HERNÁNDEZ,10 JAN 2002,CUB,1,"Estadio Panamericano, La Habana (CUB)",27 FEB 2021,1124,triple-jump,jumps,female,u20
-98,14.05,,Mabel GAY,05 MAY 1983,CUB,1,Santiago de Cuba (CUB),07 JUL 2001,1122,triple-jump,jumps,female,u20
-98,14.05,0.0,Limei XIE,27 JUN 1986,CHN,2,Changsha (CHN),26 JUN 2005,1122,triple-jump,jumps,female,u20
-98,14.05,+0.3,Tingting XU,12 JUL 1989,CHN,3,Hanoi (VIE),30 JUN 2008,1122,triple-jump,jumps,female,u20
-98,14.05,-0.2,Tingting XU,12 JUL 1989,CHN,1,Zhaoqing (CHN),09 NOV 2008,1123,triple-jump,jumps,female,u20
-98,14.05,+0.2,Valeriya KANATOVA,29 AUG 1992,UZB,,Kobe (JPN),09 JUL 2011,1122,triple-jump,jumps,female,u20
-98,14.05,+0.8,Maja ÅSKAG,18 DEC 2002,SWE,1,"Kadrioru staadion, Tallinn (EST)",16 JUL 2021,1122,triple-jump,jumps,female,u20
-104,14.04,-0.3,Baya RAHOULI,27 JUL 1979,ALG,1,"Parc des Sports, Annecy (FRA)",02 AUG 1998,1122,triple-jump,jumps,female,u20
-104,14.04,+0.7,Tetyana DYACHENKO,25 JAN 1986,UKR,1,"S. Darius & S. Girėnas Stadium, Kaunas (LTU)",22 JUL 2005,1121,triple-jump,jumps,female,u20
-104,14.04,+0.6,Kaire LEIBAK,21 MAY 1988,EST,,Valga (EST),13 JUN 2007,1121,triple-jump,jumps,female,u20
-104,14.04,0.0,Sharifa DAVRONOVA,27 SEP 2006,UZB,1,"Pascual Guerrero Stadium, Cali (COL)",06 AUG 2022,1121,triple-jump,jumps,female,u20
-108,14.03,0.0,Li JING,10 JUL 1979,CHN,q,Shanghai (CHN),17 OCT 1997,1120,triple-jump,jumps,female,u20
-108,14.03,,Anastasiya ILYINA,16 JAN 1982,RUS,5,Samara (RUS) (i),01 FEB 2001,1120,triple-jump,jumps,female,u20
-108,14.03,,Yudelkis FERNÁNDEZ,28 FEB 1985,CUB,1,La Habana (CUB),20 JUN 2003,1120,triple-jump,jumps,female,u20
-108,14.03,,Cristine SPATARU,04 FEB 1986,ROU,1,Bacãu (ROU) (i),28 FEB 2004,1120,triple-jump,jumps,female,u20
-108,14.03,+1.4,Tetyana DYACHENKO,25 JAN 1986,UKR,1,Yalta (UKR),27 MAY 2005,1120,triple-jump,jumps,female,u20
-108,14.03,+1.6,Yufei CHEN,26 JAN 1989,CHN,1,Taian (CHN),03 NOV 2008,1120,triple-jump,jumps,female,u20
-114,14.02,+1.4,Tereza MARINOVA,25 SEP 1977,BUL,1,Nis (SRB),31 AUG 1996,1119,triple-jump,jumps,female,u20
-114,14.02,-1.3,Mabel GAY,05 MAY 1983,CUB,2,La Habana (CUB),30 JUL 2000,1126,triple-jump,jumps,female,u20
-114,14.02,,Cristina-Ioana BUJIN,12 APR 1988,ROU,1,Bucureşti (ROU) (i),19 FEB 2006,1119,triple-jump,jumps,female,u20
-114,14.02,,Marina DIMITROVA,12 NOV 1991,BUL,1,Pireaus (GRE) (i),21 FEB 2007,1119,triple-jump,jumps,female,u20
-114,14.02,0.0,Kristin GIERISCH,20 AUG 1990,GER,1,Göttingen (GER),28 JUN 2009,1119,triple-jump,jumps,female,u20
-114,14.02,+1.2,Liadagmis POVEA,06 FEB 1996,CUB,,"Hayward Field, Eugene, OR (USA)",26 JUL 2014,1119,triple-jump,jumps,female,u20
-120,14.01,-0.3,Qiuyan HUANG,25 JAN 1980,CHN,q,Shanghai (CHN),17 OCT 1997,1119,triple-jump,jumps,female,u20
-120,14.01,,Mabel GAY,05 MAY 1983,CUB,1,La Habana (CUB),19 APR 2002,1118,triple-jump,jumps,female,u20
-120,14.01,+1.8,Erica MCLAIN,24 JAN 1986,USA,1,"Carson, CA (USA)",26 JUN 2005,1118,triple-jump,jumps,female,u20
-120,14.01,+0.8,Li SHA,14 AUG 1988,CHN,2,"Chaoyang Sport Center, Beijing (CHN)",17 AUG 2006,1118,triple-jump,jumps,female,u20
-120,14.01,+0.6,Liliya KULIK,27 JAN 1987,UKR,3,"Chaoyang Sport Center, Beijing (CHN)",17 AUG 2006,1118,triple-jump,jumps,female,u20
-120,14.01,+0.5,Erika Giorgia Anoeta SARACENI,21 MAY 2006,ITA,2,"Centro Sportivo Fontanassa, Savona (ITA)",21 MAY 2025,1118,triple-jump,jumps,female,u20
-126,14.00,0.0,Anna PYATYKH,04 APR 1981,RUS,1,Krasnodar (RUS),17 SEP 2000,1117,triple-jump,jumps,female,u20
-126,14.00,+0.8,Keila COSTA,06 FEB 1983,BRA,,Sâo Caetano do Sul (BRA),21 APR 2001,1117,triple-jump,jumps,female,u20
-126,14.00,+1.4,Mabel GAY,05 MAY 1983,CUB,1,La Habana (CUB),12 APR 2002,1117,triple-jump,jumps,female,u20
-126,14.00,,Sun YAN,30 MAR 1991,CHN,1,Beijing (CHN),13 MAY 2010,1117,triple-jump,jumps,female,u20
-126,14.00,+1.0,Yana BORODINA,21 APR 1992,RUS,1,"Kadrioru staadion, Tallinn (EST)",22 JUL 2011,1117,triple-jump,jumps,female,u20
-126,14.00,0.0,Liadagmis POVEA,06 FEB 1996,CUB,2,La Habana (CUB),28 MAY 2015,1117,triple-jump,jumps,female,u20
-126,14.00,-0.6,Aleksandra NACHEVA,20 AUG 2001,BUL,1,Sofia (BUL),17 JUN 2018,1120,triple-jump,jumps,female,u20
-126,14.00,-2.4,Spyridoula KARYDI,30 JAN 2001,GRE,1,"Ryavallen, Borås (SWE)",20 JUL 2019,1131,triple-jump,jumps,female,u20
+33,14.24,0.0,Erika Giorgia Anoeta SARACENI,21 MAY 2006,ITA,1f1,"Ratinan Stadion, Tampere (FIN)",08 AUG 2025,1142,triple-jump,jumps,female,u20
+36,14.23,0.0,Jiahui LI,08 AUG 1979,CHN,1,Bangkok (THA),06 NOV 1997,1141,triple-jump,jumps,female,u20
+36,14.23,+1.1,Dailenys ALCÁNTARA,10 AUG 1991,CUB,3f1,"Estadio Panamericano, La Habana (CUB)",06 FEB 2009,1141,triple-jump,jumps,female,u20
+38,14.22,+1.0,Nubia SOARES,26 MAR 1996,BRA,1,São Paulo (BRA),12 OCT 2014,1140,triple-jump,jumps,female,u20
+39,14.21,+1.8,Dailenys ALCÁNTARA,10 AUG 1991,CUB,1,La Habana (CUB),01 MAR 2007,1139,triple-jump,jumps,female,u20
+40,14.20,+1.6,Tereza MARINOVA,25 SEP 1977,BUL,1q2,"SIAC Homebush, Sydney (AUS)",24 AUG 1996,1138,triple-jump,jumps,female,u20
+40,14.20,0.0,Qiuyan HUANG,25 JAN 1980,CHN,1,Guangzhou (CHN),26 MAR 1998,1138,triple-jump,jumps,female,u20
+40,14.20,+1.8,Rouguy DIALLO,05 FEB 1995,FRA,,"Hayward Field, Eugene, OR (USA)",26 JUL 2014,1138,triple-jump,jumps,female,u20
+40,14.20,-0.1,Leyanis PÉREZ HERNÁNDEZ,10 JAN 2002,CUB,1,"Stadio G. Teghil, Lignano Sabbiadoro (ITA)",03 JUL 2021,1138,triple-jump,jumps,female,u20
+44,14.19,+2.0,Anna PYATYKH,04 APR 1981,RUS,1,Lapinlahti (FIN),16 JUL 2000,1137,triple-jump,jumps,female,u20
+44,14.19,-1.2,Anastasiya ILYINA,16 JAN 1982,RUS,2,Chania (GRE),04 JUN 2001,1144,triple-jump,jumps,female,u20
+44,14.19,+1.9,Dailenys ALCÁNTARA,10 AUG 1991,CUB,1,La Habana (CUB),04 JUN 2010,1137,triple-jump,jumps,female,u20
+44,14.19,+1.9,Sharifa DAVRONOVA,27 SEP 2006,UZB,1,"Olympic Training Base, Almaty (KAZ)",03 AUG 2025,1137,triple-jump,jumps,female,u20
+48,14.18,,Yevgeniya STAVCHANSKA,25 SEP 1981,UKR,2,Lviv (UKR) (i),07 FEB 1999,1136,triple-jump,jumps,female,u20
+48,14.18,+1.2,Anna PYATYKH,04 APR 1981,RUS,2,"E.Nacional, Santiago de Chile (CHI)",21 OCT 2000,1136,triple-jump,jumps,female,u20
+48,14.18,-0.1,Anastasiya ILYINA,16 JAN 1982,RUS,4,Athina (GRE),11 JUN 2001,1136,triple-jump,jumps,female,u20
+48,14.18,+0.7,Mabel GAY,05 MAY 1983,CUB,1,Ciudad de Guatemala (GUA),12 MAY 2002,1136,triple-jump,jumps,female,u20
+48,14.18,+1.6,Aleksandra NACHEVA,20 AUG 2001,BUL,1,"Ratinan Stadion, Tampere (FIN)",15 JUL 2018,1136,triple-jump,jumps,female,u20
+53,14.17,,Ruiping REN,01 FEB 1976,CHN,1q1,"Palau Sant Jordi, Barcelona (ESP) (i)",10 MAR 1995,1135,triple-jump,jumps,female,u20
+53,14.17,0.0,Qiuyan HUANG,25 JAN 1980,CHN,2,Shijiazhuang (CHN),26 APR 1998,1135,triple-jump,jumps,female,u20
+53,14.17,-1.0,Ana PELETEIRO,02 DEC 1995,ESP,1,"Estadio Olímpico, Barcelona (ESP)",12 JUL 2012,1141,triple-jump,jumps,female,u20
+53,14.17,+1.6,Dovilė DZINDZALETAITĖ,14 JUL 1993,LTU,2,"Estadio Olímpico, Barcelona (ESP)",12 JUL 2012,1135,triple-jump,jumps,female,u20
+57,14.15,+0.3,Anna PYATYKH,04 APR 1981,RUS,1q2,"E.Nacional, Santiago de Chile (CHI)",20 OCT 2000,1133,triple-jump,jumps,female,u20
+57,14.15,,Anastasiya ILYINA,16 JAN 1982,RUS,1,Kazan (RUS),28 JUN 2001,1133,triple-jump,jumps,female,u20
+57,14.15,-0.2,Tingting XU,12 JUL 1989,CHN,1,Shijiazhuang (CHN),12 OCT 2008,1134,triple-jump,jumps,female,u20
+57,14.15,+1.8,Keturah ORJI,05 MAR 1996,USA,1,"Eugene, OR (USA)",13 JUN 2015,1133,triple-jump,jumps,female,u20
+57,14.15,+0.7,Leyanis PÉREZ HERNÁNDEZ,10 JAN 2002,CUB,3,"Estadio Panamericano, La Habana (CUB)",21 MAR 2020,1133,triple-jump,jumps,female,u20
+62,14.14,+1.1,Anastasiya ZHURAVLYEVA,09 OCT 1981,UZB,2,Busan (KOR),15 MAY 1997,1132,triple-jump,jumps,female,u20
+62,14.14,+1.9,Anastasiya KOBYLYANSKIKH,17 AUG 2006,RUS,2,"Regional Sport Complex, Brest (BLR)",13 JUL 2025,1132,triple-jump,jumps,female,u20
+64,14.13,+1.3,Jiahui LI,08 AUG 1979,CHN,3,Shanghai (CHN),19 OCT 1997,1131,triple-jump,jumps,female,u20
+64,14.13,,Anastasiya ILYINA,16 JAN 1982,RUS,1,Moskva (RUS) (i),14 FEB 2001,1131,triple-jump,jumps,female,u20
+64,14.13,+0.2,Anastasiya ILYINA,16 JAN 1982,RUS,1,Krasnodar (RUS),23 MAY 2001,1131,triple-jump,jumps,female,u20
+64,14.13,+2.0,Blessing OKAGBARE,09 OCT 1988,NGR,1,Lagos (NGR),19 MAY 2007,1131,triple-jump,jumps,female,u20
+64,14.13,0.0,Dailenys ALCÁNTARA,10 AUG 1991,CUB,2,La Habana (CUB),20 JUN 2008,1131,triple-jump,jumps,female,u20
+64,14.13,+0.5,Leyanis PÉREZ HERNÁNDEZ,10 JAN 2002,CUB,2,La Habana (CUB),18 MAY 2019,1131,triple-jump,jumps,female,u20
+64,14.13,+1.4,Aleksandra NACHEVA,20 AUG 2001,BUL,,Pitesti (ROU),21 JUN 2019,1131,triple-jump,jumps,female,u20
+71,14.12,,Qiuyan HUANG,25 JAN 1980,CHN,1,Tianjin (CHN) (i),21 FEB 1998,1130,triple-jump,jumps,female,u20
+71,14.12,+0.8,Anastasiya ILYINA,16 JAN 1982,RUS,1,"Stadio Zecchini, Grosseto (ITA)",20 JUL 2001,1130,triple-jump,jumps,female,u20
+71,14.12,+0.1,Spyridoula KARYDI,30 JAN 2001,GRE,1,"Grigoris Lambrakis Stadium, Kallithea, Athina (GRE)",22 JUL 2020,1130,triple-jump,jumps,female,u20
+74,14.11,+0.4,Anastasiya POTAPOVA,06 SEP 1985,RUS,1,Cheboksary (RUS),28 JUN 2004,1129,triple-jump,jumps,female,u20
+74,14.11,+0.2,Dailenys ALCÁNTARA,10 AUG 1991,CUB,4,La Habana (CUB),01 JUN 2008,1129,triple-jump,jumps,female,u20
+76,14.10,+1.4,Zhuri WANG,04 SEP 1980,CHN,q,Shanghai (CHN),17 OCT 1997,1128,triple-jump,jumps,female,u20
+76,14.10,+1.0,Tetyana DYACHENKO,25 JAN 1986,UKR,1,Tula (RUS),26 JUN 2005,1128,triple-jump,jumps,female,u20
+76,14.10,,Josleidy RIBALTA,02 MAY 1990,CUB,1,La Habana (CUB),11 JUN 2009,1128,triple-jump,jumps,female,u20
+76,14.10,+1.4,Dailenys ALCÁNTARA,10 AUG 1991,CUB,2,La Habana (CUB),03 JUL 2010,1128,triple-jump,jumps,female,u20
+76,14.10,+0.4,Yang YANG,23 AUG 2001,CHN,1,"Guangdong Ersha Sports Training Center, Guangzhou (CHN)",30 MAY 2020,1128,triple-jump,jumps,female,u20
+81,14.09,+1.3,Mabel GAY,05 MAY 1983,CUB,1,"National Stadium, Kingston (JAM)",17 JUL 2002,1127,triple-jump,jumps,female,u20
+81,14.09,+0.7,Limei XIE,27 JUN 1986,CHN,1,"New York, NY (USA)",11 JUN 2005,1127,triple-jump,jumps,female,u20
+81,14.09,+2.0,Dailenys ALCÁNTARA,10 AUG 1991,CUB,1,"Croix-Bleue Medavie Stadium, Moncton (CAN)",22 JUL 2010,1127,triple-jump,jumps,female,u20
+81,14.09,,Rong WANG,01 JUL 1996,CHN,1,Nanjing (CHN) (i),07 MAR 2013,1127,triple-jump,jumps,female,u20
+81,14.09,+0.3,Sharifa DAVRONOVA,27 SEP 2006,UZB,1,"HOC Stadium, Hangzhou (CHN)",04 OCT 2023,1127,triple-jump,jumps,female,u20
+86,14.08,+1.9,Limei XIE,27 JUN 1986,CHN,2,Tianjin (CHN),30 JUL 2004,1126,triple-jump,jumps,female,u20
+86,14.08,0.0,Liadagmis POVEA,06 FEB 1996,CUB,2,Edmonton (CAN),02 AUG 2015,1126,triple-jump,jumps,female,u20
+86,14.08,0.0,Davisleydi VELAZCO,04 SEP 1999,CUB,1,La Habana (CUB),28 MAY 2016,1126,triple-jump,jumps,female,u20
+86,14.08,0.0,Leyanis PÉREZ HERNÁNDEZ,10 JAN 2002,CUB,1,"Estadio Panamericano, La Habana (CUB)",06 MAR 2021,1126,triple-jump,jumps,female,u20
+86,14.08,+0.1,Erika Giorgia Anoeta SARACENI,21 MAY 2006,ITA,3f1,"Estadio Vallehermoso, Madrid (ESP)",28 JUN 2025,1126,triple-jump,jumps,female,u20
+91,14.07,+0.8,Li JING,10 JUL 1979,CHN,4,Shanghai (CHN),19 OCT 1997,1125,triple-jump,jumps,female,u20
+91,14.07,+1.4,Shaohua YU,04 JAN 1985,CHN,1,Deyang (CHN),14 MAY 2002,1125,triple-jump,jumps,female,u20
+91,14.07,0.0,Ana PELETEIRO,02 DEC 1995,ESP,1,Salamanca (ESP),12 JUN 2014,1125,triple-jump,jumps,female,u20
+91,14.07,0.0,Liadagmis POVEA,06 FEB 1996,CUB,1,La Habana (CUB),06 MAR 2015,1125,triple-jump,jumps,female,u20
+95,14.06,-0.1,Qiuyan HUANG,25 JAN 1980,CHN,7,Nice (FRA),16 JUL 1998,1124,triple-jump,jumps,female,u20
+95,14.06,,Cristina-Ioana BUJIN,12 APR 1988,ROU,1,Bucureşti (ROU) (i),28 JAN 2006,1124,triple-jump,jumps,female,u20
+95,14.06,,Xiaohong LI,08 JAN 1995,CHN,2,Nanjing (CHN) (i),07 MAR 2013,1124,triple-jump,jumps,female,u20
+95,14.06,+0.7,Leyanis PÉREZ HERNÁNDEZ,10 JAN 2002,CUB,1,"Estadio Panamericano, La Habana (CUB)",27 FEB 2021,1124,triple-jump,jumps,female,u20
+99,14.05,,Mabel GAY,05 MAY 1983,CUB,1,Santiago de Cuba (CUB),07 JUL 2001,1122,triple-jump,jumps,female,u20
+99,14.05,0.0,Limei XIE,27 JUN 1986,CHN,2,Changsha (CHN),26 JUN 2005,1122,triple-jump,jumps,female,u20
+99,14.05,+0.3,Tingting XU,12 JUL 1989,CHN,3,Hanoi (VIE),30 JUN 2008,1122,triple-jump,jumps,female,u20
+99,14.05,-0.2,Tingting XU,12 JUL 1989,CHN,1,Zhaoqing (CHN),09 NOV 2008,1123,triple-jump,jumps,female,u20
+99,14.05,+0.2,Valeriya KANATOVA,29 AUG 1992,UZB,,Kobe (JPN),09 JUL 2011,1122,triple-jump,jumps,female,u20
+99,14.05,+0.8,Maja ÅSKAG,18 DEC 2002,SWE,1,"Kadrioru staadion, Tallinn (EST)",16 JUL 2021,1122,triple-jump,jumps,female,u20
+105,14.04,-0.3,Baya RAHOULI,27 JUL 1979,ALG,1,"Parc des Sports, Annecy (FRA)",02 AUG 1998,1122,triple-jump,jumps,female,u20
+105,14.04,+0.7,Tetyana DYACHENKO,25 JAN 1986,UKR,1,"S. Darius & S. Girėnas Stadium, Kaunas (LTU)",22 JUL 2005,1121,triple-jump,jumps,female,u20
+105,14.04,+0.6,Kaire LEIBAK,21 MAY 1988,EST,,Valga (EST),13 JUN 2007,1121,triple-jump,jumps,female,u20
+105,14.04,0.0,Sharifa DAVRONOVA,27 SEP 2006,UZB,1,"Pascual Guerrero Stadium, Cali (COL)",06 AUG 2022,1121,triple-jump,jumps,female,u20
+109,14.03,0.0,Li JING,10 JUL 1979,CHN,q,Shanghai (CHN),17 OCT 1997,1120,triple-jump,jumps,female,u20
+109,14.03,,Anastasiya ILYINA,16 JAN 1982,RUS,5,Samara (RUS) (i),01 FEB 2001,1120,triple-jump,jumps,female,u20
+109,14.03,,Yudelkis FERNÁNDEZ,28 FEB 1985,CUB,1,La Habana (CUB),20 JUN 2003,1120,triple-jump,jumps,female,u20
+109,14.03,,Cristine SPATARU,04 FEB 1986,ROU,1,Bacãu (ROU) (i),28 FEB 2004,1120,triple-jump,jumps,female,u20
+109,14.03,+1.4,Tetyana DYACHENKO,25 JAN 1986,UKR,1,Yalta (UKR),27 MAY 2005,1120,triple-jump,jumps,female,u20
+109,14.03,+1.6,Yufei CHEN,26 JAN 1989,CHN,1,Taian (CHN),03 NOV 2008,1120,triple-jump,jumps,female,u20
+115,14.02,+1.4,Tereza MARINOVA,25 SEP 1977,BUL,1,Nis (SRB),31 AUG 1996,1119,triple-jump,jumps,female,u20
+115,14.02,-1.3,Mabel GAY,05 MAY 1983,CUB,2,La Habana (CUB),30 JUL 2000,1126,triple-jump,jumps,female,u20
+115,14.02,,Cristina-Ioana BUJIN,12 APR 1988,ROU,1,Bucureşti (ROU) (i),19 FEB 2006,1119,triple-jump,jumps,female,u20
+115,14.02,,Marina DIMITROVA,12 NOV 1991,BUL,1,Pireaus (GRE) (i),21 FEB 2007,1119,triple-jump,jumps,female,u20
+115,14.02,0.0,Kristin GIERISCH,20 AUG 1990,GER,1,Göttingen (GER),28 JUN 2009,1119,triple-jump,jumps,female,u20
+115,14.02,+1.2,Liadagmis POVEA,06 FEB 1996,CUB,,"Hayward Field, Eugene, OR (USA)",26 JUL 2014,1119,triple-jump,jumps,female,u20
+121,14.01,-0.3,Qiuyan HUANG,25 JAN 1980,CHN,q,Shanghai (CHN),17 OCT 1997,1119,triple-jump,jumps,female,u20
+121,14.01,,Mabel GAY,05 MAY 1983,CUB,1,La Habana (CUB),19 APR 2002,1118,triple-jump,jumps,female,u20
+121,14.01,+1.8,Erica MCLAIN,24 JAN 1986,USA,1,"Carson, CA (USA)",26 JUN 2005,1118,triple-jump,jumps,female,u20
+121,14.01,+0.8,Li SHA,14 AUG 1988,CHN,2,"Chaoyang Sport Center, Beijing (CHN)",17 AUG 2006,1118,triple-jump,jumps,female,u20
+121,14.01,+0.6,Liliya KULIK,27 JAN 1987,UKR,3,"Chaoyang Sport Center, Beijing (CHN)",17 AUG 2006,1118,triple-jump,jumps,female,u20
+121,14.01,+0.5,Erika Giorgia Anoeta SARACENI,21 MAY 2006,ITA,2,"Centro Sportivo Fontanassa, Savona (ITA)",21 MAY 2025,1118,triple-jump,jumps,female,u20
+127,14.00,0.0,Anna PYATYKH,04 APR 1981,RUS,1,Krasnodar (RUS),17 SEP 2000,1117,triple-jump,jumps,female,u20
+127,14.00,+0.8,Keila COSTA,06 FEB 1983,BRA,,Sâo Caetano do Sul (BRA),21 APR 2001,1117,triple-jump,jumps,female,u20
+127,14.00,+1.4,Mabel GAY,05 MAY 1983,CUB,1,La Habana (CUB),12 APR 2002,1117,triple-jump,jumps,female,u20
+127,14.00,,Sun YAN,30 MAR 1991,CHN,1,Beijing (CHN),13 MAY 2010,1117,triple-jump,jumps,female,u20
+127,14.00,+1.0,Yana BORODINA,21 APR 1992,RUS,1,"Kadrioru staadion, Tallinn (EST)",22 JUL 2011,1117,triple-jump,jumps,female,u20
+127,14.00,0.0,Liadagmis POVEA,06 FEB 1996,CUB,2,La Habana (CUB),28 MAY 2015,1117,triple-jump,jumps,female,u20
+127,14.00,-0.6,Aleksandra NACHEVA,20 AUG 2001,BUL,1,Sofia (BUL),17 JUN 2018,1120,triple-jump,jumps,female,u20
+127,14.00,-2.4,Spyridoula KARYDI,30 JAN 2001,GRE,1,"Ryavallen, Borås (SWE)",20 JUL 2019,1131,triple-jump,jumps,female,u20
+127,14.00,+0.2,Erika Giorgia Anoeta SARACENI,21 MAY 2006,ITA,1q1,"Ratinan Stadion, Tampere (FIN)",07 AUG 2025,1117,triple-jump,jumps,female,u20

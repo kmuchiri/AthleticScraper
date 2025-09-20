@@ -28,659 +28,672 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 27,38:15.86,,Koki IKEDA,03 MAY 1998,JPN,1,"Nagaragawa Stadium, Gifu (JPN)",24 SEP 2022,1204,10000-metres-race-walk,race-walks,male,senior
 28,38:18.55,,Gabriel BORDIER,08 OCT 1997,FRA,1,"Stade Helitas, Caen (FRA)",26 JUN 2022,1202,10000-metres-race-walk,race-walks,male,senior
 29,38:19.03,,Danila MARTYNOV,01 MAY 2004,RUS,2,"Meteor, Zhukovskiy (RUS)",21 JUN 2025,1201,10000-metres-race-walk,race-walks,male,senior
-30,38:20.0h,,Moacir ZIMMERMANN,30 DEC 1983,BRA,1,Blumenau (BRA),07 JUN 2008,1200,10000-metres-race-walk,race-walks,male,senior
-31,38:20.9h,,David SMITH,24 JUL 1955,AUS,1,Sydney (AUS),15 SEP 1985,1200,10000-metres-race-walk,race-walks,male,senior
-32,38:21.88,,Eiki TAKAHASHI,19 NOV 1992,JPN,1,Kitakami (JPN),09 OCT 2016,1199,10000-metres-race-walk,race-walks,male,senior
-33,38:23.73,,Zhen WANG,24 AUG 1991,CHN,1,Genova (ITA),08 FEB 2015,1198,10000-metres-race-walk,race-walks,male,senior
-34,38:23.95,,Masatora KAWANO,23 OCT 1998,JPN,4,"Juntendo University Stadium, Inzai (JPN)",14 NOV 2020,1198,10000-metres-race-walk,race-walks,male,senior
-35,38:24.31,,Hatem GHOULA,07 JUN 1973,TUN,,Tunis (TUN),30 MAY 1998,1197,10000-metres-race-walk,race-walks,male,senior
-36,38:25.42,,Evan DUNFEE,28 SEP 1990,CAN,1,"AIS Athletics Track, Canberra (AUS)",28 JAN 2024,1196,10000-metres-race-walk,race-walks,male,senior
-37,38:26.4h,,Daniel GARCÍA CORDOVA,28 OCT 1971,MEX,1,Sønder Omme (DEN),17 MAY 1997,1196,10000-metres-race-walk,race-walks,male,senior
-38,38:26.53,,Robert KORZENIOWSKI,30 JUL 1968,POL,1,Riga (LAT),31 MAY 2002,1196,10000-metres-race-walk,race-walks,male,senior
-39,38:27.09,,Yusuke SUZUKI,02 JAN 1988,JPN,1,Yamaguchi (JPN),11 OCT 2014,1195,10000-metres-race-walk,race-walks,male,senior
-40,38:27.34,,Toshikazu YAMANISHI,15 FEB 1996,JPN,1,"Ishin Me-Life Stadium, Yamaguchi (JPN)",22 SEP 2024,1195,10000-metres-race-walk,race-walks,male,senior
-41,38:27.57,,Robert HEFFERNAN,28 FEB 1978,IRL,1,Dublin (IRL),19 JUL 2008,1195,10000-metres-race-walk,race-walks,male,senior
-42,38:28.05,,Massimo STANO,27 FEB 1992,ITA,1,Roma (ITA),28 APR 2019,1195,10000-metres-race-walk,race-walks,male,senior
-43,38:28.19,,Eiki TAKAHASHI,19 NOV 1992,JPN,1,"Municipal Stadium, Sasebo (JPN)",08 DEC 2019,1194,10000-metres-race-walk,race-walks,male,senior
-44,38:28.29,,Sergey KOZHEVNIKOV,09 MAY 2001,RUS,3,"Kalininets Stadium, Yekaterinburg (RUS)",18 AUG 2024,1194,10000-metres-race-walk,race-walks,male,senior
-45,38:28.63,,Vasiliy MIZINOV,29 DEC 1997,RUS,1,"Yelena Yelesina Stadium, Chelyabinsk (RUS)",03 AUG 2023,1194,10000-metres-race-walk,race-walks,male,senior
-46,38:30.38,,Zhen WANG,24 AUG 1991,CHN,1,Tianjin (CHN),16 SEP 2012,1193,10000-metres-race-walk,race-walks,male,senior
-47,38:30.61,,Dane BIRD-SMITH,15 JUL 1992,AUS,1,Sydney (AUS),05 APR 2019,1193,10000-metres-race-walk,race-walks,male,senior
-48,38:30.91,,David HURTADO,21 APR 1999,ECU,,"Pedro Grajales, Cali (COL)",29 JUN 2024,1192,10000-metres-race-walk,race-walks,male,senior
-49,38:31.24,,Declan TINGAY,06 FEB 1999,AUS,2,"AIS Athletics Track, Canberra (AUS)",27 JAN 2025,1192,10000-metres-race-walk,race-walks,male,senior
-50,38:31.4h,,Werner HEYER,14 NOV 1956,GDR,1,Berlin (GER) (i),12 JAN 1980,1192,10000-metres-race-walk,race-walks,male,senior
-51,38:32.0h,,Erik TYSSE,04 DEC 1980,NOR,1,Bergen (NOR),13 JUN 2008,1192,10000-metres-race-walk,race-walks,male,senior
-52,38:33.10,,Anton KURBATOV,02 OCT 2001,RUS,2,"Olympic Stadium, Cheboksary (RUS)",02 AUG 2022,1191,10000-metres-race-walk,race-walks,male,senior
-53,38:33.38,,Maksim BOYKO,08 AUG 2003,RUS,3,"Meteor, Zhukovskiy (RUS)",21 JUN 2025,1191,10000-metres-race-walk,race-walks,male,senior
-54,38:34.23,,Dane BIRD-SMITH,15 JUL 1992,AUS,1,Sydney (AUS),31 MAR 2017,1190,10000-metres-race-walk,race-walks,male,senior
-55,38:35.43,,Perseus KARLSTRÖM,02 MAY 1990,SWE,2,"AIS Athletics Track, Canberra (AUS)",02 FEB 2023,1189,10000-metres-race-walk,race-walks,male,senior
-56,38:35.50,,Ronald WEIGEL,08 AUG 1959,GDR,2,Berlin (GER) (i),12 JAN 1980,1189,10000-metres-race-walk,race-walks,male,senior
-57,38:36.37,,Evan DUNFEE,28 SEP 1990,CAN,1,"Alexander Stadium, Birmingham (GBR)",07 AUG 2022,1188,10000-metres-race-walk,race-walks,male,senior
-58,38:37.02,,Kevin CAMPION,23 MAY 1988,FRA,1,Paris (FRA),13 JUL 2013,1188,10000-metres-race-walk,race-walks,male,senior
-59,38:37.6h,,Jefferson PÉREZ,01 JUL 1974,ECU,1,Bergen (NOR),09 MAY 1998,1187,10000-metres-race-walk,race-walks,male,senior
-60,38:37.90,,Walter ARENA,30 MAY 1964,ITA,1,Catania (ITA),13 APR 1990,1187,10000-metres-race-walk,race-walks,male,senior
-61,38:38.23,,Keisuke HARA,04 MAR 2002,JPN,1,"Yanmar Stadium Nagai, Osaka (JPN)",06 MAY 2025,1187,10000-metres-race-walk,race-walks,male,senior
-62,38:39.28,,Perseus KARLSTRÖM,02 MAY 1990,SWE,1,Tampere (FIN),01 SEP 2018,1186,10000-metres-race-walk,race-walks,male,senior
-63,38:39.72,,Evan DUNFEE,28 SEP 1990,CAN,1,"Swangard Stadium, Burnaby (CAN)",12 JUN 2021,1186,10000-metres-race-walk,race-walks,male,senior
-64,38:40.04,,Koki IKEDA,03 MAY 1998,JPN,2,Kitami (JPN),07 JUL 2018,1186,10000-metres-race-walk,race-walks,male,senior
-65,38:40.18,,Giovanni DE BENEDICTIS,08 JAN 1968,ITA,1,Cesenatico (ITA),01 JUL 1995,1186,10000-metres-race-walk,race-walks,male,senior
-66,38:40.22,,Daisuke MATSUNAGA,24 MAR 1995,JPN,2,Kitakami (JPN),09 OCT 2016,1186,10000-metres-race-walk,race-walks,male,senior
-67,38:40.25,,Christopher LINKE,24 OCT 1988,GER,1,Bühlertal (GER),11 JUN 2016,1186,10000-metres-race-walk,race-walks,male,senior
-68,38:40.26,,Satoshi MARUO,28 NOV 1991,JPN,2,"Ishin Me-Life Stadium, Yamaguchi (JPN)",22 SEP 2024,1186,10000-metres-race-walk,race-walks,male,senior
-69,38:40.63,,Francesco FORTUNATO,13 DEC 1994,ITA,1,"Campo Coni, Avellino (ITA)",10 MAY 2025,1185,10000-metres-race-walk,race-walks,male,senior
-70,38:40.92,,Miguel Ángel LÓPEZ,03 JUL 1988,ESP,1,Cartagena (ESP),17 APR 2021,1185,10000-metres-race-walk,race-walks,male,senior
-71,38:41.17,,Andriy YURIN,20 JAN 1984,UKR,1,Kyiv (UKR),21 JUN 2005,1185,10000-metres-race-walk,race-walks,male,senior
-72,38:41.45,,Koki IKEDA,03 MAY 1998,JPN,1,"Denka Big Swan Stadium, Niigata (JPN)",12 SEP 2020,1185,10000-metres-race-walk,race-walks,male,senior
-73,38:42.33,,Declan TINGAY,06 FEB 1999,AUS,2,"Alexander Stadium, Birmingham (GBR)",07 AUG 2022,1184,10000-metres-race-walk,race-walks,male,senior
-74,38:42.38,,Francisco Javier FERNÁNDEZ,06 MAR 1977,ESP,1,Torremolinos (ESP),11 JUL 1999,1184,10000-metres-race-walk,race-walks,male,senior
-75,38:43.63,,Satoshi MARUO,28 NOV 1991,JPN,1,"Sunrise Park, Saga (JPN)",14 OCT 2024,1183,10000-metres-race-walk,race-walks,male,senior
-76,38:43.91,,Callum WILKINSON,14 MAR 1997,GBR,1,"Manchester Regional Arena, Manchester (GBR)",30 JUN 2024,1183,10000-metres-race-walk,race-walks,male,senior
-77,38:44.13,,Veli-Matti PARTANEN,28 OCT 1991,FIN,2,Tampere (FIN),01 SEP 2018,1183,10000-metres-race-walk,race-walks,male,senior
-78,38:44.61,,Dane BIRD-SMITH,15 JUL 1992,AUS,1,"SOPAC, Sydney (AUS)",01 APR 2016,1182,10000-metres-race-walk,race-walks,male,senior
-79,38:44.66,,David HURTADO,21 APR 1999,ECU,1,Guayaquil (ECU),18 APR 2021,1182,10000-metres-race-walk,race-walks,male,senior
-80,38:44.87,,Nathan DEAKES,17 AUG 1977,AUS,1,Canberra (AUS),08 FEB 2002,1182,10000-metres-race-walk,race-walks,male,senior
-81,38:44.88,,Sotaro OSAKA,31 JAN 2006,JPN,1,"Lemon Gas Stadium, Hiratsuka (JPN)",26 APR 2025,1182,10000-metres-race-walk,race-walks,male,senior
-82,38:44.97,,Yohann DINIZ,01 JAN 1978,FRA,1,Albi (FRA),29 JUL 2011,1182,10000-metres-race-walk,race-walks,male,senior
-83,38:46.4h,,Viktor BURAYEV,23 AUG 1982,RUS,1,Moskva (RUS),20 MAY 2000,1181,10000-metres-race-walk,race-walks,male,senior
-84,38:46.74,,Declan TINGAY,06 FEB 1999,AUS,1,"Queensland Sport and Athletics Centre, Nathan, Brisbane (AUS)",31 MAR 2023,1181,10000-metres-race-walk,race-walks,male,senior
-85,38:46.78,,Hiroto JUSHO,11 JAN 2000,JPN,1,"Municipal Stadium, Kitami (JPN)",06 JUL 2024,1181,10000-metres-race-walk,race-walks,male,senior
-86,38:46.99,,Kyle SWAN,28 MAR 1999,AUS,2,"AIS Athletics Track, Canberra (AUS)",28 JAN 2024,1181,10000-metres-race-walk,race-walks,male,senior
-87,38:47.13,,David SMITH,24 JUL 1955,AUS,1,Dubbo (AUS),30 DEC 1984,1180,10000-metres-race-walk,race-walks,male,senior
-88,38:47.54,,Roman MRÁZEK,21 JAN 1962,TCH,1,Bratislava (TCH),12 JUN 1987,1180,10000-metres-race-walk,race-walks,male,senior
-89,38:48.01,,Michele DIDONI,07 MAR 1974,ITA,2,Cesenatico (ITA),01 JUL 1995,1180,10000-metres-race-walk,race-walks,male,senior
-90,38:48.03,,Koki IKEDA,03 MAY 1998,JPN,3,"Ishin Me-Life Stadium, Yamaguchi (JPN)",22 SEP 2024,1180,10000-metres-race-walk,race-walks,male,senior
-91,38:49.21,,Sandeep KUMAR,01 MAY 1986,IND,3,"Alexander Stadium, Birmingham (GBR)",07 AUG 2022,1179,10000-metres-race-walk,race-walks,male,senior
-92,38:49.76,,Paul MCGRATH,07 MAR 2002,ESP,1,"Estadi Natalia Rodríguez, Tarragona (ESP)",01 AUG 2025,1179,10000-metres-race-walk,race-walks,male,senior
-93,38:49.9h,,Sergey KOZHEVNIKOV,09 MAY 2001,RUS,1,"Football and athletics Arena, Saransk (RUS) (i)",24 SEP 2023,1178,10000-metres-race-walk,race-walks,male,senior
-94,38:50.28,,Alex SCHWAZER,26 NOV 1984,ITA,1,Pergine Valsugana (ITA),23 JUL 2011,1178,10000-metres-race-walk,race-walks,male,senior
-95,38:50.37,,Masatora KAWANO,23 OCT 1998,JPN,3,Kitami (JPN),07 JUL 2018,1178,10000-metres-race-walk,race-walks,male,senior
-96,38:50.9h,,Perseus KARLSTRÖM,02 MAY 1990,SWE,1,Melbourne (AUS),12 JAN 2020,1178,10000-metres-race-walk,race-walks,male,senior
-97,38:51.00,,Veli-Matti PARTANEN,28 OCT 1991,FIN,1,"Leppävaaran Stadion, Espoo (FIN)",02 AUG 2025,1178,10000-metres-race-walk,race-walks,male,senior
-98,38:51.51,,Andreas ERM,12 MAR 1976,GER,1,Braunschweig (GER),10 JUL 2004,1177,10000-metres-race-walk,race-walks,male,senior
-99,38:51.71,,Francesco FORTUNATO,13 DEC 1994,ITA,1,"Campo Comunale N. Palladino, Campobasso (ITA)",24 MAR 2024,1177,10000-metres-race-walk,race-walks,male,senior
-100,38:52.4h,,Artur MELESHKEVICH,11 APR 1975,BLR,1,Minsk (BLR) (i),02 FEB 2001,1177,10000-metres-race-walk,race-walks,male,senior
-101,38:52.76,,Perseus KARLSTRÖM,02 MAY 1990,SWE,1,Canberra (AUS),09 JAN 2019,1176,10000-metres-race-walk,race-walks,male,senior
-102,38:53.11,,Zhen WANG,24 AUG 1991,CHN,1,Asti (ITA),21 MAY 2016,1176,10000-metres-race-walk,race-walks,male,senior
-103,38:53.42,,Miguel Ángel LÓPEZ,03 JUL 1988,ESP,1,Cartagena (ESP),29 APR 2015,1176,10000-metres-race-walk,race-walks,male,senior
-104,38:53.64,,Álvaro MARTÍN,18 JUN 1994,ESP,1,"Estadi Olímpic Camilo Cano, La Nucia (ESP)",29 JUN 2024,1176,10000-metres-race-walk,race-walks,male,senior
-105,38:54.08,,Taisei YOSHIZAKO,15 JAN 2005,JPN,2,"Lemon Gas Stadium, Hiratsuka (JPN)",26 APR 2025,1175,10000-metres-race-walk,race-walks,male,senior
-106,38:54.20,,Evan DUNFEE,28 SEP 1990,CAN,1,Kamloops (CAN),07 JUL 2019,1175,10000-metres-race-walk,race-walks,male,senior
-107,38:54.30,,Roland WIESER,06 MAY 1956,GDR,1,Potsdam (GDR),13 JUL 1980,1175,10000-metres-race-walk,race-walks,male,senior
-108,38:54.4h,,Frants KOSTYUKEVICH,04 APR 1963,BLR,1,Minsk (BLR) (i),02 FEB 1996,1175,10000-metres-race-walk,race-walks,male,senior
-109,38:54.75,,Ralf KOWALSKY,22 MAR 1962,GDR,1,Cottbus (GER),24 JUN 1981,1175,10000-metres-race-walk,race-walks,male,senior
-110,38:54.82,,Ryo HAMANISHI,24 APR 2000,JPN,4,"Ishin Me-Life Stadium, Yamaguchi (JPN)",22 SEP 2024,1175,10000-metres-race-walk,race-walks,male,senior
-111,38:54.87,,Miguel Ángel LÓPEZ,03 JUL 1988,ESP,1,Alcobendas (ESP),27 JUL 2014,1175,10000-metres-race-walk,race-walks,male,senior
-112,38:55.00,,Jozef PRIBILINEC,06 JUL 1960,TCH,1,Hildesheim (GER),06 SEP 1986,1175,10000-metres-race-walk,race-walks,male,senior
-113,38:55.20,,Rhydian COWLEY,04 JAN 1991,AUS,3,"AIS Athletics Track, Canberra (AUS)",28 JAN 2024,1175,10000-metres-race-walk,race-walks,male,senior
-114,38:55.40,,David SMITH,24 JUL 1955,AUS,2,Hildesheim (GER),06 SEP 1986,1174,10000-metres-race-walk,race-walks,male,senior
-115,38:55.49,,Eiki TAKAHASHI,19 NOV 1992,JPN,2,Abashiri (JPN),16 JUL 2015,1174,10000-metres-race-walk,race-walks,male,senior
-116,38:56.3h,,Ingus JANEVIČS,29 APR 1986,LAT,1,Valga (EST),26 APR 2008,1174,10000-metres-race-walk,race-walks,male,senior
-117,38:56.63,,Kento YOSHIKAWA,09 AUG 2001,JPN,5,"Ishin Me-Life Stadium, Yamaguchi (JPN)",22 SEP 2024,1174,10000-metres-race-walk,race-walks,male,senior
-118,38:56.65,,Miguel Ángel LÓPEZ,03 JUL 1988,ESP,2,"Estadi Olímpic Camilo Cano, La Nucia (ESP)",29 JUN 2024,1174,10000-metres-race-walk,race-walks,male,senior
-119,38:57.16,,Dane BIRD-SMITH,15 JUL 1992,AUS,1,"Albert Park, Melbourne (AUS)",04 APR 2014,1173,10000-metres-race-walk,race-walks,male,senior
-120,38:57.45,,Perseus KARLSTRÖM,02 MAY 1990,SWE,1,Stockholm (SWE),02 SEP 2017,1173,10000-metres-race-walk,race-walks,male,senior
-121,38:57.94,,Christopher LINKE,24 OCT 1988,GER,1,Beeskow (GER),17 AUG 2019,1173,10000-metres-race-walk,race-walks,male,senior
-122,38:57.96,,Gianluca PICCHIOTTINO,22 AUG 1996,ITA,2,"Campo Comunale N. Palladino, Campobasso (ITA)",24 MAR 2024,1173,10000-metres-race-walk,race-walks,male,senior
-123,38:58.21,,Vasiliy MIZINOV,29 DEC 1997,RUS,1,Cheboksary (RUS),25 JUN 2016,1172,10000-metres-race-walk,race-walks,male,senior
-124,38:59.33,,Kento YOSHIKAWA,09 AUG 2001,JPN,2,"Municipal Stadium, Kitami (JPN)",06 JUL 2024,1172,10000-metres-race-walk,race-walks,male,senior
-125,38:59.60,,Werner HEYER,14 NOV 1956,GDR,2,Potsdam (GDR),13 JUL 1980,1171,10000-metres-race-walk,race-walks,male,senior
-126,38:59.98,,Zelin CAI,11 APR 1991,CHN,2,Tianjin (CHN),16 SEP 2012,1171,10000-metres-race-walk,race-walks,male,senior
-127,39:00.00,,Robert HEFFERNAN,28 FEB 1978,IRL,1,Santry (IRL),24 JUL 2004,1171,10000-metres-race-walk,race-walks,male,senior
-128,39:00.14,,Robert KORZENIOWSKI,30 JUL 1968,POL,1,Sopot (POL),23 JUL 1994,1171,10000-metres-race-walk,race-walks,male,senior
-129,39:00.49,,Gabriel BORDIER,08 OCT 1997,FRA,1,"Stade Josette et Roger Mikulak, Angers (FRA)",29 JUN 2024,1171,10000-metres-race-walk,race-walks,male,senior
-130,39:00.78,,Kazuki TAKAHASHI,17 JUN 1996,JPN,6,"Ishin Me-Life Stadium, Yamaguchi (JPN)",22 SEP 2024,1171,10000-metres-race-walk,race-walks,male,senior
-131,39:00.79,,Francesco FORTUNATO,13 DEC 1994,ITA,1,Firenze (ITA),15 JUN 2019,1170,10000-metres-race-walk,race-walks,male,senior
-132,39:01.20,,Fumitaka OIKAWA,05 APR 1995,JPN,4,Kitami (JPN),07 JUL 2018,1170,10000-metres-race-walk,race-walks,male,senior
-133,39:01.3h,,Declan TINGAY,06 FEB 1999,AUS,1,"AIS Athletics Track, Canberra (AUS)",22 JAN 2022,1170,10000-metres-race-walk,race-walks,male,senior
-134,39:01.35,,Hatem GHOULA,07 JUN 1973,TUN,1,Tunis (TUN),01 MAY 1995,1170,10000-metres-race-walk,race-walks,male,senior
-135,39:02.10,,Stefan JOHANSSON,11 APR 1967,SWE,2,Örnsköldsvik (SWE),08 JUL 1995,1170,10000-metres-race-walk,race-walks,male,senior
-136,39:02.14,,Roman MRÁZEK,21 JAN 1962,TCH,2,Banská Bystrica (TCH),30 AUG 1985,1170,10000-metres-race-walk,race-walks,male,senior
-137,39:02.29,,Evan DUNFEE,28 SEP 1990,CAN,1,"Percy Perry Stadium, Coquitlam (CAN)",04 JUL 2025,1169,10000-metres-race-walk,race-walks,male,senior
-138,39:03.32,,Sergey KOZHEVNIKOV,09 MAY 2001,RUS,1,"Regional Sport Complex, Brest (BLR)",12 JUL 2025,1169,10000-metres-race-walk,race-walks,male,senior
-139,39:03.92,,Motofumi SUWA,22 OCT 1999,JPN,7,"Ishin Me-Life Stadium, Yamaguchi (JPN)",22 SEP 2024,1168,10000-metres-race-walk,race-walks,male,senior
-140,39:04.82,,Christopher LINKE,24 OCT 1988,GER,1,Düsseldorf (GER),13 JUN 2015,1168,10000-metres-race-walk,race-walks,male,senior
-141,39:05.05,,Byeongkwang CHOE,07 APR 1991,KOR,1,Yeosu (KOR),30 MAR 2022,1167,10000-metres-race-walk,race-walks,male,senior
-142,39:05.1h,,Máté HELEBRANDT,12 JAN 1989,HUN,1,"Iharos Sándor Atlétikai Pálya, Budapest (HUN)",22 JUN 2024,1167,10000-metres-race-walk,race-walks,male,senior
-143,39:05.19,,Yusuke SUZUKI,02 JAN 1988,JPN,1,Osaka (JPN),22 SEP 2018,1167,10000-metres-race-walk,race-walks,male,senior
-144,39:05.44,,Koki IKEDA,03 MAY 1998,JPN,1,Fukui (JPN),07 OCT 2018,1167,10000-metres-race-walk,race-walks,male,senior
-145,39:05.72,,Riccardo ORSONI,20 JAN 2000,ITA,3f1,"Campo Mauro Ferrari, Prato (ITA)",13 APR 2025,1167,10000-metres-race-walk,race-walks,male,senior
-146,39:05.73,,Satoshi MARUO,28 NOV 1991,JPN,2,"Nagaragawa Stadium, Gifu (JPN)",24 SEP 2022,1167,10000-metres-race-walk,race-walks,male,senior
-147,39:05.80,,Maurizio DAMILANO,06 APR 1957,ITA,1,Limbiate (ITA),25 OCT 1988,1167,10000-metres-race-walk,race-walks,male,senior
-148,39:05.85,,Callum WILKINSON,14 MAR 1997,GBR,1,"Newport Stadium, Newport (GBR)",06 MAR 2021,1167,10000-metres-race-walk,race-walks,male,senior
-149,39:06.06,,Ihor HLAVAN,25 SEP 1990,UKR,1,Sumy (UKR) (i),24 DEC 2014,1167,10000-metres-race-walk,race-walks,male,senior
-150,39:06.09,,Ronald WEIGEL,08 AUG 1959,GDR,1,Senftenberg (GER) (i),07 FEB 1987,0,10000-metres-race-walk,race-walks,male,senior
-151,39:06.28,,Callum WILKINSON,14 MAR 1997,GBR,4,"Alexander Stadium, Birmingham (GBR)",07 AUG 2022,1166,10000-metres-race-walk,race-walks,male,senior
-152,39:06.43,,Yusuke SUZUKI,02 JAN 1988,JPN,1,Nagasaki (JPN),21 OCT 2014,1166,10000-metres-race-walk,race-walks,male,senior
-153,39:06.64,,Kento YOSHIKAWA,09 AUG 2001,JPN,2,"Sunrise Park, Saga (JPN)",14 OCT 2024,1166,10000-metres-race-walk,race-walks,male,senior
-154,39:06.91,,Declan TINGAY,06 FEB 1999,AUS,1,"WA Athletics Stadium, Perth (AUS)",10 APR 2025,1166,10000-metres-race-walk,race-walks,male,senior
-155,39:07.08,,Tomohiro NODA,24 JAN 1996,JPN,3,"Nagaragawa Stadium, Gifu (JPN)",24 SEP 2022,1166,10000-metres-race-walk,race-walks,male,senior
-156,39:07.21,,Robert HEFFERNAN,28 FEB 1978,IRL,1,Dublin (IRL),11 JUL 2010,1166,10000-metres-race-walk,race-walks,male,senior
-157,39:07.31,,Danila MARTYNOV,01 MAY 2004,RUS,2,"Regional Sport Complex, Brest (BLR)",12 JUL 2025,1166,10000-metres-race-walk,race-walks,male,senior
-158,39:07.38,,Axel NOACK,23 SEP 1961,GDR,1,Neubrandenburg (GDR),10 JUL 1988,1166,10000-metres-race-walk,race-walks,male,senior
-158,39:07.38,,Hiroto JUSHO,11 JAN 2000,JPN,8,"Ishin Me-Life Stadium, Yamaguchi (JPN)",22 SEP 2024,1166,10000-metres-race-walk,race-walks,male,senior
-160,39:07.58,,Miguel Ángel LÓPEZ,03 JUL 1988,ESP,1,Alcobendas (ESP),28 JUL 2013,1166,10000-metres-race-walk,race-walks,male,senior
-161,39:07.84,,Koichiro MORIOKA,02 APR 1985,JPN,1,Niigata (JPN),26 SEP 2010,1165,10000-metres-race-walk,race-walks,male,senior
-162,39:07.95,,Kazuki TAKAHASHI,17 JUN 1996,JPN,3,"Sunrise Park, Saga (JPN)",14 OCT 2024,1165,10000-metres-race-walk,race-walks,male,senior
-163,39:07.97,,Michele DIDONI,07 MAR 1974,ITA,1,Roma (ITA),09 JUL 1998,1165,10000-metres-race-walk,race-walks,male,senior
-164,39:08.23,,Daisuke MATSUNAGA,24 MAR 1995,JPN,1,Tokyo (JPN),14 DEC 2013,1165,10000-metres-race-walk,race-walks,male,senior
-165,39:08.33,,Brian Daniel PINTADO,29 JUL 1995,ECU,2,Guayaquil (ECU),18 APR 2021,1165,10000-metres-race-walk,race-walks,male,senior
-166,39:08.50,,Nikolay POLOZOV,10 OCT 1951,URS,1,Leningrad (URS),23 FEB 1986,1165,10000-metres-race-walk,race-walks,male,senior
-167,39:08.6h,,David KIMUTAI,19 AUG 1969,KEN,1,Nyeri (KEN),21 MAR 2009,1165,10000-metres-race-walk,race-walks,male,senior
-168,39:09.69,,Rhydian COWLEY,04 JAN 1991,AUS,2,"WA Athletics Stadium, Perth (AUS)",10 APR 2025,1164,10000-metres-race-walk,race-walks,male,senior
-169,39:10.10,,Nick A'HERN,06 JAN 1969,AUS,1,Sydney (AUS),13 JAN 1991,1164,10000-metres-race-walk,race-walks,male,senior
-170,39:10.15,,Marco GIUNGI,30 OCT 1974,ITA,1,Pescara (ITA),14 SEP 2002,1164,10000-metres-race-walk,race-walks,male,senior
-171,39:10.35,,Giovanni DE BENEDICTIS,08 JAN 1968,ITA,1,Pescara (ITA),12 SEP 1990,1164,10000-metres-race-walk,race-walks,male,senior
-172,39:10.56,,Maksim PYANZIN,22 MAY 2003,RUS,4,"Kalininets Stadium, Yekaterinburg (RUS)",18 AUG 2024,1163,10000-metres-race-walk,race-walks,male,senior
-173,39:10.6h,,Mikhayil KHMELNITSKIY,24 JUL 1969,BLR,1,Minsk (BLR) (i),04 FEB 1995,1163,10000-metres-race-walk,race-walks,male,senior
-174,39:10.61,,Nils BREMBACH,23 FEB 1993,GER,2,Düsseldorf (GER),13 JUN 2015,1163,10000-metres-race-walk,race-walks,male,senior
-175,39:10.71,,Kyle SWAN,28 MAR 1999,AUS,3,"SA Athletic Stadium, Adelaide (AUS)",11 APR 2024,1163,10000-metres-race-walk,race-walks,male,senior
-176,39:11.1h,,Bence VENYERCSÁN,08 JAN 1996,HUN,2,"Iharos Sándor Atlétikai Pálya, Budapest (HUN)",22 JUN 2024,1163,10000-metres-race-walk,race-walks,male,senior
-177,39:11.20,,Salvatore CACIA,22 JUL 1967,ITA,2,Catania (ITA),13 APR 1990,1163,10000-metres-race-walk,race-walks,male,senior
-178,39:11.65,,Byeongkwang CHOE,07 APR 1991,KOR,1,Yecheon (KOR),21 APR 2021,1163,10000-metres-race-walk,race-walks,male,senior
-179,39:11.7h,,Arturo DI MEZZA,16 JUL 1969,ITA,1,Milano (ITA),09 JUN 1998,1163,10000-metres-race-walk,race-walks,male,senior
-180,39:11.72,,Robert HEFFERNAN,28 FEB 1978,IRL,1,Dublin (IRL),02 AUG 2009,1163,10000-metres-race-walk,race-walks,male,senior
-181,39:11.77,,Gianluca PICCHIOTTINO,22 AUG 1996,ITA,1,"Campo Scuola Moreno Martini, Lucca (ITA)",11 MAY 2025,1163,10000-metres-race-walk,race-walks,male,senior
-182,39:11.95,,Eiki TAKAHASHI,19 NOV 1992,JPN,1,Gifu (JPN),26 SEP 2015,1162,10000-metres-race-walk,race-walks,male,senior
-183,39:12.00,,Robert HEFFERNAN,28 FEB 1978,IRL,1,Dublin (IRL),22 JUL 2007,1162,10000-metres-race-walk,race-walks,male,senior
-184,39:12.33,,Ivano BRUGNETTI,01 SEP 1976,ITA,1,Cagliari (ITA),19 JUL 2008,1162,10000-metres-race-walk,race-walks,male,senior
-184,39:12.33,,Serhii SVITLYCHNYI,13 JUL 1994,UKR,1,"Miesto Stadionas, Alytus (LTU)",20 SEP 2024,1162,10000-metres-race-walk,race-walks,male,senior
-186,39:12.59,,Atsuki TSUCHIYA,06 AUG 2003,JPN,2,"Yanmar Stadium Nagai, Osaka (JPN)",06 MAY 2025,1162,10000-metres-race-walk,race-walks,male,senior
-187,39:13.00,,Jozef PRIBILINEC,06 JUL 1960,TCH,1,Lomello (ITA),18 JUN 1988,1162,10000-metres-race-walk,race-walks,male,senior
-188,39:13.38,,Christopher LINKE,24 OCT 1988,GER,1,Jüterbog (GER),22 JUN 2013,1161,10000-metres-race-walk,race-walks,male,senior
-189,39:13.43,,Diego GARCÍA CARRERA,19 JAN 1996,ESP,1,"Pistas Universad de León, León (ESP)",22 APR 2023,1161,10000-metres-race-walk,race-walks,male,senior
-190,39:13.5h,,Vasiliy MIZINOV,29 DEC 1997,RUS,2,"Football and athletics Arena, Saransk (RUS) (i)",24 SEP 2023,1161,10000-metres-race-walk,race-walks,male,senior
-191,39:13.52,,Sergey SHIROBOKOV,11 FEB 1999,RUS,4,"Meteor, Zhukovskiy (RUS)",21 JUN 2025,1161,10000-metres-race-walk,race-walks,male,senior
-192,39:13.60,,Ilya MARKOV,19 JUN 1972,RUS,1,Riga (LAT),28 MAY 2004,1161,10000-metres-race-walk,race-walks,male,senior
-193,39:13.80,,Andrea COSI,30 APR 2001,ITA,1,"Campo Comunale, Brescia (ITA)",17 SEP 2022,1161,10000-metres-race-walk,race-walks,male,senior
-194,39:13.90,,Walter ARENA,30 MAY 1964,ITA,1,Ostia (ITA),09 MAY 1987,1161,10000-metres-race-walk,race-walks,male,senior
-195,39:14.0h,,Pyotr POCHENCHUK,26 JUL 1954,URS,1,Moskva (URS) (i),06 FEB 1983,1161,10000-metres-race-walk,race-walks,male,senior
-195,39:14.0h,,Sergey KHRIPUNOV,15 SEP 1976,RUS,1,Magnitogorsk (RUS),23 SEP 2000,1161,10000-metres-race-walk,race-walks,male,senior
-197,39:14.13,,Aleksandr GARIN,28 DEC 1999,RUS,3,"Regional Sport Complex, Brest (BLR)",12 JUL 2025,1161,10000-metres-race-walk,race-walks,male,senior
-198,39:14.44,,Sergey KOZHEVNIKOV,09 MAY 2001,RUS,3,"Olympic Stadium, Cheboksary (RUS)",02 AUG 2022,1161,10000-metres-race-walk,race-walks,male,senior
-199,39:14.6h,,Rhydian COWLEY,04 JAN 1991,AUS,1,"George Knott Track, Collingwood, Melbourne (AUS)",31 JAN 2021,1160,10000-metres-race-walk,race-walks,male,senior
-200,39:15.0h,,Isamu FUJISAWA,12 OCT 1987,JPN,1,Tokyo (JPN),17 MAY 2009,1160,10000-metres-race-walk,race-walks,male,senior
-201,39:15.1h,,Ihor HLAVAN,25 SEP 1990,UKR,1,Mukachevo (UKR),01 NOV 2014,1160,10000-metres-race-walk,race-walks,male,senior
-202,39:15.16,,Kyle SWAN,28 MAR 1999,AUS,3,"AIS Athletics Track, Canberra (AUS)",27 JAN 2025,1160,10000-metres-race-walk,race-walks,male,senior
-203,39:15.49,,Walter ARENA,30 MAY 1964,ITA,1,Roma (ITA),12 MAY 1990,1160,10000-metres-race-walk,race-walks,male,senior
-204,39:15.60,,Robert KORZENIOWSKI,30 JUL 1968,POL,1,"Marietta, GA (USA)",02 SEP 1995,1160,10000-metres-race-walk,race-walks,male,senior
-205,39:15.61,,Miguel Ángel LÓPEZ,03 JUL 1988,ESP,1,Castellón (ESP),02 AUG 2015,1160,10000-metres-race-walk,race-walks,male,senior
-205,39:15.61,,Tomohiro NODA,24 JAN 1996,JPN,2,"Municipal Stadium, Sasebo (JPN)",08 DEC 2019,1160,10000-metres-race-walk,race-walks,male,senior
-207,39:15.91,,Zelin CAI,11 APR 1991,CHN,2,Genova (ITA),08 FEB 2015,1159,10000-metres-race-walk,race-walks,male,senior
-208,39:16.00,,Xianghong HE,01 JUL 1998,CHN,1,"Pista Fantoni, Mondovi (ITA)",11 MAY 2024,1159,10000-metres-race-walk,race-walks,male,senior
-209,39:16.06,,Eiki TAKAHASHI,19 NOV 1992,JPN,1,Nagasaki (JPN),11 DEC 2016,1159,10000-metres-race-walk,race-walks,male,senior
-210,39:16.14,,Sotaro OSAKA,31 JAN 2006,JPN,1,"Prefectural Stadium, Okayama (JPN)",07 JUN 2025,1159,10000-metres-race-walk,race-walks,male,senior
-211,39:16.54,,Hayato KATSUKI,28 NOV 1990,JPN,9,"Ishin Me-Life Stadium, Yamaguchi (JPN)",22 SEP 2024,1159,10000-metres-race-walk,race-walks,male,senior
-212,39:16.68,,Vladimir STANKIN,02 JAN 1974,RUS,2,Riga (LAT),28 MAY 2004,1159,10000-metres-race-walk,race-walks,male,senior
-213,39:16.75,,Tim FRASER,22 FEB 2000,AUS,4,"AIS Athletics Track, Canberra (AUS)",28 JAN 2024,1159,10000-metres-race-walk,race-walks,male,senior
-214,39:17.4h,,Declan TINGAY,06 FEB 1999,AUS,2,"George Knott Track, Collingwood, Melbourne (AUS)",31 JAN 2021,1158,10000-metres-race-walk,race-walks,male,senior
-215,39:17.66,,Hirooki ARAI,18 MAY 1988,JPN,2,Yamaguchi (JPN),11 OCT 2014,1158,10000-metres-race-walk,race-walks,male,senior
-216,39:17.71,,Emiliano BRIGANTE,27 MAY 2003,ITA,4f1,"Campo Mauro Ferrari, Prato (ITA)",13 APR 2025,1158,10000-metres-race-walk,race-walks,male,senior
-217,39:17.8h,,Aigars FADEJEVS,27 DEC 1975,LAT,1,Valmiera (LAT),18 JUL 1998,1158,10000-metres-race-walk,race-walks,male,senior
-218,39:18.00,,Valdas KAZLAUSKAS,23 FEB 1958,URS,1,Moskva (URS),18 SEP 1983,1158,10000-metres-race-walk,race-walks,male,senior
-218,39:18.0h,,Artur SHUMAK,19 OCT 1963,BLR,1,Minsk (BLR),12 MAY 1992,1158,10000-metres-race-walk,race-walks,male,senior
-218,39:18.0h,,Vitaliy SHVETSOV,20 FEB 1973,RUS,2,Magnitogorsk (RUS),23 SEP 2000,1158,10000-metres-race-walk,race-walks,male,senior
-221,39:18.03,,Koki IKEDA,03 MAY 1998,JPN,1,Sagamihara (JPN),25 MAY 2019,1158,10000-metres-race-walk,race-walks,male,senior
-222,39:18.04,,Daisuke MATSUNAGA,24 MAR 1995,JPN,1,Osaka (JPN),13 SEP 2015,1158,10000-metres-race-walk,race-walks,male,senior
-223,39:18.09,,Zelin CAI,11 APR 1991,CHN,2,Asti (ITA),21 MAY 2016,1158,10000-metres-race-walk,race-walks,male,senior
-224,39:18.11,,Yutaro MURAYAMA,29 SEP 1998,JPN,10,"Ishin Me-Life Stadium, Yamaguchi (JPN)",22 SEP 2024,1158,10000-metres-race-walk,race-walks,male,senior
-225,39:18.60,,Perseus KARLSTRÖM,02 MAY 1990,SWE,1,Helsinki (FIN),30 AUG 2014,1158,10000-metres-race-walk,race-walks,male,senior
-225,39:18.60,,Matheus CORREA,22 AUG 1999,BRA,1,"Pista de Atletismo da Universidade Federal de Lavras, Lavras (BRA)",22 JUL 2023,1158,10000-metres-race-walk,race-walks,male,senior
-227,39:18.63,,Hiroto JUSHO,11 JAN 2000,JPN,3,"Municipal Stadium, Sasebo (JPN)",08 DEC 2019,1158,10000-metres-race-walk,race-walks,male,senior
-228,39:18.71,,Daisuke MATSUNAGA,24 MAR 1995,JPN,1,Saitama (JPN),17 MAY 2014,1157,10000-metres-race-walk,race-walks,male,senior
-229,39:18.74,,Kyle SWAN,28 MAR 1999,AUS,2,"Queensland Sport and Athletics Centre, Nathan, Brisbane (AUS)",31 MAR 2023,1157,10000-metres-race-walk,race-walks,male,senior
-230,39:18.98,,Tim FRASER,22 FEB 2000,AUS,4,"SA Athletic Stadium, Adelaide (AUS)",11 APR 2024,1157,10000-metres-race-walk,race-walks,male,senior
-231,39:19.32,,Anatoliy SOLOMIN,02 JUL 1952,URS,1,Roma (ITA),23 MAY 1981,1157,10000-metres-race-walk,race-walks,male,senior
-232,39:19.5h,,Perseus KARLSTRÖM,02 MAY 1990,SWE,1,Göteborg (SWE),08 AUG 2015,1157,10000-metres-race-walk,race-walks,male,senior
-233,39:19.53,,Eiki TAKAHASHI,19 NOV 1992,JPN,1,Matsuyama (JPN),08 OCT 2017,1157,10000-metres-race-walk,race-walks,male,senior
-234,39:19.64,,Alessandro GANDELLINI,30 APR 1973,ITA,2,Pescara (ITA),14 SEP 2002,1157,10000-metres-race-walk,race-walks,male,senior
-235,39:19.88,,Jamie COSTIN,01 JUN 1977,IRL,2,Santry (IRL),24 JUL 2004,1157,10000-metres-race-walk,race-walks,male,senior
-236,39:20.0h,,Moacir ZIMMERMANN,30 DEC 1983,BRA,1,Blumenau (BRA),23 MAY 2009,1157,10000-metres-race-walk,race-walks,male,senior
-237,39:20.04,,Maksim PYANZIN,22 MAY 2003,RUS,2,"Yelena Yelesina Stadium, Chelyabinsk (RUS)",03 AUG 2023,1156,10000-metres-race-walk,race-walks,male,senior
-238,39:20.52,,Nazar KOVALENKO,09 FEB 1987,UKR,1,Sumy (UKR) (i),20 FEB 2010,1156,10000-metres-race-walk,race-walks,male,senior
-238,39:20.52,,David HURTADO,21 APR 1999,ECU,1,"Estadio Alberto Spencer Herrera, Guayaquil (ECU)",16 APR 2022,1156,10000-metres-race-walk,race-walks,male,senior
-240,39:20.8h,,Viktor SEMYONOV,28 JUN 1949,URS,1,Moskva (URS) (i),17 FEB 1980,1156,10000-metres-race-walk,race-walks,male,senior
-241,39:20.81,,Perseus KARLSTRÖM,02 MAY 1990,SWE,1,Canberra (AUS),28 JAN 2019,1156,10000-metres-race-walk,race-walks,male,senior
-242,39:21.0h,,Vladimir ANDREYEV,07 SEP 1966,RUS,1,Moskva (RUS),21 JAN 1997,1156,10000-metres-race-walk,race-walks,male,senior
-243,39:21.02,,Giovanni DE BENEDICTIS,08 JAN 1968,ITA,1,Bari (ITA),11 JUL 1990,1156,10000-metres-race-walk,race-walks,male,senior
-244,39:21.1h,,Maksim PYANZIN,22 MAY 2003,RUS,3,"Football and athletics Arena, Saransk (RUS) (i)",24 SEP 2023,1156,10000-metres-race-walk,race-walks,male,senior
-245,39:21.13,,Eduard ZABUZHENKO,18 APR 1998,UKR,1,Ivano-Frankivsk (UKR),30 MAY 2021,1156,10000-metres-race-walk,race-walks,male,senior
-246,39:21.30,,Evan DUNFEE,28 SEP 1990,CAN,1,Coquitlam (CAN),11 JUN 2016,1156,10000-metres-race-walk,race-walks,male,senior
-247,39:21.51,,Il-yong SHIN,17 FEB 1979,KOR,1,Andong (KOR),22 MAY 2007,1155,10000-metres-race-walk,race-walks,male,senior
-248,39:21.6h,,Nikolay MATVEYEV,15 JAN 1955,URS,1,Minsk (BLR) (i),02 MAR 1981,1155,10000-metres-race-walk,race-walks,male,senior
-249,39:21.80,,Walter ARENA,30 MAY 1964,ITA,1,Catania (ITA),24 SEP 1988,1155,10000-metres-race-walk,race-walks,male,senior
-250,39:21.92,,Maurizio DAMILANO,06 APR 1957,ITA,2,Roma (ITA),23 MAY 1980,1155,10000-metres-race-walk,race-walks,male,senior
-251,39:21.99,,Ivan Dario OÑA COLCHA,25 FEB 2006,ECU,1,"Estadio Atlético de la VIDENA, Lima (PER)",16 JUL 2025,1155,10000-metres-race-walk,race-walks,male,senior
-252,39:22.0h,,Kyle SWAN,28 MAR 1999,AUS,2,"AIS Athletics Track, Canberra (AUS)",22 JAN 2022,1155,10000-metres-race-walk,race-walks,male,senior
-253,39:22.02,,Riku KANEKO,15 MAR 2005,JPN,3,"Lemon Gas Stadium, Hiratsuka (JPN)",26 APR 2025,1155,10000-metres-race-walk,race-walks,male,senior
-254,39:22.11,,Eiki TAKAHASHI,19 NOV 1992,JPN,1,Osaka (JPN),24 SEP 2016,1155,10000-metres-race-walk,race-walks,male,senior
-255,39:22.20,,Salvatore CACIA,22 JUL 1967,ITA,2,Catania (ITA),24 SEP 1988,1155,10000-metres-race-walk,race-walks,male,senior
-256,39:22.33,,Haruki MANJU,10 APR 2001,JPN,11,"Ishin Me-Life Stadium, Yamaguchi (JPN)",22 SEP 2024,1155,10000-metres-race-walk,race-walks,male,senior
-257,39:22.41,,Perseus KARLSTRÖM,02 MAY 1990,SWE,1,Canberra (AUS),14 JAN 2018,1155,10000-metres-race-walk,race-walks,male,senior
-258,39:22.44,,Matheus CORREA,22 AUG 1999,BRA,1,"Complexo Esportivo Timbo, Timbó (BRA)",11 NOV 2023,1155,10000-metres-race-walk,race-walks,male,senior
-259,39:22.47,,Yafei CHU,09 MAY 1988,CHN,3,Tianjin (CHN),16 SEP 2012,1155,10000-metres-race-walk,race-walks,male,senior
-260,39:23.00,,Francesco FORTUNATO,13 DEC 1994,ITA,1,"Campo Mauro Ferrari, Prato (ITA)",16 APR 2023,1154,10000-metres-race-walk,race-walks,male,senior
-261,39:23.14,,Samuel Kireri GATHIMBA,26 OCT 1987,KEN,5,"Alexander Stadium, Birmingham (GBR)",07 AUG 2022,1154,10000-metres-race-walk,race-walks,male,senior
-262,39:23.20,,Walter ARENA,30 MAY 1964,ITA,2,Bari (ITA),11 JUL 1990,1154,10000-metres-race-walk,race-walks,male,senior
-263,39:23.23,,Daisuke MATSUNAGA,24 MAR 1995,JPN,2,Osaka (JPN),22 SEP 2018,1154,10000-metres-race-walk,race-walks,male,senior
-264,39:23.26,,Evan DUNFEE,28 SEP 1990,CAN,1,"Alumni Stadium, Guelph (CAN)",18 JUN 2025,1154,10000-metres-race-walk,race-walks,male,senior
-265,39:23.3h,,Modris LIEPIŅŠ,03 AUG 1966,LAT,1,Valmiera (LAT),26 JUL 1998,1154,10000-metres-race-walk,race-walks,male,senior
-266,39:23.38,,Walter ARENA,30 MAY 1964,ITA,2,Pescara (ITA),12 SEP 1990,1154,10000-metres-race-walk,race-walks,male,senior
-266,39:23.38,,Álvaro MARTÍN,18 JUN 1994,ESP,2,"Pistas Universad de León, León (ESP)",22 APR 2023,1154,10000-metres-race-walk,race-walks,male,senior
-268,39:23.44,,Valentin KONONEN,07 MAR 1969,FIN,1,Helsinki (FIN),26 AUG 1995,1154,10000-metres-race-walk,race-walks,male,senior
-269,39:23.51,,Álvaro MARTÍN,18 JUN 1994,ESP,2,Gijón (ESP),24 JUL 2016,1154,10000-metres-race-walk,race-walks,male,senior
-270,39:23.58,,Takumi SAITO,23 MAR 1993,JPN,2,Saitama (JPN),17 MAY 2014,1154,10000-metres-race-walk,race-walks,male,senior
-271,39:23.71,,Miguel Ángel LÓPEZ,03 JUL 1988,ESP,1,Cartagena (ESP),25 APR 2014,1154,10000-metres-race-walk,race-walks,male,senior
-272,39:23.75,,Rhydian COWLEY,04 JAN 1991,AUS,4,"AIS Athletics Track, Canberra (AUS)",27 JAN 2025,1154,10000-metres-race-walk,race-walks,male,senior
-273,39:23.88,,Benjamín SÁNCHEZ,10 MAR 1985,ESP,2,Santa Cruz de Tenerife (ESP),27 JUL 2008,1154,10000-metres-race-walk,race-walks,male,senior
-274,39:23.98,,Declan TINGAY,06 FEB 1999,AUS,1,"AIS Athletics Track, Canberra (AUS)",06 JAN 2023,1154,10000-metres-race-walk,race-walks,male,senior
-275,39:24.00,,Walter ARENA,30 MAY 1964,ITA,1,Roma (ITA),11 MAY 1986,1154,10000-metres-race-walk,race-walks,male,senior
-276,39:24.03,,Maksim DENISOV,07 MAY 2005,RUS,3,"Yelena Yelesina Stadium, Chelyabinsk (RUS)",03 AUG 2023,1154,10000-metres-race-walk,race-walks,male,senior
-277,39:24.20,,Álvaro MARTÍN,18 JUN 1994,ESP,1,La Nucia (ESP),21 MAY 2022,1153,10000-metres-race-walk,race-walks,male,senior
-278,39:24.3h,,Sergey SERGACHEV,10 JUL 1987,RUS,1,Buy (RUS),21 SEP 2008,1153,10000-metres-race-walk,race-walks,male,senior
-279,39:24.42,,Eiki TAKAHASHI,19 NOV 1992,JPN,2,Nagasaki (JPN),21 OCT 2014,1153,10000-metres-race-walk,race-walks,male,senior
-280,39:24.49,,Toshikazu YAMANISHI,15 FEB 1996,JPN,1,Osaka (JPN),13 MAY 2017,1153,10000-metres-race-walk,race-walks,male,senior
-280,39:24.49,,Yusuke SUZUKI,02 JAN 1988,JPN,5,Kitami (JPN),07 JUL 2018,1153,10000-metres-race-walk,race-walks,male,senior
-282,39:24.64,,Yutaro MURAYAMA,29 SEP 1998,JPN,4,"Nagaragawa Stadium, Gifu (JPN)",24 SEP 2022,1153,10000-metres-race-walk,race-walks,male,senior
-283,39:24.69,,Diego GARCÍA CARRERA,19 JAN 1996,ESP,2,"Estadi Natalia Rodríguez, Tarragona (ESP)",01 AUG 2025,1153,10000-metres-race-walk,race-walks,male,senior
-284,39:24.8h,,Matej TÓTH,10 FEB 1983,SVK,1,Banská Bystrica (SVK),29 APR 2011,1153,10000-metres-race-walk,race-walks,male,senior
-285,39:24.85,,Rayen CHERNI,01 NOV 2006,TUN,1,"Estadio Atlético de la VIDENA, Lima (PER)",30 AUG 2024,1153,10000-metres-race-walk,race-walks,male,senior
-286,39:24.9h,,André HÖHNE,10 MAR 1978,GER,1,Halle (GER),26 MAY 2004,1153,10000-metres-race-walk,race-walks,male,senior
-287,39:24.99,,Giuseppe DISABATO,01 NOV 2006,ITA,1,"Campo Mauro Ferrari, Prato (ITA)",13 APR 2025,1153,10000-metres-race-walk,race-walks,male,senior
-288,39:25.15,,Yushi NAKAJIMA,29 JAN 2005,JPN,4,"Lemon Gas Stadium, Hiratsuka (JPN)",26 APR 2025,1153,10000-metres-race-walk,race-walks,male,senior
-289,39:25.49,,Yusuke SUZUKI,02 JAN 1988,JPN,2,Fukui (JPN),07 OCT 2018,1153,10000-metres-race-walk,race-walks,male,senior
-290,39:25.58,,Chilsung PARK,08 JUL 1982,KOR,2,Andong (KOR),22 MAY 2007,1152,10000-metres-race-walk,race-walks,male,senior
-291,39:25.70,,Isamu FUJISAWA,12 OCT 1987,JPN,3,Yamaguchi (JPN),11 OCT 2014,1152,10000-metres-race-walk,race-walks,male,senior
-292,39:26.02,,Guillaume LEBLANC,14 APR 1962,CAN,1,Gateshead (GBR),23 JUN 1990,1152,10000-metres-race-walk,race-walks,male,senior
-293,39:26.1h,,Declan TINGAY,06 FEB 1999,AUS,1,"AIS Athletics Track, Canberra (AUS)",15 JAN 2022,1152,10000-metres-race-walk,race-walks,male,senior
-294,39:26.14,,Keisuke HARA,04 MAR 2002,JPN,2,"Prefectural Stadium, Okayama (JPN)",07 JUN 2025,1152,10000-metres-race-walk,race-walks,male,senior
-295,39:26.3h,,Aleksandr YARGUNKIN,06 JAN 1981,RUS,1,Saransk (RUS),19 JUN 2005,1152,10000-metres-race-walk,race-walks,male,senior
-296,39:26.59,,Gianluca PICCHIOTTINO,22 AUG 1996,ITA,1,"Campo Scuola Moreno Martini, Lucca (ITA)",12 MAY 2024,1152,10000-metres-race-walk,race-walks,male,senior
-297,39:26.71,,Keisuke HARA,04 MAR 2002,JPN,4,"Sunrise Park, Saga (JPN)",14 OCT 2024,1152,10000-metres-race-walk,race-walks,male,senior
-298,39:26.79,,Ivan TROTSKI,27 MAY 1976,BLR,1,Mogilyov (BLR) (i),22 FEB 2008,1152,10000-metres-race-walk,race-walks,male,senior
-299,39:26.92,,Salih KORKMAZ,01 JAN 1997,TUR,1,"Ekrem Koçak Atletizm Pisti, Istanbul (TUR)",05 SEP 2020,1152,10000-metres-race-walk,race-walks,male,senior
-300,39:27.00,,Guillaume LEBLANC,14 APR 1962,CAN,3,Hildesheim (GER),06 SEP 1986,1151,10000-metres-race-walk,race-walks,male,senior
-300,39:27.00,,Roman MRÁZEK,21 JAN 1962,TCH,4,Hildesheim (GER),06 SEP 1986,1151,10000-metres-race-walk,race-walks,male,senior
-300,39:27.0h,,Grzegorz SUDOŁ,28 AUG 1978,POL,1,Biala Podlaska (POL),30 MAY 2009,1151,10000-metres-race-walk,race-walks,male,senior
-300,39:27.00,,Vasiliy MIZINOV,29 DEC 1997,RUS,,"Olimpiyets, Mogilyov (BLR) (i)",14 FEB 2025,1151,10000-metres-race-walk,race-walks,male,senior
-304,39:27.04,,Toshikazu YAMANISHI,15 FEB 1996,JPN,3,Osaka (JPN),22 SEP 2018,1151,10000-metres-race-walk,race-walks,male,senior
-305,39:27.10,,Emiliano BARBA,23 MAR 2007,MEX,2,"Estadio Atlético de la VIDENA, Lima (PER)",30 AUG 2024,1151,10000-metres-race-walk,race-walks,male,senior
-306,39:27.19,,Daisuke MATSUNAGA,24 MAR 1995,JPN,1,"Hayward Field, Eugene, OR (USA)",25 JUL 2014,1151,10000-metres-race-walk,race-walks,male,senior
-307,39:27.3h,,Igor YEROKHIN,04 SEP 1985,RUS,2,Saransk (RUS),19 JUN 2005,1151,10000-metres-race-walk,race-walks,male,senior
-308,39:27.49,,Kazuhiro TATEIWA,05 NOV 1999,JPN,3,"Municipal Stadium, Kitami (JPN)",06 JUL 2024,1151,10000-metres-race-walk,race-walks,male,senior
-309,39:27.5h,,Artur MELESHKEVICH,11 APR 1975,BLR,2,Minsk (BLR) (i),02 FEB 1996,1151,10000-metres-race-walk,race-walks,male,senior
-310,39:27.59,,Mikhail SHCHENNIKOV,24 DEC 1967,URS,1,Portsmouth (GBR),19 JUN 1988,1151,10000-metres-race-walk,race-walks,male,senior
-311,39:27.63,,Yohann DINIZ,01 JAN 1978,FRA,2,Paris (FRA),13 JUL 2013,1151,10000-metres-race-walk,race-walks,male,senior
-312,39:27.89,,Takeaki AKATSUMA,27 NOV 1981,JPN,1,Sendai (JPN),17 MAY 2002,1151,10000-metres-race-walk,race-walks,male,senior
-313,39:27.90,,Kai KOBAYASHI,28 FEB 1993,JPN,3,Saitama (JPN),17 MAY 2014,1151,10000-metres-race-walk,race-walks,male,senior
-314,39:28.20,,Costică BĂLAN,25 AUG 1964,ROU,1,Bucureşti (ROU),31 JUL 1993,1151,10000-metres-race-walk,race-walks,male,senior
-315,39:28.23,,Daniel CHAMOSA,04 MAY 1997,ESP,3,"Estadi Olímpic Camilo Cano, La Nucia (ESP)",29 JUN 2024,1151,10000-metres-race-walk,race-walks,male,senior
-316,39:28.45,,Andrey RUZAVIN,28 MAR 1986,RUS,1,"S. Darius & S. Girėnas Stadium, Kaunas (LTU)",23 JUL 2005,1150,10000-metres-race-walk,race-walks,male,senior
-317,39:28.54,,Perseus KARLSTRÖM,02 MAY 1990,SWE,1,"Olympiastadion, Helsinki (FIN)",04 SEP 2022,1150,10000-metres-race-walk,race-walks,male,senior
-318,39:28.56,,Aurélien QUINION,27 JAN 1993,FRA,2,"Stade Helitas, Caen (FRA)",26 JUN 2022,1150,10000-metres-race-walk,race-walks,male,senior
-319,39:28.63,,Toshikazu YAMANISHI,15 FEB 1996,JPN,2,Osaka (JPN),13 SEP 2015,1150,10000-metres-race-walk,race-walks,male,senior
-320,39:28.68,,Kai KOBAYASHI,28 FEB 1993,JPN,3,Abashiri (JPN),16 JUL 2015,1150,10000-metres-race-walk,race-walks,male,senior
-321,39:28.97,,Jacek MÜLLER,03 NOV 1973,POL,1,Sopot (POL),20 JUN 1993,1150,10000-metres-race-walk,race-walks,male,senior
-322,39:29.00,,Yuki YAMAZAKI,16 JAN 1984,JPN,1,Yamagata (JPN),27 SEP 2008,1150,10000-metres-race-walk,race-walks,male,senior
-322,39:29.00,,Alberto AMEZCUA,10 MAY 1992,ESP,3,Gijón (ESP),24 JUL 2016,1150,10000-metres-race-walk,race-walks,male,senior
-324,39:29.30,,Andrew JACHNO,13 APR 1962,AUS,1,Melbourne (AUS),06 JAN 1991,1150,10000-metres-race-walk,race-walks,male,senior
-325,39:29.36,,Isamu FUJISAWA,12 OCT 1987,JPN,2,Niigata (JPN),26 SEP 2010,1150,10000-metres-race-walk,race-walks,male,senior
-326,39:29.45,,Alessandro GANDELLINI,30 APR 1973,ITA,1,Catania (ITA),06 DEC 2003,1150,10000-metres-race-walk,race-walks,male,senior
-327,39:29.54,,Zhen WANG,24 AUG 1991,CHN,1,Torino (ITA),09 MAY 2015,1150,10000-metres-race-walk,race-walks,male,senior
-328,39:29.63,,Rhydian COWLEY,04 JAN 1991,AUS,1,"SOPAC, Sydney (AUS)",16 APR 2021,1150,10000-metres-race-walk,race-walks,male,senior
-329,39:29.72,,Axel NOACK,23 SEP 1961,GDR,1,Potsdam (GDR),21 AUG 1987,1149,10000-metres-race-walk,race-walks,male,senior
-330,39:29.73,,Sergio SPAGNULIO,07 OCT 1962,ITA,3,Pescara (ITA),12 SEP 1990,1149,10000-metres-race-walk,race-walks,male,senior
-331,39:29.93,,Hagen POHLE,05 MAR 1992,GER,1,"Stadion An der Lindenstraße, Neukieritzsch (GER)",10 SEP 2022,1149,10000-metres-race-walk,race-walks,male,senior
-332,39:30.14,,Hatem GHOULA,07 JUN 1973,TUN,1,Tunis (TUN),12 APR 2003,1149,10000-metres-race-walk,race-walks,male,senior
-333,39:30.36,,Juan Manuel MOLINA,15 MAR 1979,ESP,3,Riga (LAT),28 MAY 2004,1149,10000-metres-race-walk,race-walks,male,senior
-334,39:30.48,,Yuta KOGA,15 JUL 1999,JPN,5,"Nagaragawa Stadium, Gifu (JPN)",24 SEP 2022,1149,10000-metres-race-walk,race-walks,male,senior
-335,39:30.56,,Hyunsub KIM,31 MAY 1985,KOR,1,Goseong (KOR),30 JUN 2009,1149,10000-metres-race-walk,race-walks,male,senior
-336,39:30.8h,,Rhydian COWLEY,04 JAN 1991,AUS,1,"University Athletics Track, Parkville, Melbourne (AUS)",27 JAN 2020,1149,10000-metres-race-walk,race-walks,male,senior
-337,39:30.86,,Luis Henry CAMPOS,11 OCT 1995,PER,1,"Estadio Atlético de la VIDENA, Lima (PER)",29 MAR 2025,1149,10000-metres-race-walk,race-walks,male,senior
-338,39:31.20,,Ralf KOWALSKY,22 MAR 1962,GDR,1,Lille (FRA),21 JUN 1980,1148,10000-metres-race-walk,race-walks,male,senior
-338,39:31.20,,Ralf KOWALSKY,22 MAR 1962,GDR,1,Villeneuve d'Ascq (FRA),31 MAY 1981,1148,10000-metres-race-walk,race-walks,male,senior
-340,39:31.25,,Giuseppe DISABATO,01 NOV 2006,ITA,3,"Estadio Atlético de la VIDENA, Lima (PER)",30 AUG 2024,1148,10000-metres-race-walk,race-walks,male,senior
-341,39:31.40,,Gérard LELIÈVRE,13 NOV 1949,FRA,1,Sotteville-lès-Rouen (FRA),21 JUL 1984,1148,10000-metres-race-walk,race-walks,male,senior
-342,39:31.50,,Daniel BAUTISTA,04 AUG 1952,MEX,1,Grudziadz (POL),30 MAY 1979,1148,10000-metres-race-walk,race-walks,male,senior
-343,39:31.51,,Hyunsub KIM,31 MAY 1985,KOR,3,Andong (KOR),22 MAY 2007,1148,10000-metres-race-walk,race-walks,male,senior
-344,39:31.58,,Kevin CAMPION,23 MAY 1988,FRA,2,"Stade Josette et Roger Mikulak, Angers (FRA)",29 JUN 2024,1148,10000-metres-race-walk,race-walks,male,senior
-345,39:31.61,,Gabriel BORDIER,08 OCT 1997,FRA,1,"Stade Josette et Roger Mikulak, Angers (FRA)",27 JUN 2021,1148,10000-metres-race-walk,race-walks,male,senior
-346,39:31.72,,Álvaro MARTÍN,18 JUN 1994,ESP,1,Getafe (ESP),22 JUL 2018,1148,10000-metres-race-walk,race-walks,male,senior
-347,39:31.81,,Valentín MASSANA,05 JUL 1970,ESP,1,Tarragona (ESP),24 JUN 1997,1148,10000-metres-race-walk,race-walks,male,senior
-348,39:31.90,,Erling ANDERSEN,22 SEP 1960,NOR,1,Fana (NOR),02 JUN 1987,1148,10000-metres-race-walk,race-walks,male,senior
-349,39:31.96,,Salih KORKMAZ,01 JAN 1997,TUR,1,Bursa (TUR),04 AUG 2019,1148,10000-metres-race-walk,race-walks,male,senior
-350,39:31.99,,Gianluca PICCHIOTTINO,22 AUG 1996,ITA,2,"Campo Mauro Ferrari, Prato (ITA)",16 APR 2023,1148,10000-metres-race-walk,race-walks,male,senior
-351,39:32.0h,,Aleksey KRONIN,23 OCT 1970,RUS,2,Moskva (RUS),21 JAN 1997,1148,10000-metres-race-walk,race-walks,male,senior
-352,39:32.08,,Koichiro MORIOKA,02 APR 1985,JPN,1,Shibetsu (JPN),08 JUN 2008,1148,10000-metres-race-walk,race-walks,male,senior
-352,39:32.08,,Andreas GUSTAFSSON,10 AUG 1981,SWE,2,Helsinki (FIN),30 AUG 2014,1148,10000-metres-race-walk,race-walks,male,senior
-354,39:32.52,,Łukasz NIEDZIAŁEK,15 MAR 2000,POL,1,"Golęcin Stadion, Poznan (POL)",25 JUN 2021,1147,10000-metres-race-walk,race-walks,male,senior
-355,39:32.63,,Perseus KARLSTRÖM,02 MAY 1990,SWE,1,"Olympiastadion, Stockholm (SWE)",04 SEP 2021,1147,10000-metres-race-walk,race-walks,male,senior
-355,39:32.63,,Maher BEN HLIMA,24 JUL 1989,POL,1,"Stadion Zygmunta Szelesta, Warszawa (POL)",27 MAR 2024,1147,10000-metres-race-walk,race-walks,male,senior
-357,39:33.09,,Sergey KOZHEVNIKOV,09 MAY 2001,RUS,4,"Yelena Yelesina Stadium, Chelyabinsk (RUS)",03 AUG 2023,1147,10000-metres-race-walk,race-walks,male,senior
-358,39:33.12,,Giovanni PERRICELLI,25 AUG 1967,ITA,1,Formia (ITA),04 JUN 1994,1147,10000-metres-race-walk,race-walks,male,senior
-359,39:33.16,,Ilya MARKOV,19 JUN 1972,RUS,2,Catania (ITA),06 DEC 2003,1147,10000-metres-race-walk,race-walks,male,senior
-359,39:33.16,,Daisuke MATSUNAGA,24 MAR 1995,JPN,1,Yokohama (JPN),16 MAY 2015,1147,10000-metres-race-walk,race-walks,male,senior
-361,39:33.18,,Zewen LI,05 DEC 1973,CHN,1f1,Chengdu (CHN),08 SEP 2000,1147,10000-metres-race-walk,race-walks,male,senior
-362,39:33.30,,Satoshi MARUO,28 NOV 1991,JPN,4,Abashiri (JPN),16 JUL 2015,1147,10000-metres-race-walk,race-walks,male,senior
-363,39:33.38,,Álvaro MARTÍN,18 JUN 1994,ESP,1,"Estadi Olímpic Camilo Cano, La Nucia (ESP)",31 AUG 2019,1147,10000-metres-race-walk,race-walks,male,senior
-364,39:33.7h,,Moacir ZIMMERMANN,30 DEC 1983,BRA,1,Blumenau (BRA),18 AUG 2018,1147,10000-metres-race-walk,race-walks,male,senior
-365,39:33.79,,Hiroto JUSHO,11 JAN 2000,JPN,5,"Sunrise Park, Saga (JPN)",14 OCT 2024,1147,10000-metres-race-walk,race-walks,male,senior
-366,39:34.0h,,Frants KOSTYUKEVICH,04 APR 1963,BLR,2,Minsk (BLR) (i),04 FEB 1995,1146,10000-metres-race-walk,race-walks,male,senior
-367,39:34.20,,Ernesto CANTO,18 OCT 1959,MEX,1,København (DEN),13 MAY 1984,1146,10000-metres-race-walk,race-walks,male,senior
-368,39:34.40,,Álvaro MARTÍN,18 JUN 1994,ESP,1,Castellón (ESP),04 MAY 2019,1146,10000-metres-race-walk,race-walks,male,senior
-369,39:34.6h,,Aivars RUMBENIEKS,10 MAY 1951,URS,2,Moskva (URS) (i),17 FEB 1980,1146,10000-metres-race-walk,race-walks,male,senior
-370,39:34.97,,Iván LÓPEZ,29 MAR 1997,ESP,2,Cartagena (ESP),17 APR 2021,1146,10000-metres-race-walk,race-walks,male,senior
-371,39:34.99,,Ivan TROTSKI,27 MAY 1976,BLR,3,Catania (ITA),06 DEC 2003,1146,10000-metres-race-walk,race-walks,male,senior
-372,39:35.01,,Stanislav YEMELYANOV,23 OCT 1990,RUS,1,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",11 JUL 2008,1146,10000-metres-race-walk,race-walks,male,senior
-373,39:35.03,,Miguel Ángel LÓPEZ,03 JUL 1988,ESP,2,"Estadi Olímpic Camilo Cano, La Nucia (ESP)",31 AUG 2019,1146,10000-metres-race-walk,race-walks,male,senior
-374,39:35.11,,Álvaro MARTÍN,18 JUN 1994,ESP,1,Murcia (ESP),07 MAY 2022,1146,10000-metres-race-walk,race-walks,male,senior
-375,39:35.29,,Jordy Rafael JIMÉNEZ ARROBO,11 FEB 1994,ECU,3,Guayaquil (ECU),18 APR 2021,1145,10000-metres-race-walk,race-walks,male,senior
-376,39:35.3h,,Danila MARTYNOV,01 MAY 2004,RUS,4,"Football and athletics Arena, Saransk (RUS) (i)",24 SEP 2023,1145,10000-metres-race-walk,race-walks,male,senior
-377,39:35.58,,Álvaro MARTÍN,18 JUN 1994,ESP,1,"Polideportivo Juan de la Cierva, Getafe (ESP)",27 JUN 2021,1145,10000-metres-race-walk,race-walks,male,senior
-378,39:35.6h,,Sergey SAFAROV,26 JAN 1983,RUS,2,Buy (RUS),21 SEP 2008,1145,10000-metres-race-walk,race-walks,male,senior
-379,39:35.62,,Kai KOBAYASHI,28 FEB 1993,JPN,2,Osaka (JPN),24 SEP 2016,1145,10000-metres-race-walk,race-walks,male,senior
-380,39:35.86,,Rihito ISHIDA,19 DEC 2001,JPN,1,"Athletic Track, Abashiri (JPN)",19 JUL 2025,1145,10000-metres-race-walk,race-walks,male,senior
-381,39:35.87,,Marco GIUNGI,30 OCT 1974,ITA,1,Milano (ITA),06 SEP 2000,1145,10000-metres-race-walk,race-walks,male,senior
-382,39:36.0h,,Moacir ZIMMERMANN,30 DEC 1983,BRA,1,Timbó (BRA),21 MAR 2009,1145,10000-metres-race-walk,race-walks,male,senior
-383,39:36.05,,Tim FRASER,22 FEB 2000,AUS,5,"AIS Athletics Track, Canberra (AUS)",27 JAN 2025,1145,10000-metres-race-walk,race-walks,male,senior
-384,39:36.18,,Giovanni DE BENEDICTIS,08 JAN 1968,ITA,1,Livorno (ITA),17 JUN 1995,1145,10000-metres-race-walk,race-walks,male,senior
-385,39:36.39,,Isaac BEACROFT,18 JUL 2007,AUS,4,"Estadio Atlético de la VIDENA, Lima (PER)",30 AUG 2024,1145,10000-metres-race-walk,race-walks,male,senior
-386,39:36.41,,Ronald WEIGEL,08 AUG 1959,GDR,2,Gateshead (GBR),23 JUN 1990,1145,10000-metres-race-walk,race-walks,male,senior
-387,39:36.47,,Hiroto JUSHO,11 JAN 2000,JPN,1,"National Stadium, Tokyo (JPN)",16 MAR 2024,1145,10000-metres-race-walk,race-walks,male,senior
-388,39:36.48,,Andrea COSI,30 APR 2001,ITA,1,"Pista Pietro Mennea, Agropoli (ITA)",17 JUN 2023,1145,10000-metres-race-walk,race-walks,male,senior
-389,39:36.58,,Thierry TOUTAIN,14 FEB 1962,FRA,1,Dreux (FRA),19 JUN 1992,1145,10000-metres-race-walk,race-walks,male,senior
-390,39:36.80,,Eider ARÉVALO,09 MAR 1993,COL,1,"Estadio de Atletismo de la Unidad Deportiva Centenario, Armenia (COL)",02 AUG 2025,1144,10000-metres-race-walk,race-walks,male,senior
-391,39:36.95,,Akinori MATSUZAKI,30 DEC 1981,JPN,1,Tokyo (JPN),11 MAY 2003,1144,10000-metres-race-walk,race-walks,male,senior
-392,39:36.97,,César HERRERA,28 JAN 1999,COL,1,"Pedro Grajales, Cali (COL)",29 JUN 2024,1144,10000-metres-race-walk,race-walks,male,senior
-393,39:37.02,,Lihong CUI,13 MAY 1999,CHN,2,"Pista Fantoni, Mondovi (ITA)",11 MAY 2024,1144,10000-metres-race-walk,race-walks,male,senior
-394,39:37.10,,Diego GARCÍA CARRERA,19 JAN 1996,ESP,2,Castellón (ESP),04 MAY 2019,1144,10000-metres-race-walk,race-walks,male,senior
-395,39:37.4h,,Vitaliy SHVETSOV,20 FEB 1973,RUS,1,Cheboksary (RUS),08 OCT 2000,1144,10000-metres-race-walk,race-walks,male,senior
-396,39:37.59,,Hagen POHLE,05 MAR 1992,GER,2,Beeskow (GER),17 AUG 2019,1144,10000-metres-race-walk,race-walks,male,senior
-397,39:37.65,,Eleftherios THANOPOULOS,22 FEB 1975,GRE,1,Patra (GRE),27 APR 2002,1144,10000-metres-race-walk,race-walks,male,senior
-398,39:37.96,,Hedi TERRAOUI,10 NOV 1989,TUN,3,Paris (FRA),13 JUL 2013,1144,10000-metres-race-walk,race-walks,male,senior
-399,39:38.27,,Gianluca PICCHIOTTINO,22 AUG 1996,ITA,1,Livorno (ITA),22 APR 2018,1143,10000-metres-race-walk,race-walks,male,senior
-400,39:38.6h,,Valdas KAZLAUSKAS,23 FEB 1958,URS,3,Moskva (URS) (i),17 FEB 1980,1143,10000-metres-race-walk,race-walks,male,senior
-400,39:38.6h,,Valdas KAZLAUSKAS,23 FEB 1958,URS,1,Moskva (URS) (i),25 FEB 1980,1143,10000-metres-race-walk,race-walks,male,senior
-402,39:38.75,,Daniel CHAMOSA,04 MAY 1997,ESP,3,"Estadi Natalia Rodríguez, Tarragona (ESP)",01 AUG 2025,1143,10000-metres-race-walk,race-walks,male,senior
-403,39:38.8h,,Yusuke SUZUKI,02 JAN 1988,JPN,2,Tokyo (JPN),17 MAY 2009,1143,10000-metres-race-walk,race-walks,male,senior
-404,39:38.81,,Chilsung PARK,08 JUL 1982,KOR,2,Goseong (KOR),30 JUN 2009,1143,10000-metres-race-walk,race-walks,male,senior
-405,39:38.88,,Ivano BRUGNETTI,01 SEP 1976,ITA,1,Firenze (ITA),05 JUN 2010,1143,10000-metres-race-walk,race-walks,male,senior
-406,39:39.14,,Motofumi SUWA,22 OCT 1999,JPN,2,"Athletic Track, Abashiri (JPN)",19 JUL 2025,1143,10000-metres-race-walk,race-walks,male,senior
-407,39:39.20,,Roland WIESER,06 MAY 1956,GDR,2,København (DEN),13 MAY 1984,1143,10000-metres-race-walk,race-walks,male,senior
-408,39:39.32,,Álvaro MARTÍN,18 JUN 1994,ESP,1,"Pista Parc Central, Torrent (ESP)",28 JUL 2023,1143,10000-metres-race-walk,race-walks,male,senior
-409,39:39.35,,Kai KOBAYASHI,28 FEB 1993,JPN,1,Wakayama (JPN),04 OCT 2015,1143,10000-metres-race-walk,race-walks,male,senior
-410,39:39.36,,Sotaro OSAKA,31 JAN 2006,JPN,5,"Estadio Atlético de la VIDENA, Lima (PER)",30 AUG 2024,1143,10000-metres-race-walk,race-walks,male,senior
-411,39:39.45,,Hagen POHLE,05 MAR 1992,GER,1,Diez (GER),16 SEP 2017,1142,10000-metres-race-walk,race-walks,male,senior
-411,39:39.45,,Vasiliy MIZINOV,29 DEC 1997,ANA,1,"Olympic Stadium, Cheboksary (RUS)",21 JUL 2022,1142,10000-metres-race-walk,race-walks,male,senior
-413,39:39.50,,Ralf KOWALSKY,22 MAR 1962,GDR,1,Halle (GER),21 JUN 1980,1142,10000-metres-race-walk,race-walks,male,senior
-414,39:39.8h,,Nikolay MATVEYEV,15 JAN 1955,URS,1,Kislovodsk (URS),28 FEB 1983,1142,10000-metres-race-walk,race-walks,male,senior
-415,39:39.90,,Daniel BAUTISTA,04 AUG 1952,MEX,1,Grudziadz (POL),30 MAY 1978,1142,10000-metres-race-walk,race-walks,male,senior
-416,39:39.93,,David KENNY,10 JAN 1999,IRL,1,"Morton Stadium, Santry, Dublin (IRL)",02 AUG 2025,1142,10000-metres-race-walk,race-walks,male,senior
-417,39:40.17,,Cristian David BERDEJA,21 JUN 1981,MEX,1,Monterrey (MEX),04 JUL 2004,1142,10000-metres-race-walk,race-walks,male,senior
-418,39:40.24,,Declan TINGAY,06 FEB 1999,AUS,2,"SOPAC, Sydney (AUS)",16 APR 2021,1142,10000-metres-race-walk,race-walks,male,senior
-419,39:40.25,,Alvaro LOPEZ,11 MAR 1999,ESP,4,"Estadi Olímpic Camilo Cano, La Nucia (ESP)",29 JUN 2024,1142,10000-metres-race-walk,race-walks,male,senior
-420,39:40.70,,Kevin CAMPION,23 MAY 1988,FRA,2,"Stade Josette et Roger Mikulak, Angers (FRA)",27 JUN 2021,1142,10000-metres-race-walk,race-walks,male,senior
-421,39:40.74,,Kai KOBAYASHI,28 FEB 1993,JPN,3,Nagasaki (JPN),21 OCT 2014,1142,10000-metres-race-walk,race-walks,male,senior
-422,39:40.8h,,Andrey PERLOV,12 DEC 1961,URS,2,Kislovodsk (URS),28 FEB 1983,1141,10000-metres-race-walk,race-walks,male,senior
-422,39:40.80,,Aleksandr GARIN,28 DEC 1999,RUS,5,"Meteor, Zhukovskiy (RUS)",21 JUN 2025,1141,10000-metres-race-walk,race-walks,male,senior
-424,39:40.93,,Giovanni PERRICELLI,25 AUG 1967,ITA,2,Livorno (ITA),17 JUN 1995,1141,10000-metres-race-walk,race-walks,male,senior
-425,39:40.97,,Aliaksandr LIAKHOVICH,04 JUL 1989,BLR,1,Mogilyov (BLR) (i),18 FEB 2017,1141,10000-metres-race-walk,race-walks,male,senior
-426,39:41.01,,Zhaohe SONG,21 MAR 2006,CHN,6,"Estadio Atlético de la VIDENA, Lima (PER)",30 AUG 2024,1141,10000-metres-race-walk,race-walks,male,senior
-427,39:41.07,,Aliaksandr LIAKHOVICH,04 JUL 1989,BLR,1,"Dinamo National Olympic Stadium, Minsk (BLR)",31 JUL 2020,1141,10000-metres-race-walk,race-walks,male,senior
-428,39:41.40,,Maurizio DAMILANO,06 APR 1957,ITA,1,Torino (ITA),23 MAY 1992,1141,10000-metres-race-walk,race-walks,male,senior
-428,39:41.40,,Giovanni PERRICELLI,25 AUG 1967,ITA,1,Voghera (ITA),13 APR 1995,1141,10000-metres-race-walk,race-walks,male,senior
-428,39:41.40,,Arturo DI MEZZA,16 JUL 1969,ITA,2,Voghera (ITA),13 APR 1995,1141,10000-metres-race-walk,race-walks,male,senior
-431,39:41.53,,Killian LEBRETON,23 AUG 2000,FRA,2,"Stade Pierre Paul Bernard, Talence (FRA)",02 AUG 2025,1141,10000-metres-race-walk,race-walks,male,senior
-432,39:41.55,,André HÖHNE,10 MAR 1978,GER,2,Braunschweig (GER),10 JUL 2004,1141,10000-metres-race-walk,race-walks,male,senior
-433,39:41.69,,Isamu FUJISAWA,12 OCT 1987,JPN,4,Nagasaki (JPN),21 OCT 2014,1141,10000-metres-race-walk,race-walks,male,senior
-434,39:41.70,,David SMITH,24 JUL 1955,AUS,1,"Collingwood, Melbourne (AUS)",15 FEB 1984,1141,10000-metres-race-walk,race-walks,male,senior
-435,39:41.81,,Sergey KOZHEVNIKOV,09 MAY 2001,RUS,1,"Yelena Yelesina Stadium, Chelyabinsk (RUS)",08 JUL 2023,1141,10000-metres-race-walk,race-walks,male,senior
-436,39:41.90,,Yushi NAKAJIMA,29 JAN 2005,JPN,1,"Gion Stadium, Sagamihara (JPN)",10 MAY 2025,1141,10000-metres-race-walk,race-walks,male,senior
-437,39:41.95,,Maurizio DAMILANO,06 APR 1957,ITA,1,Roma (ITA),10 JUL 1985,1141,10000-metres-race-walk,race-walks,male,senior
-438,39:42.12,,Christopher LINKE,24 OCT 1988,GER,1,Bühlertal (GER),21 JUN 2014,1141,10000-metres-race-walk,race-walks,male,senior
-439,39:42.19,,Siarhei CHARNOU,05 FEB 1979,BLR,2,Mogilyov (BLR) (i),22 FEB 2008,1140,10000-metres-race-walk,race-walks,male,senior
-440,39:42.38,,Takaki MATSUZAKI,12 AUG 1992,JPN,2f1,Tama (JPN),14 DEC 2013,1140,10000-metres-race-walk,race-walks,male,senior
-441,39:42.45,,Mattéo DUC,25 MAR 2001,FRA,3,"Stade Pierre Paul Bernard, Talence (FRA)",02 AUG 2025,1140,10000-metres-race-walk,race-walks,male,senior
-442,39:42.5h,,Oleg TROSHIN,01 AUG 1964,RUS,1,Moskva (RUS) (i),26 FEB 1992,1140,10000-metres-race-walk,race-walks,male,senior
-443,39:42.54,,Zdzisław SZLAPKIN,18 JAN 1961,POL,1,Stargard (POL),10 SEP 1988,1140,10000-metres-race-walk,race-walks,male,senior
-444,39:42.7h,,Sergey PROTISHIN,17 APR 1959,URS,3,Kislovodsk (URS),28 FEB 1983,1140,10000-metres-race-walk,race-walks,male,senior
-444,39:42.7h,,Francesco FORTUNATO,13 DEC 1994,ITA,,"Stadio N.Martellini Caracalla, Roma (ITA)",18 APR 2021,1140,10000-metres-race-walk,race-walks,male,senior
-446,39:43.05,,Hirofumi SAKAI,10 FEB 1965,JPN,1,Fukuoka (JPN),25 OCT 1990,1140,10000-metres-race-walk,race-walks,male,senior
-447,39:43.11,,Jamie COSTIN,01 JUN 1977,IRL,2,Dublin (IRL),11 JUL 2010,1140,10000-metres-race-walk,race-walks,male,senior
-448,39:43.14,,Maurizio DAMILANO,06 APR 1957,ITA,1,Grosseto (ITA),11 AUG 1991,1140,10000-metres-race-walk,race-walks,male,senior
-449,39:43.20,,Giorgio RUBINO,15 APR 1986,ITA,1,Firenze (ITA),04 JUN 2011,1140,10000-metres-race-walk,race-walks,male,senior
-450,39:43.24,,Andres Eduardo OLIVAS NÚÑEZ,27 MAY 1998,MEX,1,"Unidad Deportiva Mario Vázquez Raña, Puebla (MEX)",22 JUL 2023,1140,10000-metres-race-walk,race-walks,male,senior
-451,39:43.36,,Axel NOACK,23 SEP 1961,GDR,1,Berlin (GER) (i),04 FEB 1990,1140,10000-metres-race-walk,race-walks,male,senior
-452,39:43.56,,Manuel BERMÚDEZ,12 DEC 1997,ESP,1,"Estadio Enrique Lopez Cuenca, Nerja (ESP)",25 JUN 2022,1139,10000-metres-race-walk,race-walks,male,senior
-453,39:43.72,,Satoshi MARUO,28 NOV 1991,JPN,1,"Yanmar Stadium Nagai, Osaka (JPN)",21 SEP 2019,1139,10000-metres-race-walk,race-walks,male,senior
-454,39:43.81,,Ivan LOSEV,26 JAN 1986,UKR,1,Sumy (UKR) (i),16 FEB 2012,1139,10000-metres-race-walk,race-walks,male,senior
-455,39:43.85,,Tim SEAMAN,14 MAY 1972,USA,1,"Philadelphia, PA (USA)",24 APR 1999,1139,10000-metres-race-walk,race-walks,male,senior
-456,39:43.91,,Maurizio DAMILANO,06 APR 1957,ITA,1,Torino (ITA),02 JUN 1984,1139,10000-metres-race-walk,race-walks,male,senior
-457,39:44.00,,Valdas KAZLAUSKAS,23 FEB 1958,URS,1,Kaunas (LTU),07 JUL 1985,1139,10000-metres-race-walk,race-walks,male,senior
-458,39:44.10,,Evan DUNFEE,28 SEP 1990,CAN,3,"AIS Athletics Track, Canberra (AUS)",02 FEB 2023,1139,10000-metres-race-walk,race-walks,male,senior
-459,39:44.14,,Francesco FORTUNATO,13 DEC 1994,ITA,1,Orvieto (ITA),23 APR 2017,1139,10000-metres-race-walk,race-walks,male,senior
-460,39:44.21,,Yuta KOGA,15 JUL 1999,JPN,1,"Prefectural Kasamatsu Stadium, Hitachinaka (JPN)",08 OCT 2019,1139,10000-metres-race-walk,race-walks,male,senior
-461,39:44.40,,Koichiro MORIOKA,02 APR 1985,JPN,2,Yamagata (JPN),27 SEP 2008,1139,10000-metres-race-walk,race-walks,male,senior
-462,39:44.41,,Aliaksandr LIAKHOVICH,04 JUL 1989,BLR,1,"Olimpiyets Arena, Mogilyov (BLR) (i)",21 FEB 2020,1139,10000-metres-race-walk,race-walks,male,senior
-463,39:44.5h,,Frants KOSTYUKEVICH,04 APR 1963,URS,1,Alushta (URS),23 FEB 1985,1139,10000-metres-race-walk,race-walks,male,senior
-464,39:44.70,,Jean Jacques NKOULOUKIDI,15 APR 1982,ITA,1,Torino (ITA),25 JUN 2011,1139,10000-metres-race-walk,race-walks,male,senior
-465,39:44.71,,Giovanni DE BENEDICTIS,08 JAN 1968,ITA,1,"Alexander Stadium, Birmingham (GBR)",07 AUG 1987,1139,10000-metres-race-walk,race-walks,male,senior
-466,39:44.78,,Eiki TAKAHASHI,19 NOV 1992,JPN,1,Kumagaya (JPN),07 SEP 2014,1139,10000-metres-race-walk,race-walks,male,senior
-467,39:44.86,,Evan DUNFEE,28 SEP 1990,CAN,1,Coquitlam (CAN),09 JUN 2019,1139,10000-metres-race-walk,race-walks,male,senior
-468,39:44.87,,Jean-Claude CORRE,14 SEP 1961,FRA,2,Dreux (FRA),19 JUN 1992,1139,10000-metres-race-walk,race-walks,male,senior
-469,39:44.91,,João VIEIRA,20 FEB 1976,POR,1,Lisboa (POR),30 JUL 2011,1139,10000-metres-race-walk,race-walks,male,senior
-470,39:45.0h,,Yevgeniy SHMALYUK,14 JAN 1976,RUS,1,St. Petersburg (RUS) (i),03 DEC 2000,1138,10000-metres-race-walk,race-walks,male,senior
-471,39:45.20,,Andriy KOVENKO,25 NOV 1973,UKR,1,Yalta (UKR),29 MAY 2010,1138,10000-metres-race-walk,race-walks,male,senior
-472,39:45.25,,Aliaksandr LIAKHOVICH,04 JUL 1989,BLR,1,Minsk (BLR),10 JUL 2015,1138,10000-metres-race-walk,race-walks,male,senior
-473,39:45.3h,,Kirill FROLOV,29 SEP 1993,RUS,5,"Football and athletics Arena, Saransk (RUS) (i)",24 SEP 2023,1138,10000-metres-race-walk,race-walks,male,senior
-474,39:45.84,,Mazlum DEMIR,19 DEC 2003,TUR,1,"Fana Stadion, Bergen (NOR)",20 JUL 2025,1138,10000-metres-race-walk,race-walks,male,senior
-475,39:45.87,,Danila MARTYNOV,01 MAY 2004,RUS,4,"Olympic Stadium, Cheboksary (RUS)",02 AUG 2022,1138,10000-metres-race-walk,race-walks,male,senior
-476,39:45.92,,Toshikazu YAMANISHI,15 FEB 1996,JPN,3,Fukui (JPN),07 OCT 2018,1138,10000-metres-race-walk,race-walks,male,senior
-477,39:46.00,,Aivars RUMBENIEKS,10 MAY 1951,URS,1,Riga (LAT),16 JUN 1984,1138,10000-metres-race-walk,race-walks,male,senior
-478,39:46.10,,Giovanni DE BENEDICTIS,08 JAN 1968,ITA,1,Besancon (FRA),18 JUL 1987,1138,10000-metres-race-walk,race-walks,male,senior
-478,39:46.1h,,Vladimir POTEMIN,24 JAN 1980,RUS,3,Saransk (RUS),19 JUN 2005,1138,10000-metres-race-walk,race-walks,male,senior
-480,39:46.14,,Moussa AOUANOUK,02 AUG 1972,ALG,1,Tunis (TUN),03 JUN 2000,1138,10000-metres-race-walk,race-walks,male,senior
-481,39:46.15,,Rhydian COWLEY,04 JAN 1991,AUS,2,"AIS Athletics Track, Canberra (AUS)",06 JAN 2023,1138,10000-metres-race-walk,race-walks,male,senior
-482,39:46.25,,Francesco FORTUNATO,13 DEC 1994,ITA,1,Tunis (TUN),04 JUN 2016,1138,10000-metres-race-walk,race-walks,male,senior
-483,39:46.60,,Eiki TAKAHASHI,19 NOV 1992,JPN,1,Abashiri (JPN),13 JUL 2017,1137,10000-metres-race-walk,race-walks,male,senior
-484,39:46.62,,Andriy KOVENKO,25 NOV 1973,UKR,2,Sumy (UKR) (i),20 FEB 2010,1137,10000-metres-race-walk,race-walks,male,senior
-485,39:46.66,,Yuga MAEKAWA,09 DEC 2003,JPN,2,"Gion Stadium, Sagamihara (JPN)",10 MAY 2025,1137,10000-metres-race-walk,race-walks,male,senior
-486,39:46.68,,Il-yong SHIN,17 FEB 1979,KOR,3,Goseong (KOR),30 JUN 2009,1137,10000-metres-race-walk,race-walks,male,senior
-487,39:46.74,,Yohann DINIZ,01 JAN 1978,FRA,1,Angers (FRA),16 JUN 2012,1137,10000-metres-race-walk,race-walks,male,senior
-488,39:46.78,,Nitin GUPTA,01 JAN 2008,IND,1,"Madan Mohan Malviya Sports Stadium, Prayagraj (IND)",23 JUN 2025,1137,10000-metres-race-walk,race-walks,male,senior
-489,39:46.79,,Giovanni DE BENEDICTIS,08 JAN 1968,ITA,2,Roma (ITA),09 JUL 1998,1137,10000-metres-race-walk,race-walks,male,senior
-490,39:46.83,,Eder SÁNCHEZ,21 MAY 1986,MEX,1,Ciudad de México (MEX),26 JUN 2011,1137,10000-metres-race-walk,race-walks,male,senior
-491,39:46.84,,Maurizio DAMILANO,06 APR 1957,ITA,2,Neubrandenburg (GDR),10 JUL 1988,1137,10000-metres-race-walk,race-walks,male,senior
-492,39:46.88,,Rhydian COWLEY,04 JAN 1991,AUS,3,"Queensland Sport and Athletics Centre, Nathan, Brisbane (AUS)",31 MAR 2023,1137,10000-metres-race-walk,race-walks,male,senior
-492,39:46.88,,Francesco FORTUNATO,13 DEC 1994,ITA,1,"Campo Comunale, Modena (ITA)",21 SEP 2024,1137,10000-metres-race-walk,race-walks,male,senior
-494,39:46.89,,Hyunmyeong JOO,31 MAY 1997,KOR,1,"Iksan Stadium, Iksan (KOR)",29 MAR 2023,1137,10000-metres-race-walk,race-walks,male,senior
-495,39:46.90,,Nazar KOVALENKO,09 FEB 1987,UKR,1,Yalta (UKR),15 OCT 2010,1137,10000-metres-race-walk,race-walks,male,senior
-496,39:46.92,,Maksim DENISOV,07 MAY 2005,RUS,6,"Meteor, Zhukovskiy (RUS)",21 JUN 2025,1137,10000-metres-race-walk,race-walks,male,senior
-496,39:46.92,,Álvaro LÓPEZ,24 MAR 1999,ESP,4,"Estadi Natalia Rodríguez, Tarragona (ESP)",01 AUG 2025,1137,10000-metres-race-walk,race-walks,male,senior
-498,39:47.00,,Karl-Heinz STADTMÜLLER,30 JAN 1953,GDR,3,Potsdam (GDR),13 JUL 1980,1137,10000-metres-race-walk,race-walks,male,senior
-498,39:47.0h,,Viktor OSIPOV,04 MAY 1965,RUS,2,Moskva (RUS) (i),26 FEB 1992,1137,10000-metres-race-walk,race-walks,male,senior
-498,39:47.0h,,Anton KUČMÍN,07 JUN 1984,SVK,2,Banská Bystrica (SVK),29 APR 2011,1137,10000-metres-race-walk,race-walks,male,senior
-498,39:47.0h,,Matteo GIUPPONI,08 OCT 1988,ITA,1,Brusaporto (ITA),26 MAY 2013,1137,10000-metres-race-walk,race-walks,male,senior
-502,39:47.17,,Álvaro MARTÍN,18 JUN 1994,ESP,1,Barcelona (ESP),23 JUL 2017,1137,10000-metres-race-walk,race-walks,male,senior
-503,39:47.2h,,Aleksandr BORYASHINOV,20 JUN 1963,URS,2,Alushta (URS),23 FEB 1985,1137,10000-metres-race-walk,race-walks,male,senior
-503,39:47.20,,Ding CHEN,05 AUG 1992,CHN,2,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",11 JUL 2008,1137,10000-metres-race-walk,race-walks,male,senior
-505,39:47.60,,Lorenzo CIVALLERO,08 AUG 1975,ITA,3,Pescara (ITA),14 SEP 2002,1137,10000-metres-race-walk,race-walks,male,senior
-506,39:47.77,,Diego GARCÍA CARRERA,19 JAN 1996,ESP,1,Torrent (ESP),01 JUL 2017,1136,10000-metres-race-walk,race-walks,male,senior
-507,39:47.97,,Aliaksandr LIAKHOVICH,04 JUL 1989,BLR,1,Mogilyov (BLR) (i),21 FEB 2014,1136,10000-metres-race-walk,race-walks,male,senior
-508,39:48.0h,,Sergey MELENTYEV,05 DEC 1976,RUS,1,Novokuznetsk (RUS) (i),31 DEC 2000,1136,10000-metres-race-walk,race-walks,male,senior
-509,39:48.04,,Will THOMPSON,18 NOV 2002,AUS,6,"AIS Athletics Track, Canberra (AUS)",27 JAN 2025,1136,10000-metres-race-walk,race-walks,male,senior
-510,39:48.14,,Federico TONTODONATI,30 OCT 1989,ITA,1,"Campo Sportivo Putti, Bergamo (ITA)",10 SEP 2020,1136,10000-metres-race-walk,race-walks,male,senior
-511,39:48.43,,Kai KOBAYASHI,28 FEB 1993,JPN,2,Gifu (JPN),26 SEP 2015,1136,10000-metres-race-walk,race-walks,male,senior
-512,39:48.52,,Ivano BRUGNETTI,01 SEP 1976,ITA,1,Torino (ITA),07 JUL 2006,1136,10000-metres-race-walk,race-walks,male,senior
-512,39:48.52,,Yuki YAMAZAKI,16 JAN 1984,JPN,2,Shibetsu (JPN),08 JUN 2008,1136,10000-metres-race-walk,race-walks,male,senior
-514,39:48.54,,Zdzisław SZLAPKIN,18 JAN 1961,POL,1,Lublin (POL),06 AUG 1988,1136,10000-metres-race-walk,race-walks,male,senior
-515,39:48.56,,Mingyu KIM,28 FEB 1999,KOR,2,"Iksan Stadium, Iksan (KOR)",29 MAR 2023,1136,10000-metres-race-walk,race-walks,male,senior
-516,39:48.6h,,Salavat ILKAYEV,14 SEP 2000,RUS,1,Cheboksary (RUS),16 JUN 2019,1136,10000-metres-race-walk,race-walks,male,senior
-517,39:48.63,,Dane BIRD-SMITH,15 JUL 1992,AUS,1,Bedford (GBR),22 JUN 2014,1136,10000-metres-race-walk,race-walks,male,senior
-518,39:48.65,,Eric GUEVARA,25 AUG 1980,MEX,2,Monterrey (MEX),04 JUL 2004,1136,10000-metres-race-walk,race-walks,male,senior
-519,39:48.70,,Ralf KOWALSKY,22 MAR 1962,GDR,3,København (DEN),13 MAY 1984,1136,10000-metres-race-walk,race-walks,male,senior
-520,39:48.8h,,Ivan TROTSKI,27 MAY 1976,BLR,1,Minsk (BLR),18 JUL 2012,1136,10000-metres-race-walk,race-walks,male,senior
-521,39:48.84,,Atsuki TSUCHIYA,06 AUG 2003,JPN,6,"Sunrise Park, Saga (JPN)",14 OCT 2024,1136,10000-metres-race-walk,race-walks,male,senior
-522,39:48.94,,Jan ALBRECHT,23 JUL 1981,GER,1,"Wattenscheid, Bochum (GER)",02 JUL 2005,1136,10000-metres-race-walk,race-walks,male,senior
-523,39:49.00,,Martín BERMÚDEZ,19 JUL 1958,MEX,5,Hildesheim (GER),06 SEP 1986,1136,10000-metres-race-walk,race-walks,male,senior
-524,39:49.1h,,Perseus KARLSTRÖM,02 MAY 1990,SWE,2,"University Athletics Track, Parkville, Melbourne (AUS)",27 JAN 2020,1136,10000-metres-race-walk,race-walks,male,senior
-525,39:49.18,,Kai KOBAYASHI,28 FEB 1993,JPN,3,Kitakami (JPN),09 OCT 2016,1135,10000-metres-race-walk,race-walks,male,senior
-526,39:49.22,,Chuang PEI,05 DEC 1981,CHN,2f1,Chengdu (CHN),08 SEP 2000,1135,10000-metres-race-walk,race-walks,male,senior
-527,39:49.26,,Wei YU,11 SEP 1987,CHN,3,Asti (ITA),21 MAY 2016,1135,10000-metres-race-walk,race-walks,male,senior
-527,39:49.26,,Gianluca PICCHIOTTINO,22 AUG 1996,ITA,2,Orvieto (ITA),23 APR 2017,1135,10000-metres-race-walk,race-walks,male,senior
-529,39:49.38,,Luis Henry CAMPOS,11 OCT 1995,PER,2,"Estadio Atlético de la VIDENA, Lima (PER)",16 JUL 2025,1135,10000-metres-race-walk,race-walks,male,senior
-530,39:49.44,,Tianlei LI,23 SEP 1990,CHN,4,Tianjin (CHN),16 SEP 2012,1135,10000-metres-race-walk,race-walks,male,senior
-531,39:49.55,,Nazar KOVALENKO,09 FEB 1987,UKR,2,Sumy (UKR) (i),16 FEB 2012,1135,10000-metres-race-walk,race-walks,male,senior
-532,39:49.56,,Lyubomir IVANOV,09 MAR 1960,BUL,1,Sofia (BUL),03 SEP 1988,1135,10000-metres-race-walk,race-walks,male,senior
-533,39:49.64,,Pavol BLAŽEK,09 JUL 1958,TCH,3,Banská Bystrica (TCH),30 AUG 1985,1135,10000-metres-race-walk,race-walks,male,senior
-533,39:49.64,,Ivan BANZERUK,09 FEB 1990,UKR,1,"KMSHVSM Arena, Kyiv (UKR) (i)",03 FEB 2024,1135,10000-metres-race-walk,race-walks,male,senior
-533,39:49.64,,Emiliano BRIGANTE,27 MAY 2003,ITA,2,"Fana Stadion, Bergen (NOR)",20 JUL 2025,1135,10000-metres-race-walk,race-walks,male,senior
-536,39:49.73,,Valentin KONONEN,07 MAR 1969,FIN,1,Vantaa (FIN),05 SEP 1992,1135,10000-metres-race-walk,race-walks,male,senior
-537,39:50.03,,Bertrand MOULINET,06 JAN 1987,FRA,4,Paris (FRA),13 JUL 2013,1135,10000-metres-race-walk,race-walks,male,senior
-538,39:50.04,,Nils BREMBACH,23 FEB 1993,GER,3,Beeskow (GER),17 AUG 2019,1135,10000-metres-race-walk,race-walks,male,senior
-539,39:50.1h,,Kyle SWAN,28 MAR 1999,AUS,2,"AIS Athletics Track, Canberra (AUS)",15 JAN 2022,1135,10000-metres-race-walk,race-walks,male,senior
-540,39:50.17,,Giorgio RUBINO,15 APR 1986,ITA,1,Saluzzo (ITA),18 JUL 2012,1135,10000-metres-race-walk,race-walks,male,senior
-541,39:50.32,,Ivan KAKAYEV,13 AUG 1997,RUS,2,Cheboksary (RUS),25 JUN 2016,1135,10000-metres-race-walk,race-walks,male,senior
-542,39:50.34,,Álvaro MARTÍN,18 JUN 1994,ESP,1,Murcia (ESP),30 JAN 2021,1135,10000-metres-race-walk,race-walks,male,senior
-543,39:50.38,,Paul MCGRATH,07 MAR 2002,ESP,1,Santander (ESP),10 JUL 2022,1135,10000-metres-race-walk,race-walks,male,senior
-544,39:50.40,,Abdelwahib FERGUENE,18 NOV 1958,ALG,1,Algiers (ALG),02 JUL 1988,1135,10000-metres-race-walk,race-walks,male,senior
-544,39:50.40,,Vyacheslav CHEREPANOV,02 NOV 1964,URS,1,Moskva (URS),10 JUN 1991,1135,10000-metres-race-walk,race-walks,male,senior
-544,39:50.4h,,David RARUNGU,,KEN,2,Nyeri (KEN),21 MAR 2009,1135,10000-metres-race-walk,race-walks,male,senior
-547,39:50.44,,Rui WANG,06 JAN 1996,CHN,,Torino (ITA),26 MAY 2018,1135,10000-metres-race-walk,race-walks,male,senior
-548,39:50.45,,César HERRERA,28 JAN 1999,COL,2,"Estadio de Atletismo de la Unidad Deportiva Centenario, Armenia (COL)",02 AUG 2025,1135,10000-metres-race-walk,race-walks,male,senior
-549,39:50.5h,,Evan DUNFEE,28 SEP 1990,CAN,3,"University Athletics Track, Parkville, Melbourne (AUS)",27 JAN 2020,1135,10000-metres-race-walk,race-walks,male,senior
-550,39:50.52,,José Manuel PÉREZ,10 SEP 1999,ESP,5,"Estadi Natalia Rodríguez, Tarragona (ESP)",01 AUG 2025,1134,10000-metres-race-walk,race-walks,male,senior
-551,39:50.53,,Zhen WANG,24 AUG 1991,CHN,2,Saluzzo (ITA),18 JUL 2012,1134,10000-metres-race-walk,race-walks,male,senior
-552,39:50.73,,Jefferson PÉREZ,01 JUL 1974,ECU,1,Winnipeg (CAN),16 JUL 1993,1134,10000-metres-race-walk,race-walks,male,senior
-553,39:50.85,,Alberto AMEZCUA,10 MAY 1992,ESP,2,Getafe (ESP),22 JUL 2018,1134,10000-metres-race-walk,race-walks,male,senior
-554,39:50.88,,Alberto AMEZCUA,10 MAY 1992,ESP,2,Barcelona (ESP),23 JUL 2017,1134,10000-metres-race-walk,race-walks,male,senior
-555,39:50.93,,Gianluca PICCHIOTTINO,22 AUG 1996,ITA,2,Roma (ITA),28 APR 2019,1134,10000-metres-race-walk,race-walks,male,senior
-556,39:51.10,,Miguel Ángel PRIETO,20 SEP 1964,ESP,1,Pontevedra (ESP),20 JUL 1986,1134,10000-metres-race-walk,race-walks,male,senior
-557,39:51.11,,Christopher LINKE,24 OCT 1988,GER,1,"Mittelbergstadion, Bühlertal (GER)",24 JUN 2023,1134,10000-metres-race-walk,race-walks,male,senior
-558,39:51.34,,Gérard LELIÈVRE,13 NOV 1949,FRA,1,Hannover (GER),15 JUN 1984,1134,10000-metres-race-walk,race-walks,male,senior
-558,39:51.34,,Yusuke SUZUKI,02 JAN 1988,JPN,1,Fukuoka (JPN),22 SEP 2012,1134,10000-metres-race-walk,race-walks,male,senior
-560,39:51.44,,Yusuke SUZUKI,02 JAN 1988,JPN,1,Abashiri (JPN),22 JUN 2011,1134,10000-metres-race-walk,race-walks,male,senior
-561,39:51.5h,,Moacir ZIMMERMANN,30 DEC 1983,BRA,1,Blumenau (BRA),17 JUN 2017,1134,10000-metres-race-walk,race-walks,male,senior
-562,39:51.54,,Sergey KOZHEVNIKOV,09 MAY 2001,RUS,1,Cheboksary (RUS),03 AUG 2019,1134,10000-metres-race-walk,race-walks,male,senior
-563,39:51.59,,Diego GARCÍA CARRERA,19 JAN 1996,ESP,2,"Hayward Field, Eugene, OR (USA)",25 JUL 2014,1134,10000-metres-race-walk,race-walks,male,senior
-564,39:51.6h,,Vasiliy IVANOV,26 DEC 1976,RUS,4,Saransk (RUS),19 JUN 2005,1134,10000-metres-race-walk,race-walks,male,senior
-565,39:51.63,,Sotaro OSAKA,31 JAN 2006,JPN,3,"Gion Stadium, Sagamihara (JPN)",10 MAY 2025,1134,10000-metres-race-walk,race-walks,male,senior
-566,39:51.64,,Miguel Ángel LÓPEZ,03 JUL 1988,ESP,1,Cartagena (ESP),06 MAY 2017,1134,10000-metres-race-walk,race-walks,male,senior
-567,39:51.92,,Davide FINOCCHIETTI,16 OCT 2001,ITA,5f1,"Campo Mauro Ferrari, Prato (ITA)",13 APR 2025,1133,10000-metres-race-walk,race-walks,male,senior
-568,39:52.0h,,Anatoliy SOLOMIN,02 JUL 1952,URS,4,Kislovodsk (URS),28 FEB 1983,1133,10000-metres-race-walk,race-walks,male,senior
-568,39:52.00,,Colin GRIFFIN,03 AUG 1982,IRL,2,Dublin (IRL),22 JUL 2007,1133,10000-metres-race-walk,race-walks,male,senior
-570,39:52.05,,Callum WILKINSON,14 MAR 1997,GBR,,"Santry, Dublin (IRL)",29 AUG 2020,1133,10000-metres-race-walk,race-walks,male,senior
-571,39:52.2h,,Artur SHUMAK,19 OCT 1963,BLR,4,Minsk (BLR) (i),02 FEB 1996,1133,10000-metres-race-walk,race-walks,male,senior
-571,39:52.20,,Álvaro MARTÍN,18 JUN 1994,ESP,2,Alcobendas (ESP),28 JUL 2013,1133,10000-metres-race-walk,race-walks,male,senior
-571,39:52.2h,,Massimo STANO,27 FEB 1992,ITA,,"Stadio N.Martellini Caracalla, Roma (ITA)",18 APR 2021,1133,10000-metres-race-walk,race-walks,male,senior
-574,39:52.25,,Jozef PRIBILINEC,06 JUL 1960,TCH,1,Bratislava (TCH),08 JUN 1988,1133,10000-metres-race-walk,race-walks,male,senior
-575,39:52.33,,Stefan JOHANSSON,11 APR 1967,SWE,1,Stockholm (SWE),28 AUG 1994,1133,10000-metres-race-walk,race-walks,male,senior
-576,39:52.36,,Cristhian JUÁREZ LÓPEZ,02 DEC 2002,MEX,1,"Unidad Deportiva Agustín Flores, Puerto Vallarta (MEX)",21 FEB 2025,1133,10000-metres-race-walk,race-walks,male,senior
-577,39:52.40,,Carlo MATTIOLI,23 OCT 1954,ITA,1,Modena (ITA),05 MAY 1985,1133,10000-metres-race-walk,race-walks,male,senior
-577,39:52.40,,Mukola RUSHCHAK,30 OCT 2003,UKR,2,"Miesto Stadionas, Alytus (LTU)",20 SEP 2024,1133,10000-metres-race-walk,race-walks,male,senior
-579,39:52.45,,Sho SAKAZAKI,22 FEB 1999,JPN,1,Saitama (JPN),25 DEC 2017,1133,10000-metres-race-walk,race-walks,male,senior
-580,39:52.47,,Riku KANEKO,15 MAR 2005,JPN,3,"Prefectural Stadium, Okayama (JPN)",07 JUN 2025,1133,10000-metres-race-walk,race-walks,male,senior
-581,39:52.54,,Yutaro MURAYAMA,29 SEP 1998,JPN,4,"Municipal Stadium, Kitami (JPN)",06 JUL 2024,1133,10000-metres-race-walk,race-walks,male,senior
-582,39:52.64,,Alessandro GANDELLINI,30 APR 1973,ITA,3,Roma (ITA),09 JUL 1998,1133,10000-metres-race-walk,race-walks,male,senior
-583,39:52.75,,Ihor LYASHCHENKO,24 AUG 1993,UKR,1,Yalta (UKR),17 MAY 2013,1133,10000-metres-race-walk,race-walks,male,senior
-584,39:52.86,,Ryutaro YAMAMOTO,17 SEP 1998,JPN,1f1,"Gion Stadium, Sagamihara (JPN)",22 NOV 2020,1133,10000-metres-race-walk,race-walks,male,senior
-585,39:52.88,,Maurizio DAMILANO,06 APR 1957,ITA,1,Helsinki (FIN),24 JUL 1985,1133,10000-metres-race-walk,race-walks,male,senior
-586,39:52.96,,Christopher LINKE,24 OCT 1988,GER,1,Kassel (GER),24 JUL 2011,1133,10000-metres-race-walk,race-walks,male,senior
-587,39:52.99,,Walter ARENA,30 MAY 1964,ITA,2,Roma (ITA),10 JUL 1985,1133,10000-metres-race-walk,race-walks,male,senior
-588,39:53.0h,,Grigoriy SERGEYEV,27 APR 1976,RUS,2,Novokuznetsk (RUS) (i),31 DEC 2000,1133,10000-metres-race-walk,race-walks,male,senior
-589,39:53.09,,Aleksi OJALA,09 DEC 1992,FIN,1,"Olympiastadion, Stockholm (SWE)",03 SEP 2023,1133,10000-metres-race-walk,race-walks,male,senior
-590,39:53.26,,Érick Bernabé BARRONDO,14 JUN 1991,GUA,1,"CVEATC, Chula Vista, CA (USA)",02 JUN 2024,1133,10000-metres-race-walk,race-walks,male,senior
-591,39:53.36,,Artem SELIN,04 JAN 2001,RUS,5,"Yelena Yelesina Stadium, Chelyabinsk (RUS)",03 AUG 2023,1132,10000-metres-race-walk,race-walks,male,senior
-592,39:53.42,,Maksim DENISOV,07 MAY 2005,RUS,2,"Yelena Yelesina Stadium, Chelyabinsk (RUS)",08 JUL 2023,1132,10000-metres-race-walk,race-walks,male,senior
-593,39:53.54,,Bernardo Uriel BARRONDO,05 JUN 1993,GUA,2,"CVEATC, Chula Vista, CA (USA)",02 JUN 2024,1132,10000-metres-race-walk,race-walks,male,senior
-594,39:53.61,,Hiroto JUSHO,11 JAN 2000,JPN,1,"Takebishi Stadium, Kyoto (JPN)",11 SEP 2022,1132,10000-metres-race-walk,race-walks,male,senior
-595,39:53.68,,Diego GARCÍA CARRERA,19 JAN 1996,ESP,2,Murcia (ESP),07 MAY 2022,1132,10000-metres-race-walk,race-walks,male,senior
-596,39:53.70,,Ivan TROTSKI,27 MAY 1976,BLR,2,Mogilyov (BLR) (i),21 FEB 2014,1132,10000-metres-race-walk,race-walks,male,senior
-597,39:53.82,,Perseus KARLSTRÖM,02 MAY 1990,SWE,1,"Olympiastadion, Helsinki (FIN)",31 AUG 2024,1132,10000-metres-race-walk,race-walks,male,senior
-598,39:53.85,,Lorenzo CIVALLERO,08 AUG 1975,ITA,4,Riga (LAT),28 MAY 2004,1132,10000-metres-race-walk,race-walks,male,senior
-599,39:53.89,,Dane BIRD-SMITH,15 JUL 1992,AUS,1,Brisbane (AUS),27 MAR 2015,1132,10000-metres-race-walk,race-walks,male,senior
-600,39:53.90,,Erling ANDERSEN,22 SEP 1960,NOR,1,Font-Romeu (FRA),17 JUL 1980,1132,10000-metres-race-walk,race-walks,male,senior
-600,39:53.9h,,Semyon LOVKIN,14 JUL 1977,RUS,2,Cheboksary (RUS),08 OCT 2000,1132,10000-metres-race-walk,race-walks,male,senior
-602,39:53.99,,Sergey KOREPANOV,09 MAY 1964,KAZ,1,Almaty (KAZ),23 MAY 1999,1132,10000-metres-race-walk,race-walks,male,senior
-603,39:54.00,,Ernesto CANTO,18 OCT 1959,MEX,1,Arboga (SWE),23 MAY 1982,1132,10000-metres-race-walk,race-walks,male,senior
-604,39:54.04,,Zdzisław SZLAPKIN,18 JAN 1961,POL,1,Bydgoszcz (POL),01 AUG 1987,1132,10000-metres-race-walk,race-walks,male,senior
-605,39:54.30,,Kevin CAMPION,23 MAY 1988,FRA,3,"Stade Helitas, Caen (FRA)",26 JUN 2022,1132,10000-metres-race-walk,race-walks,male,senior
-605,39:54.30,,Isaac BEACROFT,18 JUL 2007,AUS,1,"WA Athletics Stadium, Perth (AUS)",10 APR 2025,1132,10000-metres-race-walk,race-walks,male,senior
-607,39:54.33,,Hagen POHLE,05 MAR 1992,GER,1,Jüterbog (GER),22 JUN 2013,1132,10000-metres-race-walk,race-walks,male,senior
-608,39:54.34,,Nils Christopher GLOGER,06 AUG 1990,GER,2,Jüterbog (GER),22 JUN 2013,1132,10000-metres-race-walk,race-walks,male,senior
-609,39:54.42,,Sotaro OSAKA,31 JAN 2006,JPN,5,"Municipal Stadium, Kitami (JPN)",06 JUL 2024,1132,10000-metres-race-walk,race-walks,male,senior
-610,39:54.43,,Hartwig GAUDER,10 NOV 1954,GDR,1,Berlin (GER) (i),20 FEB 1988,1132,10000-metres-race-walk,race-walks,male,senior
-611,39:54.56,,Perseus KARLSTRÖM,02 MAY 1990,SWE,1,"Sola Arena, Karlstad (SWE)",31 JUL 2025,1132,10000-metres-race-walk,race-walks,male,senior
-612,39:54.90,,Francesco FORTUNATO,13 DEC 1994,ITA,1,"Stadio delle Palme, Palermo (ITA)",10 JUN 2023,1131,10000-metres-race-walk,race-walks,male,senior
-613,39:54.91,,Hayato KATSUKI,28 NOV 1990,JPN,6,"Nagaragawa Stadium, Gifu (JPN)",24 SEP 2022,1131,10000-metres-race-walk,race-walks,male,senior
-614,39:55.00,,Francesco FORTUNATO,13 DEC 1994,ITA,2,"Campo Comunale, Brescia (ITA)",17 SEP 2022,1131,10000-metres-race-walk,race-walks,male,senior
-615,39:55.07,,Daisuke IKESHIMA,30 JAN 1975,JPN,1,Tottori (JPN),10 JUN 2000,1131,10000-metres-race-walk,race-walks,male,senior
-616,39:55.09,,Jarkko KINNUNEN,19 JAN 1984,FIN,1,Kauhava (FIN),08 JUL 2012,1131,10000-metres-race-walk,race-walks,male,senior
-617,39:55.1h,,Jan STAAF,11 FEB 1962,SWE,1,Stockholm (SWE),16 MAY 1987,1131,10000-metres-race-walk,race-walks,male,senior
-618,39:55.17,,Kyle SWAN,28 MAR 1999,AUS,1,"SOPAC, Sydney (AUS)",30 MAR 2022,1131,10000-metres-race-walk,race-walks,male,senior
-619,39:55.2h,,Dmitriy YESIPCHUK,17 NOV 1974,RUS,3,Magnitogorsk (RUS),23 SEP 2000,1131,10000-metres-race-walk,race-walks,male,senior
-619,39:55.2h,,Jarkko KINNUNEN,19 JAN 1984,FIN,1,Helsinki (FIN),09 SEP 2011,1131,10000-metres-race-walk,race-walks,male,senior
-619,39:55.2h,,Yohann DINIZ,01 JAN 1978,FRA,,Bogny-sur-Meuse (FRA),25 MAY 2014,1131,10000-metres-race-walk,race-walks,male,senior
-622,39:55.52,,Ilya MARKOV,19 JUN 1972,URS,1,"Deveti Septemvri Stadium, Plovdiv (BUL)",10 AUG 1990,1131,10000-metres-race-walk,race-walks,male,senior
-622,39:55.52,,Evan DUNFEE,28 SEP 1990,CAN,1,Coquitlam (CAN),15 JUL 2012,1131,10000-metres-race-walk,race-walks,male,senior
-624,39:55.54,,Nick A'HERN,06 JAN 1969,AUS,1,Sydney (AUS),12 JAN 1992,1131,10000-metres-race-walk,race-walks,male,senior
-625,39:55.56,,Koichiro MORIOKA,02 APR 1985,JPN,1,Chiba (JPN),03 OCT 2010,1131,10000-metres-race-walk,race-walks,male,senior
-626,39:55.58,,Andrey STEPANCHUK,12 JUN 1979,BLR,3,Mogilyov (BLR) (i),22 FEB 2008,1131,10000-metres-race-walk,race-walks,male,senior
-627,39:55.69,,Juan Manuel MOLINA,15 MAR 1979,ESP,3,Santa Cruz de Tenerife (ESP),27 JUL 2008,1131,10000-metres-race-walk,race-walks,male,senior
-627,39:55.69,,Callum WILKINSON,14 MAR 1997,GBR,,"Morton Stadium, Santry, Dublin (IRL)",26 JUN 2022,1131,10000-metres-race-walk,race-walks,male,senior
-629,39:55.80,,Toshikazu YAMANISHI,15 FEB 1996,JPN,4,Kitakami (JPN),09 OCT 2016,1131,10000-metres-race-walk,race-walks,male,senior
-630,39:55.86,,Miguel Ángel LÓPEZ,03 JUL 1988,ESP,2,"Polideportivo Juan de la Cierva, Getafe (ESP)",27 JUN 2021,1131,10000-metres-race-walk,race-walks,male,senior
-631,39:56.0h,,Viktor MOSTOVIK,07 JAN 1963,URS,3,Alushta (URS),23 FEB 1985,1131,10000-metres-race-walk,race-walks,male,senior
-631,39:56.0h,,Yevgeniy ZAIKIN,19 JUN 1957,RUS,3,Moskva (RUS) (i),26 FEB 1992,1131,10000-metres-race-walk,race-walks,male,senior
-631,39:56.00,,Tomasz LIPIEC,10 MAY 1971,POL,1,Spala (POL),07 MAY 2000,1131,10000-metres-race-walk,race-walks,male,senior
-631,39:56.0h,,Nazar KOVALENKO,09 FEB 1987,UKR,1,Mukachevo (UKR),31 OCT 2009,1131,10000-metres-race-walk,race-walks,male,senior
-635,39:56.01,,Eider ARÉVALO,09 MAR 1993,COL,1,Medellín (COL),24 SEP 2011,1131,10000-metres-race-walk,race-walks,male,senior
-636,39:56.02,,Máté HELEBRANDT,12 JAN 1989,HUN,1,Budapest (HUN),19 JUN 2016,1131,10000-metres-race-walk,race-walks,male,senior
-637,39:56.23,,Ralf KOWALSKY,22 MAR 1962,GDR,1,"Atletiekbaan Overvecht, Utrecht (NED)",20 AUG 1981,1130,10000-metres-race-walk,race-walks,male,senior
-638,39:56.34,,Koichiro MORIOKA,02 APR 1985,JPN,1,Fugokawa (JPN),10 JUN 2009,1130,10000-metres-race-walk,race-walks,male,senior
-639,39:56.38,,Maurizio DAMILANO,06 APR 1957,ITA,1,Stockholm (SWE),28 JUL 1982,1130,10000-metres-race-walk,race-walks,male,senior
-640,39:56.41,,Matheus CORREA,22 AUG 1999,BRA,1,Timbó (BRA),23 OCT 2021,1130,10000-metres-race-walk,race-walks,male,senior
-641,39:56.49,,Alberto CRUZ,06 JUN 1972,MEX,2,"Deveti Septemvri Stadium, Plovdiv (BUL)",10 AUG 1990,1130,10000-metres-race-walk,race-walks,male,senior
-641,39:56.49,,Yuta KOGA,15 JUL 1999,JPN,1,"Nagaragawa Stadium, Gifu (JPN)",13 SEP 2019,1130,10000-metres-race-walk,race-walks,male,senior
-641,39:56.49,,Raivo SAULGRIEZIS,04 JUL 1994,LAT,3,"Miesto Stadionas, Alytus (LTU)",20 SEP 2024,1130,10000-metres-race-walk,race-walks,male,senior
-644,39:56.5h,,Heikki KUKKONEN,18 MAR 1987,FIN,2,Helsinki (FIN),09 SEP 2011,1130,10000-metres-race-walk,race-walks,male,senior
-645,39:56.54,,Evan DUNFEE,28 SEP 1990,CAN,2,Canberra (AUS),28 JAN 2019,1130,10000-metres-race-walk,race-walks,male,senior
-646,39:56.57,,Satoshi MARUO,28 NOV 1991,JPN,4,"Municipal Stadium, Sasebo (JPN)",08 DEC 2019,1130,10000-metres-race-walk,race-walks,male,senior
-647,39:56.65,,Yutaro MURAYAMA,29 SEP 1998,JPN,5,"Municipal Stadium, Sasebo (JPN)",08 DEC 2019,1130,10000-metres-race-walk,race-walks,male,senior
-648,39:56.75,,Ralf WEISE,15 SEP 1969,GDR,2,Rostock (GER),24 JUN 1990,1130,10000-metres-race-walk,race-walks,male,senior
-649,39:56.78,,Yuga YAMASHITA,06 FEB 1996,JPN,2,Tokyo (JPN),04 APR 2015,1130,10000-metres-race-walk,race-walks,male,senior
-650,39:57.00,,Biliulfo ANDABLO,1965,MEX,1,"Los Angeles, CA (USA)",03 NOV 1985,1130,10000-metres-race-walk,race-walks,male,senior
-651,39:57.06,,Eiichi YOSHIZAWA,05 SEP 1980,JPN,1,Tokyo (JPN),12 MAY 2002,1130,10000-metres-race-walk,race-walks,male,senior
-652,39:57.2h,,Nariman AITMUKAMEDOV,1951,URS,4,Moskva (URS) (i),17 FEB 1980,1130,10000-metres-race-walk,race-walks,male,senior
-653,39:57.3h,,Pyotr TROFIMOV,18 DEC 1983,RUS,5,Saransk (RUS),19 JUN 2005,1130,10000-metres-race-walk,race-walks,male,senior
-654,39:57.4h,,Matej TÓTH,10 FEB 1983,SVK,1,Tesserete (SUI),02 JUL 2011,1130,10000-metres-race-walk,race-walks,male,senior
-655,39:57.41,,Kota YAMADA,27 APR 1994,JPN,1,Koshigaya (JPN),19 NOV 2016,1130,10000-metres-race-walk,race-walks,male,senior
-656,39:57.59,,Caio BONFIM,19 MAR 1991,BRA,2,La Nucia (ESP),21 MAY 2022,1129,10000-metres-race-walk,race-walks,male,senior
-657,39:57.62,,Hayato YANAGIHARA,28 MAR 2000,JPN,12,"Ishin Me-Life Stadium, Yamaguchi (JPN)",22 SEP 2024,1129,10000-metres-race-walk,race-walks,male,senior
-658,39:57.75,,Mohamed AMEUR,01 NOV 1984,ALG,1,Biskra (ALG),17 MAR 2017,1129,10000-metres-race-walk,race-walks,male,senior
-659,39:57.82,,Aigars FADEJEVS,27 DEC 1975,LAT,5,Riga (LAT),28 MAY 2004,1129,10000-metres-race-walk,race-walks,male,senior
-660,39:58.00,,Genndiy TERECHOV,09 AUG 1955,URS,1,Leningrad (URS),17 SEP 1979,1129,10000-metres-race-walk,race-walks,male,senior
-660,39:58.00,,Martín BERMÚDEZ,19 JUL 1958,MEX,2,"Los Angeles, CA (USA)",03 NOV 1985,1129,10000-metres-race-walk,race-walks,male,senior
-660,39:58.0h,,Perseus KARLSTRÖM,02 MAY 1990,SWE,1,"Värendsvallen, Växjö (SWE)",26 AUG 2022,1129,10000-metres-race-walk,race-walks,male,senior
-663,39:58.1h,,Rhydian COWLEY,04 JAN 1991,AUS,1,"George Knott Track, Collingwood, Melbourne (AUS)",10 JAN 2021,1129,10000-metres-race-walk,race-walks,male,senior
-664,39:58.13,,Katsuji SUZUKI,31 JUL 1998,JPN,1,Hiratsuka (JPN),07 JUN 2019,1129,10000-metres-race-walk,race-walks,male,senior
-665,39:58.15,,Isamu FUJISAWA,12 OCT 1987,JPN,2,"Prefectural Kasamatsu Stadium, Hitachinaka (JPN)",08 OCT 2019,1129,10000-metres-race-walk,race-walks,male,senior
-666,39:58.21,,Takumi SUZUKI,14 JAN 1999,JPN,6,"Municipal Stadium, Sasebo (JPN)",08 DEC 2019,1129,10000-metres-race-walk,race-walks,male,senior
-667,39:58.25,,Aigars FADEJEVS,27 DEC 1975,LAT,1,Tivoli (ITA),06 SEP 2002,1129,10000-metres-race-walk,race-walks,male,senior
-668,39:58.3h,,Artemiy VERSHININ,03 OCT 2003,RUS,6,"Football and athletics Arena, Saransk (RUS) (i)",24 SEP 2023,1129,10000-metres-race-walk,race-walks,male,senior
-669,39:58.36,,Mateo ROMERO,07 FEB 2003,COL,3,"Estadio de Atletismo de la Unidad Deportiva Centenario, Armenia (COL)",02 AUG 2025,1129,10000-metres-race-walk,race-walks,male,senior
-670,39:58.5h,,Fanis SHAYKHUTDINOV,27 MAY 1969,RUS,3,Moskva (RUS),21 JAN 1997,1129,10000-metres-race-walk,race-walks,male,senior
-671,39:58.62,,Anatoly HOMELEU,29 MAY 1996,BLR,1,"Olimpiyets, Mogilyov (BLR) (i)",17 FEB 2024,1129,10000-metres-race-walk,race-walks,male,senior
-672,39:58.78,,Gianluca PICCHIOTTINO,22 AUG 1996,ITA,1,"Campo Mauro Ferrari, Prato (ITA)",10 APR 2022,1129,10000-metres-race-walk,race-walks,male,senior
-673,39:58.80,,Liodor PESCARU,1953,ROU,1,Pitesti (ROU),20 APR 1980,1129,10000-metres-race-walk,race-walks,male,senior
-673,39:58.80,,Vladimir DRUCHIK,25 JUN 1965,URS,1,Alushta (URS),06 FEB 1991,1129,10000-metres-race-walk,race-walks,male,senior
-675,39:58.98,,Hiroto JUSHO,11 JAN 2000,JPN,2f1,"Gion Stadium, Sagamihara (JPN)",22 NOV 2020,1128,10000-metres-race-walk,race-walks,male,senior
-676,39:59.29,,Salvatore CACIA,22 JUL 1967,ITA,1,Catania (ITA),03 MAY 1992,1128,10000-metres-race-walk,race-walks,male,senior
-677,39:59.41,,Takeya HIRAGA,20 DEC 2004,JPN,3,"Yanmar Stadium Nagai, Osaka (JPN)",06 MAY 2025,1128,10000-metres-race-walk,race-walks,male,senior
-678,39:59.43,,Cristhian JUÁREZ LÓPEZ,02 DEC 2002,MEX,1,"Pista de Atletismo del Centro Deportivo Benito Juárez, Mazatlán (MEX)",23 MAR 2024,1128,10000-metres-race-walk,race-walks,male,senior
-679,39:59.51,,Ryutaro YAMAMOTO,17 SEP 1998,JPN,2,"Nagaragawa Stadium, Gifu (JPN)",13 SEP 2019,1128,10000-metres-race-walk,race-walks,male,senior
-680,39:59.58,,Sergey TYULENEYEV,14 MAR 1971,URS,1,Kharkov (URS),02 JUN 1990,1128,10000-metres-race-walk,race-walks,male,senior
-681,39:59.78,,Anatoliy SOLOMIN,02 JUL 1952,URS,1,Roma (ITA),01 JUN 1985,1128,10000-metres-race-walk,race-walks,male,senior
-682,39:59.80,,Daniel BAUTISTA,04 AUG 1952,MEX,1,Monterrey (MEX),05 APR 1979,1128,10000-metres-race-walk,race-walks,male,senior
-683,39:59.82,,Akihiro SUGIMOTO,20 OCT 1981,JPN,1,Yokohama (JPN),06 JUL 2003,1128,10000-metres-race-walk,race-walks,male,senior
-684,39:59.87,,Ricardo ORTIZ,07 FEB 1995,MEX,1,Xalapa (MEX),06 MAY 2017,1128,10000-metres-race-walk,race-walks,male,senior
-685,40:00.0h,,Sándor URBANIK,15 DEC 1964,HUN,2,Helsinki (FIN),24 JUL 1985,1128,10000-metres-race-walk,race-walks,male,senior
+30,38:19.42,,Sergey KOZHEVNIKOV,09 MAY 2001,RUS,1,"Central Stadium, Kazan (RUS)",10 AUG 2025,1201,10000-metres-race-walk,race-walks,male,senior
+31,38:20.0h,,Moacir ZIMMERMANN,30 DEC 1983,BRA,1,Blumenau (BRA),07 JUN 2008,1200,10000-metres-race-walk,race-walks,male,senior
+32,38:20.9h,,David SMITH,24 JUL 1955,AUS,1,Sydney (AUS),15 SEP 1985,1200,10000-metres-race-walk,race-walks,male,senior
+33,38:21.79,,Vasiliy MIZINOV,29 DEC 1997,RUS,2,"Central Stadium, Kazan (RUS)",10 AUG 2025,1199,10000-metres-race-walk,race-walks,male,senior
+34,38:21.88,,Eiki TAKAHASHI,19 NOV 1992,JPN,1,Kitakami (JPN),09 OCT 2016,1199,10000-metres-race-walk,race-walks,male,senior
+35,38:23.73,,Zhen WANG,24 AUG 1991,CHN,1,Genova (ITA),08 FEB 2015,1198,10000-metres-race-walk,race-walks,male,senior
+36,38:23.95,,Masatora KAWANO,23 OCT 1998,JPN,4,"Juntendo University Stadium, Inzai (JPN)",14 NOV 2020,1198,10000-metres-race-walk,race-walks,male,senior
+37,38:24.07,,Aleksandr GARIN,28 DEC 1999,RUS,3,"Central Stadium, Kazan (RUS)",10 AUG 2025,1197,10000-metres-race-walk,race-walks,male,senior
+38,38:24.31,,Hatem GHOULA,07 JUN 1973,TUN,,Tunis (TUN),30 MAY 1998,1197,10000-metres-race-walk,race-walks,male,senior
+39,38:25.42,,Evan DUNFEE,28 SEP 1990,CAN,1,"AIS Athletics Track, Canberra (AUS)",28 JAN 2024,1196,10000-metres-race-walk,race-walks,male,senior
+40,38:26.4h,,Daniel GARCÍA CORDOVA,28 OCT 1971,MEX,1,Sønder Omme (DEN),17 MAY 1997,1196,10000-metres-race-walk,race-walks,male,senior
+41,38:26.53,,Robert KORZENIOWSKI,30 JUL 1968,POL,1,Riga (LAT),31 MAY 2002,1196,10000-metres-race-walk,race-walks,male,senior
+42,38:27.09,,Yusuke SUZUKI,02 JAN 1988,JPN,1,Yamaguchi (JPN),11 OCT 2014,1195,10000-metres-race-walk,race-walks,male,senior
+43,38:27.34,,Toshikazu YAMANISHI,15 FEB 1996,JPN,1,"Ishin Me-Life Stadium, Yamaguchi (JPN)",22 SEP 2024,1195,10000-metres-race-walk,race-walks,male,senior
+44,38:27.57,,Robert HEFFERNAN,28 FEB 1978,IRL,1,Dublin (IRL),19 JUL 2008,1195,10000-metres-race-walk,race-walks,male,senior
+45,38:28.05,,Massimo STANO,27 FEB 1992,ITA,1,Roma (ITA),28 APR 2019,1195,10000-metres-race-walk,race-walks,male,senior
+46,38:28.19,,Eiki TAKAHASHI,19 NOV 1992,JPN,1,"Municipal Stadium, Sasebo (JPN)",08 DEC 2019,1194,10000-metres-race-walk,race-walks,male,senior
+47,38:28.29,,Sergey KOZHEVNIKOV,09 MAY 2001,RUS,3,"Kalininets Stadium, Yekaterinburg (RUS)",18 AUG 2024,1194,10000-metres-race-walk,race-walks,male,senior
+48,38:28.63,,Vasiliy MIZINOV,29 DEC 1997,RUS,1,"Yelena Yelesina Stadium, Chelyabinsk (RUS)",03 AUG 2023,1194,10000-metres-race-walk,race-walks,male,senior
+49,38:30.38,,Zhen WANG,24 AUG 1991,CHN,1,Tianjin (CHN),16 SEP 2012,1193,10000-metres-race-walk,race-walks,male,senior
+50,38:30.61,,Dane BIRD-SMITH,15 JUL 1992,AUS,1,Sydney (AUS),05 APR 2019,1193,10000-metres-race-walk,race-walks,male,senior
+51,38:30.91,,David HURTADO,21 APR 1999,ECU,,"Pedro Grajales, Cali (COL)",29 JUN 2024,1192,10000-metres-race-walk,race-walks,male,senior
+52,38:31.24,,Declan TINGAY,06 FEB 1999,AUS,2,"AIS Athletics Track, Canberra (AUS)",27 JAN 2025,1192,10000-metres-race-walk,race-walks,male,senior
+53,38:31.4h,,Werner HEYER,14 NOV 1956,GDR,1,Berlin (GER) (i),12 JAN 1980,1192,10000-metres-race-walk,race-walks,male,senior
+54,38:32.0h,,Erik TYSSE,04 DEC 1980,NOR,1,Bergen (NOR),13 JUN 2008,1192,10000-metres-race-walk,race-walks,male,senior
+55,38:32.20,,Maher BEN HLIMA,24 JUL 1989,POL,1,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",23 AUG 2025,1191,10000-metres-race-walk,race-walks,male,senior
+56,38:33.10,,Anton KURBATOV,02 OCT 2001,RUS,2,"Olympic Stadium, Cheboksary (RUS)",02 AUG 2022,1191,10000-metres-race-walk,race-walks,male,senior
+57,38:33.38,,Maksim BOYKO,08 AUG 2003,RUS,3,"Meteor, Zhukovskiy (RUS)",21 JUN 2025,1191,10000-metres-race-walk,race-walks,male,senior
+58,38:34.23,,Dane BIRD-SMITH,15 JUL 1992,AUS,1,Sydney (AUS),31 MAR 2017,1190,10000-metres-race-walk,race-walks,male,senior
+59,38:35.43,,Perseus KARLSTRÖM,02 MAY 1990,SWE,2,"AIS Athletics Track, Canberra (AUS)",02 FEB 2023,1189,10000-metres-race-walk,race-walks,male,senior
+60,38:35.50,,Ronald WEIGEL,08 AUG 1959,GDR,2,Berlin (GER) (i),12 JAN 1980,1189,10000-metres-race-walk,race-walks,male,senior
+61,38:36.37,,Evan DUNFEE,28 SEP 1990,CAN,1,"Alexander Stadium, Birmingham (GBR)",07 AUG 2022,1188,10000-metres-race-walk,race-walks,male,senior
+62,38:37.02,,Kevin CAMPION,23 MAY 1988,FRA,1,Paris (FRA),13 JUL 2013,1188,10000-metres-race-walk,race-walks,male,senior
+63,38:37.6h,,Jefferson PÉREZ,01 JUL 1974,ECU,1,Bergen (NOR),09 MAY 1998,1187,10000-metres-race-walk,race-walks,male,senior
+64,38:37.90,,Walter ARENA,30 MAY 1964,ITA,1,Catania (ITA),13 APR 1990,1187,10000-metres-race-walk,race-walks,male,senior
+65,38:38.23,,Keisuke HARA,04 MAR 2002,JPN,1,"Yanmar Stadium Nagai, Osaka (JPN)",06 MAY 2025,1187,10000-metres-race-walk,race-walks,male,senior
+66,38:39.28,,Perseus KARLSTRÖM,02 MAY 1990,SWE,1,Tampere (FIN),01 SEP 2018,1186,10000-metres-race-walk,race-walks,male,senior
+67,38:39.72,,Evan DUNFEE,28 SEP 1990,CAN,1,"Swangard Stadium, Burnaby (CAN)",12 JUN 2021,1186,10000-metres-race-walk,race-walks,male,senior
+68,38:40.04,,Koki IKEDA,03 MAY 1998,JPN,2,Kitami (JPN),07 JUL 2018,1186,10000-metres-race-walk,race-walks,male,senior
+69,38:40.18,,Giovanni DE BENEDICTIS,08 JAN 1968,ITA,1,Cesenatico (ITA),01 JUL 1995,1186,10000-metres-race-walk,race-walks,male,senior
+70,38:40.22,,Daisuke MATSUNAGA,24 MAR 1995,JPN,2,Kitakami (JPN),09 OCT 2016,1186,10000-metres-race-walk,race-walks,male,senior
+71,38:40.25,,Christopher LINKE,24 OCT 1988,GER,1,Bühlertal (GER),11 JUN 2016,1186,10000-metres-race-walk,race-walks,male,senior
+72,38:40.26,,Satoshi MARUO,28 NOV 1991,JPN,2,"Ishin Me-Life Stadium, Yamaguchi (JPN)",22 SEP 2024,1186,10000-metres-race-walk,race-walks,male,senior
+73,38:40.63,,Francesco FORTUNATO,13 DEC 1994,ITA,1,"Campo Coni, Avellino (ITA)",10 MAY 2025,1185,10000-metres-race-walk,race-walks,male,senior
+74,38:40.92,,Miguel Ángel LÓPEZ,03 JUL 1988,ESP,1,Cartagena (ESP),17 APR 2021,1185,10000-metres-race-walk,race-walks,male,senior
+75,38:41.17,,Andriy YURIN,20 JAN 1984,UKR,1,Kyiv (UKR),21 JUN 2005,1185,10000-metres-race-walk,race-walks,male,senior
+76,38:41.45,,Koki IKEDA,03 MAY 1998,JPN,1,"Denka Big Swan Stadium, Niigata (JPN)",12 SEP 2020,1185,10000-metres-race-walk,race-walks,male,senior
+77,38:42.33,,Declan TINGAY,06 FEB 1999,AUS,2,"Alexander Stadium, Birmingham (GBR)",07 AUG 2022,1184,10000-metres-race-walk,race-walks,male,senior
+78,38:42.38,,Francisco Javier FERNÁNDEZ,06 MAR 1977,ESP,1,Torremolinos (ESP),11 JUL 1999,1184,10000-metres-race-walk,race-walks,male,senior
+79,38:43.63,,Satoshi MARUO,28 NOV 1991,JPN,1,"Sunrise Park, Saga (JPN)",14 OCT 2024,1183,10000-metres-race-walk,race-walks,male,senior
+80,38:43.91,,Callum WILKINSON,14 MAR 1997,GBR,1,"Manchester Regional Arena, Manchester (GBR)",30 JUN 2024,1183,10000-metres-race-walk,race-walks,male,senior
+81,38:44.13,,Veli-Matti PARTANEN,28 OCT 1991,FIN,2,Tampere (FIN),01 SEP 2018,1183,10000-metres-race-walk,race-walks,male,senior
+82,38:44.61,,Dane BIRD-SMITH,15 JUL 1992,AUS,1,"SOPAC, Sydney (AUS)",01 APR 2016,1182,10000-metres-race-walk,race-walks,male,senior
+83,38:44.66,,David HURTADO,21 APR 1999,ECU,1,Guayaquil (ECU),18 APR 2021,1182,10000-metres-race-walk,race-walks,male,senior
+84,38:44.87,,Nathan DEAKES,17 AUG 1977,AUS,1,Canberra (AUS),08 FEB 2002,1182,10000-metres-race-walk,race-walks,male,senior
+85,38:44.88,,Sotaro OSAKA,31 JAN 2006,JPN,1,"Lemon Gas Stadium, Hiratsuka (JPN)",26 APR 2025,1182,10000-metres-race-walk,race-walks,male,senior
+86,38:44.97,,Yohann DINIZ,01 JAN 1978,FRA,1,Albi (FRA),29 JUL 2011,1182,10000-metres-race-walk,race-walks,male,senior
+87,38:46.4h,,Viktor BURAYEV,23 AUG 1982,RUS,1,Moskva (RUS),20 MAY 2000,1181,10000-metres-race-walk,race-walks,male,senior
+88,38:46.74,,Declan TINGAY,06 FEB 1999,AUS,1,"Queensland Sport and Athletics Centre, Nathan, Brisbane (AUS)",31 MAR 2023,1181,10000-metres-race-walk,race-walks,male,senior
+89,38:46.78,,Hiroto JUSHO,11 JAN 2000,JPN,1,"Municipal Stadium, Kitami (JPN)",06 JUL 2024,1181,10000-metres-race-walk,race-walks,male,senior
+90,38:46.99,,Kyle SWAN,28 MAR 1999,AUS,2,"AIS Athletics Track, Canberra (AUS)",28 JAN 2024,1181,10000-metres-race-walk,race-walks,male,senior
+91,38:47.13,,David SMITH,24 JUL 1955,AUS,1,Dubbo (AUS),30 DEC 1984,1180,10000-metres-race-walk,race-walks,male,senior
+92,38:47.54,,Roman MRÁZEK,21 JAN 1962,TCH,1,Bratislava (TCH),12 JUN 1987,1180,10000-metres-race-walk,race-walks,male,senior
+93,38:48.01,,Michele DIDONI,07 MAR 1974,ITA,2,Cesenatico (ITA),01 JUL 1995,1180,10000-metres-race-walk,race-walks,male,senior
+94,38:48.03,,Koki IKEDA,03 MAY 1998,JPN,3,"Ishin Me-Life Stadium, Yamaguchi (JPN)",22 SEP 2024,1180,10000-metres-race-walk,race-walks,male,senior
+95,38:49.21,,Sandeep KUMAR,01 MAY 1986,IND,3,"Alexander Stadium, Birmingham (GBR)",07 AUG 2022,1179,10000-metres-race-walk,race-walks,male,senior
+96,38:49.76,,Paul MCGRATH,07 MAR 2002,ESP,1,"Estadi Natalia Rodríguez, Tarragona (ESP)",01 AUG 2025,1179,10000-metres-race-walk,race-walks,male,senior
+97,38:49.9h,,Sergey KOZHEVNIKOV,09 MAY 2001,RUS,1,"Football and athletics Arena, Saransk (RUS) (i)",24 SEP 2023,1178,10000-metres-race-walk,race-walks,male,senior
+98,38:50.28,,Alex SCHWAZER,26 NOV 1984,ITA,1,Pergine Valsugana (ITA),23 JUL 2011,1178,10000-metres-race-walk,race-walks,male,senior
+99,38:50.37,,Masatora KAWANO,23 OCT 1998,JPN,3,Kitami (JPN),07 JUL 2018,1178,10000-metres-race-walk,race-walks,male,senior
+100,38:50.9h,,Perseus KARLSTRÖM,02 MAY 1990,SWE,1,Melbourne (AUS),12 JAN 2020,1178,10000-metres-race-walk,race-walks,male,senior
+101,38:51.00,,Veli-Matti PARTANEN,28 OCT 1991,FIN,1,"Leppävaaran Stadion, Espoo (FIN)",02 AUG 2025,1178,10000-metres-race-walk,race-walks,male,senior
+102,38:51.51,,Andreas ERM,12 MAR 1976,GER,1,Braunschweig (GER),10 JUL 2004,1177,10000-metres-race-walk,race-walks,male,senior
+103,38:51.71,,Francesco FORTUNATO,13 DEC 1994,ITA,1,"Campo Comunale N. Palladino, Campobasso (ITA)",24 MAR 2024,1177,10000-metres-race-walk,race-walks,male,senior
+104,38:52.4h,,Artur MELESHKEVICH,11 APR 1975,BLR,1,Minsk (BLR) (i),02 FEB 2001,1177,10000-metres-race-walk,race-walks,male,senior
+105,38:52.76,,Perseus KARLSTRÖM,02 MAY 1990,SWE,1,Canberra (AUS),09 JAN 2019,1176,10000-metres-race-walk,race-walks,male,senior
+106,38:53.11,,Zhen WANG,24 AUG 1991,CHN,1,Asti (ITA),21 MAY 2016,1176,10000-metres-race-walk,race-walks,male,senior
+107,38:53.42,,Miguel Ángel LÓPEZ,03 JUL 1988,ESP,1,Cartagena (ESP),29 APR 2015,1176,10000-metres-race-walk,race-walks,male,senior
+108,38:53.64,,Álvaro MARTÍN,18 JUN 1994,ESP,1,"Estadi Olímpic Camilo Cano, La Nucia (ESP)",29 JUN 2024,1176,10000-metres-race-walk,race-walks,male,senior
+109,38:54.08,,Taisei YOSHIZAKO,15 JAN 2005,JPN,2,"Lemon Gas Stadium, Hiratsuka (JPN)",26 APR 2025,1175,10000-metres-race-walk,race-walks,male,senior
+110,38:54.20,,Evan DUNFEE,28 SEP 1990,CAN,1,Kamloops (CAN),07 JUL 2019,1175,10000-metres-race-walk,race-walks,male,senior
+111,38:54.30,,Roland WIESER,06 MAY 1956,GDR,1,Potsdam (GDR),13 JUL 1980,1175,10000-metres-race-walk,race-walks,male,senior
+112,38:54.4h,,Frants KOSTYUKEVICH,04 APR 1963,BLR,1,Minsk (BLR) (i),02 FEB 1996,1175,10000-metres-race-walk,race-walks,male,senior
+113,38:54.75,,Ralf KOWALSKY,22 MAR 1962,GDR,1,Cottbus (GER),24 JUN 1981,1175,10000-metres-race-walk,race-walks,male,senior
+114,38:54.82,,Ryo HAMANISHI,24 APR 2000,JPN,4,"Ishin Me-Life Stadium, Yamaguchi (JPN)",22 SEP 2024,1175,10000-metres-race-walk,race-walks,male,senior
+115,38:54.87,,Miguel Ángel LÓPEZ,03 JUL 1988,ESP,1,Alcobendas (ESP),27 JUL 2014,1175,10000-metres-race-walk,race-walks,male,senior
+116,38:55.00,,Jozef PRIBILINEC,06 JUL 1960,TCH,1,Hildesheim (GER),06 SEP 1986,1175,10000-metres-race-walk,race-walks,male,senior
+117,38:55.20,,Rhydian COWLEY,04 JAN 1991,AUS,3,"AIS Athletics Track, Canberra (AUS)",28 JAN 2024,1175,10000-metres-race-walk,race-walks,male,senior
+118,38:55.40,,David SMITH,24 JUL 1955,AUS,2,Hildesheim (GER),06 SEP 1986,1174,10000-metres-race-walk,race-walks,male,senior
+119,38:55.49,,Eiki TAKAHASHI,19 NOV 1992,JPN,2,Abashiri (JPN),16 JUL 2015,1174,10000-metres-race-walk,race-walks,male,senior
+120,38:56.3h,,Ingus JANEVIČS,29 APR 1986,LAT,1,Valga (EST),26 APR 2008,1174,10000-metres-race-walk,race-walks,male,senior
+121,38:56.63,,Kento YOSHIKAWA,09 AUG 2001,JPN,5,"Ishin Me-Life Stadium, Yamaguchi (JPN)",22 SEP 2024,1174,10000-metres-race-walk,race-walks,male,senior
+122,38:56.65,,Miguel Ángel LÓPEZ,03 JUL 1988,ESP,2,"Estadi Olímpic Camilo Cano, La Nucia (ESP)",29 JUN 2024,1174,10000-metres-race-walk,race-walks,male,senior
+123,38:57.16,,Dane BIRD-SMITH,15 JUL 1992,AUS,1,"Albert Park, Melbourne (AUS)",04 APR 2014,1173,10000-metres-race-walk,race-walks,male,senior
+124,38:57.45,,Perseus KARLSTRÖM,02 MAY 1990,SWE,1,Stockholm (SWE),02 SEP 2017,1173,10000-metres-race-walk,race-walks,male,senior
+125,38:57.94,,Christopher LINKE,24 OCT 1988,GER,1,Beeskow (GER),17 AUG 2019,1173,10000-metres-race-walk,race-walks,male,senior
+126,38:57.96,,Gianluca PICCHIOTTINO,22 AUG 1996,ITA,2,"Campo Comunale N. Palladino, Campobasso (ITA)",24 MAR 2024,1173,10000-metres-race-walk,race-walks,male,senior
+127,38:58.21,,Vasiliy MIZINOV,29 DEC 1997,RUS,1,Cheboksary (RUS),25 JUN 2016,1172,10000-metres-race-walk,race-walks,male,senior
+128,38:59.33,,Kento YOSHIKAWA,09 AUG 2001,JPN,2,"Municipal Stadium, Kitami (JPN)",06 JUL 2024,1172,10000-metres-race-walk,race-walks,male,senior
+129,38:59.60,,Werner HEYER,14 NOV 1956,GDR,2,Potsdam (GDR),13 JUL 1980,1171,10000-metres-race-walk,race-walks,male,senior
+130,38:59.98,,Zelin CAI,11 APR 1991,CHN,2,Tianjin (CHN),16 SEP 2012,1171,10000-metres-race-walk,race-walks,male,senior
+131,39:00.00,,Robert HEFFERNAN,28 FEB 1978,IRL,1,Santry (IRL),24 JUL 2004,1171,10000-metres-race-walk,race-walks,male,senior
+132,39:00.14,,Robert KORZENIOWSKI,30 JUL 1968,POL,1,Sopot (POL),23 JUL 1994,1171,10000-metres-race-walk,race-walks,male,senior
+133,39:00.49,,Gabriel BORDIER,08 OCT 1997,FRA,1,"Stade Josette et Roger Mikulak, Angers (FRA)",29 JUN 2024,1171,10000-metres-race-walk,race-walks,male,senior
+134,39:00.78,,Kazuki TAKAHASHI,17 JUN 1996,JPN,6,"Ishin Me-Life Stadium, Yamaguchi (JPN)",22 SEP 2024,1171,10000-metres-race-walk,race-walks,male,senior
+135,39:00.79,,Francesco FORTUNATO,13 DEC 1994,ITA,1,Firenze (ITA),15 JUN 2019,1170,10000-metres-race-walk,race-walks,male,senior
+136,39:01.20,,Fumitaka OIKAWA,05 APR 1995,JPN,4,Kitami (JPN),07 JUL 2018,1170,10000-metres-race-walk,race-walks,male,senior
+137,39:01.3h,,Declan TINGAY,06 FEB 1999,AUS,1,"AIS Athletics Track, Canberra (AUS)",22 JAN 2022,1170,10000-metres-race-walk,race-walks,male,senior
+138,39:01.35,,Hatem GHOULA,07 JUN 1973,TUN,1,Tunis (TUN),01 MAY 1995,1170,10000-metres-race-walk,race-walks,male,senior
+139,39:02.10,,Stefan JOHANSSON,11 APR 1967,SWE,2,Örnsköldsvik (SWE),08 JUL 1995,1170,10000-metres-race-walk,race-walks,male,senior
+140,39:02.14,,Roman MRÁZEK,21 JAN 1962,TCH,2,Banská Bystrica (TCH),30 AUG 1985,1170,10000-metres-race-walk,race-walks,male,senior
+141,39:02.29,,Evan DUNFEE,28 SEP 1990,CAN,1,"Percy Perry Stadium, Coquitlam (CAN)",04 JUL 2025,1169,10000-metres-race-walk,race-walks,male,senior
+142,39:03.32,,Sergey KOZHEVNIKOV,09 MAY 2001,RUS,1,"Regional Sport Complex, Brest (BLR)",12 JUL 2025,1169,10000-metres-race-walk,race-walks,male,senior
+143,39:03.92,,Motofumi SUWA,22 OCT 1999,JPN,7,"Ishin Me-Life Stadium, Yamaguchi (JPN)",22 SEP 2024,1168,10000-metres-race-walk,race-walks,male,senior
+144,39:04.82,,Christopher LINKE,24 OCT 1988,GER,1,Düsseldorf (GER),13 JUN 2015,1168,10000-metres-race-walk,race-walks,male,senior
+145,39:05.05,,Byeongkwang CHOE,07 APR 1991,KOR,1,Yeosu (KOR),30 MAR 2022,1167,10000-metres-race-walk,race-walks,male,senior
+146,39:05.1h,,Máté HELEBRANDT,12 JAN 1989,HUN,1,"Iharos Sándor Atlétikai Pálya, Budapest (HUN)",22 JUN 2024,1167,10000-metres-race-walk,race-walks,male,senior
+147,39:05.19,,Yusuke SUZUKI,02 JAN 1988,JPN,1,Osaka (JPN),22 SEP 2018,1167,10000-metres-race-walk,race-walks,male,senior
+148,39:05.44,,Koki IKEDA,03 MAY 1998,JPN,1,Fukui (JPN),07 OCT 2018,1167,10000-metres-race-walk,race-walks,male,senior
+149,39:05.72,,Riccardo ORSONI,20 JAN 2000,ITA,3f1,"Campo Mauro Ferrari, Prato (ITA)",13 APR 2025,1167,10000-metres-race-walk,race-walks,male,senior
+150,39:05.73,,Satoshi MARUO,28 NOV 1991,JPN,2,"Nagaragawa Stadium, Gifu (JPN)",24 SEP 2022,1167,10000-metres-race-walk,race-walks,male,senior
+151,39:05.80,,Maurizio DAMILANO,06 APR 1957,ITA,1,Limbiate (ITA),25 OCT 1988,1167,10000-metres-race-walk,race-walks,male,senior
+152,39:05.85,,Callum WILKINSON,14 MAR 1997,GBR,1,"Newport Stadium, Newport (GBR)",06 MAR 2021,1167,10000-metres-race-walk,race-walks,male,senior
+153,39:06.06,,Ihor HLAVAN,25 SEP 1990,UKR,1,Sumy (UKR) (i),24 DEC 2014,1167,10000-metres-race-walk,race-walks,male,senior
+154,39:06.09,,Ronald WEIGEL,08 AUG 1959,GDR,1,Senftenberg (GER) (i),07 FEB 1987,0,10000-metres-race-walk,race-walks,male,senior
+155,39:06.28,,Callum WILKINSON,14 MAR 1997,GBR,4,"Alexander Stadium, Birmingham (GBR)",07 AUG 2022,1166,10000-metres-race-walk,race-walks,male,senior
+156,39:06.43,,Yusuke SUZUKI,02 JAN 1988,JPN,1,Nagasaki (JPN),21 OCT 2014,1166,10000-metres-race-walk,race-walks,male,senior
+157,39:06.64,,Kento YOSHIKAWA,09 AUG 2001,JPN,2,"Sunrise Park, Saga (JPN)",14 OCT 2024,1166,10000-metres-race-walk,race-walks,male,senior
+158,39:06.91,,Declan TINGAY,06 FEB 1999,AUS,1,"WA Athletics Stadium, Perth (AUS)",10 APR 2025,1166,10000-metres-race-walk,race-walks,male,senior
+159,39:07.08,,Tomohiro NODA,24 JAN 1996,JPN,3,"Nagaragawa Stadium, Gifu (JPN)",24 SEP 2022,1166,10000-metres-race-walk,race-walks,male,senior
+160,39:07.21,,Robert HEFFERNAN,28 FEB 1978,IRL,1,Dublin (IRL),11 JUL 2010,1166,10000-metres-race-walk,race-walks,male,senior
+161,39:07.31,,Danila MARTYNOV,01 MAY 2004,RUS,2,"Regional Sport Complex, Brest (BLR)",12 JUL 2025,1166,10000-metres-race-walk,race-walks,male,senior
+162,39:07.38,,Axel NOACK,23 SEP 1961,GDR,1,Neubrandenburg (GDR),10 JUL 1988,1166,10000-metres-race-walk,race-walks,male,senior
+162,39:07.38,,Hiroto JUSHO,11 JAN 2000,JPN,8,"Ishin Me-Life Stadium, Yamaguchi (JPN)",22 SEP 2024,1166,10000-metres-race-walk,race-walks,male,senior
+164,39:07.58,,Miguel Ángel LÓPEZ,03 JUL 1988,ESP,1,Alcobendas (ESP),28 JUL 2013,1166,10000-metres-race-walk,race-walks,male,senior
+165,39:07.84,,Koichiro MORIOKA,02 APR 1985,JPN,1,Niigata (JPN),26 SEP 2010,1165,10000-metres-race-walk,race-walks,male,senior
+166,39:07.95,,Kazuki TAKAHASHI,17 JUN 1996,JPN,3,"Sunrise Park, Saga (JPN)",14 OCT 2024,1165,10000-metres-race-walk,race-walks,male,senior
+167,39:07.97,,Michele DIDONI,07 MAR 1974,ITA,1,Roma (ITA),09 JUL 1998,1165,10000-metres-race-walk,race-walks,male,senior
+168,39:08.23,,Daisuke MATSUNAGA,24 MAR 1995,JPN,1,Tokyo (JPN),14 DEC 2013,1165,10000-metres-race-walk,race-walks,male,senior
+169,39:08.33,,Brian Daniel PINTADO,29 JUL 1995,ECU,2,Guayaquil (ECU),18 APR 2021,1165,10000-metres-race-walk,race-walks,male,senior
+170,39:08.50,,Nikolay POLOZOV,10 OCT 1951,URS,1,Leningrad (URS),23 FEB 1986,1165,10000-metres-race-walk,race-walks,male,senior
+171,39:08.6h,,David KIMUTAI,19 AUG 1969,KEN,1,Nyeri (KEN),21 MAR 2009,1165,10000-metres-race-walk,race-walks,male,senior
+172,39:09.69,,Rhydian COWLEY,04 JAN 1991,AUS,2,"WA Athletics Stadium, Perth (AUS)",10 APR 2025,1164,10000-metres-race-walk,race-walks,male,senior
+173,39:10.04,,Joan QUEROL,07 DEC 2006,ESP,1f1,"Ratinan Stadion, Tampere (FIN)",10 AUG 2025,1164,10000-metres-race-walk,race-walks,male,senior
+174,39:10.10,,Nick A'HERN,06 JAN 1969,AUS,1,Sydney (AUS),13 JAN 1991,1164,10000-metres-race-walk,race-walks,male,senior
+175,39:10.15,,Marco GIUNGI,30 OCT 1974,ITA,1,Pescara (ITA),14 SEP 2002,1164,10000-metres-race-walk,race-walks,male,senior
+176,39:10.35,,Giovanni DE BENEDICTIS,08 JAN 1968,ITA,1,Pescara (ITA),12 SEP 1990,1164,10000-metres-race-walk,race-walks,male,senior
+177,39:10.56,,Maksim PYANZIN,22 MAY 2003,RUS,4,"Kalininets Stadium, Yekaterinburg (RUS)",18 AUG 2024,1163,10000-metres-race-walk,race-walks,male,senior
+178,39:10.6h,,Mikhayil KHMELNITSKIY,24 JUL 1969,BLR,1,Minsk (BLR) (i),04 FEB 1995,1163,10000-metres-race-walk,race-walks,male,senior
+179,39:10.61,,Nils BREMBACH,23 FEB 1993,GER,2,Düsseldorf (GER),13 JUN 2015,1163,10000-metres-race-walk,race-walks,male,senior
+180,39:10.71,,Kyle SWAN,28 MAR 1999,AUS,3,"SA Athletic Stadium, Adelaide (AUS)",11 APR 2024,1163,10000-metres-race-walk,race-walks,male,senior
+181,39:11.1h,,Bence VENYERCSÁN,08 JAN 1996,HUN,2,"Iharos Sándor Atlétikai Pálya, Budapest (HUN)",22 JUN 2024,1163,10000-metres-race-walk,race-walks,male,senior
+182,39:11.20,,Salvatore CACIA,22 JUL 1967,ITA,2,Catania (ITA),13 APR 1990,1163,10000-metres-race-walk,race-walks,male,senior
+183,39:11.65,,Byeongkwang CHOE,07 APR 1991,KOR,1,Yecheon (KOR),21 APR 2021,1163,10000-metres-race-walk,race-walks,male,senior
+184,39:11.7h,,Arturo DI MEZZA,16 JUL 1969,ITA,1,Milano (ITA),09 JUN 1998,1163,10000-metres-race-walk,race-walks,male,senior
+185,39:11.72,,Robert HEFFERNAN,28 FEB 1978,IRL,1,Dublin (IRL),02 AUG 2009,1163,10000-metres-race-walk,race-walks,male,senior
+186,39:11.77,,Gianluca PICCHIOTTINO,22 AUG 1996,ITA,1,"Campo Scuola Moreno Martini, Lucca (ITA)",11 MAY 2025,1163,10000-metres-race-walk,race-walks,male,senior
+187,39:11.95,,Eiki TAKAHASHI,19 NOV 1992,JPN,1,Gifu (JPN),26 SEP 2015,1162,10000-metres-race-walk,race-walks,male,senior
+188,39:12.00,,Robert HEFFERNAN,28 FEB 1978,IRL,1,Dublin (IRL),22 JUL 2007,1162,10000-metres-race-walk,race-walks,male,senior
+189,39:12.33,,Ivano BRUGNETTI,01 SEP 1976,ITA,1,Cagliari (ITA),19 JUL 2008,1162,10000-metres-race-walk,race-walks,male,senior
+189,39:12.33,,Serhii SVITLYCHNYI,13 JUL 1994,UKR,1,"Miesto Stadionas, Alytus (LTU)",20 SEP 2024,1162,10000-metres-race-walk,race-walks,male,senior
+191,39:12.59,,Atsuki TSUCHIYA,06 AUG 2003,JPN,2,"Yanmar Stadium Nagai, Osaka (JPN)",06 MAY 2025,1162,10000-metres-race-walk,race-walks,male,senior
+192,39:13.00,,Jozef PRIBILINEC,06 JUL 1960,TCH,1,Lomello (ITA),18 JUN 1988,1162,10000-metres-race-walk,race-walks,male,senior
+193,39:13.38,,Christopher LINKE,24 OCT 1988,GER,1,Jüterbog (GER),22 JUN 2013,1161,10000-metres-race-walk,race-walks,male,senior
+194,39:13.43,,Diego GARCÍA CARRERA,19 JAN 1996,ESP,1,"Pistas Universad de León, León (ESP)",22 APR 2023,1161,10000-metres-race-walk,race-walks,male,senior
+195,39:13.5h,,Vasiliy MIZINOV,29 DEC 1997,RUS,2,"Football and athletics Arena, Saransk (RUS) (i)",24 SEP 2023,1161,10000-metres-race-walk,race-walks,male,senior
+196,39:13.52,,Sergey SHIROBOKOV,11 FEB 1999,RUS,4,"Meteor, Zhukovskiy (RUS)",21 JUN 2025,1161,10000-metres-race-walk,race-walks,male,senior
+197,39:13.60,,Ilya MARKOV,19 JUN 1972,RUS,1,Riga (LAT),28 MAY 2004,1161,10000-metres-race-walk,race-walks,male,senior
+198,39:13.80,,Andrea COSI,30 APR 2001,ITA,1,"Campo Comunale, Brescia (ITA)",17 SEP 2022,1161,10000-metres-race-walk,race-walks,male,senior
+199,39:13.90,,Walter ARENA,30 MAY 1964,ITA,1,Ostia (ITA),09 MAY 1987,1161,10000-metres-race-walk,race-walks,male,senior
+200,39:14.0h,,Pyotr POCHENCHUK,26 JUL 1954,URS,1,Moskva (URS) (i),06 FEB 1983,1161,10000-metres-race-walk,race-walks,male,senior
+200,39:14.0h,,Sergey KHRIPUNOV,15 SEP 1976,RUS,1,Magnitogorsk (RUS),23 SEP 2000,1161,10000-metres-race-walk,race-walks,male,senior
+202,39:14.13,,Aleksandr GARIN,28 DEC 1999,RUS,3,"Regional Sport Complex, Brest (BLR)",12 JUL 2025,1161,10000-metres-race-walk,race-walks,male,senior
+203,39:14.44,,Sergey KOZHEVNIKOV,09 MAY 2001,RUS,3,"Olympic Stadium, Cheboksary (RUS)",02 AUG 2022,1161,10000-metres-race-walk,race-walks,male,senior
+204,39:14.6h,,Rhydian COWLEY,04 JAN 1991,AUS,1,"George Knott Track, Collingwood, Melbourne (AUS)",31 JAN 2021,1160,10000-metres-race-walk,race-walks,male,senior
+205,39:15.0h,,Isamu FUJISAWA,12 OCT 1987,JPN,1,Tokyo (JPN),17 MAY 2009,1160,10000-metres-race-walk,race-walks,male,senior
+206,39:15.1h,,Ihor HLAVAN,25 SEP 1990,UKR,1,Mukachevo (UKR),01 NOV 2014,1160,10000-metres-race-walk,race-walks,male,senior
+207,39:15.16,,Kyle SWAN,28 MAR 1999,AUS,3,"AIS Athletics Track, Canberra (AUS)",27 JAN 2025,1160,10000-metres-race-walk,race-walks,male,senior
+208,39:15.49,,Walter ARENA,30 MAY 1964,ITA,1,Roma (ITA),12 MAY 1990,1160,10000-metres-race-walk,race-walks,male,senior
+209,39:15.60,,Robert KORZENIOWSKI,30 JUL 1968,POL,1,"Marietta, GA (USA)",02 SEP 1995,1160,10000-metres-race-walk,race-walks,male,senior
+210,39:15.61,,Miguel Ángel LÓPEZ,03 JUL 1988,ESP,1,Castellón (ESP),02 AUG 2015,1160,10000-metres-race-walk,race-walks,male,senior
+210,39:15.61,,Tomohiro NODA,24 JAN 1996,JPN,2,"Municipal Stadium, Sasebo (JPN)",08 DEC 2019,1160,10000-metres-race-walk,race-walks,male,senior
+212,39:15.91,,Zelin CAI,11 APR 1991,CHN,2,Genova (ITA),08 FEB 2015,1159,10000-metres-race-walk,race-walks,male,senior
+213,39:16.00,,Xianghong HE,01 JUL 1998,CHN,1,"Pista Fantoni, Mondovi (ITA)",11 MAY 2024,1159,10000-metres-race-walk,race-walks,male,senior
+214,39:16.06,,Eiki TAKAHASHI,19 NOV 1992,JPN,1,Nagasaki (JPN),11 DEC 2016,1159,10000-metres-race-walk,race-walks,male,senior
+215,39:16.14,,Sotaro OSAKA,31 JAN 2006,JPN,1,"Prefectural Stadium, Okayama (JPN)",07 JUN 2025,1159,10000-metres-race-walk,race-walks,male,senior
+216,39:16.54,,Hayato KATSUKI,28 NOV 1990,JPN,9,"Ishin Me-Life Stadium, Yamaguchi (JPN)",22 SEP 2024,1159,10000-metres-race-walk,race-walks,male,senior
+217,39:16.68,,Vladimir STANKIN,02 JAN 1974,RUS,2,Riga (LAT),28 MAY 2004,1159,10000-metres-race-walk,race-walks,male,senior
+218,39:16.75,,Tim FRASER,22 FEB 2000,AUS,4,"AIS Athletics Track, Canberra (AUS)",28 JAN 2024,1159,10000-metres-race-walk,race-walks,male,senior
+219,39:17.4h,,Declan TINGAY,06 FEB 1999,AUS,2,"George Knott Track, Collingwood, Melbourne (AUS)",31 JAN 2021,1158,10000-metres-race-walk,race-walks,male,senior
+220,39:17.66,,Hirooki ARAI,18 MAY 1988,JPN,2,Yamaguchi (JPN),11 OCT 2014,1158,10000-metres-race-walk,race-walks,male,senior
+221,39:17.71,,Emiliano BRIGANTE,27 MAY 2003,ITA,4f1,"Campo Mauro Ferrari, Prato (ITA)",13 APR 2025,1158,10000-metres-race-walk,race-walks,male,senior
+222,39:17.8h,,Aigars FADEJEVS,27 DEC 1975,LAT,1,Valmiera (LAT),18 JUL 1998,1158,10000-metres-race-walk,race-walks,male,senior
+223,39:18.00,,Valdas KAZLAUSKAS,23 FEB 1958,URS,1,Moskva (URS),18 SEP 1983,1158,10000-metres-race-walk,race-walks,male,senior
+223,39:18.0h,,Artur SHUMAK,19 OCT 1963,BLR,1,Minsk (BLR),12 MAY 1992,1158,10000-metres-race-walk,race-walks,male,senior
+223,39:18.0h,,Vitaliy SHVETSOV,20 FEB 1973,RUS,2,Magnitogorsk (RUS),23 SEP 2000,1158,10000-metres-race-walk,race-walks,male,senior
+226,39:18.03,,Koki IKEDA,03 MAY 1998,JPN,1,Sagamihara (JPN),25 MAY 2019,1158,10000-metres-race-walk,race-walks,male,senior
+227,39:18.04,,Daisuke MATSUNAGA,24 MAR 1995,JPN,1,Osaka (JPN),13 SEP 2015,1158,10000-metres-race-walk,race-walks,male,senior
+228,39:18.09,,Zelin CAI,11 APR 1991,CHN,2,Asti (ITA),21 MAY 2016,1158,10000-metres-race-walk,race-walks,male,senior
+229,39:18.11,,Yutaro MURAYAMA,29 SEP 1998,JPN,10,"Ishin Me-Life Stadium, Yamaguchi (JPN)",22 SEP 2024,1158,10000-metres-race-walk,race-walks,male,senior
+230,39:18.54,,Sergey SHMYROV,17 JUN 2005,RUS,4,"Central Stadium, Kazan (RUS)",10 AUG 2025,1158,10000-metres-race-walk,race-walks,male,senior
+231,39:18.60,,Perseus KARLSTRÖM,02 MAY 1990,SWE,1,Helsinki (FIN),30 AUG 2014,1158,10000-metres-race-walk,race-walks,male,senior
+231,39:18.60,,Matheus CORREA,22 AUG 1999,BRA,1,"Pista de Atletismo da Universidade Federal de Lavras, Lavras (BRA)",22 JUL 2023,1158,10000-metres-race-walk,race-walks,male,senior
+233,39:18.63,,Hiroto JUSHO,11 JAN 2000,JPN,3,"Municipal Stadium, Sasebo (JPN)",08 DEC 2019,1158,10000-metres-race-walk,race-walks,male,senior
+234,39:18.71,,Daisuke MATSUNAGA,24 MAR 1995,JPN,1,Saitama (JPN),17 MAY 2014,1157,10000-metres-race-walk,race-walks,male,senior
+235,39:18.74,,Kyle SWAN,28 MAR 1999,AUS,2,"Queensland Sport and Athletics Centre, Nathan, Brisbane (AUS)",31 MAR 2023,1157,10000-metres-race-walk,race-walks,male,senior
+236,39:18.98,,Tim FRASER,22 FEB 2000,AUS,4,"SA Athletic Stadium, Adelaide (AUS)",11 APR 2024,1157,10000-metres-race-walk,race-walks,male,senior
+237,39:19.32,,Anatoliy SOLOMIN,02 JUL 1952,URS,1,Roma (ITA),23 MAY 1981,1157,10000-metres-race-walk,race-walks,male,senior
+238,39:19.5h,,Perseus KARLSTRÖM,02 MAY 1990,SWE,1,Göteborg (SWE),08 AUG 2015,1157,10000-metres-race-walk,race-walks,male,senior
+239,39:19.53,,Eiki TAKAHASHI,19 NOV 1992,JPN,1,Matsuyama (JPN),08 OCT 2017,1157,10000-metres-race-walk,race-walks,male,senior
+240,39:19.64,,Alessandro GANDELLINI,30 APR 1973,ITA,2,Pescara (ITA),14 SEP 2002,1157,10000-metres-race-walk,race-walks,male,senior
+241,39:19.88,,Jamie COSTIN,01 JUN 1977,IRL,2,Santry (IRL),24 JUL 2004,1157,10000-metres-race-walk,race-walks,male,senior
+242,39:20.0h,,Moacir ZIMMERMANN,30 DEC 1983,BRA,1,Blumenau (BRA),23 MAY 2009,1157,10000-metres-race-walk,race-walks,male,senior
+243,39:20.04,,Maksim PYANZIN,22 MAY 2003,RUS,2,"Yelena Yelesina Stadium, Chelyabinsk (RUS)",03 AUG 2023,1156,10000-metres-race-walk,race-walks,male,senior
+244,39:20.52,,Nazar KOVALENKO,09 FEB 1987,UKR,1,Sumy (UKR) (i),20 FEB 2010,1156,10000-metres-race-walk,race-walks,male,senior
+244,39:20.52,,David HURTADO,21 APR 1999,ECU,1,"Estadio Alberto Spencer Herrera, Guayaquil (ECU)",16 APR 2022,1156,10000-metres-race-walk,race-walks,male,senior
+246,39:20.8h,,Viktor SEMYONOV,28 JUN 1949,URS,1,Moskva (URS) (i),17 FEB 1980,1156,10000-metres-race-walk,race-walks,male,senior
+247,39:20.81,,Perseus KARLSTRÖM,02 MAY 1990,SWE,1,Canberra (AUS),28 JAN 2019,1156,10000-metres-race-walk,race-walks,male,senior
+248,39:20.87,,Giuseppe DISABATO,01 NOV 2006,ITA,2f1,"Ratinan Stadion, Tampere (FIN)",10 AUG 2025,1156,10000-metres-race-walk,race-walks,male,senior
+249,39:21.0h,,Vladimir ANDREYEV,07 SEP 1966,RUS,1,Moskva (RUS),21 JAN 1997,1156,10000-metres-race-walk,race-walks,male,senior
+250,39:21.02,,Giovanni DE BENEDICTIS,08 JAN 1968,ITA,1,Bari (ITA),11 JUL 1990,1156,10000-metres-race-walk,race-walks,male,senior
+251,39:21.1h,,Maksim PYANZIN,22 MAY 2003,RUS,3,"Football and athletics Arena, Saransk (RUS) (i)",24 SEP 2023,1156,10000-metres-race-walk,race-walks,male,senior
+252,39:21.13,,Eduard ZABUZHENKO,18 APR 1998,UKR,1,Ivano-Frankivsk (UKR),30 MAY 2021,1156,10000-metres-race-walk,race-walks,male,senior
+253,39:21.30,,Evan DUNFEE,28 SEP 1990,CAN,1,Coquitlam (CAN),11 JUN 2016,1156,10000-metres-race-walk,race-walks,male,senior
+254,39:21.51,,Il-yong SHIN,17 FEB 1979,KOR,1,Andong (KOR),22 MAY 2007,1155,10000-metres-race-walk,race-walks,male,senior
+255,39:21.6h,,Nikolay MATVEYEV,15 JAN 1955,URS,1,Minsk (BLR) (i),02 MAR 1981,1155,10000-metres-race-walk,race-walks,male,senior
+256,39:21.80,,Walter ARENA,30 MAY 1964,ITA,1,Catania (ITA),24 SEP 1988,1155,10000-metres-race-walk,race-walks,male,senior
+257,39:21.92,,Maurizio DAMILANO,06 APR 1957,ITA,2,Roma (ITA),23 MAY 1980,1155,10000-metres-race-walk,race-walks,male,senior
+258,39:21.99,,Ivan Dario OÑA COLCHA,25 FEB 2006,ECU,1,"Estadio Atlético de la VIDENA, Lima (PER)",16 JUL 2025,1155,10000-metres-race-walk,race-walks,male,senior
+259,39:22.0h,,Kyle SWAN,28 MAR 1999,AUS,2,"AIS Athletics Track, Canberra (AUS)",22 JAN 2022,1155,10000-metres-race-walk,race-walks,male,senior
+260,39:22.02,,Riku KANEKO,15 MAR 2005,JPN,3,"Lemon Gas Stadium, Hiratsuka (JPN)",26 APR 2025,1155,10000-metres-race-walk,race-walks,male,senior
+261,39:22.11,,Eiki TAKAHASHI,19 NOV 1992,JPN,1,Osaka (JPN),24 SEP 2016,1155,10000-metres-race-walk,race-walks,male,senior
+262,39:22.20,,Salvatore CACIA,22 JUL 1967,ITA,2,Catania (ITA),24 SEP 1988,1155,10000-metres-race-walk,race-walks,male,senior
+263,39:22.33,,Haruki MANJU,10 APR 2001,JPN,11,"Ishin Me-Life Stadium, Yamaguchi (JPN)",22 SEP 2024,1155,10000-metres-race-walk,race-walks,male,senior
+264,39:22.41,,Perseus KARLSTRÖM,02 MAY 1990,SWE,1,Canberra (AUS),14 JAN 2018,1155,10000-metres-race-walk,race-walks,male,senior
+265,39:22.44,,Matheus CORREA,22 AUG 1999,BRA,1,"Complexo Esportivo Timbo, Timbó (BRA)",11 NOV 2023,1155,10000-metres-race-walk,race-walks,male,senior
+266,39:22.47,,Yafei CHU,09 MAY 1988,CHN,3,Tianjin (CHN),16 SEP 2012,1155,10000-metres-race-walk,race-walks,male,senior
+267,39:23.00,,Francesco FORTUNATO,13 DEC 1994,ITA,1,"Campo Mauro Ferrari, Prato (ITA)",16 APR 2023,1154,10000-metres-race-walk,race-walks,male,senior
+268,39:23.14,,Samuel Kireri GATHIMBA,26 OCT 1987,KEN,5,"Alexander Stadium, Birmingham (GBR)",07 AUG 2022,1154,10000-metres-race-walk,race-walks,male,senior
+269,39:23.20,,Walter ARENA,30 MAY 1964,ITA,2,Bari (ITA),11 JUL 1990,1154,10000-metres-race-walk,race-walks,male,senior
+270,39:23.23,,Daisuke MATSUNAGA,24 MAR 1995,JPN,2,Osaka (JPN),22 SEP 2018,1154,10000-metres-race-walk,race-walks,male,senior
+271,39:23.26,,Evan DUNFEE,28 SEP 1990,CAN,1,"Alumni Stadium, Guelph (CAN)",18 JUN 2025,1154,10000-metres-race-walk,race-walks,male,senior
+272,39:23.3h,,Modris LIEPIŅŠ,03 AUG 1966,LAT,1,Valmiera (LAT),26 JUL 1998,1154,10000-metres-race-walk,race-walks,male,senior
+273,39:23.38,,Walter ARENA,30 MAY 1964,ITA,2,Pescara (ITA),12 SEP 1990,1154,10000-metres-race-walk,race-walks,male,senior
+273,39:23.38,,Álvaro MARTÍN,18 JUN 1994,ESP,2,"Pistas Universad de León, León (ESP)",22 APR 2023,1154,10000-metres-race-walk,race-walks,male,senior
+275,39:23.44,,Valentin KONONEN,07 MAR 1969,FIN,1,Helsinki (FIN),26 AUG 1995,1154,10000-metres-race-walk,race-walks,male,senior
+276,39:23.51,,Álvaro MARTÍN,18 JUN 1994,ESP,2,Gijón (ESP),24 JUL 2016,1154,10000-metres-race-walk,race-walks,male,senior
+277,39:23.58,,Takumi SAITO,23 MAR 1993,JPN,2,Saitama (JPN),17 MAY 2014,1154,10000-metres-race-walk,race-walks,male,senior
+278,39:23.71,,Miguel Ángel LÓPEZ,03 JUL 1988,ESP,1,Cartagena (ESP),25 APR 2014,1154,10000-metres-race-walk,race-walks,male,senior
+279,39:23.75,,Rhydian COWLEY,04 JAN 1991,AUS,4,"AIS Athletics Track, Canberra (AUS)",27 JAN 2025,1154,10000-metres-race-walk,race-walks,male,senior
+280,39:23.88,,Benjamín SÁNCHEZ,10 MAR 1985,ESP,2,Santa Cruz de Tenerife (ESP),27 JUL 2008,1154,10000-metres-race-walk,race-walks,male,senior
+281,39:23.98,,Declan TINGAY,06 FEB 1999,AUS,1,"AIS Athletics Track, Canberra (AUS)",06 JAN 2023,1154,10000-metres-race-walk,race-walks,male,senior
+282,39:24.00,,Walter ARENA,30 MAY 1964,ITA,1,Roma (ITA),11 MAY 1986,1154,10000-metres-race-walk,race-walks,male,senior
+283,39:24.03,,Maksim DENISOV,07 MAY 2005,RUS,3,"Yelena Yelesina Stadium, Chelyabinsk (RUS)",03 AUG 2023,1154,10000-metres-race-walk,race-walks,male,senior
+284,39:24.20,,Álvaro MARTÍN,18 JUN 1994,ESP,1,La Nucia (ESP),21 MAY 2022,1153,10000-metres-race-walk,race-walks,male,senior
+285,39:24.3h,,Sergey SERGACHEV,10 JUL 1987,RUS,1,Buy (RUS),21 SEP 2008,1153,10000-metres-race-walk,race-walks,male,senior
+286,39:24.42,,Eiki TAKAHASHI,19 NOV 1992,JPN,2,Nagasaki (JPN),21 OCT 2014,1153,10000-metres-race-walk,race-walks,male,senior
+287,39:24.49,,Toshikazu YAMANISHI,15 FEB 1996,JPN,1,Osaka (JPN),13 MAY 2017,1153,10000-metres-race-walk,race-walks,male,senior
+287,39:24.49,,Yusuke SUZUKI,02 JAN 1988,JPN,5,Kitami (JPN),07 JUL 2018,1153,10000-metres-race-walk,race-walks,male,senior
+289,39:24.64,,Yutaro MURAYAMA,29 SEP 1998,JPN,4,"Nagaragawa Stadium, Gifu (JPN)",24 SEP 2022,1153,10000-metres-race-walk,race-walks,male,senior
+290,39:24.69,,Diego GARCÍA CARRERA,19 JAN 1996,ESP,2,"Estadi Natalia Rodríguez, Tarragona (ESP)",01 AUG 2025,1153,10000-metres-race-walk,race-walks,male,senior
+291,39:24.8h,,Matej TÓTH,10 FEB 1983,SVK,1,Banská Bystrica (SVK),29 APR 2011,1153,10000-metres-race-walk,race-walks,male,senior
+292,39:24.85,,Rayen CHERNI,01 NOV 2006,TUN,1,"Estadio Atlético de la VIDENA, Lima (PER)",30 AUG 2024,1153,10000-metres-race-walk,race-walks,male,senior
+293,39:24.9h,,André HÖHNE,10 MAR 1978,GER,1,Halle (GER),26 MAY 2004,1153,10000-metres-race-walk,race-walks,male,senior
+294,39:24.99,,Giuseppe DISABATO,01 NOV 2006,ITA,1,"Campo Mauro Ferrari, Prato (ITA)",13 APR 2025,1153,10000-metres-race-walk,race-walks,male,senior
+295,39:25.15,,Yushi NAKAJIMA,29 JAN 2005,JPN,4,"Lemon Gas Stadium, Hiratsuka (JPN)",26 APR 2025,1153,10000-metres-race-walk,race-walks,male,senior
+296,39:25.49,,Yusuke SUZUKI,02 JAN 1988,JPN,2,Fukui (JPN),07 OCT 2018,1153,10000-metres-race-walk,race-walks,male,senior
+297,39:25.58,,Chilsung PARK,08 JUL 1982,KOR,2,Andong (KOR),22 MAY 2007,1152,10000-metres-race-walk,race-walks,male,senior
+298,39:25.70,,Isamu FUJISAWA,12 OCT 1987,JPN,3,Yamaguchi (JPN),11 OCT 2014,1152,10000-metres-race-walk,race-walks,male,senior
+299,39:26.02,,Guillaume LEBLANC,14 APR 1962,CAN,1,Gateshead (GBR),23 JUN 1990,1152,10000-metres-race-walk,race-walks,male,senior
+300,39:26.1h,,Declan TINGAY,06 FEB 1999,AUS,1,"AIS Athletics Track, Canberra (AUS)",15 JAN 2022,1152,10000-metres-race-walk,race-walks,male,senior
+301,39:26.14,,Keisuke HARA,04 MAR 2002,JPN,2,"Prefectural Stadium, Okayama (JPN)",07 JUN 2025,1152,10000-metres-race-walk,race-walks,male,senior
+302,39:26.3h,,Aleksandr YARGUNKIN,06 JAN 1981,RUS,1,Saransk (RUS),19 JUN 2005,1152,10000-metres-race-walk,race-walks,male,senior
+303,39:26.59,,Gianluca PICCHIOTTINO,22 AUG 1996,ITA,1,"Campo Scuola Moreno Martini, Lucca (ITA)",12 MAY 2024,1152,10000-metres-race-walk,race-walks,male,senior
+304,39:26.71,,Keisuke HARA,04 MAR 2002,JPN,4,"Sunrise Park, Saga (JPN)",14 OCT 2024,1152,10000-metres-race-walk,race-walks,male,senior
+305,39:26.79,,Ivan TROTSKI,27 MAY 1976,BLR,1,Mogilyov (BLR) (i),22 FEB 2008,1152,10000-metres-race-walk,race-walks,male,senior
+306,39:26.92,,Salih KORKMAZ,01 JAN 1997,TUR,1,"Ekrem Koçak Atletizm Pisti, Istanbul (TUR)",05 SEP 2020,1152,10000-metres-race-walk,race-walks,male,senior
+307,39:27.00,,Guillaume LEBLANC,14 APR 1962,CAN,3,Hildesheim (GER),06 SEP 1986,1151,10000-metres-race-walk,race-walks,male,senior
+307,39:27.00,,Roman MRÁZEK,21 JAN 1962,TCH,4,Hildesheim (GER),06 SEP 1986,1151,10000-metres-race-walk,race-walks,male,senior
+307,39:27.0h,,Grzegorz SUDOŁ,28 AUG 1978,POL,1,Biala Podlaska (POL),30 MAY 2009,1151,10000-metres-race-walk,race-walks,male,senior
+307,39:27.00,,Vasiliy MIZINOV,29 DEC 1997,RUS,,"Olimpiyets, Mogilyov (BLR) (i)",14 FEB 2025,1151,10000-metres-race-walk,race-walks,male,senior
+311,39:27.04,,Toshikazu YAMANISHI,15 FEB 1996,JPN,3,Osaka (JPN),22 SEP 2018,1151,10000-metres-race-walk,race-walks,male,senior
+312,39:27.10,,Emiliano BARBA,23 MAR 2007,MEX,2,"Estadio Atlético de la VIDENA, Lima (PER)",30 AUG 2024,1151,10000-metres-race-walk,race-walks,male,senior
+313,39:27.19,,Daisuke MATSUNAGA,24 MAR 1995,JPN,1,"Hayward Field, Eugene, OR (USA)",25 JUL 2014,1151,10000-metres-race-walk,race-walks,male,senior
+314,39:27.3h,,Igor YEROKHIN,04 SEP 1985,RUS,2,Saransk (RUS),19 JUN 2005,1151,10000-metres-race-walk,race-walks,male,senior
+315,39:27.49,,Kazuhiro TATEIWA,05 NOV 1999,JPN,3,"Municipal Stadium, Kitami (JPN)",06 JUL 2024,1151,10000-metres-race-walk,race-walks,male,senior
+316,39:27.5h,,Artur MELESHKEVICH,11 APR 1975,BLR,2,Minsk (BLR) (i),02 FEB 1996,1151,10000-metres-race-walk,race-walks,male,senior
+317,39:27.59,,Mikhail SHCHENNIKOV,24 DEC 1967,URS,1,Portsmouth (GBR),19 JUN 1988,1151,10000-metres-race-walk,race-walks,male,senior
+318,39:27.63,,Yohann DINIZ,01 JAN 1978,FRA,2,Paris (FRA),13 JUL 2013,1151,10000-metres-race-walk,race-walks,male,senior
+319,39:27.89,,Takeaki AKATSUMA,27 NOV 1981,JPN,1,Sendai (JPN),17 MAY 2002,1151,10000-metres-race-walk,race-walks,male,senior
+320,39:27.90,,Kai KOBAYASHI,28 FEB 1993,JPN,3,Saitama (JPN),17 MAY 2014,1151,10000-metres-race-walk,race-walks,male,senior
+321,39:28.20,,Costică BĂLAN,25 AUG 1964,ROU,1,Bucureşti (ROU),31 JUL 1993,1151,10000-metres-race-walk,race-walks,male,senior
+322,39:28.23,,Daniel CHAMOSA,04 MAY 1997,ESP,3,"Estadi Olímpic Camilo Cano, La Nucia (ESP)",29 JUN 2024,1151,10000-metres-race-walk,race-walks,male,senior
+323,39:28.45,,Andrey RUZAVIN,28 MAR 1986,RUS,1,"S. Darius & S. Girėnas Stadium, Kaunas (LTU)",23 JUL 2005,1150,10000-metres-race-walk,race-walks,male,senior
+324,39:28.54,,Perseus KARLSTRÖM,02 MAY 1990,SWE,1,"Olympiastadion, Helsinki (FIN)",04 SEP 2022,1150,10000-metres-race-walk,race-walks,male,senior
+325,39:28.56,,Aurélien QUINION,27 JAN 1993,FRA,2,"Stade Helitas, Caen (FRA)",26 JUN 2022,1150,10000-metres-race-walk,race-walks,male,senior
+326,39:28.63,,Toshikazu YAMANISHI,15 FEB 1996,JPN,2,Osaka (JPN),13 SEP 2015,1150,10000-metres-race-walk,race-walks,male,senior
+327,39:28.68,,Kai KOBAYASHI,28 FEB 1993,JPN,3,Abashiri (JPN),16 JUL 2015,1150,10000-metres-race-walk,race-walks,male,senior
+328,39:28.97,,Jacek MÜLLER,03 NOV 1973,POL,1,Sopot (POL),20 JUN 1993,1150,10000-metres-race-walk,race-walks,male,senior
+329,39:29.00,,Yuki YAMAZAKI,16 JAN 1984,JPN,1,Yamagata (JPN),27 SEP 2008,1150,10000-metres-race-walk,race-walks,male,senior
+329,39:29.00,,Alberto AMEZCUA,10 MAY 1992,ESP,3,Gijón (ESP),24 JUL 2016,1150,10000-metres-race-walk,race-walks,male,senior
+331,39:29.30,,Andrew JACHNO,13 APR 1962,AUS,1,Melbourne (AUS),06 JAN 1991,1150,10000-metres-race-walk,race-walks,male,senior
+332,39:29.36,,Isamu FUJISAWA,12 OCT 1987,JPN,2,Niigata (JPN),26 SEP 2010,1150,10000-metres-race-walk,race-walks,male,senior
+333,39:29.45,,Alessandro GANDELLINI,30 APR 1973,ITA,1,Catania (ITA),06 DEC 2003,1150,10000-metres-race-walk,race-walks,male,senior
+334,39:29.54,,Zhen WANG,24 AUG 1991,CHN,1,Torino (ITA),09 MAY 2015,1150,10000-metres-race-walk,race-walks,male,senior
+335,39:29.63,,Rhydian COWLEY,04 JAN 1991,AUS,1,"SOPAC, Sydney (AUS)",16 APR 2021,1150,10000-metres-race-walk,race-walks,male,senior
+336,39:29.72,,Axel NOACK,23 SEP 1961,GDR,1,Potsdam (GDR),21 AUG 1987,1149,10000-metres-race-walk,race-walks,male,senior
+337,39:29.73,,Sergio SPAGNULIO,07 OCT 1962,ITA,3,Pescara (ITA),12 SEP 1990,1149,10000-metres-race-walk,race-walks,male,senior
+338,39:29.93,,Hagen POHLE,05 MAR 1992,GER,1,"Stadion An der Lindenstraße, Neukieritzsch (GER)",10 SEP 2022,1149,10000-metres-race-walk,race-walks,male,senior
+339,39:30.14,,Hatem GHOULA,07 JUN 1973,TUN,1,Tunis (TUN),12 APR 2003,1149,10000-metres-race-walk,race-walks,male,senior
+340,39:30.36,,Juan Manuel MOLINA,15 MAR 1979,ESP,3,Riga (LAT),28 MAY 2004,1149,10000-metres-race-walk,race-walks,male,senior
+341,39:30.48,,Yuta KOGA,15 JUL 1999,JPN,5,"Nagaragawa Stadium, Gifu (JPN)",24 SEP 2022,1149,10000-metres-race-walk,race-walks,male,senior
+342,39:30.56,,Hyunsub KIM,31 MAY 1985,KOR,1,Goseong (KOR),30 JUN 2009,1149,10000-metres-race-walk,race-walks,male,senior
+343,39:30.60,,Kirill CHUDAYKIN,15 JUL 2006,RUS,5,"Central Stadium, Kazan (RUS)",10 AUG 2025,1149,10000-metres-race-walk,race-walks,male,senior
+344,39:30.8h,,Rhydian COWLEY,04 JAN 1991,AUS,1,"University Athletics Track, Parkville, Melbourne (AUS)",27 JAN 2020,1149,10000-metres-race-walk,race-walks,male,senior
+345,39:30.86,,Luis Henry CAMPOS,11 OCT 1995,PER,1,"Estadio Atlético de la VIDENA, Lima (PER)",29 MAR 2025,1149,10000-metres-race-walk,race-walks,male,senior
+346,39:31.20,,Ralf KOWALSKY,22 MAR 1962,GDR,1,Lille (FRA),21 JUN 1980,1148,10000-metres-race-walk,race-walks,male,senior
+346,39:31.20,,Ralf KOWALSKY,22 MAR 1962,GDR,1,Villeneuve d'Ascq (FRA),31 MAY 1981,1148,10000-metres-race-walk,race-walks,male,senior
+348,39:31.25,,Giuseppe DISABATO,01 NOV 2006,ITA,3,"Estadio Atlético de la VIDENA, Lima (PER)",30 AUG 2024,1148,10000-metres-race-walk,race-walks,male,senior
+349,39:31.40,,Gérard LELIÈVRE,13 NOV 1949,FRA,1,Sotteville-lès-Rouen (FRA),21 JUL 1984,1148,10000-metres-race-walk,race-walks,male,senior
+350,39:31.50,,Daniel BAUTISTA,04 AUG 1952,MEX,1,Grudziadz (POL),30 MAY 1979,1148,10000-metres-race-walk,race-walks,male,senior
+351,39:31.51,,Hyunsub KIM,31 MAY 1985,KOR,3,Andong (KOR),22 MAY 2007,1148,10000-metres-race-walk,race-walks,male,senior
+352,39:31.58,,Kevin CAMPION,23 MAY 1988,FRA,2,"Stade Josette et Roger Mikulak, Angers (FRA)",29 JUN 2024,1148,10000-metres-race-walk,race-walks,male,senior
+353,39:31.61,,Gabriel BORDIER,08 OCT 1997,FRA,1,"Stade Josette et Roger Mikulak, Angers (FRA)",27 JUN 2021,1148,10000-metres-race-walk,race-walks,male,senior
+354,39:31.72,,Álvaro MARTÍN,18 JUN 1994,ESP,1,Getafe (ESP),22 JUL 2018,1148,10000-metres-race-walk,race-walks,male,senior
+355,39:31.81,,Valentín MASSANA,05 JUL 1970,ESP,1,Tarragona (ESP),24 JUN 1997,1148,10000-metres-race-walk,race-walks,male,senior
+356,39:31.90,,Erling ANDERSEN,22 SEP 1960,NOR,1,Fana (NOR),02 JUN 1987,1148,10000-metres-race-walk,race-walks,male,senior
+357,39:31.96,,Salih KORKMAZ,01 JAN 1997,TUR,1,Bursa (TUR),04 AUG 2019,1148,10000-metres-race-walk,race-walks,male,senior
+358,39:31.99,,Gianluca PICCHIOTTINO,22 AUG 1996,ITA,2,"Campo Mauro Ferrari, Prato (ITA)",16 APR 2023,1148,10000-metres-race-walk,race-walks,male,senior
+359,39:32.0h,,Aleksey KRONIN,23 OCT 1970,RUS,2,Moskva (RUS),21 JAN 1997,1148,10000-metres-race-walk,race-walks,male,senior
+360,39:32.08,,Koichiro MORIOKA,02 APR 1985,JPN,1,Shibetsu (JPN),08 JUN 2008,1148,10000-metres-race-walk,race-walks,male,senior
+360,39:32.08,,Andreas GUSTAFSSON,10 AUG 1981,SWE,2,Helsinki (FIN),30 AUG 2014,1148,10000-metres-race-walk,race-walks,male,senior
+362,39:32.52,,Łukasz NIEDZIAŁEK,15 MAR 2000,POL,1,"Golęcin Stadion, Poznan (POL)",25 JUN 2021,1147,10000-metres-race-walk,race-walks,male,senior
+363,39:32.63,,Perseus KARLSTRÖM,02 MAY 1990,SWE,1,"Olympiastadion, Stockholm (SWE)",04 SEP 2021,1147,10000-metres-race-walk,race-walks,male,senior
+363,39:32.63,,Maher BEN HLIMA,24 JUL 1989,POL,1,"Stadion Zygmunta Szelesta, Warszawa (POL)",27 MAR 2024,1147,10000-metres-race-walk,race-walks,male,senior
+365,39:33.09,,Sergey KOZHEVNIKOV,09 MAY 2001,RUS,4,"Yelena Yelesina Stadium, Chelyabinsk (RUS)",03 AUG 2023,1147,10000-metres-race-walk,race-walks,male,senior
+366,39:33.12,,Giovanni PERRICELLI,25 AUG 1967,ITA,1,Formia (ITA),04 JUN 1994,1147,10000-metres-race-walk,race-walks,male,senior
+367,39:33.16,,Ilya MARKOV,19 JUN 1972,RUS,2,Catania (ITA),06 DEC 2003,1147,10000-metres-race-walk,race-walks,male,senior
+367,39:33.16,,Daisuke MATSUNAGA,24 MAR 1995,JPN,1,Yokohama (JPN),16 MAY 2015,1147,10000-metres-race-walk,race-walks,male,senior
+369,39:33.18,,Zewen LI,05 DEC 1973,CHN,1f1,Chengdu (CHN),08 SEP 2000,1147,10000-metres-race-walk,race-walks,male,senior
+370,39:33.30,,Satoshi MARUO,28 NOV 1991,JPN,4,Abashiri (JPN),16 JUL 2015,1147,10000-metres-race-walk,race-walks,male,senior
+371,39:33.38,,Álvaro MARTÍN,18 JUN 1994,ESP,1,"Estadi Olímpic Camilo Cano, La Nucia (ESP)",31 AUG 2019,1147,10000-metres-race-walk,race-walks,male,senior
+372,39:33.40,,Perseus KARLSTRÖM,02 MAY 1990,SWE,1,"Olympiastadion, Stockholm (SWE)",24 AUG 2025,1147,10000-metres-race-walk,race-walks,male,senior
+373,39:33.7h,,Moacir ZIMMERMANN,30 DEC 1983,BRA,1,Blumenau (BRA),18 AUG 2018,1147,10000-metres-race-walk,race-walks,male,senior
+374,39:33.79,,Hiroto JUSHO,11 JAN 2000,JPN,5,"Sunrise Park, Saga (JPN)",14 OCT 2024,1147,10000-metres-race-walk,race-walks,male,senior
+375,39:34.0h,,Frants KOSTYUKEVICH,04 APR 1963,BLR,2,Minsk (BLR) (i),04 FEB 1995,1146,10000-metres-race-walk,race-walks,male,senior
+376,39:34.20,,Ernesto CANTO,18 OCT 1959,MEX,1,København (DEN),13 MAY 1984,1146,10000-metres-race-walk,race-walks,male,senior
+377,39:34.40,,Álvaro MARTÍN,18 JUN 1994,ESP,1,Castellón (ESP),04 MAY 2019,1146,10000-metres-race-walk,race-walks,male,senior
+378,39:34.6h,,Aivars RUMBENIEKS,10 MAY 1951,URS,2,Moskva (URS) (i),17 FEB 1980,1146,10000-metres-race-walk,race-walks,male,senior
+379,39:34.97,,Iván LÓPEZ,29 MAR 1997,ESP,2,Cartagena (ESP),17 APR 2021,1146,10000-metres-race-walk,race-walks,male,senior
+380,39:34.99,,Ivan TROTSKI,27 MAY 1976,BLR,3,Catania (ITA),06 DEC 2003,1146,10000-metres-race-walk,race-walks,male,senior
+381,39:35.01,,Stanislav YEMELYANOV,23 OCT 1990,RUS,1,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",11 JUL 2008,1146,10000-metres-race-walk,race-walks,male,senior
+382,39:35.03,,Miguel Ángel LÓPEZ,03 JUL 1988,ESP,2,"Estadi Olímpic Camilo Cano, La Nucia (ESP)",31 AUG 2019,1146,10000-metres-race-walk,race-walks,male,senior
+383,39:35.11,,Álvaro MARTÍN,18 JUN 1994,ESP,1,Murcia (ESP),07 MAY 2022,1146,10000-metres-race-walk,race-walks,male,senior
+384,39:35.29,,Jordy Rafael JIMÉNEZ ARROBO,11 FEB 1994,ECU,3,Guayaquil (ECU),18 APR 2021,1145,10000-metres-race-walk,race-walks,male,senior
+385,39:35.3h,,Danila MARTYNOV,01 MAY 2004,RUS,4,"Football and athletics Arena, Saransk (RUS) (i)",24 SEP 2023,1145,10000-metres-race-walk,race-walks,male,senior
+386,39:35.58,,Álvaro MARTÍN,18 JUN 1994,ESP,1,"Polideportivo Juan de la Cierva, Getafe (ESP)",27 JUN 2021,1145,10000-metres-race-walk,race-walks,male,senior
+387,39:35.6h,,Sergey SAFAROV,26 JAN 1983,RUS,2,Buy (RUS),21 SEP 2008,1145,10000-metres-race-walk,race-walks,male,senior
+388,39:35.62,,Kai KOBAYASHI,28 FEB 1993,JPN,2,Osaka (JPN),24 SEP 2016,1145,10000-metres-race-walk,race-walks,male,senior
+389,39:35.86,,Rihito ISHIDA,19 DEC 2001,JPN,1,"Athletic Track, Abashiri (JPN)",19 JUL 2025,1145,10000-metres-race-walk,race-walks,male,senior
+390,39:35.87,,Marco GIUNGI,30 OCT 1974,ITA,1,Milano (ITA),06 SEP 2000,1145,10000-metres-race-walk,race-walks,male,senior
+391,39:36.0h,,Moacir ZIMMERMANN,30 DEC 1983,BRA,1,Timbó (BRA),21 MAR 2009,1145,10000-metres-race-walk,race-walks,male,senior
+392,39:36.05,,Tim FRASER,22 FEB 2000,AUS,5,"AIS Athletics Track, Canberra (AUS)",27 JAN 2025,1145,10000-metres-race-walk,race-walks,male,senior
+393,39:36.18,,Giovanni DE BENEDICTIS,08 JAN 1968,ITA,1,Livorno (ITA),17 JUN 1995,1145,10000-metres-race-walk,race-walks,male,senior
+394,39:36.39,,Isaac BEACROFT,18 JUL 2007,AUS,4,"Estadio Atlético de la VIDENA, Lima (PER)",30 AUG 2024,1145,10000-metres-race-walk,race-walks,male,senior
+395,39:36.41,,Ronald WEIGEL,08 AUG 1959,GDR,2,Gateshead (GBR),23 JUN 1990,1145,10000-metres-race-walk,race-walks,male,senior
+396,39:36.47,,Hiroto JUSHO,11 JAN 2000,JPN,1,"National Stadium, Tokyo (JPN)",16 MAR 2024,1145,10000-metres-race-walk,race-walks,male,senior
+397,39:36.48,,Andrea COSI,30 APR 2001,ITA,1,"Pista Pietro Mennea, Agropoli (ITA)",17 JUN 2023,1145,10000-metres-race-walk,race-walks,male,senior
+398,39:36.58,,Thierry TOUTAIN,14 FEB 1962,FRA,1,Dreux (FRA),19 JUN 1992,1145,10000-metres-race-walk,race-walks,male,senior
+399,39:36.80,,Eider ARÉVALO,09 MAR 1993,COL,1,"Estadio de Atletismo de la Unidad Deportiva Centenario, Armenia (COL)",02 AUG 2025,1144,10000-metres-race-walk,race-walks,male,senior
+400,39:36.95,,Akinori MATSUZAKI,30 DEC 1981,JPN,1,Tokyo (JPN),11 MAY 2003,1144,10000-metres-race-walk,race-walks,male,senior
+401,39:36.97,,César HERRERA,28 JAN 1999,COL,1,"Pedro Grajales, Cali (COL)",29 JUN 2024,1144,10000-metres-race-walk,race-walks,male,senior
+402,39:37.02,,Lihong CUI,13 MAY 1999,CHN,2,"Pista Fantoni, Mondovi (ITA)",11 MAY 2024,1144,10000-metres-race-walk,race-walks,male,senior
+403,39:37.10,,Diego GARCÍA CARRERA,19 JAN 1996,ESP,2,Castellón (ESP),04 MAY 2019,1144,10000-metres-race-walk,race-walks,male,senior
+404,39:37.4h,,Vitaliy SHVETSOV,20 FEB 1973,RUS,1,Cheboksary (RUS),08 OCT 2000,1144,10000-metres-race-walk,race-walks,male,senior
+405,39:37.59,,Hagen POHLE,05 MAR 1992,GER,2,Beeskow (GER),17 AUG 2019,1144,10000-metres-race-walk,race-walks,male,senior
+406,39:37.65,,Eleftherios THANOPOULOS,22 FEB 1975,GRE,1,Patra (GRE),27 APR 2002,1144,10000-metres-race-walk,race-walks,male,senior
+407,39:37.96,,Hedi TERRAOUI,10 NOV 1989,TUN,3,Paris (FRA),13 JUL 2013,1144,10000-metres-race-walk,race-walks,male,senior
+408,39:38.27,,Gianluca PICCHIOTTINO,22 AUG 1996,ITA,1,Livorno (ITA),22 APR 2018,1143,10000-metres-race-walk,race-walks,male,senior
+409,39:38.6h,,Valdas KAZLAUSKAS,23 FEB 1958,URS,3,Moskva (URS) (i),17 FEB 1980,1143,10000-metres-race-walk,race-walks,male,senior
+409,39:38.6h,,Valdas KAZLAUSKAS,23 FEB 1958,URS,1,Moskva (URS) (i),25 FEB 1980,1143,10000-metres-race-walk,race-walks,male,senior
+411,39:38.75,,Daniel CHAMOSA,04 MAY 1997,ESP,3,"Estadi Natalia Rodríguez, Tarragona (ESP)",01 AUG 2025,1143,10000-metres-race-walk,race-walks,male,senior
+412,39:38.8h,,Yusuke SUZUKI,02 JAN 1988,JPN,2,Tokyo (JPN),17 MAY 2009,1143,10000-metres-race-walk,race-walks,male,senior
+413,39:38.81,,Chilsung PARK,08 JUL 1982,KOR,2,Goseong (KOR),30 JUN 2009,1143,10000-metres-race-walk,race-walks,male,senior
+414,39:38.88,,Ivano BRUGNETTI,01 SEP 1976,ITA,1,Firenze (ITA),05 JUN 2010,1143,10000-metres-race-walk,race-walks,male,senior
+415,39:39.14,,Motofumi SUWA,22 OCT 1999,JPN,2,"Athletic Track, Abashiri (JPN)",19 JUL 2025,1143,10000-metres-race-walk,race-walks,male,senior
+416,39:39.20,,Roland WIESER,06 MAY 1956,GDR,2,København (DEN),13 MAY 1984,1143,10000-metres-race-walk,race-walks,male,senior
+417,39:39.32,,Álvaro MARTÍN,18 JUN 1994,ESP,1,"Pista Parc Central, Torrent (ESP)",28 JUL 2023,1143,10000-metres-race-walk,race-walks,male,senior
+418,39:39.35,,Kai KOBAYASHI,28 FEB 1993,JPN,1,Wakayama (JPN),04 OCT 2015,1143,10000-metres-race-walk,race-walks,male,senior
+419,39:39.36,,Sotaro OSAKA,31 JAN 2006,JPN,5,"Estadio Atlético de la VIDENA, Lima (PER)",30 AUG 2024,1143,10000-metres-race-walk,race-walks,male,senior
+420,39:39.45,,Hagen POHLE,05 MAR 1992,GER,1,Diez (GER),16 SEP 2017,1142,10000-metres-race-walk,race-walks,male,senior
+420,39:39.45,,Vasiliy MIZINOV,29 DEC 1997,ANA,1,"Olympic Stadium, Cheboksary (RUS)",21 JUL 2022,1142,10000-metres-race-walk,race-walks,male,senior
+422,39:39.50,,Ralf KOWALSKY,22 MAR 1962,GDR,1,Halle (GER),21 JUN 1980,1142,10000-metres-race-walk,race-walks,male,senior
+423,39:39.8h,,Nikolay MATVEYEV,15 JAN 1955,URS,1,Kislovodsk (URS),28 FEB 1983,1142,10000-metres-race-walk,race-walks,male,senior
+424,39:39.90,,Daniel BAUTISTA,04 AUG 1952,MEX,1,Grudziadz (POL),30 MAY 1978,1142,10000-metres-race-walk,race-walks,male,senior
+425,39:39.93,,David KENNY,10 JAN 1999,IRL,1,"Morton Stadium, Santry, Dublin (IRL)",02 AUG 2025,1142,10000-metres-race-walk,race-walks,male,senior
+426,39:40.17,,Cristian David BERDEJA,21 JUN 1981,MEX,1,Monterrey (MEX),04 JUL 2004,1142,10000-metres-race-walk,race-walks,male,senior
+427,39:40.24,,Declan TINGAY,06 FEB 1999,AUS,2,"SOPAC, Sydney (AUS)",16 APR 2021,1142,10000-metres-race-walk,race-walks,male,senior
+428,39:40.25,,Alvaro LOPEZ,11 MAR 1999,ESP,4,"Estadi Olímpic Camilo Cano, La Nucia (ESP)",29 JUN 2024,1142,10000-metres-race-walk,race-walks,male,senior
+429,39:40.70,,Kevin CAMPION,23 MAY 1988,FRA,2,"Stade Josette et Roger Mikulak, Angers (FRA)",27 JUN 2021,1142,10000-metres-race-walk,race-walks,male,senior
+430,39:40.73,,Maksim BOYKO,08 AUG 2003,RUS,6,"Central Stadium, Kazan (RUS)",10 AUG 2025,1142,10000-metres-race-walk,race-walks,male,senior
+431,39:40.74,,Kai KOBAYASHI,28 FEB 1993,JPN,3,Nagasaki (JPN),21 OCT 2014,1142,10000-metres-race-walk,race-walks,male,senior
+432,39:40.8h,,Andrey PERLOV,12 DEC 1961,URS,2,Kislovodsk (URS),28 FEB 1983,1141,10000-metres-race-walk,race-walks,male,senior
+432,39:40.80,,Aleksandr GARIN,28 DEC 1999,RUS,5,"Meteor, Zhukovskiy (RUS)",21 JUN 2025,1141,10000-metres-race-walk,race-walks,male,senior
+434,39:40.93,,Giovanni PERRICELLI,25 AUG 1967,ITA,2,Livorno (ITA),17 JUN 1995,1141,10000-metres-race-walk,race-walks,male,senior
+435,39:40.97,,Aliaksandr LIAKHOVICH,04 JUL 1989,BLR,1,Mogilyov (BLR) (i),18 FEB 2017,1141,10000-metres-race-walk,race-walks,male,senior
+436,39:41.01,,Zhaohe SONG,21 MAR 2006,CHN,6,"Estadio Atlético de la VIDENA, Lima (PER)",30 AUG 2024,1141,10000-metres-race-walk,race-walks,male,senior
+437,39:41.07,,Aliaksandr LIAKHOVICH,04 JUL 1989,BLR,1,"Dinamo National Olympic Stadium, Minsk (BLR)",31 JUL 2020,1141,10000-metres-race-walk,race-walks,male,senior
+438,39:41.40,,Maurizio DAMILANO,06 APR 1957,ITA,1,Torino (ITA),23 MAY 1992,1141,10000-metres-race-walk,race-walks,male,senior
+438,39:41.40,,Giovanni PERRICELLI,25 AUG 1967,ITA,1,Voghera (ITA),13 APR 1995,1141,10000-metres-race-walk,race-walks,male,senior
+438,39:41.40,,Arturo DI MEZZA,16 JUL 1969,ITA,2,Voghera (ITA),13 APR 1995,1141,10000-metres-race-walk,race-walks,male,senior
+441,39:41.53,,Killian LEBRETON,23 AUG 2000,FRA,2,"Stade Pierre Paul Bernard, Talence (FRA)",02 AUG 2025,1141,10000-metres-race-walk,race-walks,male,senior
+442,39:41.55,,André HÖHNE,10 MAR 1978,GER,2,Braunschweig (GER),10 JUL 2004,1141,10000-metres-race-walk,race-walks,male,senior
+443,39:41.69,,Isamu FUJISAWA,12 OCT 1987,JPN,4,Nagasaki (JPN),21 OCT 2014,1141,10000-metres-race-walk,race-walks,male,senior
+444,39:41.70,,David SMITH,24 JUL 1955,AUS,1,"Collingwood, Melbourne (AUS)",15 FEB 1984,1141,10000-metres-race-walk,race-walks,male,senior
+445,39:41.76,,Maksim DENISOV,07 MAY 2005,RUS,7,"Central Stadium, Kazan (RUS)",10 AUG 2025,1141,10000-metres-race-walk,race-walks,male,senior
+446,39:41.81,,Sergey KOZHEVNIKOV,09 MAY 2001,RUS,1,"Yelena Yelesina Stadium, Chelyabinsk (RUS)",08 JUL 2023,1141,10000-metres-race-walk,race-walks,male,senior
+447,39:41.90,,Yushi NAKAJIMA,29 JAN 2005,JPN,1,"Gion Stadium, Sagamihara (JPN)",10 MAY 2025,1141,10000-metres-race-walk,race-walks,male,senior
+448,39:41.95,,Maurizio DAMILANO,06 APR 1957,ITA,1,Roma (ITA),10 JUL 1985,1141,10000-metres-race-walk,race-walks,male,senior
+449,39:42.12,,Christopher LINKE,24 OCT 1988,GER,1,Bühlertal (GER),21 JUN 2014,1141,10000-metres-race-walk,race-walks,male,senior
+450,39:42.19,,Siarhei CHARNOU,05 FEB 1979,BLR,2,Mogilyov (BLR) (i),22 FEB 2008,1140,10000-metres-race-walk,race-walks,male,senior
+451,39:42.38,,Takaki MATSUZAKI,12 AUG 1992,JPN,2f1,Tama (JPN),14 DEC 2013,1140,10000-metres-race-walk,race-walks,male,senior
+452,39:42.45,,Mattéo DUC,25 MAR 2001,FRA,3,"Stade Pierre Paul Bernard, Talence (FRA)",02 AUG 2025,1140,10000-metres-race-walk,race-walks,male,senior
+453,39:42.5h,,Oleg TROSHIN,01 AUG 1964,RUS,1,Moskva (RUS) (i),26 FEB 1992,1140,10000-metres-race-walk,race-walks,male,senior
+454,39:42.54,,Zdzisław SZLAPKIN,18 JAN 1961,POL,1,Stargard (POL),10 SEP 1988,1140,10000-metres-race-walk,race-walks,male,senior
+455,39:42.7h,,Sergey PROTISHIN,17 APR 1959,URS,3,Kislovodsk (URS),28 FEB 1983,1140,10000-metres-race-walk,race-walks,male,senior
+455,39:42.7h,,Francesco FORTUNATO,13 DEC 1994,ITA,,"Stadio N.Martellini Caracalla, Roma (ITA)",18 APR 2021,1140,10000-metres-race-walk,race-walks,male,senior
+457,39:43.05,,Hirofumi SAKAI,10 FEB 1965,JPN,1,Fukuoka (JPN),25 OCT 1990,1140,10000-metres-race-walk,race-walks,male,senior
+458,39:43.11,,Jamie COSTIN,01 JUN 1977,IRL,2,Dublin (IRL),11 JUL 2010,1140,10000-metres-race-walk,race-walks,male,senior
+459,39:43.14,,Maurizio DAMILANO,06 APR 1957,ITA,1,Grosseto (ITA),11 AUG 1991,1140,10000-metres-race-walk,race-walks,male,senior
+460,39:43.20,,Giorgio RUBINO,15 APR 1986,ITA,1,Firenze (ITA),04 JUN 2011,1140,10000-metres-race-walk,race-walks,male,senior
+461,39:43.24,,Andres Eduardo OLIVAS NÚÑEZ,27 MAY 1998,MEX,1,"Unidad Deportiva Mario Vázquez Raña, Puebla (MEX)",22 JUL 2023,1140,10000-metres-race-walk,race-walks,male,senior
+462,39:43.36,,Axel NOACK,23 SEP 1961,GDR,1,Berlin (GER) (i),04 FEB 1990,1140,10000-metres-race-walk,race-walks,male,senior
+463,39:43.56,,Manuel BERMÚDEZ,12 DEC 1997,ESP,1,"Estadio Enrique Lopez Cuenca, Nerja (ESP)",25 JUN 2022,1139,10000-metres-race-walk,race-walks,male,senior
+464,39:43.72,,Satoshi MARUO,28 NOV 1991,JPN,1,"Yanmar Stadium Nagai, Osaka (JPN)",21 SEP 2019,1139,10000-metres-race-walk,race-walks,male,senior
+465,39:43.81,,Ivan LOSEV,26 JAN 1986,UKR,1,Sumy (UKR) (i),16 FEB 2012,1139,10000-metres-race-walk,race-walks,male,senior
+466,39:43.85,,Tim SEAMAN,14 MAY 1972,USA,1,"Philadelphia, PA (USA)",24 APR 1999,1139,10000-metres-race-walk,race-walks,male,senior
+467,39:43.91,,Maurizio DAMILANO,06 APR 1957,ITA,1,Torino (ITA),02 JUN 1984,1139,10000-metres-race-walk,race-walks,male,senior
+468,39:44.00,,Valdas KAZLAUSKAS,23 FEB 1958,URS,1,Kaunas (LTU),07 JUL 1985,1139,10000-metres-race-walk,race-walks,male,senior
+469,39:44.10,,Evan DUNFEE,28 SEP 1990,CAN,3,"AIS Athletics Track, Canberra (AUS)",02 FEB 2023,1139,10000-metres-race-walk,race-walks,male,senior
+470,39:44.14,,Francesco FORTUNATO,13 DEC 1994,ITA,1,Orvieto (ITA),23 APR 2017,1139,10000-metres-race-walk,race-walks,male,senior
+471,39:44.21,,Yuta KOGA,15 JUL 1999,JPN,1,"Prefectural Kasamatsu Stadium, Hitachinaka (JPN)",08 OCT 2019,1139,10000-metres-race-walk,race-walks,male,senior
+472,39:44.40,,Koichiro MORIOKA,02 APR 1985,JPN,2,Yamagata (JPN),27 SEP 2008,1139,10000-metres-race-walk,race-walks,male,senior
+473,39:44.41,,Aliaksandr LIAKHOVICH,04 JUL 1989,BLR,1,"Olimpiyets Arena, Mogilyov (BLR) (i)",21 FEB 2020,1139,10000-metres-race-walk,race-walks,male,senior
+474,39:44.5h,,Frants KOSTYUKEVICH,04 APR 1963,URS,1,Alushta (URS),23 FEB 1985,1139,10000-metres-race-walk,race-walks,male,senior
+475,39:44.70,,Jean Jacques NKOULOUKIDI,15 APR 1982,ITA,1,Torino (ITA),25 JUN 2011,1139,10000-metres-race-walk,race-walks,male,senior
+476,39:44.71,,Giovanni DE BENEDICTIS,08 JAN 1968,ITA,1,"Alexander Stadium, Birmingham (GBR)",07 AUG 1987,1139,10000-metres-race-walk,race-walks,male,senior
+477,39:44.78,,Eiki TAKAHASHI,19 NOV 1992,JPN,1,Kumagaya (JPN),07 SEP 2014,1139,10000-metres-race-walk,race-walks,male,senior
+478,39:44.86,,Evan DUNFEE,28 SEP 1990,CAN,1,Coquitlam (CAN),09 JUN 2019,1139,10000-metres-race-walk,race-walks,male,senior
+479,39:44.87,,Jean-Claude CORRE,14 SEP 1961,FRA,2,Dreux (FRA),19 JUN 1992,1139,10000-metres-race-walk,race-walks,male,senior
+480,39:44.91,,João VIEIRA,20 FEB 1976,POR,1,Lisboa (POR),30 JUL 2011,1139,10000-metres-race-walk,race-walks,male,senior
+481,39:45.0h,,Yevgeniy SHMALYUK,14 JAN 1976,RUS,1,St. Petersburg (RUS) (i),03 DEC 2000,1138,10000-metres-race-walk,race-walks,male,senior
+482,39:45.20,,Andriy KOVENKO,25 NOV 1973,UKR,1,Yalta (UKR),29 MAY 2010,1138,10000-metres-race-walk,race-walks,male,senior
+483,39:45.25,,Aliaksandr LIAKHOVICH,04 JUL 1989,BLR,1,Minsk (BLR),10 JUL 2015,1138,10000-metres-race-walk,race-walks,male,senior
+484,39:45.3h,,Kirill FROLOV,29 SEP 1993,RUS,5,"Football and athletics Arena, Saransk (RUS) (i)",24 SEP 2023,1138,10000-metres-race-walk,race-walks,male,senior
+485,39:45.84,,Mazlum DEMIR,19 DEC 2003,TUR,1,"Fana Stadion, Bergen (NOR)",20 JUL 2025,1138,10000-metres-race-walk,race-walks,male,senior
+486,39:45.87,,Danila MARTYNOV,01 MAY 2004,RUS,4,"Olympic Stadium, Cheboksary (RUS)",02 AUG 2022,1138,10000-metres-race-walk,race-walks,male,senior
+487,39:45.92,,Toshikazu YAMANISHI,15 FEB 1996,JPN,3,Fukui (JPN),07 OCT 2018,1138,10000-metres-race-walk,race-walks,male,senior
+488,39:46.00,,Aivars RUMBENIEKS,10 MAY 1951,URS,1,Riga (LAT),16 JUN 1984,1138,10000-metres-race-walk,race-walks,male,senior
+489,39:46.10,,Giovanni DE BENEDICTIS,08 JAN 1968,ITA,1,Besancon (FRA),18 JUL 1987,1138,10000-metres-race-walk,race-walks,male,senior
+489,39:46.1h,,Vladimir POTEMIN,24 JAN 1980,RUS,3,Saransk (RUS),19 JUN 2005,1138,10000-metres-race-walk,race-walks,male,senior
+491,39:46.14,,Moussa AOUANOUK,02 AUG 1972,ALG,1,Tunis (TUN),03 JUN 2000,1138,10000-metres-race-walk,race-walks,male,senior
+492,39:46.15,,Rhydian COWLEY,04 JAN 1991,AUS,2,"AIS Athletics Track, Canberra (AUS)",06 JAN 2023,1138,10000-metres-race-walk,race-walks,male,senior
+493,39:46.25,,Francesco FORTUNATO,13 DEC 1994,ITA,1,Tunis (TUN),04 JUN 2016,1138,10000-metres-race-walk,race-walks,male,senior
+494,39:46.60,,Eiki TAKAHASHI,19 NOV 1992,JPN,1,Abashiri (JPN),13 JUL 2017,1137,10000-metres-race-walk,race-walks,male,senior
+495,39:46.62,,Andriy KOVENKO,25 NOV 1973,UKR,2,Sumy (UKR) (i),20 FEB 2010,1137,10000-metres-race-walk,race-walks,male,senior
+496,39:46.66,,Yuga MAEKAWA,09 DEC 2003,JPN,2,"Gion Stadium, Sagamihara (JPN)",10 MAY 2025,1137,10000-metres-race-walk,race-walks,male,senior
+497,39:46.68,,Il-yong SHIN,17 FEB 1979,KOR,3,Goseong (KOR),30 JUN 2009,1137,10000-metres-race-walk,race-walks,male,senior
+498,39:46.74,,Yohann DINIZ,01 JAN 1978,FRA,1,Angers (FRA),16 JUN 2012,1137,10000-metres-race-walk,race-walks,male,senior
+499,39:46.78,,Nitin GUPTA,01 JAN 2008,IND,1,"Madan Mohan Malviya Sports Stadium, Prayagraj (IND)",23 JUN 2025,1137,10000-metres-race-walk,race-walks,male,senior
+500,39:46.79,,Giovanni DE BENEDICTIS,08 JAN 1968,ITA,2,Roma (ITA),09 JUL 1998,1137,10000-metres-race-walk,race-walks,male,senior
+501,39:46.83,,Eder SÁNCHEZ,21 MAY 1986,MEX,1,Ciudad de México (MEX),26 JUN 2011,1137,10000-metres-race-walk,race-walks,male,senior
+502,39:46.84,,Maurizio DAMILANO,06 APR 1957,ITA,2,Neubrandenburg (GDR),10 JUL 1988,1137,10000-metres-race-walk,race-walks,male,senior
+503,39:46.88,,Rhydian COWLEY,04 JAN 1991,AUS,3,"Queensland Sport and Athletics Centre, Nathan, Brisbane (AUS)",31 MAR 2023,1137,10000-metres-race-walk,race-walks,male,senior
+503,39:46.88,,Francesco FORTUNATO,13 DEC 1994,ITA,1,"Campo Comunale, Modena (ITA)",21 SEP 2024,1137,10000-metres-race-walk,race-walks,male,senior
+505,39:46.89,,Hyunmyeong JOO,31 MAY 1997,KOR,1,"Iksan Stadium, Iksan (KOR)",29 MAR 2023,1137,10000-metres-race-walk,race-walks,male,senior
+506,39:46.90,,Nazar KOVALENKO,09 FEB 1987,UKR,1,Yalta (UKR),15 OCT 2010,1137,10000-metres-race-walk,race-walks,male,senior
+507,39:46.92,,Maksim DENISOV,07 MAY 2005,RUS,6,"Meteor, Zhukovskiy (RUS)",21 JUN 2025,1137,10000-metres-race-walk,race-walks,male,senior
+507,39:46.92,,Álvaro LÓPEZ,24 MAR 1999,ESP,4,"Estadi Natalia Rodríguez, Tarragona (ESP)",01 AUG 2025,1137,10000-metres-race-walk,race-walks,male,senior
+509,39:47.00,,Karl-Heinz STADTMÜLLER,30 JAN 1953,GDR,3,Potsdam (GDR),13 JUL 1980,1137,10000-metres-race-walk,race-walks,male,senior
+509,39:47.0h,,Viktor OSIPOV,04 MAY 1965,RUS,2,Moskva (RUS) (i),26 FEB 1992,1137,10000-metres-race-walk,race-walks,male,senior
+509,39:47.0h,,Anton KUČMÍN,07 JUN 1984,SVK,2,Banská Bystrica (SVK),29 APR 2011,1137,10000-metres-race-walk,race-walks,male,senior
+509,39:47.0h,,Matteo GIUPPONI,08 OCT 1988,ITA,1,Brusaporto (ITA),26 MAY 2013,1137,10000-metres-race-walk,race-walks,male,senior
+513,39:47.17,,Álvaro MARTÍN,18 JUN 1994,ESP,1,Barcelona (ESP),23 JUL 2017,1137,10000-metres-race-walk,race-walks,male,senior
+514,39:47.2h,,Aleksandr BORYASHINOV,20 JUN 1963,URS,2,Alushta (URS),23 FEB 1985,1137,10000-metres-race-walk,race-walks,male,senior
+514,39:47.20,,Ding CHEN,05 AUG 1992,CHN,2,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",11 JUL 2008,1137,10000-metres-race-walk,race-walks,male,senior
+516,39:47.60,,Lorenzo CIVALLERO,08 AUG 1975,ITA,3,Pescara (ITA),14 SEP 2002,1137,10000-metres-race-walk,race-walks,male,senior
+517,39:47.77,,Diego GARCÍA CARRERA,19 JAN 1996,ESP,1,Torrent (ESP),01 JUL 2017,1136,10000-metres-race-walk,race-walks,male,senior
+518,39:47.97,,Aliaksandr LIAKHOVICH,04 JUL 1989,BLR,1,Mogilyov (BLR) (i),21 FEB 2014,1136,10000-metres-race-walk,race-walks,male,senior
+519,39:48.0h,,Sergey MELENTYEV,05 DEC 1976,RUS,1,Novokuznetsk (RUS) (i),31 DEC 2000,1136,10000-metres-race-walk,race-walks,male,senior
+520,39:48.04,,Will THOMPSON,18 NOV 2002,AUS,6,"AIS Athletics Track, Canberra (AUS)",27 JAN 2025,1136,10000-metres-race-walk,race-walks,male,senior
+521,39:48.14,,Federico TONTODONATI,30 OCT 1989,ITA,1,"Campo Sportivo Putti, Bergamo (ITA)",10 SEP 2020,1136,10000-metres-race-walk,race-walks,male,senior
+522,39:48.43,,Kai KOBAYASHI,28 FEB 1993,JPN,2,Gifu (JPN),26 SEP 2015,1136,10000-metres-race-walk,race-walks,male,senior
+523,39:48.52,,Ivano BRUGNETTI,01 SEP 1976,ITA,1,Torino (ITA),07 JUL 2006,1136,10000-metres-race-walk,race-walks,male,senior
+523,39:48.52,,Yuki YAMAZAKI,16 JAN 1984,JPN,2,Shibetsu (JPN),08 JUN 2008,1136,10000-metres-race-walk,race-walks,male,senior
+525,39:48.54,,Zdzisław SZLAPKIN,18 JAN 1961,POL,1,Lublin (POL),06 AUG 1988,1136,10000-metres-race-walk,race-walks,male,senior
+526,39:48.56,,Mingyu KIM,28 FEB 1999,KOR,2,"Iksan Stadium, Iksan (KOR)",29 MAR 2023,1136,10000-metres-race-walk,race-walks,male,senior
+527,39:48.6h,,Salavat ILKAYEV,14 SEP 2000,RUS,1,Cheboksary (RUS),16 JUN 2019,1136,10000-metres-race-walk,race-walks,male,senior
+528,39:48.63,,Dane BIRD-SMITH,15 JUL 1992,AUS,1,Bedford (GBR),22 JUN 2014,1136,10000-metres-race-walk,race-walks,male,senior
+529,39:48.65,,Eric GUEVARA,25 AUG 1980,MEX,2,Monterrey (MEX),04 JUL 2004,1136,10000-metres-race-walk,race-walks,male,senior
+530,39:48.70,,Ralf KOWALSKY,22 MAR 1962,GDR,3,København (DEN),13 MAY 1984,1136,10000-metres-race-walk,race-walks,male,senior
+531,39:48.8h,,Ivan TROTSKI,27 MAY 1976,BLR,1,Minsk (BLR),18 JUL 2012,1136,10000-metres-race-walk,race-walks,male,senior
+532,39:48.84,,Atsuki TSUCHIYA,06 AUG 2003,JPN,6,"Sunrise Park, Saga (JPN)",14 OCT 2024,1136,10000-metres-race-walk,race-walks,male,senior
+533,39:48.94,,Jan ALBRECHT,23 JUL 1981,GER,1,"Wattenscheid, Bochum (GER)",02 JUL 2005,1136,10000-metres-race-walk,race-walks,male,senior
+534,39:49.00,,Martín BERMÚDEZ,19 JUL 1958,MEX,5,Hildesheim (GER),06 SEP 1986,1136,10000-metres-race-walk,race-walks,male,senior
+535,39:49.1h,,Perseus KARLSTRÖM,02 MAY 1990,SWE,2,"University Athletics Track, Parkville, Melbourne (AUS)",27 JAN 2020,1136,10000-metres-race-walk,race-walks,male,senior
+536,39:49.18,,Kai KOBAYASHI,28 FEB 1993,JPN,3,Kitakami (JPN),09 OCT 2016,1135,10000-metres-race-walk,race-walks,male,senior
+537,39:49.22,,Chuang PEI,05 DEC 1981,CHN,2f1,Chengdu (CHN),08 SEP 2000,1135,10000-metres-race-walk,race-walks,male,senior
+538,39:49.26,,Wei YU,11 SEP 1987,CHN,3,Asti (ITA),21 MAY 2016,1135,10000-metres-race-walk,race-walks,male,senior
+538,39:49.26,,Gianluca PICCHIOTTINO,22 AUG 1996,ITA,2,Orvieto (ITA),23 APR 2017,1135,10000-metres-race-walk,race-walks,male,senior
+540,39:49.38,,Luis Henry CAMPOS,11 OCT 1995,PER,2,"Estadio Atlético de la VIDENA, Lima (PER)",16 JUL 2025,1135,10000-metres-race-walk,race-walks,male,senior
+541,39:49.44,,Tianlei LI,23 SEP 1990,CHN,4,Tianjin (CHN),16 SEP 2012,1135,10000-metres-race-walk,race-walks,male,senior
+542,39:49.55,,Nazar KOVALENKO,09 FEB 1987,UKR,2,Sumy (UKR) (i),16 FEB 2012,1135,10000-metres-race-walk,race-walks,male,senior
+543,39:49.56,,Lyubomir IVANOV,09 MAR 1960,BUL,1,Sofia (BUL),03 SEP 1988,1135,10000-metres-race-walk,race-walks,male,senior
+544,39:49.64,,Pavol BLAŽEK,09 JUL 1958,TCH,3,Banská Bystrica (TCH),30 AUG 1985,1135,10000-metres-race-walk,race-walks,male,senior
+544,39:49.64,,Ivan BANZERUK,09 FEB 1990,UKR,1,"KMSHVSM Arena, Kyiv (UKR) (i)",03 FEB 2024,1135,10000-metres-race-walk,race-walks,male,senior
+544,39:49.64,,Emiliano BRIGANTE,27 MAY 2003,ITA,2,"Fana Stadion, Bergen (NOR)",20 JUL 2025,1135,10000-metres-race-walk,race-walks,male,senior
+547,39:49.73,,Valentin KONONEN,07 MAR 1969,FIN,1,Vantaa (FIN),05 SEP 1992,1135,10000-metres-race-walk,race-walks,male,senior
+548,39:50.03,,Bertrand MOULINET,06 JAN 1987,FRA,4,Paris (FRA),13 JUL 2013,1135,10000-metres-race-walk,race-walks,male,senior
+549,39:50.04,,Nils BREMBACH,23 FEB 1993,GER,3,Beeskow (GER),17 AUG 2019,1135,10000-metres-race-walk,race-walks,male,senior
+550,39:50.1h,,Kyle SWAN,28 MAR 1999,AUS,2,"AIS Athletics Track, Canberra (AUS)",15 JAN 2022,1135,10000-metres-race-walk,race-walks,male,senior
+551,39:50.17,,Giorgio RUBINO,15 APR 1986,ITA,1,Saluzzo (ITA),18 JUL 2012,1135,10000-metres-race-walk,race-walks,male,senior
+552,39:50.32,,Ivan KAKAYEV,13 AUG 1997,RUS,2,Cheboksary (RUS),25 JUN 2016,1135,10000-metres-race-walk,race-walks,male,senior
+553,39:50.34,,Álvaro MARTÍN,18 JUN 1994,ESP,1,Murcia (ESP),30 JAN 2021,1135,10000-metres-race-walk,race-walks,male,senior
+554,39:50.38,,Paul MCGRATH,07 MAR 2002,ESP,1,Santander (ESP),10 JUL 2022,1135,10000-metres-race-walk,race-walks,male,senior
+555,39:50.40,,Abdelwahib FERGUENE,18 NOV 1958,ALG,1,Algiers (ALG),02 JUL 1988,1135,10000-metres-race-walk,race-walks,male,senior
+555,39:50.40,,Vyacheslav CHEREPANOV,02 NOV 1964,URS,1,Moskva (URS),10 JUN 1991,1135,10000-metres-race-walk,race-walks,male,senior
+555,39:50.4h,,David RARUNGU,,KEN,2,Nyeri (KEN),21 MAR 2009,1135,10000-metres-race-walk,race-walks,male,senior
+558,39:50.44,,Rui WANG,06 JAN 1996,CHN,,Torino (ITA),26 MAY 2018,1135,10000-metres-race-walk,race-walks,male,senior
+559,39:50.45,,César HERRERA,28 JAN 1999,COL,2,"Estadio de Atletismo de la Unidad Deportiva Centenario, Armenia (COL)",02 AUG 2025,1135,10000-metres-race-walk,race-walks,male,senior
+560,39:50.5h,,Evan DUNFEE,28 SEP 1990,CAN,3,"University Athletics Track, Parkville, Melbourne (AUS)",27 JAN 2020,1135,10000-metres-race-walk,race-walks,male,senior
+561,39:50.52,,José Manuel PÉREZ,10 SEP 1999,ESP,5,"Estadi Natalia Rodríguez, Tarragona (ESP)",01 AUG 2025,1134,10000-metres-race-walk,race-walks,male,senior
+562,39:50.53,,Zhen WANG,24 AUG 1991,CHN,2,Saluzzo (ITA),18 JUL 2012,1134,10000-metres-race-walk,race-walks,male,senior
+563,39:50.73,,Jefferson PÉREZ,01 JUL 1974,ECU,1,Winnipeg (CAN),16 JUL 1993,1134,10000-metres-race-walk,race-walks,male,senior
+564,39:50.77,,Daniel MONFORT,25 JAN 2006,ESP,3f1,"Ratinan Stadion, Tampere (FIN)",10 AUG 2025,1134,10000-metres-race-walk,race-walks,male,senior
+565,39:50.85,,Alberto AMEZCUA,10 MAY 1992,ESP,2,Getafe (ESP),22 JUL 2018,1134,10000-metres-race-walk,race-walks,male,senior
+566,39:50.88,,Alberto AMEZCUA,10 MAY 1992,ESP,2,Barcelona (ESP),23 JUL 2017,1134,10000-metres-race-walk,race-walks,male,senior
+567,39:50.93,,Gianluca PICCHIOTTINO,22 AUG 1996,ITA,2,Roma (ITA),28 APR 2019,1134,10000-metres-race-walk,race-walks,male,senior
+568,39:51.10,,Miguel Ángel PRIETO,20 SEP 1964,ESP,1,Pontevedra (ESP),20 JUL 1986,1134,10000-metres-race-walk,race-walks,male,senior
+569,39:51.11,,Christopher LINKE,24 OCT 1988,GER,1,"Mittelbergstadion, Bühlertal (GER)",24 JUN 2023,1134,10000-metres-race-walk,race-walks,male,senior
+570,39:51.34,,Gérard LELIÈVRE,13 NOV 1949,FRA,1,Hannover (GER),15 JUN 1984,1134,10000-metres-race-walk,race-walks,male,senior
+570,39:51.34,,Yusuke SUZUKI,02 JAN 1988,JPN,1,Fukuoka (JPN),22 SEP 2012,1134,10000-metres-race-walk,race-walks,male,senior
+572,39:51.44,,Yusuke SUZUKI,02 JAN 1988,JPN,1,Abashiri (JPN),22 JUN 2011,1134,10000-metres-race-walk,race-walks,male,senior
+573,39:51.5h,,Moacir ZIMMERMANN,30 DEC 1983,BRA,1,Blumenau (BRA),17 JUN 2017,1134,10000-metres-race-walk,race-walks,male,senior
+574,39:51.54,,Sergey KOZHEVNIKOV,09 MAY 2001,RUS,1,Cheboksary (RUS),03 AUG 2019,1134,10000-metres-race-walk,race-walks,male,senior
+575,39:51.59,,Diego GARCÍA CARRERA,19 JAN 1996,ESP,2,"Hayward Field, Eugene, OR (USA)",25 JUL 2014,1134,10000-metres-race-walk,race-walks,male,senior
+576,39:51.6h,,Vasiliy IVANOV,26 DEC 1976,RUS,4,Saransk (RUS),19 JUN 2005,1134,10000-metres-race-walk,race-walks,male,senior
+577,39:51.63,,Sotaro OSAKA,31 JAN 2006,JPN,3,"Gion Stadium, Sagamihara (JPN)",10 MAY 2025,1134,10000-metres-race-walk,race-walks,male,senior
+578,39:51.64,,Miguel Ángel LÓPEZ,03 JUL 1988,ESP,1,Cartagena (ESP),06 MAY 2017,1134,10000-metres-race-walk,race-walks,male,senior
+579,39:51.92,,Davide FINOCCHIETTI,16 OCT 2001,ITA,5f1,"Campo Mauro Ferrari, Prato (ITA)",13 APR 2025,1133,10000-metres-race-walk,race-walks,male,senior
+580,39:52.0h,,Anatoliy SOLOMIN,02 JUL 1952,URS,4,Kislovodsk (URS),28 FEB 1983,1133,10000-metres-race-walk,race-walks,male,senior
+580,39:52.00,,Colin GRIFFIN,03 AUG 1982,IRL,2,Dublin (IRL),22 JUL 2007,1133,10000-metres-race-walk,race-walks,male,senior
+582,39:52.05,,Callum WILKINSON,14 MAR 1997,GBR,,"Santry, Dublin (IRL)",29 AUG 2020,1133,10000-metres-race-walk,race-walks,male,senior
+583,39:52.2h,,Artur SHUMAK,19 OCT 1963,BLR,4,Minsk (BLR) (i),02 FEB 1996,1133,10000-metres-race-walk,race-walks,male,senior
+583,39:52.20,,Álvaro MARTÍN,18 JUN 1994,ESP,2,Alcobendas (ESP),28 JUL 2013,1133,10000-metres-race-walk,race-walks,male,senior
+583,39:52.2h,,Massimo STANO,27 FEB 1992,ITA,,"Stadio N.Martellini Caracalla, Roma (ITA)",18 APR 2021,1133,10000-metres-race-walk,race-walks,male,senior
+586,39:52.25,,Jozef PRIBILINEC,06 JUL 1960,TCH,1,Bratislava (TCH),08 JUN 1988,1133,10000-metres-race-walk,race-walks,male,senior
+587,39:52.33,,Stefan JOHANSSON,11 APR 1967,SWE,1,Stockholm (SWE),28 AUG 1994,1133,10000-metres-race-walk,race-walks,male,senior
+588,39:52.36,,Cristhian JUÁREZ LÓPEZ,02 DEC 2002,MEX,1,"Unidad Deportiva Agustín Flores, Puerto Vallarta (MEX)",21 FEB 2025,1133,10000-metres-race-walk,race-walks,male,senior
+589,39:52.40,,Carlo MATTIOLI,23 OCT 1954,ITA,1,Modena (ITA),05 MAY 1985,1133,10000-metres-race-walk,race-walks,male,senior
+589,39:52.40,,Mukola RUSHCHAK,30 OCT 2003,UKR,2,"Miesto Stadionas, Alytus (LTU)",20 SEP 2024,1133,10000-metres-race-walk,race-walks,male,senior
+591,39:52.45,,Sho SAKAZAKI,22 FEB 1999,JPN,1,Saitama (JPN),25 DEC 2017,1133,10000-metres-race-walk,race-walks,male,senior
+592,39:52.47,,Riku KANEKO,15 MAR 2005,JPN,3,"Prefectural Stadium, Okayama (JPN)",07 JUN 2025,1133,10000-metres-race-walk,race-walks,male,senior
+593,39:52.54,,Yutaro MURAYAMA,29 SEP 1998,JPN,4,"Municipal Stadium, Kitami (JPN)",06 JUL 2024,1133,10000-metres-race-walk,race-walks,male,senior
+594,39:52.64,,Alessandro GANDELLINI,30 APR 1973,ITA,3,Roma (ITA),09 JUL 1998,1133,10000-metres-race-walk,race-walks,male,senior
+595,39:52.75,,Ihor LYASHCHENKO,24 AUG 1993,UKR,1,Yalta (UKR),17 MAY 2013,1133,10000-metres-race-walk,race-walks,male,senior
+596,39:52.86,,Ryutaro YAMAMOTO,17 SEP 1998,JPN,1f1,"Gion Stadium, Sagamihara (JPN)",22 NOV 2020,1133,10000-metres-race-walk,race-walks,male,senior
+597,39:52.88,,Maurizio DAMILANO,06 APR 1957,ITA,1,Helsinki (FIN),24 JUL 1985,1133,10000-metres-race-walk,race-walks,male,senior
+598,39:52.96,,Christopher LINKE,24 OCT 1988,GER,1,Kassel (GER),24 JUL 2011,1133,10000-metres-race-walk,race-walks,male,senior
+599,39:52.99,,Walter ARENA,30 MAY 1964,ITA,2,Roma (ITA),10 JUL 1985,1133,10000-metres-race-walk,race-walks,male,senior
+600,39:53.0h,,Grigoriy SERGEYEV,27 APR 1976,RUS,2,Novokuznetsk (RUS) (i),31 DEC 2000,1133,10000-metres-race-walk,race-walks,male,senior
+601,39:53.09,,Aleksi OJALA,09 DEC 1992,FIN,1,"Olympiastadion, Stockholm (SWE)",03 SEP 2023,1133,10000-metres-race-walk,race-walks,male,senior
+602,39:53.26,,Erick Bernabé BARRONDO,14 JUN 1991,GUA,1,"CVEATC, Chula Vista, CA (USA)",02 JUN 2024,1133,10000-metres-race-walk,race-walks,male,senior
+603,39:53.36,,Artem SELIN,04 JAN 2001,RUS,5,"Yelena Yelesina Stadium, Chelyabinsk (RUS)",03 AUG 2023,1132,10000-metres-race-walk,race-walks,male,senior
+604,39:53.42,,Maksim DENISOV,07 MAY 2005,RUS,2,"Yelena Yelesina Stadium, Chelyabinsk (RUS)",08 JUL 2023,1132,10000-metres-race-walk,race-walks,male,senior
+605,39:53.54,,Bernardo Uriel BARRONDO,05 JUN 1993,GUA,2,"CVEATC, Chula Vista, CA (USA)",02 JUN 2024,1132,10000-metres-race-walk,race-walks,male,senior
+606,39:53.61,,Hiroto JUSHO,11 JAN 2000,JPN,1,"Takebishi Stadium, Kyoto (JPN)",11 SEP 2022,1132,10000-metres-race-walk,race-walks,male,senior
+607,39:53.68,,Diego GARCÍA CARRERA,19 JAN 1996,ESP,2,Murcia (ESP),07 MAY 2022,1132,10000-metres-race-walk,race-walks,male,senior
+608,39:53.70,,Ivan TROTSKI,27 MAY 1976,BLR,2,Mogilyov (BLR) (i),21 FEB 2014,1132,10000-metres-race-walk,race-walks,male,senior
+609,39:53.82,,Perseus KARLSTRÖM,02 MAY 1990,SWE,1,"Olympiastadion, Helsinki (FIN)",31 AUG 2024,1132,10000-metres-race-walk,race-walks,male,senior
+610,39:53.85,,Lorenzo CIVALLERO,08 AUG 1975,ITA,4,Riga (LAT),28 MAY 2004,1132,10000-metres-race-walk,race-walks,male,senior
+611,39:53.89,,Dane BIRD-SMITH,15 JUL 1992,AUS,1,Brisbane (AUS),27 MAR 2015,1132,10000-metres-race-walk,race-walks,male,senior
+612,39:53.90,,Erling ANDERSEN,22 SEP 1960,NOR,1,Font-Romeu (FRA),17 JUL 1980,1132,10000-metres-race-walk,race-walks,male,senior
+612,39:53.9h,,Semyon LOVKIN,14 JUL 1977,RUS,2,Cheboksary (RUS),08 OCT 2000,1132,10000-metres-race-walk,race-walks,male,senior
+614,39:53.99,,Sergey KOREPANOV,09 MAY 1964,KAZ,1,Almaty (KAZ),23 MAY 1999,1132,10000-metres-race-walk,race-walks,male,senior
+615,39:54.00,,Ernesto CANTO,18 OCT 1959,MEX,1,Arboga (SWE),23 MAY 1982,1132,10000-metres-race-walk,race-walks,male,senior
+616,39:54.04,,Zdzisław SZLAPKIN,18 JAN 1961,POL,1,Bydgoszcz (POL),01 AUG 1987,1132,10000-metres-race-walk,race-walks,male,senior
+617,39:54.30,,Kevin CAMPION,23 MAY 1988,FRA,3,"Stade Helitas, Caen (FRA)",26 JUN 2022,1132,10000-metres-race-walk,race-walks,male,senior
+617,39:54.30,,Isaac BEACROFT,18 JUL 2007,AUS,1,"WA Athletics Stadium, Perth (AUS)",10 APR 2025,1132,10000-metres-race-walk,race-walks,male,senior
+619,39:54.33,,Hagen POHLE,05 MAR 1992,GER,1,Jüterbog (GER),22 JUN 2013,1132,10000-metres-race-walk,race-walks,male,senior
+620,39:54.34,,Nils Christopher GLOGER,06 AUG 1990,GER,2,Jüterbog (GER),22 JUN 2013,1132,10000-metres-race-walk,race-walks,male,senior
+621,39:54.42,,Sotaro OSAKA,31 JAN 2006,JPN,5,"Municipal Stadium, Kitami (JPN)",06 JUL 2024,1132,10000-metres-race-walk,race-walks,male,senior
+622,39:54.43,,Hartwig GAUDER,10 NOV 1954,GDR,1,Berlin (GER) (i),20 FEB 1988,1132,10000-metres-race-walk,race-walks,male,senior
+623,39:54.56,,Perseus KARLSTRÖM,02 MAY 1990,SWE,1,"Sola Arena, Karlstad (SWE)",31 JUL 2025,1132,10000-metres-race-walk,race-walks,male,senior
+624,39:54.90,,Francesco FORTUNATO,13 DEC 1994,ITA,1,"Stadio delle Palme, Palermo (ITA)",10 JUN 2023,1131,10000-metres-race-walk,race-walks,male,senior
+625,39:54.91,,Hayato KATSUKI,28 NOV 1990,JPN,6,"Nagaragawa Stadium, Gifu (JPN)",24 SEP 2022,1131,10000-metres-race-walk,race-walks,male,senior
+626,39:55.00,,Francesco FORTUNATO,13 DEC 1994,ITA,2,"Campo Comunale, Brescia (ITA)",17 SEP 2022,1131,10000-metres-race-walk,race-walks,male,senior
+627,39:55.07,,Daisuke IKESHIMA,30 JAN 1975,JPN,1,Tottori (JPN),10 JUN 2000,1131,10000-metres-race-walk,race-walks,male,senior
+628,39:55.09,,Jarkko KINNUNEN,19 JAN 1984,FIN,1,Kauhava (FIN),08 JUL 2012,1131,10000-metres-race-walk,race-walks,male,senior
+629,39:55.1h,,Jan STAAF,11 FEB 1962,SWE,1,Stockholm (SWE),16 MAY 1987,1131,10000-metres-race-walk,race-walks,male,senior
+630,39:55.17,,Kyle SWAN,28 MAR 1999,AUS,1,"SOPAC, Sydney (AUS)",30 MAR 2022,1131,10000-metres-race-walk,race-walks,male,senior
+631,39:55.18,,Aleksandr GORODSKOV,29 OCT 2002,RUS,8,"Central Stadium, Kazan (RUS)",10 AUG 2025,1131,10000-metres-race-walk,race-walks,male,senior
+632,39:55.2h,,Dmitriy YESIPCHUK,17 NOV 1974,RUS,3,Magnitogorsk (RUS),23 SEP 2000,1131,10000-metres-race-walk,race-walks,male,senior
+632,39:55.2h,,Jarkko KINNUNEN,19 JAN 1984,FIN,1,Helsinki (FIN),09 SEP 2011,1131,10000-metres-race-walk,race-walks,male,senior
+632,39:55.2h,,Yohann DINIZ,01 JAN 1978,FRA,,Bogny-sur-Meuse (FRA),25 MAY 2014,1131,10000-metres-race-walk,race-walks,male,senior
+635,39:55.52,,Ilya MARKOV,19 JUN 1972,URS,1,"Deveti Septemvri Stadium, Plovdiv (BUL)",10 AUG 1990,1131,10000-metres-race-walk,race-walks,male,senior
+635,39:55.52,,Evan DUNFEE,28 SEP 1990,CAN,1,Coquitlam (CAN),15 JUL 2012,1131,10000-metres-race-walk,race-walks,male,senior
+637,39:55.54,,Nick A'HERN,06 JAN 1969,AUS,1,Sydney (AUS),12 JAN 1992,1131,10000-metres-race-walk,race-walks,male,senior
+638,39:55.56,,Koichiro MORIOKA,02 APR 1985,JPN,1,Chiba (JPN),03 OCT 2010,1131,10000-metres-race-walk,race-walks,male,senior
+639,39:55.58,,Andrey STEPANCHUK,12 JUN 1979,BLR,3,Mogilyov (BLR) (i),22 FEB 2008,1131,10000-metres-race-walk,race-walks,male,senior
+640,39:55.69,,Juan Manuel MOLINA,15 MAR 1979,ESP,3,Santa Cruz de Tenerife (ESP),27 JUL 2008,1131,10000-metres-race-walk,race-walks,male,senior
+640,39:55.69,,Callum WILKINSON,14 MAR 1997,GBR,,"Morton Stadium, Santry, Dublin (IRL)",26 JUN 2022,1131,10000-metres-race-walk,race-walks,male,senior
+642,39:55.80,,Toshikazu YAMANISHI,15 FEB 1996,JPN,4,Kitakami (JPN),09 OCT 2016,1131,10000-metres-race-walk,race-walks,male,senior
+643,39:55.86,,Miguel Ángel LÓPEZ,03 JUL 1988,ESP,2,"Polideportivo Juan de la Cierva, Getafe (ESP)",27 JUN 2021,1131,10000-metres-race-walk,race-walks,male,senior
+644,39:56.0h,,Viktor MOSTOVIK,07 JAN 1963,URS,3,Alushta (URS),23 FEB 1985,1131,10000-metres-race-walk,race-walks,male,senior
+644,39:56.0h,,Yevgeniy ZAIKIN,19 JUN 1957,RUS,3,Moskva (RUS) (i),26 FEB 1992,1131,10000-metres-race-walk,race-walks,male,senior
+644,39:56.00,,Tomasz LIPIEC,10 MAY 1971,POL,1,Spala (POL),07 MAY 2000,1131,10000-metres-race-walk,race-walks,male,senior
+644,39:56.0h,,Nazar KOVALENKO,09 FEB 1987,UKR,1,Mukachevo (UKR),31 OCT 2009,1131,10000-metres-race-walk,race-walks,male,senior
+648,39:56.01,,Eider ARÉVALO,09 MAR 1993,COL,1,Medellín (COL),24 SEP 2011,1131,10000-metres-race-walk,race-walks,male,senior
+649,39:56.02,,Máté HELEBRANDT,12 JAN 1989,HUN,1,Budapest (HUN),19 JUN 2016,1131,10000-metres-race-walk,race-walks,male,senior
+650,39:56.23,,Ralf KOWALSKY,22 MAR 1962,GDR,1,"Atletiekbaan Overvecht, Utrecht (NED)",20 AUG 1981,1130,10000-metres-race-walk,race-walks,male,senior
+651,39:56.34,,Koichiro MORIOKA,02 APR 1985,JPN,1,Fugokawa (JPN),10 JUN 2009,1130,10000-metres-race-walk,race-walks,male,senior
+652,39:56.38,,Maurizio DAMILANO,06 APR 1957,ITA,1,Stockholm (SWE),28 JUL 1982,1130,10000-metres-race-walk,race-walks,male,senior
+653,39:56.41,,Matheus CORREA,22 AUG 1999,BRA,1,Timbó (BRA),23 OCT 2021,1130,10000-metres-race-walk,race-walks,male,senior
+654,39:56.49,,Alberto CRUZ,06 JUN 1972,MEX,2,"Deveti Septemvri Stadium, Plovdiv (BUL)",10 AUG 1990,1130,10000-metres-race-walk,race-walks,male,senior
+654,39:56.49,,Yuta KOGA,15 JUL 1999,JPN,1,"Nagaragawa Stadium, Gifu (JPN)",13 SEP 2019,1130,10000-metres-race-walk,race-walks,male,senior
+654,39:56.49,,Raivo SAULGRIEZIS,04 JUL 1994,LAT,3,"Miesto Stadionas, Alytus (LTU)",20 SEP 2024,1130,10000-metres-race-walk,race-walks,male,senior
+657,39:56.5h,,Heikki KUKKONEN,18 MAR 1987,FIN,2,Helsinki (FIN),09 SEP 2011,1130,10000-metres-race-walk,race-walks,male,senior
+658,39:56.54,,Evan DUNFEE,28 SEP 1990,CAN,2,Canberra (AUS),28 JAN 2019,1130,10000-metres-race-walk,race-walks,male,senior
+659,39:56.57,,Satoshi MARUO,28 NOV 1991,JPN,4,"Municipal Stadium, Sasebo (JPN)",08 DEC 2019,1130,10000-metres-race-walk,race-walks,male,senior
+660,39:56.65,,Yutaro MURAYAMA,29 SEP 1998,JPN,5,"Municipal Stadium, Sasebo (JPN)",08 DEC 2019,1130,10000-metres-race-walk,race-walks,male,senior
+661,39:56.75,,Ralf WEISE,15 SEP 1969,GDR,2,Rostock (GER),24 JUN 1990,1130,10000-metres-race-walk,race-walks,male,senior
+662,39:56.78,,Yuga YAMASHITA,06 FEB 1996,JPN,2,Tokyo (JPN),04 APR 2015,1130,10000-metres-race-walk,race-walks,male,senior
+663,39:57.00,,Biliulfo ANDABLO,1965,MEX,1,"Los Angeles, CA (USA)",03 NOV 1985,1130,10000-metres-race-walk,race-walks,male,senior
+664,39:57.06,,Eiichi YOSHIZAWA,05 SEP 1980,JPN,1,Tokyo (JPN),12 MAY 2002,1130,10000-metres-race-walk,race-walks,male,senior
+665,39:57.2h,,Nariman AITMUKAMEDOV,1951,URS,4,Moskva (URS) (i),17 FEB 1980,1130,10000-metres-race-walk,race-walks,male,senior
+666,39:57.3h,,Pyotr TROFIMOV,18 DEC 1983,RUS,5,Saransk (RUS),19 JUN 2005,1130,10000-metres-race-walk,race-walks,male,senior
+667,39:57.4h,,Matej TÓTH,10 FEB 1983,SVK,1,Tesserete (SUI),02 JUL 2011,1130,10000-metres-race-walk,race-walks,male,senior
+668,39:57.41,,Kota YAMADA,27 APR 1994,JPN,1,Koshigaya (JPN),19 NOV 2016,1130,10000-metres-race-walk,race-walks,male,senior
+669,39:57.59,,Caio BONFIM,19 MAR 1991,BRA,2,La Nucia (ESP),21 MAY 2022,1129,10000-metres-race-walk,race-walks,male,senior
+670,39:57.62,,Hayato YANAGIHARA,28 MAR 2000,JPN,12,"Ishin Me-Life Stadium, Yamaguchi (JPN)",22 SEP 2024,1129,10000-metres-race-walk,race-walks,male,senior
+671,39:57.75,,Mohamed AMEUR,01 NOV 1984,ALG,1,Biskra (ALG),17 MAR 2017,1129,10000-metres-race-walk,race-walks,male,senior
+672,39:57.82,,Aigars FADEJEVS,27 DEC 1975,LAT,5,Riga (LAT),28 MAY 2004,1129,10000-metres-race-walk,race-walks,male,senior
+673,39:58.00,,Genndiy TERECHOV,09 AUG 1955,URS,1,Leningrad (URS),17 SEP 1979,1129,10000-metres-race-walk,race-walks,male,senior
+673,39:58.00,,Martín BERMÚDEZ,19 JUL 1958,MEX,2,"Los Angeles, CA (USA)",03 NOV 1985,1129,10000-metres-race-walk,race-walks,male,senior
+673,39:58.0h,,Perseus KARLSTRÖM,02 MAY 1990,SWE,1,"Värendsvallen, Växjö (SWE)",26 AUG 2022,1129,10000-metres-race-walk,race-walks,male,senior
+676,39:58.1h,,Rhydian COWLEY,04 JAN 1991,AUS,1,"George Knott Track, Collingwood, Melbourne (AUS)",10 JAN 2021,1129,10000-metres-race-walk,race-walks,male,senior
+677,39:58.13,,Katsuji SUZUKI,31 JUL 1998,JPN,1,Hiratsuka (JPN),07 JUN 2019,1129,10000-metres-race-walk,race-walks,male,senior
+678,39:58.15,,Isamu FUJISAWA,12 OCT 1987,JPN,2,"Prefectural Kasamatsu Stadium, Hitachinaka (JPN)",08 OCT 2019,1129,10000-metres-race-walk,race-walks,male,senior
+679,39:58.21,,Takumi SUZUKI,14 JAN 1999,JPN,6,"Municipal Stadium, Sasebo (JPN)",08 DEC 2019,1129,10000-metres-race-walk,race-walks,male,senior
+680,39:58.25,,Aigars FADEJEVS,27 DEC 1975,LAT,1,Tivoli (ITA),06 SEP 2002,1129,10000-metres-race-walk,race-walks,male,senior
+681,39:58.3h,,Artemiy VERSHININ,03 OCT 2003,RUS,6,"Football and athletics Arena, Saransk (RUS) (i)",24 SEP 2023,1129,10000-metres-race-walk,race-walks,male,senior
+682,39:58.36,,Mateo ROMERO,07 FEB 2003,COL,3,"Estadio de Atletismo de la Unidad Deportiva Centenario, Armenia (COL)",02 AUG 2025,1129,10000-metres-race-walk,race-walks,male,senior
+683,39:58.5h,,Fanis SHAYKHUTDINOV,27 MAY 1969,RUS,3,Moskva (RUS),21 JAN 1997,1129,10000-metres-race-walk,race-walks,male,senior
+684,39:58.62,,Anatoly HOMELEU,29 MAY 1996,BLR,1,"Olimpiyets, Mogilyov (BLR) (i)",17 FEB 2024,1129,10000-metres-race-walk,race-walks,male,senior
+685,39:58.78,,Gianluca PICCHIOTTINO,22 AUG 1996,ITA,1,"Campo Mauro Ferrari, Prato (ITA)",10 APR 2022,1129,10000-metres-race-walk,race-walks,male,senior
+686,39:58.80,,Liodor PESCARU,1953,ROU,1,Pitesti (ROU),20 APR 1980,1129,10000-metres-race-walk,race-walks,male,senior
+686,39:58.80,,Vladimir DRUCHIK,25 JUN 1965,URS,1,Alushta (URS),06 FEB 1991,1129,10000-metres-race-walk,race-walks,male,senior
+688,39:58.98,,Hiroto JUSHO,11 JAN 2000,JPN,2f1,"Gion Stadium, Sagamihara (JPN)",22 NOV 2020,1128,10000-metres-race-walk,race-walks,male,senior
+689,39:59.29,,Salvatore CACIA,22 JUL 1967,ITA,1,Catania (ITA),03 MAY 1992,1128,10000-metres-race-walk,race-walks,male,senior
+690,39:59.41,,Takeya HIRAGA,20 DEC 2004,JPN,3,"Yanmar Stadium Nagai, Osaka (JPN)",06 MAY 2025,1128,10000-metres-race-walk,race-walks,male,senior
+691,39:59.43,,Cristhian JUÁREZ LÓPEZ,02 DEC 2002,MEX,1,"Pista de Atletismo del Centro Deportivo Benito Juárez, Mazatlán (MEX)",23 MAR 2024,1128,10000-metres-race-walk,race-walks,male,senior
+692,39:59.51,,Ryutaro YAMAMOTO,17 SEP 1998,JPN,2,"Nagaragawa Stadium, Gifu (JPN)",13 SEP 2019,1128,10000-metres-race-walk,race-walks,male,senior
+693,39:59.58,,Sergey TYULENEYEV,14 MAR 1971,URS,1,Kharkov (URS),02 JUN 1990,1128,10000-metres-race-walk,race-walks,male,senior
+694,39:59.78,,Anatoliy SOLOMIN,02 JUL 1952,URS,1,Roma (ITA),01 JUN 1985,1128,10000-metres-race-walk,race-walks,male,senior
+695,39:59.80,,Daniel BAUTISTA,04 AUG 1952,MEX,1,Monterrey (MEX),05 APR 1979,1128,10000-metres-race-walk,race-walks,male,senior
+696,39:59.82,,Akihiro SUGIMOTO,20 OCT 1981,JPN,1,Yokohama (JPN),06 JUL 2003,1128,10000-metres-race-walk,race-walks,male,senior
+697,39:59.87,,Ricardo ORTIZ,07 FEB 1995,MEX,1,Xalapa (MEX),06 MAY 2017,1128,10000-metres-race-walk,race-walks,male,senior
+698,40:00.0h,,Sándor URBANIK,15 DEC 1964,HUN,2,Helsinki (FIN),24 JUL 1985,1128,10000-metres-race-walk,race-walks,male,senior

@@ -15,189 +15,199 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 13,1:31:18.79,,Xiaoling SONG,1987-12-21,CHN,2,Wuhan (CHN),2007-11-01,1114.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5478.79,CHN,19.0,2007
 14,1:31:23.7h,,Lauren HARRIS,1999-07-23,USA,1,"Hayward Field, Eugene, OR (USA)",2025-08-02,1113.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5483.7,USA,26.0,2025
 15,1:31:25.49,,Mary Luz ANDIA,2000-11-09,PER,1,"Estadio Atlético de la VIDENA, Lima (PER)",2023-06-16,1112.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5485.49,PER,22.0,2023
-16,1:31:46.9h,,Lorena ARENAS,1993-09-17,COL,1,Santiago de Chile (CHI),2014-03-13,1106.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5506.9,CHI,20.0,2014
-17,1:31:47.95,,Yanmin BAI,1987-06-29,CHN,3,Wuhan (CHN),2007-11-01,1106.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5507.95,CHN,20.0,2007
-18,1:31:50.39,,Lauren HARRIS,1999-07-23,USA,1,"CVEATC, Chula Vista, CA (USA)",2025-06-22,1105.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5510.39,USA,25.0,2025
-19,1:31:52.30,,Shanshan WANG,1987-06-16,CHN,4,Wuhan (CHN),2007-11-01,1105.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5512.3,CHN,20.0,2007
-20,1:31:53.72,,Mirna ORTÍZ,1987-02-28,GUA,1,Ciudad de Guatemala (GUA),2014-08-08,1104.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5513.72,GUA,27.0,2014
-21,1:32:01.67,,Glenda MOREJÓN,2000-05-30,ECU,1,Guayaquil (ECU),2021-10-17,1102.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5521.67,ECU,21.0,2021
-22,1:32:06.0h,,Erica SENA,1985-05-03,BRA,2,"Centro de Treinamento Paralímpico Brasileiro, São Paulo (BRA)",2024-06-27,1101.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5526.0,BRA,39.0,2024
-23,1:32:09.4h,,Ingrid HERNANDEZ,1988-11-29,COL,1,Buenos Aires (ARG),2011-06-05,1100.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5529.4,ARG,22.0,2011
-24,1:32:12.42,,Leyde GUERRA,1998-09-27,PER,1,Cuenca (ECU),2018-09-29,1099.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5532.42,ECU,20.0,2018
-25,1:32:17.6h,,Milángela Francesca ROSALES,1987-02-21,VEN,2,Buenos Aires (ARG),2011-06-05,1097.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5537.6,ARG,24.0,2011
+16,1:31:40.1h,,Karla Ximena SERRANO,2004-04-14,MEX,1,"Parque Olímpico Pista De Atletismo, Luque, Asunción (PAR)",2025-08-18,1108.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5500.1,PAR,21.0,2025
+17,1:31:46.9h,,Lorena ARENAS,1993-09-17,COL,1,Santiago de Chile (CHI),2014-03-13,1106.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5506.9,CHI,20.0,2014
+18,1:31:47.95,,Yanmin BAI,1987-06-29,CHN,3,Wuhan (CHN),2007-11-01,1106.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5507.95,CHN,20.0,2007
+19,1:31:50.39,,Lauren HARRIS,1999-07-23,USA,1,"CVEATC, Chula Vista, CA (USA)",2025-06-22,1105.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5510.39,USA,25.0,2025
+20,1:31:52.30,,Shanshan WANG,1987-06-16,CHN,4,Wuhan (CHN),2007-11-01,1105.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5512.3,CHN,20.0,2007
+21,1:31:53.72,,Mirna ORTÍZ,1987-02-28,GUA,1,Ciudad de Guatemala (GUA),2014-08-08,1104.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5513.72,GUA,27.0,2014
+22,1:32:01.67,,Glenda MOREJÓN,2000-05-30,ECU,1,Guayaquil (ECU),2021-10-17,1102.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5521.67,ECU,21.0,2021
+23,1:32:06.0h,,Erica SENA,1985-05-03,BRA,2,"Centro de Treinamento Paralímpico Brasileiro, São Paulo (BRA)",2024-06-27,1101.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5526.0,BRA,39.0,2024
+24,1:32:09.4h,,Ingrid HERNANDEZ,1988-11-29,COL,1,Buenos Aires (ARG),2011-06-05,1100.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5529.4,ARG,22.0,2011
+25,1:32:12.42,,Leyde GUERRA,1998-09-27,PER,1,Cuenca (ECU),2018-09-29,1099.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5532.42,ECU,20.0,2018
+26,1:32:17.6h,,Milángela Francesca ROSALES,1987-02-21,VEN,2,Buenos Aires (ARG),2011-06-05,1097.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5537.6,ARG,24.0,2011
+27,1:32:19.71,,Jingjing NIE,1988-03-01,CHN,5,Wuhan (CHN),2007-11-01,1097.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5539.71,CHN,19.0,2007
 2,1:32:19.71,,Jingjing NIE,1988-03-01,CHN,5,Wuhan (CHN),2007-11-01,1097.0,20000-metres-race-walk,race-walks,female,u20,20000-metres-race-walk,track,5539.71,CHN,19.0,2007
-26,1:32:19.71,,Jingjing NIE,1988-03-01,CHN,5,Wuhan (CHN),2007-11-01,1097.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5539.71,CHN,19.0,2007
-27,1:32:22.4h,,Eva PÉREZ,1975-07-18,ESP,3,"Queensland Sport and Athletics Centre, Nathan, Brisbane (AUS)",2001-09-06,1096.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5542.4,AUS,26.0,2001
-28,1:32:26.0h,,Paola PÉREZ,1989-12-21,ECU,1,Asunción (PAR),2017-06-24,1095.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5546.0,PAR,27.0,2017
-29,1:32:30.36,,Limin SUN,1987-02-06,CHN,6,Wuhan (CHN),2007-11-01,1094.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5550.36,CHN,20.0,2007
-30,1:32:31.7h,,Lorena ARENAS,1993-09-17,COL,1,Medellín (COL),2013-10-06,1093.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5551.7,COL,20.0,2013
-31,1:32:35.2h,,Angela CASTRO,1993-02-21,BOL,2,Asunción (PAR),2017-06-24,1092.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5555.2,PAR,24.0,2017
-32,1:32:36.0h,,Angela CASTRO,1993-02-21,BOL,2,Lima (PER),2019-05-25,1092.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5556.0,PER,26.0,2019
-33,1:32:44.30,,Hana BURZALOVÁ,2000-11-03,SVK,1,"Štadión SNP, Banská Bystrica (SVK)",2024-06-30,1090.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5564.3,SVK,23.0,2024
-34,1:32:45.7h,,Olga POLYAKOVA,1980-09-23,RUS,1,Moskva (RUS),2001-07-27,1089.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5565.7,RUS,20.0,2001
-35,1:32:48.7h,,Anabelly ORJUELA,1988-07-24,COL,3,Buenos Aires (ARG),2011-06-05,1089.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5568.7,ARG,22.0,2011
-36,1:32:50.9h,,Gabriela DE SOUSA,2002-06-12,BRA,2,"Centro de Treinamento Paralímpico Brasileiro, São Paulo (BRA)",2025-07-31,1088.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5570.9,BRA,23.0,2025
-37,1:33:06.1h,,Paula Milena TORRES,2000-10-17,ECU,2,"COTP Stadium, São Paulo (BRA)",2023-07-29,1084.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5586.1,BRA,22.0,2023
-38,1:33:18.0h,,Yadira GUAMÁN,1986-06-09,ECU,4,Buenos Aires (ARG),2011-06-05,1080.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5598.0,ARG,25.0,2011
-39,1:33:20.04,,Maritza Rafaela PONCIO TZUL,1994-12-03,GUA,2,Ciudad de Guatemala (GUA),2014-08-08,1080.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5600.04,GUA,19.0,2014
-40,1:33:20.2h,,Larisa YEMELYANOVA,1980-01-06,RUS,1,Izhevsk (RUS),2005-09-17,1080.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5600.2,RUS,25.0,2005
-41,1:33:25.5h,,Valentina TSYBULSKAYA,1968-02-19,BLR,4,"Queensland Sport and Athletics Centre, Nathan, Brisbane (AUS)",2001-09-06,1078.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5605.5,AUS,33.0,2001
-42,1:33:27.22,,Yelena GINKO,1976-07-30,BLR,1,Brest (BLR),2006-07-08,1078.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5607.22,BLR,29.0,2006
-43,1:33:28.15,,Teresa VAILL,1962-11-20,USA,1,"Carson, CA (USA)",2005-06-25,1077.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5608.15,USA,42.0,2005
-44,1:33:29.9h,,Yekaterina YEZHOVA,1982-07-03,RUS,2,Izhevsk (RUS),2005-09-17,1077.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5609.9,RUS,23.0,2005
-45,1:33:31.8h,,Gabriela DE SOUSA,2002-06-12,BRA,3,"COTP Stadium, São Paulo (BRA)",2023-07-29,1076.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5611.8,BRA,21.0,2023
-46,1:33:35.3h,,Noelia VARGAS,2000-04-17,CRC,1,"Estadio Jorge Magico Gonzalez, San Salvador (ESA)",2024-06-28,1075.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5615.3,ESA,24.0,2024
-47,1:33:37.13,,Viviane LYRA,1993-07-29,BRA,1,Rio de Janeiro (BRA),2022-06-22,1075.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5617.13,BRA,28.0,2022
-48,1:33:38.3h,,Marina SMYSLOVA,1966-06-05,RUS,3,Izhevsk (RUS),2005-09-17,1074.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5618.3,RUS,39.0,2005
-49,1:33:40.0h,,Leyde GUERRA,1998-09-27,PER,3,Lima (PER),2019-05-25,1074.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5620.0,PER,20.0,2019
-50,1:33:40.2h,,Kerry SAXBY-JUNNA,1961-06-02,AUS,5,"Queensland Sport and Athletics Centre, Nathan, Brisbane (AUS)",2001-09-06,1074.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5620.2,AUS,40.0,2001
-51,1:33:42.1h,,Cheryl WEBB,1976-10-03,AUS,1,Melbourne (AUS),2002-08-04,1073.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5622.1,AUS,25.0,2002
-52,1:33:44.3h,,Olga POVALYAYEVA,1984-10-19,RUS,1,Khanty-Mansiysk (RUS),2006-07-28,1073.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5624.3,RUS,21.0,2006
-53,1:33:51.2h,,Lorena ARENAS,1993-09-17,COL,1,Medellín (COL),2017-06-11,1071.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5631.2,COL,23.0,2017
-54,1:33:52.90,,Meryem BEKMEZ,2000-07-31,TUR,1,"Nevin Yanıt Atletizm Pisti, Mersin (TUR)",2022-04-26,1070.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5632.9,TUR,21.0,2022
-55,1:33:54.16,,Glenda MOREJÓN,2000-05-30,ECU,1,"Pascual Guerrero Stadium, Cali (COL)",2021-12-03,1070.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5634.16,COL,21.0,2021
-56,1:33:58.1h,,Sofia AVOILA,1976-07-30,POR,2,Lisboa (POR),2001-07-21,1069.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5638.1,POR,24.0,2001
-57,1:34:04.4h,,Sandra Viviana GALVIS,1986-06-28,COL,2,Santiago de Chile (CHI),2014-03-13,1067.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5644.4,CHI,27.0,2014
-58,1:34:11.95,,Snezhana YURCHENKO,1984-08-01,BLR,2,Brest (BLR),2006-07-08,1065.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5651.95,BLR,21.0,2006
-59,1:34:12.31,,Xue CHAI,1988-01-21,CHN,7,Wuhan (CHN),2007-11-01,1065.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5652.31,CHN,19.0,2007
-3,1:34:12.31,,Xue CHAI,1988-01-21,CHN,7,Wuhan (CHN),2007-11-01,1065.0,20000-metres-race-walk,race-walks,female,u20,20000-metres-race-walk,track,5652.31,CHN,19.0,2007
-60,1:34:17.0h,,Olga SURANOVA,1986-12-07,RUS,2,Khanty-Mansiysk (RUS),2006-07-28,1063.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5657.0,RUS,19.0,2006
-61,1:34:21.56,,Xue Hui WANG,1990-02-14,CHN,8,Wuhan (CHN),2007-11-01,1062.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5661.56,CHN,17.0,2007
-4,1:34:21.56,,Xue Hui WANG,1990-02-14,CHN,8,Wuhan (CHN),2007-11-01,1062.0,20000-metres-race-walk,race-walks,female,u20,20000-metres-race-walk,track,5661.56,CHN,17.0,2007
-62,1:34:30.0h,,Evelyn INGA,1998-04-16,PER,4,Lima (PER),2019-05-25,1060.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5670.0,PER,21.0,2019
-63,1:34:31.06,,Michelle ROHL,1965-11-12,USA,1,"Palo Alto, CA (USA)",2003-06-21,1060.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5671.06,USA,37.0,2003
-64,1:34:34.3h,,Gabriela DE SOUSA,2002-06-12,BRA,3,"Centro de Treinamento Paralímpico Brasileiro, São Paulo (BRA)",2024-06-27,1059.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5674.3,BRA,22.0,2024
-65,1:34:38.15,,Tatyana METLEVSKAYA,1984-09-14,BLR,3,Brest (BLR),2006-07-08,1058.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5678.15,BLR,21.0,2006
-66,1:34:39.71,,Jie HAN,1987-12-31,CHN,9,Wuhan (CHN),2007-11-01,1057.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5679.71,CHN,19.0,2007
-67,1:34:46.52,,Joanne DOW,1964-03-19,USA,1,"Palo Alto, CA (USA)",2002-06-21,1055.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5686.52,USA,38.0,2002
-68,1:34:46.6h,,Vera SANTOS,1981-12-03,POR,3,Lisboa (POR),2002-07-13,1055.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5686.6,POR,20.0,2002
-69,1:34:47.9h,,Gabriela DE SOUSA,2002-06-12,BRA,1,"CNDA, Bragança Paulista (BRA)",2024-08-18,1055.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5687.9,BRA,22.0,2024
-70,1:34:50.9h,,Irina PUDOVKINA,1980-02-11,RUS,4,Izhevsk (RUS),2005-09-17,1054.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5690.9,RUS,25.0,2005
-71,1:34:52.0h,,Paula Milena TORRES,2000-10-17,ECU,1,Cascavel (BRA),2022-09-30,1054.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5692.0,BRA,21.0,2022
-72,1:34:53.33,,Maria MICHTA-COFFEY,1986-06-23,USA,1,"Hayward Field, Eugene, OR (USA)",2012-07-01,1053.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5693.33,USA,26.0,2012
-73,1:34:56.7h,,Rosario SANCHEZ,1973-10-26,MEX,1,Xalapa (MEX),2000-07-16,1052.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5696.7,MEX,26.0,2000
-74,1:34:56.92,,Miranda MELVILLE,1989-03-20,USA,2,"Hayward Field, Eugene, OR (USA)",2012-07-01,1052.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5696.92,USA,23.0,2012
-77,1:34:57.1h,,Christine GUINAUDEAU,1978-06-20,FRA,1,La Londe (FRA),2009-04-26,1052.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5697.1,FRA,30.0,2009
-75,1:34:57.79,,Joanne DOW,1964-03-19,USA,2,"Palo Alto, CA (USA)",2003-06-21,1052.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5697.79,USA,39.0,2003
-76,1:34:57.9h,,Johana ORDÓŇEZ,1987-12-12,ECU,1,Lima (PER),2009-06-20,1052.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5697.9,PER,21.0,2009
-78,1:35:02.56,,Gabriela DE SOUSA,2002-06-12,BRA,1,Bragança Paulista (BRA),2021-04-25,1051.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5702.56,BRA,18.0,2021
-5,1:35:02.56,,Gabriela DE SOUSA,2002-06-12,BRA,1,Bragança Paulista (BRA),2021-04-25,1051.0,20000-metres-race-walk,race-walks,female,u20,20000-metres-race-walk,track,5702.56,BRA,18.0,2021
-79,1:35:09.8h,,Elmira ALEMBEKOVA,1990-06-30,RUS,1,Penza (RUS),2010-05-16,1049.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5709.8,RUS,19.0,2010
-80,1:35:17.3h,,Natalya SHIVIREVA,1978-08-31,RUS,5,Izhevsk (RUS),2005-09-17,1047.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5717.3,RUS,27.0,2005
-81,1:35:19.66,,Karla JARAMILLO,1997-01-21,ECU,1,"La Vicentina, Quito (ECU)",2024-04-06,1046.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5719.66,ECU,27.0,2024
-82,1:35:21.1h,,Angela CASTRO,1993-02-21,BOL,4,"COTP Stadium, São Paulo (BRA)",2023-07-29,1045.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5721.1,BRA,30.0,2023
-83,1:35:21.59,,Maria MICHTA-COFFEY,1986-06-23,USA,1,"Drake Stadium, Des Moines, IA (USA)",2018-06-22,1045.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5721.59,USA,32.0,2018
-84,1:35:22.32,,Violaine AVEROUS,1985-03-15,FRA,1,Toulouse (FRA),2015-11-15,1045.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5722.32,FRA,30.0,2015
-85,1:35:23.7h,,Kristina SALTANOVIČ,1975-02-20,LTU,1,Kaunas (LTU),2000-08-03,1045.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5723.7,LTU,25.0,2000
-86,1:35:26.52,,Mary Luz ANDIA,2000-11-09,PER,2,"Pascual Guerrero Stadium, Cali (COL)",2021-12-03,1044.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5726.52,COL,21.0,2021
-87,1:35:27.73,,Mary Luz ANDIA,2000-11-09,PER,2,Guayaquil (ECU),2021-10-17,1044.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5727.73,ECU,20.0,2021
-88,1:35:29.6h,,Mayra Karen QUISPE,2000-07-28,BOL,5,"COTP Stadium, São Paulo (BRA)",2023-07-29,1043.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5729.6,BRA,23.0,2023
-88,1:35:29.6h,,Erica SENA,1985-05-03,BRA,1,São Paulo (BRA),2011-08-05,1043.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5729.6,BRA,26.0,2011
-90,1:35:29.76,,Viviane LYRA,1993-07-29,BRA,2,Bragança Paulista (BRA),2021-04-25,1043.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5729.76,BRA,27.0,2021
-91,1:35:33.0h,,Anabelly ORJUELA,1988-07-24,COL,5,Lima (PER),2019-05-25,1042.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5733.0,PER,30.0,2019
-92,1:35:33.4h,,Alessandra PICAGEVICZ,1984-02-20,BRA,1,Itajaí (BRA),2004-05-15,1042.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5733.4,BRA,20.0,2004
-93,1:35:35.70,,Yueling CHEN,1968-04-01,USA,1,"San Diego, CA (USA)",2000-01-23,1041.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5735.7,USA,31.0,2000
-94,1:35:36.41,,Lauren HARRIS,1999-07-23,USA,1,"CVEATC, Chula Vista, CA (USA)",2025-03-16,1041.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5736.41,USA,25.0,2025
-95,1:35:37.79,,Viviane LYRA,1993-07-29,BRA,1,"COTP Stadium, São Paulo (BRA)",2021-06-27,1041.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5737.79,BRA,27.0,2021
-96,1:35:40.05,,Erin GRAY,1987-05-17,USA,3,"Hayward Field, Eugene, OR (USA)",2012-07-01,1040.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5740.05,USA,25.0,2012
-97,1:35:41.84,,Leilei LI,1989-08-18,CHN,10,Wuhan (CHN),2007-11-01,1040.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5741.84,CHN,18.0,2007
-6,1:35:41.84,,Leilei LI,1989-08-18,CHN,10,Wuhan (CHN),2007-11-01,1040.0,20000-metres-race-walk,race-walks,female,u20,20000-metres-race-walk,track,5741.84,CHN,18.0,2007
-98,1:35:43.03,,Karla JARAMILLO,1997-01-21,ECU,2,Cuenca (ECU),2018-09-29,1039.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5743.03,ECU,21.0,2018
-99,1:35:46.4h,,Galina KOLPAKOVA,1983-01-14,RUS,6,Izhevsk (RUS),2005-09-17,1038.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5746.4,RUS,22.0,2005
-100,1:35:49.6h,,Cisiane Dutra LOPEZ,1983-02-17,BRA,5,Buenos Aires (ARG),2011-06-05,1038.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5749.6,ARG,28.0,2011
-101,1:35:53.2h,,Sandra Patricia ZAPATA,1977-02-03,COL,2,Lima (PER),2009-06-20,1037.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5753.2,PER,32.0,2009
-102,1:35:54.97,,Laura Cristina MOJICA CHALARCA,2000-06-20,COL,3,"Pascual Guerrero Stadium, Cali (COL)",2021-12-03,1036.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5754.97,COL,21.0,2021
-103,1:35:59.44,,Amber ANTONIA,1979-11-04,USA,3,"Palo Alto, CA (USA)",2002-06-21,1035.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5759.44,USA,22.0,2002
-104,1:36:02.22,,Sharon Lisseth HERRERA SOTO,2004-05-27,CRC,1,"Estadio Nacional - La Sabana, San José (CRC)",2025-06-22,1034.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5762.22,CRC,21.0,2025
-105,1:36:03.23,,Amber ANTONIA,1979-11-04,USA,2,"Carson, CA (USA)",2005-06-25,1034.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5763.23,USA,25.0,2005
-106,1:36:05.0h,,Monica EQUIHUA,1982-09-23,MEX,1,Xalapa (MEX),2014-08-31,1033.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5765.0,MEX,31.0,2014
-106,1:36:05.00,,Lana ŠVARBIĆ,2004-08-27,CRO,2,"Sports Park Mladost, Zagreb (CRO)",2024-05-11,1033.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5765.0,CRO,19.0,2024
-108,1:36:05.6h,,Yevdokiya KOROTKOVA,1979-02-28,RUS,3,Ishevsk (RUS),2003-09-22,1033.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5765.6,RUS,24.0,2003
-109,1:36:06.05,,Viktória MADARÁSZ,1985-05-12,HUN,1,"Lantos Mihály Sportközpont, Budapest (HUN)",2024-06-30,1033.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5766.05,HUN,39.0,2024
-110,1:36:10.25,,Jessica HANCCO,1995-09-10,PER,1,Lima (PER),2017-09-30,1032.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5770.25,PER,22.0,2017
-111,1:36:11.2h,,Mariya SHOKHOROVA,1985-12-24,RUS,3,Khanty-Mansiysk (RUS),2006-07-28,1031.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5771.2,RUS,20.0,2006
-112,1:36:12.00,,Alejandra ORTEGA,1994-07-08,MEX,1,Monterrey (MEX),2015-04-25,1031.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5772.0,MEX,20.0,2015
-113,1:36:13.93,,Jessica HANCCO,1995-09-10,PER,1,Lima (PER),2015-10-03,1031.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5773.93,PER,20.0,2015
-114,1:36:16.87,,Bhawna JAT,1996-03-01,IND,1,Pune (IND),2019-08-22,1030.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5776.87,IND,23.0,2019
-115,1:36:18.2h,,Yuxin LI,1974-12-04,CHN,1,Qufu (CHN),1999-09-27,1030.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5778.2,CHN,24.0,1999
-116,1:36:18.3h,,Nicolene CRONJE,1983-06-16,RSA,1,Durban (RSA),2004-04-16,1030.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5778.3,RSA,20.0,2004
-117,1:36:21.3h,,Anabelly ORJUELA,1988-07-24,COL,2,Medellín (COL),2017-06-11,1029.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5781.3,COL,28.0,2017
-118,1:36:22.2h,,Aleksandra KUBASOBA,1986-08-19,RUS,4,Khanty-Mansiysk (RUS),2006-07-28,1028.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5782.2,RUS,19.0,2006
-119,1:36:22.6h,,Fatiha OUALI,1974-10-28,FRA,1,St-Quentin (FRA),2005-05-28,1028.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5782.6,FRA,30.0,2005
-120,1:36:27.48,,Mayra Karen QUISPE,2000-07-28,BOL,3,Guayaquil (ECU),2021-10-17,1027.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5787.48,ECU,21.0,2021
-121,1:36:30.5h,,Natalia PULIDO,2004-09-15,COL,6,"COTP Stadium, São Paulo (BRA)",2023-07-29,1026.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5790.5,BRA,18.0,2023
-7,1:36:30.5h,,Natalia PULIDO,2004-09-15,COL,6,"COTP Stadium, São Paulo (BRA)",2023-07-29,1026.0,20000-metres-race-walk,race-walks,female,u20,20000-metres-race-walk,track,5790.5,BRA,18.0,2023
-122,1:36:31.28,,Angela CASTRO,1993-02-21,BOL,2,Lima (PER),2015-10-03,1026.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5791.28,PER,22.0,2015
-123,1:36:31.7h,,Tania Regina SPINDLER,1977-04-10,BRA,3,Lima (PER),2009-06-20,1026.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5791.7,PER,32.0,2009
-124,1:36:34.7h,,Isilda GONÇALVES,1969-11-11,POR,3,Almada (POR),2000-08-04,1025.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5794.7,POR,30.0,2000
-125,1:36:37.3h,,Erica SENA,1985-05-03,BRA,3,Santiago de Chile (CHI),2014-03-13,1024.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5797.3,CHI,28.0,2014
-126,1:36:38.38,,Teresa VAILL,1962-11-20,USA,3,"Palo Alto, CA (USA)",2003-06-21,1024.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5798.38,USA,40.0,2003
-127,1:36:38.5h,,Cisiane Dutra LOPEZ,1983-02-17,BRA,4,Lima (PER),2009-06-20,1024.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5798.5,PER,26.0,2009
-128,1:36:39.1h,,Mária GÁLIKOVÁ,1980-08-21,SVK,1,Banská Bystrica (TCH),2009-06-14,1024.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5799.1,TCH,28.0,2009
-129,1:36:39.70,,Bethan DAVIES,1990-11-07,GBR,1,Bedford (GBR),2015-06-21,1024.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5799.7,GBR,24.0,2015
-130,1:36:39.94,,Erica SENA,1985-05-03,BRA,1,"COTP Stadium, São Paulo (BRA)",2020-12-12,1024.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5799.94,BRA,35.0,2020
-131,1:36:40.67,,Gabriela DE SOUSA,2002-06-12,BRA,1,"CNDA, Bragança Paulista (BRA)",2023-09-17,1023.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5800.67,BRA,21.0,2023
-132,1:36:41.36,,Stefany CORONADO,1996-09-16,BOL,3,Lima (PER),2015-10-03,1023.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5801.36,PER,19.0,2015
-8,1:36:41.36,,Stefany CORONADO,1996-09-16,BOL,3,Lima (PER),2015-10-03,1023.0,20000-metres-race-walk,race-walks,female,u20,20000-metres-race-walk,track,5801.36,PER,19.0,2015
-133,1:36:41.7h,,Vera SANTOS,1981-12-03,POR,3,Lisboa (POR),2001-07-21,1023.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5801.7,POR,19.0,2001
-134,1:36:42.08,,Ingrid HERNANDEZ,1988-11-29,COL,2,Lima (PER),2015-06-13,1023.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5802.08,PER,26.0,2015
-135,1:36:44.4h,,Alžbeta RAGASOVÁ,2002-04-06,SVK,1,"Tréningový štadión VŠC DUKLA, Banská Bystrica (SVK)",2023-10-14,1022.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5804.4,SVK,21.0,2023
-136,1:36:45.77,,Yelena KUZNETSOVA,1977-08-04,KAZ,1,Almaty (KAZ),2002-08-23,1022.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5805.77,KAZ,25.0,2002
-137,1:36:48.6h,,Lorena ARENAS,1993-09-17,COL,1,Medellín (COL),2016-04-23,1021.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5808.6,COL,22.0,2016
-138,1:36:49.47,,Jocy CABALLERO,1993-02-02,PER,2,"Estadio Atlético de la VIDENA, Lima (PER)",2023-06-16,1021.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5809.47,PER,30.0,2023
-139,1:36:50.3h,,Mirna ORTÍZ,1987-02-28,GUA,2,"Estadio Jorge Magico Gonzalez, San Salvador (ESA)",2024-06-28,1021.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5810.3,ESA,37.0,2024
-140,1:36:52.46,,Yasmina TOXANBAYEVA,2004-11-16,KAZ,1,"Olympic Training Base, Almaty (KAZ)",2024-06-11,1020.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5812.46,KAZ,19.0,2024
-141,1:36:54.22,,Paula Milena TORRES,2000-10-17,ECU,4,Guayaquil (ECU),2021-10-17,1020.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5814.22,ECU,21.0,2021
-142,1:36:55.88,,Sonata MILUŠAUSKAITĖ,1973-08-21,LTU,2,Kaunas (LTU),2000-08-03,1019.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5815.88,LTU,26.0,2000
-143,1:36:57.5h,,Aleksandra SOROKINA,1979-02-24,RUS,4,Ishevsk (RUS),2003-09-22,1019.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5817.5,RUS,24.0,2003
-144,1:37:00.0h,,Galina YAKUSHEVA,1988-07-14,KAZ,1,Almaty (KAZ),2014-06-27,1018.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5820.0,KAZ,25.0,2014
-145,1:37:00.07,,Jill COBB,1975-02-13,USA,4,"Hayward Field, Eugene, OR (USA)",2012-07-01,1018.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5820.07,USA,37.0,2012
-146,1:37:00.15,,PRIYANKA,1996-03-10,IND,2,Pune (IND),2019-08-22,1018.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5820.15,IND,23.0,2019
-147,1:37:00.2h,,Hana BURZALOVÁ,2000-11-03,SVK,2,"Tréningový štadión VŠC DUKLA, Banská Bystrica (SVK)",2023-10-14,1018.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5820.2,SVK,22.0,2023
-148,1:37:00.82,,Noelia VARGAS,2000-04-17,CRC,1,"Estadio Nacional - La Sabana, San José (CRC)",2024-06-23,1018.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5820.82,CRC,24.0,2024
-9,1:37:03.8h,,Anna PUDOVKINA,1985-02-13,RUS,5,Ishevsk (RUS),2003-09-22,1017.0,20000-metres-race-walk,race-walks,female,u20,20000-metres-race-walk,track,5823.8,RUS,18.0,2003
-149,1:37:03.8h,,Anna PUDOVKINA,1985-02-13,RUS,5,Ishevsk (RUS),2003-09-22,1017.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5823.8,RUS,18.0,2003
-150,1:37:04.0h,,Nadia Lizeth GONZALEZ MANJARREZ,1997-03-21,MEX,1,Toluca (MEX),2018-04-24,1017.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5824.0,MEX,21.0,2018
-151,1:37:08.0h,,Florida MINIYANOVA,1992-07-01,KAZ,1,Shimkent (KAZ),2015-03-28,1016.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5828.0,KAZ,22.0,2015
-152,1:37:12.65,,Leyde GUERRA,1998-09-27,PER,2,Lima (PER),2017-09-30,1014.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5832.65,PER,19.0,2017
-10,1:37:12.65,,Leyde GUERRA,1998-09-27,PER,2,Lima (PER),2017-09-30,1014.0,20000-metres-race-walk,race-walks,female,u20,20000-metres-race-walk,track,5832.65,PER,19.0,2017
-153,1:37:12.84,,Teresa VAILL,1962-11-20,USA,1,"Eugene, OR (USA)",2009-06-28,1014.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5832.84,USA,46.0,2009
-154,1:37:13.2h,,Claire WOODS,1981-07-06,AUS,2,Melbourne (AUS),2002-08-04,1014.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5833.2,AUS,21.0,2002
-155,1:37:13.93,,Noelia VARGAS,2000-04-17,CRC,1,"Estadio Nacional - La Sabana, San José (CRC)",2023-05-07,1014.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5833.93,CRC,23.0,2023
-156,1:37:14.81,,Joanne DOW,1964-03-19,USA,3,"Carson, CA (USA)",2005-06-25,1014.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5834.81,USA,41.0,2005
-157,1:37:19.1h,,Ailing XUE,1979-02-12,CHN,1,Xi'an (CHN),1999-09-18,1013.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5839.1,CHN,20.0,1999
-158,1:37:19.91,,Viviane LYRA,1993-07-29,BRA,2,"COTP Stadium, São Paulo (BRA)",2020-12-12,1012.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5839.91,BRA,27.0,2020
-159,1:37:26.06,,María Fernanda PEINADO,2001-11-12,GUA,2,"Estadio Nacional - La Sabana, San José (CRC)",2023-05-07,1011.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5846.06,CRC,21.0,2023
-160,1:37:26.3h,,Abigail SÁENZ,1977-04-21,MEX,2,Xalapa (MEX),2000-07-16,1011.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5846.3,MEX,23.0,2000
-161,1:37:28.91,,Maidy MONGE,2000-09-12,GUA,4,"Pascual Guerrero Stadium, Cali (COL)",2021-12-03,1010.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5848.91,COL,21.0,2021
-162,1:37:34.0h,,Melissa TOULOUM,2002-06-14,ALG,1,"Stade Annexe du 5 Juillet, Algiers (ALG)",2022-03-31,1009.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5854.0,ALG,19.0,2022
-163,1:37:34.46,,Maria MICHTA-COFFEY,1986-06-23,USA,1,"Drake Stadium, Des Moines, IA (USA)",2013-06-22,1008.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5854.46,USA,27.0,2013
-164,1:37:37.7h,,Wendy CORNEJO,1993-01-07,BOL,1,Cochabamba (BOL),2013-05-04,1008.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5857.7,BOL,20.0,2013
-165,1:37:39.24,,Galina YAKUSHEVA,1988-07-14,KAZ,1,Almaty (KAZ),2019-05-24,1007.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5859.24,KAZ,30.0,2019
-166,1:37:40.34,,Olivia LUNDMAN,2003-01-03,CAN,1,"Terry Fox AF, Ottawa (CAN)",2025-08-02,1007.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5860.34,CAN,22.0,2025
-167,1:37:40.59,,Despina ZAPOUNIDOU,1985-10-05,GRE,1,Patra (GRE),2012-01-22,1007.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5860.59,GRE,26.0,2012
-168,1:37:41.20,,Yingting PANG,1987-01-28,CHN,11,Wuhan (CHN),2007-11-01,1007.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5861.2,CHN,20.0,2007
-169,1:37:42.0h,,Paola PÉREZ,1989-12-21,ECU,1,São Paulo (BRA),2012-06-29,1006.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5862.0,BRA,22.0,2012
-170,1:37:43.1h,,Wendy CORNEJO,1993-01-07,BOL,1,Montevideo (URU),2014-10-04,1006.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5863.1,URU,21.0,2014
-171,1:37:44.25,,Li LI,1987-06-18,CHN,12,Wuhan (CHN),2007-11-01,1006.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5864.25,CHN,20.0,2007
-172,1:37:44.94,,Alana BARBER,1987-07-08,NZL,1,"Hawke's Bay Sports Park, Hastings (NZL)",2021-01-23,1006.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5864.94,NZL,33.0,2021
-173,1:37:45.0h,,Paola PÉREZ,1989-12-21,ECU,1,Esmeraldas (ECU),2011-05-01,1006.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5865.0,ECU,21.0,2011
-174,1:37:45.08,,Robyn STEVENS,1983-04-24,USA,1,"San Diego, CA (USA)",2019-07-13,1006.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5865.08,USA,36.0,2019
-175,1:37:45.71,,Miranda MELVILLE,1989-03-20,USA,1,"Hilmer Lodge Stadium, Walnut, CA (USA)",2023-04-14,1005.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5865.71,USA,34.0,2023
-176,1:37:46.0h,,Rachel SEAMAN,1986-01-14,CAN,1,Calgary (CAN),2011-06-25,1005.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5866.0,CAN,25.0,2011
-177,1:37:46.17,,Lorena ARENAS,1993-09-17,COL,1,Cartagena de Indias (COL),2013-07-05,1005.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5866.17,COL,19.0,2013
-178,1:37:46.79,,Khushbir KAUR,1993-07-09,IND,1,Patiala (IND),2012-02-15,1005.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5866.79,IND,18.0,2012
-11,1:37:46.79,,Khushbir KAUR,1993-07-09,IND,1,Patiala (IND),2012-02-15,1005.0,20000-metres-race-walk,race-walks,female,u20,20000-metres-race-walk,track,5866.79,IND,18.0,2012
-179,1:37:49.7h,,Anna BRAGINA,1985-08-23,RUS,5,Khanty-Mansiysk (RUS),2006-07-28,1004.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5869.7,RUS,20.0,2006
-180,1:37:50.3h,,Anna DRABENYA,1987-08-15,BLR,1,Brest (BLR),2008-05-31,1004.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5870.3,BLR,20.0,2008
-181,1:37:53.50,,Ema HAČUNDOVÁ,1999-03-05,SVK,2,"Štadión SNP, Banská Bystrica (SVK)",2024-06-30,1003.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5873.5,SVK,25.0,2024
-182,1:37:53.71,,Sejal SINGH,2003-08-12,IND,1,"Sports Complex, Sector 7, Chandigarh (IND)",2023-10-21,1003.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5873.71,IND,20.0,2023
-183,1:37:53.87,,RAVINA,1997-05-21,IND,1,Raebareli (IND),2022-08-30,1003.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5873.87,IND,25.0,2022
-184,1:37:54.9h,,Sandra Patricia ZAPATA,1977-02-03,COL,1,Bogotá (COL),2009-05-23,1003.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5874.9,COL,32.0,2009
-185,1:37:55.2h,,Maritza Rafaela PONCIO TZUL,1994-12-03,GUA,3,"Estadio Jorge Magico Gonzalez, San Salvador (ESA)",2024-06-28,1003.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5875.2,ESA,29.0,2024
-186,1:37:55.97,,Katie BURNETT,1988-10-07,USA,2,"Drake Stadium, Des Moines, IA (USA)",2018-06-22,1003.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5875.97,USA,29.0,2018
-187,1:37:56.0h,,Ingrid HERNANDEZ,1988-11-29,COL,1,Cali (COL),2019-06-23,1003.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5876.0,COL,30.0,2019
-188,1:37:57.58,,Gaurav KUMARI,,IND,2,Patiala (IND),2012-02-15,1002.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5877.58,IND,,2012
-189,1:37:58.00,,Leyde GUERRA,1998-09-27,PER,1,Lima (PER),2018-08-31,1002.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5878.0,PER,19.0,2018
-190,1:37:59.83,,Miranda MELVILLE,1989-03-20,USA,2,"Sacramento, CA (USA)",2014-06-28,1002.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5879.83,USA,25.0,2014
-191,1:38:00.0h,,Ingrid HERNANDEZ,1988-11-29,COL,1,Bogotá (COL),2011-05-07,1001.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5880.0,COL,22.0,2011
+28,1:32:22.4h,,Eva PÉREZ,1975-07-18,ESP,3,"Queensland Sport and Athletics Centre, Nathan, Brisbane (AUS)",2001-09-06,1096.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5542.4,AUS,26.0,2001
+29,1:32:26.0h,,Paola PÉREZ,1989-12-21,ECU,1,Asunción (PAR),2017-06-24,1095.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5546.0,PAR,27.0,2017
+30,1:32:30.36,,Limin SUN,1987-02-06,CHN,6,Wuhan (CHN),2007-11-01,1094.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5550.36,CHN,20.0,2007
+31,1:32:31.7h,,Lorena ARENAS,1993-09-17,COL,1,Medellín (COL),2013-10-06,1093.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5551.7,COL,20.0,2013
+32,1:32:35.2h,,Angela CASTRO,1993-02-21,BOL,2,Asunción (PAR),2017-06-24,1092.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5555.2,PAR,24.0,2017
+33,1:32:36.0h,,Angela CASTRO,1993-02-21,BOL,2,Lima (PER),2019-05-25,1092.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5556.0,PER,26.0,2019
+34,1:32:44.30,,Hana BURZALOVÁ,2000-11-03,SVK,1,"Štadión SNP, Banská Bystrica (SVK)",2024-06-30,1090.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5564.3,SVK,23.0,2024
+35,1:32:45.7h,,Olga POLYAKOVA,1980-09-23,RUS,1,Moskva (RUS),2001-07-27,1089.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5565.7,RUS,20.0,2001
+36,1:32:48.7h,,Anabelly ORJUELA,1988-07-24,COL,3,Buenos Aires (ARG),2011-06-05,1089.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5568.7,ARG,22.0,2011
+37,1:32:50.9h,,Gabriela DE SOUSA,2002-06-12,BRA,2,"Centro de Treinamento Paralímpico Brasileiro, São Paulo (BRA)",2025-07-31,1088.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5570.9,BRA,23.0,2025
+38,1:33:06.1h,,Paula Milena TORRES,2000-10-17,ECU,2,"COTP Stadium, São Paulo (BRA)",2023-07-29,1084.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5586.1,BRA,22.0,2023
+39,1:33:18.0h,,Yadira GUAMÁN,1986-06-09,ECU,4,Buenos Aires (ARG),2011-06-05,1080.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5598.0,ARG,25.0,2011
+40,1:33:20.04,,Maritza Rafaela PONCIO TZUL,1994-12-03,GUA,2,Ciudad de Guatemala (GUA),2014-08-08,1080.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5600.04,GUA,19.0,2014
+41,1:33:20.2h,,Larisa YEMELYANOVA,1980-01-06,RUS,1,Izhevsk (RUS),2005-09-17,1080.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5600.2,RUS,25.0,2005
+42,1:33:21.4h,,Valeria FLORES,2006-02-17,MEX,2,"Parque Olímpico Pista De Atletismo, Luque, Asunción (PAR)",2025-08-18,1079.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5601.4,PAR,19.0,2025
+3,1:33:21.4h,,Valeria FLORES,2006-02-17,MEX,2,"Parque Olímpico Pista De Atletismo, Luque, Asunción (PAR)",2025-08-18,1079.0,20000-metres-race-walk,race-walks,female,u20,20000-metres-race-walk,track,5601.4,PAR,19.0,2025
+43,1:33:25.5h,,Valentina TSYBULSKAYA,1968-02-19,BLR,4,"Queensland Sport and Athletics Centre, Nathan, Brisbane (AUS)",2001-09-06,1078.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5605.5,AUS,33.0,2001
+44,1:33:27.22,,Yelena GINKO,1976-07-30,BLR,1,Brest (BLR),2006-07-08,1078.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5607.22,BLR,29.0,2006
+45,1:33:28.15,,Teresa VAILL,1962-11-20,USA,1,"Carson, CA (USA)",2005-06-25,1077.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5608.15,USA,42.0,2005
+46,1:33:29.9h,,Yekaterina YEZHOVA,1982-07-03,RUS,2,Izhevsk (RUS),2005-09-17,1077.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5609.9,RUS,23.0,2005
+47,1:33:31.8h,,Gabriela DE SOUSA,2002-06-12,BRA,3,"COTP Stadium, São Paulo (BRA)",2023-07-29,1076.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5611.8,BRA,21.0,2023
+48,1:33:35.3h,,Noelia VARGAS,2000-04-17,CRC,1,"Estadio Jorge Magico Gonzalez, San Salvador (ESA)",2024-06-28,1075.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5615.3,ESA,24.0,2024
+49,1:33:37.13,,Viviane LYRA,1993-07-29,BRA,1,Rio de Janeiro (BRA),2022-06-22,1075.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5617.13,BRA,28.0,2022
+50,1:33:38.3h,,Marina SMYSLOVA,1966-06-05,RUS,3,Izhevsk (RUS),2005-09-17,1074.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5618.3,RUS,39.0,2005
+51,1:33:40.0h,,Leyde GUERRA,1998-09-27,PER,3,Lima (PER),2019-05-25,1074.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5620.0,PER,20.0,2019
+52,1:33:40.2h,,Kerry SAXBY-JUNNA,1961-06-02,AUS,5,"Queensland Sport and Athletics Centre, Nathan, Brisbane (AUS)",2001-09-06,1074.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5620.2,AUS,40.0,2001
+53,1:33:42.1h,,Cheryl WEBB,1976-10-03,AUS,1,Melbourne (AUS),2002-08-04,1073.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5622.1,AUS,25.0,2002
+54,1:33:44.3h,,Olga POVALYAYEVA,1984-10-19,RUS,1,Khanty-Mansiysk (RUS),2006-07-28,1073.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5624.3,RUS,21.0,2006
+55,1:33:51.2h,,Lorena ARENAS,1993-09-17,COL,1,Medellín (COL),2017-06-11,1071.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5631.2,COL,23.0,2017
+56,1:33:52.90,,Meryem BEKMEZ,2000-07-31,TUR,1,"Nevin Yanıt Atletizm Pisti, Mersin (TUR)",2022-04-26,1070.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5632.9,TUR,21.0,2022
+57,1:33:54.16,,Glenda MOREJÓN,2000-05-30,ECU,1,"Pascual Guerrero Stadium, Cali (COL)",2021-12-03,1070.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5634.16,COL,21.0,2021
+58,1:33:58.1h,,Sofia AVOILA,1976-07-30,POR,2,Lisboa (POR),2001-07-21,1069.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5638.1,POR,24.0,2001
+59,1:34:04.4h,,Sandra Viviana GALVIS,1986-06-28,COL,2,Santiago de Chile (CHI),2014-03-13,1067.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5644.4,CHI,27.0,2014
+60,1:34:11.95,,Snezhana YURCHENKO,1984-08-01,BLR,2,Brest (BLR),2006-07-08,1065.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5651.95,BLR,21.0,2006
+61,1:34:12.31,,Xue CHAI,1988-01-21,CHN,7,Wuhan (CHN),2007-11-01,1065.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5652.31,CHN,19.0,2007
+4,1:34:12.31,,Xue CHAI,1988-01-21,CHN,7,Wuhan (CHN),2007-11-01,1065.0,20000-metres-race-walk,race-walks,female,u20,20000-metres-race-walk,track,5652.31,CHN,19.0,2007
+62,1:34:17.0h,,Olga SURANOVA,1986-12-07,RUS,2,Khanty-Mansiysk (RUS),2006-07-28,1063.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5657.0,RUS,19.0,2006
+63,1:34:21.56,,Xue Hui WANG,1990-02-14,CHN,8,Wuhan (CHN),2007-11-01,1062.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5661.56,CHN,17.0,2007
+5,1:34:21.56,,Xue Hui WANG,1990-02-14,CHN,8,Wuhan (CHN),2007-11-01,1062.0,20000-metres-race-walk,race-walks,female,u20,20000-metres-race-walk,track,5661.56,CHN,17.0,2007
+64,1:34:30.0h,,Evelyn INGA,1998-04-16,PER,4,Lima (PER),2019-05-25,1060.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5670.0,PER,21.0,2019
+65,1:34:31.06,,Michelle ROHL,1965-11-12,USA,1,"Palo Alto, CA (USA)",2003-06-21,1060.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5671.06,USA,37.0,2003
+66,1:34:34.3h,,Gabriela DE SOUSA,2002-06-12,BRA,3,"Centro de Treinamento Paralímpico Brasileiro, São Paulo (BRA)",2024-06-27,1059.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5674.3,BRA,22.0,2024
+67,1:34:38.15,,Tatyana METLEVSKAYA,1984-09-14,BLR,3,Brest (BLR),2006-07-08,1058.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5678.15,BLR,21.0,2006
+68,1:34:39.71,,Jie HAN,1987-12-31,CHN,9,Wuhan (CHN),2007-11-01,1057.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5679.71,CHN,19.0,2007
+69,1:34:46.52,,Joanne DOW,1964-03-19,USA,1,"Palo Alto, CA (USA)",2002-06-21,1055.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5686.52,USA,38.0,2002
+70,1:34:46.6h,,Vera SANTOS,1981-12-03,POR,3,Lisboa (POR),2002-07-13,1055.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5686.6,POR,20.0,2002
+71,1:34:47.9h,,Gabriela DE SOUSA,2002-06-12,BRA,1,"CNDA, Bragança Paulista (BRA)",2024-08-18,1055.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5687.9,BRA,22.0,2024
+72,1:34:50.9h,,Irina PUDOVKINA,1980-02-11,RUS,4,Izhevsk (RUS),2005-09-17,1054.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5690.9,RUS,25.0,2005
+73,1:34:52.0h,,Paula Milena TORRES,2000-10-17,ECU,1,Cascavel (BRA),2022-09-30,1054.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5692.0,BRA,21.0,2022
+74,1:34:53.33,,Maria MICHTA-COFFEY,1986-06-23,USA,1,"Hayward Field, Eugene, OR (USA)",2012-07-01,1053.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5693.33,USA,26.0,2012
+75,1:34:56.7h,,Rosario SANCHEZ,1973-10-26,MEX,1,Xalapa (MEX),2000-07-16,1052.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5696.7,MEX,26.0,2000
+76,1:34:56.92,,Miranda MELVILLE,1989-03-20,USA,2,"Hayward Field, Eugene, OR (USA)",2012-07-01,1052.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5696.92,USA,23.0,2012
+79,1:34:57.1h,,Christine GUINAUDEAU,1978-06-20,FRA,1,La Londe (FRA),2009-04-26,1052.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5697.1,FRA,30.0,2009
+77,1:34:57.79,,Joanne DOW,1964-03-19,USA,2,"Palo Alto, CA (USA)",2003-06-21,1052.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5697.79,USA,39.0,2003
+78,1:34:57.9h,,Johana ORDÓŇEZ,1987-12-12,ECU,1,Lima (PER),2009-06-20,1052.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5697.9,PER,21.0,2009
+6,1:35:02.56,,Gabriela DE SOUSA,2002-06-12,BRA,1,Bragança Paulista (BRA),2021-04-25,1051.0,20000-metres-race-walk,race-walks,female,u20,20000-metres-race-walk,track,5702.56,BRA,18.0,2021
+80,1:35:02.56,,Gabriela DE SOUSA,2002-06-12,BRA,1,Bragança Paulista (BRA),2021-04-25,1051.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5702.56,BRA,18.0,2021
+81,1:35:09.8h,,Elmira ALEMBEKOVA,1990-06-30,RUS,1,Penza (RUS),2010-05-16,1049.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5709.8,RUS,19.0,2010
+82,1:35:11.0h,,Natalia PULIDO,2004-09-15,COL,3,"Parque Olímpico Pista De Atletismo, Luque, Asunción (PAR)",2025-08-18,1048.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5711.0,PAR,20.0,2025
+83,1:35:13.49,,RAVINA,1997-05-21,IND,1,"Jawaharlal Nehru Stadium, Chennai (IND)",2025-08-22,1048.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5713.49,IND,28.0,2025
+84,1:35:17.3h,,Natalya SHIVIREVA,1978-08-31,RUS,5,Izhevsk (RUS),2005-09-17,1047.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5717.3,RUS,27.0,2005
+85,1:35:19.66,,Karla JARAMILLO,1997-01-21,ECU,1,"La Vicentina, Quito (ECU)",2024-04-06,1046.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5719.66,ECU,27.0,2024
+86,1:35:21.1h,,Angela CASTRO,1993-02-21,BOL,4,"COTP Stadium, São Paulo (BRA)",2023-07-29,1045.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5721.1,BRA,30.0,2023
+87,1:35:21.59,,Maria MICHTA-COFFEY,1986-06-23,USA,1,"Drake Stadium, Des Moines, IA (USA)",2018-06-22,1045.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5721.59,USA,32.0,2018
+88,1:35:22.32,,Violaine AVEROUS,1985-03-15,FRA,1,Toulouse (FRA),2015-11-15,1045.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5722.32,FRA,30.0,2015
+89,1:35:23.7h,,Kristina SALTANOVIČ,1975-02-20,LTU,1,Kaunas (LTU),2000-08-03,1045.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5723.7,LTU,25.0,2000
+90,1:35:26.52,,Mary Luz ANDIA,2000-11-09,PER,2,"Pascual Guerrero Stadium, Cali (COL)",2021-12-03,1044.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5726.52,COL,21.0,2021
+91,1:35:27.73,,Mary Luz ANDIA,2000-11-09,PER,2,Guayaquil (ECU),2021-10-17,1044.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5727.73,ECU,20.0,2021
+92,1:35:29.6h,,Erica SENA,1985-05-03,BRA,1,São Paulo (BRA),2011-08-05,1043.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5729.6,BRA,26.0,2011
+92,1:35:29.6h,,Mayra Karen QUISPE,2000-07-28,BOL,5,"COTP Stadium, São Paulo (BRA)",2023-07-29,1043.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5729.6,BRA,23.0,2023
+94,1:35:29.76,,Viviane LYRA,1993-07-29,BRA,2,Bragança Paulista (BRA),2021-04-25,1043.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5729.76,BRA,27.0,2021
+95,1:35:33.0h,,Anabelly ORJUELA,1988-07-24,COL,5,Lima (PER),2019-05-25,1042.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5733.0,PER,30.0,2019
+96,1:35:33.4h,,Alessandra PICAGEVICZ,1984-02-20,BRA,1,Itajaí (BRA),2004-05-15,1042.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5733.4,BRA,20.0,2004
+97,1:35:35.70,,Yueling CHEN,1968-04-01,USA,1,"San Diego, CA (USA)",2000-01-23,1041.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5735.7,USA,31.0,2000
+98,1:35:36.41,,Lauren HARRIS,1999-07-23,USA,1,"CVEATC, Chula Vista, CA (USA)",2025-03-16,1041.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5736.41,USA,25.0,2025
+99,1:35:37.79,,Viviane LYRA,1993-07-29,BRA,1,"COTP Stadium, São Paulo (BRA)",2021-06-27,1041.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5737.79,BRA,27.0,2021
+100,1:35:40.05,,Erin GRAY,1987-05-17,USA,3,"Hayward Field, Eugene, OR (USA)",2012-07-01,1040.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5740.05,USA,25.0,2012
+101,1:35:41.84,,Leilei LI,1989-08-18,CHN,10,Wuhan (CHN),2007-11-01,1040.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5741.84,CHN,18.0,2007
+7,1:35:41.84,,Leilei LI,1989-08-18,CHN,10,Wuhan (CHN),2007-11-01,1040.0,20000-metres-race-walk,race-walks,female,u20,20000-metres-race-walk,track,5741.84,CHN,18.0,2007
+102,1:35:43.03,,Karla JARAMILLO,1997-01-21,ECU,2,Cuenca (ECU),2018-09-29,1039.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5743.03,ECU,21.0,2018
+103,1:35:46.4h,,Galina KOLPAKOVA,1983-01-14,RUS,6,Izhevsk (RUS),2005-09-17,1038.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5746.4,RUS,22.0,2005
+104,1:35:49.6h,,Cisiane Dutra LOPEZ,1983-02-17,BRA,5,Buenos Aires (ARG),2011-06-05,1038.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5749.6,ARG,28.0,2011
+105,1:35:53.2h,,Sandra Patricia ZAPATA,1977-02-03,COL,2,Lima (PER),2009-06-20,1037.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5753.2,PER,32.0,2009
+106,1:35:54.97,,Laura Cristina MOJICA CHALARCA,2000-06-20,COL,3,"Pascual Guerrero Stadium, Cali (COL)",2021-12-03,1036.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5754.97,COL,21.0,2021
+107,1:35:59.44,,Amber ANTONIA,1979-11-04,USA,3,"Palo Alto, CA (USA)",2002-06-21,1035.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5759.44,USA,22.0,2002
+108,1:36:02.22,,Sharon Lisseth HERRERA SOTO,2004-05-27,CRC,1,"Estadio Nacional - La Sabana, San José (CRC)",2025-06-22,1034.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5762.22,CRC,21.0,2025
+109,1:36:03.23,,Amber ANTONIA,1979-11-04,USA,2,"Carson, CA (USA)",2005-06-25,1034.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5763.23,USA,25.0,2005
+110,1:36:05.00,,Lana ŠVARBIĆ,2004-08-27,CRO,2,"Sports Park Mladost, Zagreb (CRO)",2024-05-11,1033.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5765.0,CRO,19.0,2024
+110,1:36:05.0h,,Monica EQUIHUA,1982-09-23,MEX,1,Xalapa (MEX),2014-08-31,1033.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5765.0,MEX,31.0,2014
+112,1:36:05.6h,,Yevdokiya KOROTKOVA,1979-02-28,RUS,3,Ishevsk (RUS),2003-09-22,1033.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5765.6,RUS,24.0,2003
+113,1:36:06.05,,Viktória MADARÁSZ,1985-05-12,HUN,1,"Lantos Mihály Sportközpont, Budapest (HUN)",2024-06-30,1033.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5766.05,HUN,39.0,2024
+114,1:36:10.25,,Jessica HANCCO,1995-09-10,PER,1,Lima (PER),2017-09-30,1032.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5770.25,PER,22.0,2017
+115,1:36:11.2h,,Mariya SHOKHOROVA,1985-12-24,RUS,3,Khanty-Mansiysk (RUS),2006-07-28,1031.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5771.2,RUS,20.0,2006
+116,1:36:12.00,,Alejandra ORTEGA,1994-07-08,MEX,1,Monterrey (MEX),2015-04-25,1031.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5772.0,MEX,20.0,2015
+117,1:36:13.93,,Jessica HANCCO,1995-09-10,PER,1,Lima (PER),2015-10-03,1031.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5773.93,PER,20.0,2015
+118,1:36:15.88,,Rachelle DE ORBETA,2000-03-27,PUR,1,"Grand Bahama Sports Complex, Freeport (BAH)",2025-08-16,1030.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5775.88,BAH,25.0,2025
+119,1:36:16.87,,Bhawna JAT,1996-03-01,IND,1,Pune (IND),2019-08-22,1030.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5776.87,IND,23.0,2019
+120,1:36:18.2h,,Yuxin LI,1974-12-04,CHN,1,Qufu (CHN),1999-09-27,1030.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5778.2,CHN,24.0,1999
+121,1:36:18.3h,,Nicolene CRONJE,1983-06-16,RSA,1,Durban (RSA),2004-04-16,1030.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5778.3,RSA,20.0,2004
+122,1:36:21.3h,,Anabelly ORJUELA,1988-07-24,COL,2,Medellín (COL),2017-06-11,1029.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5781.3,COL,28.0,2017
+123,1:36:22.2h,,Aleksandra KUBASOBA,1986-08-19,RUS,4,Khanty-Mansiysk (RUS),2006-07-28,1028.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5782.2,RUS,19.0,2006
+124,1:36:22.6h,,Fatiha OUALI,1974-10-28,FRA,1,St-Quentin (FRA),2005-05-28,1028.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5782.6,FRA,30.0,2005
+125,1:36:27.48,,Mayra Karen QUISPE,2000-07-28,BOL,3,Guayaquil (ECU),2021-10-17,1027.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5787.48,ECU,21.0,2021
+126,1:36:30.5h,,Natalia PULIDO,2004-09-15,COL,6,"COTP Stadium, São Paulo (BRA)",2023-07-29,1026.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5790.5,BRA,18.0,2023
+8,1:36:30.5h,,Natalia PULIDO,2004-09-15,COL,6,"COTP Stadium, São Paulo (BRA)",2023-07-29,1026.0,20000-metres-race-walk,race-walks,female,u20,20000-metres-race-walk,track,5790.5,BRA,18.0,2023
+127,1:36:31.28,,Angela CASTRO,1993-02-21,BOL,2,Lima (PER),2015-10-03,1026.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5791.28,PER,22.0,2015
+128,1:36:31.7h,,Tania Regina SPINDLER,1977-04-10,BRA,3,Lima (PER),2009-06-20,1026.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5791.7,PER,32.0,2009
+129,1:36:34.7h,,Isilda GONÇALVES,1969-11-11,POR,3,Almada (POR),2000-08-04,1025.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5794.7,POR,30.0,2000
+130,1:36:37.3h,,Erica SENA,1985-05-03,BRA,3,Santiago de Chile (CHI),2014-03-13,1024.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5797.3,CHI,28.0,2014
+131,1:36:38.38,,Teresa VAILL,1962-11-20,USA,3,"Palo Alto, CA (USA)",2003-06-21,1024.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5798.38,USA,40.0,2003
+132,1:36:38.5h,,Cisiane Dutra LOPEZ,1983-02-17,BRA,4,Lima (PER),2009-06-20,1024.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5798.5,PER,26.0,2009
+133,1:36:39.1h,,Mária GÁLIKOVÁ,1980-08-21,SVK,1,Banská Bystrica (TCH),2009-06-14,1024.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5799.1,TCH,28.0,2009
+134,1:36:39.70,,Bethan DAVIES,1990-11-07,GBR,1,Bedford (GBR),2015-06-21,1024.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5799.7,GBR,24.0,2015
+135,1:36:39.94,,Erica SENA,1985-05-03,BRA,1,"COTP Stadium, São Paulo (BRA)",2020-12-12,1024.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5799.94,BRA,35.0,2020
+136,1:36:40.67,,Gabriela DE SOUSA,2002-06-12,BRA,1,"CNDA, Bragança Paulista (BRA)",2023-09-17,1023.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5800.67,BRA,21.0,2023
+137,1:36:41.36,,Stefany CORONADO,1996-09-16,BOL,3,Lima (PER),2015-10-03,1023.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5801.36,PER,19.0,2015
+9,1:36:41.36,,Stefany CORONADO,1996-09-16,BOL,3,Lima (PER),2015-10-03,1023.0,20000-metres-race-walk,race-walks,female,u20,20000-metres-race-walk,track,5801.36,PER,19.0,2015
+138,1:36:41.7h,,Vera SANTOS,1981-12-03,POR,3,Lisboa (POR),2001-07-21,1023.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5801.7,POR,19.0,2001
+139,1:36:42.08,,Ingrid HERNANDEZ,1988-11-29,COL,2,Lima (PER),2015-06-13,1023.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5802.08,PER,26.0,2015
+140,1:36:44.4h,,Alžbeta RAGASOVÁ,2002-04-06,SVK,1,"Tréningový štadión VŠC DUKLA, Banská Bystrica (SVK)",2023-10-14,1022.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5804.4,SVK,21.0,2023
+141,1:36:45.77,,Yelena KUZNETSOVA,1977-08-04,KAZ,1,Almaty (KAZ),2002-08-23,1022.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5805.77,KAZ,25.0,2002
+142,1:36:46.0h,,Angela CASTRO,1993-02-21,BOL,1,"Gobierno Autónomo Municipal de Cochabamba, Cochabamba (BOL)",2025-08-09,1022.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5806.0,BOL,32.0,2025
+143,1:36:48.6h,,Lorena ARENAS,1993-09-17,COL,1,Medellín (COL),2016-04-23,1021.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5808.6,COL,22.0,2016
+144,1:36:49.47,,Jocy CABALLERO,1993-02-02,PER,2,"Estadio Atlético de la VIDENA, Lima (PER)",2023-06-16,1021.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5809.47,PER,30.0,2023
+145,1:36:50.3h,,Mirna ORTÍZ,1987-02-28,GUA,2,"Estadio Jorge Magico Gonzalez, San Salvador (ESA)",2024-06-28,1021.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5810.3,ESA,37.0,2024
+146,1:36:52.46,,Yasmina TOXANBAYEVA,2004-11-16,KAZ,1,"Olympic Training Base, Almaty (KAZ)",2024-06-11,1020.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5812.46,KAZ,19.0,2024
+147,1:36:54.0h,,Rubi Dayana SEGURA GARCIA,2006-02-27,COL,4,"Parque Olímpico Pista De Atletismo, Luque, Asunción (PAR)",2025-08-18,1020.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5814.0,PAR,19.0,2025
+10,1:36:54.0h,,Rubi Dayana SEGURA GARCIA,2006-02-27,COL,4,"Parque Olímpico Pista De Atletismo, Luque, Asunción (PAR)",2025-08-18,1020.0,20000-metres-race-walk,race-walks,female,u20,20000-metres-race-walk,track,5814.0,PAR,19.0,2025
+148,1:36:54.22,,Paula Milena TORRES,2000-10-17,ECU,4,Guayaquil (ECU),2021-10-17,1020.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5814.22,ECU,21.0,2021
+149,1:36:55.88,,Sonata MILUŠAUSKAITĖ,1973-08-21,LTU,2,Kaunas (LTU),2000-08-03,1019.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5815.88,LTU,26.0,2000
+150,1:36:57.5h,,Aleksandra SOROKINA,1979-02-24,RUS,4,Ishevsk (RUS),2003-09-22,1019.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5817.5,RUS,24.0,2003
+151,1:37:00.0h,,Galina YAKUSHEVA,1988-07-14,KAZ,1,Almaty (KAZ),2014-06-27,1018.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5820.0,KAZ,25.0,2014
+152,1:37:00.07,,Jill COBB,1975-02-13,USA,4,"Hayward Field, Eugene, OR (USA)",2012-07-01,1018.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5820.07,USA,37.0,2012
+153,1:37:00.15,,PRIYANKA,1996-03-10,IND,2,Pune (IND),2019-08-22,1018.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5820.15,IND,23.0,2019
+154,1:37:00.2h,,Hana BURZALOVÁ,2000-11-03,SVK,2,"Tréningový štadión VŠC DUKLA, Banská Bystrica (SVK)",2023-10-14,1018.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5820.2,SVK,22.0,2023
+155,1:37:00.82,,Noelia VARGAS,2000-04-17,CRC,1,"Estadio Nacional - La Sabana, San José (CRC)",2024-06-23,1018.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5820.82,CRC,24.0,2024
+11,1:37:03.8h,,Anna PUDOVKINA,1985-02-13,RUS,5,Ishevsk (RUS),2003-09-22,1017.0,20000-metres-race-walk,race-walks,female,u20,20000-metres-race-walk,track,5823.8,RUS,18.0,2003
+156,1:37:03.8h,,Anna PUDOVKINA,1985-02-13,RUS,5,Ishevsk (RUS),2003-09-22,1017.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5823.8,RUS,18.0,2003
+157,1:37:04.0h,,Nadia Lizeth GONZALEZ MANJARREZ,1997-03-21,MEX,1,Toluca (MEX),2018-04-24,1017.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5824.0,MEX,21.0,2018
+158,1:37:08.0h,,Florida MINIYANOVA,1992-07-01,KAZ,1,Shimkent (KAZ),2015-03-28,1016.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5828.0,KAZ,22.0,2015
+12,1:37:12.65,,Leyde GUERRA,1998-09-27,PER,2,Lima (PER),2017-09-30,1014.0,20000-metres-race-walk,race-walks,female,u20,20000-metres-race-walk,track,5832.65,PER,19.0,2017
+159,1:37:12.65,,Leyde GUERRA,1998-09-27,PER,2,Lima (PER),2017-09-30,1014.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5832.65,PER,19.0,2017
+160,1:37:12.84,,Teresa VAILL,1962-11-20,USA,1,"Eugene, OR (USA)",2009-06-28,1014.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5832.84,USA,46.0,2009
+161,1:37:13.2h,,Claire WOODS,1981-07-06,AUS,2,Melbourne (AUS),2002-08-04,1014.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5833.2,AUS,21.0,2002
+162,1:37:13.93,,Noelia VARGAS,2000-04-17,CRC,1,"Estadio Nacional - La Sabana, San José (CRC)",2023-05-07,1014.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5833.93,CRC,23.0,2023
+163,1:37:14.81,,Joanne DOW,1964-03-19,USA,3,"Carson, CA (USA)",2005-06-25,1014.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5834.81,USA,41.0,2005
+164,1:37:19.1h,,Ailing XUE,1979-02-12,CHN,1,Xi'an (CHN),1999-09-18,1013.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5839.1,CHN,20.0,1999
+165,1:37:19.91,,Viviane LYRA,1993-07-29,BRA,2,"COTP Stadium, São Paulo (BRA)",2020-12-12,1012.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5839.91,BRA,27.0,2020
+166,1:37:26.06,,María Fernanda PEINADO,2001-11-12,GUA,2,"Estadio Nacional - La Sabana, San José (CRC)",2023-05-07,1011.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5846.06,CRC,21.0,2023
+167,1:37:26.3h,,Abigail SÁENZ,1977-04-21,MEX,2,Xalapa (MEX),2000-07-16,1011.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5846.3,MEX,23.0,2000
+168,1:37:28.91,,Maidy MONGE,2000-09-12,GUA,4,"Pascual Guerrero Stadium, Cali (COL)",2021-12-03,1010.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5848.91,COL,21.0,2021
+169,1:37:34.0h,,Melissa TOULOUM,2002-06-14,ALG,1,"Stade Annexe du 5 Juillet, Algiers (ALG)",2022-03-31,1009.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5854.0,ALG,19.0,2022
+170,1:37:34.46,,Maria MICHTA-COFFEY,1986-06-23,USA,1,"Drake Stadium, Des Moines, IA (USA)",2013-06-22,1008.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5854.46,USA,27.0,2013
+171,1:37:37.7h,,Wendy CORNEJO,1993-01-07,BOL,1,Cochabamba (BOL),2013-05-04,1008.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5857.7,BOL,20.0,2013
+172,1:37:39.24,,Galina YAKUSHEVA,1988-07-14,KAZ,1,Almaty (KAZ),2019-05-24,1007.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5859.24,KAZ,30.0,2019
+173,1:37:40.34,,Olivia LUNDMAN,2003-01-03,CAN,1,"Terry Fox AF, Ottawa (CAN)",2025-08-02,1007.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5860.34,CAN,22.0,2025
+174,1:37:40.59,,Despina ZAPOUNIDOU,1985-10-05,GRE,1,Patra (GRE),2012-01-22,1007.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5860.59,GRE,26.0,2012
+175,1:37:41.20,,Yingting PANG,1987-01-28,CHN,11,Wuhan (CHN),2007-11-01,1007.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5861.2,CHN,20.0,2007
+176,1:37:42.0h,,Paola PÉREZ,1989-12-21,ECU,1,São Paulo (BRA),2012-06-29,1006.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5862.0,BRA,22.0,2012
+177,1:37:43.1h,,Wendy CORNEJO,1993-01-07,BOL,1,Montevideo (URU),2014-10-04,1006.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5863.1,URU,21.0,2014
+178,1:37:44.25,,Li LI,1987-06-18,CHN,12,Wuhan (CHN),2007-11-01,1006.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5864.25,CHN,20.0,2007
+179,1:37:44.94,,Alana BARBER,1987-07-08,NZL,1,"Hawke's Bay Sports Park, Hastings (NZL)",2021-01-23,1006.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5864.94,NZL,33.0,2021
+180,1:37:45.0h,,Paola PÉREZ,1989-12-21,ECU,1,Esmeraldas (ECU),2011-05-01,1006.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5865.0,ECU,21.0,2011
+181,1:37:45.08,,Robyn STEVENS,1983-04-24,USA,1,"San Diego, CA (USA)",2019-07-13,1006.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5865.08,USA,36.0,2019
+182,1:37:45.71,,Miranda MELVILLE,1989-03-20,USA,1,"Hilmer Lodge Stadium, Walnut, CA (USA)",2023-04-14,1005.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5865.71,USA,34.0,2023
+183,1:37:46.0h,,Rachel SEAMAN,1986-01-14,CAN,1,Calgary (CAN),2011-06-25,1005.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5866.0,CAN,25.0,2011
+184,1:37:46.17,,Lorena ARENAS,1993-09-17,COL,1,Cartagena de Indias (COL),2013-07-05,1005.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5866.17,COL,19.0,2013
+13,1:37:46.79,,Khushbir KAUR,1993-07-09,IND,1,Patiala (IND),2012-02-15,1005.0,20000-metres-race-walk,race-walks,female,u20,20000-metres-race-walk,track,5866.79,IND,18.0,2012
+185,1:37:46.79,,Khushbir KAUR,1993-07-09,IND,1,Patiala (IND),2012-02-15,1005.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5866.79,IND,18.0,2012
+186,1:37:49.7h,,Anna BRAGINA,1985-08-23,RUS,5,Khanty-Mansiysk (RUS),2006-07-28,1004.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5869.7,RUS,20.0,2006
+187,1:37:50.3h,,Anna DRABENYA,1987-08-15,BLR,1,Brest (BLR),2008-05-31,1004.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5870.3,BLR,20.0,2008
+188,1:37:52.58,,Mirna ORTÍZ,1987-02-28,GUA,2,"Grand Bahama Sports Complex, Freeport (BAH)",2025-08-16,1004.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5872.58,BAH,38.0,2025
+189,1:37:53.50,,Ema HAČUNDOVÁ,1999-03-05,SVK,2,"Štadión SNP, Banská Bystrica (SVK)",2024-06-30,1003.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5873.5,SVK,25.0,2024
+190,1:37:53.71,,Sejal SINGH,2003-08-12,IND,1,"Sports Complex, Sector 7, Chandigarh (IND)",2023-10-21,1003.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5873.71,IND,20.0,2023
+191,1:37:53.87,,RAVINA,1997-05-21,IND,1,Raebareli (IND),2022-08-30,1003.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5873.87,IND,25.0,2022
+192,1:37:54.9h,,Sandra Patricia ZAPATA,1977-02-03,COL,1,Bogotá (COL),2009-05-23,1003.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5874.9,COL,32.0,2009
+193,1:37:55.2h,,Maritza Rafaela PONCIO TZUL,1994-12-03,GUA,3,"Estadio Jorge Magico Gonzalez, San Salvador (ESA)",2024-06-28,1003.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5875.2,ESA,29.0,2024
+194,1:37:55.97,,Katie BURNETT,1988-10-07,USA,2,"Drake Stadium, Des Moines, IA (USA)",2018-06-22,1003.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5875.97,USA,29.0,2018
+195,1:37:56.0h,,Ingrid HERNANDEZ,1988-11-29,COL,1,Cali (COL),2019-06-23,1003.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5876.0,COL,30.0,2019
+196,1:37:57.58,,Gaurav KUMARI,,IND,2,Patiala (IND),2012-02-15,1002.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5877.58,IND,,2012
+197,1:37:58.00,,Leyde GUERRA,1998-09-27,PER,1,Lima (PER),2018-08-31,1002.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5878.0,PER,19.0,2018
+198,1:37:59.83,,Miranda MELVILLE,1989-03-20,USA,2,"Sacramento, CA (USA)",2014-06-28,1002.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5879.83,USA,25.0,2014
+199,1:38:00.0h,,Ingrid HERNANDEZ,1988-11-29,COL,1,Bogotá (COL),2011-05-07,1001.0,20000-metres-race-walk,race-walks,female,senior,20000-metres-race-walk,track,5880.0,COL,22.0,2011

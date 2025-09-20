@@ -8,408 +8,418 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 7,5:40.30,,Isacc DUPORTAL,2006-10-15,FRA,2,"Atletski stadion Poljane, Maribor (SLO)",2023-07-29,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,340.3,SLO,16.0,2023
 8,5:40.35,,Hicham ERRBIBIH,2005-12-02,FRA,2f1,"Givat Ram Stadium, Jerusalem (ISR)",2022-07-07,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,340.35,ISR,16.0,2022
 9,5:40.45,,Aarno LIEBL,2005-05-21,SUI,3f1,"Givat Ram Stadium, Jerusalem (ISR)",2022-07-07,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,340.45,ISR,17.0,2022
-10,5:41.11,,Sergio DEL BARRIO,2005-02-04,ESP,2,"Stade Helitas, Caen (FRA)",2022-05-19,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,341.11,FRA,17.0,2022
-11,5:41.30,,Bakr EL ASRI,2007-01-28,ESP,1f1,"Pista de Atletismo Las Mestas, Gijón (ESP)",2023-07-09,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,341.3,ESP,16.0,2023
-12,5:41.52,,Benjámin SZABÓ,2006-10-20,HUN,3,"Atletski stadion Poljane, Maribor (SLO)",2023-07-29,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,341.52,SLO,16.0,2023
-13,5:42.26,,Haakon Kamlesh Heltzer SØRSTAD,2008-03-01,NOR,1,"Athletic track of National Arena Philip II, Skopje (MKD)",2025-07-26,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,342.26,MKD,17.0,2025
-14,5:42.28,,Jairus KIPKORIR,2009-06-02,KEN,3,"Nyayo National Stadium, Nairobi (KEN)",2025-06-20,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,342.28,KEN,16.0,2025
-15,5:42.41,,Marti TORREGROSSA,2007-07-20,ESP,2,"Centro Galego de Tecnificación, Pontevedra (ESP)",2024-06-22,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,342.41,ESP,16.0,2024
-16,5:42.75,,Mathis DUBOIS,,FRA,2,"Athletic track of National Arena Philip II, Skopje (MKD)",2025-07-26,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,342.75,MKD,,2025
-17,5:43.34,,Bakr EL ASRI,2007-01-28,ESP,3,"Centro Galego de Tecnificación, Pontevedra (ESP)",2024-06-22,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,343.34000000000003,ESP,17.0,2024
-18,5:43.43,,Michał GAJDUS,2008-01-10,POL,3,"Athletic track of National Arena Philip II, Skopje (MKD)",2025-07-26,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,343.43,MKD,17.0,2025
-19,5:43.59,,Matko BELČIĆ,2006-02-13,CRO,4,"Atletski stadion Poljane, Maribor (SLO)",2023-07-29,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,343.59000000000003,SLO,17.0,2023
-20,5:43.66,,Bakr EL ASRI,2007-01-28,ESP,1,"Estádio Dr. Magalhães Pessoa, Leiria (POR)",2023-07-19,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,343.66,POR,16.0,2023
-21,5:43.71,,Michał GAJDUS,2008-01-10,POL,1f1,"Golęcin Stadion, Poznan (POL)",2025-07-12,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,343.71,POL,17.0,2025
-22,5:44.32,,Pere MAS,2008-06-07,ESP,1,"Estadio de Atletismo del Turia, Valencia (ESP)",2025-06-11,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,344.32,ESP,17.0,2025
-23,5:44.57,,Luke BIRDSEYE,2005-02-01,GBR,4f1,"Givat Ram Stadium, Jerusalem (ISR)",2022-07-07,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,344.57,ISR,17.0,2022
-24,5:44.61,,Bakr EL ASRI,2007-01-28,ESP,1,"Estadio Ciudad de Málaga, Málaga (ESP)",2024-07-07,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,344.61,ESP,17.0,2024
-25,5:44.63,,Pere MAS,2008-06-07,ESP,1,"Pistes d'atletisme Gaetà Huguet, Castellón (ESP)",2025-07-06,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,344.63,ESP,17.0,2025
-26,5:45.05,,Pere MAS,2008-06-07,ESP,1,"Pistes d'atletisme Gaetà Huguet, Castellón (ESP)",2024-05-22,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,345.05,ESP,15.0,2024
-27,5:45.10,,Adam BOULHADI,2007-03-15,ESP,2,"Pistes d'atletisme Gaetà Huguet, Castellón (ESP)",2024-05-22,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,345.1,ESP,17.0,2024
-27,5:45.10,,Lucky RAMSEY,2009-12-01,KEN,4,"Nyayo National Stadium, Nairobi (KEN)",2025-06-20,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,345.1,KEN,15.0,2025
-29,5:45.33,,Marti TORREGROSSA,2007-07-20,ESP,2,"Estadio Ciudad de Málaga, Málaga (ESP)",2024-07-07,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,345.33,ESP,16.0,2024
-30,5:45.34,,Marti TORREGROSSA,2007-07-20,ESP,3,"Pistes d'atletisme Gaetà Huguet, Castellón (ESP)",2024-05-22,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,345.34000000000003,ESP,16.0,2024
-31,5:45.52,,Archie NOAKES,2004-12-09,AUS,1,"SOPAC, Sydney (AUS)",2021-04-18,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,345.52,AUS,16.0,2021
-32,5:45.64,,Manuel ZANINI,2006-10-30,ITA,5,"Atletski stadion Poljane, Maribor (SLO)",2023-07-29,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,345.64,SLO,16.0,2023
-33,5:45.74,,Tamirat DEL PRETE,2008-08-21,ITA,1f3,"Stadio Guidobaldi, Rieti (ITA)",2025-06-28,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,345.74,ITA,16.0,2025
-34,5:46.27,,Sergio DEL BARRIO,2005-02-04,ESP,1f1,Jerez de la Frontera (ESP),2022-06-19,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,346.27,ESP,17.0,2022
-35,5:46.41,,Tamirat DEL PRETE,2008-08-21,ITA,4,"Athletic track of National Arena Philip II, Skopje (MKD)",2025-07-26,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,346.41,MKD,16.0,2025
-36,5:46.42,,Haakon Kamlesh Heltzer SØRSTAD,2008-03-01,NOR,1,"Bislett Stadion, Oslo (NOR)",2025-05-24,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,346.42,NOR,17.0,2025
-37,5:46.48,,Sergio DEL BARRIO,2005-02-04,ESP,1,"Stade J. Roland, Franconville (FRA)",2021-07-31,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,346.48,FRA,16.0,2021
-38,5:46.71,,Biel VIVACQUA,2009-07-03,ESP,2,"Pistes d'atletisme Gaetà Huguet, Castellón (ESP)",2025-07-06,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,346.71,ESP,16.0,2025
-39,5:46.79,,Bakr EL ASRI,2007-01-28,ESP,1f1,Banská Bystrica (SVK),2024-07-21,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,346.79,SVK,17.0,2024
-40,5:46.94,,Mario PALENCIA,2006-11-27,ESP,1,"Štadión SNP, Banská Bystrica (SVK)",2022-07-30,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,346.94,SVK,15.0,2022
-41,5:47.11,,Tudor Mihai MARGASOIU,,ROU,5,"Athletic track of National Arena Philip II, Skopje (MKD)",2025-07-26,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,347.11,MKD,,2025
-42,5:47.15,,Antti RISTANEN,,FIN,6,"Athletic track of National Arena Philip II, Skopje (MKD)",2025-07-26,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,347.15,MKD,,2025
-43,5:47.18,,Mario VAZQUEZ,,MEX,1,"Stade Stéphane Diagana, Blagnac (FRA)",2024-06-26,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,347.18,FRA,,2024
-44,5:47.20,,Jānis IESALNIEKS,,URS,,Lvov (URS),1972-01-01,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,347.2,URS,,1972
-45,5:47.21,,Pere MAS,2008-06-07,ESP,7,"Athletic track of National Arena Philip II, Skopje (MKD)",2025-07-26,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,347.21,MKD,17.0,2025
-46,5:47.28,,Sergio DEL BARRIO,2005-02-04,ESP,1f1,"Estadio Iberoamericano, Huelva (ESP)",2021-07-25,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,347.28,ESP,16.0,2021
-47,5:47.53,,Ferenc Soma KOVÁCS,2004-06-14,HUN,1,"Atlétikai Centrum, Szekszárd (HUN)",2021-08-07,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,347.53,HUN,17.0,2021
-47,5:47.53,,Tamirat DEL PRETE,2008-08-21,ITA,1,"Stadio Enzo Blasone, Foligno (ITA)",2025-06-04,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,347.53,ITA,16.0,2025
-49,5:47.54,,Musab KUNDAKÇI,2007-01-07,TUR,1,"Atatürk Stadyumu, Izmir (TUR)",2024-06-02,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,347.54,TUR,17.0,2024
-50,5:47.56,,Manex CIVICO,2005-02-13,ESP,2f1,Jerez de la Frontera (ESP),2022-06-19,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,347.56,ESP,17.0,2022
-51,5:47.71,,Adam ČERVINKA,2007-03-18,CZE,2f1,Banská Bystrica (SVK),2024-07-21,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,347.71,SVK,17.0,2024
-52,5:47.77,,Jakob RÖDEL,2007-07-25,GER,3f1,Banská Bystrica (SVK),2024-07-21,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,347.77,SVK,17.0,2024
-53,5:47.96,,Jan ŠKARBAN,2006-01-19,CZE,2,"Štadión SNP, Banská Bystrica (SVK)",2022-07-30,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,347.96,SVK,16.0,2022
-53,5:47.96,,Jakub FILIPEK,2008-01-24,POL,1,"Stadion Miejski, Walcz (POL)",2025-05-24,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,347.96,POL,17.0,2025
-55,5:48.01,,Daniel MARÁK,2006-10-22,CZE,1,"Mestni stadion, Ptuj (SLO)",2023-06-11,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,348.01,SLO,16.0,2023
-56,5:48.20,,Mert Hanifi ODACI,2007-06-16,TUR,2,"Atatürk Stadyumu, Izmir (TUR)",2024-06-02,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,348.2,TUR,16.0,2024
-57,5:48.23,,Hicham ERRBIBIH,2005-12-02,FRA,1,"Stade J. Roland, Franconville (FRA)",2022-06-19,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,348.23,FRA,16.0,2022
-58,5:48.32,,Ferenc Soma KOVÁCS,2004-06-14,HUN,1,"Sports Stadium CESA VUT, Brno (CZE)",2021-08-14,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,348.32,CZE,17.0,2021
-59,5:48.34,,Mihai-Alin ȘAVLOVSCHI,2006-08-22,ROU,1,"Stadionul Iolanda Balas Soter, Bucureşti (ROU)",2023-07-01,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,348.34000000000003,ROU,16.0,2023
-60,5:48.40,,Alessio ZANDONELLA,,ITA,2f3,"Stadio Guidobaldi, Rieti (ITA)",2025-06-28,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,348.4,ITA,,2025
-61,5:49.08,,Bakr EL ASRI,2007-01-28,ESP,1,"Estadi Municipal Josep Pla, Palafrugell (ESP)",2024-06-08,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,349.08,ESP,17.0,2024
-62,5:49.09,,Alejandro DOMINGO,2007-07-24,ESP,2f1,"Pista de Atletismo Las Mestas, Gijón (ESP)",2023-07-09,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,349.09000000000003,ESP,15.0,2023
-63,5:49.13,,Aniol CLAVELL,2005-05-17,ESP,3f1,Jerez de la Frontera (ESP),2022-06-19,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,349.13,ESP,17.0,2022
-63,5:49.13,,Cuma ÖZCAN,2005-07-15,TUR,5f1,"Givat Ram Stadium, Jerusalem (ISR)",2022-07-07,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,349.13,ISR,16.0,2022
-65,5:49.14,,Jan ŠKARBAN,2006-01-19,CZE,1,"Atletický stadion města Plzně, Plzeň (CZE)",2023-06-04,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,349.14,CZE,17.0,2023
-66,5:49.15,,Lukas BUNCIC,2007-12-27,NOR,1,"Fana Stadion, Bergen (NOR)",2024-05-26,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,349.15,NOR,16.0,2024
-67,5:49.17,,Iwan THOMAS,2007-04-13,GBR,1,"Cardiff Athletic Stadium, Cardiff (GBR)",2024-06-16,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,349.17,GBR,17.0,2024
-68,5:49.21,,Adam ČERVINKA,2007-03-18,CZE,1,"Mestský Stadion, Ostrava (CZE)",2024-06-15,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,349.21,CZE,17.0,2024
-69,5:49.54,,Dolphine CHELIMO,2005-07-10,UGA,3,"Stade Helitas, Caen (FRA)",2022-05-19,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,349.54,FRA,16.0,2022
-70,5:49.57,,Riccardo AMBROSIO,2007-09-30,ITA,1f4,"Stadio M.S. Cozzoli, Molfetta (ITA)",2024-07-05,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,349.57,ITA,16.0,2024
-71,5:49.62,,Manuel ZANINI,2006-10-30,ITA,1f2,"Giovanni Chiggiato Stadium, Caorle (ITA)",2023-06-23,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,349.62,ITA,16.0,2023
-72,5:49.71,,Theo PENARD,2005-04-04,FRA,2,"Stade J. Roland, Franconville (FRA)",2022-06-19,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,349.71,FRA,17.0,2022
-73,5:49.74,,Biel MORANCHO,2006-02-02,ESP,3f1,"Pista de Atletismo Las Mestas, Gijón (ESP)",2023-07-09,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,349.74,ESP,17.0,2023
-74,5:49.90,,Aarno LIEBL,2005-05-21,SUI,1,"Stadion Buchholz, Uster (SUI)",2022-06-10,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,349.9,SUI,17.0,2022
-75,5:49.92,,Alejandro DOMINGO,2007-07-24,ESP,1,"Pista de Atletismo Río Esgueva,, Valladolid (ESP)",2024-05-18,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,349.92,ESP,16.0,2024
-76,5:50.07,,Luca COPPOLA,2007-04-02,ITA,2f4,"Stadio M.S. Cozzoli, Molfetta (ITA)",2024-07-05,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,350.07,ITA,17.0,2024
-77,5:50.11,,Wiktor JANDUŁA,2005-01-22,POL,1f1,"Stadion Sprint, Bielsko-Biala (POL)",2022-07-16,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,350.11,POL,17.0,2022
-78,5:50.20,,Tamirat DEL PRETE,2008-08-21,ITA,1,"Raiffeisen Arena, Bressanone, Trentino-Alto Adige (ITA)",2025-05-25,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,350.2,ITA,16.0,2025
-79,5:50.27,,Musab KUNDAKÇI,2007-01-07,TUR,6,"Atletski stadion Poljane, Maribor (SLO)",2023-07-29,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,350.27,SLO,16.0,2023
-80,5:50.28,,Cesc BOIX,2005-05-29,ESP,4f1,Jerez de la Frontera (ESP),2022-06-19,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,350.28,ESP,17.0,2022
-80,5:50.28,,Musab KUNDAKÇI,2007-01-07,TUR,4f1,Banská Bystrica (SVK),2024-07-21,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,350.28,SVK,17.0,2024
-82,5:50.41,,Andreas GHILARDUCCI,2007-03-27,ITA,3f4,"Stadio M.S. Cozzoli, Molfetta (ITA)",2024-07-05,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,350.41,ITA,17.0,2024
-83,5:50.50,,Jacopo RISI,2006-07-21,ITA,1,"Campo Comunale, Mariano Comense (ITA)",2023-05-21,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,350.5,ITA,16.0,2023
-84,5:50.53,,Romuald BROSSET,2005-05-21,SUI,2,"Stadion Buchholz, Uster (SUI)",2022-06-10,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,350.53,SUI,17.0,2022
-85,5:50.63,,Marti TORREGROSSA,2007-07-20,ESP,5f1,Banská Bystrica (SVK),2024-07-21,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,350.63,SVK,17.0,2024
-86,5:50.91,,Mihai-Alin ȘAVLOVSCHI,2006-08-22,ROU,3,"Štadión SNP, Banská Bystrica (SVK)",2022-07-30,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,350.91,SVK,15.0,2022
-87,5:50.93,,Filippos SIOMOS GKIZAS,2006-11-16,GRE,1f1,"Pampeloponnisiako Stadium, Patra (GRE)",2023-07-01,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,350.93,GRE,16.0,2023
-88,5:50.95,,Jakob RÖDEL,2007-07-25,GER,,"Volksparkstadion, Gotha (GER)",2024-06-09,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,350.95,GER,16.0,2024
-89,5:51.07,,Haakon Kamlesh Heltzer SØRSTAD,2008-03-01,NOR,1h2,"Athletic track of National Arena Philip II, Skopje (MKD)",2025-07-23,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,351.07,MKD,17.0,2025
-90,5:51.08,,Jonas BEUTLER,,SUI,1,"Stadion Kleinholz, Olten (SUI)",2025-05-24,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,351.08,SUI,,2025
-91,5:51.19,,Cameron BLOEM,,AUS,1,"WA Athletics Stadium, Perth (AUS)",2025-04-06,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,351.19,AUS,,2025
-91,5:51.19,,Sergio MORALES,2008-11-05,ESP,3,"Pistes d'atletisme Gaetà Huguet, Castellón (ESP)",2025-07-06,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,351.19,ESP,16.0,2025
-93,5:51.25,,Mathis DUBOIS,,FRA,2h2,"Athletic track of National Arena Philip II, Skopje (MKD)",2025-07-23,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,351.25,MKD,,2025
-94,5:51.31,,Maxence BAL,,FRA,1,"Parc des Sports C. Ehrmann, Nice (FRA)",2025-05-31,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,351.31,FRA,,2025
-95,5:51.32,,Filippos SIOMOS GKIZAS,2006-11-16,GRE,7,"Atletski stadion Poljane, Maribor (SLO)",2023-07-29,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,351.32,SLO,16.0,2023
-96,5:51.52,,Jacob GARDNER,2006-05-05,AUS,1,"Northern Athletic Centre, St Leonards, Launceston (AUS)",2023-10-21,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,351.52,AUS,17.0,2023
-97,5:51.53,,Lukas BUNCIC,2007-12-27,NOR,1,"Friidrettsstadion, Jessheim (NOR)",2024-08-09,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,351.53,NOR,16.0,2024
-98,5:51.57,,Simone VALDUGA,2004-07-21,ITA,1f3,"Stadio Guidobaldi, Rieti (ITA)",2021-07-09,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,351.57,ITA,16.0,2021
-99,5:51.62,,Alex MORENTE,2008-02-16,ESP,2,"Estadio de Atletismo del Turia, Valencia (ESP)",2025-06-11,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,351.62,ESP,17.0,2025
-100,5:51.64,,Michał GAJDUS,2008-01-10,POL,3h2,"Athletic track of National Arena Philip II, Skopje (MKD)",2025-07-23,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,351.64,MKD,17.0,2025
-101,5:51.76,,Riccardo ANDREATTA,2007-05-08,ITA,4f4,"Stadio M.S. Cozzoli, Molfetta (ITA)",2024-07-05,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,351.76,ITA,17.0,2024
-102,5:51.78,,Joseph SAUNDERS,2005-10-13,AUS,1,"Queensland Sport and Athletics Centre, Nathan, Brisbane (AUS)",2022-03-06,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,351.78,AUS,16.0,2022
-103,5:51.84,,Johannes SANDVIK BØ,2006-01-23,NOR,1,"Slottsskogsvallen, Göteborg (SWE)",2023-06-30,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,351.84000000000003,SWE,17.0,2023
-104,5:51.86,,Simone VALDUGA,2004-07-21,ITA,1,"Centro Sportivo, Cles (ITA)",2021-09-25,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,351.86,ITA,17.0,2021
-105,5:51.88,,Dillon MILLARD,2007-02-25,GBR,2,"Cardiff Athletic Stadium, Cardiff (GBR)",2024-06-16,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,351.88,GBR,17.0,2024
-106,5:51.94,,Abdelali BEN SAAD,2005-04-09,ALG,4,"Stade Helitas, Caen (FRA)",2022-05-19,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,351.94,FRA,17.0,2022
-106,5:51.94,,Sumit RATHEE,2006-09-22,IND,1,"Mahatma Gandhi District Stadium Ajjarkad, Udupi (IND)",2023-03-12,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,351.94,IND,16.0,2023
-108,5:51.95,,Musab KUNDAKÇI,2007-01-07,TUR,1,"Atletski stadion Poljane, Maribor (SLO)",2024-07-06,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,351.95,SLO,17.0,2024
-109,5:52.07,,Theo PENARD,2005-04-04,FRA,1,"Stade de L'Ill, Mulhouse (FRA)",2022-07-15,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,352.07,FRA,17.0,2022
-110,5:52.08,,Simon JEUKENNE,2005-09-14,BEL,6f1,"Givat Ram Stadium, Jerusalem (ISR)",2022-07-07,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,352.08,ISR,16.0,2022
-110,5:52.08,,Dillon MILLARD,2007-02-25,GBR,1,"Paula Radcliffe Stadium, Loughborough (GBR)",2024-06-22,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,352.08,GBR,17.0,2024
-110,5:52.08,,Tudor Mihai MARGASOIU,,ROU,4h2,"Athletic track of National Arena Philip II, Skopje (MKD)",2025-07-23,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,352.08,MKD,,2025
-113,5:52.14,,Benjámin SZABÓ,2006-10-20,HUN,2,"Mestni stadion, Ptuj (SLO)",2023-06-11,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,352.14,SLO,16.0,2023
-114,5:52.15,,Luke BIRDSEYE,2005-02-01,GBR,1,"Thames Valley Athletics Stadium, Eton (GBR)",2022-04-02,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,352.15,GBR,17.0,2022
-115,5:52.20,,Jonathan NEETHLING,2008-05-13,AUS,1,"Queensland Sport and Athletics Centre, Nathan, Brisbane (AUS)",2024-12-07,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,352.2,AUS,16.0,2024
-116,5:52.22,,Karl GEBUREK,2006-01-12,GER,8,"Atletski stadion Poljane, Maribor (SLO)",2023-07-29,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,352.22,SLO,17.0,2023
-116,5:52.22,,Eliott RUBECHI,,FRA,2,"Parc des Sports C. Ehrmann, Nice (FRA)",2025-05-31,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,352.22,FRA,,2025
-118,5:52.25,,Manuel ZANINI,2006-10-30,ITA,1f1,"Campo Sportivo Putti, Bergamo (ITA)",2023-05-06,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,352.25,ITA,16.0,2023
-119,5:52.26,,Jan ŠKARBAN,2006-01-19,CZE,7f1,"Givat Ram Stadium, Jerusalem (ISR)",2022-07-07,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,352.26,ISR,16.0,2022
-120,5:52.32,,Adam BOULHADI,2007-03-15,ESP,4f1,"Pista de Atletismo Las Mestas, Gijón (ESP)",2023-07-09,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,352.32,ESP,16.0,2023
-121,5:52.38,,Antti RISTANEN,,FIN,5h2,"Athletic track of National Arena Philip II, Skopje (MKD)",2025-07-23,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,352.38,MKD,,2025
-122,5:52.40,,Hicham ERRBIBIH,2005-12-02,FRA,2,"Stade de L'Ill, Mulhouse (FRA)",2022-07-15,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,352.4,FRA,16.0,2022
-123,5:52.44,,Ulrik Jåvoll HAGEN,,NOR,2,"Bislett Stadion, Oslo (NOR)",2025-05-24,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,352.44,NOR,,2025
-124,5:52.54,,Timeo LIGIER,2007-04-13,FRA,1,"Stade René Dubot, Tassin (FRA)",2024-05-25,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,352.54,FRA,17.0,2024
-125,5:52.55,,Lennox GYULAI,,GER,1,"Enwag-Stadion, Wetzlar (GER)",2025-06-07,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,352.55,GER,,2025
-126,5:52.56,,Timeo LIGIER,2007-04-13,FRA,1,"Stade Helitas, Caen (FRA)",2024-07-06,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,352.56,FRA,17.0,2024
-126,5:52.56,,Lenart MIHALIČ,2008-01-20,SLO,6h2,"Athletic track of National Arena Philip II, Skopje (MKD)",2025-07-23,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,352.56,MKD,17.0,2025
-128,5:52.57,,Bartosz JARECKI,2008-07-26,POL,2f1,"Golęcin Stadion, Poznan (POL)",2025-07-12,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,352.57,POL,16.0,2025
-129,5:52.59,,Toby CHIPPENDALE,2006-12-18,AUS,1,"Queensland Sport and Athletics Centre, Nathan, Brisbane (AUS)",2023-11-05,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,352.59000000000003,AUS,16.0,2023
-130,5:52.62,,Antonio MARMOL,2004-05-08,ESP,2f1,"Estadio Iberoamericano, Huelva (ESP)",2021-07-25,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,352.62,ESP,17.0,2021
-131,5:52.66,,Biel VIVACQUA,2009-07-03,ESP,1,"Estadi Municipal, Granollers (ESP)",2025-05-17,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,352.66,ESP,15.0,2025
-132,5:52.73,,Noa STEINER,2007-05-16,SWE,2,"Slottsskogsvallen, Göteborg (SWE)",2023-06-30,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,352.73,SWE,16.0,2023
-133,5:52.78,,Jakub PIETRULA,,CZE,7h2,"Athletic track of National Arena Philip II, Skopje (MKD)",2025-07-23,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,352.78,MKD,,2025
-133,5:52.78,,Oliver PATTON,2006-09-15,GBR,1f2,"Stantonbury Stadium, Milton Keynes (GBR)",2022-06-04,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,352.78,GBR,15.0,2022
-135,5:52.86,,Gael LEPROHON,2004-07-03,FRA,1,"Stade Jean Leroi, Blois (FRA)",2021-07-02,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,352.86,FRA,17.0,2021
-136,5:52.91,,Gael LEPROHON,2004-07-03,FRA,2,"Stade J. Roland, Franconville (FRA)",2021-07-31,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,352.91,FRA,17.0,2021
-137,5:52.92,,Med Ali HAMDI,,TUN,1,"Stadion Radés, Radés (TUN)",2025-07-05,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,352.92,TUN,,2025
-138,5:52.96,,Gael LEPROHON,2004-07-03,FRA,1,"Stade R. Bobin, Bondoufle (FRA)",2021-07-09,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,352.96,FRA,17.0,2021
-139,5:52.99,,Jakob RÖDEL,2007-07-25,GER,1f2,"Grenzlandstadion, Mönchengladbach (GER)",2024-07-05,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,352.99,GER,16.0,2024
-140,5:53.00,,Adam ČERVINKA,2007-03-18,CZE,1h1,Banská Bystrica (SVK),2024-07-19,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,353.0,SVK,17.0,2024
-141,5:53.01,,Emilien SIMONEAU,2007-02-12,FRA,2,"Stade René Dubot, Tassin (FRA)",2024-05-25,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,353.01,FRA,17.0,2024
-142,5:53.13,,Jonathan NEETHLING,2008-05-13,AUS,1,"WA Athletics Stadium, Perth (AUS)",2025-04-06,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,353.13,AUS,16.0,2025
-143,5:53.15,,Sergio DEL BARRIO,2005-02-04,ESP,1h2,"Givat Ram Stadium, Jerusalem (ISR)",2022-07-05,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,353.15,ISR,17.0,2022
-144,5:53.23,,Alejandro DOMINGO,2007-07-24,ESP,3,"Estadio Ciudad de Málaga, Málaga (ESP)",2024-07-07,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,353.23,ESP,16.0,2024
-145,5:53.27,,Mahmoud ABOU ZEID,2008-02-19,LBN,1,"Camille Chamoun Sports City Stadium, Beirut (LBN)",2025-05-31,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,353.27,LBN,17.0,2025
-146,5:53.30,,Štěpán KAVAN,2005-08-30,CZE,8f1,"Givat Ram Stadium, Jerusalem (ISR)",2022-07-07,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,353.3,ISR,16.0,2022
-147,5:53.40,,Jonas PATRI,2005-11-19,GER,1,"Stadion Hacheney, Dortmund (GER)",2022-06-11,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,353.4,GER,16.0,2022
-148,5:53.41,,Jan ŠKARBAN,2006-01-19,CZE,2h2,"Givat Ram Stadium, Jerusalem (ISR)",2022-07-05,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,353.41,ISR,16.0,2022
-149,5:53.44,,Jacob GARDNER,2006-05-05,AUS,1,"WA Athletics Stadium, Perth (AUS)",2023-12-09,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,353.44,AUS,17.0,2023
-150,5:53.49,,Emilien SIMONEAU,2007-02-12,FRA,1,"Stade Adolphe Cheron, St-Maur (FRA)",2024-06-12,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,353.49,FRA,17.0,2024
-150,5:53.49,,Aarno LIEBL,2005-05-21,SUI,3h2,"Givat Ram Stadium, Jerusalem (ISR)",2022-07-05,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,353.49,ISR,17.0,2022
-150,5:53.49,,Daniel MARÁK,2006-10-22,CZE,1,"Stadion Juliska, Praha (CZE)",2023-06-17,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,353.49,CZE,16.0,2023
-153,5:53.59,,Jakub PIETRULA,,CZE,,"Atletický stadion Turnov, Turnov (CZE)",2025-06-14,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,353.59000000000003,CZE,,2025
-154,5:53.60,,Aarno LIEBL,2005-05-21,SUI,1,"Schönbuchstadion, Pliezhausen (GER)",2022-05-08,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,353.6,GER,16.0,2022
-155,5:53.66,,Saief ZOUIDI,,TUN,1,"Stadion Radés, Radés (TUN)",2022-07-02,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,353.66,TUN,,2022
-156,5:53.67,,Wiktor JANDUŁA,2005-01-22,POL,4h2,"Givat Ram Stadium, Jerusalem (ISR)",2022-07-05,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,353.67,ISR,17.0,2022
-156,5:53.67,,Pepe SANCHEZ,2006-12-21,ESP,1f2,"Pista de Atletismo Las Mestas, Gijón (ESP)",2023-07-09,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,353.67,ESP,16.0,2023
-158,5:53.68,,Kristian BRÅTHEN BØRVE,2006-12-08,NOR,9f1,"Givat Ram Stadium, Jerusalem (ISR)",2022-07-07,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,353.68,ISR,15.0,2022
-158,5:53.68,,Mario PACHECO,2006-05-31,ESP,5f1,"Pista de Atletismo Las Mestas, Gijón (ESP)",2023-07-09,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,353.68,ESP,17.0,2023
-160,5:53.77,,Manuel ZANINI,2006-10-30,ITA,1,"Centro Sportivo Comunale, Varese (ITA)",2022-06-08,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,353.77,ITA,15.0,2022
-161,5:53.78,,Eliott RUBECHI,,FRA,1,"Stade Henri Lux, St-Etienne (FRA)",2025-07-18,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,353.78,FRA,,2025
-162,5:53.81,,Declan SOMERS,2006-08-15,AUS,1,"Queensland Sport and Athletics Centre, Nathan, Brisbane (AUS)",2023-04-15,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,353.81,AUS,16.0,2023
-163,5:53.86,,Eli SARATSIS,,AUS,2,"WA Athletics Stadium, Perth (AUS)",2025-04-06,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,353.86,AUS,,2025
-163,5:53.86,,Musab KUNDAKÇI,2007-01-07,TUR,2h1,Banská Bystrica (SVK),2024-07-19,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,353.86,SVK,17.0,2024
-165,5:53.91,,Noah ESCAT,,FRA,2,"Stade Henri Lux, St-Etienne (FRA)",2025-07-18,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,353.91,FRA,,2025
-165,5:53.91,,Lars OESCHGER,2007-09-11,SUI,1,"Stadion Buchholz, Uster (SUI)",2024-05-24,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,353.91,SUI,16.0,2024
-167,5:53.96,,Antonios ZAMPELIS,2008-11-29,GRE,8,"Athletic track of National Arena Philip II, Skopje (MKD)",2025-07-26,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,353.96,MKD,16.0,2025
-168,5:54.00,,Haakon Kamlesh Heltzer SØRSTAD,2008-03-01,NOR,2,"Friidrettsstadion, Jessheim (NOR)",2024-08-09,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,354.0,NOR,16.0,2024
-169,5:54.03,,Moritz GUTOWSKI,2007-08-29,GER,2f2,"Grenzlandstadion, Mönchengladbach (GER)",2024-07-05,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,354.03,GER,16.0,2024
-170,5:54.04,,Jan ŠKARBAN,2006-01-19,CZE,2,"Stadion Juliska, Praha (CZE)",2023-06-17,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,354.04,CZE,17.0,2023
-171,5:54.07,,Theo PENARD,2005-04-04,FRA,10f1,"Givat Ram Stadium, Jerusalem (ISR)",2022-07-07,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,354.07,ISR,17.0,2022
-172,5:54.09,,Mikel ARAMENDI,2006-01-09,ESP,6f1,"Pista de Atletismo Las Mestas, Gijón (ESP)",2023-07-09,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,354.09000000000003,ESP,17.0,2023
-173,5:54.11,,Petros SANCHEZ,2005-09-20,ESP,5f1,Jerez de la Frontera (ESP),2022-06-19,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,354.11,ESP,16.0,2022
-174,5:54.12,,Benjámin SZABÓ,2006-10-20,HUN,1,"Ikarus BSE Sporttelep, Budapest (HUN)",2023-05-20,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,354.12,HUN,16.0,2023
-175,5:54.17,,Oscar MENDOZA,2006-06-21,ESP,7f1,"Pista de Atletismo Las Mestas, Gijón (ESP)",2023-07-09,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,354.17,ESP,17.0,2023
-176,5:54.23,,Elias MORGENSTERN,,GER,1f2,"Lohrheidestadion, Wattenscheid, Bochum (GER)",2025-07-11,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,354.23,GER,,2025
-176,5:54.23,,Benjámin SZABÓ,2006-10-20,HUN,4,"Štadión SNP, Banská Bystrica (SVK)",2022-07-30,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,354.23,SVK,15.0,2022
-178,5:54.24,,Med Ali ZINOUBI,,TUN,,"Complexe Olympique Mohamed Boudiaf, Algiers (ALG)",2024-07-22,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,354.24,ALG,,2024
-178,5:54.24,,Vitalij GORLUKOVIC,1983-10-17,LTU,1,Kaunas (LTU),2000-07-13,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,354.24,LTU,16.0,2000
-180,5:54.28,,Maxence BAL,,FRA,3,"Stade Henri Lux, St-Etienne (FRA)",2025-07-18,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,354.28,FRA,,2025
-180,5:54.28,,Tiago MACHADO,2006-01-17,POR,9,"Atletski stadion Poljane, Maribor (SLO)",2023-07-29,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,354.28,SLO,17.0,2023
-182,5:54.31,,Jakub FILIPEK,2008-01-24,POL,3h1,Banská Bystrica (SVK),2024-07-19,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,354.31,SVK,16.0,2024
-183,5:54.35,,Wiktor JANDUŁA,2005-01-22,POL,11f1,"Givat Ram Stadium, Jerusalem (ISR)",2022-07-07,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,354.35,ISR,17.0,2022
-184,5:54.37,,Jacopo RISI,2006-07-21,ITA,2f2,"Giovanni Chiggiato Stadium, Caorle (ITA)",2023-06-23,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,354.37,ITA,16.0,2023
-185,5:54.39,,Iwan THOMAS,2007-04-13,GBR,1,"Loughborough University Track, Loughborough (GBR)",2024-06-01,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,354.39,GBR,17.0,2024
-186,5:54.40,,Isacc DUPORTAL,2006-10-15,FRA,1,"Stade de la Margotière, Chateauroux (FRA)",2023-07-14,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,354.4,FRA,16.0,2023
-187,5:54.41,,Thiago Fernando GOYZUETA,2009-02-14,PER,1,"Estadio Atlético de la VIDENA, Lima (PER)",2025-06-07,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,354.41,PER,16.0,2025
-188,5:54.43,,Bellal MAHFOUD,,MAR,1,"King Fahd Sports City, At Ta'if (KSA)",2024-09-14,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,354.43,KSA,,2024
-189,5:54.52,,Theo PENARD,2005-04-04,FRA,1,"Stade Jean Leroi, Blois (FRA)",2022-05-28,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,354.52,FRA,17.0,2022
-190,5:54.54,,Lenart MIHALIČ,2008-01-20,SLO,1,"Stadion Portoval, Novo Mesto (SLO)",2025-06-21,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,354.54,SLO,17.0,2025
-191,5:54.65,,Rubén LEONARDO,2004-02-15,ESP,3f1,"Estadio Iberoamericano, Huelva (ESP)",2021-07-25,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,354.65,ESP,17.0,2021
-191,5:54.65,,Marti TORREGROSSA,2007-07-20,ESP,4h1,Banská Bystrica (SVK),2024-07-19,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,354.65,SVK,17.0,2024
-193,5:54.68,,Nicholas ODORIZZI,,ITA,3f3,"Stadio Guidobaldi, Rieti (ITA)",2025-06-28,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,354.68,ITA,,2025
-194,5:54.71,,Mihai-Alin ȘAVLOVSCHI,2006-08-22,ROU,1,"Stadionul Iolanda Balas Soter, Bucureşti (ROU)",2023-05-13,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,354.71,ROU,16.0,2023
-195,5:54.74,,Théotime POPEA,2008-05-02,SUI,,"Stade d'Octodure, Martigny (SUI)",2024-06-08,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,354.74,SUI,16.0,2024
-195,5:54.74,,Luca COPPOLA,2007-04-02,ITA,1,"Stadio delle Palme, Palermo (ITA)",2024-06-15,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,354.74,ITA,17.0,2024
-197,5:54.78,,Emilien SIMONEAU,2007-02-12,FRA,2,"Stade Helitas, Caen (FRA)",2024-07-06,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,354.78,FRA,17.0,2024
-197,5:54.78,,Amen Allah CHOUCHENE,,TUN,2,"Stadion Radés, Radés (TUN)",2025-07-05,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,354.78,TUN,,2025
-199,5:54.84,,Michele PODETTI,,ITA,4f3,"Stadio Guidobaldi, Rieti (ITA)",2025-06-28,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,354.84000000000003,ITA,,2025
-200,5:54.85,,Hicham ERRBIBIH,2005-12-02,FRA,1,Colmar (FRA),2022-05-29,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,354.85,FRA,16.0,2022
-201,5:54.87,,Marián DRAŽAN,2004-04-09,CZE,1,Kolin (CZE),2021-09-26,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,354.87,CZE,17.0,2021
-202,5:54.90,,Riccardo AMBROSIO,2007-09-30,ITA,5h1,Banská Bystrica (SVK),2024-07-19,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,354.9,SVK,16.0,2024
-203,5:54.94,,Kristian BRÅTHEN BØRVE,2006-12-08,NOR,1,"Fana Stadion, Bergen (NOR)",2023-09-09,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,354.94,NOR,16.0,2023
-204,5:54.97,,Yuhang XIE,2008-11-07,CHN,1f2,"Olympic Sports Center, Huangshi (CHN)",2025-06-28,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,354.97,CHN,16.0,2025
-204,5:54.97,,Haakon Kamlesh Heltzer SØRSTAD,2008-03-01,NOR,1h2,Banská Bystrica (SVK),2024-07-19,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,354.97,SVK,16.0,2024
-206,5:54.99,,Med Ali ZINOUBI,,TUN,1,"Stadion Radés, Radés (TUN)",2024-07-06,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,354.99,TUN,,2024
-207,5:55.01,,Isacc DUPORTAL,2006-10-15,FRA,1,"Stade Municipal Ty Colo, St-Renan (FRA)",2023-06-04,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,355.01,FRA,16.0,2023
-208,5:55.08,,Marco VOGGENREITER,2007-07-12,GER,3f2,"Grenzlandstadion, Mönchengladbach (GER)",2024-07-05,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,355.08,GER,16.0,2024
-209,5:55.09,,Alessio ZANDONELLA,,ITA,2,"Raiffeisen Arena, Bressanone, Trentino-Alto Adige (ITA)",2025-05-25,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,355.09000000000003,ITA,,2025
-210,5:55.12,,Jan ŠKARBAN,2006-01-19,CZE,1,Plzeň (CZE),2022-06-01,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,355.12,CZE,16.0,2022
-211,5:55.13,,Nino EUGSTER,,SUI,2,"Stadion Kleinholz, Olten (SUI)",2025-05-24,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,355.13,SUI,,2025
-212,5:55.20,,Alessio ZANDONELLA,,ITA,1,"Centro di Atletica, Busto Arsizio (ITA)",2025-04-27,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,355.2,ITA,,2025
-213,5:55.23,,Leon STOLTZ,2008-04-15,RSA,1,"Green Point Stadium, Cape Town (RSA)",2025-03-29,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,355.23,RSA,16.0,2025
-214,5:55.25,,Riccardo ANDREATTA,2007-05-08,ITA,1,"Pista Lino Parzani, Rodengo Saiano (ITA)",2024-06-19,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,355.25,ITA,17.0,2024
-215,5:55.35,,Louie ENDRES,,NZL,1,"TET Stadium, Inglewood (NZL)",2022-12-11,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,355.35,NZL,,2022
-215,5:55.35,,Musab KUNDAKÇI,2007-01-07,TUR,1h1,"Atletski stadion Poljane, Maribor (SLO)",2023-07-26,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,355.35,SLO,16.0,2023
-217,5:55.36,,Pere MAS,2008-06-07,ESP,2,"Estadi Municipal Josep Pla, Palafrugell (ESP)",2024-06-08,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,355.36,ESP,16.0,2024
-218,5:55.37,,Dillon MILLARD,2007-02-25,GBR,6h1,Banská Bystrica (SVK),2024-07-19,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,355.37,SVK,17.0,2024
-219,5:55.40,,Mihai-Alin ȘAVLOVSCHI,2006-08-22,ROU,1h2,"Atletski stadion Poljane, Maribor (SLO)",2023-07-26,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,355.4,SLO,16.0,2023
-219,5:55.40,,Daniel MARÁK,2006-10-22,CZE,10,"Atletski stadion Poljane, Maribor (SLO)",2023-07-29,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,355.4,SLO,16.0,2023
-221,5:55.42,,Declan SOMERS,2006-08-15,AUS,1,"WA Athletics Stadium, Perth (AUS)",2023-03-31,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,355.42,AUS,16.0,2023
-222,5:55.43,,Mathias Vanem AAS,2004-04-16,NOR,1,"Trondheim Stadion, Trondheim (NOR)",2021-09-04,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,355.43,NOR,17.0,2021
-223,5:55.52,,Salla MAHESH,2007-08-15,IND,2,"Mahatma Gandhi District Stadium Ajjarkad, Udupi (IND)",2023-03-12,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,355.52,IND,15.0,2023
-224,5:55.53,,Robin BÖRSKEN,,GER,1,"Schönbuchstadion, Pliezhausen (GER)",2024-05-05,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,355.53,GER,,2024
-225,5:55.55,,Haakon Kamlesh Heltzer SØRSTAD,2008-03-01,NOR,1,"Fana Stadion, Bergen (NOR)",2024-05-26,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,355.55,NOR,16.0,2024
-226,5:55.59,,Noah ESCAT,,FRA,1,"Stade J. Le Mouton, Villefranche-sur-Saone (FRA)",2025-06-07,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,355.59000000000003,FRA,,2025
-227,5:55.60,,Simone VALDUGA,2004-07-21,ITA,1,"Raiffeisen Arena, Bressanone, Trentino-Alto Adige (ITA)",2021-09-05,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,355.6,ITA,17.0,2021
-228,5:55.62,,James HODGSON,,CAN,1f2,"Stade University Sherbrooke, Sherbrooke (CAN)",2023-08-13,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,355.62,CAN,,2023
-229,5:55.65,,Sem SERRANO,2006-02-03,BEL,2,"Schönbuchstadion, Pliezhausen (GER)",2022-05-08,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,355.65,GER,16.0,2022
-230,5:55.67,,Victor HERNANDEZ,2006-01-18,ESP,2f2,"Pista de Atletismo Las Mestas, Gijón (ESP)",2023-07-09,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,355.67,ESP,17.0,2023
-231,5:55.69,,Dan KAČUR,,CZE,2,"Mestský Stadion, Ostrava (CZE)",2024-06-15,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,355.69,CZE,,2024
-232,5:55.77,,Jacopo RISI,2006-07-21,ITA,2f1,"Campo Sportivo Putti, Bergamo (ITA)",2023-05-06,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,355.77,ITA,16.0,2023
-233,5:55.78,,Tiago MACHADO,2006-01-17,POR,2h2,"Atletski stadion Poljane, Maribor (SLO)",2023-07-26,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,355.78,SLO,17.0,2023
-234,5:55.84,,Yusef AZARIYAN,2006-06-07,IRI,1,Tashkent (UZB),2023-04-30,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,355.84000000000003,UZB,16.0,2023
-235,5:55.85,,Eetu VALTOLA,2006-05-10,FIN,3,"Slottsskogsvallen, Göteborg (SWE)",2023-06-30,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,355.85,SWE,17.0,2023
-235,5:55.85,,Benjámin SZABÓ,2006-10-20,HUN,3h2,"Atletski stadion Poljane, Maribor (SLO)",2023-07-26,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,355.85,SLO,16.0,2023
-237,5:55.90,,Noah FORTIER,,CAN,2f2,"Stade University Sherbrooke, Sherbrooke (CAN)",2023-08-13,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,355.9,CAN,,2023
-238,5:55.91,,El Hassane BOUKNARI,,MAR,1,"Complexe Sportif Prince Moulay Abdellah, Rabat (MAR)",2022-06-12,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,355.91,MAR,,2022
-239,5:55.92,,Mihai-Alin ȘAVLOVSCHI,2006-08-22,ROU,12f1,"Givat Ram Stadium, Jerusalem (ISR)",2022-07-07,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,355.92,ISR,15.0,2022
-240,5:55.98,,William PEREIRA,,AUS,1,"SA Athletic Stadium, Adelaide (AUS)",2024-04-17,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,355.98,AUS,,2024
-241,5:56.02,,Timeo LIGIER,2007-04-13,FRA,7h1,Banská Bystrica (SVK),2024-07-19,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,356.02,SVK,17.0,2024
-242,5:56.18,,Sergio DEL BARRIO,2005-02-04,ESP,1,Hueska (ESP),2021-07-10,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,356.18,ESP,16.0,2021
-243,5:56.21,,Nicholas MCGILL,,AUS,1,"HFC Bank Stadium, Suva (FIJ)",2024-06-06,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,356.21,FIJ,,2024
-244,5:56.24,,Matthias APEL,,GER,2f2,"Lohrheidestadion, Wattenscheid, Bochum (GER)",2025-07-11,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,356.24,GER,,2025
-245,5:56.30,,Robin BÖRSKEN,,GER,4f2,"Grenzlandstadion, Mönchengladbach (GER)",2024-07-05,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,356.3,GER,,2024
-246,5:56.31,,Eetu VALTOLA,2006-05-10,FIN,11,"Atletski stadion Poljane, Maribor (SLO)",2023-07-29,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,356.31,SLO,17.0,2023
-247,5:56.32,,Pedro VICIOSA,2004-06-13,ESP,1,Valladolid (ESP),2021-07-08,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,356.32,ESP,17.0,2021
-247,5:56.32,,Emilien SIMONEAU,2007-02-12,FRA,1,"Stadium Municipal, Albi (FRA)",2024-07-19,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,356.32,FRA,17.0,2024
-249,5:56.37,,Máté SOLYMÁRI,2006-11-17,HUN,3,"Mestni stadion, Ptuj (SLO)",2023-06-11,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,356.37,SLO,16.0,2023
-250,5:56.41,,Nicholas MCGILL,,AUS,2,"SA Athletic Stadium, Adelaide (AUS)",2024-04-17,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,356.41,AUS,,2024
-251,5:56.43,,Diyar ERGÜVEN,2004-11-13,TUR,1,Mersin (TUR),2021-08-26,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,356.43,TUR,16.0,2021
-252,5:56.48,,Iker IBARGUEN,2006-08-19,ESP,6f1,Jerez de la Frontera (ESP),2022-06-19,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,356.48,ESP,15.0,2022
-253,5:56.49,,Jacopo RISI,2006-07-21,ITA,1f1,"Centro Al Bione, Lecco (ITA)",2022-05-07,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,356.49,ITA,15.0,2022
-254,5:56.50,,Yassine CHOUFA,2005-03-12,MAR,1,"Complexe Sportif Prince Moulay Abdellah, Rabat (MAR)",2022-07-16,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,356.5,MAR,17.0,2022
-254,5:56.50,,Ramazan KUNDAKÇI,2005-01-07,TUR,1f2,"Atıcılar Atletizm Sahası, Bursa (TUR)",2022-05-26,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,356.5,TUR,17.0,2022
-256,5:56.56,,Achref FEGHOUL,2007-03-03,ALG,1,"Complexe Olympique Mohamed Boudiaf, Algiers (ALG)",2024-07-22,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,356.56,ALG,17.0,2024
-257,5:56.59,,Daniel MARÁK,2006-10-22,CZE,1,"General Klapálek ́s stadium, Nové Město nad Metují (CZE)",2023-05-06,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,356.59000000000003,CZE,16.0,2023
-258,5:56.68,,Enrico RICCI,2006-04-15,ITA,1,"Campo CUS, Bologna (ITA)",2023-05-27,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,356.68,ITA,17.0,2023
-259,5:56.69,,Johannes SANDVIK BØ,2006-01-23,NOR,4h2,"Atletski stadion Poljane, Maribor (SLO)",2023-07-26,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,356.69,SLO,17.0,2023
-260,5:56.71,,Romeo CHAMALOT,,FRA,2,"Stade Adolphe Cheron, St-Maur (FRA)",2024-06-12,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,356.71,FRA,,2024
-261,5:56.72,,Jakob RÖDEL,2007-07-25,GER,2h2,Banská Bystrica (SVK),2024-07-19,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,356.72,SVK,16.0,2024
-261,5:56.72,,Michele PODETTI,,ITA,3,"Raiffeisen Arena, Bressanone, Trentino-Alto Adige (ITA)",2025-05-25,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,356.72,ITA,,2025
-263,5:56.78,,Iheb KHASKHOUSSI,2006-03-27,TUN,1,"Stadion Radés, Radés (TUN)",2023-07-08,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,356.78,TUN,17.0,2023
-264,5:56.84,,Elly KIPLIMO,2008-11-10,KEN,5,"Nyayo National Stadium, Nairobi (KEN)",2025-06-20,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,356.84000000000003,KEN,16.0,2025
-264,5:56.84,,Ivar ENGELS,2007-10-05,NED,1,"Atletiekbaan Brakkenstein, Nijmegen (NED)",2024-05-18,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,356.84000000000003,NED,16.0,2024
-266,5:56.88,,Ádám PETRÓ,2007-07-27,HUN,1,"Štadión PFK, Piešťany (SVK)",2024-07-05,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,356.88,SVK,16.0,2024
-267,5:56.92,,Antti RISTANEN,,FIN,1,"Paavo Nurmen Stadion, Turku (FIN)",2025-07-12,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,356.92,FIN,,2025
-268,5:56.95,,Mathias Vanem AAS,2004-04-16,NOR,1,"Guldbergaunet Idrettspark, Steinkjer (NOR)",2021-05-30,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,356.95,NOR,17.0,2021
-269,5:56.99,,Daniel MARÁK,2006-10-22,CZE,5h2,"Atletski stadion Poljane, Maribor (SLO)",2023-07-26,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,356.99,SLO,16.0,2023
-270,5:57.03,,Yemane MULUGETA,,ERI,1f2,"Stade University Sherbrooke, Sherbrooke (CAN)",2022-08-07,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,357.03,CAN,,2022
-271,5:57.04,,Pere MAS,2008-06-07,ESP,1h1,"Athletic track of National Arena Philip II, Skopje (MKD)",2025-07-23,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,357.04,MKD,17.0,2025
-272,5:57.06,,Marti TORREGROSSA,2007-07-20,ESP,8f1,"Pista de Atletismo Las Mestas, Gijón (ESP)",2023-07-09,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,357.06,ESP,15.0,2023
-273,5:57.07,,Simon JEUKENNE,2005-09-14,BEL,5h2,"Givat Ram Stadium, Jerusalem (ISR)",2022-07-05,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,357.07,ISR,16.0,2022
-274,5:57.08,,Eliott RUBECHI,,FRA,1,"Stade Henri Lux, St-Etienne (FRA)",2025-06-28,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,357.08,FRA,,2025
-275,5:57.10,,Furkan MUTLU,2005-05-09,TUR,2f2,"Atıcılar Atletizm Sahası, Bursa (TUR)",2022-05-26,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,357.1,TUR,17.0,2022
-276,5:57.11,,Alejandro DOMINGO,2007-07-24,ESP,2,"Estádio Dr. Magalhães Pessoa, Leiria (POR)",2023-07-19,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,357.11,POR,15.0,2023
-277,5:57.13,,Michał GAJDUS,2008-01-10,POL,3h2,Banská Bystrica (SVK),2024-07-19,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,357.13,SVK,16.0,2024
-278,5:57.14,,Eden CHOMAUD,,FRA,2,"Stadium Municipal, Albi (FRA)",2024-07-19,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,357.14,FRA,,2024
-279,5:57.15,,Bakr EL ASRI,2007-01-28,ESP,4h2,Banská Bystrica (SVK),2024-07-19,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,357.15,SVK,17.0,2024
-280,5:57.18,,Jan ŠKARBAN,2006-01-19,CZE,1,"Vitkovice, Ostrava (CZE)",2022-06-18,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,357.18,CZE,16.0,2022
-281,5:57.20,,Manex CIVICO,2005-02-13,ESP,1h1,"Givat Ram Stadium, Jerusalem (ISR)",2022-07-05,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,357.2,ISR,17.0,2022
-282,5:57.23,,Ádám PETRÓ,2007-07-27,HUN,1,"Bregyó Athletic Center, Székesfehérvár (HUN)",2024-06-15,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,357.23,HUN,16.0,2024
-283,5:57.24,,Ádám PETRÓ,2007-07-27,HUN,1,"Dr. Koltai Jenő Sportközpont, Budapest (HUN)",2024-05-12,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,357.24,HUN,16.0,2024
-284,5:57.25,,Dan KAČUR,,CZE,5h2,Banská Bystrica (SVK),2024-07-19,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,357.25,SVK,,2024
-285,5:57.26,,Romeo CHAMALOT,,FRA,3,"Stade Helitas, Caen (FRA)",2024-07-06,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,357.26,FRA,,2024
-286,5:57.33,,Filippos SIOMOS GKIZAS,2006-11-16,GRE,1,"Municipal Stadium, Eleftheroupoli (GRE)",2023-05-04,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,357.33,GRE,16.0,2023
-287,5:57.36,,Jonas BEUTLER,,SUI,1,"Schönbuchstadion, Pliezhausen (GER)",2025-05-18,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,357.36,GER,,2025
-288,5:57.40,,Bastien JACQ,,FRA,3,"Parc des Sports C. Ehrmann, Nice (FRA)",2025-05-31,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,357.4,FRA,,2025
-289,5:57.41,,Marco VOGGENREITER,2007-07-12,GER,2,"Schönbuchstadion, Pliezhausen (GER)",2024-05-05,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,357.41,GER,16.0,2024
-290,5:57.42,,Bastien JACQ,,FRA,2,"Stade Henri Lux, St-Etienne (FRA)",2025-06-28,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,357.42,FRA,,2025
-291,5:57.46,,Lukas CABEZON,2008-08-14,ESP,4,"Pistes d'atletisme Gaetà Huguet, Castellón (ESP)",2025-07-06,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,357.46,ESP,16.0,2025
-292,5:57.47,,Jonas BEUTLER,,SUI,9,"Athletic track of National Arena Philip II, Skopje (MKD)",2025-07-26,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,357.47,MKD,,2025
-293,5:57.49,,Kais BEN AISSA,,FRA,2,"Stade de la Margotière, Chateauroux (FRA)",2023-07-14,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,357.49,FRA,,2023
-294,5:57.50,,Alex HONTECILLAS,2007-10-03,ESP,4,"Estadio Ciudad de Málaga, Málaga (ESP)",2024-07-07,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,357.5,ESP,16.0,2024
-295,5:57.51,,Karl GEBUREK,2006-01-12,GER,6h2,"Atletski stadion Poljane, Maribor (SLO)",2023-07-26,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,357.51,SLO,17.0,2023
-296,5:57.54,,Mert Hanifi ODACI,2007-06-16,TUR,6h2,Banská Bystrica (SVK),2024-07-19,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,357.54,SVK,17.0,2024
-297,5:57.55,,Modimo Oratile MASHIGO,2006-10-11,RSA,1,"Msunduzi Athletics Stadium, Pietermaritzburg (RSA)",2023-03-25,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,357.55,RSA,16.0,2023
-298,5:57.56,,Saada ZENNADI,,FRA,4,"Stade Henri Lux, St-Etienne (FRA)",2025-07-18,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,357.56,FRA,,2025
-299,5:57.58,,Luca COPPOLA,2007-04-02,ITA,7h2,Banská Bystrica (SVK),2024-07-19,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,357.58,SVK,17.0,2024
-300,5:57.59,,Titus MUTHAMA,2008-12-06,KEN,6,"Nyayo National Stadium, Nairobi (KEN)",2025-06-20,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,357.59000000000003,KEN,16.0,2025
-301,5:57.61,,Alessio REATO,2007-04-29,ITA,5f4,"Stadio M.S. Cozzoli, Molfetta (ITA)",2024-07-05,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,357.61,ITA,17.0,2024
-302,5:57.63,,Mathis DUBOIS,,FRA,3,"Stade Henri Lux, St-Etienne (FRA)",2025-06-28,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,357.63,FRA,,2025
-303,5:57.69,,Luke BIRDSEYE,2005-02-01,GBR,2f2,"Stantonbury Stadium, Milton Keynes (GBR)",2022-06-04,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,357.69,GBR,17.0,2022
-303,5:57.69,,Oscar THEBAUD,2004-07-07,FRA,2,"Stade R. Bobin, Bondoufle (FRA)",2021-07-09,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,357.69,FRA,17.0,2021
-305,5:57.71,,Conor SULLIVAN,,AUS,1,"Queensland Sport and Athletics Centre, Nathan, Brisbane (AUS)",2024-12-07,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,357.71,AUS,,2024
-306,5:57.72,,Paul WALOCHNY,2005-08-14,GER,2,"Stadion Hacheney, Dortmund (GER)",2022-06-11,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,357.72,GER,16.0,2022
-307,5:57.74,,Noah MÖLLER,,GER,3f2,"Lohrheidestadion, Wattenscheid, Bochum (GER)",2025-07-11,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,357.74,GER,,2025
-308,5:57.75,,Arthur JANSSENS,2007-04-15,BEL,8h2,Banská Bystrica (SVK),2024-07-19,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,357.75,SVK,17.0,2024
-309,5:57.77,,Levente PÁLVÖLGYI,2004-06-12,HUN,2,"Sports Stadium CESA VUT, Brno (CZE)",2021-08-14,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,357.77,CZE,17.0,2021
-309,5:57.77,,Jakub PIETRULA,,CZE,10,"Athletic track of National Arena Philip II, Skopje (MKD)",2025-07-26,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,357.77,MKD,,2025
-311,5:57.82,,Andreas GHILARDUCCI,2007-03-27,ITA,2,"Atletiekbaan Brakkenstein, Nijmegen (NED)",2024-05-18,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,357.82,NED,17.0,2024
-312,5:57.83,,Oliver PATTON,2006-09-15,GBR,6h2,"Givat Ram Stadium, Jerusalem (ISR)",2022-07-05,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,357.83,ISR,15.0,2022
-312,5:57.83,,Anton MARTINEZ,2004-05-15,ESP,1,Vigo (ESP),2021-06-13,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,357.83,ESP,17.0,2021
-314,5:57.87,,Dillon MILLARD,2007-02-25,GBR,6f1,Banská Bystrica (SVK),2024-07-21,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,357.87,SVK,17.0,2024
-315,5:57.88,,Adrian MOSCARDO,2006-05-25,ESP,3f2,"Pista de Atletismo Las Mestas, Gijón (ESP)",2023-07-09,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,357.88,ESP,17.0,2023
-315,5:57.88,,Rubén LEONARDO,2004-02-15,ESP,1,Valladolid (ESP),2021-05-29,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,357.88,ESP,17.0,2021
-317,5:57.90,,Mert Hanifi ODACI,2007-06-16,TUR,1,"Zeytinköy Atletizm Pisti, Antalya (TUR)",2024-04-07,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,357.9,TUR,16.0,2024
-317,5:57.90,,Iwan THOMAS,2007-04-13,GBR,1,"Alexander Stadium, Birmingham (GBR)",2024-05-08,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,357.9,GBR,17.0,2024
-319,5:57.92,,Pere MAS,2008-06-07,ESP,5,"Estadio Ciudad de Málaga, Málaga (ESP)",2024-07-07,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,357.92,ESP,16.0,2024
-319,5:57.92,,Padraig HEFFERNAN,2006-02-10,AUS,2,"Queensland Sport and Athletics Centre, Nathan, Brisbane (AUS)",2023-11-05,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,357.92,AUS,17.0,2023
-321,5:57.94,,Hicham ERRBIBIH,2005-12-02,FRA,2h1,"Givat Ram Stadium, Jerusalem (ISR)",2022-07-05,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,357.94,ISR,16.0,2022
-322,5:57.97,,Tamirat DEL PRETE,2008-08-21,ITA,2h1,"Athletic track of National Arena Philip II, Skopje (MKD)",2025-07-23,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,357.97,MKD,16.0,2025
-323,5:58.02,,Jules GEFFROY,,FRA,3,"Stade J. Roland, Franconville (FRA)",2022-06-19,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,358.02,FRA,,2022
-324,5:58.09,,Emmanouil VARDAS,2007-11-26,GRE,2,"Atletski stadion Poljane, Maribor (SLO)",2024-07-06,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,358.09000000000003,SLO,16.0,2024
-325,5:58.10,,Mihai-Alin ȘAVLOVSCHI,2006-08-22,ROU,1,"Fuar Alanı Atletizm Sahası, Sivas (TUR)",2023-09-02,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,358.1,TUR,17.0,2023
-325,5:58.10,,Eetu VALTOLA,2006-05-10,FIN,1,"Olympiastadion, Stockholm (SWE)",2023-09-02,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,358.1,SWE,17.0,2023
-327,5:58.15,,Lev PROBST,2007-06-23,RUS,1,"SGAFKST Arena, Smolensk (RUS)",2024-06-29,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,358.15,RUS,17.0,2024
-327,5:58.15,,Sem SERRANO,2006-02-03,BEL,5,"Štadión SNP, Banská Bystrica (SVK)",2022-07-30,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,358.15,SVK,16.0,2022
-329,5:58.16,,Simon JEUKENNE,2005-09-14,BEL,1,"Sportpark De Motten, Tongeren (BEL)",2022-05-20,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,358.16,BEL,16.0,2022
-330,5:58.17,,Ádám PETRÓ,2007-07-27,HUN,8h1,Banská Bystrica (SVK),2024-07-19,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,358.17,SVK,16.0,2024
-331,5:58.19,,Til STEPHAN,,GER,5f2,"Grenzlandstadion, Mönchengladbach (GER)",2024-07-05,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,358.19,GER,,2024
-332,5:58.24,,Davide DELAINI,2005-10-21,ITA,2f1,"Centro Al Bione, Lecco (ITA)",2022-05-07,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,358.24,ITA,16.0,2022
-333,5:58.25,,Pol CARRERA,2007-02-08,ESP,6,"Estadio Ciudad de Málaga, Málaga (ESP)",2024-07-07,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,358.25,ESP,17.0,2024
-334,5:58.27,,Samuel MATAMOROS,2007-05-17,ESP,7,"Estadio Ciudad de Málaga, Málaga (ESP)",2024-07-07,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,358.27,ESP,17.0,2024
-334,5:58.27,,Damien PECHON,,LUX,3h1,"Athletic track of National Arena Philip II, Skopje (MKD)",2025-07-23,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,358.27,MKD,,2025
-336,5:58.31,,Vincent MARREC,,FRA,1,"Stade Adolphe Cheron, St-Maur (FRA)",2023-06-14,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,358.31,FRA,,2023
-337,5:58.32,,Eden CHOMAUD,,FRA,1,"Stade de Loch, Auray (FRA)",2024-06-01,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,358.32,FRA,,2024
-338,5:58.34,,Jonas BEUTLER,,SUI,4h1,"Athletic track of National Arena Philip II, Skopje (MKD)",2025-07-23,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,358.34000000000003,MKD,,2025
-338,5:58.34,,Biel VIVACQUA,2009-07-03,ESP,1,"Parque Olímpico Pista De Atletismo, Luque, Asunción (PAR)",2025-07-19,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,358.34000000000003,PAR,16.0,2025
-340,5:58.35,,Eliot DOUAUD,2004-02-10,FRA,3,"Stade R. Bobin, Bondoufle (FRA)",2021-07-09,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,358.35,FRA,17.0,2021
-341,5:58.36,,Kristian BRÅTHEN BØRVE,2006-12-08,NOR,3h1,"Givat Ram Stadium, Jerusalem (ISR)",2022-07-05,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,358.36,ISR,15.0,2022
-341,5:58.36,,Ulrik Jåvoll HAGEN,,NOR,1,"Slottsskogsvallen, Göteborg (SWE)",2024-07-05,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,358.36,SWE,,2024
-341,5:58.36,,Matko BELČIĆ,2006-02-13,CRO,1f1,"Stadion Branko Čavlović-Čavlek, Karlovac (CRO)",2023-06-04,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,358.36,CRO,17.0,2023
-344,5:58.39,,Roger GOMEZ,2007-01-26,ESP,8,"Estadio Ciudad de Málaga, Málaga (ESP)",2024-07-07,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,358.39,ESP,17.0,2024
-345,5:58.40,,Leon STOLTZ,2008-04-15,RSA,1,"Pilditch Stadium, Pretoria (RSA)",2025-03-15,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,358.4,RSA,16.0,2025
-346,5:58.46,,Kilani NJEMA,2008-08-05,BEL,1,"Wouter Weylandtstadion, Gentbrugge (BEL)",2025-06-25,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,358.46,BEL,16.0,2025
-347,5:58.48,,Luis RODRIGUEZ,2006-08-27,ESP,9f1,"Pista de Atletismo Las Mestas, Gijón (ESP)",2023-07-09,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,358.48,ESP,16.0,2023
-348,5:58.49,,Harvey CRAMB,,AUS,1,"Queensland Sport and Athletics Centre, Nathan, Brisbane (AUS)",2021-11-06,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,358.49,AUS,,2021
-349,5:58.56,,Mihai-Alin ȘAVLOVSCHI,2006-08-22,ROU,4h1,"Givat Ram Stadium, Jerusalem (ISR)",2022-07-05,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,358.56,ISR,15.0,2022
-350,5:58.57,,Joseph SAUNDERS,2005-10-13,AUS,1,"Queensland Sport and Athletics Centre, Nathan, Brisbane (AUS)",2022-10-15,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,358.57,AUS,17.0,2022
-351,5:58.58,,Henrique RODRIGUES,2008-02-28,BRA,2,"Parque Olímpico Pista De Atletismo, Luque, Asunción (PAR)",2025-07-19,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,358.58,PAR,17.0,2025
-352,5:58.60,,Pol CARRERA,2007-02-08,ESP,4,"Pistes d'atletisme Gaetà Huguet, Castellón (ESP)",2024-05-22,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,358.6,ESP,17.0,2024
-353,5:58.61,,Máté SOLYMÁRI,2006-11-17,HUN,1,"Olimpiai Sportpark, Győr (HUN)",2022-09-03,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,358.61,HUN,15.0,2022
-353,5:58.61,,Anas ELHANI,,TUN,3,"Stadion Radés, Radés (TUN)",2025-07-05,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,358.61,TUN,,2025
-355,5:58.64,,Marcus ASKER,2005-01-20,SWE,7h2,"Givat Ram Stadium, Jerusalem (ISR)",2022-07-05,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,358.64,ISR,17.0,2022
-356,5:58.69,,Sumit RATHEE,2006-09-22,IND,2,Tashkent (UZB),2023-04-30,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,358.69,UZB,16.0,2023
-357,5:58.70,,Musab KUNDAKÇI,2007-01-07,TUR,1,"Nevin Yanıt Atletizm Pisti, Mersin (TUR)",2023-05-27,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,358.7,TUR,16.0,2023
-358,5:58.72,,Mats VERVOORT,2007-07-06,BEL,3,"Atletiekbaan Brakkenstein, Nijmegen (NED)",2024-05-18,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,358.72,NED,16.0,2024
-359,5:58.73,,Noah ESCAT,,FRA,4,"Stade Henri Lux, St-Etienne (FRA)",2025-06-28,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,358.73,FRA,,2025
-360,5:58.74,,Damien PECHON,,LUX,11,"Athletic track of National Arena Philip II, Skopje (MKD)",2025-07-26,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,358.74,MKD,,2025
-361,5:58.76,,Eden CHOMAUD,,FRA,4,"Stade Helitas, Caen (FRA)",2024-07-06,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,358.76,FRA,,2024
-362,5:58.77,,Gerhard BOSSERT,2007-07-12,RSA,1,"Pilditch Stadium, Pretoria (RSA)",2024-03-23,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,358.77,RSA,16.0,2024
-363,5:58.79,,Ulrik Jåvoll HAGEN,,NOR,9h1,Banská Bystrica (SVK),2024-07-19,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,358.79,SVK,,2024
-364,5:58.81,,Eetu VALTOLA,2006-05-10,FIN,7h2,"Atletski stadion Poljane, Maribor (SLO)",2023-07-26,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,358.81,SLO,17.0,2023
-365,5:58.82,,Mikel ABAD,2006-03-11,ESP,4f2,"Pista de Atletismo Las Mestas, Gijón (ESP)",2023-07-09,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,358.82,ESP,17.0,2023
-366,5:58.83,,Arseniy ARBUZOV,2006-11-28,RUS,1,"Luzhniki North Arena, Moskva (RUS)",2023-07-01,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,358.83,RUS,16.0,2023
-367,5:58.85,,Luke BIRDSEYE,2005-02-01,GBR,5h1,"Givat Ram Stadium, Jerusalem (ISR)",2022-07-05,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,358.85,ISR,17.0,2022
-368,5:58.92,,Samuel LEITNER,2004-08-12,AUT,1,"Atletski Stadion, Kraljevo (SRB)",2021-08-14,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,358.92,SRB,17.0,2021
-369,5:58.93,,Joseph SAUNDERS,2005-10-13,AUS,2,"Queensland Sport and Athletics Centre, Nathan, Brisbane (AUS)",2021-11-06,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,358.93,AUS,16.0,2021
-370,5:58.94,,Johannes SANDVIK BØ,2006-01-23,NOR,12,"Atletski stadion Poljane, Maribor (SLO)",2023-07-29,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,358.94,SLO,17.0,2023
-370,5:58.94,,Modimo Oratile MASHIGO,2006-10-11,RSA,1,"Germiston Stadium, Johannesburg (RSA)",2023-03-11,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,358.94,RSA,16.0,2023
-372,5:58.96,,Tony THOMAS,2007-03-11,AUS,1,"Queensland Sport and Athletics Centre, Nathan, Brisbane (AUS)",2023-04-15,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,358.96,AUS,16.0,2023
-373,5:58.97,,Edgar HUILLCA,2005-12-08,PER,1,São Paulo (BRA),2022-09-10,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,358.97,BRA,16.0,2022
-374,5:59.01,,Charles BARRETT,2007-05-23,AUS,1,"Lakeside Stadium, Melbourne (AUS)",2024-10-27,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,359.01,AUS,17.0,2024
-375,5:59.02,,Moritz GUTOWSKI,2007-08-29,GER,3,"Schönbuchstadion, Pliezhausen (GER)",2024-05-05,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,359.02,GER,16.0,2024
-375,5:59.02,,Tjaž DJAIP BARTOLJ,2007-10-15,SLO,3,"Atletski stadion Poljane, Maribor (SLO)",2024-07-06,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,359.02,SLO,16.0,2024
-377,5:59.03,,Mario VAZQUEZ,,MEX,1,"Pista de Atletismo del Centro Deportivo Benito Juárez, Mazatlán (MEX)",2024-03-22,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,359.03,MEX,,2024
-378,5:59.09,,Alex HONTECILLAS,2007-10-03,ESP,5,"Pistes d'atletisme Gaetà Huguet, Castellón (ESP)",2024-05-22,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,359.09000000000003,ESP,16.0,2024
-379,5:59.11,,Saada ZENNADI,,FRA,1,"Stade Adolphe Cheron, St-Maur (FRA)",2025-07-03,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,359.11,FRA,,2025
-380,5:59.12,,Antonios ZAMPELIS,2008-11-29,GRE,1f2,"Pampeloponnisiako Stadium, Patra (GRE)",2025-06-21,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,359.12,GRE,16.0,2025
-380,5:59.12,,Alexis LEDEAN,2005-07-01,FRA,1,Redon (FRA),2022-07-03,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,359.12,FRA,17.0,2022
-382,5:59.15,,Riccardo AMBROSIO,2007-09-30,ITA,7f1,Banská Bystrica (SVK),2024-07-21,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,359.15,SVK,16.0,2024
-383,5:59.16,,Lennox GYULAI,,GER,1,"Heinz-Steyer-Stadion, Dresden (GER)",2025-05-24,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,359.16,GER,,2025
-383,5:59.16,,Antti RISTANEN,,FIN,1,"Klaukkalan urheilukenttä, Nurmijärvi (FIN)",2025-05-25,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,359.16,FIN,,2025
-385,5:59.17,,Roger GOMEZ,2007-01-26,ESP,3,"Estadi Municipal Josep Pla, Palafrugell (ESP)",2024-06-08,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,359.17,ESP,17.0,2024
-386,5:59.20,,Levin SAVEUR,2007-09-11,GER,4,"Schönbuchstadion, Pliezhausen (GER)",2024-05-05,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,359.2,GER,16.0,2024
-387,5:59.24,,Isacc DUPORTAL,2006-10-15,FRA,2h1,"Atletski stadion Poljane, Maribor (SLO)",2023-07-26,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,359.24,SLO,16.0,2023
-387,5:59.24,,Antonios ZAMPELIS,2008-11-29,GRE,5h1,"Athletic track of National Arena Philip II, Skopje (MKD)",2025-07-23,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,359.24,MKD,16.0,2025
-389,5:59.25,,Manex CIVICO,2005-02-13,ESP,13f1,"Givat Ram Stadium, Jerusalem (ISR)",2022-07-07,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,359.25,ISR,17.0,2022
-390,5:59.26,,Michał GAJDUS,2008-01-10,POL,8f1,Banská Bystrica (SVK),2024-07-21,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,359.26,SVK,16.0,2024
-391,5:59.39,,Hicham ERRBIBIH,2005-12-02,FRA,4,"Stade R. Bobin, Bondoufle (FRA)",2021-07-09,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,359.39,FRA,15.0,2021
-392,5:59.40,,Alex SIERPES,2008-10-29,ESP,1,"Parque Desportivo de Ramalde, Porto (POR)",2024-05-01,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,359.4,POR,15.0,2024
-393,5:59.42,,Toby CHIPPENDALE,2006-12-18,AUS,1,"Queensland Sport and Athletics Centre, Nathan, Brisbane (AUS)",2022-10-15,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,359.42,AUS,15.0,2022
-394,5:59.43,,El Hassane BOUKNARI,,MAR,2,"Complexe Sportif Prince Moulay Abdellah, Rabat (MAR)",2022-07-16,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,359.43,MAR,,2022
-394,5:59.43,,Tomáš RUŽA,,CZE,2,"Vitkovice, Ostrava (CZE)",2022-06-18,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,359.43,CZE,,2022
-396,5:59.45,,Riccardo AMBROSIO,2007-09-30,ITA,1,"Raiffeisen Arena, Bressanone, Trentino-Alto Adige (ITA)",2024-05-26,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,359.45,ITA,16.0,2024
-397,5:59.47,,Asher PARKIN,2007-03-27,AUS,2,"HFC Bank Stadium, Suva (FIJ)",2024-06-06,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,359.47,FIJ,17.0,2024
-397,5:59.47,,Jacob GARDNER,2006-05-05,AUS,2,"Queensland Sport and Athletics Centre, Nathan, Brisbane (AUS)",2023-04-15,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,359.47,AUS,16.0,2023
-399,5:59.48,,Mustafa MOHSIN,2006-03-26,IRQ,1,Al-Kuwait (KUW),2022-10-16,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,359.48,KUW,16.0,2022
-400,5:59.51,,Antti RISTANEN,,FIN,1,"Stadion, Lahti (FIN)",2025-07-04,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,359.51,FIN,,2025
-401,5:59.54,,Jhonnatan Omar REYES,,MEX,2,"Pista de Atletismo del Centro Deportivo Benito Juárez, Mazatlán (MEX)",2024-03-22,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,359.54,MEX,,2024
-402,5:59.58,,Mathis DUBOIS,,FRA,1,"Stade Jacques Forestier, Aix-les-Bains (FRA)",2024-10-13,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,359.58,FRA,,2024
-403,5:59.62,,Oliver PATTON,2006-09-15,GBR,1,"Birmingham University Athletics Track, Birmingham (GBR)",2022-05-14,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,359.62,GBR,15.0,2022
-404,5:59.63,,Théotime POPEA,2008-05-02,SUI,3,"Stadion Kleinholz, Olten (SUI)",2025-05-24,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,359.63,SUI,17.0,2025
-404,5:59.63,,Giordano CONTIGIANI,,ITA,5f3,"Stadio Guidobaldi, Rieti (ITA)",2025-06-28,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,359.63,ITA,,2025
-404,5:59.63,,Florian HUEMER,,AUT,8h2,"Athletic track of National Arena Philip II, Skopje (MKD)",2025-07-23,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,359.63,MKD,,2025
-407,5:59.65,,Marcus ASKER,2005-01-20,SWE,14f1,"Givat Ram Stadium, Jerusalem (ISR)",2022-07-07,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,359.65,ISR,17.0,2022
-408,5:59.69,,Kristian BRÅTHEN BØRVE,2006-12-08,NOR,1,"Ullevi Stadium, Göteborg (SWE)",2022-06-17,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,359.69,SWE,15.0,2022
-409,5:59.73,,Damjan EROR,2006-01-27,AUT,13,"Atletski stadion Poljane, Maribor (SLO)",2023-07-29,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,359.73,SLO,17.0,2023
-410,5:59.75,,Adam BRUNTSCH,2004-06-09,AUS,2,"SOPAC, Sydney (AUS)",2021-04-18,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,359.75,AUS,16.0,2021
-411,5:59.77,,Anton MARTINEZ,2004-05-15,ESP,4f1,"Estadio Iberoamericano, Huelva (ESP)",2021-07-25,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,359.77,ESP,17.0,2021
-412,5:59.83,,Ayoub EL AMANI,2004-02-29,FRA,5,"Stade R. Bobin, Bondoufle (FRA)",2021-07-09,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,359.83,FRA,17.0,2021
-413,5:59.92,,Cuma ÖZCAN,2005-07-15,TUR,8h2,"Givat Ram Stadium, Jerusalem (ISR)",2022-07-05,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,359.92,ISR,16.0,2022
-414,6:00.00,,Naofal BIDAL,,ITA,2,"Stadio Enzo Blasone, Foligno (ITA)",2025-06-04,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,360.0,ITA,,2025
+10,5:40.58,,Zhihui LUO,2009-07-08,CHN,1f2,"Olympic Center, Shenyang (CHN)",2025-08-12,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,340.58,CHN,16.0,2025
+11,5:41.11,,Sergio DEL BARRIO,2005-02-04,ESP,2,"Stade Helitas, Caen (FRA)",2022-05-19,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,341.11,FRA,17.0,2022
+12,5:41.30,,Bakr EL ASRI,2007-01-28,ESP,1f1,"Pista de Atletismo Las Mestas, Gijón (ESP)",2023-07-09,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,341.3,ESP,16.0,2023
+13,5:41.52,,Benjámin SZABÓ,2006-10-20,HUN,3,"Atletski stadion Poljane, Maribor (SLO)",2023-07-29,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,341.52,SLO,16.0,2023
+14,5:42.26,,Haakon Kamlesh Heltzer SØRSTAD,2008-03-01,NOR,1,"Athletic track of National Arena Philip II, Skopje (MKD)",2025-07-26,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,342.26,MKD,17.0,2025
+15,5:42.28,,Jairus KIPKORIR,2009-06-02,KEN,3,"Nyayo National Stadium, Nairobi (KEN)",2025-06-20,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,342.28,KEN,16.0,2025
+16,5:42.41,,Marti TORREGROSSA,2007-07-20,ESP,2,"Centro Galego de Tecnificación, Pontevedra (ESP)",2024-06-22,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,342.41,ESP,16.0,2024
+17,5:42.75,,Mathis DUBOIS,,FRA,2,"Athletic track of National Arena Philip II, Skopje (MKD)",2025-07-26,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,342.75,MKD,,2025
+18,5:43.34,,Bakr EL ASRI,2007-01-28,ESP,3,"Centro Galego de Tecnificación, Pontevedra (ESP)",2024-06-22,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,343.34000000000003,ESP,17.0,2024
+19,5:43.43,,Michał GAJDUS,2008-01-10,POL,3,"Athletic track of National Arena Philip II, Skopje (MKD)",2025-07-26,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,343.43,MKD,17.0,2025
+20,5:43.59,,Matko BELČIĆ,2006-02-13,CRO,4,"Atletski stadion Poljane, Maribor (SLO)",2023-07-29,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,343.59000000000003,SLO,17.0,2023
+21,5:43.66,,Bakr EL ASRI,2007-01-28,ESP,1,"Estádio Dr. Magalhães Pessoa, Leiria (POR)",2023-07-19,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,343.66,POR,16.0,2023
+22,5:43.71,,Michał GAJDUS,2008-01-10,POL,1f1,"Golęcin Stadion, Poznan (POL)",2025-07-12,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,343.71,POL,17.0,2025
+23,5:44.29,,Ulrik Jåvoll HAGEN,,NOR,1,"Øverlands Minde, Stjørdal (NOR)",2025-09-06,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,344.29,NOR,,2025
+24,5:44.32,,Pere MAS,2008-06-07,ESP,1,"Estadio de Atletismo del Turia, Valencia (ESP)",2025-06-11,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,344.32,ESP,17.0,2025
+25,5:44.57,,Luke BIRDSEYE,2005-02-01,GBR,4f1,"Givat Ram Stadium, Jerusalem (ISR)",2022-07-07,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,344.57,ISR,17.0,2022
+26,5:44.61,,Bakr EL ASRI,2007-01-28,ESP,1,"Estadio Ciudad de Málaga, Málaga (ESP)",2024-07-07,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,344.61,ESP,17.0,2024
+27,5:44.63,,Pere MAS,2008-06-07,ESP,1,"Pistes d'atletisme Gaetà Huguet, Castellón (ESP)",2025-07-06,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,344.63,ESP,17.0,2025
+28,5:45.05,,Pere MAS,2008-06-07,ESP,1,"Pistes d'atletisme Gaetà Huguet, Castellón (ESP)",2024-05-22,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,345.05,ESP,15.0,2024
+29,5:45.10,,Lucky RAMSEY,2009-12-01,KEN,4,"Nyayo National Stadium, Nairobi (KEN)",2025-06-20,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,345.1,KEN,15.0,2025
+29,5:45.10,,Adam BOULHADI,2007-03-15,ESP,2,"Pistes d'atletisme Gaetà Huguet, Castellón (ESP)",2024-05-22,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,345.1,ESP,17.0,2024
+31,5:45.33,,Marti TORREGROSSA,2007-07-20,ESP,2,"Estadio Ciudad de Málaga, Málaga (ESP)",2024-07-07,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,345.33,ESP,16.0,2024
+32,5:45.34,,Marti TORREGROSSA,2007-07-20,ESP,3,"Pistes d'atletisme Gaetà Huguet, Castellón (ESP)",2024-05-22,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,345.34000000000003,ESP,16.0,2024
+33,5:45.52,,Archie NOAKES,2004-12-09,AUS,1,"SOPAC, Sydney (AUS)",2021-04-18,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,345.52,AUS,16.0,2021
+34,5:45.64,,Manuel ZANINI,2006-10-30,ITA,5,"Atletski stadion Poljane, Maribor (SLO)",2023-07-29,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,345.64,SLO,16.0,2023
+35,5:45.74,,Tamirat DEL PRETE,2008-08-21,ITA,1f3,"Stadio Guidobaldi, Rieti (ITA)",2025-06-28,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,345.74,ITA,16.0,2025
+36,5:46.27,,Sergio DEL BARRIO,2005-02-04,ESP,1f1,Jerez de la Frontera (ESP),2022-06-19,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,346.27,ESP,17.0,2022
+37,5:46.41,,Tamirat DEL PRETE,2008-08-21,ITA,4,"Athletic track of National Arena Philip II, Skopje (MKD)",2025-07-26,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,346.41,MKD,16.0,2025
+38,5:46.42,,Haakon Kamlesh Heltzer SØRSTAD,2008-03-01,NOR,1,"Bislett Stadion, Oslo (NOR)",2025-05-24,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,346.42,NOR,17.0,2025
+39,5:46.48,,Sergio DEL BARRIO,2005-02-04,ESP,1,"Stade J. Roland, Franconville (FRA)",2021-07-31,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,346.48,FRA,16.0,2021
+40,5:46.71,,Biel VIVACQUA,2009-07-03,ESP,2,"Pistes d'atletisme Gaetà Huguet, Castellón (ESP)",2025-07-06,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,346.71,ESP,16.0,2025
+41,5:46.79,,Bakr EL ASRI,2007-01-28,ESP,1f1,Banská Bystrica (SVK),2024-07-21,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,346.79,SVK,17.0,2024
+42,5:46.94,,Mario PALENCIA,2006-11-27,ESP,1,"Štadión SNP, Banská Bystrica (SVK)",2022-07-30,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,346.94,SVK,15.0,2022
+43,5:47.11,,Tudor Mihai MARGASOIU,,ROU,5,"Athletic track of National Arena Philip II, Skopje (MKD)",2025-07-26,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,347.11,MKD,,2025
+44,5:47.15,,Antti RISTANEN,,FIN,6,"Athletic track of National Arena Philip II, Skopje (MKD)",2025-07-26,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,347.15,MKD,,2025
+45,5:47.18,,Mario VAZQUEZ,,MEX,1,"Stade Stéphane Diagana, Blagnac (FRA)",2024-06-26,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,347.18,FRA,,2024
+45,5:47.18,,Yuhang XIE,2008-11-07,CHN,2f2,"Olympic Center, Shenyang (CHN)",2025-08-12,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,347.18,CHN,16.0,2025
+47,5:47.20,,Jānis IESALNIEKS,,URS,,Lvov (URS),1972-01-01,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,347.2,URS,,1972
+48,5:47.21,,Pere MAS,2008-06-07,ESP,7,"Athletic track of National Arena Philip II, Skopje (MKD)",2025-07-26,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,347.21,MKD,17.0,2025
+49,5:47.28,,Sergio DEL BARRIO,2005-02-04,ESP,1f1,"Estadio Iberoamericano, Huelva (ESP)",2021-07-25,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,347.28,ESP,16.0,2021
+50,5:47.53,,Ferenc Soma KOVÁCS,2004-06-14,HUN,1,"Atlétikai Centrum, Szekszárd (HUN)",2021-08-07,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,347.53,HUN,17.0,2021
+50,5:47.53,,Tamirat DEL PRETE,2008-08-21,ITA,1,"Stadio Enzo Blasone, Foligno (ITA)",2025-06-04,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,347.53,ITA,16.0,2025
+52,5:47.54,,Musab KUNDAKÇI,2007-01-07,TUR,1,"Atatürk Stadyumu, Izmir (TUR)",2024-06-02,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,347.54,TUR,17.0,2024
+53,5:47.56,,Manex CIVICO,2005-02-13,ESP,2f1,Jerez de la Frontera (ESP),2022-06-19,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,347.56,ESP,17.0,2022
+54,5:47.71,,Adam ČERVINKA,2007-03-18,CZE,2f1,Banská Bystrica (SVK),2024-07-21,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,347.71,SVK,17.0,2024
+55,5:47.77,,Jakob RÖDEL,2007-07-25,GER,3f1,Banská Bystrica (SVK),2024-07-21,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,347.77,SVK,17.0,2024
+56,5:47.96,,Jan ŠKARBAN,2006-01-19,CZE,2,"Štadión SNP, Banská Bystrica (SVK)",2022-07-30,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,347.96,SVK,16.0,2022
+56,5:47.96,,Jakub FILIPEK,2008-01-24,POL,1,"Stadion Miejski, Walcz (POL)",2025-05-24,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,347.96,POL,17.0,2025
+58,5:48.01,,Daniel MARÁK,2006-10-22,CZE,1,"Mestni stadion, Ptuj (SLO)",2023-06-11,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,348.01,SLO,16.0,2023
+59,5:48.20,,Mert Hanifi ODACI,2007-06-16,TUR,2,"Atatürk Stadyumu, Izmir (TUR)",2024-06-02,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,348.2,TUR,16.0,2024
+60,5:48.23,,Hicham ERRBIBIH,2005-12-02,FRA,1,"Stade J. Roland, Franconville (FRA)",2022-06-19,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,348.23,FRA,16.0,2022
+61,5:48.32,,Ferenc Soma KOVÁCS,2004-06-14,HUN,1,"Sports Stadium CESA VUT, Brno (CZE)",2021-08-14,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,348.32,CZE,17.0,2021
+62,5:48.34,,Mihai-Alin ȘAVLOVSCHI,2006-08-22,ROU,1,"Stadionul Iolanda Balas Soter, Bucureşti (ROU)",2023-07-01,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,348.34000000000003,ROU,16.0,2023
+63,5:48.40,,Alessio ZANDONELLA,,ITA,2f3,"Stadio Guidobaldi, Rieti (ITA)",2025-06-28,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,348.4,ITA,,2025
+64,5:49.08,,Bakr EL ASRI,2007-01-28,ESP,1,"Estadi Municipal Josep Pla, Palafrugell (ESP)",2024-06-08,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,349.08,ESP,17.0,2024
+65,5:49.09,,Alejandro DOMINGO,2007-07-24,ESP,2f1,"Pista de Atletismo Las Mestas, Gijón (ESP)",2023-07-09,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,349.09000000000003,ESP,15.0,2023
+66,5:49.13,,Aniol CLAVELL,2005-05-17,ESP,3f1,Jerez de la Frontera (ESP),2022-06-19,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,349.13,ESP,17.0,2022
+66,5:49.13,,Cuma ÖZCAN,2005-07-15,TUR,5f1,"Givat Ram Stadium, Jerusalem (ISR)",2022-07-07,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,349.13,ISR,16.0,2022
+68,5:49.14,,Jan ŠKARBAN,2006-01-19,CZE,1,"Atletický stadion města Plzně, Plzeň (CZE)",2023-06-04,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,349.14,CZE,17.0,2023
+69,5:49.15,,Lukas BUNCIC,2007-12-27,NOR,1,"Fana Stadion, Bergen (NOR)",2024-05-26,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,349.15,NOR,16.0,2024
+70,5:49.17,,Iwan THOMAS,2007-04-13,GBR,1,"Cardiff Athletic Stadium, Cardiff (GBR)",2024-06-16,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,349.17,GBR,17.0,2024
+71,5:49.21,,Adam ČERVINKA,2007-03-18,CZE,1,"Mestský Stadion, Ostrava (CZE)",2024-06-15,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,349.21,CZE,17.0,2024
+72,5:49.54,,Dolphine CHELIMO,2005-07-10,UGA,3,"Stade Helitas, Caen (FRA)",2022-05-19,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,349.54,FRA,16.0,2022
+73,5:49.57,,Riccardo AMBROSIO,2007-09-30,ITA,1f4,"Stadio M.S. Cozzoli, Molfetta (ITA)",2024-07-05,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,349.57,ITA,16.0,2024
+74,5:49.62,,Manuel ZANINI,2006-10-30,ITA,1f2,"Giovanni Chiggiato Stadium, Caorle (ITA)",2023-06-23,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,349.62,ITA,16.0,2023
+75,5:49.71,,Theo PENARD,2005-04-04,FRA,2,"Stade J. Roland, Franconville (FRA)",2022-06-19,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,349.71,FRA,17.0,2022
+76,5:49.74,,Biel MORANCHO,2006-02-02,ESP,3f1,"Pista de Atletismo Las Mestas, Gijón (ESP)",2023-07-09,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,349.74,ESP,17.0,2023
+77,5:49.90,,Aarno LIEBL,2005-05-21,SUI,1,"Stadion Buchholz, Uster (SUI)",2022-06-10,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,349.9,SUI,17.0,2022
+78,5:49.92,,Alejandro DOMINGO,2007-07-24,ESP,1,"Pista de Atletismo Río Esgueva,, Valladolid (ESP)",2024-05-18,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,349.92,ESP,16.0,2024
+79,5:50.07,,Luca COPPOLA,2007-04-02,ITA,2f4,"Stadio M.S. Cozzoli, Molfetta (ITA)",2024-07-05,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,350.07,ITA,17.0,2024
+80,5:50.11,,Wiktor JANDUŁA,2005-01-22,POL,1f1,"Stadion Sprint, Bielsko-Biala (POL)",2022-07-16,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,350.11,POL,17.0,2022
+81,5:50.20,,Tamirat DEL PRETE,2008-08-21,ITA,1,"Raiffeisen Arena, Bressanone, Trentino-Alto Adige (ITA)",2025-05-25,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,350.2,ITA,16.0,2025
+82,5:50.27,,Musab KUNDAKÇI,2007-01-07,TUR,6,"Atletski stadion Poljane, Maribor (SLO)",2023-07-29,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,350.27,SLO,16.0,2023
+83,5:50.28,,Cesc BOIX,2005-05-29,ESP,4f1,Jerez de la Frontera (ESP),2022-06-19,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,350.28,ESP,17.0,2022
+83,5:50.28,,Musab KUNDAKÇI,2007-01-07,TUR,4f1,Banská Bystrica (SVK),2024-07-21,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,350.28,SVK,17.0,2024
+85,5:50.41,,Andreas GHILARDUCCI,2007-03-27,ITA,3f4,"Stadio M.S. Cozzoli, Molfetta (ITA)",2024-07-05,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,350.41,ITA,17.0,2024
+86,5:50.50,,Jacopo RISI,2006-07-21,ITA,1,"Campo Comunale, Mariano Comense (ITA)",2023-05-21,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,350.5,ITA,16.0,2023
+87,5:50.53,,Romuald BROSSET,2005-05-21,SUI,2,"Stadion Buchholz, Uster (SUI)",2022-06-10,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,350.53,SUI,17.0,2022
+88,5:50.63,,Marti TORREGROSSA,2007-07-20,ESP,5f1,Banská Bystrica (SVK),2024-07-21,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,350.63,SVK,17.0,2024
+89,5:50.91,,Mihai-Alin ȘAVLOVSCHI,2006-08-22,ROU,3,"Štadión SNP, Banská Bystrica (SVK)",2022-07-30,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,350.91,SVK,15.0,2022
+90,5:50.93,,Filippos SIOMOS GKIZAS,2006-11-16,GRE,1f1,"Pampeloponnisiako Stadium, Patra (GRE)",2023-07-01,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,350.93,GRE,16.0,2023
+91,5:50.95,,Jakob RÖDEL,2007-07-25,GER,,"Volksparkstadion, Gotha (GER)",2024-06-09,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,350.95,GER,16.0,2024
+92,5:51.07,,Haakon Kamlesh Heltzer SØRSTAD,2008-03-01,NOR,1h2,"Athletic track of National Arena Philip II, Skopje (MKD)",2025-07-23,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,351.07,MKD,17.0,2025
+93,5:51.08,,Jonas BEUTLER,2009-04-09,SUI,1,"Stadion Kleinholz, Olten (SUI)",2025-05-24,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,351.08,SUI,16.0,2025
+94,5:51.19,,Cameron BLOEM,,AUS,1,"WA Athletics Stadium, Perth (AUS)",2025-04-06,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,351.19,AUS,,2025
+94,5:51.19,,Sergio MORALES,2008-11-05,ESP,3,"Pistes d'atletisme Gaetà Huguet, Castellón (ESP)",2025-07-06,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,351.19,ESP,16.0,2025
+96,5:51.25,,Mathis DUBOIS,,FRA,2h2,"Athletic track of National Arena Philip II, Skopje (MKD)",2025-07-23,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,351.25,MKD,,2025
+97,5:51.31,,Maxence BAL,,FRA,1,"Parc des Sports C. Ehrmann, Nice (FRA)",2025-05-31,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,351.31,FRA,,2025
+98,5:51.32,,Filippos SIOMOS GKIZAS,2006-11-16,GRE,7,"Atletski stadion Poljane, Maribor (SLO)",2023-07-29,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,351.32,SLO,16.0,2023
+99,5:51.52,,Jacob GARDNER,2006-05-05,AUS,1,"Northern Athletic Centre, St Leonards, Launceston (AUS)",2023-10-21,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,351.52,AUS,17.0,2023
+100,5:51.53,,Lukas BUNCIC,2007-12-27,NOR,1,"Friidrettsstadion, Jessheim (NOR)",2024-08-09,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,351.53,NOR,16.0,2024
+101,5:51.57,,Simone VALDUGA,2004-07-21,ITA,1f3,"Stadio Guidobaldi, Rieti (ITA)",2021-07-09,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,351.57,ITA,16.0,2021
+102,5:51.62,,Alex MORENTE,2008-02-16,ESP,2,"Estadio de Atletismo del Turia, Valencia (ESP)",2025-06-11,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,351.62,ESP,17.0,2025
+103,5:51.64,,Michał GAJDUS,2008-01-10,POL,3h2,"Athletic track of National Arena Philip II, Skopje (MKD)",2025-07-23,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,351.64,MKD,17.0,2025
+104,5:51.76,,Riccardo ANDREATTA,2007-05-08,ITA,4f4,"Stadio M.S. Cozzoli, Molfetta (ITA)",2024-07-05,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,351.76,ITA,17.0,2024
+105,5:51.78,,Joseph SAUNDERS,2005-10-13,AUS,1,"Queensland Sport and Athletics Centre, Nathan, Brisbane (AUS)",2022-03-06,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,351.78,AUS,16.0,2022
+106,5:51.84,,Johannes SANDVIK BØ,2006-01-23,NOR,1,"Slottsskogsvallen, Göteborg (SWE)",2023-06-30,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,351.84000000000003,SWE,17.0,2023
+107,5:51.86,,Simone VALDUGA,2004-07-21,ITA,1,"Centro Sportivo, Cles (ITA)",2021-09-25,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,351.86,ITA,17.0,2021
+108,5:51.88,,Dillon MILLARD,2007-02-25,GBR,2,"Cardiff Athletic Stadium, Cardiff (GBR)",2024-06-16,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,351.88,GBR,17.0,2024
+109,5:51.94,,Abdelali BEN SAAD,2005-04-09,ALG,4,"Stade Helitas, Caen (FRA)",2022-05-19,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,351.94,FRA,17.0,2022
+109,5:51.94,,Sumit RATHEE,2006-09-22,IND,1,"Mahatma Gandhi District Stadium Ajjarkad, Udupi (IND)",2023-03-12,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,351.94,IND,16.0,2023
+111,5:51.95,,Musab KUNDAKÇI,2007-01-07,TUR,1,"Atletski stadion Poljane, Maribor (SLO)",2024-07-06,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,351.95,SLO,17.0,2024
+112,5:52.07,,Theo PENARD,2005-04-04,FRA,1,"Stade de L'Ill, Mulhouse (FRA)",2022-07-15,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,352.07,FRA,17.0,2022
+113,5:52.08,,Simon JEUKENNE,2005-09-14,BEL,6f1,"Givat Ram Stadium, Jerusalem (ISR)",2022-07-07,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,352.08,ISR,16.0,2022
+113,5:52.08,,Dillon MILLARD,2007-02-25,GBR,1,"Paula Radcliffe Stadium, Loughborough (GBR)",2024-06-22,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,352.08,GBR,17.0,2024
+113,5:52.08,,Tudor Mihai MARGASOIU,,ROU,4h2,"Athletic track of National Arena Philip II, Skopje (MKD)",2025-07-23,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,352.08,MKD,,2025
+116,5:52.14,,Benjámin SZABÓ,2006-10-20,HUN,2,"Mestni stadion, Ptuj (SLO)",2023-06-11,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,352.14,SLO,16.0,2023
+117,5:52.15,,Luke BIRDSEYE,2005-02-01,GBR,1,"Thames Valley Athletics Stadium, Eton (GBR)",2022-04-02,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,352.15,GBR,17.0,2022
+118,5:52.20,,Jonathan NEETHLING,2008-05-13,AUS,1,"Queensland Sport and Athletics Centre, Nathan, Brisbane (AUS)",2024-12-07,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,352.2,AUS,16.0,2024
+119,5:52.22,,Karl GEBUREK,2006-01-12,GER,8,"Atletski stadion Poljane, Maribor (SLO)",2023-07-29,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,352.22,SLO,17.0,2023
+119,5:52.22,,Eliott RUBECHI,,FRA,2,"Parc des Sports C. Ehrmann, Nice (FRA)",2025-05-31,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,352.22,FRA,,2025
+121,5:52.25,,Manuel ZANINI,2006-10-30,ITA,1f1,"Campo Sportivo Putti, Bergamo (ITA)",2023-05-06,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,352.25,ITA,16.0,2023
+122,5:52.26,,Jan ŠKARBAN,2006-01-19,CZE,7f1,"Givat Ram Stadium, Jerusalem (ISR)",2022-07-07,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,352.26,ISR,16.0,2022
+123,5:52.32,,Adam BOULHADI,2007-03-15,ESP,4f1,"Pista de Atletismo Las Mestas, Gijón (ESP)",2023-07-09,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,352.32,ESP,16.0,2023
+124,5:52.38,,Antti RISTANEN,,FIN,5h2,"Athletic track of National Arena Philip II, Skopje (MKD)",2025-07-23,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,352.38,MKD,,2025
+125,5:52.40,,Hicham ERRBIBIH,2005-12-02,FRA,2,"Stade de L'Ill, Mulhouse (FRA)",2022-07-15,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,352.4,FRA,16.0,2022
+126,5:52.44,,Ulrik Jåvoll HAGEN,,NOR,2,"Bislett Stadion, Oslo (NOR)",2025-05-24,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,352.44,NOR,,2025
+127,5:52.54,,Timeo LIGIER,2007-04-13,FRA,1,"Stade René Dubot, Tassin (FRA)",2024-05-25,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,352.54,FRA,17.0,2024
+128,5:52.55,,Lennox GYULAI,,GER,1,"Enwag-Stadion, Wetzlar (GER)",2025-06-07,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,352.55,GER,,2025
+129,5:52.56,,Lenart MIHALIČ,2008-01-20,SLO,6h2,"Athletic track of National Arena Philip II, Skopje (MKD)",2025-07-23,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,352.56,MKD,17.0,2025
+129,5:52.56,,Timeo LIGIER,2007-04-13,FRA,1,"Stade Helitas, Caen (FRA)",2024-07-06,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,352.56,FRA,17.0,2024
+131,5:52.57,,Bartosz JARECKI,2008-07-26,POL,2f1,"Golęcin Stadion, Poznan (POL)",2025-07-12,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,352.57,POL,16.0,2025
+132,5:52.59,,Toby CHIPPENDALE,2006-12-18,AUS,1,"Queensland Sport and Athletics Centre, Nathan, Brisbane (AUS)",2023-11-05,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,352.59000000000003,AUS,16.0,2023
+133,5:52.62,,Antonio MARMOL,2004-05-08,ESP,2f1,"Estadio Iberoamericano, Huelva (ESP)",2021-07-25,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,352.62,ESP,17.0,2021
+134,5:52.66,,Biel VIVACQUA,2009-07-03,ESP,1,"Estadi Municipal, Granollers (ESP)",2025-05-17,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,352.66,ESP,15.0,2025
+135,5:52.73,,Noa STEINER,2007-05-16,SWE,2,"Slottsskogsvallen, Göteborg (SWE)",2023-06-30,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,352.73,SWE,16.0,2023
+136,5:52.78,,Oliver PATTON,2006-09-15,GBR,1f2,"Stantonbury Stadium, Milton Keynes (GBR)",2022-06-04,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,352.78,GBR,15.0,2022
+136,5:52.78,,Jakub PIETRULA,,CZE,7h2,"Athletic track of National Arena Philip II, Skopje (MKD)",2025-07-23,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,352.78,MKD,,2025
+138,5:52.86,,Gael LEPROHON,2004-07-03,FRA,1,"Stade Jean Leroi, Blois (FRA)",2021-07-02,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,352.86,FRA,17.0,2021
+139,5:52.91,,Gael LEPROHON,2004-07-03,FRA,2,"Stade J. Roland, Franconville (FRA)",2021-07-31,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,352.91,FRA,17.0,2021
+140,5:52.92,,Med Ali HAMDI,,TUN,1,"Stadion Radés, Radés (TUN)",2025-07-05,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,352.92,TUN,,2025
+141,5:52.96,,Gael LEPROHON,2004-07-03,FRA,1,"Stade R. Bobin, Bondoufle (FRA)",2021-07-09,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,352.96,FRA,17.0,2021
+142,5:52.99,,Jakob RÖDEL,2007-07-25,GER,1f2,"Grenzlandstadion, Mönchengladbach (GER)",2024-07-05,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,352.99,GER,16.0,2024
+143,5:53.00,,Adam ČERVINKA,2007-03-18,CZE,1h1,Banská Bystrica (SVK),2024-07-19,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,353.0,SVK,17.0,2024
+144,5:53.01,,Emilien SIMONEAU,2007-02-12,FRA,2,"Stade René Dubot, Tassin (FRA)",2024-05-25,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,353.01,FRA,17.0,2024
+145,5:53.13,,Jonathan NEETHLING,2008-05-13,AUS,1,"WA Athletics Stadium, Perth (AUS)",2025-04-06,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,353.13,AUS,16.0,2025
+146,5:53.15,,Sergio DEL BARRIO,2005-02-04,ESP,1h2,"Givat Ram Stadium, Jerusalem (ISR)",2022-07-05,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,353.15,ISR,17.0,2022
+147,5:53.23,,Alejandro DOMINGO,2007-07-24,ESP,3,"Estadio Ciudad de Málaga, Málaga (ESP)",2024-07-07,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,353.23,ESP,16.0,2024
+148,5:53.27,,Mahmoud ABOU ZEID,2008-02-19,LBN,1,"Camille Chamoun Sports City Stadium, Beirut (LBN)",2025-05-31,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,353.27,LBN,17.0,2025
+149,5:53.30,,Štěpán KAVAN,2005-08-30,CZE,8f1,"Givat Ram Stadium, Jerusalem (ISR)",2022-07-07,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,353.3,ISR,16.0,2022
+150,5:53.39,,Anas ELHANI,,TUN,1,"19 May Athletics Stadium, Annaba (ALG)",2025-08-02,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,353.39,ALG,,2025
+151,5:53.40,,Jonas PATRI,2005-11-19,GER,1,"Stadion Hacheney, Dortmund (GER)",2022-06-11,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,353.4,GER,16.0,2022
+152,5:53.41,,Jan ŠKARBAN,2006-01-19,CZE,2h2,"Givat Ram Stadium, Jerusalem (ISR)",2022-07-05,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,353.41,ISR,16.0,2022
+153,5:53.44,,Jacob GARDNER,2006-05-05,AUS,1,"WA Athletics Stadium, Perth (AUS)",2023-12-09,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,353.44,AUS,17.0,2023
+154,5:53.49,,Emilien SIMONEAU,2007-02-12,FRA,1,"Stade Adolphe Cheron, St-Maur (FRA)",2024-06-12,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,353.49,FRA,17.0,2024
+154,5:53.49,,Aarno LIEBL,2005-05-21,SUI,3h2,"Givat Ram Stadium, Jerusalem (ISR)",2022-07-05,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,353.49,ISR,17.0,2022
+154,5:53.49,,Daniel MARÁK,2006-10-22,CZE,1,"Stadion Juliska, Praha (CZE)",2023-06-17,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,353.49,CZE,16.0,2023
+157,5:53.59,,Jakub PIETRULA,,CZE,,"Atletický stadion Turnov, Turnov (CZE)",2025-06-14,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,353.59000000000003,CZE,,2025
+158,5:53.60,,Aarno LIEBL,2005-05-21,SUI,1,"Schönbuchstadion, Pliezhausen (GER)",2022-05-08,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,353.6,GER,16.0,2022
+159,5:53.66,,Saief ZOUIDI,,TUN,1,"Stadion Radés, Radés (TUN)",2022-07-02,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,353.66,TUN,,2022
+160,5:53.67,,Wiktor JANDUŁA,2005-01-22,POL,4h2,"Givat Ram Stadium, Jerusalem (ISR)",2022-07-05,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,353.67,ISR,17.0,2022
+160,5:53.67,,Pepe SANCHEZ,2006-12-21,ESP,1f2,"Pista de Atletismo Las Mestas, Gijón (ESP)",2023-07-09,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,353.67,ESP,16.0,2023
+162,5:53.68,,Kristian BRÅTHEN BØRVE,2006-12-08,NOR,9f1,"Givat Ram Stadium, Jerusalem (ISR)",2022-07-07,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,353.68,ISR,15.0,2022
+162,5:53.68,,Mario PACHECO,2006-05-31,ESP,5f1,"Pista de Atletismo Las Mestas, Gijón (ESP)",2023-07-09,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,353.68,ESP,17.0,2023
+164,5:53.77,,Manuel ZANINI,2006-10-30,ITA,1,"Centro Sportivo Comunale, Varese (ITA)",2022-06-08,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,353.77,ITA,15.0,2022
+165,5:53.78,,Eliott RUBECHI,,FRA,1,"Stade Henri Lux, St-Etienne (FRA)",2025-07-18,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,353.78,FRA,,2025
+166,5:53.81,,Declan SOMERS,2006-08-15,AUS,1,"Queensland Sport and Athletics Centre, Nathan, Brisbane (AUS)",2023-04-15,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,353.81,AUS,16.0,2023
+167,5:53.86,,Eli SARATSIS,,AUS,2,"WA Athletics Stadium, Perth (AUS)",2025-04-06,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,353.86,AUS,,2025
+167,5:53.86,,Musab KUNDAKÇI,2007-01-07,TUR,2h1,Banská Bystrica (SVK),2024-07-19,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,353.86,SVK,17.0,2024
+169,5:53.91,,Noah ESCAT,,FRA,2,"Stade Henri Lux, St-Etienne (FRA)",2025-07-18,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,353.91,FRA,,2025
+169,5:53.91,,Lars OESCHGER,2007-09-11,SUI,1,"Stadion Buchholz, Uster (SUI)",2024-05-24,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,353.91,SUI,16.0,2024
+171,5:53.96,,Antonios ZAMPELIS,2008-11-29,GRE,8,"Athletic track of National Arena Philip II, Skopje (MKD)",2025-07-26,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,353.96,MKD,16.0,2025
+172,5:54.00,,Haakon Kamlesh Heltzer SØRSTAD,2008-03-01,NOR,2,"Friidrettsstadion, Jessheim (NOR)",2024-08-09,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,354.0,NOR,16.0,2024
+173,5:54.03,,Moritz GUTOWSKI,2007-08-29,GER,2f2,"Grenzlandstadion, Mönchengladbach (GER)",2024-07-05,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,354.03,GER,16.0,2024
+174,5:54.04,,Jan ŠKARBAN,2006-01-19,CZE,2,"Stadion Juliska, Praha (CZE)",2023-06-17,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,354.04,CZE,17.0,2023
+175,5:54.07,,Theo PENARD,2005-04-04,FRA,10f1,"Givat Ram Stadium, Jerusalem (ISR)",2022-07-07,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,354.07,ISR,17.0,2022
+176,5:54.09,,Mikel ARAMENDI,2006-01-09,ESP,6f1,"Pista de Atletismo Las Mestas, Gijón (ESP)",2023-07-09,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,354.09000000000003,ESP,17.0,2023
+177,5:54.11,,Petros SANCHEZ,2005-09-20,ESP,5f1,Jerez de la Frontera (ESP),2022-06-19,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,354.11,ESP,16.0,2022
+178,5:54.12,,Benjámin SZABÓ,2006-10-20,HUN,1,"Ikarus BSE Sporttelep, Budapest (HUN)",2023-05-20,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,354.12,HUN,16.0,2023
+179,5:54.17,,Oscar MENDOZA,2006-06-21,ESP,7f1,"Pista de Atletismo Las Mestas, Gijón (ESP)",2023-07-09,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,354.17,ESP,17.0,2023
+180,5:54.23,,Elias MORGENSTERN,,GER,1f2,"Lohrheidestadion, Wattenscheid, Bochum (GER)",2025-07-11,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,354.23,GER,,2025
+180,5:54.23,,Benjámin SZABÓ,2006-10-20,HUN,4,"Štadión SNP, Banská Bystrica (SVK)",2022-07-30,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,354.23,SVK,15.0,2022
+182,5:54.24,,Med Ali ZINOUBI,,TUN,,"Complexe Olympique Mohamed Boudiaf, Algiers (ALG)",2024-07-22,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,354.24,ALG,,2024
+182,5:54.24,,Vitalij GORLUKOVIC,1983-10-17,LTU,1,Kaunas (LTU),2000-07-13,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,354.24,LTU,16.0,2000
+184,5:54.28,,Maxence BAL,,FRA,3,"Stade Henri Lux, St-Etienne (FRA)",2025-07-18,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,354.28,FRA,,2025
+184,5:54.28,,Tiago MACHADO,2006-01-17,POR,9,"Atletski stadion Poljane, Maribor (SLO)",2023-07-29,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,354.28,SLO,17.0,2023
+186,5:54.31,,Jakub FILIPEK,2008-01-24,POL,3h1,Banská Bystrica (SVK),2024-07-19,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,354.31,SVK,16.0,2024
+187,5:54.35,,Wiktor JANDUŁA,2005-01-22,POL,11f1,"Givat Ram Stadium, Jerusalem (ISR)",2022-07-07,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,354.35,ISR,17.0,2022
+188,5:54.37,,Jacopo RISI,2006-07-21,ITA,2f2,"Giovanni Chiggiato Stadium, Caorle (ITA)",2023-06-23,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,354.37,ITA,16.0,2023
+189,5:54.39,,Iwan THOMAS,2007-04-13,GBR,1,"Loughborough University Track, Loughborough (GBR)",2024-06-01,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,354.39,GBR,17.0,2024
+190,5:54.40,,Isacc DUPORTAL,2006-10-15,FRA,1,"Stade de la Margotière, Chateauroux (FRA)",2023-07-14,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,354.4,FRA,16.0,2023
+191,5:54.41,,Thiago Fernando GOYZUETA,2009-02-14,PER,1,"Estadio Atlético de la VIDENA, Lima (PER)",2025-06-07,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,354.41,PER,16.0,2025
+192,5:54.43,,Bellal MAHFOUD,,MAR,1,"King Fahd Sports City, At Ta'if (KSA)",2024-09-14,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,354.43,KSA,,2024
+193,5:54.52,,Theo PENARD,2005-04-04,FRA,1,"Stade Jean Leroi, Blois (FRA)",2022-05-28,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,354.52,FRA,17.0,2022
+194,5:54.54,,Lenart MIHALIČ,2008-01-20,SLO,1,"Stadion Portoval, Novo Mesto (SLO)",2025-06-21,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,354.54,SLO,17.0,2025
+195,5:54.65,,Rubén LEONARDO,2004-02-15,ESP,3f1,"Estadio Iberoamericano, Huelva (ESP)",2021-07-25,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,354.65,ESP,17.0,2021
+195,5:54.65,,Marti TORREGROSSA,2007-07-20,ESP,4h1,Banská Bystrica (SVK),2024-07-19,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,354.65,SVK,17.0,2024
+197,5:54.68,,Nicholas ODORIZZI,,ITA,3f3,"Stadio Guidobaldi, Rieti (ITA)",2025-06-28,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,354.68,ITA,,2025
+198,5:54.71,,Mihai-Alin ȘAVLOVSCHI,2006-08-22,ROU,1,"Stadionul Iolanda Balas Soter, Bucureşti (ROU)",2023-05-13,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,354.71,ROU,16.0,2023
+199,5:54.74,,Théotime POPEA,2008-05-02,SUI,,"Stade d'Octodure, Martigny (SUI)",2024-06-08,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,354.74,SUI,16.0,2024
+199,5:54.74,,Luca COPPOLA,2007-04-02,ITA,1,"Stadio delle Palme, Palermo (ITA)",2024-06-15,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,354.74,ITA,17.0,2024
+201,5:54.78,,Emilien SIMONEAU,2007-02-12,FRA,2,"Stade Helitas, Caen (FRA)",2024-07-06,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,354.78,FRA,17.0,2024
+201,5:54.78,,Amen Allah CHOUCHENE,,TUN,2,"Stadion Radés, Radés (TUN)",2025-07-05,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,354.78,TUN,,2025
+203,5:54.84,,Michele PODETTI,,ITA,4f3,"Stadio Guidobaldi, Rieti (ITA)",2025-06-28,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,354.84000000000003,ITA,,2025
+204,5:54.85,,Hicham ERRBIBIH,2005-12-02,FRA,1,Colmar (FRA),2022-05-29,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,354.85,FRA,16.0,2022
+205,5:54.87,,Marián DRAŽAN,2004-04-09,CZE,1,Kolin (CZE),2021-09-26,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,354.87,CZE,17.0,2021
+206,5:54.90,,Riccardo AMBROSIO,2007-09-30,ITA,5h1,Banská Bystrica (SVK),2024-07-19,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,354.9,SVK,16.0,2024
+207,5:54.94,,Kristian BRÅTHEN BØRVE,2006-12-08,NOR,1,"Fana Stadion, Bergen (NOR)",2023-09-09,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,354.94,NOR,16.0,2023
+208,5:54.97,,Yuhang XIE,2008-11-07,CHN,1f2,"Olympic Sports Center, Huangshi (CHN)",2025-06-28,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,354.97,CHN,16.0,2025
+208,5:54.97,,Haakon Kamlesh Heltzer SØRSTAD,2008-03-01,NOR,1h2,Banská Bystrica (SVK),2024-07-19,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,354.97,SVK,16.0,2024
+210,5:54.99,,Med Ali ZINOUBI,,TUN,1,"Stadion Radés, Radés (TUN)",2024-07-06,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,354.99,TUN,,2024
+211,5:55.01,,Isacc DUPORTAL,2006-10-15,FRA,1,"Stade Municipal Ty Colo, St-Renan (FRA)",2023-06-04,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,355.01,FRA,16.0,2023
+212,5:55.08,,Marco VOGGENREITER,2007-07-12,GER,3f2,"Grenzlandstadion, Mönchengladbach (GER)",2024-07-05,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,355.08,GER,16.0,2024
+213,5:55.09,,Alessio ZANDONELLA,,ITA,2,"Raiffeisen Arena, Bressanone, Trentino-Alto Adige (ITA)",2025-05-25,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,355.09000000000003,ITA,,2025
+214,5:55.12,,Jan ŠKARBAN,2006-01-19,CZE,1,Plzeň (CZE),2022-06-01,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,355.12,CZE,16.0,2022
+215,5:55.13,,Nino EUGSTER,,SUI,2,"Stadion Kleinholz, Olten (SUI)",2025-05-24,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,355.13,SUI,,2025
+216,5:55.20,,Alessio ZANDONELLA,,ITA,1,"Centro di Atletica, Busto Arsizio (ITA)",2025-04-27,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,355.2,ITA,,2025
+217,5:55.23,,Leon STOLTZ,2008-04-15,RSA,1,"Green Point Stadium, Cape Town (RSA)",2025-03-29,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,355.23,RSA,16.0,2025
+218,5:55.25,,Riccardo ANDREATTA,2007-05-08,ITA,1,"Pista Lino Parzani, Rodengo Saiano (ITA)",2024-06-19,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,355.25,ITA,17.0,2024
+219,5:55.35,,Louie ENDRES,,NZL,1,"TET Stadium, Inglewood (NZL)",2022-12-11,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,355.35,NZL,,2022
+219,5:55.35,,Musab KUNDAKÇI,2007-01-07,TUR,1h1,"Atletski stadion Poljane, Maribor (SLO)",2023-07-26,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,355.35,SLO,16.0,2023
+221,5:55.36,,Pere MAS,2008-06-07,ESP,2,"Estadi Municipal Josep Pla, Palafrugell (ESP)",2024-06-08,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,355.36,ESP,16.0,2024
+222,5:55.37,,Dillon MILLARD,2007-02-25,GBR,6h1,Banská Bystrica (SVK),2024-07-19,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,355.37,SVK,17.0,2024
+223,5:55.40,,Mihai-Alin ȘAVLOVSCHI,2006-08-22,ROU,1h2,"Atletski stadion Poljane, Maribor (SLO)",2023-07-26,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,355.4,SLO,16.0,2023
+223,5:55.40,,Daniel MARÁK,2006-10-22,CZE,10,"Atletski stadion Poljane, Maribor (SLO)",2023-07-29,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,355.4,SLO,16.0,2023
+225,5:55.42,,Declan SOMERS,2006-08-15,AUS,1,"WA Athletics Stadium, Perth (AUS)",2023-03-31,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,355.42,AUS,16.0,2023
+226,5:55.43,,Mathias Vanem AAS,2004-04-16,NOR,1,"Trondheim Stadion, Trondheim (NOR)",2021-09-04,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,355.43,NOR,17.0,2021
+227,5:55.52,,Salla MAHESH,2007-08-15,IND,2,"Mahatma Gandhi District Stadium Ajjarkad, Udupi (IND)",2023-03-12,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,355.52,IND,15.0,2023
+228,5:55.53,,Robin BÖRSKEN,,GER,1,"Schönbuchstadion, Pliezhausen (GER)",2024-05-05,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,355.53,GER,,2024
+229,5:55.55,,Haakon Kamlesh Heltzer SØRSTAD,2008-03-01,NOR,1,"Fana Stadion, Bergen (NOR)",2024-05-26,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,355.55,NOR,16.0,2024
+230,5:55.59,,Noah ESCAT,,FRA,1,"Stade J. Le Mouton, Villefranche-sur-Saone (FRA)",2025-06-07,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,355.59000000000003,FRA,,2025
+231,5:55.60,,Simone VALDUGA,2004-07-21,ITA,1,"Raiffeisen Arena, Bressanone, Trentino-Alto Adige (ITA)",2021-09-05,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,355.6,ITA,17.0,2021
+232,5:55.62,,James HODGSON,,CAN,1f2,"Stade University Sherbrooke, Sherbrooke (CAN)",2023-08-13,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,355.62,CAN,,2023
+233,5:55.65,,Sem SERRANO,2006-02-03,BEL,2,"Schönbuchstadion, Pliezhausen (GER)",2022-05-08,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,355.65,GER,16.0,2022
+234,5:55.67,,Victor HERNANDEZ,2006-01-18,ESP,2f2,"Pista de Atletismo Las Mestas, Gijón (ESP)",2023-07-09,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,355.67,ESP,17.0,2023
+235,5:55.69,,Dan KAČUR,,CZE,2,"Mestský Stadion, Ostrava (CZE)",2024-06-15,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,355.69,CZE,,2024
+236,5:55.77,,Jacopo RISI,2006-07-21,ITA,2f1,"Campo Sportivo Putti, Bergamo (ITA)",2023-05-06,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,355.77,ITA,16.0,2023
+237,5:55.78,,Tiago MACHADO,2006-01-17,POR,2h2,"Atletski stadion Poljane, Maribor (SLO)",2023-07-26,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,355.78,SLO,17.0,2023
+238,5:55.84,,Yusef AZARIYAN,2006-06-07,IRI,1,Tashkent (UZB),2023-04-30,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,355.84000000000003,UZB,16.0,2023
+239,5:55.85,,Eetu VALTOLA,2006-05-10,FIN,3,"Slottsskogsvallen, Göteborg (SWE)",2023-06-30,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,355.85,SWE,17.0,2023
+239,5:55.85,,Benjámin SZABÓ,2006-10-20,HUN,3h2,"Atletski stadion Poljane, Maribor (SLO)",2023-07-26,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,355.85,SLO,16.0,2023
+241,5:55.90,,Noah FORTIER,,CAN,2f2,"Stade University Sherbrooke, Sherbrooke (CAN)",2023-08-13,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,355.9,CAN,,2023
+242,5:55.91,,El Hassane BOUKNARI,,MAR,1,"Complexe Sportif Prince Moulay Abdellah, Rabat (MAR)",2022-06-12,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,355.91,MAR,,2022
+243,5:55.92,,Mihai-Alin ȘAVLOVSCHI,2006-08-22,ROU,12f1,"Givat Ram Stadium, Jerusalem (ISR)",2022-07-07,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,355.92,ISR,15.0,2022
+244,5:55.98,,William PEREIRA,,AUS,1,"SA Athletic Stadium, Adelaide (AUS)",2024-04-17,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,355.98,AUS,,2024
+245,5:56.02,,Timeo LIGIER,2007-04-13,FRA,7h1,Banská Bystrica (SVK),2024-07-19,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,356.02,SVK,17.0,2024
+246,5:56.16,,Med Ali HAMDI,,TUN,2,"19 May Athletics Stadium, Annaba (ALG)",2025-08-02,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,356.16,ALG,,2025
+247,5:56.18,,Sergio DEL BARRIO,2005-02-04,ESP,1,Hueska (ESP),2021-07-10,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,356.18,ESP,16.0,2021
+248,5:56.19,,Chengwei XU,2009-06-06,CHN,1f1,"Olympic Center, Shenyang (CHN)",2025-08-12,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,356.19,CHN,16.0,2025
+249,5:56.21,,Nicholas MCGILL,,AUS,1,"HFC Bank Stadium, Suva (FIJ)",2024-06-06,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,356.21,FIJ,,2024
+250,5:56.24,,Matthias APEL,,GER,2f2,"Lohrheidestadion, Wattenscheid, Bochum (GER)",2025-07-11,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,356.24,GER,,2025
+251,5:56.30,,Robin BÖRSKEN,,GER,4f2,"Grenzlandstadion, Mönchengladbach (GER)",2024-07-05,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,356.3,GER,,2024
+252,5:56.31,,Eetu VALTOLA,2006-05-10,FIN,11,"Atletski stadion Poljane, Maribor (SLO)",2023-07-29,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,356.31,SLO,17.0,2023
+253,5:56.32,,Pedro VICIOSA,2004-06-13,ESP,1,Valladolid (ESP),2021-07-08,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,356.32,ESP,17.0,2021
+253,5:56.32,,Emilien SIMONEAU,2007-02-12,FRA,1,"Stadium Municipal, Albi (FRA)",2024-07-19,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,356.32,FRA,17.0,2024
+255,5:56.37,,Máté SOLYMÁRI,2006-11-17,HUN,3,"Mestni stadion, Ptuj (SLO)",2023-06-11,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,356.37,SLO,16.0,2023
+256,5:56.41,,Nicholas MCGILL,,AUS,2,"SA Athletic Stadium, Adelaide (AUS)",2024-04-17,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,356.41,AUS,,2024
+257,5:56.43,,Diyar ERGÜVEN,2004-11-13,TUR,1,Mersin (TUR),2021-08-26,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,356.43,TUR,16.0,2021
+258,5:56.48,,Iker IBARGUEN,2006-08-19,ESP,6f1,Jerez de la Frontera (ESP),2022-06-19,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,356.48,ESP,15.0,2022
+259,5:56.49,,Jacopo RISI,2006-07-21,ITA,1f1,"Centro Al Bione, Lecco (ITA)",2022-05-07,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,356.49,ITA,15.0,2022
+260,5:56.50,,Yassine CHOUFA,2005-03-12,MAR,1,"Complexe Sportif Prince Moulay Abdellah, Rabat (MAR)",2022-07-16,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,356.5,MAR,17.0,2022
+260,5:56.50,,Ramazan KUNDAKÇI,2005-01-07,TUR,1f2,"Atıcılar Atletizm Sahası, Bursa (TUR)",2022-05-26,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,356.5,TUR,17.0,2022
+262,5:56.56,,Achref FEGHOUL,2007-03-03,ALG,1,"Complexe Olympique Mohamed Boudiaf, Algiers (ALG)",2024-07-22,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,356.56,ALG,17.0,2024
+263,5:56.59,,Daniel MARÁK,2006-10-22,CZE,1,"General Klapálek ́s stadium, Nové Město nad Metují (CZE)",2023-05-06,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,356.59000000000003,CZE,16.0,2023
+264,5:56.68,,Enrico RICCI,2006-04-15,ITA,1,"Campo CUS, Bologna (ITA)",2023-05-27,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,356.68,ITA,17.0,2023
+265,5:56.69,,Johannes SANDVIK BØ,2006-01-23,NOR,4h2,"Atletski stadion Poljane, Maribor (SLO)",2023-07-26,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,356.69,SLO,17.0,2023
+266,5:56.71,,Romeo CHAMALOT,,FRA,2,"Stade Adolphe Cheron, St-Maur (FRA)",2024-06-12,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,356.71,FRA,,2024
+267,5:56.72,,Jakob RÖDEL,2007-07-25,GER,2h2,Banská Bystrica (SVK),2024-07-19,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,356.72,SVK,16.0,2024
+267,5:56.72,,Michele PODETTI,,ITA,3,"Raiffeisen Arena, Bressanone, Trentino-Alto Adige (ITA)",2025-05-25,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,356.72,ITA,,2025
+269,5:56.78,,Iheb KHASKHOUSSI,2006-03-27,TUN,1,"Stadion Radés, Radés (TUN)",2023-07-08,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,356.78,TUN,17.0,2023
+270,5:56.84,,Elly KIPLIMO,2008-11-10,KEN,5,"Nyayo National Stadium, Nairobi (KEN)",2025-06-20,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,356.84000000000003,KEN,16.0,2025
+270,5:56.84,,Ivar ENGELS,2007-10-05,NED,1,"Atletiekbaan Brakkenstein, Nijmegen (NED)",2024-05-18,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,356.84000000000003,NED,16.0,2024
+272,5:56.88,,Ádám PETRÓ,2007-07-27,HUN,1,"Štadión PFK, Piešťany (SVK)",2024-07-05,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,356.88,SVK,16.0,2024
+273,5:56.92,,Antti RISTANEN,,FIN,1,"Paavo Nurmen Stadion, Turku (FIN)",2025-07-12,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,356.92,FIN,,2025
+274,5:56.95,,Mathias Vanem AAS,2004-04-16,NOR,1,"Guldbergaunet Idrettspark, Steinkjer (NOR)",2021-05-30,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,356.95,NOR,17.0,2021
+275,5:56.99,,Daniel MARÁK,2006-10-22,CZE,5h2,"Atletski stadion Poljane, Maribor (SLO)",2023-07-26,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,356.99,SLO,16.0,2023
+276,5:57.03,,Yemane MULUGETA,,ERI,1f2,"Stade University Sherbrooke, Sherbrooke (CAN)",2022-08-07,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,357.03,CAN,,2022
+277,5:57.04,,Pere MAS,2008-06-07,ESP,1h1,"Athletic track of National Arena Philip II, Skopje (MKD)",2025-07-23,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,357.04,MKD,17.0,2025
+278,5:57.06,,Marti TORREGROSSA,2007-07-20,ESP,8f1,"Pista de Atletismo Las Mestas, Gijón (ESP)",2023-07-09,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,357.06,ESP,15.0,2023
+279,5:57.07,,Simon JEUKENNE,2005-09-14,BEL,5h2,"Givat Ram Stadium, Jerusalem (ISR)",2022-07-05,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,357.07,ISR,16.0,2022
+280,5:57.08,,Eliott RUBECHI,,FRA,1,"Stade Henri Lux, St-Etienne (FRA)",2025-06-28,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,357.08,FRA,,2025
+281,5:57.10,,Furkan MUTLU,2005-05-09,TUR,2f2,"Atıcılar Atletizm Sahası, Bursa (TUR)",2022-05-26,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,357.1,TUR,17.0,2022
+282,5:57.11,,Alejandro DOMINGO,2007-07-24,ESP,2,"Estádio Dr. Magalhães Pessoa, Leiria (POR)",2023-07-19,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,357.11,POR,15.0,2023
+283,5:57.13,,Michał GAJDUS,2008-01-10,POL,3h2,Banská Bystrica (SVK),2024-07-19,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,357.13,SVK,16.0,2024
+284,5:57.14,,Eden CHOMAUD,,FRA,2,"Stadium Municipal, Albi (FRA)",2024-07-19,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,357.14,FRA,,2024
+285,5:57.15,,Bakr EL ASRI,2007-01-28,ESP,4h2,Banská Bystrica (SVK),2024-07-19,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,357.15,SVK,17.0,2024
+286,5:57.18,,Jan ŠKARBAN,2006-01-19,CZE,1,"Vitkovice, Ostrava (CZE)",2022-06-18,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,357.18,CZE,16.0,2022
+287,5:57.20,,Manex CIVICO,2005-02-13,ESP,1h1,"Givat Ram Stadium, Jerusalem (ISR)",2022-07-05,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,357.2,ISR,17.0,2022
+288,5:57.23,,Ádám PETRÓ,2007-07-27,HUN,1,"Bregyó Athletic Center, Székesfehérvár (HUN)",2024-06-15,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,357.23,HUN,16.0,2024
+289,5:57.24,,Ádám PETRÓ,2007-07-27,HUN,1,"Dr. Koltai Jenő Sportközpont, Budapest (HUN)",2024-05-12,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,357.24,HUN,16.0,2024
+290,5:57.25,,Dan KAČUR,,CZE,5h2,Banská Bystrica (SVK),2024-07-19,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,357.25,SVK,,2024
+291,5:57.26,,Romeo CHAMALOT,,FRA,3,"Stade Helitas, Caen (FRA)",2024-07-06,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,357.26,FRA,,2024
+292,5:57.33,,Filippos SIOMOS GKIZAS,2006-11-16,GRE,1,"Municipal Stadium, Eleftheroupoli (GRE)",2023-05-04,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,357.33,GRE,16.0,2023
+293,5:57.36,,Jonas BEUTLER,2009-04-09,SUI,1,"Schönbuchstadion, Pliezhausen (GER)",2025-05-18,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,357.36,GER,16.0,2025
+294,5:57.40,,Bastien JACQ,,FRA,3,"Parc des Sports C. Ehrmann, Nice (FRA)",2025-05-31,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,357.4,FRA,,2025
+295,5:57.41,,Marco VOGGENREITER,2007-07-12,GER,2,"Schönbuchstadion, Pliezhausen (GER)",2024-05-05,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,357.41,GER,16.0,2024
+296,5:57.42,,Bastien JACQ,,FRA,2,"Stade Henri Lux, St-Etienne (FRA)",2025-06-28,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,357.42,FRA,,2025
+297,5:57.46,,Lukas CABEZON,2008-08-14,ESP,4,"Pistes d'atletisme Gaetà Huguet, Castellón (ESP)",2025-07-06,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,357.46,ESP,16.0,2025
+298,5:57.47,,Jonas BEUTLER,2009-04-09,SUI,9,"Athletic track of National Arena Philip II, Skopje (MKD)",2025-07-26,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,357.47,MKD,16.0,2025
+299,5:57.49,,Kais BEN AISSA,,FRA,2,"Stade de la Margotière, Chateauroux (FRA)",2023-07-14,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,357.49,FRA,,2023
+300,5:57.50,,Alex HONTECILLAS,2007-10-03,ESP,4,"Estadio Ciudad de Málaga, Málaga (ESP)",2024-07-07,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,357.5,ESP,16.0,2024
+301,5:57.51,,Karl GEBUREK,2006-01-12,GER,6h2,"Atletski stadion Poljane, Maribor (SLO)",2023-07-26,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,357.51,SLO,17.0,2023
+302,5:57.54,,Mert Hanifi ODACI,2007-06-16,TUR,6h2,Banská Bystrica (SVK),2024-07-19,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,357.54,SVK,17.0,2024
+303,5:57.55,,Modimo Oratile MASHIGO,2006-10-11,RSA,1,"Msunduzi Athletics Stadium, Pietermaritzburg (RSA)",2023-03-25,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,357.55,RSA,16.0,2023
+304,5:57.56,,Saada ZENNADI,,FRA,4,"Stade Henri Lux, St-Etienne (FRA)",2025-07-18,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,357.56,FRA,,2025
+305,5:57.58,,Luca COPPOLA,2007-04-02,ITA,7h2,Banská Bystrica (SVK),2024-07-19,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,357.58,SVK,17.0,2024
+306,5:57.59,,Titus MUTHAMA,2008-12-06,KEN,6,"Nyayo National Stadium, Nairobi (KEN)",2025-06-20,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,357.59000000000003,KEN,16.0,2025
+307,5:57.61,,Alessio REATO,2007-04-29,ITA,5f4,"Stadio M.S. Cozzoli, Molfetta (ITA)",2024-07-05,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,357.61,ITA,17.0,2024
+308,5:57.63,,Mathis DUBOIS,,FRA,3,"Stade Henri Lux, St-Etienne (FRA)",2025-06-28,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,357.63,FRA,,2025
+309,5:57.69,,Luke BIRDSEYE,2005-02-01,GBR,2f2,"Stantonbury Stadium, Milton Keynes (GBR)",2022-06-04,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,357.69,GBR,17.0,2022
+309,5:57.69,,Oscar THEBAUD,2004-07-07,FRA,2,"Stade R. Bobin, Bondoufle (FRA)",2021-07-09,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,357.69,FRA,17.0,2021
+311,5:57.71,,Conor SULLIVAN,,AUS,1,"Queensland Sport and Athletics Centre, Nathan, Brisbane (AUS)",2024-12-07,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,357.71,AUS,,2024
+312,5:57.72,,Paul WALOCHNY,2005-08-14,GER,2,"Stadion Hacheney, Dortmund (GER)",2022-06-11,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,357.72,GER,16.0,2022
+313,5:57.74,,Noah MÖLLER,,GER,3f2,"Lohrheidestadion, Wattenscheid, Bochum (GER)",2025-07-11,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,357.74,GER,,2025
+314,5:57.75,,Arthur JANSSENS,2007-04-15,BEL,8h2,Banská Bystrica (SVK),2024-07-19,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,357.75,SVK,17.0,2024
+315,5:57.77,,Jakub PIETRULA,,CZE,10,"Athletic track of National Arena Philip II, Skopje (MKD)",2025-07-26,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,357.77,MKD,,2025
+315,5:57.77,,Levente PÁLVÖLGYI,2004-06-12,HUN,2,"Sports Stadium CESA VUT, Brno (CZE)",2021-08-14,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,357.77,CZE,17.0,2021
+317,5:57.82,,Andreas GHILARDUCCI,2007-03-27,ITA,2,"Atletiekbaan Brakkenstein, Nijmegen (NED)",2024-05-18,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,357.82,NED,17.0,2024
+318,5:57.83,,Oliver PATTON,2006-09-15,GBR,6h2,"Givat Ram Stadium, Jerusalem (ISR)",2022-07-05,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,357.83,ISR,15.0,2022
+318,5:57.83,,Anton MARTINEZ,2004-05-15,ESP,1,Vigo (ESP),2021-06-13,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,357.83,ESP,17.0,2021
+320,5:57.87,,Dillon MILLARD,2007-02-25,GBR,6f1,Banská Bystrica (SVK),2024-07-21,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,357.87,SVK,17.0,2024
+321,5:57.88,,Adrian MOSCARDO,2006-05-25,ESP,3f2,"Pista de Atletismo Las Mestas, Gijón (ESP)",2023-07-09,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,357.88,ESP,17.0,2023
+321,5:57.88,,Rubén LEONARDO,2004-02-15,ESP,1,Valladolid (ESP),2021-05-29,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,357.88,ESP,17.0,2021
+323,5:57.90,,Mert Hanifi ODACI,2007-06-16,TUR,1,"Zeytinköy Atletizm Pisti, Antalya (TUR)",2024-04-07,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,357.9,TUR,16.0,2024
+323,5:57.90,,Iwan THOMAS,2007-04-13,GBR,1,"Alexander Stadium, Birmingham (GBR)",2024-05-08,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,357.9,GBR,17.0,2024
+325,5:57.92,,Padraig HEFFERNAN,2006-02-10,AUS,2,"Queensland Sport and Athletics Centre, Nathan, Brisbane (AUS)",2023-11-05,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,357.92,AUS,17.0,2023
+325,5:57.92,,Pere MAS,2008-06-07,ESP,5,"Estadio Ciudad de Málaga, Málaga (ESP)",2024-07-07,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,357.92,ESP,16.0,2024
+327,5:57.94,,Hicham ERRBIBIH,2005-12-02,FRA,2h1,"Givat Ram Stadium, Jerusalem (ISR)",2022-07-05,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,357.94,ISR,16.0,2022
+328,5:57.97,,Tamirat DEL PRETE,2008-08-21,ITA,2h1,"Athletic track of National Arena Philip II, Skopje (MKD)",2025-07-23,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,357.97,MKD,16.0,2025
+329,5:58.02,,Jules GEFFROY,,FRA,3,"Stade J. Roland, Franconville (FRA)",2022-06-19,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,358.02,FRA,,2022
+330,5:58.09,,Emmanouil VARDAS,2007-11-26,GRE,2,"Atletski stadion Poljane, Maribor (SLO)",2024-07-06,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,358.09000000000003,SLO,16.0,2024
+331,5:58.10,,Mihai-Alin ȘAVLOVSCHI,2006-08-22,ROU,1,"Fuar Alanı Atletizm Sahası, Sivas (TUR)",2023-09-02,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,358.1,TUR,17.0,2023
+331,5:58.10,,Eetu VALTOLA,2006-05-10,FIN,1,"Olympiastadion, Stockholm (SWE)",2023-09-02,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,358.1,SWE,17.0,2023
+333,5:58.15,,Lev PROBST,2007-06-23,RUS,1,"SGAFKST Arena, Smolensk (RUS)",2024-06-29,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,358.15,RUS,17.0,2024
+333,5:58.15,,Sem SERRANO,2006-02-03,BEL,5,"Štadión SNP, Banská Bystrica (SVK)",2022-07-30,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,358.15,SVK,16.0,2022
+335,5:58.16,,Simon JEUKENNE,2005-09-14,BEL,1,"Sportpark De Motten, Tongeren (BEL)",2022-05-20,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,358.16,BEL,16.0,2022
+336,5:58.17,,Ádám PETRÓ,2007-07-27,HUN,8h1,Banská Bystrica (SVK),2024-07-19,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,358.17,SVK,16.0,2024
+337,5:58.19,,Til STEPHAN,,GER,5f2,"Grenzlandstadion, Mönchengladbach (GER)",2024-07-05,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,358.19,GER,,2024
+338,5:58.24,,Davide DELAINI,2005-10-21,ITA,2f1,"Centro Al Bione, Lecco (ITA)",2022-05-07,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,358.24,ITA,16.0,2022
+339,5:58.25,,Pol CARRERA,2007-02-08,ESP,6,"Estadio Ciudad de Málaga, Málaga (ESP)",2024-07-07,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,358.25,ESP,17.0,2024
+340,5:58.27,,Damien PECHON,,LUX,3h1,"Athletic track of National Arena Philip II, Skopje (MKD)",2025-07-23,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,358.27,MKD,,2025
+340,5:58.27,,Samuel MATAMOROS,2007-05-17,ESP,7,"Estadio Ciudad de Málaga, Málaga (ESP)",2024-07-07,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,358.27,ESP,17.0,2024
+342,5:58.31,,Vincent MARREC,,FRA,1,"Stade Adolphe Cheron, St-Maur (FRA)",2023-06-14,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,358.31,FRA,,2023
+343,5:58.32,,Eden CHOMAUD,,FRA,1,"Stade de Loch, Auray (FRA)",2024-06-01,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,358.32,FRA,,2024
+344,5:58.34,,Biel VIVACQUA,2009-07-03,ESP,1,"Parque Olímpico Pista De Atletismo, Luque, Asunción (PAR)",2025-07-19,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,358.34000000000003,PAR,16.0,2025
+344,5:58.34,,Jonas BEUTLER,2009-04-09,SUI,4h1,"Athletic track of National Arena Philip II, Skopje (MKD)",2025-07-23,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,358.34000000000003,MKD,16.0,2025
+346,5:58.35,,Eliot DOUAUD,2004-02-10,FRA,3,"Stade R. Bobin, Bondoufle (FRA)",2021-07-09,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,358.35,FRA,17.0,2021
+347,5:58.36,,Kristian BRÅTHEN BØRVE,2006-12-08,NOR,3h1,"Givat Ram Stadium, Jerusalem (ISR)",2022-07-05,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,358.36,ISR,15.0,2022
+347,5:58.36,,Matko BELČIĆ,2006-02-13,CRO,1f1,"Stadion Branko Čavlović-Čavlek, Karlovac (CRO)",2023-06-04,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,358.36,CRO,17.0,2023
+347,5:58.36,,Ulrik Jåvoll HAGEN,,NOR,1,"Slottsskogsvallen, Göteborg (SWE)",2024-07-05,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,358.36,SWE,,2024
+347,5:58.36,,Joar ANDERSSON,,SWE,1,"Sunnerbovallen, Ljungby (SWE)",2025-08-17,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,358.36,SWE,,2025
+351,5:58.39,,Roger GOMEZ,2007-01-26,ESP,8,"Estadio Ciudad de Málaga, Málaga (ESP)",2024-07-07,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,358.39,ESP,17.0,2024
+352,5:58.40,,Leon STOLTZ,2008-04-15,RSA,1,"Pilditch Stadium, Pretoria (RSA)",2025-03-15,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,358.4,RSA,16.0,2025
+353,5:58.46,,Kilani NJEMA,2008-08-05,BEL,1,"Wouter Weylandtstadion, Gentbrugge (BEL)",2025-06-25,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,358.46,BEL,16.0,2025
+354,5:58.48,,Luis RODRIGUEZ,2006-08-27,ESP,9f1,"Pista de Atletismo Las Mestas, Gijón (ESP)",2023-07-09,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,358.48,ESP,16.0,2023
+355,5:58.49,,Harvey CRAMB,,AUS,1,"Queensland Sport and Athletics Centre, Nathan, Brisbane (AUS)",2021-11-06,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,358.49,AUS,,2021
+356,5:58.56,,Mihai-Alin ȘAVLOVSCHI,2006-08-22,ROU,4h1,"Givat Ram Stadium, Jerusalem (ISR)",2022-07-05,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,358.56,ISR,15.0,2022
+357,5:58.57,,Joseph SAUNDERS,2005-10-13,AUS,1,"Queensland Sport and Athletics Centre, Nathan, Brisbane (AUS)",2022-10-15,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,358.57,AUS,17.0,2022
+358,5:58.58,,Henrique RODRIGUES,2008-02-28,BRA,2,"Parque Olímpico Pista De Atletismo, Luque, Asunción (PAR)",2025-07-19,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,358.58,PAR,17.0,2025
+359,5:58.60,,Pol CARRERA,2007-02-08,ESP,4,"Pistes d'atletisme Gaetà Huguet, Castellón (ESP)",2024-05-22,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,358.6,ESP,17.0,2024
+360,5:58.61,,Máté SOLYMÁRI,2006-11-17,HUN,1,"Olimpiai Sportpark, Győr (HUN)",2022-09-03,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,358.61,HUN,15.0,2022
+360,5:58.61,,Anas ELHANI,,TUN,3,"Stadion Radés, Radés (TUN)",2025-07-05,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,358.61,TUN,,2025
+362,5:58.64,,Marcus ASKER,2005-01-20,SWE,7h2,"Givat Ram Stadium, Jerusalem (ISR)",2022-07-05,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,358.64,ISR,17.0,2022
+363,5:58.69,,Sumit RATHEE,2006-09-22,IND,2,Tashkent (UZB),2023-04-30,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,358.69,UZB,16.0,2023
+364,5:58.70,,Musab KUNDAKÇI,2007-01-07,TUR,1,"Nevin Yanıt Atletizm Pisti, Mersin (TUR)",2023-05-27,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,358.7,TUR,16.0,2023
+365,5:58.72,,Mats VERVOORT,2007-07-06,BEL,3,"Atletiekbaan Brakkenstein, Nijmegen (NED)",2024-05-18,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,358.72,NED,16.0,2024
+366,5:58.73,,Noah ESCAT,,FRA,4,"Stade Henri Lux, St-Etienne (FRA)",2025-06-28,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,358.73,FRA,,2025
+367,5:58.74,,Damien PECHON,,LUX,11,"Athletic track of National Arena Philip II, Skopje (MKD)",2025-07-26,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,358.74,MKD,,2025
+368,5:58.76,,Eden CHOMAUD,,FRA,4,"Stade Helitas, Caen (FRA)",2024-07-06,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,358.76,FRA,,2024
+369,5:58.77,,Gerhard BOSSERT,2007-07-12,RSA,1,"Pilditch Stadium, Pretoria (RSA)",2024-03-23,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,358.77,RSA,16.0,2024
+370,5:58.79,,Ulrik Jåvoll HAGEN,,NOR,9h1,Banská Bystrica (SVK),2024-07-19,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,358.79,SVK,,2024
+371,5:58.81,,Eetu VALTOLA,2006-05-10,FIN,7h2,"Atletski stadion Poljane, Maribor (SLO)",2023-07-26,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,358.81,SLO,17.0,2023
+372,5:58.82,,Mikel ABAD,2006-03-11,ESP,4f2,"Pista de Atletismo Las Mestas, Gijón (ESP)",2023-07-09,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,358.82,ESP,17.0,2023
+373,5:58.83,,Arseniy ARBUZOV,2006-11-28,RUS,1,"Luzhniki North Arena, Moskva (RUS)",2023-07-01,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,358.83,RUS,16.0,2023
+374,5:58.85,,Luke BIRDSEYE,2005-02-01,GBR,5h1,"Givat Ram Stadium, Jerusalem (ISR)",2022-07-05,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,358.85,ISR,17.0,2022
+375,5:58.92,,Samuel LEITNER,2004-08-12,AUT,1,"Atletski Stadion, Kraljevo (SRB)",2021-08-14,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,358.92,SRB,17.0,2021
+376,5:58.93,,Joseph SAUNDERS,2005-10-13,AUS,2,"Queensland Sport and Athletics Centre, Nathan, Brisbane (AUS)",2021-11-06,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,358.93,AUS,16.0,2021
+377,5:58.94,,Johannes SANDVIK BØ,2006-01-23,NOR,12,"Atletski stadion Poljane, Maribor (SLO)",2023-07-29,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,358.94,SLO,17.0,2023
+377,5:58.94,,Modimo Oratile MASHIGO,2006-10-11,RSA,1,"Germiston Stadium, Johannesburg (RSA)",2023-03-11,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,358.94,RSA,16.0,2023
+379,5:58.96,,Tony THOMAS,2007-03-11,AUS,1,"Queensland Sport and Athletics Centre, Nathan, Brisbane (AUS)",2023-04-15,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,358.96,AUS,16.0,2023
+380,5:58.97,,Edgar HUILLCA,2005-12-08,PER,1,São Paulo (BRA),2022-09-10,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,358.97,BRA,16.0,2022
+381,5:59.01,,Charles BARRETT,2007-05-23,AUS,1,"Lakeside Stadium, Melbourne (AUS)",2024-10-27,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,359.01,AUS,17.0,2024
+382,5:59.02,,Tjaž DJAIP BARTOLJ,2007-10-15,SLO,3,"Atletski stadion Poljane, Maribor (SLO)",2024-07-06,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,359.02,SLO,16.0,2024
+382,5:59.02,,Moritz GUTOWSKI,2007-08-29,GER,3,"Schönbuchstadion, Pliezhausen (GER)",2024-05-05,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,359.02,GER,16.0,2024
+384,5:59.03,,Mario VAZQUEZ,,MEX,1,"Pista de Atletismo del Centro Deportivo Benito Juárez, Mazatlán (MEX)",2024-03-22,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,359.03,MEX,,2024
+385,5:59.09,,Alex HONTECILLAS,2007-10-03,ESP,5,"Pistes d'atletisme Gaetà Huguet, Castellón (ESP)",2024-05-22,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,359.09000000000003,ESP,16.0,2024
+386,5:59.11,,Saada ZENNADI,,FRA,1,"Stade Adolphe Cheron, St-Maur (FRA)",2025-07-03,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,359.11,FRA,,2025
+387,5:59.12,,Alexis LEDEAN,2005-07-01,FRA,1,Redon (FRA),2022-07-03,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,359.12,FRA,17.0,2022
+387,5:59.12,,Antonios ZAMPELIS,2008-11-29,GRE,1f2,"Pampeloponnisiako Stadium, Patra (GRE)",2025-06-21,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,359.12,GRE,16.0,2025
+389,5:59.15,,Riccardo AMBROSIO,2007-09-30,ITA,7f1,Banská Bystrica (SVK),2024-07-21,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,359.15,SVK,16.0,2024
+390,5:59.16,,Antti RISTANEN,,FIN,1,"Klaukkalan urheilukenttä, Nurmijärvi (FIN)",2025-05-25,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,359.16,FIN,,2025
+390,5:59.16,,Lennox GYULAI,,GER,1,"Heinz-Steyer-Stadion, Dresden (GER)",2025-05-24,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,359.16,GER,,2025
+392,5:59.17,,Roger GOMEZ,2007-01-26,ESP,3,"Estadi Municipal Josep Pla, Palafrugell (ESP)",2024-06-08,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,359.17,ESP,17.0,2024
+393,5:59.20,,Levin SAVEUR,2007-09-11,GER,4,"Schönbuchstadion, Pliezhausen (GER)",2024-05-05,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,359.2,GER,16.0,2024
+394,5:59.24,,Antonios ZAMPELIS,2008-11-29,GRE,5h1,"Athletic track of National Arena Philip II, Skopje (MKD)",2025-07-23,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,359.24,MKD,16.0,2025
+394,5:59.24,,Isacc DUPORTAL,2006-10-15,FRA,2h1,"Atletski stadion Poljane, Maribor (SLO)",2023-07-26,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,359.24,SLO,16.0,2023
+396,5:59.25,,Manex CIVICO,2005-02-13,ESP,13f1,"Givat Ram Stadium, Jerusalem (ISR)",2022-07-07,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,359.25,ISR,17.0,2022
+397,5:59.26,,Michał GAJDUS,2008-01-10,POL,8f1,Banská Bystrica (SVK),2024-07-21,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,359.26,SVK,16.0,2024
+398,5:59.39,,Hicham ERRBIBIH,2005-12-02,FRA,4,"Stade R. Bobin, Bondoufle (FRA)",2021-07-09,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,359.39,FRA,15.0,2021
+399,5:59.40,,Alex SIERPES,2008-10-29,ESP,1,"Parque Desportivo de Ramalde, Porto (POR)",2024-05-01,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,359.4,POR,15.0,2024
+400,5:59.42,,Toby CHIPPENDALE,2006-12-18,AUS,1,"Queensland Sport and Athletics Centre, Nathan, Brisbane (AUS)",2022-10-15,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,359.42,AUS,15.0,2022
+401,5:59.43,,El Hassane BOUKNARI,,MAR,2,"Complexe Sportif Prince Moulay Abdellah, Rabat (MAR)",2022-07-16,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,359.43,MAR,,2022
+401,5:59.43,,Tomáš RUŽA,,CZE,2,"Vitkovice, Ostrava (CZE)",2022-06-18,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,359.43,CZE,,2022
+403,5:59.45,,Riccardo AMBROSIO,2007-09-30,ITA,1,"Raiffeisen Arena, Bressanone, Trentino-Alto Adige (ITA)",2024-05-26,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,359.45,ITA,16.0,2024
+404,5:59.47,,Asher PARKIN,2007-03-27,AUS,2,"HFC Bank Stadium, Suva (FIJ)",2024-06-06,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,359.47,FIJ,17.0,2024
+404,5:59.47,,Léo CHOINIÈRE-LONGPRÉ,,CAN,1,"École Chavigny, Trois-Rivieres (CAN)",2025-07-26,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,359.47,CAN,,2025
+404,5:59.47,,Jacob GARDNER,2006-05-05,AUS,2,"Queensland Sport and Athletics Centre, Nathan, Brisbane (AUS)",2023-04-15,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,359.47,AUS,16.0,2023
+407,5:59.48,,Mustafa MOHSIN,2006-03-26,IRQ,1,Al-Kuwait (KUW),2022-10-16,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,359.48,KUW,16.0,2022
+408,5:59.51,,Antti RISTANEN,,FIN,1,"Stadion, Lahti (FIN)",2025-07-04,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,359.51,FIN,,2025
+409,5:59.54,,Jhonnatan Omar REYES,,MEX,2,"Pista de Atletismo del Centro Deportivo Benito Juárez, Mazatlán (MEX)",2024-03-22,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,359.54,MEX,,2024
+410,5:59.58,,Mathis DUBOIS,,FRA,1,"Stade Jacques Forestier, Aix-les-Bains (FRA)",2024-10-13,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,359.58,FRA,,2024
+411,5:59.62,,Oliver PATTON,2006-09-15,GBR,1,"Birmingham University Athletics Track, Birmingham (GBR)",2022-05-14,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,359.62,GBR,15.0,2022
+412,5:59.63,,Giordano CONTIGIANI,,ITA,5f3,"Stadio Guidobaldi, Rieti (ITA)",2025-06-28,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,359.63,ITA,,2025
+412,5:59.63,,Florian HUEMER,,AUT,8h2,"Athletic track of National Arena Philip II, Skopje (MKD)",2025-07-23,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,359.63,MKD,,2025
+412,5:59.63,,Théotime POPEA,2008-05-02,SUI,3,"Stadion Kleinholz, Olten (SUI)",2025-05-24,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,359.63,SUI,17.0,2025
+415,5:59.65,,Xicheng TANG,2008-05-03,CHN,2f1,"Olympic Center, Shenyang (CHN)",2025-08-12,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,359.65,CHN,17.0,2025
+415,5:59.65,,Marcus ASKER,2005-01-20,SWE,14f1,"Givat Ram Stadium, Jerusalem (ISR)",2022-07-07,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,359.65,ISR,17.0,2022
+417,5:59.69,,Kristian BRÅTHEN BØRVE,2006-12-08,NOR,1,"Ullevi Stadium, Göteborg (SWE)",2022-06-17,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,359.69,SWE,15.0,2022
+418,5:59.73,,Damjan EROR,2006-01-27,AUT,13,"Atletski stadion Poljane, Maribor (SLO)",2023-07-29,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,359.73,SLO,17.0,2023
+419,5:59.75,,Adam BRUNTSCH,2004-06-09,AUS,2,"SOPAC, Sydney (AUS)",2021-04-18,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,359.75,AUS,16.0,2021
+420,5:59.77,,Anton MARTINEZ,2004-05-15,ESP,4f1,"Estadio Iberoamericano, Huelva (ESP)",2021-07-25,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,359.77,ESP,17.0,2021
+421,5:59.80,,Merijn HUYGENS,,BEL,1,"Sport Vlaanderen Herentals, Herentals (BEL)",2025-08-31,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,359.8,BEL,,2025
+422,5:59.83,,Ayoub EL AMANI,2004-02-29,FRA,5,"Stade R. Bobin, Bondoufle (FRA)",2021-07-09,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,359.83,FRA,17.0,2021
+423,5:59.92,,Cuma ÖZCAN,2005-07-15,TUR,8h2,"Givat Ram Stadium, Jerusalem (ISR)",2022-07-05,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,359.92,ISR,16.0,2022
+424,6:00.00,,Naofal BIDAL,,ITA,2,"Stadio Enzo Blasone, Foligno (ITA)",2025-06-04,,2000-metres-steeplechase-84,middlelong,male,u18,2000-metres-steeplechase-84,track,360.0,ITA,,2025
