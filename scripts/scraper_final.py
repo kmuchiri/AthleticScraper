@@ -124,7 +124,7 @@ def scrape_event(gender, age_category, discipline_slug, type_slug, output_dir, t
         filepath = os.path.join(output_dir, filename)
         with lock:
             pd.DataFrame(data).to_csv(filepath, index=False)
-            print(f"✅ Saved {filepath}")
+            print(f" Saved {filepath}")
 
 # Multithreading -------------------------
 
@@ -155,4 +155,4 @@ def run_multithreaded_scrape(max_workers=10):
 
 if __name__ == "__main__":
     run_multithreaded_scrape(max_workers=30)
-    print("🎯 Scraping complete.")
+    print(" Scraping complete.")

@@ -26,7 +26,7 @@ for gender in ["male", "female"]:
         filename = f"{event_type}.csv"
         filepath = os.path.join(type_output_dir, filename)
         df_group.to_csv(filepath, index=False)
-        print(f"✅ Saved: {filepath}")
+        print(f" Saved: {filepath}")
 
     # --- Split by discipline ---
     discipline_output_dir = f"datasets/split_by_discipline/{gender}"
@@ -36,4 +36,4 @@ for gender in ["male", "female"]:
         filename = f"{discipline}.csv"
         filepath = os.path.join(discipline_output_dir, filename)
         df_group.to_csv(filepath, index=False)
-        print(f"✅ Saved: {filepath}")
+        print(f" Saved: {filepath}")

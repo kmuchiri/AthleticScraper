@@ -36,7 +36,7 @@ This dataset contains structured performance records from international athletic
 
 | Column Name           | Description                                                                 |
 |------------------------|-----------------------------------------------------------------------------|
-| `rank`                | Athlete’s placement within the event (1 = first place).                     |
+| `rank`                | Athlete’s placement within the discipline overall (1 = first place).                     |
 | `mark`                | Performance mark (in seconds for track or meters for field events).         |
 | `wind`                | Wind reading during the event (m/s); relevant for sprints and hurdles.      |
 | `competitor`          | Full name of the athlete.                                                   |

@@ -90,9 +90,6 @@ for gender in os.listdir(root_dir):
                 key = (gender, type_slug, base_discipline)
                 files_by_gender_and_discipline[key].append(os.path.join(gender_path, file))
 
-
-
-
 # Combine and sort
 for (gender, type_slug, discipline_key), file_list in files_by_gender_and_discipline.items():
     df = pd.concat([pd.read_csv(f) for f in file_list], ignore_index=True)
@@ -110,24 +107,18 @@ for (gender, type_slug, discipline_key), file_list in files_by_gender_and_discip
         df["track_field"] = "unknown"
 
     if "mark" not in df.columns:
-        print(f"⚠️ Skipping {discipline_key} — missing 'Mark'")
+        print(f" Skipping {discipline_key} — missing 'Mark'")
         continue
 
     df["Parsed Mark"] = df["mark"].apply(parse_mark)
 
-    # Sort
     sort_ascending = type_slug in ascending_types
 
     # Apply numeric mark parsing (before sorting/ranking)
     df["mark_numeric"] = df["mark"].apply(parse_mark_to_number)
-
-    # Use it for sorting instead of Parsed Mark
     df = df.sort_values("mark_numeric", ascending=sort_ascending).reset_index(drop=True)
-
     df["venue_country"] = df["venue"].apply(extract_country_code_from_venue)
     
-
-
     # Remove the helper column
     df.drop(columns=["Parsed Mark"], inplace=True)
 
@@ -135,14 +126,13 @@ for (gender, type_slug, discipline_key), file_list in files_by_gender_and_discip
         if col in df.columns:
             df[col] = pd.to_datetime(df[col], format="%d %b %Y", errors="coerce")
 
-    # Compute age in full years (always rounded down)
+    # Age in full years (always rounded down)
     if "dob" in df.columns and "date" in df.columns:
         df["age_at_event"] = (df["date"] - df["dob"]).dt.days // 365
 
     if "date" in df.columns:
         df["season"] = df["date"].dt.year
 
-
     output_path = os.path.join(output_dir, f"{gender}_{type_slug}_{discipline_key}.csv")
     df.to_csv(output_path, index=False)
-    print(f"✅ Saved sorted and ranked: {output_path}")
+    print(f" Saved sorted and ranked: {output_path}")

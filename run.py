@@ -9,6 +9,9 @@ scripts = [
 ]
 
 for script in scripts:
-    print(f"🚀 Running {script}...")
+    print(f" Running {script}...")
+    print("")
     subprocess.run(["python", script], check=True)
-    print(f"✅ Finished {script}\n")
+    print(f"Completed running Script: {script}\n")
+    print("")
+
