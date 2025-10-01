@@ -17,7 +17,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 16,84.86,,Koji MUROFUSHI,08 OCT 1974,JPN,1,"Stadion Juliska, Praha (CZE)",29 JUN 2003,1278,hammer-throw,throws,male,senior
 17,84.80,,Sergey LITVINOV,23 JAN 1958,URS,1,"Olympic Stadium, Seoul (KOR)",26 SEP 1988,1277,hammer-throw,throws,male,senior
 18,84.72,,Yuriy SEDYKH,11 JUN 1955,URS,1,Moskva (URS),09 JUL 1986,1276,hammer-throw,throws,male,senior
-19,84.70,,Ethan KATZBERG,05 APR 2002,CAN,1f1,"National Stadium, Tokyo (JPN)",16 SEP 2025,1276,hammer-throw,throws,male,senior
+19,84.70,,Ethan KATZBERG,05 APR 2002,CAN,1,"National Stadium, Tokyo (JPN)",16 SEP 2025,1276,hammer-throw,throws,male,senior
 20,84.64,,Sergey LITVINOV,23 JAN 1958,URS,2,Moskva (URS),09 JUL 1986,1275,hammer-throw,throws,male,senior
 21,84.62,,Igor ASTAPKOVICH,04 JAN 1963,BLR,1,Sevilla (ESP),06 JUN 1992,1274,hammer-throw,throws,male,senior
 22,84.60,,Yuriy SEDYKH,11 JUN 1955,URS,1,Tokyo (JPN),14 SEP 1984,1274,hammer-throw,throws,male,senior
@@ -126,7 +126,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 122,82.78,,Karsten KOBS,16 SEP 1971,GER,1,Dortmund (GER),26 JUN 1999,1246,hammer-throw,throws,male,senior
 126,82.77,,Ivan TIKHON,24 JUL 1976,BLR,1,Daegu (KOR),30 AUG 2003,1246,hammer-throw,throws,male,senior
 126,82.77,,Paweł FAJDEK,04 JUN 1989,POL,1,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",30 JUN 2021,1246,hammer-throw,throws,male,senior
-126,82.77,,Merlin HUMMEL,04 JAN 2002,GER,2f1,"National Stadium, Tokyo (JPN)",16 SEP 2025,1246,hammer-throw,throws,male,senior
+126,82.77,,Merlin HUMMEL,04 JAN 2002,GER,2,"National Stadium, Tokyo (JPN)",16 SEP 2025,1246,hammer-throw,throws,male,senior
 129,82.76,,Igor ASTAPKOVICH,04 JAN 1963,BLR,1,Minsk (BLR),13 JUL 2001,1246,hammer-throw,throws,male,senior
 129,82.76,,Paweł FAJDEK,04 JUN 1989,POL,1,Halle (GER),16 MAY 2015,1246,hammer-throw,throws,male,senior
 131,82.73,,Adrián ANNUS,28 JUN 1973,HUN,2,"Stadion Juliska, Praha (CZE)",29 JUN 2003,1245,hammer-throw,throws,male,senior
@@ -134,7 +134,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 133,82.71,,Rudy WINKLER,06 DEC 1994,USA,1,"Hayward Field, Eugene, OR (USA)",20 JUN 2021,1245,hammer-throw,throws,male,senior
 134,82.70,,Yuriy SEDYKH,11 JUN 1955,URS,1,London (GBR),19 JUL 1985,1245,hammer-throw,throws,male,senior
 135,82.69,,Krisztián PARS,18 FEB 1982,HUN,1,"Letzigrund, Zürich (SUI)",16 AUG 2014,1244,hammer-throw,throws,male,senior
-135,82.69,,Bence HALÁSZ,04 AUG 1997,HUN,3f1,"National Stadium, Tokyo (JPN)",16 SEP 2025,1244,hammer-throw,throws,male,senior
+135,82.69,,Bence HALÁSZ,04 AUG 1997,HUN,3,"National Stadium, Tokyo (JPN)",16 SEP 2025,1244,hammer-throw,throws,male,senior
 137,82.68,,Sergey LITVINOV,23 JAN 1958,URS,1,"Olympiastadion, Helsinki (FIN)",09 AUG 1983,1244,hammer-throw,throws,male,senior
 137,82.68,,Tibor GÉCSEK,22 SEP 1964,HUN,1,"SGJ, Johannesburg (RSA)",12 SEP 1998,1244,hammer-throw,throws,male,senior
 137,82.68,,Adrián ANNUS,28 JUN 1973,HUN,1,Nikiti (GRE),17 JUL 2002,1244,hammer-throw,throws,male,senior
@@ -271,7 +271,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 269,82.02,,Jüri TAMM,05 FEB 1957,URS,1,Bryansk (URS),19 JUL 1987,1234,hammer-throw,throws,male,senior
 269,82.02,,Vasiliy SIDORENKO,01 MAY 1961,RUS,2,Zürich (SUI),17 AUG 1994,1234,hammer-throw,throws,male,senior
 269,82.02,,Primož KOZMUS,30 SEP 1979,SLO,1,"National Stadium, Beijing (CHN)",17 AUG 2008,1234,hammer-throw,throws,male,senior
-269,82.02,,Mykhaylo KOKHAN,22 JAN 2001,UKR,4f1,"National Stadium, Tokyo (JPN)",16 SEP 2025,1234,hammer-throw,throws,male,senior
+269,82.02,,Mykhaylo KOKHAN,22 JAN 2001,UKR,4,"National Stadium, Tokyo (JPN)",16 SEP 2025,1234,hammer-throw,throws,male,senior
 274,82.01,,Koji MUROFUSHI,08 OCT 1974,JPN,1,"Olympic Stadium, Athina (GRE)",16 SEP 2006,1234,hammer-throw,throws,male,senior
 275,82.00,,Igor NIKULIN,14 AUG 1960,URS,3,"Neckarstadion, Stuttgart (GER)",30 AUG 1986,1234,hammer-throw,throws,male,senior
 275,82.00,,Igor NIKULIN,14 AUG 1960,URS,2,Adler (URS),23 MAY 1987,1234,hammer-throw,throws,male,senior
@@ -1685,7 +1685,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 1678,79.65,,Krisztián PARS,18 FEB 1982,HUN,1,Szombathely (HUN),08 SEP 2009,1197,hammer-throw,throws,male,senior
 1678,79.65,,Paweł FAJDEK,04 JUN 1989,POL,3,"Mestský Stadion, Ostrava (CZE)",16 JUN 2014,1197,hammer-throw,throws,male,senior
 1686,79.64,,Ken FLAX,20 APR 1963,USA,1,"Corvallis, OR (USA)",05 JUN 1987,1197,hammer-throw,throws,male,senior
-1686,79.64,,Yuriy CHEMEGA,18 FEB 1967,RUS,1,Stavropol (RUS),30 MAY 1993,1197,hammer-throw,throws,male,senior
+1686,79.64,,Yuriy CHERNEGA,18 FEB 1967,RUS,1,Stavropol (RUS),30 MAY 1993,1197,hammer-throw,throws,male,senior
 1686,79.64,,Heinz WEIS,14 JUL 1963,GER,1,Chemnitz (GER),20 MAY 1998,1197,hammer-throw,throws,male,senior
 1686,79.64,,Enrico SGRULLETTI,24 APR 1965,ITA,1,Roma (ITA),24 MAY 1998,1197,hammer-throw,throws,male,senior
 1686,79.64,,Tibor GÉCSEK,22 SEP 1964,HUN,3,Torino (ITA),24 JUN 1998,1197,hammer-throw,throws,male,senior
@@ -3065,7 +3065,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 3046,78.52,,Lukáš MELICH,16 SEP 1980,CZE,2q1,"Luzhniki Stadion, Moskva (RUS)",10 AUG 2013,1180,hammer-throw,throws,male,senior
 3046,78.52,,Dmitriy MARSHIN,15 SEP 1972,AZE,,Brest (BLR),15 MAY 2015,1180,hammer-throw,throws,male,senior
 3046,78.52,,Wojciech NOWICKI,22 FEB 1989,POL,1,"Stadion Śląski, Chorzów (POL)",20 JUN 2020,1180,hammer-throw,throws,male,senior
-3046,78.52,,Rudy WINKLER,06 DEC 1994,USA,5f1,"National Stadium, Tokyo (JPN)",16 SEP 2025,1180,hammer-throw,throws,male,senior
+3046,78.52,,Rudy WINKLER,06 DEC 1994,USA,5,"National Stadium, Tokyo (JPN)",16 SEP 2025,1180,hammer-throw,throws,male,senior
 3068,78.51,,Karsten KOBS,16 SEP 1971,GER,2,Dortmund (GER),02 MAY 1998,1179,hammer-throw,throws,male,senior
 3068,78.51,,Christophe EPALLE,23 JAN 1969,FRA,1,"International Stadium, Gateshead (GBR)",15 JUL 2000,1179,hammer-throw,throws,male,senior
 3068,78.51,,Libor CHARFREITAG,11 SEP 1977,SVK,3,Szombathely (HUN),16 JUL 2002,1179,hammer-throw,throws,male,senior
@@ -3814,7 +3814,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 3790,78.02,,Roberto JANET,29 AUG 1986,CUB,1,La Habana (CUB),28 MAY 2015,1172,hammer-throw,throws,male,senior
 3790,78.02,,Andrey ROMANOV,19 SEP 1994,ANA,2,"Yunost Stadium, Adler, Sochi (RUS)",28 MAY 2022,1172,hammer-throw,throws,male,senior
 3790,78.02,,Yann CHAUSSINAND,11 MAY 1998,FRA,1,"Stade P. Marcombes, Clermont-Ferrand (FRA)",18 MAY 2025,1172,hammer-throw,throws,male,senior
-3790,78.02,,Thomas MARDAL,16 APR 1997,NOR,6f1,"National Stadium, Tokyo (JPN)",16 SEP 2025,1172,hammer-throw,throws,male,senior
+3790,78.02,,Thomas MARDAL,16 APR 1997,NOR,6,"National Stadium, Tokyo (JPN)",16 SEP 2025,1172,hammer-throw,throws,male,senior
 3817,78.01,,Holger KLOSE,05 DEC 1972,GER,6,Rüdlingen (SUI),23 AUG 1998,1172,hammer-throw,throws,male,senior
 3817,78.01,,Vladimír MAŠKA,06 FEB 1973,CZE,1,Turnov (CZE),19 SEP 1999,1172,hammer-throw,throws,male,senior
 3817,78.01,,Nicolas FIGERE,19 MAY 1979,FRA,2,Noisy-le-Grand (FRA),19 JUN 2001,1172,hammer-throw,throws,male,senior
@@ -3868,7 +3868,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 3864,77.98,,Karl-Hans RIEHM,31 MAY 1951,FRG,2,"Memorial Coliseum, Los Angeles, CA (USA)",06 AUG 1984,1171,hammer-throw,throws,male,senior
 3864,77.98,,Ralf HABER,18 AUG 1962,GDR,2,Neubrandenburg (GDR),10 JUL 1988,1171,hammer-throw,throws,male,senior
 3864,77.98,,Ken FLAX,20 APR 1963,USA,1,"Modesto, CA (USA)",06 MAY 1989,1171,hammer-throw,throws,male,senior
-3864,77.98,,Yuriy CHEMEGA,18 FEB 1967,URS,3,Togliatti (URS),01 JUL 1989,1171,hammer-throw,throws,male,senior
+3864,77.98,,Yuriy CHERNEGA,18 FEB 1967,URS,3,Togliatti (URS),01 JUL 1989,1171,hammer-throw,throws,male,senior
 3864,77.98,,Juha TIAINEN,05 DEC 1955,FIN,1,Lappeenranta (FIN),21 AUG 1990,1171,hammer-throw,throws,male,senior
 3864,77.98,,Balázs KISS,21 MAR 1972,HUN,1,"Los Angeles, CA (USA)",04 APR 1998,1171,hammer-throw,throws,male,senior
 3864,77.98,,Andrey ABDUVALIYEV,30 JUN 1966,UZB,6,Budapest (HUN),05 JUL 1998,1171,hammer-throw,throws,male,senior
@@ -4014,7 +4014,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 4005,77.90,,Günther RODEHAU,06 JUL 1959,GDR,4,"Poljud Stadion, Split (CRO)",31 AUG 1990,1170,hammer-throw,throws,male,senior
 4005,77.90,,Tibor GÉCSEK,22 SEP 1964,HUN,1,New Delhi (IND),18 SEP 1990,1170,hammer-throw,throws,male,senior
 4005,77.90,,Jud LOGAN,19 JUL 1959,USA,1,"University Park, PA (USA)",09 JUL 1991,1170,hammer-throw,throws,male,senior
-4005,77.90,,Yuriy CHEMEGA,18 FEB 1967,RUS,1,Krasnodar (URS),05 MAY 1992,1170,hammer-throw,throws,male,senior
+4005,77.90,,Yuriy CHERNEGA,18 FEB 1967,RUS,1,Krasnodar (URS),05 MAY 1992,1170,hammer-throw,throws,male,senior
 4005,77.90,,Nikolay DAVYDOV,11 APR 1970,KGZ,1,Moskva (RUS),22 JUL 1995,1170,hammer-throw,throws,male,senior
 4005,77.90,,Igor ASTAPKOVICH,04 JAN 1963,BLR,4,Sevilla (ESP),09 JUN 2000,1170,hammer-throw,throws,male,senior
 4005,77.90,,Krisztián PARS,18 FEB 1982,HUN,2,Slovenska Bistrica (SLO),11 MAY 2003,1170,hammer-throw,throws,male,senior
@@ -4125,7 +4125,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 4116,77.82,,Benjaminas VILUCKIS,20 MAR 1961,URS,7,Adler (URS),01 JUN 1988,1169,hammer-throw,throws,male,senior
 4116,77.82,,Tibor GÉCSEK,22 SEP 1964,HUN,1,Bratislava (TCH),08 JUN 1988,1169,hammer-throw,throws,male,senior
 4116,77.82,,Heinz WEIS,14 JUL 1963,FRG,2,Birmingham (GBR),24 JUN 1989,1169,hammer-throw,throws,male,senior
-4116,77.82,,Yuriy CHEMEGA,18 FEB 1967,URS,1,Bryansk (URS),17 JUN 1990,1169,hammer-throw,throws,male,senior
+4116,77.82,,Yuriy CHERNEGA,18 FEB 1967,URS,1,Bryansk (URS),17 JUN 1990,1169,hammer-throw,throws,male,senior
 4116,77.82,,Tibor GÉCSEK,22 SEP 1964,HUN,2q2,"Gottlieb-Daimler Stadion, Stuttgart (GER)",14 AUG 1993,1169,hammer-throw,throws,male,senior
 4116,77.82,,Balázs KISS,21 MAR 1972,HUN,3,"Olympiastadion, Berlin (GER)",23 AUG 1997,1169,hammer-throw,throws,male,senior
 4116,77.82,,Ilya KONOVALOV,04 MAR 1971,RUS,4,Rüdlingen (SUI),29 AUG 1999,1169,hammer-throw,throws,male,senior
@@ -4253,7 +4253,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 4244,77.75,,Libor CHARFREITAG,11 SEP 1977,SVK,3,Velenje (SLO),26 JUN 2008,1168,hammer-throw,throws,male,senior
 4244,77.75,,Quentin BIGOT,01 DEC 1992,FRA,1,Luxembourg (LUX),03 AUG 2019,1168,hammer-throw,throws,male,senior
 4244,77.75,,Denzel COMENENTIA,25 NOV 1995,NED,2,"Univ. of Arizona Roy P. Drachman Stadium, Tucson, AZ (USA)",04 MAY 2024,1168,hammer-throw,throws,male,senior
-4244,77.75,,Paweł FAJDEK,04 JUN 1989,POL,7f1,"National Stadium, Tokyo (JPN)",16 SEP 2025,1168,hammer-throw,throws,male,senior
+4244,77.75,,Paweł FAJDEK,04 JUN 1989,POL,7,"National Stadium, Tokyo (JPN)",16 SEP 2025,1168,hammer-throw,throws,male,senior
 4256,77.74,,Klaus PLOGHAUS,31 JAN 1956,FRG,1,Bucureşti (ROU),13 JUN 1981,1168,hammer-throw,throws,male,senior
 4256,77.74,,Klaus PLOGHAUS,31 JAN 1956,FRG,1,Bucureşti (ROU),25 JUL 1981,1168,hammer-throw,throws,male,senior
 4256,77.74,,Mariusz TOMASZEWSKI,23 APR 1956,POL,1,Warszawa (POL),15 AUG 1983,1168,hammer-throw,throws,male,senior
@@ -4664,7 +4664,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 4661,77.50,,Benjaminas VILUCKIS,20 MAR 1961,URS,1,Vilnius (LTU),25 MAY 1983,1164,hammer-throw,throws,male,senior
 4661,77.50,,Nicolae BÎNDAR,14 MAR 1956,ROU,1,Poiana Brasov (ROU),07 JUL 1985,1164,hammer-throw,throws,male,senior
 4661,77.50,,Ivan TANEV,01 MAY 1957,BUL,1,Sofia (BUL),23 MAY 1987,1164,hammer-throw,throws,male,senior
-4661,77.50,,Yuriy CHEMEGA,18 FEB 1967,URS,2,Sofia (BUL),17 JUN 1989,1164,hammer-throw,throws,male,senior
+4661,77.50,,Yuriy CHERNEGA,18 FEB 1967,URS,2,Sofia (BUL),17 JUN 1989,1164,hammer-throw,throws,male,senior
 4661,77.50,,Tibor GÉCSEK,22 SEP 1964,HUN,3,"Stadio Olimpico, Roma (ITA)",09 JUN 1992,1164,hammer-throw,throws,male,senior
 4661,77.50,,Raphaël PIOLANTI,14 NOV 1967,FRA,2,Dreux (FRA),29 JUN 1995,1164,hammer-throw,throws,male,senior
 4661,77.50,,Alberto SÁNCHEZ,03 FEB 1973,CUB,1,La Habana (CUB),23 JUN 1996,1164,hammer-throw,throws,male,senior
@@ -4816,7 +4816,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 4804,77.42,,Jüri TAMM,05 FEB 1957,URS,5q2,"Stadio Olimpico, Roma (ITA)",31 AUG 1987,1163,hammer-throw,throws,male,senior
 4804,77.42,,Jörg SCHAEFER,17 JUL 1959,FRG,3,Kamp-Lintford (GER),27 AUG 1988,1163,hammer-throw,throws,male,senior
 4804,77.42,,Imre SZITÁS,04 SEP 1961,HUN,2,Szombathely (HUN),13 SEP 1988,1163,hammer-throw,throws,male,senior
-4804,77.42,,Yuriy CHEMEGA,18 FEB 1967,URS,2,Ordzhonikidze (URS),25 SEP 1988,1163,hammer-throw,throws,male,senior
+4804,77.42,,Yuriy CHERNEGA,18 FEB 1967,URS,2,Ordzhonikidze (URS),25 SEP 1988,1163,hammer-throw,throws,male,senior
 4804,77.42,,Heinz WEIS,14 JUL 1963,GER,5,Paris (FRA),03 SEP 1994,1163,hammer-throw,throws,male,senior
 4804,77.42,,Kevin MCMAHON,26 MAY 1972,USA,1,"Indianapolis, IN (USA)",14 JUN 1997,1163,hammer-throw,throws,male,senior
 4804,77.42,,Konstantin ASTAPKOVICH,23 OCT 1970,BLR,1,Minsk (BLR),17 JUN 1997,1163,hammer-throw,throws,male,senior
@@ -5307,7 +5307,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 5300,77.15,,Yevhen VINOHRADOV,30 APR 1984,UKR,1,Kyiv (UKR),04 JUN 2016,1158,hammer-throw,throws,male,senior
 5300,77.15,,Roberto SAWYERS,17 OCT 1986,CRC,,Liberec (CZE),12 JUN 2016,1158,hammer-throw,throws,male,senior
 5300,77.15,,Marcel LOMNICKÝ,06 JUL 1987,SVK,1,"Torrance, CA (USA)",18 APR 2019,1158,hammer-throw,throws,male,senior
-5300,77.15,,Ármin SZABADOS,11 JAN 2006,HUN,8f1,"National Stadium, Tokyo (JPN)",16 SEP 2025,1158,hammer-throw,throws,male,senior
+5300,77.15,,Ármin SZABADOS,11 JAN 2006,HUN,8,"National Stadium, Tokyo (JPN)",16 SEP 2025,1158,hammer-throw,throws,male,senior
 5310,77.14,,Mariusz TOMASZEWSKI,23 APR 1956,POL,1,Poznan (POL),28 JUL 1981,1158,hammer-throw,throws,male,senior
 5310,77.14,,Albert SINKA,22 NOV 1962,HUN,1,Budapest (HUN),09 MAY 1987,1158,hammer-throw,throws,male,senior
 5310,77.14,,Klaus PLOGHAUS,31 JAN 1956,FRG,3,Rehlingen (GER),08 JUN 1987,1158,hammer-throw,throws,male,senior
@@ -6234,7 +6234,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 6229,76.74,,Marc ODENTHAL,19 FEB 1963,FRG,3q1,Frankfurt (GER),23 JUL 1988,1152,hammer-throw,throws,male,senior
 6229,76.74,,Jörg SCHAEFER,17 JUL 1959,FRG,3,Linz (AUT),15 AUG 1988,1152,hammer-throw,throws,male,senior
 6229,76.74,,Jörg SCHAEFER,17 JUL 1959,FRG,1,Leichlingen (GER),03 JUN 1989,1152,hammer-throw,throws,male,senior
-6229,76.74,,Yuriy CHEMEGA,18 FEB 1967,RUS,3,"Stadio Olimpico, Roma (ITA)",08 JUN 1994,1152,hammer-throw,throws,male,senior
+6229,76.74,,Yuriy CHERNEGA,18 FEB 1967,RUS,3,"Stadio Olimpico, Roma (ITA)",08 JUN 1994,1152,hammer-throw,throws,male,senior
 6229,76.74,,Zoltán FÁBIÁN,22 APR 1969,HUN,5,Budapest (HUN),09 JUL 1995,1152,hammer-throw,throws,male,senior
 6229,76.74,,Heinz WEIS,14 JUL 1963,GER,5,Berlin (GER),27 AUG 1996,1152,hammer-throw,throws,male,senior
 6229,76.74,,Raphaël PIOLANTI,14 NOV 1967,FRA,1,Fort-de-France (FRA),06 JUL 1997,1152,hammer-throw,throws,male,senior
@@ -6839,7 +6839,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 6825,76.47,,Rudy WINKLER,06 DEC 1994,USA,4,"Stadion Śląski, Chorzów (POL)",05 SEP 2021,1148,hammer-throw,throws,male,senior
 6825,76.47,,Sean DONNELLY,01 APR 1993,USA,5,"Univ. of Arizona Roy P. Drachman Stadium, Tucson, AZ (USA)",20 MAY 2023,1148,hammer-throw,throws,male,senior
 6825,76.47,,Wojciech NOWICKI,22 FEB 1989,POL,3,"Stade Omnisports Schlossberg, Forbach (FRA)",26 MAY 2024,1148,hammer-throw,throws,male,senior
-6825,76.47,,Eivind HENRIKSEN,14 SEP 1990,NOR,9f1,"National Stadium, Tokyo (JPN)",16 SEP 2025,1148,hammer-throw,throws,male,senior
+6825,76.47,,Eivind HENRIKSEN,14 SEP 1990,NOR,9,"National Stadium, Tokyo (JPN)",16 SEP 2025,1148,hammer-throw,throws,male,senior
 6842,76.46,,Karl-Hans RIEHM,31 MAY 1951,FRG,1,Helsinki (FIN),07 JUN 1975,1148,hammer-throw,throws,male,senior
 6842,76.46,,Valentin DMITRENKO,08 JUN 1951,URS,1,Dortmund (GER),01 JUL 1978,1148,hammer-throw,throws,male,senior
 6842,76.46,,Manfred HÜNING,13 NOV 1953,FRG,5,"Stadion Evžena Rošického, Praha (TCH)",02 SEP 1978,1148,hammer-throw,throws,male,senior
@@ -6940,7 +6940,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 6938,76.42,,Henryk KRÓLAK,15 JAN 1960,POL,1,Poznan (POL),22 JUN 1986,1147,hammer-throw,throws,male,senior
 6938,76.42,,Aivar RÄNI,04 MAR 1963,URS,1,Tallinn (EST),18 MAY 1988,1147,hammer-throw,throws,male,senior
 6938,76.42,,Juha TIAINEN,05 DEC 1955,FIN,3,Lappeenranta (FIN),05 JUL 1988,1147,hammer-throw,throws,male,senior
-6938,76.42,,Yuriy CHEMEGA,18 FEB 1967,URS,6,Volgograd (URS),10 JUN 1989,1147,hammer-throw,throws,male,senior
+6938,76.42,,Yuriy CHERNEGA,18 FEB 1967,URS,6,Volgograd (URS),10 JUN 1989,1147,hammer-throw,throws,male,senior
 6938,76.42,,Oleksandr DRYHOL,25 APR 1966,URS,5,Volgograd (URS),22 SEP 1989,1147,hammer-throw,throws,male,senior
 6938,76.42,,Sándor VÖRÖS,19 JAN 1958,HUN,1,Budapest (HUN),19 MAY 1990,1147,hammer-throw,throws,male,senior
 6938,76.42,,Ruslan DIKIY,18 JAN 1972,URS,1,Togliatti (URS),07 SEP 1991,1147,hammer-throw,throws,male,senior
@@ -7728,7 +7728,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 7709,76.11,,Valeriy PRONKIN,15 JUN 1994,RUS,1,"Meteor, Zhukovskiy (RUS)",14 JUL 2023,1142,hammer-throw,throws,male,senior
 7709,76.11,,Mykhaylo KOKHAN,22 JAN 2001,UKR,6f1,"GPS Stadium, Nicosia (CYP)",16 MAR 2025,1142,hammer-throw,throws,male,senior
 7709,76.11,,Valeriy PRONKIN,15 JUN 1994,RUS,1,"RTSOP, Minsk (BLR)",28 JUN 2025,1142,hammer-throw,throws,male,senior
-7709,76.11,,Trey KNIGHT,24 MAY 2002,USA,10f1,"National Stadium, Tokyo (JPN)",16 SEP 2025,1142,hammer-throw,throws,male,senior
+7709,76.11,,Trey KNIGHT,24 MAY 2002,USA,10,"National Stadium, Tokyo (JPN)",16 SEP 2025,1142,hammer-throw,throws,male,senior
 7731,76.10,,Grigoriy SHEVTSOV,16 AUG 1958,URS,3,Togliatti (URS),28 AUG 1982,1142,hammer-throw,throws,male,senior
 7731,76.10,,Aleksandr PUCHKOV,30 APR 1960,URS,4,Moskva (URS),11 JUN 1983,1142,hammer-throw,throws,male,senior
 7731,76.10,,Valeriy RESHETNIKOV,25 MAR 1959,URS,1,Dnepropetrovsk (URS),05 AUG 1984,1142,hammer-throw,throws,male,senior
@@ -8468,7 +8468,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 8465,75.80,,Aleksandr SELEZNYOV,25 JAN 1964,URS,1,Bryansk (URS),02 JUL 1984,1137,hammer-throw,throws,male,senior
 8465,75.80,,Imre SZITÁS,04 SEP 1961,HUN,5,Budapest (HUN),11 AUG 1986,1137,hammer-throw,throws,male,senior
 8465,75.80,,Tibor GÉCSEK,22 SEP 1964,HUN,1,Budapest (HUN),31 MAY 1987,1137,hammer-throw,throws,male,senior
-8465,75.80,,Yuriy CHEMEGA,18 FEB 1967,URS,6,Bryansk (URS),11 JUL 1988,1137,hammer-throw,throws,male,senior
+8465,75.80,,Yuriy CHERNEGA,18 FEB 1967,URS,6,Bryansk (URS),11 JUL 1988,1137,hammer-throw,throws,male,senior
 8465,75.80,,Iosif SHAVERDASHVILI,29 OCT 1969,URS,1,Tiraspol (MDA),21 MAY 1989,1137,hammer-throw,throws,male,senior
 8465,75.80,,Iosif SHAVERDASHVILI,29 OCT 1969,GEO,1,Tbilisi (GEO),27 MAY 1993,1137,hammer-throw,throws,male,senior
 8465,75.80,,Sean CARLIN,29 NOV 1967,AUS,1,Colindale (GBR),26 JUL 1995,1137,hammer-throw,throws,male,senior
@@ -8708,7 +8708,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 8705,75.72,,Sándor VÖRÖS,19 JAN 1958,HUN,3,Hainfeld (AUT),23 AUG 1987,1136,hammer-throw,throws,male,senior
 8705,75.72,,József VIDA,09 JAN 1963,HUN,3,Berlin (GER),29 JUN 1988,1136,hammer-throw,throws,male,senior
 8705,75.72,,Jörg SCHAEFER,17 JUL 1959,FRG,2,Edinburgh (GBR),29 JUL 1988,1136,hammer-throw,throws,male,senior
-8705,75.72,,Yuriy CHEMEGA,18 FEB 1967,URS,q,Gorkiy (URS),21 JUL 1989,1136,hammer-throw,throws,male,senior
+8705,75.72,,Yuriy CHERNEGA,18 FEB 1967,URS,q,Gorkiy (URS),21 JUL 1989,1136,hammer-throw,throws,male,senior
 8705,75.72,,Zoltán FÁBIÁN,22 APR 1969,HUN,1,Snagov (ROU),18 MAY 1997,1136,hammer-throw,throws,male,senior
 8705,75.72,,Heinz WEIS,14 JUL 1963,GER,1,Grendon Hall (GBR),12 OCT 1997,1136,hammer-throw,throws,male,senior
 8705,75.72,,Koji MUROFUSHI,08 OCT 1974,JPN,1,Marugame (JPN),19 OCT 1997,1136,hammer-throw,throws,male,senior
@@ -10094,7 +10094,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 10061,75.22,,Ilya TERENTEV,25 JAN 1995,RUS,3,"Yunost Stadium, Adler, Sochi (RUS)",23 FEB 2022,1128,hammer-throw,throws,male,senior
 10061,75.22,,Daniel HAUGH,03 MAY 1995,USA,3,"Univ. of Arizona Roy P. Drachman Stadium, Tucson, AZ (USA)",22 MAY 2025,1128,hammer-throw,throws,male,senior
 10061,75.22,,Texas TANNER,01 OCT 2004,USA,4,"Hayward Field, Eugene, OR (USA)",11 JUN 2025,1128,hammer-throw,throws,male,senior
-10061,75.22,,Dániel RÁBA,24 APR 1998,HUN,11f1,"National Stadium, Tokyo (JPN)",16 SEP 2025,1128,hammer-throw,throws,male,senior
+10061,75.22,,Dániel RÁBA,24 APR 1998,HUN,11,"National Stadium, Tokyo (JPN)",16 SEP 2025,1128,hammer-throw,throws,male,senior
 10097,75.21,,Vladimír MAŠKA,06 FEB 1973,CZE,5,"Stade Charléty, Paris (FRA)",19 JUN 1999,1128,hammer-throw,throws,male,senior
 10097,75.21,,Andras HAKLITS,23 SEP 1977,CRO,3,Bydgoszcz (POL),08 JUL 2000,1128,hammer-throw,throws,male,senior
 10097,75.21,,Christos POLYCHRONIOU,31 MAR 1972,GRE,2,Trikala (GRE),16 JUN 2002,1128,hammer-throw,throws,male,senior
@@ -10473,7 +10473,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 10467,75.08,,Thomas GROGORICK,10 MAY 1962,GDR,3,Potsdam (GDR),21 AUG 1987,1126,hammer-throw,throws,male,senior
 10467,75.08,,Tibor GÉCSEK,22 SEP 1964,HUN,1,La Habana (CUB),28 FEB 1988,1126,hammer-throw,throws,male,senior
 10467,75.08,,Kjell BYSTEDT,24 MAY 1960,SWE,1,Hyltebruk (SWE),02 JUN 1990,1126,hammer-throw,throws,male,senior
-10467,75.08,,Yuriy CHEMEGA,18 FEB 1967,URS,3,Edinburgh (GBR),19 JUL 1991,1126,hammer-throw,throws,male,senior
+10467,75.08,,Yuriy CHERNEGA,18 FEB 1967,URS,3,Edinburgh (GBR),19 JUL 1991,1126,hammer-throw,throws,male,senior
 10467,75.08,,Sergey GAVRILOV,22 MAY 1970,URS,2,Moskva (URS),04 AUG 1991,1126,hammer-throw,throws,male,senior
 10467,75.08,,Plamen MINEV,28 APR 1965,BUL,2q2,"National Stadium, Tokyo (JPN)",24 AUG 1991,1126,hammer-throw,throws,male,senior
 10467,75.08,,Vladimir BYKOV,29 APR 1970,RUS,1,Togliatti (URS),16 AUG 1992,1126,hammer-throw,throws,male,senior
@@ -11108,7 +11108,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 11073,74.86,,Diego DEL REAL,06 MAR 1994,MEX,1,"Unidad Deportiva Bicentenario, Morelia (MEX)",04 JUN 2022,1123,hammer-throw,throws,male,senior
 11073,74.86,,Tuomas SEPPÄNEN,16 MAY 1986,FIN,1,"Mestský Stadion Sletište, Kladno (CZE)",14 JUN 2022,1123,hammer-throw,throws,male,senior
 11073,74.86,,Adam KEENAN,26 SEP 1993,CAN,1,"Jack Rose Track, Long Beach, CA (USA)",14 APR 2023,1123,hammer-throw,throws,male,senior
-11073,74.86,,Denzel COMENENTIA,25 NOV 1995,NED,12f1,"National Stadium, Tokyo (JPN)",16 SEP 2025,1123,hammer-throw,throws,male,senior
+11073,74.86,,Denzel COMENENTIA,25 NOV 1995,NED,12,"National Stadium, Tokyo (JPN)",16 SEP 2025,1123,hammer-throw,throws,male,senior
 11111,74.85,,Zsolt NÉMETH,09 NOV 1971,HUN,3,Szombathely (HUN),10 JAN 1999,1123,hammer-throw,throws,male,senior
 11111,74.85,,Tibor GÉCSEK,22 SEP 1964,HUN,4,Bellville (RSA),27 FEB 1999,1123,hammer-throw,throws,male,senior
 11111,74.85,,Vasiliy SIDORENKO,01 MAY 1961,RUS,9q1,"La Cartuja, Sevilla (ESP)",21 AUG 1999,1123,hammer-throw,throws,male,senior
@@ -12073,7 +12073,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 12060,74.54,,Valeriy GUBKIN,03 SEP 1967,URS,3,Grodno (BLR),18 JUN 1988,1118,hammer-throw,throws,male,senior
 12060,74.54,,Harri HUHTALA,13 AUG 1952,FIN,4,Lappeenranta (FIN),05 JUL 1988,1118,hammer-throw,throws,male,senior
 12060,74.54,,Ralf HABER,18 AUG 1962,GDR,6,Berlin (GER),04 JUL 1990,1118,hammer-throw,throws,male,senior
-12060,74.54,,Yuriy CHEMEGA,18 FEB 1967,URS,8,Kiev (URS),06 JUL 1990,1118,hammer-throw,throws,male,senior
+12060,74.54,,Yuriy CHERNEGA,18 FEB 1967,URS,8,Kiev (URS),06 JUL 1990,1118,hammer-throw,throws,male,senior
 12060,74.54,,Esa JANTUNEN,20 SEP 1965,FIN,1,Anjalankoski (FIN),08 SEP 1991,1118,hammer-throw,throws,male,senior
 12060,74.54,,Per KARLSSON,21 APR 1967,SWE,1,Saarijärvi (FIN),25 JUN 1994,1118,hammer-throw,throws,male,senior
 12060,74.54,,Balázs KISS,21 MAR 1972,HUN,1,Nitra (SVK),13 JUL 1994,1118,hammer-throw,throws,male,senior
@@ -12125,7 +12125,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 12120,74.52,,Imre SZITÁS,04 SEP 1961,HUN,2,Tokyo (JPN),14 SEP 1984,1118,hammer-throw,throws,male,senior
 12120,74.52,,Juha TIAINEN,05 DEC 1955,FIN,2,Västerås (SWE),24 JUN 1987,1118,hammer-throw,throws,male,senior
 12120,74.52,,Pavel SEDLÁČEK,05 APR 1968,TCH,1,Praha (TCH),03 MAY 1989,1118,hammer-throw,throws,male,senior
-12120,74.52,,Yuriy CHEMEGA,18 FEB 1967,URS,6,Sochi (URS),26 MAY 1990,1118,hammer-throw,throws,male,senior
+12120,74.52,,Yuriy CHERNEGA,18 FEB 1967,URS,6,Sochi (URS),26 MAY 1990,1118,hammer-throw,throws,male,senior
 12120,74.52,,Viktor BAYGUSH,16 DEC 1963,UKR,4,Kyiv (UKR),03 MAY 1993,1118,hammer-throw,throws,male,senior
 12120,74.52,,Andriy SUKHANOV,03 AUG 1970,UKR,6,Kyiv (UKR),03 JUL 1993,1118,hammer-throw,throws,male,senior
 12120,74.52,,Tibor GÉCSEK,22 SEP 1964,HUN,2,Valencia (ESP),11 JUN 1994,1118,hammer-throw,throws,male,senior
@@ -12793,7 +12793,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 12776,74.30,,Ivan PETKOV,15 FEB 1960,BUL,6,Sofia (BUL),20 AUG 1988,1114,hammer-throw,throws,male,senior
 12776,74.30,,József VIDA,09 JAN 1963,HUN,8q2,"Olympic Stadium, Seoul (KOR)",25 SEP 1988,1114,hammer-throw,throws,male,senior
 12776,74.30,,Michael BEIERL,27 DEC 1963,AUT,1,Schwechat (AUT),08 JUL 1989,1114,hammer-throw,throws,male,senior
-12776,74.30,,Yuriy CHEMEGA,18 FEB 1967,URS,7,Gorkiy (URS),22 JUL 1989,1114,hammer-throw,throws,male,senior
+12776,74.30,,Yuriy CHERNEGA,18 FEB 1967,URS,7,Gorkiy (URS),22 JUL 1989,1114,hammer-throw,throws,male,senior
 12776,74.30,,Christoph SAHNER,23 SEP 1963,FRG,3q1,Hamburg (GER),12 AUG 1989,1114,hammer-throw,throws,male,senior
 12776,74.30,,Claus DETHLOFF,24 SEP 1968,FRG,1,Fulda (GER),02 SEP 1989,1114,hammer-throw,throws,male,senior
 12776,74.30,,Frédéric KUHN,10 JUL 1968,FRA,1,Montargis (FRA),08 OCT 1989,1114,hammer-throw,throws,male,senior
@@ -13549,7 +13549,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 13540,74.06,,Tore GUSTAFSSON,11 FEB 1962,SWE,4,Göteborg (SWE),28 JUN 1987,1110,hammer-throw,throws,male,senior
 13540,74.06,,Ajet TOSKA,11 FEB 1961,ALB,2,Latakia (SYR),23 SEP 1987,1110,hammer-throw,throws,male,senior
 13540,74.06,,Tibor GÉCSEK,22 SEP 1964,HUN,1,Szombathely (HUN),12 MAR 1988,1110,hammer-throw,throws,male,senior
-13540,74.06,,Yuriy CHEMEGA,18 FEB 1967,URS,1,Moskva (URS),06 AUG 1988,1110,hammer-throw,throws,male,senior
+13540,74.06,,Yuriy CHERNEGA,18 FEB 1967,URS,1,Moskva (URS),06 AUG 1988,1110,hammer-throw,throws,male,senior
 13540,74.06,,Emilio CALABRO,04 FEB 1969,ITA,1,Tirrenia (ITA),07 MAR 1993,1110,hammer-throw,throws,male,senior
 13540,74.06,,Dmitriy VARICH,28 MAR 1972,UKR,7,Kyiv (UKR),03 MAY 1993,1110,hammer-throw,throws,male,senior
 13540,74.06,,Savas SARITZOGLOU,19 JUL 1971,GRE,1,Athina (GRE),19 MAR 1995,1110,hammer-throw,throws,male,senior

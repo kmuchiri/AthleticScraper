@@ -18,6 +18,8 @@ urllib3.disable_warnings(InsecureRequestWarning)
 lock = threading.Lock()
 
 today = str(date.today())
+
+
 print(today)
 
 
@@ -44,10 +46,12 @@ BASE_URL = (
 
 # Scraper Function -------------------
 
+
 def scrape_event(gender, age_category, discipline_slug, type_slug, output_dir, today, max_retries=5):
     page = 1
     data = []
     today = str(date.today())
+    timestamp = time.strftime("%Y%m%d-%H%M%S")
 
     while True:
         url = BASE_URL.format(
@@ -71,7 +75,7 @@ def scrape_event(gender, age_category, discipline_slug, type_slug, output_dir, t
                 time.sleep(2 ** attempt)  # exponential backoff
                 if attempt == max_retries - 1:
                     with lock:
-                        with open("scrape_errors.log", "a") as log_file:
+                        with open("/logs/scrape_errors_{timestamp}.log", "a") as log_file:
                             log_file.write(f"FAILED: {url} | {e}\n")
                     return
 
@@ -132,7 +136,7 @@ def get_scrape_jobs():
             jobs.append((gender, age_category, discipline_slug, type_slug, output_dir,today))
     return jobs
 
-def run_multithreaded_scrape(max_workers=12):
+def run_multithreaded_scrape(max_workers=10):
     jobs = get_scrape_jobs()
     with ThreadPoolExecutor(max_workers=max_workers) as executor:
         future_to_job = {
@@ -150,5 +154,5 @@ def run_multithreaded_scrape(max_workers=12):
 # Run Scraper ----------------------------------
 
 if __name__ == "__main__":
-    run_multithreaded_scrape(max_workers=70)
+    run_multithreaded_scrape(max_workers=30)
     print("🎯 Scraping complete.")

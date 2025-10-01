@@ -13,7 +13,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 12,43.49,,Michael JOHNSON,13 SEP 1967,USA,1,"Olympic Stadium, Atlanta, GA (USA)",29 JUL 1996,1287,400-metres,sprints,male,senior
 13,43.50,,Quincy WATTS,19 JUN 1970,USA,1,"Estadio Olímpico, Barcelona (ESP)",05 AUG 1992,1286,400-metres,sprints,male,senior
 13,43.50,,Jeremy WARINER,31 JAN 1984,USA,1f1,Stockholm (SWE),07 AUG 2007,1286,400-metres,sprints,male,senior
-15,43.53,,Busang Collen KEBINATSHIPI,13 FEB 2004,BOT,1f1,"National Stadium, Tokyo (JPN)",18 SEP 2025,1284,400-metres,sprints,male,senior
+15,43.53,,Busang Collen KEBINATSHIPI,13 FEB 2004,BOT,1,"National Stadium, Tokyo (JPN)",18 SEP 2025,1284,400-metres,sprints,male,senior
 16,43.56,,Michael NORMAN,03 DEC 1997,USA,1,"Hayward Field, Eugene, OR (USA)",25 JUN 2022,1282,400-metres,sprints,male,senior
 17,43.60,,Michael NORMAN,03 DEC 1997,USA,1,"Hayward Field, Eugene, OR (USA)",28 MAY 2022,1279,400-metres,sprints,male,senior
 18,43.61,,Michael NORMAN,03 DEC 1997,USA,1,"Eugene, OR (USA)",08 JUN 2018,1278,400-metres,sprints,male,senior
@@ -31,7 +31,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 29,43.70,,Champion ALLISON,05 NOV 1998,USA,2,"Hayward Field, Eugene, OR (USA)",25 JUN 2022,1272,400-metres,sprints,male,senior
 31,43.71,,Quincy WATTS,19 JUN 1970,USA,1sf2,"Estadio Olímpico, Barcelona (ESP)",03 AUG 1992,1271,400-metres,sprints,male,senior
 32,43.72,,Isaac MAKWALA,24 SEP 1985,BOT,1f1,La Chaux-de-Fonds (SUI),05 JUL 2015,1270,400-metres,sprints,male,senior
-32,43.72,,Jereem RICHARDS,13 JAN 1994,TTO,2f1,"National Stadium, Tokyo (JPN)",18 SEP 2025,1270,400-metres,sprints,male,senior
+32,43.72,,Jereem RICHARDS,13 JAN 1994,TTO,2,"National Stadium, Tokyo (JPN)",18 SEP 2025,1270,400-metres,sprints,male,senior
 34,43.73,,Wayde VAN NIEKERK,15 JUL 1992,RSA,1,"Stade Louis II, Monaco (MON)",21 JUL 2017,1270,400-metres,sprints,male,senior
 35,43.74,,Michael JOHNSON,13 SEP 1967,USA,1,"Eugene, OR (USA)",19 JUN 1993,1269,400-metres,sprints,male,senior
 35,43.74,,LaShawn MERRITT,27 JUN 1986,USA,1,"Luzhniki Stadion, Moskva (RUS)",13 AUG 2013,1269,400-metres,sprints,male,senior
@@ -238,7 +238,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 233,44.20,,Jeremy WARINER,31 JAN 1984,USA,2,"Eugene, OR (USA)",03 JUL 2008,1236,400-metres,sprints,male,senior
 233,44.20,,Quincy WILSON,08 JAN 2008,USA,1,"Percy Beard Track, Gainesville, FL (USA)",19 JUL 2024,1236,400-metres,sprints,male,senior
 233,44.20,,Zakithi NENE,02 APR 1998,RSA,1sf1,"National Stadium, Tokyo (JPN)",16 SEP 2025,1236,400-metres,sprints,male,senior
-233,44.20,,Bayapo NDORI,20 JUN 1999,BOT,3f1,"National Stadium, Tokyo (JPN)",18 SEP 2025,1236,400-metres,sprints,male,senior
+233,44.20,,Bayapo NDORI,20 JUN 1999,BOT,3,"National Stadium, Tokyo (JPN)",18 SEP 2025,1236,400-metres,sprints,male,senior
 241,44.21,,Michael JOHNSON,13 SEP 1967,USA,1,Rieti (ITA),09 SEP 1990,1235,400-metres,sprints,male,senior
 241,44.21,,Ian MORRIS,30 NOV 1961,TTO,3sf2,"Estadio Olímpico, Barcelona (ESP)",03 AUG 1992,1235,400-metres,sprints,male,senior
 241,44.21,,Steve LEWIS,16 MAY 1969,USA,2,"Estadio Olímpico, Barcelona (ESP)",05 AUG 1992,1235,400-metres,sprints,male,senior
@@ -335,7 +335,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 328,44.28,,Michael CHERRY,23 MAR 1995,USA,1,"Hilmer Lodge Stadium, Walnut, CA (USA)",16 APR 2022,1230,400-metres,sprints,male,senior
 328,44.28,,Michael NORMAN,03 DEC 1997,USA,1sf1,"Hayward Field, Eugene, OR (USA)",24 JUN 2022,1230,400-metres,sprints,male,senior
 328,44.28,,Quincy HALL,31 JUL 1998,USA,1h4,"Stade de France, Paris (FRA)",04 AUG 2024,1230,400-metres,sprints,male,senior
-328,44.28,,Rusheen MCDONALD,17 AUG 1992,JAM,4f1,"National Stadium, Tokyo (JPN)",18 SEP 2025,1230,400-metres,sprints,male,senior
+328,44.28,,Rusheen MCDONALD,17 AUG 1992,JAM,4,"National Stadium, Tokyo (JPN)",18 SEP 2025,1230,400-metres,sprints,male,senior
 338,44.29,,Michael JOHNSON,13 SEP 1967,USA,1,Bruxelles (BEL),23 AUG 1996,1230,400-metres,sprints,male,senior
 338,44.29,,Tyree WASHINGTON,28 AUG 1976,USA,2,"Stade Louis II, Monaco (MON)",08 AUG 1998,1230,400-metres,sprints,male,senior
 338,44.29,,Derrick BREW,28 DEC 1977,USA,1,"Athens, GA (USA)",16 MAY 1999,1230,400-metres,sprints,male,senior
@@ -877,7 +877,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 856,44.55,,Jereem RICHARDS,13 JAN 1994,TTO,3,"Stadio Olimpico, Roma (ITA)",30 AUG 2024,1211,400-metres,sprints,male,senior
 856,44.55,,Vernon NORWOOD,10 APR 1992,USA,2h5,"National Stadium, Tokyo (JPN)",14 SEP 2025,1211,400-metres,sprints,male,senior
 856,44.55,,Attila MOLNÁR,17 JAN 2002,HUN,3h5,"National Stadium, Tokyo (JPN)",14 SEP 2025,1211,400-metres,sprints,male,senior
-856,44.55,,Zakithi NENE,02 APR 1998,RSA,5f1,"National Stadium, Tokyo (JPN)",18 SEP 2025,1211,400-metres,sprints,male,senior
+856,44.55,,Zakithi NENE,02 APR 1998,RSA,5,"National Stadium, Tokyo (JPN)",18 SEP 2025,1211,400-metres,sprints,male,senior
 880,44.56,,Innocent EGBUNIKE,30 NOV 1961,NGR,2,"Stadio Olimpico, Roma (ITA)",03 SEP 1987,1211,400-metres,sprints,male,senior
 880,44.56,,Mohamed AL MALKY,01 DEC 1962,OMA,1,Budapest (HUN),12 AUG 1988,1211,400-metres,sprints,male,senior
 880,44.56,,Roberto HERNÁNDEZ,06 MAR 1967,CUB,3,Rieti (ITA),09 SEP 1990,1211,400-metres,sprints,male,senior
@@ -1082,7 +1082,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 1049,44.62,,Randolph ROSS,01 JAN 2001,USA,1f2,"CrossPlex Athletic Facility, Birmingham, AL (USA) (i)",12 MAR 2022,1269,400-metres,sprints,male,senior
 1049,44.62,,Michael NORMAN,03 DEC 1997,USA,1,"National Stadium, Tokyo (JPN)",08 MAY 2022,1206,400-metres,sprints,male,senior
 1049,44.62,,Vernon NORWOOD,10 APR 1992,USA,2,"Boudewijnstadion, Bruxelles (BEL)",22 AUG 2025,1206,400-metres,sprints,male,senior
-1049,44.62,,Yuki Joseph NAKAJIMA,30 MAR 2002,JPN,6f1,"National Stadium, Tokyo (JPN)",18 SEP 2025,1206,400-metres,sprints,male,senior
+1049,44.62,,Yuki Joseph NAKAJIMA,30 MAR 2002,JPN,6,"National Stadium, Tokyo (JPN)",18 SEP 2025,1206,400-metres,sprints,male,senior
 1085,44.63,,Thomas SCHÖNLEBE,06 AUG 1965,GDR,2,"Neckarstadion, Stuttgart (GER)",29 AUG 1986,1206,400-metres,sprints,male,senior
 1085,44.63,,Danny EVERETT,01 NOV 1966,USA,1,"Stade Louis II, Monaco (MON)",03 AUG 1991,1206,400-metres,sprints,male,senior
 1085,44.63,,Danny EVERETT,01 NOV 1966,USA,3,"National Stadium, Tokyo (JPN)",29 AUG 1991,1206,400-metres,sprints,male,senior
@@ -1393,7 +1393,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 1351,44.70,,Rok FERLAN,26 JUL 1997,SLO,2f2,"Atletski stadion Poljane, Maribor (SLO)",28 JUN 2025,1201,400-metres,sprints,male,senior
 1351,44.70,,Justin ROBINSON,30 MAR 2002,USA,4h1,"Hayward Field, Eugene, OR (USA)",01 AUG 2025,1201,400-metres,sprints,male,senior
 1351,44.70,,Samuel REARDON,30 OCT 2003,GBR,4h4,"National Stadium, Tokyo (JPN)",14 SEP 2025,1201,400-metres,sprints,male,senior
-1351,44.70,,Jacory PATTERSON,02 FEB 2000,USA,7f1,"National Stadium, Tokyo (JPN)",18 SEP 2025,1201,400-metres,sprints,male,senior
+1351,44.70,,Jacory PATTERSON,02 FEB 2000,USA,7,"National Stadium, Tokyo (JPN)",18 SEP 2025,1201,400-metres,sprints,male,senior
 1396,44.71,,Antonio MCKAY,09 FEB 1964,USA,1,"Los Angeles, CA (USA)",21 JUN 1984,1200,400-metres,sprints,male,senior
 1396,44.71,,Antonio MCKAY,09 FEB 1964,USA,3,"Memorial Coliseum, Los Angeles, CA (USA)",08 AUG 1984,1200,400-metres,sprints,male,senior
 1396,44.71,,Darrell ROBINSON,23 DEC 1963,USA,2,"Los Angeles, CA (USA)",08 JUN 1985,1200,400-metres,sprints,male,senior
@@ -1707,7 +1707,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 1663,44.77,,Bryce DEADMON,26 MAR 1997,USA,7,"Stadio Olimpico, Roma (ITA)",30 AUG 2024,1196,400-metres,sprints,male,senior
 1663,44.77,,Samuel OGAZI,14 MAY 2006,NGR,1sf1,"Hayward Field, Eugene, OR (USA)",11 JUN 2025,1196,400-metres,sprints,male,senior
 1663,44.77,,Edoardo SCOTTI,09 MAY 2000,ITA,5sf2,"National Stadium, Tokyo (JPN)",16 SEP 2025,1196,400-metres,sprints,male,senior
-1663,44.77,,Lee Bhekempilo EPPIE,18 MAY 1999,BOT,8f1,"National Stadium, Tokyo (JPN)",18 SEP 2025,1196,400-metres,sprints,male,senior
+1663,44.77,,Lee Bhekempilo EPPIE,18 MAY 1999,BOT,8,"National Stadium, Tokyo (JPN)",18 SEP 2025,1196,400-metres,sprints,male,senior
 1710,44.78,,Viktor MARKIN,23 FEB 1957,URS,1,Moskva (URS),17 AUG 1984,1195,400-metres,sprints,male,senior
 1710,44.78,,Danny EVERETT,01 NOV 1966,USA,1,Barcelona (ESP),16 JUL 1990,1195,400-metres,sprints,male,senior
 1710,44.78,,Susumu TAKANO,21 MAY 1961,JPN,1,Tokyo (JPN),16 JUN 1991,1195,400-metres,sprints,male,senior

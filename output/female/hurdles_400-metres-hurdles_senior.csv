@@ -7,7 +7,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 6,51.41,,Sydney MCLAUGHLIN,07 AUG 1999,USA,1,"Hayward Field, Eugene, OR (USA)",25 JUN 2022,1288,400-metres-hurdles,hurdles,female,senior
 7,51.45,,Femke BOL,23 FEB 2000,NED,1,"Olympic Stadium, London (GBR)",23 JUL 2023,1286,400-metres-hurdles,hurdles,female,senior
 8,51.46,,Sydney MCLAUGHLIN,07 AUG 1999,USA,1,"National Stadium, Tokyo (JPN)",04 AUG 2021,1286,400-metres-hurdles,hurdles,female,senior
-9,51.54,,Femke BOL,23 FEB 2000,NED,1f1,"National Stadium, Tokyo (JPN)",19 SEP 2025,1283,400-metres-hurdles,hurdles,female,senior
+9,51.54,,Femke BOL,23 FEB 2000,NED,1,"National Stadium, Tokyo (JPN)",19 SEP 2025,1283,400-metres-hurdles,hurdles,female,senior
 10,51.58,,Dalilah MUHAMMAD,07 FEB 1990,USA,2,"National Stadium, Tokyo (JPN)",04 AUG 2021,1282,400-metres-hurdles,hurdles,female,senior
 11,51.61,,Sydney MCLAUGHLIN,07 AUG 1999,USA,1f1,"Vanderbilt Track, Nashville, TN (USA)",05 JUN 2022,1281,400-metres-hurdles,hurdles,female,senior
 12,51.68,,Sydney MCLAUGHLIN,07 AUG 1999,USA,1,"Bregyó Athletic Center, Székesfehérvár (HUN)",08 AUG 2022,1279,400-metres-hurdles,hurdles,female,senior
@@ -19,7 +19,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 18,51.98,,Femke BOL,23 FEB 2000,NED,1,"Hayward Field, Eugene, OR (USA)",17 SEP 2023,1269,400-metres-hurdles,hurdles,female,senior
 19,52.03,,Femke BOL,23 FEB 2000,NED,3,"National Stadium, Tokyo (JPN)",04 AUG 2021,1267,400-metres-hurdles,hurdles,female,senior
 20,52.07,,Sydney MCLAUGHLIN-LEVRONE,07 AUG 1999,USA,1,"Ansin Sports Complex, Miramar, FL (USA)",03 MAY 2025,1266,400-metres-hurdles,hurdles,female,senior
-21,52.08,,Jasmine JONES,30 NOV 2001,USA,2f1,"National Stadium, Tokyo (JPN)",19 SEP 2025,1266,400-metres-hurdles,hurdles,female,senior
+21,52.08,,Jasmine JONES,30 NOV 2001,USA,2,"National Stadium, Tokyo (JPN)",19 SEP 2025,1266,400-metres-hurdles,hurdles,female,senior
 22,52.10,,Femke BOL,23 FEB 2000,NED,1,"Olympic Stadium, London (GBR)",19 JUL 2025,1265,400-metres-hurdles,hurdles,female,senior
 23,52.11,,Femke BOL,23 FEB 2000,NED,1,"Boudewijnstadion, Bruxelles (BEL)",08 SEP 2023,1265,400-metres-hurdles,hurdles,female,senior
 23,52.11,,Femke BOL,23 FEB 2000,NED,1,"Olympiastadion, Stockholm (SWE)",15 JUN 2025,1265,400-metres-hurdles,hurdles,female,senior
@@ -125,7 +125,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 123,52.98,,Shamier LITTLE,20 MAR 1995,USA,4,"Hayward Field, Eugene, OR (USA)",30 JUN 2024,1237,400-metres-hurdles,hurdles,female,senior
 125,52.99,,Deon HEMMINGS,09 OCT 1968,JAM,1sf1,"Olympic Stadium, Atlanta, GA (USA)",29 JUL 1996,1236,400-metres-hurdles,hurdles,female,senior
 126,53.00,,Rushell CLAYTON,18 OCT 1992,JAM,1sf1,"Stade de France, Paris (FRA)",06 AUG 2024,1236,400-metres-hurdles,hurdles,female,senior
-126,53.00,,Emma ZAPLETALOVÁ,24 MAR 2000,SVK,3f1,"National Stadium, Tokyo (JPN)",19 SEP 2025,1236,400-metres-hurdles,hurdles,female,senior
+126,53.00,,Emma ZAPLETALOVÁ,24 MAR 2000,SVK,3,"National Stadium, Tokyo (JPN)",19 SEP 2025,1236,400-metres-hurdles,hurdles,female,senior
 128,53.01,,Yulia PECHONKINA,21 APR 1978,RUS,1,Tula (RUS),11 JUL 2005,1236,400-metres-hurdles,hurdles,female,senior
 128,53.01,,Jasmine JONES,30 NOV 2001,USA,2sf1,"National Stadium, Tokyo (JPN)",17 SEP 2025,1236,400-metres-hurdles,hurdles,female,senior
 130,53.02,,Irina PRIVALOVA,22 NOV 1968,RUS,1,"Olympic Stadium, Sydney (AUS)",27 SEP 2000,1235,400-metres-hurdles,hurdles,female,senior
@@ -162,7 +162,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 161,53.13,,Dalilah MUHAMMAD,07 FEB 1990,USA,1,"Estádio Olímpico, Rio de Janeiro (BRA)",18 AUG 2016,1232,400-metres-hurdles,hurdles,female,senior
 161,53.13,,Dalilah MUHAMMAD,07 FEB 1990,USA,3,"Hayward Field, Eugene, OR (USA)",22 JUL 2022,1232,400-metres-hurdles,hurdles,female,senior
 161,53.13,,Shiann SALMON,31 MAR 1999,JAM,3sf3,"Stade de France, Paris (FRA)",06 AUG 2024,1232,400-metres-hurdles,hurdles,female,senior
-161,53.13,,Anna COCKRELL,28 AUG 1997,USA,4f1,"National Stadium, Tokyo (JPN)",19 SEP 2025,1232,400-metres-hurdles,hurdles,female,senior
+161,53.13,,Anna COCKRELL,28 AUG 1997,USA,4,"National Stadium, Tokyo (JPN)",19 SEP 2025,1232,400-metres-hurdles,hurdles,female,senior
 165,53.14,,Yulia PECHONKINA,21 APR 1978,RUS,1,Moskva (RUS),02 SEP 2006,1232,400-metres-hurdles,hurdles,female,senior
 165,53.14,,Georganne MOLINE,06 MAR 1990,USA,5,"Sacramento, CA (USA)",25 JUN 2017,1232,400-metres-hurdles,hurdles,female,senior
 165,53.14,,Dalilah MUHAMMAD,07 FEB 1990,USA,2sf2,"National Stadium, Tokyo (JPN)",17 SEP 2025,1232,400-metres-hurdles,hurdles,female,senior
@@ -242,7 +242,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 237,53.34,,Shamier LITTLE,20 MAR 1995,USA,1,"Hayward Field, Eugene, OR (USA)",09 JUL 2023,1225,400-metres-hurdles,hurdles,female,senior
 237,53.34,,Anna COCKRELL,28 AUG 1997,USA,5,"Nemzeti Atlétikai Központ, Budapest (HUN)",24 AUG 2023,1225,400-metres-hurdles,hurdles,female,senior
 237,53.34,,Dalilah MUHAMMAD,07 FEB 1990,USA,1,"Bislett Stadion, Oslo (NOR)",12 JUN 2025,1225,400-metres-hurdles,hurdles,female,senior
-237,53.34,,Gianna WOODRUFF,18 NOV 1993,PAN,5f1,"National Stadium, Tokyo (JPN)",19 SEP 2025,1225,400-metres-hurdles,hurdles,female,senior
+237,53.34,,Gianna WOODRUFF,18 NOV 1993,PAN,5,"National Stadium, Tokyo (JPN)",19 SEP 2025,1225,400-metres-hurdles,hurdles,female,senior
 245,53.35,,Lashinda DEMUS,10 MAR 1983,USA,1,"Carson, CA (USA)",25 JUN 2005,1225,400-metres-hurdles,hurdles,female,senior
 245,53.35,,Shamier LITTLE,20 MAR 1995,USA,2,"Letzigrund, Zürich (SUI)",09 SEP 2021,1225,400-metres-hurdles,hurdles,female,senior
 247,53.36,,Andrea BLACKETT,24 JAN 1976,BAR,4,"La Cartuja, Sevilla (ESP)",25 AUG 1999,1225,400-metres-hurdles,hurdles,female,senior
@@ -445,7 +445,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 438,53.70,,Zuzana HEJNOVÁ,19 DEC 1986,CZE,1,"Olympiastadion, Stockholm (SWE)",22 AUG 2013,1214,400-metres-hurdles,hurdles,female,senior
 438,53.70,,Anna COCKRELL,28 AUG 1997,USA,3,"Hayward Field, Eugene, OR (USA)",27 JUN 2021,1214,400-metres-hurdles,hurdles,female,senior
 438,53.70,,Anna RYZHYKOVA,24 NOV 1989,UKR,3,"Letzigrund, Zürich (SUI)",09 SEP 2021,1214,400-metres-hurdles,hurdles,female,senior
-438,53.70,,Naomi VAN DEN BROECK,03 JAN 1996,BEL,6f1,"National Stadium, Tokyo (JPN)",19 SEP 2025,1214,400-metres-hurdles,hurdles,female,senior
+438,53.70,,Naomi VAN DEN BROECK,03 JAN 1996,BEL,6,"National Stadium, Tokyo (JPN)",19 SEP 2025,1214,400-metres-hurdles,hurdles,female,senior
 448,53.71,,Janeene VICKERS,03 DEC 1968,USA,2,"Letzigrund, Zürich (SUI)",07 AUG 1991,1213,400-metres-hurdles,hurdles,female,senior
 448,53.71,,Margarita PONOMARYOVA,19 JUN 1963,RUS,1sf2,"Gottlieb-Daimler Stadion, Stuttgart (GER)",17 AUG 1993,1213,400-metres-hurdles,hurdles,female,senior
 448,53.71,,Kim BATTEN,29 MAR 1969,USA,1,Nice (FRA),16 JUL 1997,1213,400-metres-hurdles,hurdles,female,senior
@@ -2519,7 +2519,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 2484,54.82,,Rachel GLENN,17 APR 2002,USA,1h2,"Un. of Kentucky Outdoor Track Facility, Lexington, KY (USA)",16 MAY 2025,1178,400-metres-hurdles,hurdles,female,senior
 2484,54.82,,Naomi VAN DEN BROECK,03 JAN 1996,BEL,1,"Stade Delort, Marseille (FRA)",13 JUL 2025,1178,400-metres-hurdles,hurdles,female,senior
 2484,54.82,,Emiliya TANGARA,12 MAR 2002,RUS,,"Regional Sport Complex, Brest (BLR)",25 JUL 2025,1178,400-metres-hurdles,hurdles,female,senior
-2484,54.82,,Dalilah MUHAMMAD,07 FEB 1990,USA,7f1,"National Stadium, Tokyo (JPN)",19 SEP 2025,1178,400-metres-hurdles,hurdles,female,senior
+2484,54.82,,Dalilah MUHAMMAD,07 FEB 1990,USA,7,"National Stadium, Tokyo (JPN)",19 SEP 2025,1178,400-metres-hurdles,hurdles,female,senior
 2522,54.83,,Genowefa BLASZAK,22 AUG 1957,POL,3sf1,"Neckarstadion, Stuttgart (GER)",29 AUG 1986,1178,400-metres-hurdles,hurdles,female,senior
 2522,54.83,,Vera ORDINA,04 JUN 1968,EUN,5,"Estadio Olímpico, Barcelona (ESP)",05 AUG 1992,1178,400-metres-hurdles,hurdles,female,senior
 2522,54.83,,Margarita PONOMARYOVA,19 JUN 1963,EUN,6,"Estadio Olímpico, Barcelona (ESP)",05 AUG 1992,1178,400-metres-hurdles,hurdles,female,senior

@@ -1049,7 +1049,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 1035,20.3,,Astrid KUMBERNUSS,1970-02-05,GER,1,Bad Segeberg (GER) (i),1996-03-02,1226.0,shot-put,throws,female,senior,shot-put,field,20.3,GER,26.0,1996
 1045,20.29,,Yanina KOROLCHIK-PROVALINSKAYA,1976-12-26,BLR,1,"FBK Stadium, Hengelo (NED)",2001-06-04,1226.0,shot-put,throws,female,senior,shot-put,field,20.29,NED,24.0,2001
 1045,20.29,,Helena FIBINGEROVÁ,1949-07-13,TCH,8,"Stadio Olimpico, Roma (ITA)",1987-09-05,1226.0,shot-put,throws,female,senior,shot-put,field,20.29,ITA,38.0,1987
-1045,20.29,,Jessica SCHILDER,1999-03-19,NED,1f1,"National Stadium, Tokyo (JPN)",2025-09-20,1226.0,shot-put,throws,female,senior,shot-put,field,20.29,JPN,26.0,2025
+1045,20.29,,Jessica SCHILDER,1999-03-19,NED,1,"National Stadium, Tokyo (JPN)",2025-09-20,1226.0,shot-put,throws,female,senior,shot-put,field,20.29,JPN,26.0,2025
 1045,20.29,,Larisa PELESHENKO,1964-02-29,RUS,2,Tula (RUS),2000-06-02,1226.0,shot-put,throws,female,senior,shot-put,field,20.29,RUS,36.0,2000
 1045,20.29,,Claudia LOSCH,1960-01-10,FRG,2,Schwechat (AUT),1987-06-24,1226.0,shot-put,throws,female,senior,shot-put,field,20.29,AUT,27.0,1987
 1045,20.29,,Ilona SLUPIANEK,1956-09-24,GDR,2,Sofia (BUL),1976-05-22,1226.0,shot-put,throws,female,senior,shot-put,field,20.29,BUL,19.0,1976
@@ -1155,7 +1155,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 1138,20.21,,Lijiao GONG,1989-01-24,CHN,1,Dessau (GER),2012-05-25,1221.0,shot-put,throws,female,senior,shot-put,field,20.21,GER,23.0,2012
 1138,20.21,,Astrid KUMBERNUSS,1970-02-05,GER,1,Halle (GER),1996-05-11,1221.0,shot-put,throws,female,senior,shot-put,field,20.21,GER,26.0,1996
 1138,20.21,,Marina ANTONYUK,1962-05-12,URS,2,Kiev (URS),1990-07-05,1221.0,shot-put,throws,female,senior,shot-put,field,20.21,URS,28.0,1990
-1138,20.21,,Chase JACKSON,1994-07-20,USA,2f1,"National Stadium, Tokyo (JPN)",2025-09-20,1221.0,shot-put,throws,female,senior,shot-put,field,20.21,JPN,31.0,2025
+1138,20.21,,Chase JACKSON,1994-07-20,USA,2,"National Stadium, Tokyo (JPN)",2025-09-20,1221.0,shot-put,throws,female,senior,shot-put,field,20.21,JPN,31.0,2025
 1138,20.21,,Ilona SLUPIANEK,1956-09-24,GDR,5,Rostock (GER),1988-06-25,1221.0,shot-put,throws,female,senior,shot-put,field,20.21,GER,31.0,1988
 1138,20.21,,Natalya AKHRIMENKO,1955-05-12,URS,4,Leningrad (URS),1988-06-11,1221.0,shot-put,throws,female,senior,shot-put,field,20.21,URS,33.0,1988
 1138,20.21,,Helena FIBINGEROVÁ,1949-07-13,TCH,1,Praha (TCH),1986-06-24,1221.0,shot-put,throws,female,senior,shot-put,field,20.21,TCH,36.0,1986
@@ -1370,7 +1370,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 1349,20.06,,Chase EALY,1994-07-20,USA,1f1,"Werferzentrum Brandberge, Halle (GER)",2023-05-20,1211.0,shot-put,throws,female,senior,shot-put,field,20.06,GER,28.0,2023
 1349,20.06,,Chase JACKSON,1994-07-20,USA,3,"Europahalle, Karlsruhe (GER) (i)",2025-02-07,1211.0,shot-put,throws,female,senior,shot-put,field,20.06,GER,30.0,2025
 1349,20.06,,Chase JACKSON,1994-07-20,USA,3,"Sports Training Center, Nanjing (CHN) (i)",2025-03-21,1211.0,shot-put,throws,female,senior,shot-put,field,20.06,CHN,30.0,2025
-1349,20.06,,Maddison-Lee WESCHE,1999-06-13,NZL,3f1,"National Stadium, Tokyo (JPN)",2025-09-20,1211.0,shot-put,throws,female,senior,shot-put,field,20.06,JPN,26.0,2025
+1349,20.06,,Maddison-Lee WESCHE,1999-06-13,NZL,3,"National Stadium, Tokyo (JPN)",2025-09-20,1211.0,shot-put,throws,female,senior,shot-put,field,20.06,JPN,26.0,2025
 1349,20.06,,Maddison-Lee WESCHE,1999-06-13,NZL,4,"Hayward Field, Eugene, OR (USA)",2025-07-05,1211.0,shot-put,throws,female,senior,shot-put,field,20.06,USA,26.0,2025
 1349,20.06,,Heidi KRIEGER,1965-07-20,GDR,1,Berlin (GER) (i),1985-02-06,1211.0,shot-put,throws,female,senior,shot-put,field,20.06,GER,19.0,1985
 1349,20.06,,Nadine KLEINERT,1975-10-20,GER,1,Hannover (GER),2005-07-10,1211.0,shot-put,throws,female,senior,shot-put,field,20.06,GER,29.0,2005
@@ -1737,7 +1737,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 1707,19.82,,Maggie EWEN,1994-09-23,USA,5,"Hayward Field, Eugene, OR (USA)",2023-09-16,1196.0,shot-put,throws,female,senior,shot-put,field,19.82,USA,29.0,2023
 1707,19.82,,Claudia LOSCH,1960-01-10,FRG,1,Altötting (GER),1984-05-05,1196.0,shot-put,throws,female,senior,shot-put,field,19.82,GER,24.0,1984
 1721,19.81,,Natalya MIKHNEVICH,1982-05-25,BLR,1,"Gottlieb-Daimler Stadion, Stuttgart (GER)",2006-09-10,1196.0,shot-put,throws,female,senior,shot-put,field,19.81,GER,24.0,2006
-1721,19.81,,Sarah MITTON,1996-06-20,CAN,4f1,"National Stadium, Tokyo (JPN)",2025-09-20,1196.0,shot-put,throws,female,senior,shot-put,field,19.81,JPN,29.0,2025
+1721,19.81,,Sarah MITTON,1996-06-20,CAN,4,"National Stadium, Tokyo (JPN)",2025-09-20,1196.0,shot-put,throws,female,senior,shot-put,field,19.81,JPN,29.0,2025
 1721,19.81,,Grit HAMMER,1966-06-04,GDR,1,Bratislava (TCH),1989-06-14,1196.0,shot-put,throws,female,senior,shot-put,field,19.81,TCH,23.0,1989
 1721,19.81,,Christina SCHWANITZ,1985-12-24,GER,2,"Stade Louis II, Monaco (MON)",2016-07-15,1196.0,shot-put,throws,female,senior,shot-put,field,19.81,MON,30.0,2016
 1721,19.81,,Valerie ADAMS,1984-10-06,NZL,1q,"Aspire Dome, Doha (QAT) (i)",2010-03-13,1196.0,shot-put,throws,female,senior,shot-put,field,19.81,QAT,25.0,2010
@@ -2298,7 +2298,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 2254,19.54,,Sarah MITTON,1996-06-20,CAN,1,"Bislett Stadion, Oslo (NOR)",2023-06-15,1179.0,shot-put,throws,female,senior,shot-put,field,19.54,NOR,27.0,2023
 2254,19.54,,Axelina JOHANSSON,2000-04-20,SWE,1,"Billy Hayes T& F Complex, Bloomington, IN (USA)",2023-05-13,1179.0,shot-put,throws,female,senior,shot-put,field,19.54,USA,23.0,2023
 2254,19.54,,Chase EALY,1994-07-20,USA,1,"Drake Field House, Des Moines, IA (USA) (i)",2023-04-26,1179.0,shot-put,throws,female,senior,shot-put,field,19.54,USA,28.0,2023
-2254,19.54,,Fanny ROOS,1995-01-02,SWE,5f1,"National Stadium, Tokyo (JPN)",2025-09-20,1179.0,shot-put,throws,female,senior,shot-put,field,19.54,JPN,30.0,2025
+2254,19.54,,Fanny ROOS,1995-01-02,SWE,5,"National Stadium, Tokyo (JPN)",2025-09-20,1179.0,shot-put,throws,female,senior,shot-put,field,19.54,JPN,30.0,2025
 2254,19.54,,Lijiao GONG,1989-01-24,CHN,1,Chengdu (CHN),2021-03-30,1179.0,shot-put,throws,female,senior,shot-put,field,19.54,CHN,32.0,2021
 2276,19.53,,Svetlana KRIVELYOVA,1969-06-13,RUS,2,Moskva (RUS) (i),2001-02-17,1178.0,shot-put,throws,female,senior,shot-put,field,19.53,RUS,31.0,2001
 20,19.53,,Astrid KUMBERNUSS,1970-02-05,GDR,1,"Stadion ŠC Sloboda, Varaždin (YUG)",1989-08-25,1178.0,shot-put,throws,female,u20,shot-put,field,19.53,YUG,19.0,1989
@@ -2780,7 +2780,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 2734,19.33,,Nadine KLEINERT,1975-10-20,GER,1,Rochlitz (GER) (i),2012-02-05,1166.0,shot-put,throws,female,senior,shot-put,field,19.33,GER,36.0,2012
 2734,19.33,,Yevgeniya KOLODKO,1990-07-22,RUS,1,Cheboksary (RUS),2011-07-22,1166.0,shot-put,throws,female,senior,shot-put,field,19.33,RUS,21.0,2011
 2734,19.33,,Anita MÁRTON,1989-01-15,HUN,2,"Oregon Convention Center, Portland, OR (USA) (i)",2016-03-19,1166.0,shot-put,throws,female,senior,shot-put,field,19.33,USA,27.0,2016
-2734,19.33,,Yemisi OGUNLEYE,1998-10-03,GER,6f1,"National Stadium, Tokyo (JPN)",2025-09-20,1166.0,shot-put,throws,female,senior,shot-put,field,19.33,JPN,26.0,2025
+2734,19.33,,Yemisi OGUNLEYE,1998-10-03,GER,6,"National Stadium, Tokyo (JPN)",2025-09-20,1166.0,shot-put,throws,female,senior,shot-put,field,19.33,JPN,26.0,2025
 2734,19.33,,Jaida ROSS,2001-10-29,USA,4,"Hayward Field, Eugene, OR (USA)",2025-08-02,1166.0,shot-put,throws,female,senior,shot-put,field,19.33,USA,23.0,2025
 2734,19.33,,Yemisi OGUNLEYE,1998-10-03,GER,2f1,"Werferzentrum Brandberge, Halle (GER)",2024-05-25,1166.0,shot-put,throws,female,senior,shot-put,field,19.33,GER,25.0,2024
 2734,19.33,,Fanny ROOS,1995-01-02,SWE,1,"Sollentunavallen, Sollentuna (SWE)",2021-06-13,1166.0,shot-put,throws,female,senior,shot-put,field,19.33,SWE,26.0,2021
@@ -3350,7 +3350,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 3273,19.16,,Nadine KLEINERT,1975-10-20,GER,1,"Olympiastadion, München (GER)",1999-09-11,1155.0,shot-put,throws,female,senior,shot-put,field,19.16,GER,23.0,1999
 3273,19.16,,Astrid KUMBERNUSS,1970-02-05,GER,1,Stuttgart (GER) (i),2000-02-06,1155.0,shot-put,throws,female,senior,shot-put,field,19.16,GER,30.0,2000
 3273,19.16,,Fanny ROOS,1995-01-02,SWE,5,"Stade Louis II, Monaco (MON)",2025-07-11,1155.0,shot-put,throws,female,senior,shot-put,field,19.16,MON,30.0,2025
-3273,19.16,,Linru ZHANG,1999-09-23,CHN,7f1,"National Stadium, Tokyo (JPN)",2025-09-20,1155.0,shot-put,throws,female,senior,shot-put,field,19.16,JPN,26.0,2025
+3273,19.16,,Linru ZHANG,1999-09-23,CHN,7,"National Stadium, Tokyo (JPN)",2025-09-20,1155.0,shot-put,throws,female,senior,shot-put,field,19.16,JPN,26.0,2025
 3302,19.15,,Danniel THOMAS-DODD,1992-11-11,JAM,2,"Univ. of Arizona Roy P. Drachman Stadium, Tucson, AZ (USA)",2025-05-24,1154.0,shot-put,throws,female,senior,shot-put,field,19.15,USA,32.0,2025
 3302,19.15,,Laura GERRAUGHTY,1983-07-29,USA,1,"Fayetteville, AR (USA) (i)",2004-03-13,1154.0,shot-put,throws,female,senior,shot-put,field,19.15,USA,20.0,2004
 3302,19.15,,Chiara ROSA,1983-01-28,ITA,1,Milano (ITA),2007-06-24,1154.0,shot-put,throws,female,senior,shot-put,field,19.15,ITA,24.0,2007
@@ -3848,7 +3848,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 3783,19.01,,Svetlana KRIVELYOVA,1969-06-13,RUS,2,"Stadio Olimpico, Roma (ITA)",1993-06-09,1146.0,shot-put,throws,female,senior,shot-put,field,19.01,ITA,24.0,1993
 3783,19.01,,Larisa PELESHENKO,1964-02-29,RUS,5,"Olympiastadion, Helsinki (FIN)",1994-08-07,1146.0,shot-put,throws,female,senior,shot-put,field,19.01,FIN,30.0,1994
 3783,19.01,,Zhihong HUANG,1965-05-07,CHN,2q2,"Ullevi Stadium, Göteborg (SWE)",1995-08-05,1146.0,shot-put,throws,female,senior,shot-put,field,19.01,SWE,30.0,1995
-3783,19.01,,Jaida ROSS,2001-10-29,USA,8f1,"National Stadium, Tokyo (JPN)",2025-09-20,1146.0,shot-put,throws,female,senior,shot-put,field,19.01,JPN,23.0,2025
+3783,19.01,,Jaida ROSS,2001-10-29,USA,8,"National Stadium, Tokyo (JPN)",2025-09-20,1146.0,shot-put,throws,female,senior,shot-put,field,19.01,JPN,23.0,2025
 3783,19.01,,Mya LESNAR,2002-04-10,USA,1,"Hayward Field, Eugene, OR (USA)",2025-06-12,1146.0,shot-put,throws,female,senior,shot-put,field,19.01,USA,23.0,2025
 3783,19.01,,Jaida ROSS,2001-10-29,USA,1,"Potts Field, Boulder, CO (USA)",2024-05-11,1146.0,shot-put,throws,female,senior,shot-put,field,19.01,USA,22.0,2024
 3783,19.01,,Maddison-Lee WESCHE,1999-06-13,NZL,2,"Foote Field, Edmonton (CAN)",2022-07-03,1146.0,shot-put,throws,female,senior,shot-put,field,19.01,CAN,23.0,2022
@@ -4049,7 +4049,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 3961,18.96,,Maddison-Lee WESCHE,1999-06-13,NZL,3q1,"Hayward Field, Eugene, OR (USA)",2022-07-15,1142.0,shot-put,throws,female,senior,shot-put,field,18.96,USA,23.0,2022
 3961,18.96,,Aliona DUBITSKAYA,1990-01-25,BLR,1,"Regional Sport Complex, Brest (BLR)",2022-07-12,1142.0,shot-put,throws,female,senior,shot-put,field,18.96,BLR,32.0,2022
 3961,18.96,,Fanny ROOS,1995-01-02,SWE,4,"FBK Stadium, Hengelo (NED)",2025-06-09,1142.0,shot-put,throws,female,senior,shot-put,field,18.96,NED,30.0,2025
-3961,18.96,,Lijiao GONG,1989-01-24,CHN,9f1,"National Stadium, Tokyo (JPN)",2025-09-20,1142.0,shot-put,throws,female,senior,shot-put,field,18.96,JPN,36.0,2025
+3961,18.96,,Lijiao GONG,1989-01-24,CHN,9,"National Stadium, Tokyo (JPN)",2025-09-20,1142.0,shot-put,throws,female,senior,shot-put,field,18.96,JPN,36.0,2025
 3961,18.96,,Danniel THOMAS-DODD,1992-11-11,JAM,2,"Foote Field, Edmonton (CAN)",2024-06-13,1142.0,shot-put,throws,female,senior,shot-put,field,18.96,CAN,31.0,2024
 3961,18.96,,Maggie EWEN,1994-09-23,USA,7,"Glasgow Arena, Glasgow (GBR) (i)",2024-03-01,1142.0,shot-put,throws,female,senior,shot-put,field,18.96,GBR,29.0,2024
 3995,18.95,,Yanina KOROLCHIK-PROVALINSKAYA,1976-12-26,BLR,2,Nürnberg (GER),2000-06-25,1142.0,shot-put,throws,female,senior,shot-put,field,18.95,GER,23.0,2000
@@ -6853,7 +6853,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 6711,18.42,,Yumileidi CUMBÁ,1975-02-11,CUB,5q1,"Olympic Stadium, Sydney (AUS)",2000-09-27,1109.0,shot-put,throws,female,senior,shot-put,field,18.42,AUS,25.0,2000
 6711,18.42,,Yumileidi CUMBÁ,1975-02-11,CUB,2,Trento (ITA),1996-07-05,1109.0,shot-put,throws,female,senior,shot-put,field,18.42,ITA,21.0,1996
 6711,18.42,,Emilia KANGAS,2001-08-10,FIN,2,"Athletics Stadium, Beograd (SRB)",2025-08-07,1109.0,shot-put,throws,female,senior,shot-put,field,18.42,SRB,24.0,2025
-6711,18.42,,Alina KENZEL,1997-08-10,GER,10f1,"National Stadium, Tokyo (JPN)",2025-09-20,1109.0,shot-put,throws,female,senior,shot-put,field,18.42,JPN,28.0,2025
+6711,18.42,,Alina KENZEL,1997-08-10,GER,10,"National Stadium, Tokyo (JPN)",2025-09-20,1109.0,shot-put,throws,female,senior,shot-put,field,18.42,JPN,28.0,2025
 6711,18.42,,Maddison-Lee WESCHE,1999-06-13,NZL,8,"China Textile City Sports Centre, Shaoxing/Keqiao (CHN)",2025-05-03,1109.0,shot-put,throws,female,senior,shot-put,field,18.42,CHN,25.0,2025
 6711,18.42,,Jessica INCHUDE,1996-03-25,POR,1,"Estádio José Vieira de Carvalho, Maia (POR)",2025-07-19,1109.0,shot-put,throws,female,senior,shot-put,field,18.42,POR,29.0,2025
 6711,18.42,,Fanny ROOS,1995-01-02,SWE,4,"Olympiastadion, Berlin (GER)",2018-09-02,1109.0,shot-put,throws,female,senior,shot-put,field,18.42,GER,23.0,2018
@@ -8317,7 +8317,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 8124,18.21,,Danniel THOMAS-DODD,1992-11-11,JAM,9,"China Textile City Sports Centre, Shaoxing/Keqiao (CHN)",2025-05-03,1096.0,shot-put,throws,female,senior,shot-put,field,18.21,CHN,32.0,2025
 8124,18.21,,Eliana BANDEIRA,1996-07-01,POR,4,"Marktplatz, Biberach (GER)",2025-07-14,1096.0,shot-put,throws,female,senior,shot-put,field,18.21,GER,29.0,2025
 8124,18.21,,Aliona DUBITSKAYA,1990-01-25,BLR,,"Central Stadium, Kazan (RUS)",2025-08-07,1096.0,shot-put,throws,female,senior,shot-put,field,18.21,RUS,35.0,2025
-8124,18.21,,Katharina MAISCH,1997-06-12,GER,11f1,"National Stadium, Tokyo (JPN)",2025-09-20,1096.0,shot-put,throws,female,senior,shot-put,field,18.21,JPN,28.0,2025
+8124,18.21,,Katharina MAISCH,1997-06-12,GER,11,"National Stadium, Tokyo (JPN)",2025-09-20,1096.0,shot-put,throws,female,senior,shot-put,field,18.21,JPN,28.0,2025
 8124,18.21,,Jeneva STEVENS,1989-10-28,USA,2,Baie Mahault (FRA),2016-05-14,1096.0,shot-put,throws,female,senior,shot-put,field,18.21,FRA,26.0,2016
 8124,18.21,,Eliana BANDEIRA,1996-07-01,POR,1,"Velódromo Luis Puig, Valencia (ESP) (i)",2025-02-15,1096.0,shot-put,throws,female,senior,shot-put,field,18.21,ESP,28.0,2025
 8124,18.21,,Melanie DURON,2003-09-06,USA,1,"CrossPlex Athletic Facility, Birmingham, AL (USA) (i)",2025-02-25,1096.0,shot-put,throws,female,senior,shot-put,field,18.21,USA,21.0,2025

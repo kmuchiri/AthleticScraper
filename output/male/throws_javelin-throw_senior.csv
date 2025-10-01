@@ -395,7 +395,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 394,88.16,,Jan ŽELEZNÝ,16 JUN 1966,CZE,2,"Crystal Palace, London (GBR)",07 JUL 1995,1217,javelin-throw,throws,male,senior
 394,88.16,,Jan ŽELEZNÝ,16 JUN 1966,CZE,1,"Olympic Stadium, Atlanta, GA (USA)",03 AUG 1996,1217,javelin-throw,throws,male,senior
 394,88.16,,Neeraj CHOPRA,24 DEC 1997,IND,1,"Stade Charléty, Paris (FRA)",20 JUN 2025,1217,javelin-throw,throws,male,senior
-394,88.16,,Keshorn WALCOTT,02 APR 1993,TTO,1f1,"National Stadium, Tokyo (JPN)",18 SEP 2025,1217,javelin-throw,throws,male,senior
+394,88.16,,Keshorn WALCOTT,02 APR 1993,TTO,1,"National Stadium, Tokyo (JPN)",18 SEP 2025,1217,javelin-throw,throws,male,senior
 398,88.15,,Johannes VETTER,26 MAR 1993,GER,2,"Stadio Olimpico, Roma (ITA)",08 JUN 2017,1217,javelin-throw,throws,male,senior
 399,88.14,,Steve BACKLEY,12 FEB 1969,GBR,1,Birmingham (GBR),28 JUN 1992,1217,javelin-throw,throws,male,senior
 399,88.14,,Sergey MAKAROV,19 MAR 1973,RUS,2,"Olympiastadion, Berlin (GER)",04 SEP 2005,1217,javelin-throw,throws,male,senior
@@ -582,7 +582,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 581,87.38,,Steve BACKLEY,12 FEB 1969,GBR,2,Kuala Lumpur (MAS),21 SEP 1998,1206,javelin-throw,throws,male,senior
 581,87.38,,Andreas THORKILDSEN,01 APR 1982,NOR,1,"Crystal Palace, London (GBR)",14 AUG 2010,1206,javelin-throw,throws,male,senior
 581,87.38,,Vítězslav VESELÝ,27 FEB 1983,CZE,1,"Mestský Stadion, Ostrava (CZE)",17 JUN 2014,1206,javelin-throw,throws,male,senior
-581,87.38,,Anderson PETERS,21 OCT 1997,GRN,2f1,"National Stadium, Tokyo (JPN)",18 SEP 2025,1206,javelin-throw,throws,male,senior
+581,87.38,,Anderson PETERS,21 OCT 1997,GRN,2,"National Stadium, Tokyo (JPN)",18 SEP 2025,1206,javelin-throw,throws,male,senior
 585,87.37,,Konstantinos GATSIOUDIS,17 DEC 1973,GRE,2,"Stade Olympique de la Pontaise, Lausanne (SUI)",05 JUL 2000,1206,javelin-throw,throws,male,senior
 585,87.37,,Vadims VASIĻEVSKIS,05 JAN 1982,LAT,1q2,"Yanmar Stadium Nagai, Osaka (JPN)",31 AUG 2007,1206,javelin-throw,throws,male,senior
 585,87.37,,Tero PITKÄMÄKI,19 DEC 1982,FIN,1,"Boudewijnstadion, Bruxelles (BEL)",11 SEP 2015,1206,javelin-throw,throws,male,senior
@@ -820,7 +820,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 812,86.67,,Jakub VADLEJCH,10 OCT 1990,CZE,2,"National Stadium, Tokyo (JPN)",07 AUG 2021,1196,javelin-throw,throws,male,senior
 812,86.67,,Jakub VADLEJCH,10 OCT 1990,CZE,3,"Nemzeti Atlétikai Központ, Budapest (HUN)",27 AUG 2023,1196,javelin-throw,throws,male,senior
 812,86.67,,Aliaksei KATKAVETS,07 JUN 1998,BLR,1,"Yunost Stadium, Adler, Sochi (RUS)",24 APR 2025,1196,javelin-throw,throws,male,senior
-812,86.67,,Curtis THOMPSON,08 FEB 1996,USA,3f1,"National Stadium, Tokyo (JPN)",18 SEP 2025,1196,javelin-throw,throws,male,senior
+812,86.67,,Curtis THOMPSON,08 FEB 1996,USA,3,"National Stadium, Tokyo (JPN)",18 SEP 2025,1196,javelin-throw,throws,male,senior
 823,86.66,,Vladimir OVCHINNIKOV,02 AUG 1970,RUS,1,Caserta (ITA),27 MAY 1995,1196,javelin-throw,throws,male,senior
 823,86.66,,Gavin LOVEGROVE,21 OCT 1967,NZL,1,Auckland (NZL),23 FEB 1996,1196,javelin-throw,throws,male,senior
 823,86.66,,Jan ŽELEZNÝ,16 JUN 1966,CZE,1,Ostrava (CZE),12 JUN 2002,1196,javelin-throw,throws,male,senior
@@ -976,7 +976,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 974,86.28,,Andreas THORKILDSEN,01 APR 1982,NOR,2,"Stade de France, Paris-St-Denis (FRA)",06 JUL 2007,1191,javelin-throw,throws,male,senior
 976,86.27,,Matthias DE ZORDO,21 FEB 1988,GER,1,"DS, Daegu (KOR)",03 SEP 2011,1190,javelin-throw,throws,male,senior
 976,86.27,,Johannes VETTER,26 MAR 1993,GER,2,Offenburg (GER),02 JUN 2018,1190,javelin-throw,throws,male,senior
-976,86.27,,Sachin YADAV,25 OCT 1999,IND,4f1,"National Stadium, Tokyo (JPN)",18 SEP 2025,1190,javelin-throw,throws,male,senior
+976,86.27,,Sachin YADAV,25 OCT 1999,IND,4,"National Stadium, Tokyo (JPN)",18 SEP 2025,1190,javelin-throw,throws,male,senior
 979,86.26,,Raymond HECHT,11 NOV 1968,GER,1,Waldshut-Tiengen (GER),14 MAY 1995,1190,javelin-throw,throws,male,senior
 979,86.26,,Marius CORBETT,26 SEP 1975,RSA,3,Zürich (SUI),13 AUG 1997,1190,javelin-throw,throws,male,senior
 979,86.26,,Juha LAUKKANEN,06 JAN 1969,FIN,1,Roodeport (RSA),16 MAR 1998,1190,javelin-throw,throws,male,senior
@@ -1037,7 +1037,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 1036,86.11,,Sergey MAKAROV,19 MAR 1973,RUS,1,Tula (RUS),23 JUL 2000,1188,javelin-throw,throws,male,senior
 1036,86.11,,Andreas THORKILDSEN,01 APR 1982,NOR,1,"Shanghai Stadium, Shanghai (CHN)",23 MAY 2010,1188,javelin-throw,throws,male,senior
 1036,86.11,,Teura'itera'i TUPAIA,06 FEB 2000,FRA,1,"Stade Philippe Mahut, Fontainebleau (FRA)",17 MAY 2024,1188,javelin-throw,throws,male,senior
-1036,86.11,,Julian WEBER,29 AUG 1994,GER,5f1,"National Stadium, Tokyo (JPN)",18 SEP 2025,1188,javelin-throw,throws,male,senior
+1036,86.11,,Julian WEBER,29 AUG 1994,GER,5,"National Stadium, Tokyo (JPN)",18 SEP 2025,1188,javelin-throw,throws,male,senior
 1040,86.10,,Sergey MAKAROV,19 MAR 1973,RUS,1,Dijon (FRA),26 MAY 1996,1188,javelin-throw,throws,male,senior
 1040,86.10,,Konstantinos GATSIOUDIS,17 DEC 1973,GRE,2,"Olympiastadion, München (GER)",22 JUN 1997,1188,javelin-throw,throws,male,senior
 1040,86.10,,Boris HENRY,14 DEC 1973,GER,1,Dortmund (GER),03 SEP 1997,1188,javelin-throw,throws,male,senior
@@ -1306,7 +1306,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 1301,85.54,,Jakub VADLEJCH,10 OCT 1990,CZE,1,Potchefstroom (RSA),22 APR 2016,1180,javelin-throw,throws,male,senior
 1301,85.54,,Julian WEBER,29 AUG 1994,GER,2,"Olympiastadion, Berlin (GER)",02 SEP 2018,1180,javelin-throw,throws,male,senior
 1301,85.54,,Chao-Tsun CHENG,17 OCT 1993,TPE,1,New Taipei City (TPE),05 DEC 2020,1180,javelin-throw,throws,male,senior
-1301,85.54,,Julius YEGO,04 JAN 1989,KEN,6f1,"National Stadium, Tokyo (JPN)",18 SEP 2025,1180,javelin-throw,throws,male,senior
+1301,85.54,,Julius YEGO,04 JAN 1989,KEN,6,"National Stadium, Tokyo (JPN)",18 SEP 2025,1180,javelin-throw,throws,male,senior
 1309,85.53,,Juha LAUKKANEN,06 JAN 1969,FIN,2,St-Denis (FRA),03 JUL 1999,1180,javelin-throw,throws,male,senior
 1309,85.53,,Aleksandr IVANOV,25 MAY 1982,RUS,1,Valencia (ESP),25 MAY 2003,1180,javelin-throw,throws,male,senior
 1311,85.52,,Boris HENRY,14 DEC 1973,GER,6,"Commonwealth Stadium, Edmonton (CAN)",12 AUG 2001,1180,javelin-throw,throws,male,senior
@@ -2021,7 +2021,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 2010,84.38,,Johannes VETTER,26 MAR 1993,GER,1,Rehlingen (GER),16 MAY 2016,1164,javelin-throw,throws,male,senior
 2010,84.38,,Kishore JENA,06 SEP 1995,IND,,"Mahinda Rajapaksha Stadium, Diyagama (SRI)",28 JUL 2023,1164,javelin-throw,throws,male,senior
 2010,84.38,,Ioannis KYRIAZIS,19 JAN 1996,GRE,1f1,"GPS Stadium, Nicosia (CYP)",16 MAR 2025,1164,javelin-throw,throws,male,senior
-2010,84.38,,Rumesh Tharanga PATHIRAGE,21 MAR 2003,SRI,7f1,"National Stadium, Tokyo (JPN)",18 SEP 2025,1164,javelin-throw,throws,male,senior
+2010,84.38,,Rumesh Tharanga PATHIRAGE,21 MAR 2003,SRI,7,"National Stadium, Tokyo (JPN)",18 SEP 2025,1164,javelin-throw,throws,male,senior
 2024,84.37,,Sergey MAKAROV,19 MAR 1973,RUS,2,"Petrovskiy Stadium, St. Petersburg (RUS)",28 JUN 1998,1163,javelin-throw,throws,male,senior
 2024,84.37,,Mark ROBERSON,13 MAR 1967,GBR,2,Glasgow (GBR),30 AUG 1998,1163,javelin-throw,throws,male,senior
 2024,84.37,,Tero PITKÄMÄKI,19 DEC 1982,FIN,1,Helsinki (FIN),26 AUG 2006,1163,javelin-throw,throws,male,senior
@@ -2314,7 +2314,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 2309,84.03,,Keshorn WALCOTT,02 APR 1993,TTO,3,"Boudewijnstadion, Bruxelles (BEL)",11 SEP 2015,1159,javelin-throw,throws,male,senior
 2309,84.03,,Johannes VETTER,26 MAR 1993,GER,1,"ETSV Stadion, Offenburg (GER)",29 AUG 2020,1159,javelin-throw,throws,male,senior
 2309,84.03,,Julian WEBER,29 AUG 1994,GER,1,"Olympiastadion, Berlin (GER)",27 JUL 2025,1159,javelin-throw,throws,male,senior
-2309,84.03,,Neeraj CHOPRA,24 DEC 1997,IND,8f1,"National Stadium, Tokyo (JPN)",18 SEP 2025,1159,javelin-throw,throws,male,senior
+2309,84.03,,Neeraj CHOPRA,24 DEC 1997,IND,8,"National Stadium, Tokyo (JPN)",18 SEP 2025,1159,javelin-throw,throws,male,senior
 2317,84.02,,Viktor YEVSYUKOV,06 OCT 1956,URS,1,Bruxelles (BEL),11 SEP 1987,1158,javelin-throw,throws,male,senior
 2317,84.02,,Viktor ZAYTSEV,06 JUN 1966,URS,2,Adler (URS),24 FEB 1991,1158,javelin-throw,throws,male,senior
 2317,84.02,,Mick HILL,22 OCT 1964,GBR,1,Thurrock (GBR),12 SEP 1993,1158,javelin-throw,throws,male,senior
@@ -3288,7 +3288,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 3277,83.03,,Vítězslav VESELÝ,27 FEB 1983,CZE,1,"Vitkovice, Ostrava (CZE)",22 AUG 2020,1144,javelin-throw,throws,male,senior
 3277,83.03,,Aliaksei KATKAVETS,07 JUN 1998,BLR,1,"Regional Sport Complex, Brest (BLR)",20 MAY 2021,1144,javelin-throw,throws,male,senior
 3277,83.03,,Cameron MCENTYRE,10 FEB 1999,AUS,5q2,"National Stadium, Tokyo (JPN)",17 SEP 2025,1144,javelin-throw,throws,male,senior
-3277,83.03,,Dawid WEGNER,23 APR 2000,POL,9f1,"National Stadium, Tokyo (JPN)",18 SEP 2025,1144,javelin-throw,throws,male,senior
+3277,83.03,,Dawid WEGNER,23 APR 2000,POL,9,"National Stadium, Tokyo (JPN)",18 SEP 2025,1144,javelin-throw,throws,male,senior
 3291,83.02,,Kimmo KINNUNEN,31 MAR 1968,FIN,2,Stockholm (SWE),05 JUL 1993,1144,javelin-throw,throws,male,senior
 3291,83.02,,Gavin LOVEGROVE,21 OCT 1967,NZL,2,Auckland (NZL),29 MAR 1994,1144,javelin-throw,throws,male,senior
 3291,83.02,,Boris HENRY,14 DEC 1973,GER,1,Schwäbisch Gmünd (GER),19 AUG 1995,1144,javelin-throw,throws,male,senior
@@ -3611,7 +3611,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 3606,82.75,,Dmitriy TARABIN,29 OCT 1991,RUS,1,Daegu (KOR),16 MAY 2012,1140,javelin-throw,throws,male,senior
 3606,82.75,,Stuart FARQUHAR,15 MAR 1982,NZL,1,Hamilton (NZL),07 FEB 2015,1140,javelin-throw,throws,male,senior
 3606,82.75,,Keshorn WALCOTT,02 APR 1993,TTO,3,"Mestský Stadion, Ostrava (CZE)",19 MAY 2021,1140,javelin-throw,throws,male,senior
-3606,82.75,,Arshad NADEEM,02 JAN 1997,PAK,10f1,"National Stadium, Tokyo (JPN)",18 SEP 2025,1140,javelin-throw,throws,male,senior
+3606,82.75,,Arshad NADEEM,02 JAN 1997,PAK,10,"National Stadium, Tokyo (JPN)",18 SEP 2025,1140,javelin-throw,throws,male,senior
 3614,82.74,,Silvio WARSÖNKE,02 AUG 1967,GDR,1,Potsdam (GDR),09 SEP 1988,1140,javelin-throw,throws,male,senior
 3614,82.74,,Tom PETRANOFF,08 APR 1958,USA,1,Port Elizabeth (RSA),04 MAR 1991,1140,javelin-throw,throws,male,senior
 3614,82.74,,Dmitriy POLYUNIN,06 APR 1969,URS,1,Sotteville-lès-Rouen (FRA),01 JUN 1991,1140,javelin-throw,throws,male,senior
@@ -7890,262 +7890,263 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 7870,80.12,,Toni KUUSELA,21 JAN 1994,FIN,1,"McArthur Stadium, Potchefstroom (RSA)",25 FEB 2020,1103,javelin-throw,throws,male,senior
 7870,80.12,,Lassi ETELÄTALO,30 APR 1988,FIN,1,"Kaarlen kenttä, Vaasa (FIN)",29 JUN 2021,1103,javelin-throw,throws,male,senior
 7870,80.12,,Emin ÖNCEL,01 MAY 1997,TUR,1,"Atıcılar Atletizm Sahası, Bursa (TUR)",26 JUN 2022,1103,javelin-throw,throws,male,senior
-7892,80.11,,Sami SAKSIO,28 APR 1969,FIN,2,Äänekoski (FIN),10 JUN 1998,1103,javelin-throw,throws,male,senior
-7892,80.11,,Arunas JURKSAS,03 MAY 1972,LTU,2,Kaunas (LTU),08 JUL 2000,1103,javelin-throw,throws,male,senior
-7892,80.11,,Aleksandr IVANOV,25 MAY 1982,RUS,7,"Olympiastadion, Berlin (GER)",10 AUG 2003,1103,javelin-throw,throws,male,senior
-7892,80.11,,Marián BOKOR,17 APR 1977,SVK,1,Trnava (SVK),15 MAY 2004,1103,javelin-throw,throws,male,senior
-7892,80.11,,Ēriks RAGS,01 JUN 1975,LAT,2,Ventspils (LAT),30 MAY 2004,1103,javelin-throw,throws,male,senior
-7892,80.11,,Tero JÄRVENPÄÄ,02 OCT 1984,FIN,5,Kuortane (FIN),24 JUN 2006,1103,javelin-throw,throws,male,senior
-7892,80.11,,Mike HAZLE,22 MAR 1979,USA,1,Tallinn (EST),25 AUG 2009,1103,javelin-throw,throws,male,senior
-7892,80.11,,Jae-myong PARK,15 DEC 1981,KOR,2,Daegu (KOR),19 MAY 2010,1103,javelin-throw,throws,male,senior
-7892,80.11,,Dmitriy TARABIN,29 OCT 1991,RUS,3,Milano (ITA),18 SEP 2011,1103,javelin-throw,throws,male,senior
-7892,80.11,,Keshorn WALCOTT,02 APR 1993,TTO,1,La Habana (CUB),27 MAY 2012,1103,javelin-throw,throws,male,senior
-7892,80.11,,Risto MÄTAS,30 APR 1984,EST,2,Tallinn (EST),15 JUL 2013,1103,javelin-throw,throws,male,senior
-7892,80.11,,Stuart FARQUHAR,15 MAR 1982,NZL,1,Auckland (NZL),26 FEB 2015,1103,javelin-throw,throws,male,senior
-7892,80.11,,Dejan MILEUSNIĆ,16 NOV 1991,BIH,1,Zenica (BIH),01 JUN 2016,1103,javelin-throw,throws,male,senior
-7892,80.11,,Bernhard SEIFERT,15 FEB 1993,GER,1,Potsdam (GER),09 MAY 2017,1103,javelin-throw,throws,male,senior
-7892,80.11,,Arley IBARGUEN,17 OCT 1982,COL,1,Cochabamba (BOL),06 JUN 2018,1103,javelin-throw,throws,male,senior
-7892,80.11,,Tino MÄKELÄ,31 JUL 1999,FIN,1,"Sauvosaaren urheilukenttä, Kemi (FIN)",23 AUG 2020,1103,javelin-throw,throws,male,senior
-7892,80.11,,Timothy HERMAN,19 OCT 1990,BEL,7q2,"Nemzeti Atlétikai Központ, Budapest (HUN)",25 AUG 2023,1103,javelin-throw,throws,male,senior
-7909,80.10,,Masami YOSHIDA,14 JUN 1958,JPN,1,Toyama (JPN),28 SEP 1986,1103,javelin-throw,throws,male,senior
-7909,80.10,,Kimmo KINNUNEN,31 MAR 1968,FIN,2,Lahti (FIN),25 AUG 1988,1103,javelin-throw,throws,male,senior
-7909,80.10,,Einar VILHJÁLMSSON,01 JUN 1960,ISL,3q1,"National Stadium, Tokyo (JPN)",25 AUG 1991,1103,javelin-throw,throws,male,senior
-7909,80.10,,Jérome PUTZEYS,07 NOV 1964,BEL,1,Zwevegem (BEL),07 JUN 1992,1103,javelin-throw,throws,male,senior
-7909,80.10,,Matti NÄRHI,17 AUG 1975,FIN,3,Joensuu (FIN),20 JUL 1996,1103,javelin-throw,throws,male,senior
-7909,80.10,,Sergey MAKAROV,19 MAR 1973,RUS,4,Paris (FRA),25 JUN 1997,1103,javelin-throw,throws,male,senior
-7909,80.10,,Dimitrios POLYMEROU,17 MAY 1974,GRE,1,Athina (GRE),18 JUL 1998,1103,javelin-throw,throws,male,senior
-7909,80.10,,Edgar BAUMANN,10 APR 1970,PAR,1,"San Marcos, TX (USA)",19 JUN 1999,1103,javelin-throw,throws,male,senior
-7909,80.10,,Dariusz TRAFAS,16 MAY 1972,POL,7,Bruxelles (BEL),24 AUG 2001,1103,javelin-throw,throws,male,senior
-7909,80.10,,Andreas THORKILDSEN,01 APR 1982,NOR,6,Oslo (NOR),27 JUN 2003,1103,javelin-throw,throws,male,senior
-7909,80.10,,Nicholas NIELAND,31 JAN 1972,GBR,1,Melbourne (AUS),25 MAR 2006,1103,javelin-throw,throws,male,senior
-7909,80.10,,Tero JÄRVENPÄÄ,02 OCT 1984,FIN,3,Tampere (FIN),07 JUN 2006,1103,javelin-throw,throws,male,senior
-7909,80.10,,Tino HÄBER,06 OCT 1982,GER,1,Bautzen (GER),15 JUN 2008,1103,javelin-throw,throws,male,senior
-7909,80.10,,Ēriks RAGS,01 JUN 1975,LAT,5,Daegu (KOR),25 SEP 2008,1103,javelin-throw,throws,male,senior
-7909,80.10,,Yukifumi MURAKAMI,23 DEC 1979,JPN,1,Wakayama (JPN),18 APR 2009,1103,javelin-throw,throws,male,senior
-7909,80.10,,Tero JÄRVENPÄÄ,02 OCT 1984,FIN,2,Turku (FIN),07 AUG 2011,1103,javelin-throw,throws,male,senior
-7909,80.10,,Rocco VAN ROOYEN,23 DEC 1992,RSA,1,Bellville (RSA),27 MAR 2014,1103,javelin-throw,throws,male,senior
-7909,80.10,,Dmitriy TARABIN,29 OCT 1991,RUS,1,"Adler, Sochi (RUS)",11 FEB 2015,1103,javelin-throw,throws,male,senior
-7909,80.10,,Dejan MILEUSNIĆ,16 NOV 1991,BIH,2,Velenje (SLO),20 JUN 2017,1103,javelin-throw,throws,male,senior
-7909,80.10,,Pavel MIALESHKA,24 NOV 1992,BLR,1,Talsi (LAT),28 JUN 2018,1103,javelin-throw,throws,male,senior
-7909,80.10,,Nash LOWIS,06 NOV 1999,AUS,1,Townsville (AUS),01 JUN 2019,1103,javelin-throw,throws,male,senior
-7909,80.10,,Dawid WEGNER,23 APR 2000,POL,2,"Stadion MOSiR, Kielce (POL)",14 MAY 2023,1103,javelin-throw,throws,male,senior
-7909,80.10,,Andrian MARDARE,20 JUN 1995,MDA,12,"Stade de France, Paris (FRA)",08 AUG 2024,1103,javelin-throw,throws,male,senior
-7909,80.10,,Alexandru Mihăiță NOVAC,24 MAR 1997,ROU,1,"Stadionul de atletism ""Nicolae Mărășescu"", Craiova (ROU)",11 AUG 2024,1103,javelin-throw,throws,male,senior
-7933,80.09,,Stephan STEDING,29 JAN 1982,GER,5,Ulm (GER),29 JUN 2003,1102,javelin-throw,throws,male,senior
-7933,80.09,,Dariusz TRAFAS,16 MAY 1972,POL,3,Tallinn (EST),30 JUL 2003,1102,javelin-throw,throws,male,senior
-7933,80.09,,Aleksey TOVARNOV,20 JAN 1985,RUS,3,Tula (RUS),13 JUN 2006,1102,javelin-throw,throws,male,senior
-7933,80.09,,Leigh SMITH,28 AUG 1981,USA,1,"New Haven, CT (USA)",08 JUL 2006,1102,javelin-throw,throws,male,senior
-7933,80.09,,Aleksandr IVANOV,25 MAY 1982,RUS,8,"Ullevi Stadium, Göteborg (SWE)",09 AUG 2006,1102,javelin-throw,throws,male,senior
-7933,80.09,,Yudel MORENO,24 FEB 1983,CUB,1,Kingston (JAM),04 MAR 2007,1102,javelin-throw,throws,male,senior
-7933,80.09,,Peter ESENWEIN,07 DEC 1967,GER,3,Osaka (JPN),05 MAY 2007,1102,javelin-throw,throws,male,senior
-7933,80.09,,Teemu WIRKKALA,14 JAN 1984,FIN,5,Stockholm (SWE),07 AUG 2007,1102,javelin-throw,throws,male,senior
-7933,80.09,,Igor JANIK,18 JAN 1983,POL,6,"Letzigrund, Zürich (SUI)",07 SEP 2007,1102,javelin-throw,throws,male,senior
-7933,80.09,,Kim AMB,31 JUL 1990,SWE,1,Gävle (SWE),13 AUG 2011,1102,javelin-throw,throws,male,senior
-7933,80.09,,Fatih AVAN,01 JAN 1989,TUR,5q2,"Luzhniki Stadion, Moskva (RUS)",15 AUG 2013,1102,javelin-throw,throws,male,senior
-7933,80.09,,Edis MATUSEVIČIUS,30 JUN 1996,LTU,2,"Hadar Yosef Stadium, Tel Aviv (ISR)",25 JUN 2017,1102,javelin-throw,throws,male,senior
-7933,80.09,,Vedran SAMAC,22 JAN 1990,SRB,2,Cluj-Napoca (ROU),07 JUN 2019,1102,javelin-throw,throws,male,senior
-7933,80.09,,Qun MA,08 FEB 1994,CHN,1,Chengdu (CHN),30 MAR 2021,1102,javelin-throw,throws,male,senior
-7933,80.09,,Artur FELFNER,17 OCT 2003,UKR,1f1,"Estádio Dr. Magalhães Pessoa, Leiria (POR)",12 MAR 2023,1102,javelin-throw,throws,male,senior
-7948,80.08,,Pascal LEFEVRE,25 JAN 1965,FRA,1,Annecy (FRA),09 AUG 1987,1102,javelin-throw,throws,male,senior
-7948,80.08,,Vladislav GRIB,08 MAY 1964,URS,1,Moskva (URS),08 MAY 1988,1102,javelin-throw,throws,male,senior
-7948,80.08,,Emil TSVETANOV,14 MAR 1963,BUL,1,Pleven (BUL),09 JUL 1988,1102,javelin-throw,throws,male,senior
-7948,80.08,,Gerald WEIß,08 JAN 1960,GDR,3,Potsdam (GDR),09 SEP 1988,1102,javelin-throw,throws,male,senior
-7948,80.08,,Mick HILL,22 OCT 1964,GBR,4,London (GBR),15 SEP 1989,1102,javelin-throw,throws,male,senior
-7948,80.08,,Mika PARVIAINEN,19 DEC 1970,FIN,4,Lahti (FIN),03 JUN 1993,1102,javelin-throw,throws,male,senior
-7948,80.08,,Marek KALETA,17 DEC 1961,EST,2,Pärnu (EST),31 JUL 1993,1102,javelin-throw,throws,male,senior
-7948,80.08,,Andrey MORUYEV,06 MAY 1970,RUS,7,"Stade Louis II, Monaco (MON)",09 SEP 1995,1102,javelin-throw,throws,male,senior
-7948,80.08,,Voldemars LUSIS,07 DEC 1974,LAT,1,Riga (LAT),11 JUL 1999,1102,javelin-throw,throws,male,senior
-7948,80.08,,Voldemars LUSIS,07 DEC 1974,LAT,11q1,"Olympic Stadium, Sydney (AUS)",22 SEP 2000,1102,javelin-throw,throws,male,senior
-7948,80.08,,Gergely HORVÁTH,05 JUN 1975,HUN,1,Budapest (HUN),05 JUN 2004,1102,javelin-throw,throws,male,senior
-7948,80.08,,Roman AVRAMENKO,23 MAR 1988,UKR,1,Yalta (UKR),07 MAY 2008,1102,javelin-throw,throws,male,senior
-7948,80.08,,Esko MIKKOLA,14 FEB 1975,FIN,1,Urjala (FIN),25 AUG 2009,1102,javelin-throw,throws,male,senior
-7948,80.08,,Qiang QIN,18 APR 1983,CHN,3,Guangzhou (CHN),14 NOV 2009,1102,javelin-throw,throws,male,senior
-7948,80.08,,Mervyn LUCKWELL,27 NOV 1984,GBR,1,London (GBR),13 JUN 2010,1102,javelin-throw,throws,male,senior
-7948,80.08,,Ēriks RAGS,01 JUN 1975,LAT,1,Jékabpils (LAT),09 JUL 2010,1102,javelin-throw,throws,male,senior
-7948,80.08,,Jakub VADLEJCH,10 OCT 1990,CZE,8q1,"DS, Daegu (KOR)",01 SEP 2011,1102,javelin-throw,throws,male,senior
-7948,80.08,,Marcin KRUKOWSKI,14 JUN 1992,POL,2,Białystok (POL),03 MAY 2013,1102,javelin-throw,throws,male,senior
-7948,80.08,,Jaime Dayron MÁRQUEZ,19 NOV 1983,COL,2,Rio de Janeiro (BRA),16 MAY 2016,1102,javelin-throw,throws,male,senior
-7948,80.08,,Dejan MILEUSNIĆ,16 NOV 1991,BIH,1,Zenica (BIH),07 JUN 2017,1102,javelin-throw,throws,male,senior
-7948,80.08,,Ahmed Bader MAGOUR,03 MAR 1996,QAT,3f1,Raasepori (FIN),17 JUN 2018,1102,javelin-throw,throws,male,senior
-7948,80.08,,Dejan MILEUSNIĆ,16 NOV 1991,BIH,1,Sarajevo (BIH),15 JUN 2019,1102,javelin-throw,throws,male,senior
-7948,80.08,,Ethan SHALAWAY,28 SEP 1994,USA,1,"Hutsell-Rosen Track, Auburn, AL (USA)",15 APR 2022,1102,javelin-throw,throws,male,senior
-7948,80.08,,Roderick Genki DEAN,30 DEC 1991,JPN,1f1,"Urheilukenttä, Pihtipudas (FIN)",03 JUL 2022,1102,javelin-throw,throws,male,senior
-7972,80.07,,Tommi HUOTILAINEN,17 NOV 1967,FIN,2,Tampere (FIN),15 JUL 1998,1102,javelin-throw,throws,male,senior
-7972,80.07,,Juha LAUKKANEN,06 JAN 1969,FIN,7,Helsinki (FIN),10 JUN 1999,1102,javelin-throw,throws,male,senior
-7972,80.07,,Marián BOKOR,17 APR 1977,SVK,1,Bratislava (SVK),13 MAY 2000,1102,javelin-throw,throws,male,senior
-7972,80.07,,Mark FRANK,21 JUN 1977,GER,1,Rostock (GER),08 JUN 2002,1102,javelin-throw,throws,male,senior
-7972,80.07,,Teemu WIRKKALA,14 JAN 1984,FIN,3,Kuortane (FIN),20 JUL 2003,1102,javelin-throw,throws,male,senior
-7972,80.07,,Teemu WIRKKALA,14 JAN 1984,FIN,1,Helsinki (FIN),06 SEP 2003,1102,javelin-throw,throws,male,senior
-7972,80.07,,Breaux GREER,19 OCT 1976,USA,5,"Crystal Palace, London (GBR)",30 JUL 2004,1102,javelin-throw,throws,male,senior
-7972,80.07,,Isbel LUACES,20 JUL 1975,CUB,7q2,"Olympic Stadium, Athina (GRE)",26 AUG 2004,1102,javelin-throw,throws,male,senior
-7972,80.07,,Ainars KOVALS,21 NOV 1981,LAT,7,Thessaloniki (GRE),13 SEP 2009,1102,javelin-throw,throws,male,senior
-7972,80.07,,Mihkel KUKK,08 OCT 1983,EST,3,Viljandi (EST),09 AUG 2011,1102,javelin-throw,throws,male,senior
-7972,80.07,,Rolands ŠTROBINDERS,14 APR 1992,LAT,3,Bellinzona (SUI),03 JUN 2014,1102,javelin-throw,throws,male,senior
-7972,80.07,,Ryohei ARAI,23 JUN 1991,JPN,5,"Shanghai Stadium, Shanghai (CHN)",14 MAY 2016,1102,javelin-throw,throws,male,senior
-7972,80.07,,Petr FRYDRYCH,13 JAN 1988,CZE,9,"Suhaim bin Hamad Stadium, Doha (QAT)",04 MAY 2018,1102,javelin-throw,throws,male,senior
-7972,80.07,,Gatis ČAKŠS,13 JUN 1995,LAT,2,Ventspils (LAT),01 JUN 2019,1102,javelin-throw,throws,male,senior
-7972,80.07,,Edis MATUSEVIČIUS,30 JUN 1996,LTU,1,Napoli (ITA),11 JUL 2019,1102,javelin-throw,throws,male,senior
-7972,80.07,,Roderick Genki DEAN,30 DEC 1991,JPN,2,"Denka Big Swan Stadium, Niigata (JPN)",01 OCT 2020,1102,javelin-throw,throws,male,senior
-7972,80.07,,Yuta SAKIYAMA,05 APR 1996,JPN,3,"National Stadium, Tokyo (JPN)",19 MAY 2024,1102,javelin-throw,throws,male,senior
-7972,80.07,,Alexandru Mihăiță NOVAC,24 MAR 1997,ROU,1,"Cluj Arena, Cluj-Napoca (ROU)",29 JUN 2024,1102,javelin-throw,throws,male,senior
-7990,80.06,,Reidar LORENTZEN,22 SEP 1956,NOR,1,Byrkjelo (NOR),14 AUG 1988,1102,javelin-throw,throws,male,senior
-7990,80.06,,Seppo RÄTY,27 APR 1962,FIN,3,Gävle (SWE),20 JUN 1989,1102,javelin-throw,throws,male,senior
-7990,80.06,,Marek KALETA,17 DEC 1961,URS,1,"Los Angeles, CA (USA)",12 MAY 1990,1102,javelin-throw,throws,male,senior
-7990,80.06,,Peter SCHREIBER,09 AUG 1964,FRG,1,Tel Aviv (ISR),26 MAY 1990,1102,javelin-throw,throws,male,senior
-7990,80.06,,Sigurdur EINNARSSON,28 SEP 1962,ISL,1,Reykjavík (ISL),31 JUL 1995,1102,javelin-throw,throws,male,senior
-7990,80.06,,Juan DE LA GARZA,20 SEP 1961,MEX,1,"College Station, TX (USA)",09 MAY 1996,1102,javelin-throw,throws,male,senior
-7990,80.06,,Dariusz TRAFAS,16 MAY 1972,POL,7,Melbourne (AUS),09 SEP 2001,1102,javelin-throw,throws,male,senior
-7990,80.06,,Björn LANGE,15 JUN 1979,GER,5q,"Wattenscheid, Bochum (GER)",05 JUL 2002,1102,javelin-throw,throws,male,senior
-7990,80.06,,Raymond HECHT,11 NOV 1968,GER,1,Thum (GER),11 AUG 2004,1102,javelin-throw,throws,male,senior
-7990,80.06,,Uladzimir KAZLOU,07 JUN 1985,BLR,3q1,"National Stadium, Beijing (CHN)",21 AUG 2008,1102,javelin-throw,throws,male,senior
-7990,80.06,,Esko MIKKOLA,14 FEB 1975,FIN,1,Helsinki (FIN),26 AUG 2008,1102,javelin-throw,throws,male,senior
-7990,80.06,,Mervyn LUCKWELL,27 NOV 1984,GBR,1,Milton Keynes (GBR),09 MAY 2009,1102,javelin-throw,throws,male,senior
-7990,80.06,,Roman AVRAMENKO,23 MAR 1988,UKR,7q1,"Olympic Stadium, London (GBR)",08 AUG 2012,1102,javelin-throw,throws,male,senior
-7990,80.06,,Uladzimir KAZLOU,07 JUN 1985,BLR,8q1,"Olympic Stadium, London (GBR)",08 AUG 2012,1102,javelin-throw,throws,male,senior
-7990,80.06,,Guillermo MARTÍNEZ,28 JUN 1981,CUB,9q1,"Olympic Stadium, London (GBR)",08 AUG 2012,1102,javelin-throw,throws,male,senior
-7990,80.06,,Ihab ABDELRAHMAN,01 MAY 1989,EGY,2,Tokyo (JPN),11 MAY 2014,1102,javelin-throw,throws,male,senior
-7990,80.06,,Ihab ABDELRAHMAN,01 MAY 1989,EGY,7,"Bislett Stadion, Oslo (NOR)",11 JUN 2014,1102,javelin-throw,throws,male,senior
-7990,80.06,,Gatis ČAKŠS,13 JUN 1995,LAT,1,Jelgava (LAT),14 JUN 2015,1102,javelin-throw,throws,male,senior
-7990,80.06,,Andreas HOFMANN,16 DEC 1991,GER,3,Thum (GER),02 SEP 2016,1102,javelin-throw,throws,male,senior
-7990,80.06,,Dmitriy TARABIN,29 OCT 1991,RUS,2,"Adler, Sochi (RUS)",14 FEB 2019,1102,javelin-throw,throws,male,senior
-7990,80.06,,Anderson PETERS,21 OCT 1997,GRN,1q,"Jacksonville, FL (USA)",24 MAY 2019,1102,javelin-throw,throws,male,senior
-7990,80.06,,Toni KUUSELA,21 JAN 1994,FIN,3,Tampere (FIN),03 JUL 2019,1102,javelin-throw,throws,male,senior
-7990,80.06,,Andreas HOFMANN,16 DEC 1991,GER,13q2,"Khalifa International Stadium, Doha (QAT)",05 OCT 2019,1102,javelin-throw,throws,male,senior
-7990,80.06,,Gatis ČAKŠS,13 JUN 1995,LAT,8,"Stade Charléty, Paris (FRA)",28 AUG 2021,1102,javelin-throw,throws,male,senior
-7990,80.06,,Martin KONEČNÝ,20 DEC 1997,CZE,1,"Stadion TJ Lokomotiva Olomouc,, Olomouc (CZE)",08 MAY 2023,1102,javelin-throw,throws,male,senior
-7990,80.06,,Patriks GAILUMS,10 MAY 1998,LAT,3,"Stadion Allmend, Luzern (SUI)",16 JUL 2024,1102,javelin-throw,throws,male,senior
-7990,80.06,,Lassi ETELÄTALO,30 APR 1988,FIN,3,"Leppävaaran Stadion, Espoo (FIN)",03 AUG 2025,1102,javelin-throw,throws,male,senior
-7990,80.06,,Billy JULIO LÓPEZ,14 FEB 1996,COL,2,"CNDA, Bragança Paulista (BRA)",24 AUG 2025,1102,javelin-throw,throws,male,senior
-8018,80.05,,Daniel DAUB,03 FEB 1976,GER,1,Rehlingen (GER),15 AUG 1998,1102,javelin-throw,throws,male,senior
-8018,80.05,,Andrew CURREY,07 FEB 1971,AUS,5,Kuala Lumpur (MAS),21 SEP 1998,1102,javelin-throw,throws,male,senior
-8018,80.05,,Johan VOSLOO,26 MAR 1977,RSA,2,Ljubljana (SLO),25 JUL 2000,1102,javelin-throw,throws,male,senior
-8018,80.05,,Ari PAKARINEN,14 MAY 1969,FIN,1,Lahti (FIN),26 AUG 2001,1102,javelin-throw,throws,male,senior
-8018,80.05,,Nicholas NIELAND,31 JAN 1972,GBR,1,Manchester (GBR),15 JUN 2002,1102,javelin-throw,throws,male,senior
-8018,80.05,,Rajmund KÓŁKO,01 MAR 1971,POL,3,Cottbus (GER),04 JUN 2003,1102,javelin-throw,throws,male,senior
-8018,80.05,,William HAMLYN-HARRIS,14 JAN 1978,AUS,4,Gateshead (GBR),13 JUL 2003,1102,javelin-throw,throws,male,senior
-8018,80.05,,Esko MIKKOLA,14 FEB 1975,FIN,1,Saarijärvi (FIN),25 JUN 2006,1102,javelin-throw,throws,male,senior
-8018,80.05,,Júlio César MIRANDA DE OLIVEIRA,04 FEB 1986,BRA,1,Rio de Janeiro (BRA),07 JUN 2009,1102,javelin-throw,throws,male,senior
-8018,80.05,,Matthias DE ZORDO,21 FEB 1988,GER,1,Braunschweig (GER),17 JUL 2010,1102,javelin-throw,throws,male,senior
-8018,80.05,,Mike HAZLE,22 MAR 1979,USA,1,"San Diego, CA (USA)",25 JUL 2010,1102,javelin-throw,throws,male,senior
-8018,80.05,,Petr FRYDRYCH,13 JAN 1988,CZE,1,Klatovy (CZE),08 MAY 2012,1102,javelin-throw,throws,male,senior
-8018,80.05,,Oleksandr NYCHYPORCHUK,14 APR 1992,UKR,1,Yalta (UKR),21 FEB 2013,1102,javelin-throw,throws,male,senior
-8018,80.05,,Hamish PEACOCK,15 OCT 1990,AUS,1,Hobart (AUS),14 JUL 2013,1102,javelin-throw,throws,male,senior
-8018,80.05,,Andrian MARDARE,20 JUN 1995,MDA,6,Rehlingen (GER),09 JUN 2019,1102,javelin-throw,throws,male,senior
-8018,80.05,,Edis MATUSEVIČIUS,30 JUN 1996,LTU,6,"Suhaim bin Hamad Stadium, Doha (QAT)",10 MAY 2024,1102,javelin-throw,throws,male,senior
-8018,80.05,,Topias LAINE,12 JUL 2001,FIN,3,"Keskusurheilukenttä, Joensuu (FIN)",20 JUL 2024,1102,javelin-throw,throws,male,senior
-8018,80.05,,Edis MATUSEVIČIUS,30 JUN 1996,LTU,2,"Raatin Stadion, Oulu (FIN)",17 AUG 2024,1102,javelin-throw,throws,male,senior
-8036,80.04,,Dag WENNLUND,09 OCT 1963,SWE,3,Stockholm (SWE),01 JUL 1986,1102,javelin-throw,throws,male,senior
-8036,80.04,,Emil TSVETANOV,14 MAR 1963,BUL,1,Göteborg (SWE),27 JUN 1987,1102,javelin-throw,throws,male,senior
-8036,80.04,,Marcis ŠTROBINDERS,12 JUN 1966,URS,1,Riga (LAT),29 AUG 1987,1102,javelin-throw,throws,male,senior
-8036,80.04,,Tom PETRANOFF,08 APR 1958,USA,3,Lausanne (SUI),15 SEP 1987,1102,javelin-throw,throws,male,senior
-8036,80.04,,Marko HYYTIÄINEN,27 NOV 1966,FIN,4,Helsinki (FIN),19 AUG 1990,1102,javelin-throw,throws,male,senior
-8036,80.04,,Dag WENNLUND,09 OCT 1963,SWE,6,Paris-St-Denis (FRA),10 JUN 1994,1102,javelin-throw,throws,male,senior
-8036,80.04,,Patrik BODÉN,30 JUN 1967,SWE,2,"Crystal Palace, London (GBR)",15 JUL 1994,1102,javelin-throw,throws,male,senior
-8036,80.04,,Phillip SPIES,21 MAY 1970,RSA,1,Bellville (RSA),27 MAR 1996,1102,javelin-throw,throws,male,senior
-8036,80.04,,Patrik BODÉN,30 JUN 1967,SWE,1,Växjö (SWE),21 MAY 1996,1102,javelin-throw,throws,male,senior
-8036,80.04,,Andreas LINDEN,20 FEB 1965,GER,8,"Olympiastadion, Berlin (GER)",26 AUG 1997,1102,javelin-throw,throws,male,senior
-8036,80.04,,Gregor HÖGLER,27 JUN 1972,AUT,6,Stockholm (SWE),05 AUG 1998,1102,javelin-throw,throws,male,senior
-8036,80.04,,Dariusz TRAFAS,16 MAY 1972,POL,1,Kraków (POL),03 JUL 1999,1102,javelin-throw,throws,male,senior
-8036,80.04,,Ēriks RAGS,01 JUN 1975,LAT,q,Palma de Mallorca (ESP),11 JUL 1999,1102,javelin-throw,throws,male,senior
-8036,80.04,,Rongxiang LI,08 JAN 1972,CHN,1,Ningbo (CHN),27 APR 2001,1102,javelin-throw,throws,male,senior
-8036,80.04,,Dariusz TRAFAS,16 MAY 1972,POL,5,Hamburg (GER),12 JUN 2002,1102,javelin-throw,throws,male,senior
-8036,80.04,,Laurent DORIQUE,10 JUL 1976,FRA,1,Ales (FRA),29 JUN 2003,1102,javelin-throw,throws,male,senior
-8036,80.04,,Qi CHEN,10 MAR 1982,CHN,1,Birmingham (GBR),20 AUG 2006,1102,javelin-throw,throws,male,senior
-8036,80.04,,Sean FUREY,31 AUG 1982,USA,1,Urjala (FIN),27 AUG 2013,1102,javelin-throw,throws,male,senior
-8036,80.04,,Julian WEBER,29 AUG 1994,GER,1,Heidesheim (GER),06 APR 2015,1102,javelin-throw,throws,male,senior
-8036,80.04,,Joni KARVINEN,07 FEB 1994,FIN,2f1,Raasepori (FIN),12 JUN 2016,1102,javelin-throw,throws,male,senior
-8036,80.04,,Oliver HELANDER,01 JAN 1997,FIN,1f1,Pihtipudas (FIN),02 JUL 2017,1102,javelin-throw,throws,male,senior
-8036,80.04,,Magnus KIRT,10 APR 1990,EST,1,Tallinn (EST),22 JUL 2017,1102,javelin-throw,throws,male,senior
-8036,80.04,,Oliver HELANDER,01 JAN 1997,FIN,2,Seinäjoki (FIN),23 JUL 2017,1102,javelin-throw,throws,male,senior
-8036,80.04,,Qinggang ZHAO,24 JUL 1985,CHN,1,Tianjin (CHN),04 SEP 2017,1102,javelin-throw,throws,male,senior
-8036,80.04,,Vipin KASANA,04 AUG 1989,IND,2,Patiala (IND),27 FEB 2018,1102,javelin-throw,throws,male,senior
-8036,80.04,,Vedran SAMAC,22 JAN 1990,SRB,1,Zenica (BIH),12 JUN 2019,1102,javelin-throw,throws,male,senior
-8036,80.04,,Roderick Genki DEAN,30 DEC 1991,JPN,1,"Tochigi Prefectural Sports Park Stadium, Utsunomiya (JPN)",07 OCT 2022,1102,javelin-throw,throws,male,senior
-8036,80.04,,Dawid WEGNER,23 APR 2000,POL,2,"Forest Stadium, Sopot (POL)",16 JUN 2024,1102,javelin-throw,throws,male,senior
-8036,80.04,,Sachin YADAV,25 OCT 1999,IND,1q1,"Sree Kanteerava Outdoor Stadium, Bengaluru (IND)",01 SEP 2024,1102,javelin-throw,throws,male,senior
-8065,80.03,,Pal Arne FAGERNES,08 JUN 1974,NOR,8,"Bislett Stadion, Oslo (NOR)",09 JUL 1998,1102,javelin-throw,throws,male,senior
-8065,80.03,,Marko HYYTIÄINEN,27 NOV 1966,FIN,5,Seinäjoki (FIN),08 AUG 1999,1102,javelin-throw,throws,male,senior
-8065,80.03,,Adrian HATCHER,06 MAY 1970,AUS,2,Sydney (AUS),27 FEB 2000,1102,javelin-throw,throws,male,senior
-8065,80.03,,Rajmund KÓŁKO,01 MAR 1971,POL,3,Kraków (POL),05 AUG 2000,1102,javelin-throw,throws,male,senior
-8065,80.03,,Gergely HORVÁTH,05 JUN 1975,HUN,3,Beijing (CHN),01 SEP 2001,1102,javelin-throw,throws,male,senior
-8065,80.03,,Lohan RAUTENBACH,06 FEB 1986,RSA,1,Durban (RSA),16 APR 2005,1102,javelin-throw,throws,male,senior
-8065,80.03,,Björn LANGE,15 JUN 1979,GER,3,Zeulenroda (GER),29 MAY 2005,1102,javelin-throw,throws,male,senior
-8065,80.03,,Risto MÄTAS,30 APR 1984,EST,8,"Luzhniki Stadion, Moskva (RUS)",17 AUG 2013,1102,javelin-throw,throws,male,senior
-8065,80.03,,Chao-Tsun CHENG,17 OCT 1993,TPE,6,Bhubaneshwar (IND),09 JUL 2017,1102,javelin-throw,throws,male,senior
-8065,80.03,,Rohit YADAV,06 JUN 2001,IND,2,Thiruvanthapuram (IND),13 MAR 2022,1102,javelin-throw,throws,male,senior
-8065,80.03,,Lassi ETELÄTALO,30 APR 1988,FIN,6q1,"Hayward Field, Eugene, OR (USA)",21 JUL 2022,1102,javelin-throw,throws,male,senior
-8065,80.03,,Keyshawn STRACHAN,18 DEC 2003,BAH,12q1,"National Stadium, Tokyo (JPN)",17 SEP 2025,1102,javelin-throw,throws,male,senior
-8077,80.02,,Georgiy SHAPKIN,30 AUG 1966,URS,1,Ryazan (URS),02 JUN 1989,1101,javelin-throw,throws,male,senior
-8077,80.02,,Peter BORGLUND,29 JAN 1964,SWE,5,Helsinki (FIN),19 AUG 1990,1101,javelin-throw,throws,male,senior
-8077,80.02,,Matti NÄRHI,17 AUG 1975,FIN,6,Tampere (FIN),07 JUL 1996,1101,javelin-throw,throws,male,senior
-8077,80.02,,Adrian HATCHER,06 MAY 1970,AUS,1,Melbourne (AUS),02 MAR 1997,1101,javelin-throw,throws,male,senior
-8077,80.02,,Andreas LINDEN,20 FEB 1965,GER,2,Stuttgart (GER),13 JUL 1997,1101,javelin-throw,throws,male,senior
-8077,80.02,,Pius BAZIGHE,15 MAR 1972,NGR,1,Patra (GRE),01 AUG 1998,1101,javelin-throw,throws,male,senior
-8077,80.02,,Marius CORBETT,26 SEP 1975,RSA,1,Roodeport (RSA),19 MAR 1999,1101,javelin-throw,throws,male,senior
-8077,80.02,,Emeterio GONZÁLEZ,11 APR 1973,CUB,1,Rio de Janeiro (BRA),20 MAY 2000,1101,javelin-throw,throws,male,senior
-8077,80.02,,Boris HENRY,14 DEC 1973,GER,1,"Stade Raymond Petit, Tomblaine (FRA)",16 SEP 2003,1101,javelin-throw,throws,male,senior
-8077,80.02,,Igor SUKHOMLINOV,13 FEB 1977,RUS,2,Mersin (TUR),12 MAR 2005,1101,javelin-throw,throws,male,senior
-8077,80.02,,Christian NICOLAY,04 MAR 1976,GER,5,Helsinki (FIN),25 JUL 2005,1101,javelin-throw,throws,male,senior
-8077,80.02,,Igor JANIK,18 JAN 1983,POL,2,"Mangueirão, Belém (BRA)",20 MAY 2007,1101,javelin-throw,throws,male,senior
-8077,80.02,,Magnus ARVIDSSON,20 FEB 1983,SWE,7,"Stade de France, Paris-St-Denis (FRA)",06 JUL 2007,1101,javelin-throw,throws,male,senior
-8077,80.02,,Jarrod BANNISTER,03 OCT 1984,AUS,5,Luzern (SUI),21 JUL 2011,1101,javelin-throw,throws,male,senior
-8077,80.02,,Thomas RÖHLER,30 SEP 1991,GER,1,Thum (GER),24 AUG 2012,1101,javelin-throw,throws,male,senior
-8077,80.02,,Hubert CHMIELAK,19 JUN 1989,POL,2,"Stadion OPO Cetniewo, Władysławowo (POL)",29 JUN 2013,1101,javelin-throw,throws,male,senior
-8077,80.02,,Bernhard SEIFERT,15 FEB 1993,GER,8q1,"Luzhniki Stadion, Moskva (RUS)",15 AUG 2013,1101,javelin-throw,throws,male,senior
-8077,80.02,,Julius YEGO,04 JAN 1989,KEN,1,Nairobi (KEN),07 JUN 2014,1101,javelin-throw,throws,male,senior
-8077,80.02,,Tanel LAANMÄE,29 SEP 1989,EST,1,Tallinn (EST),03 AUG 2014,1101,javelin-throw,throws,male,senior
-8077,80.02,,Magnus KIRT,10 APR 1990,EST,1,Montgeron (FRA),14 MAY 2017,1101,javelin-throw,throws,male,senior
-8077,80.02,,Davinder SINGH,18 DEC 1988,IND,12,"Olympic Stadium, London (GBR)",12 AUG 2017,1101,javelin-throw,throws,male,senior
-8077,80.02,,Gatis ČAKŠS,13 JUN 1995,LAT,2,Ventspils (LAT),02 JUN 2018,1101,javelin-throw,throws,male,senior
-8077,80.02,,Cyprian MRZYGŁÓD,02 FEB 1998,POL,2,"Shuangliu Sports Centre, Chengdu (CHN)",06 AUG 2023,1101,javelin-throw,throws,male,senior
-8077,80.02,,Pedro Henrique RODRIGUES,18 JUN 1999,BRA,1,"CNDA, Bragança Paulista (BRA)",06 APR 2024,1101,javelin-throw,throws,male,senior
-8077,80.02,,Chinecherem NNAMDI,12 JUL 2002,NGR,1,"Clyde Hart Track & Field Stadium, Waco, TX (USA)",09 MAY 2024,1101,javelin-throw,throws,male,senior
-8077,80.02,,Vikrant MALIK,02 JAN 1996,IND,1,"Sree Kanteerava Outdoor Stadium, Bengaluru (IND)",02 SEP 2024,1101,javelin-throw,throws,male,senior
-8103,80.01,,Rongxiang LI,08 JAN 1972,CHN,1,Baoding (CHN),08 SEP 2002,1101,javelin-throw,throws,male,senior
-8103,80.01,,Dariusz TRAFAS,16 MAY 1972,POL,2,Warszawa (POL),13 JUN 2004,1101,javelin-throw,throws,male,senior
-8103,80.01,,Tomas INTAS,15 SEP 1981,LTU,1,Florø (NOR),04 JUN 2005,1101,javelin-throw,throws,male,senior
-8103,80.01,,Ēriks RAGS,01 JUN 1975,LAT,1,"Stade Louis II, Monaco (MON)",25 JUL 2007,1101,javelin-throw,throws,male,senior
-8103,80.01,,Ēriks RAGS,01 JUN 1975,LAT,11,"Yanmar Stadium Nagai, Osaka (JPN)",02 SEP 2007,1101,javelin-throw,throws,male,senior
-8103,80.01,,Gerbrandt GROBLER,26 JAN 1983,RSA,5f1,Pihtipudas (FIN),28 JUN 2009,1101,javelin-throw,throws,male,senior
-8103,80.01,,Csongor OLTEÁN,08 APR 1984,HUN,1,Budapest (HUN),02 AUG 2009,1101,javelin-throw,throws,male,senior
-8103,80.01,,Ari MANNIO,23 JUL 1987,FIN,1,Göteborg (SWE),30 AUG 2009,1101,javelin-throw,throws,male,senior
-8103,80.01,,Teemu WIRKKALA,14 JAN 1984,FIN,3,Dessau (GER),28 MAY 2010,1101,javelin-throw,throws,male,senior
-8103,80.01,,Gervasios PHILIPPIDIS,24 JUL 1987,GRE,1,Athina (GRE),29 JUL 2011,1101,javelin-throw,throws,male,senior
-8103,80.01,,Teemu WIRKKALA,14 JAN 1984,FIN,3,Pielavesi (FIN),19 SEP 2015,1101,javelin-throw,throws,male,senior
-8103,80.01,,Matija KRANJC,12 JUN 1984,SLO,1,Leiria (POR),28 MAY 2016,1101,javelin-throw,throws,male,senior
-8103,80.01,,Hamish PEACOCK,15 OCT 1990,AUS,1,Canberra (AUS),12 MAR 2017,1101,javelin-throw,throws,male,senior
-8103,80.01,,Anderson PETERS,21 OCT 1997,GRN,7,"Paavo Nurmen Stadion, Turku (FIN)",08 JUN 2021,1101,javelin-throw,throws,male,senior
-8103,80.01,,Kasper SAGEN,19 APR 1999,NOR,2,"Stadion im.Lubuskich Olimpijczyków, Gorzów Wielkopolski (POL)",24 MAY 2024,1101,javelin-throw,throws,male,senior
-8118,80.00,,Peter BORGLUND,29 JAN 1964,SWE,3,Stockholm (SWE),05 JUL 1988,1101,javelin-throw,throws,male,senior
-8118,80.00,,Jeroen VAN DER MEER,07 APR 1959,NED,1,Leiden (NED),12 MAY 1990,1101,javelin-throw,throws,male,senior
-8118,80.00,,Marek KALETA,17 DEC 1961,URS,1,Joutsa (FIN),27 MAY 1990,1101,javelin-throw,throws,male,senior
-8118,80.00,,Juha LAUKKANEN,06 JAN 1969,FIN,1,Nilsiä (FIN),14 JUN 1990,1101,javelin-throw,throws,male,senior
-8118,80.00,,Marek KALETA,17 DEC 1961,URS,1,Århus (DEN),01 AUG 1990,1101,javelin-throw,throws,male,senior
-8118,80.00,,Vladimir PONOMARENKO,1970,RUS,1,Stavropol (RUS),29 MAY 1993,1101,javelin-throw,throws,male,senior
-8118,80.00,,Alain STORACI,05 JUN 1967,FRA,6,Nice (FRA),21 JUL 1993,1101,javelin-throw,throws,male,senior
-8118,80.00,,Pascal LEFEVRE,25 JAN 1965,FRA,1,Annecy (FRA),24 JUL 1993,1101,javelin-throw,throws,male,senior
-8118,80.00,,Andreas LINDEN,20 FEB 1965,GER,8,"Olympiastadion, Berlin (GER)",01 SEP 1995,1101,javelin-throw,throws,male,senior
-8118,80.00,,Isbel LUACES,20 JUL 1975,CUB,2,Madrid (ESP),12 JUN 1996,1101,javelin-throw,throws,male,senior
-8118,80.00,,Donald-Aik SILD,03 OCT 1968,EST,1,Tallinn (EST),07 JUL 1996,1101,javelin-throw,throws,male,senior
-8118,80.00,,Andreas LINDEN,20 FEB 1965,GER,1,Minden (GER),24 JUL 1996,1101,javelin-throw,throws,male,senior
-8118,80.00,,Andrew CURREY,07 FEB 1971,AUS,3,North Shore City (NZL),20 FEB 1998,1101,javelin-throw,throws,male,senior
-8118,80.00,,Adrian HATCHER,06 MAY 1970,AUS,2,Sydney (AUS),28 FEB 1998,1101,javelin-throw,throws,male,senior
-8118,80.00,,Harri HAKKARAINEN,16 OCT 1969,FIN,q,Oulu (FIN),08 AUG 1998,1101,javelin-throw,throws,male,senior
-8118,80.00,,Sergey VOYNOV,26 FEB 1977,UZB,1,Almaty (KAZ),22 MAY 1999,1101,javelin-throw,throws,male,senior
-8118,80.00,,Vladimir SASIMOVICH,14 SEP 1968,BLR,1,Linz (AUT),26 JUL 1999,1101,javelin-throw,throws,male,senior
-8118,80.00,,Aleksandr IVANOV,25 MAY 1982,RUS,1,"Adler, Sochi (RUS)",11 FEB 2001,1101,javelin-throw,throws,male,senior
-8118,80.00,,Aleksandr IVANOV,25 MAY 1982,RUS,1,Paris (FRA),03 SEP 2005,1101,javelin-throw,throws,male,senior
-8118,80.00,,Ainars KOVALS,21 NOV 1981,LAT,1,Tallinn (EST),27 SEP 2007,1101,javelin-throw,throws,male,senior
-8118,80.00,,Corey WHITE,31 JAN 1986,USA,1,"Los Angeles, CA (USA)",02 MAY 2009,1101,javelin-throw,throws,male,senior
-8118,80.00,,Igor SUKHOMLINOV,13 FEB 1977,RUS,4,Cheboksary (RUS),25 JUL 2009,1101,javelin-throw,throws,male,senior
-8118,80.00,,Spiridon LEMPESIS,30 MAY 1987,GRE,2,Rovereto (ITA),04 SEP 2012,1101,javelin-throw,throws,male,senior
-8118,80.00,,Sean FUREY,31 AUG 1982,USA,1,"San Diego, CA (USA)",29 MAR 2014,1101,javelin-throw,throws,male,senior
-8118,80.00,,Ari MANNIO,23 JUL 1987,FIN,3,Kuopio (FIN),03 AUG 2014,1101,javelin-throw,throws,male,senior
-8118,80.00,,Vítězslav VESELÝ,27 FEB 1983,CZE,3q1,"Letzigrund, Zürich (SUI)",14 AUG 2014,1101,javelin-throw,throws,male,senior
-8118,80.00,,Matthew OUTZEN,12 OCT 1987,AUS,1,Brisbane (AUS),29 MAR 2015,1101,javelin-throw,throws,male,senior
-8118,80.00,,Magnus KIRT,10 APR 1990,EST,4,Pärnu (EST),27 AUG 2016,1101,javelin-throw,throws,male,senior
-8118,80.00,,Ahmed Bader MAGOUR,03 MAR 1996,QAT,1,Potchefstroom (RSA),03 MAR 2017,1101,javelin-throw,throws,male,senior
-8118,80.00,,Jakub VADLEJCH,10 OCT 1990,CZE,6,"Shanghai Stadium, Shanghai (CHN)",18 MAY 2019,1101,javelin-throw,throws,male,senior
-8118,80.00,,Emin ÖNCEL,01 MAY 1997,TUR,1,"Nevin Yanıt Atletizm Pisti, Mersin (TUR)",23 FEB 2020,1101,javelin-throw,throws,male,senior
-8118,80.00,,Sindri Hrafn GUÐMUNDSSON,21 NOV 1995,ISL,1,"Frjálsíþróttavöllur ÍR, Reykjavík (ISL)",24 JUN 2024,1101,javelin-throw,throws,male,senior
-8118,80.00,,Keyshawn STRACHAN,18 DEC 2003,BAH,1,"Cushing Stadium, College Station, TX (USA)",11 APR 2025,1101,javelin-throw,throws,male,senior
+7870,80.12,,Rishab NEHRA,10 DEC 1999,IND,1,"Sree Kanteerava Outdoor Stadium, Bengaluru (IND)",30 SEP 2025,1103,javelin-throw,throws,male,senior
+7893,80.11,,Sami SAKSIO,28 APR 1969,FIN,2,Äänekoski (FIN),10 JUN 1998,1103,javelin-throw,throws,male,senior
+7893,80.11,,Arunas JURKSAS,03 MAY 1972,LTU,2,Kaunas (LTU),08 JUL 2000,1103,javelin-throw,throws,male,senior
+7893,80.11,,Aleksandr IVANOV,25 MAY 1982,RUS,7,"Olympiastadion, Berlin (GER)",10 AUG 2003,1103,javelin-throw,throws,male,senior
+7893,80.11,,Marián BOKOR,17 APR 1977,SVK,1,Trnava (SVK),15 MAY 2004,1103,javelin-throw,throws,male,senior
+7893,80.11,,Ēriks RAGS,01 JUN 1975,LAT,2,Ventspils (LAT),30 MAY 2004,1103,javelin-throw,throws,male,senior
+7893,80.11,,Tero JÄRVENPÄÄ,02 OCT 1984,FIN,5,Kuortane (FIN),24 JUN 2006,1103,javelin-throw,throws,male,senior
+7893,80.11,,Mike HAZLE,22 MAR 1979,USA,1,Tallinn (EST),25 AUG 2009,1103,javelin-throw,throws,male,senior
+7893,80.11,,Jae-myong PARK,15 DEC 1981,KOR,2,Daegu (KOR),19 MAY 2010,1103,javelin-throw,throws,male,senior
+7893,80.11,,Dmitriy TARABIN,29 OCT 1991,RUS,3,Milano (ITA),18 SEP 2011,1103,javelin-throw,throws,male,senior
+7893,80.11,,Keshorn WALCOTT,02 APR 1993,TTO,1,La Habana (CUB),27 MAY 2012,1103,javelin-throw,throws,male,senior
+7893,80.11,,Risto MÄTAS,30 APR 1984,EST,2,Tallinn (EST),15 JUL 2013,1103,javelin-throw,throws,male,senior
+7893,80.11,,Stuart FARQUHAR,15 MAR 1982,NZL,1,Auckland (NZL),26 FEB 2015,1103,javelin-throw,throws,male,senior
+7893,80.11,,Dejan MILEUSNIĆ,16 NOV 1991,BIH,1,Zenica (BIH),01 JUN 2016,1103,javelin-throw,throws,male,senior
+7893,80.11,,Bernhard SEIFERT,15 FEB 1993,GER,1,Potsdam (GER),09 MAY 2017,1103,javelin-throw,throws,male,senior
+7893,80.11,,Arley IBARGUEN,17 OCT 1982,COL,1,Cochabamba (BOL),06 JUN 2018,1103,javelin-throw,throws,male,senior
+7893,80.11,,Tino MÄKELÄ,31 JUL 1999,FIN,1,"Sauvosaaren urheilukenttä, Kemi (FIN)",23 AUG 2020,1103,javelin-throw,throws,male,senior
+7893,80.11,,Timothy HERMAN,19 OCT 1990,BEL,7q2,"Nemzeti Atlétikai Központ, Budapest (HUN)",25 AUG 2023,1103,javelin-throw,throws,male,senior
+7910,80.10,,Masami YOSHIDA,14 JUN 1958,JPN,1,Toyama (JPN),28 SEP 1986,1103,javelin-throw,throws,male,senior
+7910,80.10,,Kimmo KINNUNEN,31 MAR 1968,FIN,2,Lahti (FIN),25 AUG 1988,1103,javelin-throw,throws,male,senior
+7910,80.10,,Einar VILHJÁLMSSON,01 JUN 1960,ISL,3q1,"National Stadium, Tokyo (JPN)",25 AUG 1991,1103,javelin-throw,throws,male,senior
+7910,80.10,,Jérome PUTZEYS,07 NOV 1964,BEL,1,Zwevegem (BEL),07 JUN 1992,1103,javelin-throw,throws,male,senior
+7910,80.10,,Matti NÄRHI,17 AUG 1975,FIN,3,Joensuu (FIN),20 JUL 1996,1103,javelin-throw,throws,male,senior
+7910,80.10,,Sergey MAKAROV,19 MAR 1973,RUS,4,Paris (FRA),25 JUN 1997,1103,javelin-throw,throws,male,senior
+7910,80.10,,Dimitrios POLYMEROU,17 MAY 1974,GRE,1,Athina (GRE),18 JUL 1998,1103,javelin-throw,throws,male,senior
+7910,80.10,,Edgar BAUMANN,10 APR 1970,PAR,1,"San Marcos, TX (USA)",19 JUN 1999,1103,javelin-throw,throws,male,senior
+7910,80.10,,Dariusz TRAFAS,16 MAY 1972,POL,7,Bruxelles (BEL),24 AUG 2001,1103,javelin-throw,throws,male,senior
+7910,80.10,,Andreas THORKILDSEN,01 APR 1982,NOR,6,Oslo (NOR),27 JUN 2003,1103,javelin-throw,throws,male,senior
+7910,80.10,,Nicholas NIELAND,31 JAN 1972,GBR,1,Melbourne (AUS),25 MAR 2006,1103,javelin-throw,throws,male,senior
+7910,80.10,,Tero JÄRVENPÄÄ,02 OCT 1984,FIN,3,Tampere (FIN),07 JUN 2006,1103,javelin-throw,throws,male,senior
+7910,80.10,,Tino HÄBER,06 OCT 1982,GER,1,Bautzen (GER),15 JUN 2008,1103,javelin-throw,throws,male,senior
+7910,80.10,,Ēriks RAGS,01 JUN 1975,LAT,5,Daegu (KOR),25 SEP 2008,1103,javelin-throw,throws,male,senior
+7910,80.10,,Yukifumi MURAKAMI,23 DEC 1979,JPN,1,Wakayama (JPN),18 APR 2009,1103,javelin-throw,throws,male,senior
+7910,80.10,,Tero JÄRVENPÄÄ,02 OCT 1984,FIN,2,Turku (FIN),07 AUG 2011,1103,javelin-throw,throws,male,senior
+7910,80.10,,Rocco VAN ROOYEN,23 DEC 1992,RSA,1,Bellville (RSA),27 MAR 2014,1103,javelin-throw,throws,male,senior
+7910,80.10,,Dmitriy TARABIN,29 OCT 1991,RUS,1,"Adler, Sochi (RUS)",11 FEB 2015,1103,javelin-throw,throws,male,senior
+7910,80.10,,Dejan MILEUSNIĆ,16 NOV 1991,BIH,2,Velenje (SLO),20 JUN 2017,1103,javelin-throw,throws,male,senior
+7910,80.10,,Pavel MIALESHKA,24 NOV 1992,BLR,1,Talsi (LAT),28 JUN 2018,1103,javelin-throw,throws,male,senior
+7910,80.10,,Nash LOWIS,06 NOV 1999,AUS,1,Townsville (AUS),01 JUN 2019,1103,javelin-throw,throws,male,senior
+7910,80.10,,Dawid WEGNER,23 APR 2000,POL,2,"Stadion MOSiR, Kielce (POL)",14 MAY 2023,1103,javelin-throw,throws,male,senior
+7910,80.10,,Andrian MARDARE,20 JUN 1995,MDA,12,"Stade de France, Paris (FRA)",08 AUG 2024,1103,javelin-throw,throws,male,senior
+7910,80.10,,Alexandru Mihăiță NOVAC,24 MAR 1997,ROU,1,"Stadionul de atletism ""Nicolae Mărășescu"", Craiova (ROU)",11 AUG 2024,1103,javelin-throw,throws,male,senior
+7934,80.09,,Stephan STEDING,29 JAN 1982,GER,5,Ulm (GER),29 JUN 2003,1102,javelin-throw,throws,male,senior
+7934,80.09,,Dariusz TRAFAS,16 MAY 1972,POL,3,Tallinn (EST),30 JUL 2003,1102,javelin-throw,throws,male,senior
+7934,80.09,,Aleksey TOVARNOV,20 JAN 1985,RUS,3,Tula (RUS),13 JUN 2006,1102,javelin-throw,throws,male,senior
+7934,80.09,,Leigh SMITH,28 AUG 1981,USA,1,"New Haven, CT (USA)",08 JUL 2006,1102,javelin-throw,throws,male,senior
+7934,80.09,,Aleksandr IVANOV,25 MAY 1982,RUS,8,"Ullevi Stadium, Göteborg (SWE)",09 AUG 2006,1102,javelin-throw,throws,male,senior
+7934,80.09,,Yudel MORENO,24 FEB 1983,CUB,1,Kingston (JAM),04 MAR 2007,1102,javelin-throw,throws,male,senior
+7934,80.09,,Peter ESENWEIN,07 DEC 1967,GER,3,Osaka (JPN),05 MAY 2007,1102,javelin-throw,throws,male,senior
+7934,80.09,,Teemu WIRKKALA,14 JAN 1984,FIN,5,Stockholm (SWE),07 AUG 2007,1102,javelin-throw,throws,male,senior
+7934,80.09,,Igor JANIK,18 JAN 1983,POL,6,"Letzigrund, Zürich (SUI)",07 SEP 2007,1102,javelin-throw,throws,male,senior
+7934,80.09,,Kim AMB,31 JUL 1990,SWE,1,Gävle (SWE),13 AUG 2011,1102,javelin-throw,throws,male,senior
+7934,80.09,,Fatih AVAN,01 JAN 1989,TUR,5q2,"Luzhniki Stadion, Moskva (RUS)",15 AUG 2013,1102,javelin-throw,throws,male,senior
+7934,80.09,,Edis MATUSEVIČIUS,30 JUN 1996,LTU,2,"Hadar Yosef Stadium, Tel Aviv (ISR)",25 JUN 2017,1102,javelin-throw,throws,male,senior
+7934,80.09,,Vedran SAMAC,22 JAN 1990,SRB,2,Cluj-Napoca (ROU),07 JUN 2019,1102,javelin-throw,throws,male,senior
+7934,80.09,,Qun MA,08 FEB 1994,CHN,1,Chengdu (CHN),30 MAR 2021,1102,javelin-throw,throws,male,senior
+7934,80.09,,Artur FELFNER,17 OCT 2003,UKR,1f1,"Estádio Dr. Magalhães Pessoa, Leiria (POR)",12 MAR 2023,1102,javelin-throw,throws,male,senior
+7949,80.08,,Pascal LEFEVRE,25 JAN 1965,FRA,1,Annecy (FRA),09 AUG 1987,1102,javelin-throw,throws,male,senior
+7949,80.08,,Vladislav GRIB,08 MAY 1964,URS,1,Moskva (URS),08 MAY 1988,1102,javelin-throw,throws,male,senior
+7949,80.08,,Emil TSVETANOV,14 MAR 1963,BUL,1,Pleven (BUL),09 JUL 1988,1102,javelin-throw,throws,male,senior
+7949,80.08,,Gerald WEIß,08 JAN 1960,GDR,3,Potsdam (GDR),09 SEP 1988,1102,javelin-throw,throws,male,senior
+7949,80.08,,Mick HILL,22 OCT 1964,GBR,4,London (GBR),15 SEP 1989,1102,javelin-throw,throws,male,senior
+7949,80.08,,Mika PARVIAINEN,19 DEC 1970,FIN,4,Lahti (FIN),03 JUN 1993,1102,javelin-throw,throws,male,senior
+7949,80.08,,Marek KALETA,17 DEC 1961,EST,2,Pärnu (EST),31 JUL 1993,1102,javelin-throw,throws,male,senior
+7949,80.08,,Andrey MORUYEV,06 MAY 1970,RUS,7,"Stade Louis II, Monaco (MON)",09 SEP 1995,1102,javelin-throw,throws,male,senior
+7949,80.08,,Voldemars LUSIS,07 DEC 1974,LAT,1,Riga (LAT),11 JUL 1999,1102,javelin-throw,throws,male,senior
+7949,80.08,,Voldemars LUSIS,07 DEC 1974,LAT,11q1,"Olympic Stadium, Sydney (AUS)",22 SEP 2000,1102,javelin-throw,throws,male,senior
+7949,80.08,,Gergely HORVÁTH,05 JUN 1975,HUN,1,Budapest (HUN),05 JUN 2004,1102,javelin-throw,throws,male,senior
+7949,80.08,,Roman AVRAMENKO,23 MAR 1988,UKR,1,Yalta (UKR),07 MAY 2008,1102,javelin-throw,throws,male,senior
+7949,80.08,,Esko MIKKOLA,14 FEB 1975,FIN,1,Urjala (FIN),25 AUG 2009,1102,javelin-throw,throws,male,senior
+7949,80.08,,Qiang QIN,18 APR 1983,CHN,3,Guangzhou (CHN),14 NOV 2009,1102,javelin-throw,throws,male,senior
+7949,80.08,,Mervyn LUCKWELL,27 NOV 1984,GBR,1,London (GBR),13 JUN 2010,1102,javelin-throw,throws,male,senior
+7949,80.08,,Ēriks RAGS,01 JUN 1975,LAT,1,Jékabpils (LAT),09 JUL 2010,1102,javelin-throw,throws,male,senior
+7949,80.08,,Jakub VADLEJCH,10 OCT 1990,CZE,8q1,"DS, Daegu (KOR)",01 SEP 2011,1102,javelin-throw,throws,male,senior
+7949,80.08,,Marcin KRUKOWSKI,14 JUN 1992,POL,2,Białystok (POL),03 MAY 2013,1102,javelin-throw,throws,male,senior
+7949,80.08,,Jaime Dayron MÁRQUEZ,19 NOV 1983,COL,2,Rio de Janeiro (BRA),16 MAY 2016,1102,javelin-throw,throws,male,senior
+7949,80.08,,Dejan MILEUSNIĆ,16 NOV 1991,BIH,1,Zenica (BIH),07 JUN 2017,1102,javelin-throw,throws,male,senior
+7949,80.08,,Ahmed Bader MAGOUR,03 MAR 1996,QAT,3f1,Raasepori (FIN),17 JUN 2018,1102,javelin-throw,throws,male,senior
+7949,80.08,,Dejan MILEUSNIĆ,16 NOV 1991,BIH,1,Sarajevo (BIH),15 JUN 2019,1102,javelin-throw,throws,male,senior
+7949,80.08,,Ethan SHALAWAY,28 SEP 1994,USA,1,"Hutsell-Rosen Track, Auburn, AL (USA)",15 APR 2022,1102,javelin-throw,throws,male,senior
+7949,80.08,,Roderick Genki DEAN,30 DEC 1991,JPN,1f1,"Urheilukenttä, Pihtipudas (FIN)",03 JUL 2022,1102,javelin-throw,throws,male,senior
+7973,80.07,,Tommi HUOTILAINEN,17 NOV 1967,FIN,2,Tampere (FIN),15 JUL 1998,1102,javelin-throw,throws,male,senior
+7973,80.07,,Juha LAUKKANEN,06 JAN 1969,FIN,7,Helsinki (FIN),10 JUN 1999,1102,javelin-throw,throws,male,senior
+7973,80.07,,Marián BOKOR,17 APR 1977,SVK,1,Bratislava (SVK),13 MAY 2000,1102,javelin-throw,throws,male,senior
+7973,80.07,,Mark FRANK,21 JUN 1977,GER,1,Rostock (GER),08 JUN 2002,1102,javelin-throw,throws,male,senior
+7973,80.07,,Teemu WIRKKALA,14 JAN 1984,FIN,3,Kuortane (FIN),20 JUL 2003,1102,javelin-throw,throws,male,senior
+7973,80.07,,Teemu WIRKKALA,14 JAN 1984,FIN,1,Helsinki (FIN),06 SEP 2003,1102,javelin-throw,throws,male,senior
+7973,80.07,,Breaux GREER,19 OCT 1976,USA,5,"Crystal Palace, London (GBR)",30 JUL 2004,1102,javelin-throw,throws,male,senior
+7973,80.07,,Isbel LUACES,20 JUL 1975,CUB,7q2,"Olympic Stadium, Athina (GRE)",26 AUG 2004,1102,javelin-throw,throws,male,senior
+7973,80.07,,Ainars KOVALS,21 NOV 1981,LAT,7,Thessaloniki (GRE),13 SEP 2009,1102,javelin-throw,throws,male,senior
+7973,80.07,,Mihkel KUKK,08 OCT 1983,EST,3,Viljandi (EST),09 AUG 2011,1102,javelin-throw,throws,male,senior
+7973,80.07,,Rolands ŠTROBINDERS,14 APR 1992,LAT,3,Bellinzona (SUI),03 JUN 2014,1102,javelin-throw,throws,male,senior
+7973,80.07,,Ryohei ARAI,23 JUN 1991,JPN,5,"Shanghai Stadium, Shanghai (CHN)",14 MAY 2016,1102,javelin-throw,throws,male,senior
+7973,80.07,,Petr FRYDRYCH,13 JAN 1988,CZE,9,"Suhaim bin Hamad Stadium, Doha (QAT)",04 MAY 2018,1102,javelin-throw,throws,male,senior
+7973,80.07,,Gatis ČAKŠS,13 JUN 1995,LAT,2,Ventspils (LAT),01 JUN 2019,1102,javelin-throw,throws,male,senior
+7973,80.07,,Edis MATUSEVIČIUS,30 JUN 1996,LTU,1,Napoli (ITA),11 JUL 2019,1102,javelin-throw,throws,male,senior
+7973,80.07,,Roderick Genki DEAN,30 DEC 1991,JPN,2,"Denka Big Swan Stadium, Niigata (JPN)",01 OCT 2020,1102,javelin-throw,throws,male,senior
+7973,80.07,,Yuta SAKIYAMA,05 APR 1996,JPN,3,"National Stadium, Tokyo (JPN)",19 MAY 2024,1102,javelin-throw,throws,male,senior
+7973,80.07,,Alexandru Mihăiță NOVAC,24 MAR 1997,ROU,1,"Cluj Arena, Cluj-Napoca (ROU)",29 JUN 2024,1102,javelin-throw,throws,male,senior
+7991,80.06,,Reidar LORENTZEN,22 SEP 1956,NOR,1,Byrkjelo (NOR),14 AUG 1988,1102,javelin-throw,throws,male,senior
+7991,80.06,,Seppo RÄTY,27 APR 1962,FIN,3,Gävle (SWE),20 JUN 1989,1102,javelin-throw,throws,male,senior
+7991,80.06,,Marek KALETA,17 DEC 1961,URS,1,"Los Angeles, CA (USA)",12 MAY 1990,1102,javelin-throw,throws,male,senior
+7991,80.06,,Peter SCHREIBER,09 AUG 1964,FRG,1,Tel Aviv (ISR),26 MAY 1990,1102,javelin-throw,throws,male,senior
+7991,80.06,,Sigurdur EINNARSSON,28 SEP 1962,ISL,1,Reykjavík (ISL),31 JUL 1995,1102,javelin-throw,throws,male,senior
+7991,80.06,,Juan DE LA GARZA,20 SEP 1961,MEX,1,"College Station, TX (USA)",09 MAY 1996,1102,javelin-throw,throws,male,senior
+7991,80.06,,Dariusz TRAFAS,16 MAY 1972,POL,7,Melbourne (AUS),09 SEP 2001,1102,javelin-throw,throws,male,senior
+7991,80.06,,Björn LANGE,15 JUN 1979,GER,5q,"Wattenscheid, Bochum (GER)",05 JUL 2002,1102,javelin-throw,throws,male,senior
+7991,80.06,,Raymond HECHT,11 NOV 1968,GER,1,Thum (GER),11 AUG 2004,1102,javelin-throw,throws,male,senior
+7991,80.06,,Uladzimir KAZLOU,07 JUN 1985,BLR,3q1,"National Stadium, Beijing (CHN)",21 AUG 2008,1102,javelin-throw,throws,male,senior
+7991,80.06,,Esko MIKKOLA,14 FEB 1975,FIN,1,Helsinki (FIN),26 AUG 2008,1102,javelin-throw,throws,male,senior
+7991,80.06,,Mervyn LUCKWELL,27 NOV 1984,GBR,1,Milton Keynes (GBR),09 MAY 2009,1102,javelin-throw,throws,male,senior
+7991,80.06,,Roman AVRAMENKO,23 MAR 1988,UKR,7q1,"Olympic Stadium, London (GBR)",08 AUG 2012,1102,javelin-throw,throws,male,senior
+7991,80.06,,Uladzimir KAZLOU,07 JUN 1985,BLR,8q1,"Olympic Stadium, London (GBR)",08 AUG 2012,1102,javelin-throw,throws,male,senior
+7991,80.06,,Guillermo MARTÍNEZ,28 JUN 1981,CUB,9q1,"Olympic Stadium, London (GBR)",08 AUG 2012,1102,javelin-throw,throws,male,senior
+7991,80.06,,Ihab ABDELRAHMAN,01 MAY 1989,EGY,2,Tokyo (JPN),11 MAY 2014,1102,javelin-throw,throws,male,senior
+7991,80.06,,Ihab ABDELRAHMAN,01 MAY 1989,EGY,7,"Bislett Stadion, Oslo (NOR)",11 JUN 2014,1102,javelin-throw,throws,male,senior
+7991,80.06,,Gatis ČAKŠS,13 JUN 1995,LAT,1,Jelgava (LAT),14 JUN 2015,1102,javelin-throw,throws,male,senior
+7991,80.06,,Andreas HOFMANN,16 DEC 1991,GER,3,Thum (GER),02 SEP 2016,1102,javelin-throw,throws,male,senior
+7991,80.06,,Dmitriy TARABIN,29 OCT 1991,RUS,2,"Adler, Sochi (RUS)",14 FEB 2019,1102,javelin-throw,throws,male,senior
+7991,80.06,,Anderson PETERS,21 OCT 1997,GRN,1q,"Jacksonville, FL (USA)",24 MAY 2019,1102,javelin-throw,throws,male,senior
+7991,80.06,,Toni KUUSELA,21 JAN 1994,FIN,3,Tampere (FIN),03 JUL 2019,1102,javelin-throw,throws,male,senior
+7991,80.06,,Andreas HOFMANN,16 DEC 1991,GER,13q2,"Khalifa International Stadium, Doha (QAT)",05 OCT 2019,1102,javelin-throw,throws,male,senior
+7991,80.06,,Gatis ČAKŠS,13 JUN 1995,LAT,8,"Stade Charléty, Paris (FRA)",28 AUG 2021,1102,javelin-throw,throws,male,senior
+7991,80.06,,Martin KONEČNÝ,20 DEC 1997,CZE,1,"Stadion TJ Lokomotiva Olomouc,, Olomouc (CZE)",08 MAY 2023,1102,javelin-throw,throws,male,senior
+7991,80.06,,Patriks GAILUMS,10 MAY 1998,LAT,3,"Stadion Allmend, Luzern (SUI)",16 JUL 2024,1102,javelin-throw,throws,male,senior
+7991,80.06,,Lassi ETELÄTALO,30 APR 1988,FIN,3,"Leppävaaran Stadion, Espoo (FIN)",03 AUG 2025,1102,javelin-throw,throws,male,senior
+7991,80.06,,Billy JULIO LÓPEZ,14 FEB 1996,COL,2,"CNDA, Bragança Paulista (BRA)",24 AUG 2025,1102,javelin-throw,throws,male,senior
+8019,80.05,,Daniel DAUB,03 FEB 1976,GER,1,Rehlingen (GER),15 AUG 1998,1102,javelin-throw,throws,male,senior
+8019,80.05,,Andrew CURREY,07 FEB 1971,AUS,5,Kuala Lumpur (MAS),21 SEP 1998,1102,javelin-throw,throws,male,senior
+8019,80.05,,Johan VOSLOO,26 MAR 1977,RSA,2,Ljubljana (SLO),25 JUL 2000,1102,javelin-throw,throws,male,senior
+8019,80.05,,Ari PAKARINEN,14 MAY 1969,FIN,1,Lahti (FIN),26 AUG 2001,1102,javelin-throw,throws,male,senior
+8019,80.05,,Nicholas NIELAND,31 JAN 1972,GBR,1,Manchester (GBR),15 JUN 2002,1102,javelin-throw,throws,male,senior
+8019,80.05,,Rajmund KÓŁKO,01 MAR 1971,POL,3,Cottbus (GER),04 JUN 2003,1102,javelin-throw,throws,male,senior
+8019,80.05,,William HAMLYN-HARRIS,14 JAN 1978,AUS,4,Gateshead (GBR),13 JUL 2003,1102,javelin-throw,throws,male,senior
+8019,80.05,,Esko MIKKOLA,14 FEB 1975,FIN,1,Saarijärvi (FIN),25 JUN 2006,1102,javelin-throw,throws,male,senior
+8019,80.05,,Júlio César MIRANDA DE OLIVEIRA,04 FEB 1986,BRA,1,Rio de Janeiro (BRA),07 JUN 2009,1102,javelin-throw,throws,male,senior
+8019,80.05,,Matthias DE ZORDO,21 FEB 1988,GER,1,Braunschweig (GER),17 JUL 2010,1102,javelin-throw,throws,male,senior
+8019,80.05,,Mike HAZLE,22 MAR 1979,USA,1,"San Diego, CA (USA)",25 JUL 2010,1102,javelin-throw,throws,male,senior
+8019,80.05,,Petr FRYDRYCH,13 JAN 1988,CZE,1,Klatovy (CZE),08 MAY 2012,1102,javelin-throw,throws,male,senior
+8019,80.05,,Oleksandr NYCHYPORCHUK,14 APR 1992,UKR,1,Yalta (UKR),21 FEB 2013,1102,javelin-throw,throws,male,senior
+8019,80.05,,Hamish PEACOCK,15 OCT 1990,AUS,1,Hobart (AUS),14 JUL 2013,1102,javelin-throw,throws,male,senior
+8019,80.05,,Andrian MARDARE,20 JUN 1995,MDA,6,Rehlingen (GER),09 JUN 2019,1102,javelin-throw,throws,male,senior
+8019,80.05,,Edis MATUSEVIČIUS,30 JUN 1996,LTU,6,"Suhaim bin Hamad Stadium, Doha (QAT)",10 MAY 2024,1102,javelin-throw,throws,male,senior
+8019,80.05,,Topias LAINE,12 JUL 2001,FIN,3,"Keskusurheilukenttä, Joensuu (FIN)",20 JUL 2024,1102,javelin-throw,throws,male,senior
+8019,80.05,,Edis MATUSEVIČIUS,30 JUN 1996,LTU,2,"Raatin Stadion, Oulu (FIN)",17 AUG 2024,1102,javelin-throw,throws,male,senior
+8037,80.04,,Dag WENNLUND,09 OCT 1963,SWE,3,Stockholm (SWE),01 JUL 1986,1102,javelin-throw,throws,male,senior
+8037,80.04,,Emil TSVETANOV,14 MAR 1963,BUL,1,Göteborg (SWE),27 JUN 1987,1102,javelin-throw,throws,male,senior
+8037,80.04,,Marcis ŠTROBINDERS,12 JUN 1966,URS,1,Riga (LAT),29 AUG 1987,1102,javelin-throw,throws,male,senior
+8037,80.04,,Tom PETRANOFF,08 APR 1958,USA,3,Lausanne (SUI),15 SEP 1987,1102,javelin-throw,throws,male,senior
+8037,80.04,,Marko HYYTIÄINEN,27 NOV 1966,FIN,4,Helsinki (FIN),19 AUG 1990,1102,javelin-throw,throws,male,senior
+8037,80.04,,Dag WENNLUND,09 OCT 1963,SWE,6,Paris-St-Denis (FRA),10 JUN 1994,1102,javelin-throw,throws,male,senior
+8037,80.04,,Patrik BODÉN,30 JUN 1967,SWE,2,"Crystal Palace, London (GBR)",15 JUL 1994,1102,javelin-throw,throws,male,senior
+8037,80.04,,Phillip SPIES,21 MAY 1970,RSA,1,Bellville (RSA),27 MAR 1996,1102,javelin-throw,throws,male,senior
+8037,80.04,,Patrik BODÉN,30 JUN 1967,SWE,1,Växjö (SWE),21 MAY 1996,1102,javelin-throw,throws,male,senior
+8037,80.04,,Andreas LINDEN,20 FEB 1965,GER,8,"Olympiastadion, Berlin (GER)",26 AUG 1997,1102,javelin-throw,throws,male,senior
+8037,80.04,,Gregor HÖGLER,27 JUN 1972,AUT,6,Stockholm (SWE),05 AUG 1998,1102,javelin-throw,throws,male,senior
+8037,80.04,,Dariusz TRAFAS,16 MAY 1972,POL,1,Kraków (POL),03 JUL 1999,1102,javelin-throw,throws,male,senior
+8037,80.04,,Ēriks RAGS,01 JUN 1975,LAT,q,Palma de Mallorca (ESP),11 JUL 1999,1102,javelin-throw,throws,male,senior
+8037,80.04,,Rongxiang LI,08 JAN 1972,CHN,1,Ningbo (CHN),27 APR 2001,1102,javelin-throw,throws,male,senior
+8037,80.04,,Dariusz TRAFAS,16 MAY 1972,POL,5,Hamburg (GER),12 JUN 2002,1102,javelin-throw,throws,male,senior
+8037,80.04,,Laurent DORIQUE,10 JUL 1976,FRA,1,Ales (FRA),29 JUN 2003,1102,javelin-throw,throws,male,senior
+8037,80.04,,Qi CHEN,10 MAR 1982,CHN,1,Birmingham (GBR),20 AUG 2006,1102,javelin-throw,throws,male,senior
+8037,80.04,,Sean FUREY,31 AUG 1982,USA,1,Urjala (FIN),27 AUG 2013,1102,javelin-throw,throws,male,senior
+8037,80.04,,Julian WEBER,29 AUG 1994,GER,1,Heidesheim (GER),06 APR 2015,1102,javelin-throw,throws,male,senior
+8037,80.04,,Joni KARVINEN,07 FEB 1994,FIN,2f1,Raasepori (FIN),12 JUN 2016,1102,javelin-throw,throws,male,senior
+8037,80.04,,Oliver HELANDER,01 JAN 1997,FIN,1f1,Pihtipudas (FIN),02 JUL 2017,1102,javelin-throw,throws,male,senior
+8037,80.04,,Magnus KIRT,10 APR 1990,EST,1,Tallinn (EST),22 JUL 2017,1102,javelin-throw,throws,male,senior
+8037,80.04,,Oliver HELANDER,01 JAN 1997,FIN,2,Seinäjoki (FIN),23 JUL 2017,1102,javelin-throw,throws,male,senior
+8037,80.04,,Qinggang ZHAO,24 JUL 1985,CHN,1,Tianjin (CHN),04 SEP 2017,1102,javelin-throw,throws,male,senior
+8037,80.04,,Vipin KASANA,04 AUG 1989,IND,2,Patiala (IND),27 FEB 2018,1102,javelin-throw,throws,male,senior
+8037,80.04,,Vedran SAMAC,22 JAN 1990,SRB,1,Zenica (BIH),12 JUN 2019,1102,javelin-throw,throws,male,senior
+8037,80.04,,Roderick Genki DEAN,30 DEC 1991,JPN,1,"Tochigi Prefectural Sports Park Stadium, Utsunomiya (JPN)",07 OCT 2022,1102,javelin-throw,throws,male,senior
+8037,80.04,,Dawid WEGNER,23 APR 2000,POL,2,"Forest Stadium, Sopot (POL)",16 JUN 2024,1102,javelin-throw,throws,male,senior
+8037,80.04,,Sachin YADAV,25 OCT 1999,IND,1q1,"Sree Kanteerava Outdoor Stadium, Bengaluru (IND)",01 SEP 2024,1102,javelin-throw,throws,male,senior
+8066,80.03,,Pal Arne FAGERNES,08 JUN 1974,NOR,8,"Bislett Stadion, Oslo (NOR)",09 JUL 1998,1102,javelin-throw,throws,male,senior
+8066,80.03,,Marko HYYTIÄINEN,27 NOV 1966,FIN,5,Seinäjoki (FIN),08 AUG 1999,1102,javelin-throw,throws,male,senior
+8066,80.03,,Adrian HATCHER,06 MAY 1970,AUS,2,Sydney (AUS),27 FEB 2000,1102,javelin-throw,throws,male,senior
+8066,80.03,,Rajmund KÓŁKO,01 MAR 1971,POL,3,Kraków (POL),05 AUG 2000,1102,javelin-throw,throws,male,senior
+8066,80.03,,Gergely HORVÁTH,05 JUN 1975,HUN,3,Beijing (CHN),01 SEP 2001,1102,javelin-throw,throws,male,senior
+8066,80.03,,Lohan RAUTENBACH,06 FEB 1986,RSA,1,Durban (RSA),16 APR 2005,1102,javelin-throw,throws,male,senior
+8066,80.03,,Björn LANGE,15 JUN 1979,GER,3,Zeulenroda (GER),29 MAY 2005,1102,javelin-throw,throws,male,senior
+8066,80.03,,Risto MÄTAS,30 APR 1984,EST,8,"Luzhniki Stadion, Moskva (RUS)",17 AUG 2013,1102,javelin-throw,throws,male,senior
+8066,80.03,,Chao-Tsun CHENG,17 OCT 1993,TPE,6,Bhubaneshwar (IND),09 JUL 2017,1102,javelin-throw,throws,male,senior
+8066,80.03,,Rohit YADAV,06 JUN 2001,IND,2,Thiruvanthapuram (IND),13 MAR 2022,1102,javelin-throw,throws,male,senior
+8066,80.03,,Lassi ETELÄTALO,30 APR 1988,FIN,6q1,"Hayward Field, Eugene, OR (USA)",21 JUL 2022,1102,javelin-throw,throws,male,senior
+8066,80.03,,Keyshawn STRACHAN,18 DEC 2003,BAH,12q1,"National Stadium, Tokyo (JPN)",17 SEP 2025,1102,javelin-throw,throws,male,senior
+8078,80.02,,Georgiy SHAPKIN,30 AUG 1966,URS,1,Ryazan (URS),02 JUN 1989,1101,javelin-throw,throws,male,senior
+8078,80.02,,Peter BORGLUND,29 JAN 1964,SWE,5,Helsinki (FIN),19 AUG 1990,1101,javelin-throw,throws,male,senior
+8078,80.02,,Matti NÄRHI,17 AUG 1975,FIN,6,Tampere (FIN),07 JUL 1996,1101,javelin-throw,throws,male,senior
+8078,80.02,,Adrian HATCHER,06 MAY 1970,AUS,1,Melbourne (AUS),02 MAR 1997,1101,javelin-throw,throws,male,senior
+8078,80.02,,Andreas LINDEN,20 FEB 1965,GER,2,Stuttgart (GER),13 JUL 1997,1101,javelin-throw,throws,male,senior
+8078,80.02,,Pius BAZIGHE,15 MAR 1972,NGR,1,Patra (GRE),01 AUG 1998,1101,javelin-throw,throws,male,senior
+8078,80.02,,Marius CORBETT,26 SEP 1975,RSA,1,Roodeport (RSA),19 MAR 1999,1101,javelin-throw,throws,male,senior
+8078,80.02,,Emeterio GONZÁLEZ,11 APR 1973,CUB,1,Rio de Janeiro (BRA),20 MAY 2000,1101,javelin-throw,throws,male,senior
+8078,80.02,,Boris HENRY,14 DEC 1973,GER,1,"Stade Raymond Petit, Tomblaine (FRA)",16 SEP 2003,1101,javelin-throw,throws,male,senior
+8078,80.02,,Igor SUKHOMLINOV,13 FEB 1977,RUS,2,Mersin (TUR),12 MAR 2005,1101,javelin-throw,throws,male,senior
+8078,80.02,,Christian NICOLAY,04 MAR 1976,GER,5,Helsinki (FIN),25 JUL 2005,1101,javelin-throw,throws,male,senior
+8078,80.02,,Igor JANIK,18 JAN 1983,POL,2,"Mangueirão, Belém (BRA)",20 MAY 2007,1101,javelin-throw,throws,male,senior
+8078,80.02,,Magnus ARVIDSSON,20 FEB 1983,SWE,7,"Stade de France, Paris-St-Denis (FRA)",06 JUL 2007,1101,javelin-throw,throws,male,senior
+8078,80.02,,Jarrod BANNISTER,03 OCT 1984,AUS,5,Luzern (SUI),21 JUL 2011,1101,javelin-throw,throws,male,senior
+8078,80.02,,Thomas RÖHLER,30 SEP 1991,GER,1,Thum (GER),24 AUG 2012,1101,javelin-throw,throws,male,senior
+8078,80.02,,Hubert CHMIELAK,19 JUN 1989,POL,2,"Stadion OPO Cetniewo, Władysławowo (POL)",29 JUN 2013,1101,javelin-throw,throws,male,senior
+8078,80.02,,Bernhard SEIFERT,15 FEB 1993,GER,8q1,"Luzhniki Stadion, Moskva (RUS)",15 AUG 2013,1101,javelin-throw,throws,male,senior
+8078,80.02,,Julius YEGO,04 JAN 1989,KEN,1,Nairobi (KEN),07 JUN 2014,1101,javelin-throw,throws,male,senior
+8078,80.02,,Tanel LAANMÄE,29 SEP 1989,EST,1,Tallinn (EST),03 AUG 2014,1101,javelin-throw,throws,male,senior
+8078,80.02,,Magnus KIRT,10 APR 1990,EST,1,Montgeron (FRA),14 MAY 2017,1101,javelin-throw,throws,male,senior
+8078,80.02,,Davinder SINGH,18 DEC 1988,IND,12,"Olympic Stadium, London (GBR)",12 AUG 2017,1101,javelin-throw,throws,male,senior
+8078,80.02,,Gatis ČAKŠS,13 JUN 1995,LAT,2,Ventspils (LAT),02 JUN 2018,1101,javelin-throw,throws,male,senior
+8078,80.02,,Cyprian MRZYGŁÓD,02 FEB 1998,POL,2,"Shuangliu Sports Centre, Chengdu (CHN)",06 AUG 2023,1101,javelin-throw,throws,male,senior
+8078,80.02,,Pedro Henrique RODRIGUES,18 JUN 1999,BRA,1,"CNDA, Bragança Paulista (BRA)",06 APR 2024,1101,javelin-throw,throws,male,senior
+8078,80.02,,Chinecherem NNAMDI,12 JUL 2002,NGR,1,"Clyde Hart Track & Field Stadium, Waco, TX (USA)",09 MAY 2024,1101,javelin-throw,throws,male,senior
+8078,80.02,,Vikrant MALIK,02 JAN 1996,IND,1,"Sree Kanteerava Outdoor Stadium, Bengaluru (IND)",02 SEP 2024,1101,javelin-throw,throws,male,senior
+8104,80.01,,Rongxiang LI,08 JAN 1972,CHN,1,Baoding (CHN),08 SEP 2002,1101,javelin-throw,throws,male,senior
+8104,80.01,,Dariusz TRAFAS,16 MAY 1972,POL,2,Warszawa (POL),13 JUN 2004,1101,javelin-throw,throws,male,senior
+8104,80.01,,Tomas INTAS,15 SEP 1981,LTU,1,Florø (NOR),04 JUN 2005,1101,javelin-throw,throws,male,senior
+8104,80.01,,Ēriks RAGS,01 JUN 1975,LAT,1,"Stade Louis II, Monaco (MON)",25 JUL 2007,1101,javelin-throw,throws,male,senior
+8104,80.01,,Ēriks RAGS,01 JUN 1975,LAT,11,"Yanmar Stadium Nagai, Osaka (JPN)",02 SEP 2007,1101,javelin-throw,throws,male,senior
+8104,80.01,,Gerbrandt GROBLER,26 JAN 1983,RSA,5f1,Pihtipudas (FIN),28 JUN 2009,1101,javelin-throw,throws,male,senior
+8104,80.01,,Csongor OLTEÁN,08 APR 1984,HUN,1,Budapest (HUN),02 AUG 2009,1101,javelin-throw,throws,male,senior
+8104,80.01,,Ari MANNIO,23 JUL 1987,FIN,1,Göteborg (SWE),30 AUG 2009,1101,javelin-throw,throws,male,senior
+8104,80.01,,Teemu WIRKKALA,14 JAN 1984,FIN,3,Dessau (GER),28 MAY 2010,1101,javelin-throw,throws,male,senior
+8104,80.01,,Gervasios PHILIPPIDIS,24 JUL 1987,GRE,1,Athina (GRE),29 JUL 2011,1101,javelin-throw,throws,male,senior
+8104,80.01,,Teemu WIRKKALA,14 JAN 1984,FIN,3,Pielavesi (FIN),19 SEP 2015,1101,javelin-throw,throws,male,senior
+8104,80.01,,Matija KRANJC,12 JUN 1984,SLO,1,Leiria (POR),28 MAY 2016,1101,javelin-throw,throws,male,senior
+8104,80.01,,Hamish PEACOCK,15 OCT 1990,AUS,1,Canberra (AUS),12 MAR 2017,1101,javelin-throw,throws,male,senior
+8104,80.01,,Anderson PETERS,21 OCT 1997,GRN,7,"Paavo Nurmen Stadion, Turku (FIN)",08 JUN 2021,1101,javelin-throw,throws,male,senior
+8104,80.01,,Kasper SAGEN,19 APR 1999,NOR,2,"Stadion im.Lubuskich Olimpijczyków, Gorzów Wielkopolski (POL)",24 MAY 2024,1101,javelin-throw,throws,male,senior
+8119,80.00,,Peter BORGLUND,29 JAN 1964,SWE,3,Stockholm (SWE),05 JUL 1988,1101,javelin-throw,throws,male,senior
+8119,80.00,,Jeroen VAN DER MEER,07 APR 1959,NED,1,Leiden (NED),12 MAY 1990,1101,javelin-throw,throws,male,senior
+8119,80.00,,Marek KALETA,17 DEC 1961,URS,1,Joutsa (FIN),27 MAY 1990,1101,javelin-throw,throws,male,senior
+8119,80.00,,Juha LAUKKANEN,06 JAN 1969,FIN,1,Nilsiä (FIN),14 JUN 1990,1101,javelin-throw,throws,male,senior
+8119,80.00,,Marek KALETA,17 DEC 1961,URS,1,Århus (DEN),01 AUG 1990,1101,javelin-throw,throws,male,senior
+8119,80.00,,Vladimir PONOMARENKO,1970,RUS,1,Stavropol (RUS),29 MAY 1993,1101,javelin-throw,throws,male,senior
+8119,80.00,,Alain STORACI,05 JUN 1967,FRA,6,Nice (FRA),21 JUL 1993,1101,javelin-throw,throws,male,senior
+8119,80.00,,Pascal LEFEVRE,25 JAN 1965,FRA,1,Annecy (FRA),24 JUL 1993,1101,javelin-throw,throws,male,senior
+8119,80.00,,Andreas LINDEN,20 FEB 1965,GER,8,"Olympiastadion, Berlin (GER)",01 SEP 1995,1101,javelin-throw,throws,male,senior
+8119,80.00,,Isbel LUACES,20 JUL 1975,CUB,2,Madrid (ESP),12 JUN 1996,1101,javelin-throw,throws,male,senior
+8119,80.00,,Donald-Aik SILD,03 OCT 1968,EST,1,Tallinn (EST),07 JUL 1996,1101,javelin-throw,throws,male,senior
+8119,80.00,,Andreas LINDEN,20 FEB 1965,GER,1,Minden (GER),24 JUL 1996,1101,javelin-throw,throws,male,senior
+8119,80.00,,Andrew CURREY,07 FEB 1971,AUS,3,North Shore City (NZL),20 FEB 1998,1101,javelin-throw,throws,male,senior
+8119,80.00,,Adrian HATCHER,06 MAY 1970,AUS,2,Sydney (AUS),28 FEB 1998,1101,javelin-throw,throws,male,senior
+8119,80.00,,Harri HAKKARAINEN,16 OCT 1969,FIN,q,Oulu (FIN),08 AUG 1998,1101,javelin-throw,throws,male,senior
+8119,80.00,,Sergey VOYNOV,26 FEB 1977,UZB,1,Almaty (KAZ),22 MAY 1999,1101,javelin-throw,throws,male,senior
+8119,80.00,,Vladimir SASIMOVICH,14 SEP 1968,BLR,1,Linz (AUT),26 JUL 1999,1101,javelin-throw,throws,male,senior
+8119,80.00,,Aleksandr IVANOV,25 MAY 1982,RUS,1,"Adler, Sochi (RUS)",11 FEB 2001,1101,javelin-throw,throws,male,senior
+8119,80.00,,Aleksandr IVANOV,25 MAY 1982,RUS,1,Paris (FRA),03 SEP 2005,1101,javelin-throw,throws,male,senior
+8119,80.00,,Ainars KOVALS,21 NOV 1981,LAT,1,Tallinn (EST),27 SEP 2007,1101,javelin-throw,throws,male,senior
+8119,80.00,,Corey WHITE,31 JAN 1986,USA,1,"Los Angeles, CA (USA)",02 MAY 2009,1101,javelin-throw,throws,male,senior
+8119,80.00,,Igor SUKHOMLINOV,13 FEB 1977,RUS,4,Cheboksary (RUS),25 JUL 2009,1101,javelin-throw,throws,male,senior
+8119,80.00,,Spiridon LEMPESIS,30 MAY 1987,GRE,2,Rovereto (ITA),04 SEP 2012,1101,javelin-throw,throws,male,senior
+8119,80.00,,Sean FUREY,31 AUG 1982,USA,1,"San Diego, CA (USA)",29 MAR 2014,1101,javelin-throw,throws,male,senior
+8119,80.00,,Ari MANNIO,23 JUL 1987,FIN,3,Kuopio (FIN),03 AUG 2014,1101,javelin-throw,throws,male,senior
+8119,80.00,,Vítězslav VESELÝ,27 FEB 1983,CZE,3q1,"Letzigrund, Zürich (SUI)",14 AUG 2014,1101,javelin-throw,throws,male,senior
+8119,80.00,,Matthew OUTZEN,12 OCT 1987,AUS,1,Brisbane (AUS),29 MAR 2015,1101,javelin-throw,throws,male,senior
+8119,80.00,,Magnus KIRT,10 APR 1990,EST,4,Pärnu (EST),27 AUG 2016,1101,javelin-throw,throws,male,senior
+8119,80.00,,Ahmed Bader MAGOUR,03 MAR 1996,QAT,1,Potchefstroom (RSA),03 MAR 2017,1101,javelin-throw,throws,male,senior
+8119,80.00,,Jakub VADLEJCH,10 OCT 1990,CZE,6,"Shanghai Stadium, Shanghai (CHN)",18 MAY 2019,1101,javelin-throw,throws,male,senior
+8119,80.00,,Emin ÖNCEL,01 MAY 1997,TUR,1,"Nevin Yanıt Atletizm Pisti, Mersin (TUR)",23 FEB 2020,1101,javelin-throw,throws,male,senior
+8119,80.00,,Sindri Hrafn GUÐMUNDSSON,21 NOV 1995,ISL,1,"Frjálsíþróttavöllur ÍR, Reykjavík (ISL)",24 JUN 2024,1101,javelin-throw,throws,male,senior
+8119,80.00,,Keyshawn STRACHAN,18 DEC 2003,BAH,1,"Cushing Stadium, College Station, TX (USA)",11 APR 2025,1101,javelin-throw,throws,male,senior

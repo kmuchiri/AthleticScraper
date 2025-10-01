@@ -199,7 +199,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 186,7.13,+2.0,Brittney REESE,09 SEP 1986,USA,1,"Chula Vista, CA (USA)",17 JUN 2017,1247,long-jump,jumps,female,senior
 186,7.13,+1.3,Brittney REESE,09 SEP 1986,USA,1,"Hayward Field, Eugene, OR (USA)",26 JUN 2021,1247,long-jump,jumps,female,senior
 186,7.13,+1.8,Brooke BUSCHKUEHL,12 JUL 1993,AUS,2,"CVEATC, Chula Vista, CA (USA)",09 JUL 2022,1247,long-jump,jumps,female,senior
-186,7.13,-0.2,Tara DAVIS-WOODHALL,20 MAY 1999,USA,1f1,"National Stadium, Tokyo (JPN)",14 SEP 2025,1248,long-jump,jumps,female,senior
+186,7.13,-0.2,Tara DAVIS-WOODHALL,20 MAY 1999,USA,1,"National Stadium, Tokyo (JPN)",14 SEP 2025,1248,long-jump,jumps,female,senior
 202,7.12,+1.6,Sabine PAETZ,16 OCT 1957,GDR,2,Dresden (GER),19 MAY 1984,1244,long-jump,jumps,female,senior
 202,7.12,,Yelena KHLOPOTNOVA,04 AUG 1963,URS,1,Kishinev (URS) (i),02 MAR 1985,1244,long-jump,jumps,female,senior
 202,7.12,,Yelena KHLOPOTNOVA,04 AUG 1963,URS,1,Tashkent (UZB),20 APR 1985,1244,long-jump,jumps,female,senior
@@ -641,7 +641,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 591,6.99,-1.4,Malaika MIHAMBO,03 FEB 1994,GER,1,"Olympiastadion, Berlin (GER)",01 SEP 2019,1224,long-jump,jumps,female,senior
 591,6.99,-0.6,Malaika MIHAMBO,03 FEB 1994,GER,1q1,"Olympiastadion, München (GER)",16 AUG 2022,1219,long-jump,jumps,female,senior
 591,6.99,+1.7,Tara DAVIS-WOODHALL,20 MAY 1999,USA,1,"John McDonnell Field, Fayetteville, AR (USA)",23 JUN 2023,1216,long-jump,jumps,female,senior
-591,6.99,+0.1,Malaika MIHAMBO,03 FEB 1994,GER,2f1,"National Stadium, Tokyo (JPN)",14 SEP 2025,1216,long-jump,jumps,female,senior
+591,6.99,+0.1,Malaika MIHAMBO,03 FEB 1994,GER,2,"National Stadium, Tokyo (JPN)",14 SEP 2025,1216,long-jump,jumps,female,senior
 644,6.98,+1.1,Heike DAUTE,16 DEC 1964,GDR,1,Potsdam (GDR),18 AUG 1982,1213,long-jump,jumps,female,senior
 644,6.98,,Yelena KHLOPOTNOVA,04 AUG 1963,URS,1,Almaty (KAZ) (i),25 JAN 1986,1213,long-jump,jumps,female,senior
 644,6.98,-1.2,Valy IONESCU,31 AUG 1960,ROU,1,Bucureşti (ROU),14 JUN 1986,1220,long-jump,jumps,female,senior
@@ -1086,7 +1086,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 997,6.92,-0.5,Larissa IAPICHINO,18 JUL 2002,ITA,2,"Olympic Stadium, London (GBR)",19 JUL 2025,1203,long-jump,jumps,female,senior
 997,6.92,+1.2,Natalia LINARES,03 JAN 2003,COL,1,"Parque Olímpico Pista De Atletismo, Luque, Asunción (PAR)",18 AUG 2025,1200,long-jump,jumps,female,senior
 997,6.92,+0.1,Malaika MIHAMBO,03 FEB 1994,GER,2,"Letzigrund, Zürich (SUI)",28 AUG 2025,1200,long-jump,jumps,female,senior
-997,6.92,+0.5,Natalia LINARES,03 JAN 2003,COL,3f1,"National Stadium, Tokyo (JPN)",14 SEP 2025,1200,long-jump,jumps,female,senior
+997,6.92,+0.5,Natalia LINARES,03 JAN 2003,COL,3,"National Stadium, Tokyo (JPN)",14 SEP 2025,1200,long-jump,jumps,female,senior
 1089,6.91,+0.9,Brigitte WUJAK,06 MAR 1955,GDR,1,Berlin (GER),09 JUL 1980,1198,long-jump,jumps,female,senior
 1089,6.91,0.0,Anișoara CUȘMIR,28 JUN 1962,ROU,1,Bucureşti (ROU),23 MAY 1981,1198,long-jump,jumps,female,senior
 1089,6.91,+1.0,Heike DAUTE,16 DEC 1964,GDR,1,Jena (GDR),09 AUG 1981,1198,long-jump,jumps,female,senior
@@ -1693,7 +1693,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 1687,6.84,,Helga RADTKE,16 MAY 1962,GDR,2,Potsdam (GDR),25 MAY 1984,1183,long-jump,jumps,female,senior
 1687,6.84,,Sigrid ULBRICHT,25 JUL 1958,GDR,2,Erfurt (GER),02 JUN 1984,1183,long-jump,jumps,female,senior
 1687,6.84,,Yelena SINCHUKOVA,23 JAN 1961,URS,5,Kiev (URS),23 JUN 1984,1183,long-jump,jumps,female,senior
-1687,6.84,,Natalya CHEMIDRONOVA,1959,URS,1,Kazan (URS),14 JUL 1984,1183,long-jump,jumps,female,senior
+1687,6.84,,Natalya CHERNIDRONOVA,1959,URS,1,Kazan (URS),14 JUL 1984,1183,long-jump,jumps,female,senior
 1687,6.84,,Helga RADTKE,16 MAY 1962,GDR,1,Senftenberg (GER) (i),09 FEB 1985,1183,long-jump,jumps,female,senior
 1687,6.84,,Yelena SINCHUKOVA,23 JAN 1961,URS,4,Kishinev (URS) (i),16 FEB 1985,1183,long-jump,jumps,female,senior
 1687,6.84,,Carol LEWIS,08 AUG 1963,USA,1,Budapest (HUN),11 AUG 1986,1183,long-jump,jumps,female,senior
@@ -2059,7 +2059,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 1919,6.82,+0.2,Fátima DIAME,22 SEP 1996,ESP,1,"Pistes d'atletisme Gaetà Huguet, Castellón (ESP)",30 MAY 2025,1178,long-jump,jumps,female,senior
 1919,6.82,+0.5,Jasmine MOORE,01 MAY 2001,USA,5,"Hayward Field, Eugene, OR (USA)",31 JUL 2025,1178,long-jump,jumps,female,senior
 1919,6.82,+1.9,Malaika MIHAMBO,03 FEB 1994,GER,1,"Heinz-Steyer-Stadion, Dresden (GER)",03 AUG 2025,1178,long-jump,jumps,female,senior
-1919,6.82,-0.1,Hilary KPATCHA,05 MAY 1998,FRA,4f1,"National Stadium, Tokyo (JPN)",14 SEP 2025,1178,long-jump,jumps,female,senior
+1919,6.82,-0.1,Hilary KPATCHA,05 MAY 1998,FRA,4,"National Stadium, Tokyo (JPN)",14 SEP 2025,1178,long-jump,jumps,female,senior
 2062,6.81,,Jennifer INNISS,21 NOV 1959,GUY,,"Indianapolis, IN (USA)",18 JUN 1983,1176,long-jump,jumps,female,senior
 2062,6.81,+1.4,Zsuzsa VANYEK,18 JAN 1960,HUN,6,"Olympiastadion, Helsinki (FIN)",14 AUG 1983,1176,long-jump,jumps,female,senior
 2062,6.81,,Eva MURKOVÁ,29 MAY 1962,TCH,2,London (GBR),21 AUG 1983,1176,long-jump,jumps,female,senior

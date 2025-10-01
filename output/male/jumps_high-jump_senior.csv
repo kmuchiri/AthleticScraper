@@ -402,7 +402,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 243,2.36,,Hamish KERR,17 AUG 1996,NZL,1,"Glasgow Arena, Glasgow (GBR) (i)",03 MAR 2024,1233,high-jump,jumps,male,senior
 243,2.36,,Hamish KERR,17 AUG 1996,NZL,1,"Stade de France, Paris (FRA)",10 AUG 2024,1233,high-jump,jumps,male,senior
 243,2.36,,Shelby MCEWEN,06 APR 1996,USA,2,"Stade de France, Paris (FRA)",10 AUG 2024,1233,high-jump,jumps,male,senior
-243,2.36,,Hamish KERR,17 AUG 1996,NZL,1f1,"National Stadium, Tokyo (JPN)",16 SEP 2025,1233,high-jump,jumps,male,senior
+243,2.36,,Hamish KERR,17 AUG 1996,NZL,1,"National Stadium, Tokyo (JPN)",16 SEP 2025,1233,high-jump,jumps,male,senior
 405,2.35,,Vladimir YASHCHENKO,12 JAN 1959,URS,1,"Palazzo dello Sport, Milano (ITA) (i)",12 MAR 1978,1224,high-jump,jumps,male,senior
 405,2.35,,Jacek WSZOLA,30 DEC 1956,POL,1,Eberstadt (GER),25 MAY 1980,1224,high-jump,jumps,male,senior
 405,2.35,,Dietmar MÖGENBURG,15 AUG 1961,FRG,1,Rehlingen (GER),26 MAY 1980,1224,high-jump,jumps,male,senior
@@ -939,7 +939,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 616,2.34,,Gianmarco TAMBERI,01 JUN 1992,ITA,1,"Boudewijnstadion, Bruxelles (BEL)",14 SEP 2024,1215,high-jump,jumps,male,senior
 616,2.34,,Oleh DOROSHCHUK,04 JUL 2001,UKR,1,"Omnisport, Apeldoorn (NED) (i)",08 MAR 2025,1215,high-jump,jumps,male,senior
 616,2.34,,Sanghyeok WOO,23 APR 1996,KOR,1,"Stade Louis II, Monaco (MON)",11 JUL 2025,1215,high-jump,jumps,male,senior
-616,2.34,,Sanghyeok WOO,23 APR 1996,KOR,2f1,"National Stadium, Tokyo (JPN)",16 SEP 2025,1215,high-jump,jumps,male,senior
+616,2.34,,Sanghyeok WOO,23 APR 1996,KOR,2,"National Stadium, Tokyo (JPN)",16 SEP 2025,1215,high-jump,jumps,male,senior
 942,2.33,,Vladimir YASHCHENKO,12 JAN 1959,URS,1,"Richmond, VA (USA)",03 JUL 1977,1206,high-jump,jumps,male,senior
 942,2.33,,Dietmar MÖGENBURG,15 AUG 1961,FRG,1,Hannover (GER),16 AUG 1980,1206,high-jump,jumps,male,senior
 942,2.33,,Jeff WOODARD,14 NOV 1958,USA,1,"New York, NY (USA) (i)",27 FEB 1981,1206,high-jump,jumps,male,senior
@@ -2758,8 +2758,8 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 1885,2.31,,Stefano SOTTILE,26 JAN 1998,ITA,1,"TSG-Halle, Weinheim (GER) (i)",07 FEB 2025,1188,high-jump,jumps,male,senior
 1885,2.31,,Sanghyeok WOO,23 APR 1996,KOR,1,"Městská sportovní hala, Hustopeče (CZE) (i)",08 FEB 2025,1188,high-jump,jumps,male,senior
 1885,2.31,,Sanghyeok WOO,23 APR 1996,KOR,1,"Sports Training Center, Nanjing (CHN) (i)",21 MAR 2025,1188,high-jump,jumps,male,senior
-1885,2.31,,Jan ŠTEFELA,20 APR 2001,CZE,3f1,"National Stadium, Tokyo (JPN)",16 SEP 2025,1188,high-jump,jumps,male,senior
-1885,2.31,,Oleh DOROSHCHUK,04 JUL 2001,UKR,4f1,"National Stadium, Tokyo (JPN)",16 SEP 2025,1188,high-jump,jumps,male,senior
+1885,2.31,,Jan ŠTEFELA,20 APR 2001,CZE,3,"National Stadium, Tokyo (JPN)",16 SEP 2025,1188,high-jump,jumps,male,senior
+1885,2.31,,Oleh DOROSHCHUK,04 JUL 2001,UKR,4,"National Stadium, Tokyo (JPN)",16 SEP 2025,1188,high-jump,jumps,male,senior
 2762,2.30,,Dwight STONES,06 DEC 1953,USA,1,München (GER),11 JUL 1973,1179,high-jump,jumps,male,senior
 2762,2.30,,Aleksandr GRIGORYEV,07 OCT 1955,URS,1,Riga (LAT),05 JUN 1977,1179,high-jump,jumps,male,senior
 2762,2.30,,Rolf BEILSCHMIDT,08 AUG 1953,GDR,1,Koblenz (GER),06 JUL 1977,1179,high-jump,jumps,male,senior
@@ -6711,9 +6711,9 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 4937,2.28,,Oleh DOROSHCHUK,04 JUL 2001,UKR,1,"Stadion SKIF, Lviv (UKR)",09 AUG 2025,1161,high-jump,jumps,male,senior
 4937,2.28,,JuVaughn HARRISON,30 APR 1999,USA,2,"Stadion Śląski, Chorzów (POL)",16 AUG 2025,1161,high-jump,jumps,male,senior
 4937,2.28,,Oleh DOROSHCHUK,04 JUL 2001,UKR,3,"Stadion Śląski, Chorzów (POL)",16 AUG 2025,1161,high-jump,jumps,male,senior
-4937,2.28,,JuVaughn HARRISON,30 APR 1999,USA,5f1,"National Stadium, Tokyo (JPN)",16 SEP 2025,1161,high-jump,jumps,male,senior
-4937,2.28,,Sarvesh Anil KUSHARE,17 JUN 1995,IND,6f1,"National Stadium, Tokyo (JPN)",16 SEP 2025,1161,high-jump,jumps,male,senior
-4937,2.28,,Tyus WILSON,05 NOV 2002,USA,6f1,"National Stadium, Tokyo (JPN)",16 SEP 2025,1161,high-jump,jumps,male,senior
+4937,2.28,,JuVaughn HARRISON,30 APR 1999,USA,5,"National Stadium, Tokyo (JPN)",16 SEP 2025,1161,high-jump,jumps,male,senior
+4937,2.28,,Sarvesh Anil KUSHARE,17 JUN 1995,IND,6,"National Stadium, Tokyo (JPN)",16 SEP 2025,1161,high-jump,jumps,male,senior
+4937,2.28,,Tyus WILSON,05 NOV 2002,USA,6,"National Stadium, Tokyo (JPN)",16 SEP 2025,1161,high-jump,jumps,male,senior
 6716,2.27,,Valeriy BRUMEL,14 APR 1942,URS,1,Moskva (URS),29 SEP 1962,1152,high-jump,jumps,male,senior
 6716,2.27,,Dwight STONES,06 DEC 1953,USA,1,"Oklahoma City, OK (USA) (i)",15 FEB 1975,1152,high-jump,jumps,male,senior
 6716,2.27,,Tom WOODS,07 APR 1953,USA,1,"Eugene, OR (USA)",20 JUN 1975,1152,high-jump,jumps,male,senior

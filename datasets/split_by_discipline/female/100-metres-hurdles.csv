@@ -10,7 +10,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 9,12.24,0.9,Yordanka DONKOVA,1961-09-28,BUL,1sf,Stara Zagora (BUL),1988-08-28,1255.0,100-metres-hurdles,hurdles,female,senior,100-metres-hurdles,track,12.24,BUL,26.0,1988
 9,12.24,0.7,Kendra HARRISON,1992-09-18,USA,1,"Hayward Field, Eugene, OR (USA)",2016-05-28,1255.0,100-metres-hurdles,hurdles,female,senior,100-metres-hurdles,track,12.24,USA,23.0,2016
 9,12.24,0.7,Tobi AMUSAN,1997-04-23,NGR,2,"Stade Charléty, Paris (FRA)",2025-06-20,1255.0,100-metres-hurdles,hurdles,female,senior,100-metres-hurdles,track,12.24,FRA,28.0,2025
-9,12.24,-0.1,Ditaji KAMBUNDJI,2002-05-20,SUI,1f1,"National Stadium, Tokyo (JPN)",2025-09-15,1255.0,100-metres-hurdles,hurdles,female,senior,100-metres-hurdles,track,12.24,JPN,23.0,2025
+9,12.24,-0.1,Ditaji KAMBUNDJI,2002-05-20,SUI,1,"National Stadium, Tokyo (JPN)",2025-09-15,1255.0,100-metres-hurdles,hurdles,female,senior,100-metres-hurdles,track,12.24,JPN,23.0,2025
 9,12.24,1.4,Tonea MARSHALL,1998-10-17,USA,2,"Stadion Śląski, Chorzów (POL)",2025-08-16,1255.0,100-metres-hurdles,hurdles,female,senior,100-metres-hurdles,track,12.24,POL,26.0,2025
 9,12.24,-0.4,Ackera NUGENT,2002-04-29,JAM,1,"Stadio Olimpico, Roma (ITA)",2024-08-30,1257.0,100-metres-hurdles,hurdles,female,senior,100-metres-hurdles,track,12.24,ITA,22.0,2024
 9,12.24,0.1,Kendra HARRISON,1992-09-18,USA,1h3,"Nemzeti Atlétikai Központ, Budapest (HUN)",2023-08-22,1255.0,100-metres-hurdles,hurdles,female,senior,100-metres-hurdles,track,12.24,HUN,30.0,2023
@@ -34,7 +34,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 33,12.29,-0.3,Tobi AMUSAN,1997-04-23,NGR,1,"Letzigrund, Zürich (SUI)",2022-09-08,1249.0,100-metres-hurdles,hurdles,female,senior,100-metres-hurdles,track,12.29,SUI,25.0,2022
 33,12.29,-0.5,Ackera NUGENT,2002-04-29,JAM,1,"Stadion Śląski, Chorzów (POL)",2024-08-25,1251.0,100-metres-hurdles,hurdles,female,senior,100-metres-hurdles,track,12.29,POL,22.0,2024
 33,12.29,-0.4,Yordanka DONKOVA,1961-09-28,BUL,1,Köln (GER),1986-08-17,1250.0,100-metres-hurdles,hurdles,female,senior,100-metres-hurdles,track,12.29,GER,24.0,1986
-33,12.29,-0.1,Tobi AMUSAN,1997-04-23,NGR,2f1,"National Stadium, Tokyo (JPN)",2025-09-15,1248.0,100-metres-hurdles,hurdles,female,senior,100-metres-hurdles,track,12.29,JPN,28.0,2025
+33,12.29,-0.1,Tobi AMUSAN,1997-04-23,NGR,2,"National Stadium, Tokyo (JPN)",2025-09-15,1248.0,100-metres-hurdles,hurdles,female,senior,100-metres-hurdles,track,12.29,JPN,28.0,2025
 37,12.3,0.6,Nia ALI,1988-10-23,USA,1,"Stade Louis II, Monaco (MON)",2023-07-21,1246.0,100-metres-hurdles,hurdles,female,senior,100-metres-hurdles,track,12.3,MON,34.0,2023
 37,12.3,-0.6,Ackera NUGENT,2002-04-29,JAM,1,"Letzigrund, Zürich (SUI)",2025-08-28,1249.0,100-metres-hurdles,hurdles,female,senior,100-metres-hurdles,track,12.3,SUI,23.0,2025
 37,12.3,0.7,Ackera NUGENT,2002-04-29,JAM,3,"Stade Charléty, Paris (FRA)",2025-06-20,1246.0,100-metres-hurdles,hurdles,female,senior,100-metres-hurdles,track,12.3,FRA,23.0,2025
@@ -65,7 +65,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 64,12.34,-0.5,Ginka ZAGORCHEVA,1958-04-12,BUL,1,"Stadio Olimpico, Roma (ITA)",1987-09-04,1244.0,100-metres-hurdles,hurdles,female,senior,100-metres-hurdles,track,12.34,ITA,29.0,1987
 64,12.34,0.6,Grace STARK,2001-05-06,USA,1h1,"Hayward Field, Eugene, OR (USA)",2025-08-02,1241.0,100-metres-hurdles,hurdles,female,senior,100-metres-hurdles,track,12.34,USA,24.0,2025
 64,12.34,-0.6,Ackera NUGENT,2002-04-29,JAM,1h1,"Stadion Śląski, Chorzów (POL)",2025-08-16,1244.0,100-metres-hurdles,hurdles,female,senior,100-metres-hurdles,track,12.34,POL,23.0,2025
-64,12.34,-0.1,Grace STARK,2001-05-06,USA,3f1,"National Stadium, Tokyo (JPN)",2025-09-15,1241.0,100-metres-hurdles,hurdles,female,senior,100-metres-hurdles,track,12.34,JPN,24.0,2025
+64,12.34,-0.1,Grace STARK,2001-05-06,USA,3,"National Stadium, Tokyo (JPN)",2025-09-15,1241.0,100-metres-hurdles,hurdles,female,senior,100-metres-hurdles,track,12.34,JPN,24.0,2025
 64,12.34,1.9,Sharika NELVIS,1990-05-10,USA,1h3,"Hayward Field, Eugene, OR (USA)",2015-06-26,1241.0,100-metres-hurdles,hurdles,female,senior,100-metres-hurdles,track,12.34,USA,25.0,2015
 64,12.34,1.2,Brianna MCNEAL,1991-08-18,USA,1,"Hayward Field, Eugene, OR (USA)",2016-07-08,1241.0,100-metres-hurdles,hurdles,female,senior,100-metres-hurdles,track,12.34,USA,24.0,2016
 64,12.34,0.3,Nia ALI,1988-10-23,USA,1,"Khalifa International Stadium, Doha (QAT)",2019-10-06,1241.0,100-metres-hurdles,hurdles,female,senior,100-metres-hurdles,track,12.34,QAT,30.0,2019
@@ -262,7 +262,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 246,12.44,0.5,Jasmine CAMACHO-QUINN,1996-08-21,PUR,1,"FBK Stadium, Hengelo (NED)",2021-06-06,1227.0,100-metres-hurdles,hurdles,female,senior,100-metres-hurdles,track,12.44,NED,24.0,2021
 246,12.44,0.2,Danielle WILLIAMS,1992-09-14,JAM,2sf3,"National Stadium, Tokyo (JPN)",2025-09-15,1227.0,100-metres-hurdles,hurdles,female,senior,100-metres-hurdles,track,12.44,JPN,33.0,2025
 246,12.44,-0.5,Ditaji KAMBUNDJI,2002-05-20,SUI,2sf1,"National Stadium, Tokyo (JPN)",2025-09-15,1230.0,100-metres-hurdles,hurdles,female,senior,100-metres-hurdles,track,12.44,JPN,23.0,2025
-246,12.44,-0.1,Masai RUSSELL,2000-06-17,USA,4f1,"National Stadium, Tokyo (JPN)",2025-09-15,1227.0,100-metres-hurdles,hurdles,female,senior,100-metres-hurdles,track,12.44,JPN,25.0,2025
+246,12.44,-0.1,Masai RUSSELL,2000-06-17,USA,4,"National Stadium, Tokyo (JPN)",2025-09-15,1227.0,100-metres-hurdles,hurdles,female,senior,100-metres-hurdles,track,12.44,JPN,25.0,2025
 246,12.44,-0.6,Danielle WILLIAMS,1992-09-14,JAM,4,"Letzigrund, Zürich (SUI)",2025-08-28,1230.0,100-metres-hurdles,hurdles,female,senior,100-metres-hurdles,track,12.44,SUI,32.0,2025
 246,12.44,0.4,Glory ALOZIE,1977-12-30,NGR,1,"Stade Louis II, Monaco (MON)",1998-08-08,1227.0,100-metres-hurdles,hurdles,female,senior,100-metres-hurdles,track,12.44,MON,20.0,1998
 246,12.44,0.0,Glory ALOZIE,1977-12-30,NGR,1,Bruxelles (BEL),1998-08-28,1227.0,100-metres-hurdles,hurdles,female,senior,100-metres-hurdles,track,12.44,BEL,20.0,1998
@@ -470,8 +470,8 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 424,12.49,-0.9,Nadine VISSER,1995-02-09,NED,4,"Stade Olympique de la Pontaise, Lausanne (SUI)",2024-08-22,1225.0,100-metres-hurdles,hurdles,female,senior,100-metres-hurdles,track,12.49,SUI,29.0,2024
 424,12.49,0.1,Ditaji KAMBUNDJI,2002-05-20,SUI,1f1,"Stadion Allmend, Luzern (SUI)",2025-07-15,1220.0,100-metres-hurdles,hurdles,female,senior,100-metres-hurdles,track,12.49,SUI,23.0,2025
 424,12.49,1.4,Nadine VISSER,1995-02-09,NED,3,"Olympiastadion, Stockholm (SWE)",2025-06-15,1220.0,100-metres-hurdles,hurdles,female,senior,100-metres-hurdles,track,12.49,SWE,30.0,2025
-424,12.49,-0.1,Pia SKRZYSZOWSKA,2001-04-20,POL,5f1,"National Stadium, Tokyo (JPN)",2025-09-15,1220.0,100-metres-hurdles,hurdles,female,senior,100-metres-hurdles,track,12.49,JPN,24.0,2025
-424,12.49,-0.1,Devynne CHARLTON,1995-11-26,BAH,6f1,"National Stadium, Tokyo (JPN)",2025-09-15,1220.0,100-metres-hurdles,hurdles,female,senior,100-metres-hurdles,track,12.49,JPN,29.0,2025
+424,12.49,-0.1,Pia SKRZYSZOWSKA,2001-04-20,POL,5,"National Stadium, Tokyo (JPN)",2025-09-15,1220.0,100-metres-hurdles,hurdles,female,senior,100-metres-hurdles,track,12.49,JPN,24.0,2025
+424,12.49,-0.1,Devynne CHARLTON,1995-11-26,BAH,6,"National Stadium, Tokyo (JPN)",2025-09-15,1220.0,100-metres-hurdles,hurdles,female,senior,100-metres-hurdles,track,12.49,JPN,29.0,2025
 424,12.49,-0.6,Tonea MARSHALL,1998-10-17,USA,6,"Letzigrund, Zürich (SUI)",2025-08-28,1223.0,100-metres-hurdles,hurdles,female,senior,100-metres-hurdles,track,12.49,SUI,26.0,2025
 475,12.5,0.0,Vera AKIMOVA,1959-06-05,URS,1,Sochi (URS),1984-05-19,1218.0,100-metres-hurdles,hurdles,female,senior,100-metres-hurdles,track,12.5,URS,24.0,1984
 475,12.5,0.7,Sally MCLELLAN,1986-09-19,AUS,1,"Stade Louis II, Monaco (MON)",2009-07-28,1218.0,100-metres-hurdles,hurdles,female,senior,100-metres-hurdles,track,12.5,MON,22.0,2009
@@ -701,7 +701,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 647,12.53,0.8,Grace STARK,2001-05-06,USA,1,"Percy Beard Track, Gainesville, FL (USA)",2024-05-11,1214.0,100-metres-hurdles,hurdles,female,senior,100-metres-hurdles,track,12.53,USA,23.0,2024
 647,12.53,1.1,Janeek BROWN,1998-05-14,JAM,1sf2,"Austin, TX (USA)",2019-06-06,1214.0,100-metres-hurdles,hurdles,female,senior,100-metres-hurdles,track,12.53,USA,21.0,2019
 647,12.53,-0.2,Pia SKRZYSZOWSKA,2001-04-20,POL,3sf2,"National Stadium, Tokyo (JPN)",2025-09-15,1215.0,100-metres-hurdles,hurdles,female,senior,100-metres-hurdles,track,12.53,JPN,24.0,2025
-647,12.53,-0.1,Danielle WILLIAMS,1992-09-14,JAM,7f1,"National Stadium, Tokyo (JPN)",2025-09-15,1214.0,100-metres-hurdles,hurdles,female,senior,100-metres-hurdles,track,12.53,JPN,33.0,2025
+647,12.53,-0.1,Danielle WILLIAMS,1992-09-14,JAM,7,"National Stadium, Tokyo (JPN)",2025-09-15,1214.0,100-metres-hurdles,hurdles,female,senior,100-metres-hurdles,track,12.53,JPN,33.0,2025
 647,12.53,0.0,Tobi AMUSAN,1997-04-23,NGR,1h6,"National Stadium, Tokyo (JPN)",2025-09-14,1214.0,100-metres-hurdles,hurdles,female,senior,100-metres-hurdles,track,12.53,JPN,28.0,2025
 647,12.53,0.2,Masai RUSSELL,2000-06-17,USA,1h1,"National Stadium, Tokyo (JPN)",2025-09-14,1214.0,100-metres-hurdles,hurdles,female,senior,100-metres-hurdles,track,12.53,JPN,25.0,2025
 647,12.53,-0.5,Masai RUSSELL,2000-06-17,USA,2,"Stade Olympique de la Pontaise, Lausanne (SUI)",2025-08-20,1217.0,100-metres-hurdles,hurdles,female,senior,100-metres-hurdles,track,12.53,SUI,25.0,2025
@@ -908,7 +908,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 843,12.56,-0.5,Maribel Vanessa CAICEDO,1998-04-01,ECU,2,"Hayward Field, Eugene, OR (USA)",2024-06-08,1213.0,100-metres-hurdles,hurdles,female,senior,100-metres-hurdles,track,12.56,USA,26.0,2024
 843,12.56,0.7,Brianna MCNEAL,1991-08-18,USA,1h5,"Hayward Field, Eugene, OR (USA)",2016-07-07,1210.0,100-metres-hurdles,hurdles,female,senior,100-metres-hurdles,track,12.56,USA,24.0,2016
 843,12.56,-0.4,Brianna MCNEAL,1991-08-18,USA,1,"Bislett Stadion, Oslo (NOR)",2016-06-09,1212.0,100-metres-hurdles,hurdles,female,senior,100-metres-hurdles,track,12.56,NOR,24.0,2016
-843,12.56,-0.1,Nadine VISSER,1995-02-09,NED,8f1,"National Stadium, Tokyo (JPN)",2025-09-15,1210.0,100-metres-hurdles,hurdles,female,senior,100-metres-hurdles,track,12.56,JPN,30.0,2025
+843,12.56,-0.1,Nadine VISSER,1995-02-09,NED,8,"National Stadium, Tokyo (JPN)",2025-09-15,1210.0,100-metres-hurdles,hurdles,female,senior,100-metres-hurdles,track,12.56,JPN,30.0,2025
 843,12.56,0.7,Christina CLEMONS,1990-05-29,USA,7,"Hayward Field, Eugene, OR (USA)",2025-08-02,1210.0,100-metres-hurdles,hurdles,female,senior,100-metres-hurdles,track,12.56,USA,35.0,2025
 843,12.56,-1.1,Nadine VISSER,1995-02-09,NED,3,"Stade Louis II, Monaco (MON)",2025-07-11,1216.0,100-metres-hurdles,hurdles,female,senior,100-metres-hurdles,track,12.56,MON,30.0,2025
 843,12.56,2.0,Alaysha JOHNSON,1996-07-20,USA,6,"Ansin Sports Complex, Miramar, FL (USA)",2025-05-02,1210.0,100-metres-hurdles,hurdles,female,senior,100-metres-hurdles,track,12.56,USA,28.0,2025

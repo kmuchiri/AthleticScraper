@@ -397,7 +397,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 243,2.36,,Mutaz Essa BARSHIM,1991-06-24,QAT,1,"Bislett Stadion, Oslo (NOR)",2018-06-07,1233.0,high-jump,jumps,male,senior,high-jump,field,2.36,NOR,26.0,2018
 243,2.36,,Mutaz Essa BARSHIM,1991-06-24,QAT,1,"Hayward Field, Eugene, OR (USA)",2018-05-26,1233.0,high-jump,jumps,male,senior,high-jump,field,2.36,USA,26.0,2018
 243,2.36,,Dzmitry NABOKAU,1996-01-20,BLR,1,Brest (BLR),2018-05-25,1233.0,high-jump,jumps,male,senior,high-jump,field,2.36,BLR,22.0,2018
-243,2.36,,Hamish KERR,1996-08-17,NZL,1f1,"National Stadium, Tokyo (JPN)",2025-09-16,1233.0,high-jump,jumps,male,senior,high-jump,field,2.36,JPN,29.0,2025
+243,2.36,,Hamish KERR,1996-08-17,NZL,1,"National Stadium, Tokyo (JPN)",2025-09-16,1233.0,high-jump,jumps,male,senior,high-jump,field,2.36,JPN,29.0,2025
 243,2.36,,Shelby MCEWEN,1996-04-06,USA,2,"Stade de France, Paris (FRA)",2024-08-10,1233.0,high-jump,jumps,male,senior,high-jump,field,2.36,FRA,28.0,2024
 243,2.36,,Hamish KERR,1996-08-17,NZL,1,"Stade de France, Paris (FRA)",2024-08-10,1233.0,high-jump,jumps,male,senior,high-jump,field,2.36,FRA,28.0,2024
 243,2.36,,Hamish KERR,1996-08-17,NZL,1,"Glasgow Arena, Glasgow (GBR) (i)",2024-03-03,1233.0,high-jump,jumps,male,senior,high-jump,field,2.36,GBR,27.0,2024
@@ -907,7 +907,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 616,2.34,,Gianmarco TAMBERI,1992-06-01,ITA,1,"Boudewijnstadion, Bruxelles (BEL)",2024-09-14,1215.0,high-jump,jumps,male,senior,high-jump,field,2.34,BEL,32.0,2024
 616,2.34,,Oleh DOROSHCHUK,2001-07-04,UKR,1,"Omnisport, Apeldoorn (NED) (i)",2025-03-08,1215.0,high-jump,jumps,male,senior,high-jump,field,2.34,NED,23.0,2025
 616,2.34,,Sanghyeok WOO,1996-04-23,KOR,1,"Stade Louis II, Monaco (MON)",2025-07-11,1215.0,high-jump,jumps,male,senior,high-jump,field,2.34,MON,29.0,2025
-616,2.34,,Sanghyeok WOO,1996-04-23,KOR,2f1,"National Stadium, Tokyo (JPN)",2025-09-16,1215.0,high-jump,jumps,male,senior,high-jump,field,2.34,JPN,29.0,2025
+616,2.34,,Sanghyeok WOO,1996-04-23,KOR,2,"National Stadium, Tokyo (JPN)",2025-09-16,1215.0,high-jump,jumps,male,senior,high-jump,field,2.34,JPN,29.0,2025
 616,2.34,,Ivan UKHOV,1986-03-29,RUS,1,Moskva (RUS) (i),2012-02-23,1215.0,high-jump,jumps,male,senior,high-jump,field,2.34,RUS,25.0,2012
 616,2.34,,Andrey SILNOV,1984-09-09,RUS,2,Moskva (RUS) (i),2012-02-23,1215.0,high-jump,jumps,male,senior,high-jump,field,2.34,RUS,27.0,2012
 616,2.34,,Erik KYNARD,1991-02-03,USA,1,"Des Moines, IA (USA)",2012-06-07,1215.0,high-jump,jumps,male,senior,high-jump,field,2.34,USA,21.0,2012
@@ -2735,8 +2735,8 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 1885,2.31,,Mikhail AKIMENKO,1995-12-06,RUS,1,"LFK CSKA, Moskva (RUS) (i)",2021-02-16,1188.0,high-jump,jumps,male,senior,high-jump,field,2.31,RUS,25.0,2021
 1885,2.31,,Sanghyeok WOO,1996-04-23,KOR,1,"Městská sportovní hala, Hustopeče (CZE) (i)",2025-02-08,1188.0,high-jump,jumps,male,senior,high-jump,field,2.31,CZE,28.0,2025
 1885,2.31,,Sanghyeok WOO,1996-04-23,KOR,1,"Sports Training Center, Nanjing (CHN) (i)",2025-03-21,1188.0,high-jump,jumps,male,senior,high-jump,field,2.31,CHN,28.0,2025
-1885,2.31,,Jan ŠTEFELA,2001-04-20,CZE,3f1,"National Stadium, Tokyo (JPN)",2025-09-16,1188.0,high-jump,jumps,male,senior,high-jump,field,2.31,JPN,24.0,2025
-1885,2.31,,Oleh DOROSHCHUK,2001-07-04,UKR,4f1,"National Stadium, Tokyo (JPN)",2025-09-16,1188.0,high-jump,jumps,male,senior,high-jump,field,2.31,JPN,24.0,2025
+1885,2.31,,Jan ŠTEFELA,2001-04-20,CZE,3,"National Stadium, Tokyo (JPN)",2025-09-16,1188.0,high-jump,jumps,male,senior,high-jump,field,2.31,JPN,24.0,2025
+1885,2.31,,Oleh DOROSHCHUK,2001-07-04,UKR,4,"National Stadium, Tokyo (JPN)",2025-09-16,1188.0,high-jump,jumps,male,senior,high-jump,field,2.31,JPN,24.0,2025
 1885,2.31,,Danil LYSENKO,1997-05-19,RUS,1,"Yunost Stadium, Irbit (RUS)",2022-08-13,1188.0,high-jump,jumps,male,senior,high-jump,field,2.31,RUS,25.0,2022
 1885,2.31,,Ilya IVANYUK,1993-03-09,ANA,,"Dinamo National Olympic Stadium, Minsk (BLR)",2022-08-18,1188.0,high-jump,jumps,male,senior,high-jump,field,2.31,BLR,29.0,2022
 1885,2.31,,Douwe AMELS,1991-09-16,NED,1,"Ataköy Arena, Istanbul (TUR) (i)",2023-03-05,1188.0,high-jump,jumps,male,senior,high-jump,field,2.31,TUR,31.0,2023
@@ -6744,9 +6744,9 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 4937,2.28,,Valeriy SEREDA,1959-06-30,URS,1,Minsk (BLR) (i),1981-03-02,1161.0,high-jump,jumps,male,senior,high-jump,field,2.28,BLR,21.0,1981
 4937,2.28,,Roland DALHÄUSER,1958-06-12,SUI,1,"Palais des Sports, Grenoble (FRA) (i)",1981-02-21,1161.0,high-jump,jumps,male,senior,high-jump,field,2.28,FRA,22.0,1981
 4937,2.28,,Carlo THRÄNHARDT,1957-07-05,FRG,2,Berlin (GER) (i),1981-02-13,1161.0,high-jump,jumps,male,senior,high-jump,field,2.28,GER,23.0,1981
-4937,2.28,,Tyus WILSON,2002-11-05,USA,6f1,"National Stadium, Tokyo (JPN)",2025-09-16,1161.0,high-jump,jumps,male,senior,high-jump,field,2.28,JPN,22.0,2025
-4937,2.28,,Sarvesh Anil KUSHARE,1995-06-17,IND,6f1,"National Stadium, Tokyo (JPN)",2025-09-16,1161.0,high-jump,jumps,male,senior,high-jump,field,2.28,JPN,30.0,2025
-4937,2.28,,JuVaughn HARRISON,1999-04-30,USA,5f1,"National Stadium, Tokyo (JPN)",2025-09-16,1161.0,high-jump,jumps,male,senior,high-jump,field,2.28,JPN,26.0,2025
+4937,2.28,,Tyus WILSON,2002-11-05,USA,6,"National Stadium, Tokyo (JPN)",2025-09-16,1161.0,high-jump,jumps,male,senior,high-jump,field,2.28,JPN,22.0,2025
+4937,2.28,,Sarvesh Anil KUSHARE,1995-06-17,IND,6,"National Stadium, Tokyo (JPN)",2025-09-16,1161.0,high-jump,jumps,male,senior,high-jump,field,2.28,JPN,30.0,2025
+4937,2.28,,JuVaughn HARRISON,1999-04-30,USA,5,"National Stadium, Tokyo (JPN)",2025-09-16,1161.0,high-jump,jumps,male,senior,high-jump,field,2.28,JPN,26.0,2025
 4937,2.28,,Oleh DOROSHCHUK,2001-07-04,UKR,3,"Stadion Śląski, Chorzów (POL)",2025-08-16,1161.0,high-jump,jumps,male,senior,high-jump,field,2.28,POL,24.0,2025
 4937,2.28,,JuVaughn HARRISON,1999-04-30,USA,2,"Stadion Śląski, Chorzów (POL)",2025-08-16,1161.0,high-jump,jumps,male,senior,high-jump,field,2.28,POL,26.0,2025
 4937,2.28,,Josef HRABAL,1958-10-18,TCH,2,Budapest (HUN),1982-08-21,1161.0,high-jump,jumps,male,senior,high-jump,field,2.28,HUN,23.0,1982

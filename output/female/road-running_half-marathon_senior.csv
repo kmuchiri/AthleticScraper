@@ -862,7 +862,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 855,1:08:18,,Tabitha WAMBUI,29 DEC 1983,KEN,1,Göteborg (SWE),18 MAY 2019,1165,half-marathon,road-running,female,senior
 855,1:08:18,,Ayinadis TESHOME,,ETH,3,Madrid (ESP),14 NOV 2021,1165,half-marathon,road-running,female,senior
 855,1:08:18,,Yitayish MEKONENE,14 MAR 2000,ETH,6,Lisboa (POR),21 NOV 2021,1165,half-marathon,road-running,female,senior
-855,1:08:18,,Gladys JEMAIYO,1994,KEN,1,Breda (NED),02 OCT 2022,1165,half-marathon,road-running,female,senior
+855,1:08:18,,Gladys JEMAIYO,19 MAY 1994,KEN,1,Breda (NED),02 OCT 2022,1165,half-marathon,road-running,female,senior
 855,1:08:18,,Shamilah Tekaa KIPSIROR,09 OCT 1986,KEN,5,Warszawa (POL),26 MAR 2023,1165,half-marathon,road-running,female,senior
 855,1:08:18,,Dolphine Nyaboke OMARE,26 JUL 2001,KEN,1,Gifu (JPN),23 APR 2023,1165,half-marathon,road-running,female,senior
 855,1:08:18,,Yuka ANDO,16 MAR 1994,JPN,1,Osaka (JPN),28 JAN 2024,1165,half-marathon,road-running,female,senior
@@ -1583,7 +1583,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 1574,1:09:14,,Ellie PASHLEY,10 DEC 1988,AUS,3,Sunshine Coast (AUS),04 AUG 2019,1145,half-marathon,road-running,female,senior
 1574,1:09:14,,Sakiho TSUTSUI,19 JAN 1996,JPN,2,Yamaguchi (JPN),09 FEB 2020,1145,half-marathon,road-running,female,senior
 1574,1:09:14,,Beatrice Jepchirchir CHESEREK,01 NOV 1998,KEN,6,Istanbul (TUR),30 APR 2023,1145,half-marathon,road-running,female,senior
-1574,1:09:14,,Gladys JEMAIYO,1994,KEN,2,"Atletiekstadium Gentbrugge, Gentbrugge (BEL)",10 MAR 2024,1145,half-marathon,road-running,female,senior
+1574,1:09:14,,Gladys JEMAIYO,19 MAY 1994,KEN,2,"Atletiekstadium Gentbrugge, Gentbrugge (BEL)",10 MAR 2024,1145,half-marathon,road-running,female,senior
 1574,1:09:14,,Tigist GEZAHAGN,12 MAR 2000,ETH,3,Lisboa (POR),17 MAR 2024,1145,half-marathon,road-running,female,senior
 1574,1:09:14,,Eilish MCCOLGAN,25 NOV 1990,GBR,1,London (GBR),01 SEP 2024,1145,half-marathon,road-running,female,senior
 1574,1:09:14,,Nelly JEPTOO,21 AUG 1992,KEN,3,Napoli (ITA),23 FEB 2025,1145,half-marathon,road-running,female,senior
@@ -1990,7 +1990,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 1975,1:09:38,,Katharina STEINRUCK,22 AUG 1989,GER,5,Berlin (GER),03 APR 2022,1137,half-marathon,road-running,female,senior
 1975,1:09:38,,Lucy MAWIA,1998,KEN,2,Udine (ITA),18 SEP 2022,1137,half-marathon,road-running,female,senior
 1975,1:09:38,,Shamilah Tekaa KIPSIROR,09 OCT 1986,KEN,8,Istanbul (TUR),30 APR 2023,1137,half-marathon,road-running,female,senior
-1975,1:09:38,,Gladys JEMAIYO,1994,KEN,5,Rabat (MAR),30 APR 2023,1137,half-marathon,road-running,female,senior
+1975,1:09:38,,Gladys JEMAIYO,19 MAY 1994,KEN,5,Rabat (MAR),30 APR 2023,1137,half-marathon,road-running,female,senior
 1975,1:09:38,,Sheila CHELANGAT,11 APR 1998,KEN,2,Lille (FRA),17 MAR 2024,1137,half-marathon,road-running,female,senior
 1975,1:09:38,,Carolina ROBLES,04 DEC 1991,ESP,7,Barcelona (ESP),16 FEB 2025,1137,half-marathon,road-running,female,senior
 1975,1:09:38,,Mulat TEKLE,02 DEC 2004,ETH,6,Yangzhou (CHN),30 MAR 2025,1137,half-marathon,road-running,female,senior
@@ -2474,21 +2474,22 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 2450,1:09:59,,Meseret ABEBAYAHAU,28 JUN 1998,ETH,2,Shanghai (CHN),21 APR 2024,1130,half-marathon,road-running,female,senior
 2450,1:09:59,,Juliette THOMAS,30 OCT 2000,BEL,13,Copenhagen (DEN),15 SEP 2024,1130,half-marathon,road-running,female,senior
 2450,1:09:59,,Miriam CHEBET,18 SEP 2002,KEN,6,Hong Kong (HKG),05 JAN 2025,1130,half-marathon,road-running,female,senior
-2476,1:10:00,,Lisa MARTIN,12 MAY 1960,AUS,1,Newcastle upon Tyne (GBR),21 JUN 1987,1130,half-marathon,road-running,female,senior
-2476,1:10:00,,Angelina KANANA,16 DEC 1965,KEN,1,Remich (LUX),26 SEP 1993,1130,half-marathon,road-running,female,senior
-2476,1:10:00,,Colleen DE REUCK,13 APR 1964,USA,1,"Duluth, MN (USA)",21 JUN 2003,1130,half-marathon,road-running,female,senior
-2476,1:10:00,,Machi TANAKA,21 JUL 1983,JPN,1,Inuyama (JPN),29 FEB 2004,1130,half-marathon,road-running,female,senior
-2476,1:10:00,,Teyba ERKESSO,30 OCT 1982,ETH,1,Reims (FRA),23 OCT 2005,1130,half-marathon,road-running,female,senior
-2476,1:10:00,,Philes ONGORI,19 JUL 1986,KEN,3,Sapporo (JPN),09 JUL 2006,1130,half-marathon,road-running,female,senior
-2476,1:10:00,,Yurika NAKAMURA,01 APR 1986,JPN,3,Yamaguchi (JPN),15 MAR 2009,1130,half-marathon,road-running,female,senior
-2476,1:10:00,,Georgina RONO,19 MAY 1980,KEN,1,Santa Pola (ESP),20 JAN 2013,1130,half-marathon,road-running,female,senior
-2476,1:10:00,,Mai ITO,23 MAY 1984,JPN,3,Berlin (GER),07 APR 2013,1130,half-marathon,road-running,female,senior
-2476,1:10:00,,Caroline Cheptanui KILEL,21 MAR 1981,KEN,5,"New York, NY (USA)",16 MAR 2014,1130,half-marathon,road-running,female,senior
-2476,1:10:00,,Rebeca Kangogo CHESIR,04 DEC 1992,KEN,3,Lisboa (POR),18 OCT 2015,1130,half-marathon,road-running,female,senior
-2476,1:10:00,,Bornes CHEPKIRUI,23 NOV 1986,KEN,5,København (DEN),18 SEP 2016,1130,half-marathon,road-running,female,senior
-2476,1:10:00,,Meskerem AMARE,01 OCT 1997,ETH,4,Istanbul (TUR),30 APR 2017,1130,half-marathon,road-running,female,senior
-2476,1:10:00,,Birhan MHRETU,13 MAR 1999,ETH,7,Valencia (ESP),22 OCT 2017,1130,half-marathon,road-running,female,senior
-2476,1:10:00,,Diana Chemtai KIPYOKEI,05 MAY 1994,KEN,1,Guadalajara (MEX),18 FEB 2018,1130,half-marathon,road-running,female,senior
-2476,1:10:00,,Caroline NYAGA,07 OCT 1993,KEN,3,Trento (ITA),06 OCT 2019,1130,half-marathon,road-running,female,senior
-2476,1:10:00,,Nigsti HAFTU,08 JUL 1999,ETH,3,Yangzhou (CHN),16 APR 2023,1130,half-marathon,road-running,female,senior
-2476,1:10:00,,Diniya ABARAYA,28 NOV 2005,ETH,2,Madrid (ESP),06 APR 2025,1130,half-marathon,road-running,female,senior
+2450,1:09:59,,Allie BUCHALSKI,12 JAN 1995,USA,1,"Eakins Oval, Philadelphia, PA (USA)",21 SEP 2025,1130,half-marathon,road-running,female,senior
+2477,1:10:00,,Lisa MARTIN,12 MAY 1960,AUS,1,Newcastle upon Tyne (GBR),21 JUN 1987,1130,half-marathon,road-running,female,senior
+2477,1:10:00,,Angelina KANANA,16 DEC 1965,KEN,1,Remich (LUX),26 SEP 1993,1130,half-marathon,road-running,female,senior
+2477,1:10:00,,Colleen DE REUCK,13 APR 1964,USA,1,"Duluth, MN (USA)",21 JUN 2003,1130,half-marathon,road-running,female,senior
+2477,1:10:00,,Machi TANAKA,21 JUL 1983,JPN,1,Inuyama (JPN),29 FEB 2004,1130,half-marathon,road-running,female,senior
+2477,1:10:00,,Teyba ERKESSO,30 OCT 1982,ETH,1,Reims (FRA),23 OCT 2005,1130,half-marathon,road-running,female,senior
+2477,1:10:00,,Philes ONGORI,19 JUL 1986,KEN,3,Sapporo (JPN),09 JUL 2006,1130,half-marathon,road-running,female,senior
+2477,1:10:00,,Yurika NAKAMURA,01 APR 1986,JPN,3,Yamaguchi (JPN),15 MAR 2009,1130,half-marathon,road-running,female,senior
+2477,1:10:00,,Georgina RONO,19 MAY 1980,KEN,1,Santa Pola (ESP),20 JAN 2013,1130,half-marathon,road-running,female,senior
+2477,1:10:00,,Mai ITO,23 MAY 1984,JPN,3,Berlin (GER),07 APR 2013,1130,half-marathon,road-running,female,senior
+2477,1:10:00,,Caroline Cheptanui KILEL,21 MAR 1981,KEN,5,"New York, NY (USA)",16 MAR 2014,1130,half-marathon,road-running,female,senior
+2477,1:10:00,,Rebeca Kangogo CHESIR,04 DEC 1992,KEN,3,Lisboa (POR),18 OCT 2015,1130,half-marathon,road-running,female,senior
+2477,1:10:00,,Bornes CHEPKIRUI,23 NOV 1986,KEN,5,København (DEN),18 SEP 2016,1130,half-marathon,road-running,female,senior
+2477,1:10:00,,Meskerem AMARE,01 OCT 1997,ETH,4,Istanbul (TUR),30 APR 2017,1130,half-marathon,road-running,female,senior
+2477,1:10:00,,Birhan MHRETU,13 MAR 1999,ETH,7,Valencia (ESP),22 OCT 2017,1130,half-marathon,road-running,female,senior
+2477,1:10:00,,Diana Chemtai KIPYOKEI,05 MAY 1994,KEN,1,Guadalajara (MEX),18 FEB 2018,1130,half-marathon,road-running,female,senior
+2477,1:10:00,,Caroline NYAGA,07 OCT 1993,KEN,3,Trento (ITA),06 OCT 2019,1130,half-marathon,road-running,female,senior
+2477,1:10:00,,Nigsti HAFTU,08 JUL 1999,ETH,3,Yangzhou (CHN),16 APR 2023,1130,half-marathon,road-running,female,senior
+2477,1:10:00,,Diniya ABARAYA,28 NOV 2005,ETH,2,Madrid (ESP),06 APR 2025,1130,half-marathon,road-running,female,senior

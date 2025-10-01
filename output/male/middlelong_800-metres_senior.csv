@@ -26,11 +26,11 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 25,1:41.77,,Joaquim CRUZ,12 MAR 1963,BRA,1,Köln (GER),26 AUG 1984,1274,800-metres,middlelong,male,senior
 26,1:41.83,,Wilson KIPKETER,12 DEC 1972,DEN,1,Rieti (ITA),01 SEP 1996,1272,800-metres,middlelong,male,senior
 27,1:41.86,,Marco AROP,20 SEP 1998,CAN,1,"Stadion Śląski, Chorzów (POL)",25 AUG 2024,1271,800-metres,middlelong,male,senior
-27,1:41.86,,Emmanuel WANYONYI,01 AUG 2004,KEN,1f1,"National Stadium, Tokyo (JPN)",20 SEP 2025,1271,800-metres,middlelong,male,senior
+27,1:41.86,,Emmanuel WANYONYI,01 AUG 2004,KEN,1,"National Stadium, Tokyo (JPN)",20 SEP 2025,1271,800-metres,middlelong,male,senior
 29,1:41.89,,Nijel AMOS,15 MAR 1994,BOT,1,"Stade Louis II, Monaco (MON)",12 JUL 2019,1270,800-metres,middlelong,male,senior
-30,1:41.90,,Djamel SEDJATI,03 MAY 1999,ALG,2f1,"National Stadium, Tokyo (JPN)",20 SEP 2025,1270,800-metres,middlelong,male,senior
+30,1:41.90,,Djamel SEDJATI,03 MAY 1999,ALG,2,"National Stadium, Tokyo (JPN)",20 SEP 2025,1270,800-metres,middlelong,male,senior
 31,1:41.95,,Emmanuel WANYONYI,01 AUG 2004,KEN,1,"Olympiastadion, Stockholm (SWE)",15 JUN 2025,1268,800-metres,middlelong,male,senior
-31,1:41.95,,Marco AROP,20 SEP 1998,CAN,3f1,"National Stadium, Tokyo (JPN)",20 SEP 2025,1268,800-metres,middlelong,male,senior
+31,1:41.95,,Marco AROP,20 SEP 1998,CAN,3,"National Stadium, Tokyo (JPN)",20 SEP 2025,1268,800-metres,middlelong,male,senior
 33,1:42.00,,Emmanuel WANYONYI,01 AUG 2004,KEN,1,"Olympic Stadium, London (GBR)",19 JUL 2025,1267,800-metres,middlelong,male,senior
 34,1:42.01,,David RUDISHA,17 DEC 1988,KEN,1f1,Rieti (ITA),06 SEP 2009,1266,800-metres,middlelong,male,senior
 34,1:42.01,,Josh HOEY,01 NOV 1999,USA,2,"Stade Louis II, Monaco (MON)",11 JUL 2025,1266,800-metres,middlelong,male,senior
@@ -46,12 +46,12 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 45,1:42.14,,Nijel AMOS,15 MAR 1994,BOT,1,"Stade Louis II, Monaco (MON)",20 JUL 2018,1262,800-metres,middlelong,male,senior
 45,1:42.14,,Gabriel TUAL,09 APR 1998,FRA,6,"Stade de France, Paris (FRA)",10 AUG 2024,1262,800-metres,middlelong,male,senior
 47,1:42.15,,David RUDISHA,17 DEC 1988,KEN,1,"Estádio Olímpico, Rio de Janeiro (BRA)",15 AUG 2016,1262,800-metres,middlelong,male,senior
-47,1:42.15,,Cian MCPHILLIPS,07 JUN 2002,IRL,4f1,"National Stadium, Tokyo (JPN)",20 SEP 2025,1262,800-metres,middlelong,male,senior
+47,1:42.15,,Cian MCPHILLIPS,07 JUN 2002,IRL,4,"National Stadium, Tokyo (JPN)",20 SEP 2025,1262,800-metres,middlelong,male,senior
 49,1:42.16,,Donavan BRAZIER,15 APR 1997,USA,1,"Hayward Field, Eugene, OR (USA)",03 AUG 2025,1262,800-metres,middlelong,male,senior
 50,1:42.17,,Wilson KIPKETER,12 DEC 1972,DEN,1,Tokyo (JPN),16 SEP 1996,1261,800-metres,middlelong,male,senior
 51,1:42.20,,Wilson KIPKETER,12 DEC 1972,DEN,1,Bruxelles (BEL),22 AUG 1997,1260,800-metres,middlelong,male,senior
 51,1:42.20,,Djamel SEDJATI,03 MAY 1999,ALG,3,"Stade Louis II, Monaco (MON)",11 JUL 2025,1260,800-metres,middlelong,male,senior
-53,1:42.21,,Mohamed ATTAOUI,26 SEP 2001,ESP,5f1,"National Stadium, Tokyo (JPN)",20 SEP 2025,1260,800-metres,middlelong,male,senior
+53,1:42.21,,Mohamed ATTAOUI,26 SEP 2001,ESP,5,"National Stadium, Tokyo (JPN)",20 SEP 2025,1260,800-metres,middlelong,male,senior
 54,1:42.22,,Marco AROP,20 SEP 1998,CAN,2,"Olympic Stadium, London (GBR)",19 JUL 2025,1260,800-metres,middlelong,male,senior
 55,1:42.23,,Abubaker KAKI,21 JUN 1989,SUD,2,"Bislett Stadion, Oslo (NOR)",04 JUN 2010,1259,800-metres,middlelong,male,senior
 56,1:42.27,,Wilson KIPKETER,12 DEC 1972,DEN,1,Bruxelles (BEL),03 SEP 1999,1258,800-metres,middlelong,male,senior
@@ -59,7 +59,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 56,1:42.27,,Djamel SEDJATI,03 MAY 1999,ALG,2,"Olympiastadion, Stockholm (SWE)",15 JUN 2025,1258,800-metres,middlelong,male,senior
 56,1:42.27,,Cooper LUTKENHAUS,19 DEC 2008,USA,2,"Hayward Field, Eugene, OR (USA)",03 AUG 2025,1258,800-metres,middlelong,male,senior
 60,1:42.28,,Sammy KOSKEI,14 MAY 1961,KEN,2,Köln (GER),26 AUG 1984,1258,800-metres,middlelong,male,senior
-61,1:42.29,,Max BURGIN,20 MAY 2002,GBR,6f1,"National Stadium, Tokyo (JPN)",20 SEP 2025,1258,800-metres,middlelong,male,senior
+61,1:42.29,,Max BURGIN,20 MAY 2002,GBR,6,"National Stadium, Tokyo (JPN)",20 SEP 2025,1258,800-metres,middlelong,male,senior
 62,1:42.30,,Gabriel TUAL,09 APR 1998,FRA,3,"Stade Olympique de la Pontaise, Lausanne (SUI)",22 AUG 2024,1257,800-metres,middlelong,male,senior
 63,1:42.32,,Wilson KIPKETER,12 DEC 1972,DEN,1,Rieti (ITA),08 SEP 2002,1257,800-metres,middlelong,male,senior
 64,1:42.33,,Sebastian COE,29 SEP 1956,GBR,1,Oslo (NOR),05 JUL 1979,1256,800-metres,middlelong,male,senior
@@ -119,12 +119,12 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 118,1:42.75,,André BUCHER,19 OCT 1976,SUI,2,Bruxelles (BEL),24 AUG 2001,1243,800-metres,middlelong,male,senior
 119,1:42.76,,Wilson KIPKETER,12 DEC 1972,DEN,1f1,Oslo (NOR),05 JUL 1996,1243,800-metres,middlelong,male,senior
 119,1:42.76,,Japheth KIMUTAI,20 DEC 1978,KEN,1,Stuttgart (GER),19 JUL 1998,1243,800-metres,middlelong,male,senior
-119,1:42.76,,Navasky ANDERSON,21 JAN 2000,JAM,7f1,"National Stadium, Tokyo (JPN)",20 SEP 2025,1243,800-metres,middlelong,male,senior
+119,1:42.76,,Navasky ANDERSON,21 JAN 2000,JAM,7,"National Stadium, Tokyo (JPN)",20 SEP 2025,1243,800-metres,middlelong,male,senior
 122,1:42.77,,Wilson KIPKETER,12 DEC 1972,DEN,1,Bruxelles (BEL),23 AUG 1996,1242,800-metres,middlelong,male,senior
 122,1:42.77,,Wilson KIPKETER,12 DEC 1972,DEN,1,"Stade Louis II, Monaco (MON)",16 AUG 1997,1242,800-metres,middlelong,male,senior
 122,1:42.77,,Bryce HOPPEL,05 SEP 1997,USA,1,"Hayward Field, Eugene, OR (USA)",30 JUN 2024,1242,800-metres,middlelong,male,senior
 122,1:42.77,,Slimane MOULA,25 FEB 1999,ALG,5,"Olympiastadion, Stockholm (SWE)",15 JUN 2025,1242,800-metres,middlelong,male,senior
-122,1:42.77,,Tshepiso MASALELA,25 MAY 1999,BOT,8f1,"National Stadium, Tokyo (JPN)",20 SEP 2025,1242,800-metres,middlelong,male,senior
+122,1:42.77,,Tshepiso MASALELA,25 MAY 1999,BOT,8,"National Stadium, Tokyo (JPN)",20 SEP 2025,1242,800-metres,middlelong,male,senior
 127,1:42.78,,Emmanuel WANYONYI,01 AUG 2004,KEN,1,"Bislett Stadion, Oslo (NOR)",12 JUN 2025,1242,800-metres,middlelong,male,senior
 128,1:42.79,,Fred ONYANCHA,25 DEC 1969,KEN,3,"Olympic Stadium, Atlanta, GA (USA)",31 JUL 1996,1242,800-metres,middlelong,male,senior
 128,1:42.79,,Wilson KIPKETER,12 DEC 1972,DEN,1,"Stadio Olimpico, Roma (ITA)",07 JUL 1999,1242,800-metres,middlelong,male,senior

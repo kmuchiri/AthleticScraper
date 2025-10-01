@@ -1,13 +1,13 @@
 rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,discipline,type,sex,age_cat,normalized_discipline,track_field,mark_numeric,venue_country,age_at_event,season
 1,47.6,,Marita KOCH,1957-02-18,GDR,1,"Bruce Stadium, Canberra (AUS)",1985-10-06,1304.0,400-metres,sprints,female,senior,400-metres,track,47.6,AUS,28.0,1985
-2,47.78,,Sydney MCLAUGHLIN-LEVRONE,1999-08-07,USA,1f1,"National Stadium, Tokyo (JPN)",2025-09-18,1296.0,400-metres,sprints,female,senior,400-metres,track,47.78,JPN,26.0,2025
-3,47.98,,Marileidy PAULINO,1996-10-25,DOM,2f1,"National Stadium, Tokyo (JPN)",2025-09-18,1288.0,400-metres,sprints,female,senior,400-metres,track,47.98,JPN,28.0,2025
+2,47.78,,Sydney MCLAUGHLIN-LEVRONE,1999-08-07,USA,1,"National Stadium, Tokyo (JPN)",2025-09-18,1296.0,400-metres,sprints,female,senior,400-metres,track,47.78,JPN,26.0,2025
+3,47.98,,Marileidy PAULINO,1996-10-25,DOM,2,"National Stadium, Tokyo (JPN)",2025-09-18,1288.0,400-metres,sprints,female,senior,400-metres,track,47.98,JPN,28.0,2025
 4,47.99,,Jarmila KRATOCHVÍLOVÁ,1951-01-26,TCH,1,"Olympiastadion, Helsinki (FIN)",1983-08-10,1288.0,400-metres,sprints,female,senior,400-metres,track,47.99,FIN,32.0,1983
 5,48.14,,Salwa Eid NASER,1998-05-23,BRN,1,"Khalifa International Stadium, Doha (QAT)",2019-10-03,1281.0,400-metres,sprints,female,senior,400-metres,track,48.14,QAT,21.0,2019
 6,48.16,,Marita KOCH,1957-02-18,GDR,1,"Olympic Stadium, Athina (GRE)",1982-09-08,1281.0,400-metres,sprints,female,senior,400-metres,track,48.16,GRE,25.0,1982
 6,48.16,,Marita KOCH,1957-02-18,GDR,1,Praha (TCH),1984-08-16,1281.0,400-metres,sprints,female,senior,400-metres,track,48.16,TCH,27.0,1984
 8,48.17,,Marileidy PAULINO,1996-10-25,DOM,1,"Stade de France, Paris (FRA)",2024-08-09,1280.0,400-metres,sprints,female,senior,400-metres,track,48.17,FRA,27.0,2024
-9,48.19,,Salwa Eid NASER,1998-05-23,BRN,3f1,"National Stadium, Tokyo (JPN)",2025-09-18,1279.0,400-metres,sprints,female,senior,400-metres,track,48.19,JPN,27.0,2025
+9,48.19,,Salwa Eid NASER,1998-05-23,BRN,3,"National Stadium, Tokyo (JPN)",2025-09-18,1279.0,400-metres,sprints,female,senior,400-metres,track,48.19,JPN,27.0,2025
 10,48.22,,Marita KOCH,1957-02-18,GDR,1,"Neckarstadion, Stuttgart (GER)",1986-08-28,1278.0,400-metres,sprints,female,senior,400-metres,track,48.22,GER,29.0,1986
 11,48.25,,Marie-José PÉREC,1968-05-09,FRA,1,"Olympic Stadium, Atlanta, GA (USA)",1996-07-29,1277.0,400-metres,sprints,female,senior,400-metres,track,48.25,USA,28.0,1996
 12,48.26,,Marita KOCH,1957-02-18,GDR,1,Dresden (GER),1984-07-27,1276.0,400-metres,sprints,female,senior,400-metres,track,48.26,GER,27.0,1984
@@ -139,7 +139,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 135,49.27,,Marita KOCH,1957-02-18,GDR,2,"Stadio Olimpico, Roma (ITA)",1981-09-06,1235.0,400-metres,sprints,female,senior,400-metres,track,49.27,ITA,24.0,1981
 135,49.27,,Sanya RICHARDS-ROSS,1985-02-26,USA,1,"Indianapolis, IN (USA)",2006-06-24,1235.0,400-metres,sprints,female,senior,400-metres,track,49.27,USA,21.0,2006
 135,49.27,,Sanya RICHARDS-ROSS,1985-02-26,USA,1,"Olympiastadion, Berlin (GER)",2007-09-16,1235.0,400-metres,sprints,female,senior,400-metres,track,49.27,GER,22.0,2007
-135,49.27,,Natalia BUKOWIECKA,1998-01-17,POL,4f1,"National Stadium, Tokyo (JPN)",2025-09-18,1235.0,400-metres,sprints,female,senior,400-metres,track,49.27,JPN,27.0,2025
+135,49.27,,Natalia BUKOWIECKA,1998-01-17,POL,4,"National Stadium, Tokyo (JPN)",2025-09-18,1235.0,400-metres,sprints,female,senior,400-metres,track,49.27,JPN,27.0,2025
 135,49.27,,Salwa Eid NASER,1998-05-23,BRN,2,"Stadion Śląski, Chorzów (POL)",2025-08-16,1235.0,400-metres,sprints,female,senior,400-metres,track,49.27,POL,27.0,2025
 141,49.28,,Marita KOCH,1957-02-18,GDR,1,Bruxelles (BEL),1986-09-05,1235.0,400-metres,sprints,female,senior,400-metres,track,49.28,BEL,29.0,1986
 141,49.28,,Chandra CHEESEBOROUGH,1959-01-10,USA,1,"Los Angeles, CA (USA)",1984-06-19,1235.0,400-metres,sprints,female,senior,400-metres,track,49.28,USA,25.0,1984
@@ -181,7 +181,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 177,49.36,,Sanya RICHARDS-ROSS,1985-02-26,USA,1,"Letzigrund, Zürich (SUI)",2007-09-07,1231.0,400-metres,sprints,female,senior,400-metres,track,49.36,SUI,22.0,2007
 177,49.36,,Marileidy PAULINO,1996-10-25,DOM,1,"Egret Stadium, Xiamen (CHN)",2023-09-02,1231.0,400-metres,sprints,female,senior,400-metres,track,49.36,CHN,26.0,2023
 177,49.36,,Britton WILSON,2000-11-13,USA,1sf2,"Mike A. Myers Stadium, Austin, TX (USA)",2023-06-08,1231.0,400-metres,sprints,female,senior,400-metres,track,49.36,USA,22.0,2023
-177,49.36,,Amber ANNING,2000-11-18,GBR,5f1,"National Stadium, Tokyo (JPN)",2025-09-18,1231.0,400-metres,sprints,female,senior,400-metres,track,49.36,JPN,24.0,2025
+177,49.36,,Amber ANNING,2000-11-18,GBR,5,"National Stadium, Tokyo (JPN)",2025-09-18,1231.0,400-metres,sprints,female,senior,400-metres,track,49.36,JPN,24.0,2025
 182,49.38,,Olga BRYZGINA,1963-06-30,URS,1,"Stadio Olimpico, Roma (ITA)",1987-08-31,1231.0,400-metres,sprints,female,senior,400-metres,track,49.38,ITA,24.0,1987
 182,49.38,,Amber ANNING,2000-11-18,GBR,2sf3,"National Stadium, Tokyo (JPN)",2025-09-16,1231.0,400-metres,sprints,female,senior,400-metres,track,49.38,JPN,24.0,2025
 182,49.38,,Marileidy PAULINO,1996-10-25,DOM,1sf1,"National Stadium, Tokyo (JPN)",2021-08-04,1231.0,400-metres,sprints,female,senior,400-metres,track,49.38,JPN,24.0,2021
@@ -235,7 +235,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 226,49.48,,Francena MCCORORY,1988-10-20,USA,1,"Sacramento, CA (USA)",2014-06-28,1226.0,400-metres,sprints,female,senior,400-metres,track,49.48,USA,25.0,2014
 226,49.48,,Natalia KACZMAREK,1998-01-17,POL,1,"Stadion Śląski, Chorzów (POL)",2023-07-16,1226.0,400-metres,sprints,female,senior,400-metres,track,49.48,POL,25.0,2023
 226,49.48,,Cathy FREEMAN,1973-02-16,AUS,1,Bruxelles (BEL),1996-08-23,1226.0,400-metres,sprints,female,senior,400-metres,track,49.48,BEL,23.0,1996
-226,49.48,,Roxana GÓMEZ,1999-01-07,CUB,6f1,"National Stadium, Tokyo (JPN)",2025-09-18,1226.0,400-metres,sprints,female,senior,400-metres,track,49.48,JPN,26.0,2025
+226,49.48,,Roxana GÓMEZ,1999-01-07,CUB,6,"National Stadium, Tokyo (JPN)",2025-09-18,1226.0,400-metres,sprints,female,senior,400-metres,track,49.48,JPN,26.0,2025
 235,49.49,,Marileidy PAULINO,1996-10-25,DOM,1,La Nucia (ESP),2022-05-21,1226.0,400-metres,sprints,female,senior,400-metres,track,49.49,ESP,25.0,2022
 235,49.49,,Henriette JÆGER,2003-06-30,NOR,3,"Letzigrund, Zürich (SUI)",2025-08-28,1226.0,400-metres,sprints,female,senior,400-metres,track,49.49,SUI,22.0,2025
 235,49.49,,Marita KOCH,1957-02-18,GDR,1,Cottbus (GER),1982-06-25,1226.0,400-metres,sprints,female,senior,400-metres,track,49.49,GER,25.0,1982
@@ -447,7 +447,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 434,49.74,,Sabine BUSCH,1962-11-21,GDR,1,Potsdam (GDR),1984-07-21,1216.0,400-metres,sprints,female,senior,400-metres,track,49.74,GDR,21.0,1984
 434,49.74,,Marita KOCH,1957-02-18,GDR,1,Potsdam (GDR),1980-07-13,1216.0,400-metres,sprints,female,senior,400-metres,track,49.74,GDR,23.0,1980
 434,49.74,,Sanya RICHARDS-ROSS,1985-02-26,USA,1,"Letzigrund, Zürich (SUI)",2008-08-29,1216.0,400-metres,sprints,female,senior,400-metres,track,49.74,SUI,23.0,2008
-434,49.74,,Henriette JÆGER,2003-06-30,NOR,7f1,"National Stadium, Tokyo (JPN)",2025-09-18,1216.0,400-metres,sprints,female,senior,400-metres,track,49.74,JPN,22.0,2025
+434,49.74,,Henriette JÆGER,2003-06-30,NOR,7,"National Stadium, Tokyo (JPN)",2025-09-18,1216.0,400-metres,sprints,female,senior,400-metres,track,49.74,JPN,22.0,2025
 434,49.74,,Mariya PINIGINA,1958-02-09,URS,3,Moskva (URS),1988-09-04,1216.0,400-metres,sprints,female,senior,400-metres,track,49.74,URS,30.0,1988
 444,49.75,,Femke BOL,2000-02-23,NED,1,"Stadion Śląski, Chorzów (POL)",2022-08-06,1216.0,400-metres,sprints,female,senior,400-metres,track,49.75,POL,22.0,2022
 444,49.75,,Amantle MONTSHO,1983-07-04,BOT,4,"Olympic Stadium, London (GBR)",2012-08-05,1216.0,400-metres,sprints,female,senior,400-metres,track,49.75,GBR,29.0,2012
@@ -762,7 +762,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 743,49.97,,Jodie WILLIAMS,1993-09-28,GBR,2sf2,"National Stadium, Tokyo (JPN)",2021-08-04,1207.0,400-metres,sprints,female,senior,400-metres,track,49.97,JPN,27.0,2021
 743,49.97,,Monique HENNAGAN,1976-05-26,USA,4,"Olympic Stadium, Athina (GRE)",2004-08-24,1207.0,400-metres,sprints,female,senior,400-metres,track,49.97,GRE,28.0,2004
 743,49.97,,Aaliyah BUTLER,2003-11-05,USA,1f2,"Virginia Beach Sports Center, Virginia Beach, VA (USA) (i)",2025-03-15,1240.0,400-metres,sprints,female,senior,400-metres,track,49.97,USA,21.0,2025
-743,49.97,,Nickisha PRYCE,2001-03-07,JAM,8f1,"National Stadium, Tokyo (JPN)",2025-09-18,1207.0,400-metres,sprints,female,senior,400-metres,track,49.97,JPN,24.0,2025
+743,49.97,,Nickisha PRYCE,2001-03-07,JAM,8,"National Stadium, Tokyo (JPN)",2025-09-18,1207.0,400-metres,sprints,female,senior,400-metres,track,49.97,JPN,24.0,2025
 743,49.97,,Nickisha PRYCE,2001-03-07,JAM,1,"National Stadium, Kingston (JAM)",2025-06-29,1207.0,400-metres,sprints,female,senior,400-metres,track,49.97,JAM,24.0,2025
 753,49.98,,Jearl MILES-CLARK,1966-09-04,USA,3,"Stade Louis II, Monaco (MON)",1999-08-04,1206.0,400-metres,sprints,female,senior,400-metres,track,49.98,MON,32.0,1999
 753,49.98,,Mariya PINIGINA,1958-02-09,URS,1h1,Praha (TCH),1984-08-16,1206.0,400-metres,sprints,female,senior,400-metres,track,49.98,TCH,26.0,1984

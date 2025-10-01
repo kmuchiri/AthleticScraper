@@ -8,7 +8,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 7,2:38:42,,Hong LIU,12 MAY 1987,CHN,,"Wajima Race Walk Course, Wajima (JPN)",16 APR 2023,1249,35-kilometres-race-walk,race-walks,female,senior
 8,2:38:49,,Margarita NIKIFOROVA,19 AUG 1998,RUS,1,Cheboksary (RUS),21 MAY 2022,1248,35-kilometres-race-walk,race-walks,female,senior
 9,2:38:59,,María PÉREZ,29 APR 1996,ESP,1,"Lázeňský Park, Poděbrady (CZE)",18 MAY 2025,1246,35-kilometres-race-walk,race-walks,female,senior
-10,2:39:01,,María PÉREZ,29 APR 1996,ESP,1f1,"National Stadium, Tokyo (JPN)",13 SEP 2025,1246,35-kilometres-race-walk,race-walks,female,senior
+10,2:39:01,,María PÉREZ,29 APR 1996,ESP,1,"National Stadium, Tokyo (JPN)",13 SEP 2025,1246,35-kilometres-race-walk,race-walks,female,senior
 11,2:39:16,,María PÉREZ,29 APR 1996,ESP,1,Lepe (ESP),30 JAN 2022,1243,35-kilometres-race-walk,race-walks,female,senior
 11,2:39:16,,Kimberly GARCÍA LEÓN,19 OCT 1993,PER,1,"Autzen Complex, Eugene, OR (USA)",22 JUL 2022,1243,35-kilometres-race-walk,race-walks,female,senior
 13,2:39:35,,Antonella PALMISANO,06 AUG 1991,ITA,2,"Lázeňský Park, Poděbrady (CZE)",18 MAY 2025,1240,35-kilometres-race-walk,race-walks,female,senior
@@ -28,13 +28,13 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 27,2:41:54,,Eleonora Anna GIORGI,14 SEP 1989,ITA,1,"EXPO 2016 Botanic Park, Aksu (TUR)",22 FEB 2025,1219,35-kilometres-race-walk,race-walks,female,senior
 28,2:41:58,,Antigoni NTRISMPIOTI,21 MAR 1984,GRE,4,"Autzen Complex, Eugene, OR (USA)",22 JUL 2022,1218,35-kilometres-race-walk,race-walks,female,senior
 29,2:41:59,,Shijie QIEYANG,11 NOV 1990,CHN,2,Huangshan (CHN),04 MAR 2023,1218,35-kilometres-race-walk,race-walks,female,senior
-30,2:42:24,,Antonella PALMISANO,06 AUG 1991,ITA,2f1,"National Stadium, Tokyo (JPN)",13 SEP 2025,1214,35-kilometres-race-walk,race-walks,female,senior
+30,2:42:24,,Antonella PALMISANO,06 AUG 1991,ITA,2,"National Stadium, Tokyo (JPN)",13 SEP 2025,1214,35-kilometres-race-walk,race-walks,female,senior
 31,2:42:27,,Raquel GONZÁLEZ,16 NOV 1989,ESP,5,"Autzen Complex, Eugene, OR (USA)",22 JUL 2022,1214,35-kilometres-race-walk,race-walks,female,senior
 32,2:42:34,,Hang YIN,07 FEB 1997,CHN,2,Hefei (CHN),29 MAR 2025,1213,35-kilometres-race-walk,race-walks,female,senior
 33,2:42:39,,Maocuo LI,20 OCT 1992,CHN,3,Huangshan (CHN),04 MAR 2023,1212,35-kilometres-race-walk,race-walks,female,senior
 34,2:42:40,,Olivia SANDERY,22 JAN 2003,AUS,1,Nomi (JPN),16 MAR 2025,1212,35-kilometres-race-walk,race-walks,female,senior
 35,2:42:41,,Hanna SHEVCHUK,18 JUL 1996,UKR,4,"Lázeňský Park, Poděbrady (CZE)",18 MAY 2025,1211,35-kilometres-race-walk,race-walks,female,senior
-36,2:42:44,,Paula Milena TORRES,17 OCT 2000,ECU,3f1,"National Stadium, Tokyo (JPN)",13 SEP 2025,1211,35-kilometres-race-walk,race-walks,female,senior
+36,2:42:44,,Paula Milena TORRES,17 OCT 2000,ECU,3,"National Stadium, Tokyo (JPN)",13 SEP 2025,1211,35-kilometres-race-walk,race-walks,female,senior
 37,2:42:45,,Laura GARCÍA-CARO,16 APR 1995,ESP,6,"Autzen Complex, Eugene, OR (USA)",22 JUL 2022,1211,35-kilometres-race-walk,race-walks,female,senior
 38,2:42:52,,Lamei YIN,21 DEC 2002,CHN,4,Huangshan (CHN),04 MAR 2023,1210,35-kilometres-race-walk,race-walks,female,senior
 39,2:43:06,,Shijie QIEYANG,11 NOV 1990,CHN,1,Dudince (SVK),23 APR 2022,1208,35-kilometres-race-walk,race-walks,female,senior
@@ -42,7 +42,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 41,2:43:19,,Kimberly GARCÍA LEÓN,19 OCT 1993,PER,2,Dudince (SVK),23 APR 2022,1206,35-kilometres-race-walk,race-walks,female,senior
 42,2:43:22,,Antigoni NTRISMPIOTI,21 MAR 1984,GRE,3,"Hősök tere, Budapest (HUN)",24 AUG 2023,1205,35-kilometres-race-walk,race-walks,female,senior
 43,2:43:25,,Quanming WU,16 NOV 2001,CHN,1,Nanjing (CHN),22 JAN 2022,1205,35-kilometres-race-walk,race-walks,female,senior
-44,2:43:29,,Li PENG,27 AUG 2002,CHN,4f1,"National Stadium, Tokyo (JPN)",13 SEP 2025,1204,35-kilometres-race-walk,race-walks,female,senior
+44,2:43:29,,Li PENG,27 AUG 2002,CHN,4,"National Stadium, Tokyo (JPN)",13 SEP 2025,1204,35-kilometres-race-walk,race-walks,female,senior
 45,2:43:43,,Eleonora Anna GIORGI,14 SEP 1989,ITA,1,Grosseto (ITA),26 JAN 2020,1202,35-kilometres-race-walk,race-walks,female,senior
 46,2:43:59,,Yelena LASHMANOVA,09 APR 1992,RUS,2,Sochi (RUS),31 JAN 2022,1199,35-kilometres-race-walk,race-walks,female,senior
 47,2:44:00,,Margarita NIKIFOROVA,19 AUG 1998,RUS,2,Sochi (RUS),18 FEB 2019,1199,35-kilometres-race-walk,race-walks,female,senior
@@ -54,7 +54,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 53,2:44:28,,Maocuo LI,20 OCT 1992,CHN,7,"Autzen Complex, Eugene, OR (USA)",22 JUL 2022,1195,35-kilometres-race-walk,race-walks,female,senior
 53,2:44:28,,Alegna GONZÁLEZ,02 JAN 1999,MEX,1,"St Anne's Park, Dublin (IRL)",13 JUL 2025,1195,35-kilometres-race-walk,race-walks,female,senior
 55,2:44:29,,Darya GOLUBECHKOVA,10 SEP 2000,RUS,3,Sochi (RUS),31 JAN 2022,1195,35-kilometres-race-walk,race-walks,female,senior
-56,2:44:37,,Katarzyna ZDZIEBŁO,28 NOV 1996,POL,5f1,"National Stadium, Tokyo (JPN)",13 SEP 2025,1194,35-kilometres-race-walk,race-walks,female,senior
+56,2:44:37,,Katarzyna ZDZIEBŁO,28 NOV 1996,POL,5,"National Stadium, Tokyo (JPN)",13 SEP 2025,1194,35-kilometres-race-walk,race-walks,female,senior
 57,2:44:40,,Viviane LYRA,29 JUL 1993,BRA,4,"Hősök tere, Budapest (HUN)",24 AUG 2023,1193,35-kilometres-race-walk,race-walks,female,senior
 58,2:44:45,,Karla Ximena SERRANO,14 APR 2004,MEX,2,"St Anne's Park, Dublin (IRL)",13 JUL 2025,1192,35-kilometres-race-walk,race-walks,female,senior
 59,2:44:50,,Antia CHAMOSA,07 OCT 1999,ESP,1,Marín (ESP),09 MAR 2025,1192,35-kilometres-race-walk,race-walks,female,senior
@@ -67,7 +67,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 66,2:45:32,,Cristina MONTESINOS,12 JUL 1994,ESP,5,"Hősök tere, Budapest (HUN)",24 AUG 2023,1185,35-kilometres-race-walk,race-walks,female,senior
 67,2:45:33,,Federica CURIAZZI,14 AUG 1992,ITA,1,Acquaviva delle Fonti (ITA),26 JAN 2025,1185,35-kilometres-race-walk,race-walks,female,senior
 68,2:45:39,,Federica CURIAZZI,14 AUG 1992,ITA,5,"Lázeňský Park, Poděbrady (CZE)",18 MAY 2025,1184,35-kilometres-race-walk,race-walks,female,senior
-69,2:45:41,,Raquel GONZÁLEZ,16 NOV 1989,ESP,6f1,"National Stadium, Tokyo (JPN)",13 SEP 2025,1184,35-kilometres-race-walk,race-walks,female,senior
+69,2:45:41,,Raquel GONZÁLEZ,16 NOV 1989,ESP,6,"National Stadium, Tokyo (JPN)",13 SEP 2025,1184,35-kilometres-race-walk,race-walks,female,senior
 70,2:45:42,,Raquel GONZÁLEZ,16 NOV 1989,ESP,2,Poděbrady (CZE),21 MAY 2023,1184,35-kilometres-race-walk,race-walks,female,senior
 71,2:45:44,,Mary Luz ANDIA,09 NOV 2000,PER,1,La Molina (PER),06 APR 2025,1183,35-kilometres-race-walk,race-walks,female,senior
 72,2:45:46,,Maocuo LI,20 OCT 1992,CHN,3,Dudince (SVK),23 APR 2022,1183,35-kilometres-race-walk,race-walks,female,senior
@@ -88,7 +88,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 87,2:46:38,,Maocuo LI,20 OCT 1992,CHN,,Milazzo (ITA),29 JAN 2023,1175,35-kilometres-race-walk,race-walks,female,senior
 88,2:46:41,,Alexandrina MIHAI,27 MAY 2003,ITA,2,Acquaviva delle Fonti (ITA),26 JAN 2025,1175,35-kilometres-race-walk,race-walks,female,senior
 89,2:46:44,,Lorena ARENAS,17 SEP 1993,COL,2,"Weinauparkstadion, Zittau (GER)",26 OCT 2024,1174,35-kilometres-race-walk,race-walks,female,senior
-89,2:46:44,,Cristina MONTESINOS,12 JUL 1994,ESP,7f1,"National Stadium, Tokyo (JPN)",13 SEP 2025,1174,35-kilometres-race-walk,race-walks,female,senior
+89,2:46:44,,Cristina MONTESINOS,12 JUL 1994,ESP,7,"National Stadium, Tokyo (JPN)",13 SEP 2025,1174,35-kilometres-race-walk,race-walks,female,senior
 91,2:46:48,,Olga CHOJECKA,30 JUN 1997,POL,8,"Hősök tere, Budapest (HUN)",24 AUG 2023,1174,35-kilometres-race-walk,race-walks,female,senior
 92,2:46:53,,Yukiko UMENO,08 JAN 2003,JPN,1,Nomi (JPN),16 MAR 2025,1173,35-kilometres-race-walk,race-walks,female,senior
 93,2:46:55,,Rebecca HENDERSON,04 JUL 2001,AUS,1,"Stromlo Forest Park, Canberra (AUS)",08 JUN 2025,1172,35-kilometres-race-walk,race-walks,female,senior
@@ -137,7 +137,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 136,2:49:38,,Lamei YIN,21 DEC 2002,CHN,2,Huangshan (CHN),23 APR 2022,1148,35-kilometres-race-walk,race-walks,female,senior
 137,2:49:39,,Federica CURIAZZI,14 AUG 1992,ITA,4,Poděbrady (CZE),21 MAY 2023,1148,35-kilometres-race-walk,race-walks,female,senior
 138,2:49:43,,Olga NIEDZIAŁEK,30 JUN 1997,POL,11,"Autzen Complex, Eugene, OR (USA)",22 JUL 2022,1147,35-kilometres-race-walk,race-walks,female,senior
-139,2:49:44,,Hanna SHEVCHUK,18 JUL 1996,UKR,8f1,"National Stadium, Tokyo (JPN)",13 SEP 2025,1147,35-kilometres-race-walk,race-walks,female,senior
+139,2:49:44,,Hanna SHEVCHUK,18 JUL 1996,UKR,8,"National Stadium, Tokyo (JPN)",13 SEP 2025,1147,35-kilometres-race-walk,race-walks,female,senior
 140,2:49:45,,Li MA,15 JAN 2000,CHN,7,Dudince (SVK),25 MAR 2023,1147,35-kilometres-race-walk,race-walks,female,senior
 141,2:49:49,,Darya GOLUBECHKOVA,10 SEP 2000,ANA,2,Cheboksary (RUS),21 MAY 2022,1146,35-kilometres-race-walk,race-walks,female,senior
 141,2:49:49,,Paula JUAREZ,30 OCT 2000,ESP,4,Marín (ESP),09 MAR 2025,1146,35-kilometres-race-walk,race-walks,female,senior
@@ -146,7 +146,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 145,2:49:55,,Antigoni NTRISMPIOTI,21 MAR 1984,GRE,1,Poděbrady (CZE),16 MAY 2021,1145,35-kilometres-race-walk,race-walks,female,senior
 146,2:49:58,,Viktória MADARÁSZ,12 MAY 1985,HUN,3,"Odeonplatz, München (GER)",16 AUG 2022,1145,35-kilometres-race-walk,race-walks,female,senior
 147,2:50:01,,Aleksandra BUSHKOVA,13 JAN 1997,RUS,3,Sochi (RUS),18 FEB 2019,1144,35-kilometres-race-walk,race-walks,female,senior
-148,2:50:03,,Rebecca HENDERSON,04 JUL 2001,AUS,9f1,"National Stadium, Tokyo (JPN)",13 SEP 2025,1144,35-kilometres-race-walk,race-walks,female,senior
+148,2:50:03,,Rebecca HENDERSON,04 JUL 2001,AUS,9,"National Stadium, Tokyo (JPN)",13 SEP 2025,1144,35-kilometres-race-walk,race-walks,female,senior
 149,2:50:04,,Antigoni NTRISMPIOTI,21 MAR 1984,GRE,1,Megara (GRE),28 FEB 2021,1144,35-kilometres-race-walk,race-walks,female,senior
 150,2:50:05,,Nadezhda MOKEYEVA,10 JAN 1996,RUS,4,Sochi (RUS),18 FEB 2019,1144,35-kilometres-race-walk,race-walks,female,senior
 151,2:50:10,,Faying MA,30 AUG 1993,CHN,5,Nanjing (CHN),22 JAN 2022,1143,35-kilometres-race-walk,race-walks,female,senior
@@ -157,7 +157,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 156,2:50:29,,Viktória MADARÁSZ,12 MAY 1985,HUN,6,Dudince (SVK),23 APR 2022,1140,35-kilometres-race-walk,race-walks,female,senior
 157,2:50:31,,Kang ZHOU,24 DEC 1989,CHN,3,Huangshan (CHN),04 MAR 2018,1140,35-kilometres-race-walk,race-walks,female,senior
 158,2:50:35,,Miyu NAITO,24 DEC 2002,JPN,1,Takahata (JPN),22 OCT 2023,1139,35-kilometres-race-walk,race-walks,female,senior
-159,2:50:37,,Kimberly GARCÍA LEÓN,19 OCT 1993,PER,10f1,"National Stadium, Tokyo (JPN)",13 SEP 2025,1139,35-kilometres-race-walk,race-walks,female,senior
+159,2:50:37,,Kimberly GARCÍA LEÓN,19 OCT 1993,PER,10,"National Stadium, Tokyo (JPN)",13 SEP 2025,1139,35-kilometres-race-walk,race-walks,female,senior
 160,2:50:39,,Magaly Beatriz BONILLA,08 FEB 1992,ECU,12,"Autzen Complex, Eugene, OR (USA)",22 JUL 2022,1139,35-kilometres-race-walk,race-walks,female,senior
 160,2:50:39,,Viktória MADARÁSZ,12 MAY 1985,HUN,7,"Lázeňský Park, Poděbrady (CZE)",18 MAY 2025,1139,35-kilometres-race-walk,race-walks,female,senior
 162,2:50:44,,Alejandra ORTEGA,08 JUL 1994,MEX,12,"Hősök tere, Budapest (HUN)",24 AUG 2023,1138,35-kilometres-race-walk,race-walks,female,senior
@@ -166,14 +166,14 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 165,2:50:57,,Viviane LYRA,29 JUL 1993,BRA,1,Asunción (PAR),14 OCT 2022,1136,35-kilometres-race-walk,race-walks,female,senior
 166,2:51:01,,Laura GARCÍA-CARO,16 APR 1995,ESP,3,Sevilla (ESP),14 FEB 2021,1135,35-kilometres-race-walk,race-walks,female,senior
 167,2:51:02,,Valeria ORTUÑO,27 MAY 1998,MEX,5,Nomi (JPN),16 MAR 2025,1135,35-kilometres-race-walk,race-walks,female,senior
-168,2:51:04,,Nicole COLOMBI,29 DEC 1995,ITA,11f1,"National Stadium, Tokyo (JPN)",13 SEP 2025,1135,35-kilometres-race-walk,race-walks,female,senior
+168,2:51:04,,Nicole COLOMBI,29 DEC 1995,ITA,11,"National Stadium, Tokyo (JPN)",13 SEP 2025,1135,35-kilometres-race-walk,race-walks,female,senior
 169,2:51:05,,Eleonora Anna GIORGI,14 SEP 1989,ITA,2,Poděbrady (CZE),16 MAY 2021,1135,35-kilometres-race-walk,race-walks,female,senior
 169,2:51:05,,Kristina LYUBUSHKINA,19 SEP 1995,RUS,3,"Avtodrom, Sochi (RUS)",13 FEB 2023,1135,35-kilometres-race-walk,race-walks,female,senior
 171,2:51:11,,Erica SENA,03 MAY 1985,BRA,,Macas (ECU),13 MAR 2021,1134,35-kilometres-race-walk,race-walks,female,senior
 172,2:51:12,,Inês HENRIQUES,01 MAY 1980,POR,13,"Autzen Complex, Eugene, OR (USA)",22 JUL 2022,1134,35-kilometres-race-walk,race-walks,female,senior
-173,2:51:15,,Hana BURZALOVÁ,03 NOV 2000,SVK,12f1,"National Stadium, Tokyo (JPN)",13 SEP 2025,1133,35-kilometres-race-walk,race-walks,female,senior
+173,2:51:15,,Hana BURZALOVÁ,03 NOV 2000,SVK,12,"National Stadium, Tokyo (JPN)",13 SEP 2025,1133,35-kilometres-race-walk,race-walks,female,senior
 174,2:51:16,,Yue LUO,13 JUL 2003,CHN,5,Hefei (CHN),29 MAR 2025,1133,35-kilometres-race-walk,race-walks,female,senior
-174,2:51:16,,Viviane LYRA,29 JUL 1993,BRA,13f1,"National Stadium, Tokyo (JPN)",13 SEP 2025,1133,35-kilometres-race-walk,race-walks,female,senior
+174,2:51:16,,Viviane LYRA,29 JUL 1993,BRA,13,"National Stadium, Tokyo (JPN)",13 SEP 2025,1133,35-kilometres-race-walk,race-walks,female,senior
 176,2:51:20,,Xiangkun CHANG,06 JUN 1998,CHN,1,Taicang (CHN),09 APR 2023,1133,35-kilometres-race-walk,race-walks,female,senior
 177,2:51:23,,Olga CHOJECKA,30 JUN 1997,POL,8,Dudince (SVK),25 MAR 2023,1132,35-kilometres-race-walk,race-walks,female,senior
 178,2:51:34,,Valeria ORTUÑO,27 MAY 1998,MEX,1,"Trolley Square, Santee, CA (USA)",12 JAN 2025,1130,35-kilometres-race-walk,race-walks,female,senior
@@ -183,7 +183,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 182,2:51:42,,Anastasiya KALASHNIKOVA,29 JUN 1997,RUS,4,"Yelena Yelesina Stadium, Chelyabinsk (RUS)",27 AUG 2022,1129,35-kilometres-race-walk,race-walks,female,senior
 182,2:51:42,,Paula Milena TORRES,17 OCT 2000,ECU,2,"Avenida Oriental, Sucúa (ECU)",22 FEB 2025,1129,35-kilometres-race-walk,race-walks,female,senior
 184,2:51:43,,Wenjing HU,16 SEP 2002,CHN,6,Huangshan (CHN),04 MAR 2023,1129,35-kilometres-race-walk,race-walks,female,senior
-184,2:51:43,,Olivia SANDERY,22 JAN 2003,AUS,14f1,"National Stadium, Tokyo (JPN)",13 SEP 2025,1129,35-kilometres-race-walk,race-walks,female,senior
+184,2:51:43,,Olivia SANDERY,22 JAN 2003,AUS,14,"National Stadium, Tokyo (JPN)",13 SEP 2025,1129,35-kilometres-race-walk,race-walks,female,senior
 186,2:51:48,,Katarzyna ZDZIEBŁO,28 NOV 1996,POL,3,Muscat (OMA),05 MAR 2022,1128,35-kilometres-race-walk,race-walks,female,senior
 187,2:51:50,,Lidia BARCELLA,21 APR 1997,ITA,3,Poděbrady (CZE),16 MAY 2021,1128,35-kilometres-race-walk,race-walks,female,senior
 187,2:51:50,,Tereza ĎURDIAKOVÁ,20 FEB 1991,CZE,1,Banská Bystrica (SVK),17 OCT 2021,1128,35-kilometres-race-walk,race-walks,female,senior
@@ -304,7 +304,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 303,2:56:20,,Anastasiya TAUSHKANOVA,25 MAR 1996,RUS,5,Sochi (RUS),31 JAN 2022,1088,35-kilometres-race-walk,race-walks,female,senior
 304,2:56:22,,Alejandra ORTEGA,08 JUL 1994,MEX,1,"St Anne's Park, Dublin (IRL)",15 DEC 2024,1088,35-kilometres-race-walk,race-walks,female,senior
 305,2:56:28,,Karla JARAMILLO,21 JAN 1997,ECU,10,Dudince (SVK),22 MAR 2025,1087,35-kilometres-race-walk,race-walks,female,senior
-305,2:56:28,,Yukiko UMENO,08 JAN 2003,JPN,15f1,"National Stadium, Tokyo (JPN)",13 SEP 2025,1087,35-kilometres-race-walk,race-walks,female,senior
+305,2:56:28,,Yukiko UMENO,08 JAN 2003,JPN,15,"National Stadium, Tokyo (JPN)",13 SEP 2025,1087,35-kilometres-race-walk,race-walks,female,senior
 307,2:56:29,,Kristina KUDINOVA,25 OCT 1998,RUS,7,Sochi (RUS),18 FEB 2019,1087,35-kilometres-race-walk,race-walks,female,senior
 308,2:56:30,,Yasury PALACIOS,26 OCT 1999,GUA,2,San Jerónimo (GUA),08 MAY 2022,1087,35-kilometres-race-walk,race-walks,female,senior
 309,2:56:34,,Valentyna MYRONCHUK,10 AUG 1994,UKR,1,Ivano-Frankivsk (UKR),14 MAR 2020,1086,35-kilometres-race-walk,race-walks,female,senior
@@ -316,7 +316,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 315,2:56:43,,Lamei YIN,21 DEC 2002,CHN,6,Hefei (CHN),29 MAR 2025,1085,35-kilometres-race-walk,race-walks,female,senior
 316,2:56:47,,Paula JUAREZ,30 OCT 2000,ESP,5,Cieza (ESP),26 FEB 2023,1084,35-kilometres-race-walk,race-walks,female,senior
 317,2:56:51,,Agnieszka ELLWARD,26 MAR 1989,POL,18,"Hősök tere, Budapest (HUN)",24 AUG 2023,1084,35-kilometres-race-walk,race-walks,female,senior
-317,2:56:51,,Hang YIN,07 FEB 1997,CHN,16f1,"National Stadium, Tokyo (JPN)",13 SEP 2025,1084,35-kilometres-race-walk,race-walks,female,senior
+317,2:56:51,,Hang YIN,07 FEB 1997,CHN,16,"National Stadium, Tokyo (JPN)",13 SEP 2025,1084,35-kilometres-race-walk,race-walks,female,senior
 319,2:56:55,,Vitória OLIVEIRA,30 AUG 1992,POR,15,Dudince (SVK),23 APR 2022,1083,35-kilometres-race-walk,race-walks,female,senior
 320,2:56:58,,Magaly Beatriz BONILLA,08 FEB 1992,ECU,4,Asunción (PAR),14 OCT 2022,1083,35-kilometres-race-walk,race-walks,female,senior
 320,2:56:58,,Cuihong XIONG,01 MAY 1998,CHN,3,Taicang (CHN),09 APR 2023,1083,35-kilometres-race-walk,race-walks,female,senior
@@ -373,7 +373,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 371,2:58:44,,Olga FIASKA,09 NOV 2001,GRE,1,Antalya (TUR),09 APR 2023,1067,35-kilometres-race-walk,race-walks,female,senior
 373,2:58:46,,Alejandra ORTEGA,08 JUL 1994,MEX,21,"Autzen Complex, Eugene, OR (USA)",22 JUL 2022,1067,35-kilometres-race-walk,race-walks,female,senior
 374,2:58:48,,Bethan DAVIES,07 NOV 1990,GBR,18,Dudince (SVK),23 APR 2022,1067,35-kilometres-race-walk,race-walks,female,senior
-375,2:58:50,,Eleonora Anna GIORGI,14 SEP 1989,ITA,17f1,"National Stadium, Tokyo (JPN)",13 SEP 2025,1066,35-kilometres-race-walk,race-walks,female,senior
+375,2:58:50,,Eleonora Anna GIORGI,14 SEP 1989,ITA,17,"National Stadium, Tokyo (JPN)",13 SEP 2025,1066,35-kilometres-race-walk,race-walks,female,senior
 376,2:58:51,,Maria MICHTA-COFFEY,23 JUN 1986,USA,22,"Autzen Complex, Eugene, OR (USA)",22 JUL 2022,1066,35-kilometres-race-walk,race-walks,female,senior
 377,2:58:55,,Yefang JI,04 MAR 1996,CHN,11,Huangshan (CHN),04 MAR 2018,1066,35-kilometres-race-walk,race-walks,female,senior
 378,2:59:00,,Elisa NEUVONEN,19 MAR 1991,FIN,10,"Odeonplatz, München (GER)",16 AUG 2022,1065,35-kilometres-race-walk,race-walks,female,senior
@@ -406,14 +406,14 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 405,2:59:56,,Karla JARAMILLO,21 JAN 1997,ECU,5,"Avenida Oriental, Sucúa (ECU)",22 FEB 2025,1057,35-kilometres-race-walk,race-walks,female,senior
 406,2:59:57,,Johana ORDÓŇEZ,12 DEC 1987,ECU,9,Muscat (OMA),05 MAR 2022,1057,35-kilometres-race-walk,race-walks,female,senior
 407,2:59:58,,Anabelly ORJUELA,24 JUL 1988,COL,23,"Hősök tere, Budapest (HUN)",24 AUG 2023,1056,35-kilometres-race-walk,race-walks,female,senior
-408,2:59:59,,Olga FIASKA,09 NOV 2001,GRE,18f1,"National Stadium, Tokyo (JPN)",13 SEP 2025,1056,35-kilometres-race-walk,race-walks,female,senior
+408,2:59:59,,Olga FIASKA,09 NOV 2001,GRE,18,"National Stadium, Tokyo (JPN)",13 SEP 2025,1056,35-kilometres-race-walk,race-walks,female,senior
 409,3:00:02,,Yuki YOSHIZUMI,07 JAN 1996,JPN,5,Nomi (JPN),16 MAR 2025,1056,35-kilometres-race-walk,race-walks,female,senior
 410,3:00:03,,Qiuye LI,02 DEC 1993,CHN,12,Huangshan (CHN),04 MAR 2018,1056,35-kilometres-race-walk,race-walks,female,senior
 411,3:00:04,,Ramandeep KAUR,30 APR 1999,IND,1,Ranchi (IND),17 APR 2022,1056,35-kilometres-race-walk,race-walks,female,senior
 411,3:00:04,,Kelly RUDDICK,19 APR 1973,AUS,1,Melbourne (AUS),15 MAY 2022,1056,35-kilometres-race-walk,race-walks,female,senior
 413,3:00:05,,Stephanie CASEY,01 AUG 1983,USA,3,"Santee, CA (USA)",15 JAN 2023,1055,35-kilometres-race-walk,race-walks,female,senior
 413,3:00:05,,Galina YAKUSHEVA,14 JUL 1988,KAZ,1,"Konyaaltı Boulvared, Antalya (TUR)",12 MAR 2023,1055,35-kilometres-race-walk,race-walks,female,senior
-415,3:00:08,,Allanah PITCHER,19 SEP 2003,AUS,19f1,"National Stadium, Tokyo (JPN)",13 SEP 2025,1055,35-kilometres-race-walk,race-walks,female,senior
+415,3:00:08,,Allanah PITCHER,19 SEP 2003,AUS,19,"National Stadium, Tokyo (JPN)",13 SEP 2025,1055,35-kilometres-race-walk,race-walks,female,senior
 416,3:00:11,,Olivia LUNDMAN,03 JAN 2003,CAN,16,Dudince (SVK),22 MAR 2025,1055,35-kilometres-race-walk,race-walks,female,senior
 417,3:00:12,,Sara VITIELLO,06 AUG 1996,ITA,3,Pescara (ITA),16 JAN 2022,1054,35-kilometres-race-walk,race-walks,female,senior
 418,3:00:13,,Bethan DAVIES,07 NOV 1990,GBR,14,Poděbrady (CZE),21 MAY 2023,1054,35-kilometres-race-walk,race-walks,female,senior
@@ -451,7 +451,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 450,3:01:26,,Faying MA,30 AUG 1993,CHN,10,Muscat (OMA),05 MAR 2022,1044,35-kilometres-race-walk,race-walks,female,senior
 451,3:01:27,,Anabelly ORJUELA,24 JUL 1988,COL,3,Managua (NCA),16 APR 2023,1044,35-kilometres-race-walk,race-walks,female,senior
 451,3:01:27,,Gabriela DE SOUSA,12 JUN 2002,BRA,2,"St Anne's Park, Dublin (IRL)",15 DEC 2024,1044,35-kilometres-race-walk,race-walks,female,senior
-451,3:01:27,,Maika YAGI,21 JAN 1999,JPN,20f1,"National Stadium, Tokyo (JPN)",13 SEP 2025,1044,35-kilometres-race-walk,race-walks,female,senior
+451,3:01:27,,Maika YAGI,21 JAN 1999,JPN,20,"National Stadium, Tokyo (JPN)",13 SEP 2025,1044,35-kilometres-race-walk,race-walks,female,senior
 454,3:01:29,,Ana Veronica RODEAN,23 JUN 1984,ROU,26,"Autzen Complex, Eugene, OR (USA)",22 JUL 2022,1043,35-kilometres-race-walk,race-walks,female,senior
 455,3:01:32,,Nathaly LEON,03 JUN 1998,ECU,7,Lima (PER),06 FEB 2022,1043,35-kilometres-race-walk,race-walks,female,senior
 456,3:01:33,,Elisa NEUVONEN,19 MAR 1991,FIN,2,Leeds (GBR),23 OCT 2021,1043,35-kilometres-race-walk,race-walks,female,senior
@@ -509,7 +509,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 508,3:03:18,,Olivia LUNDMAN,03 JAN 2003,CAN,3,"Trolley Square, Santee, CA (USA)",12 JAN 2025,1028,35-kilometres-race-walk,race-walks,female,senior
 509,3:03:19,,Nicole COLOMBI,29 DEC 1995,ITA,12,Muscat (OMA),05 MAR 2022,1028,35-kilometres-race-walk,race-walks,female,senior
 510,3:03:24,,Sara VITIELLO,06 AUG 1996,ITA,19,Dudince (SVK),22 MAR 2025,1027,35-kilometres-race-walk,race-walks,female,senior
-511,3:03:29,,Masumi FUCHISE,02 SEP 1986,JPN,21f1,"National Stadium, Tokyo (JPN)",13 SEP 2025,1026,35-kilometres-race-walk,race-walks,female,senior
+511,3:03:29,,Masumi FUCHISE,02 SEP 1986,JPN,21,"National Stadium, Tokyo (JPN)",13 SEP 2025,1026,35-kilometres-race-walk,race-walks,female,senior
 512,3:03:33,,Mayara Luize VICENTAINER,03 FEB 1991,BRA,1,São Paulo (BRA),09 MAR 2025,1026,35-kilometres-race-walk,race-walks,female,senior
 513,3:03:34,,Anna ZDZIEBŁO,20 NOV 2001,POL,20,Dudince (SVK),22 MAR 2025,1025,35-kilometres-race-walk,race-walks,female,senior
 514,3:03:38,,Vitória OLIVEIRA,30 AUG 1992,POR,2,"Circuito Urbano, Porto de Mos (POR)",16 JAN 2022,1025,35-kilometres-race-walk,race-walks,female,senior
@@ -545,8 +545,8 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 544,3:04:58,,Hana BURZALOVÁ,03 NOV 2000,SVK,27,Dudince (SVK),23 APR 2022,1014,35-kilometres-race-walk,race-walks,female,senior
 545,3:05:00,,Viviane LYRA,29 JUL 1993,BRA,1,"COTP Stadium, São Paulo (BRA)",13 JUN 2021,1013,35-kilometres-race-walk,race-walks,female,senior
 545,3:05:00,,Ilse GUERRERO,24 MAR 1993,MEX,,"Santee, CA (USA)",15 JAN 2023,1013,35-kilometres-race-walk,race-walks,female,senior
-547,3:05:02,,Maria MICHTA-COFFEY,23 JUN 1986,USA,22f1,"National Stadium, Tokyo (JPN)",13 SEP 2025,1013,35-kilometres-race-walk,race-walks,female,senior
-548,3:05:03,,Karla JARAMILLO,21 JAN 1997,ECU,23f1,"National Stadium, Tokyo (JPN)",13 SEP 2025,1013,35-kilometres-race-walk,race-walks,female,senior
+547,3:05:02,,Maria MICHTA-COFFEY,23 JUN 1986,USA,22,"National Stadium, Tokyo (JPN)",13 SEP 2025,1013,35-kilometres-race-walk,race-walks,female,senior
+548,3:05:03,,Karla JARAMILLO,21 JAN 1997,ECU,23,"National Stadium, Tokyo (JPN)",13 SEP 2025,1013,35-kilometres-race-walk,race-walks,female,senior
 549,3:05:10,,Agnieszka ELLWARD,26 MAR 1989,POL,1,Dublin (IRL),19 DEC 2021,1012,35-kilometres-race-walk,race-walks,female,senior
 549,3:05:10,,Wanqi YANG,24 DEC 2001,CHN,15,Huangshan (CHN),04 MAR 2023,1012,35-kilometres-race-walk,race-walks,female,senior
 551,3:05:12,,Katie BURNETT,07 OCT 1988,USA,4,"Trolley Square, Santee, CA (USA)",12 JAN 2025,1012,35-kilometres-race-walk,race-walks,female,senior
@@ -571,7 +571,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 569,3:05:55,,Miranda MELVILLE,20 MAR 1989,USA,5,"Trolley Square, Santee, CA (USA)",12 JAN 2025,1006,35-kilometres-race-walk,race-walks,female,senior
 571,3:05:58,,Elianay PEREIRA,11 MAY 1984,BRA,8,Lima (PER),06 FEB 2022,1005,35-kilometres-race-walk,race-walks,female,senior
 571,3:05:58,,María Guadalupe SÁNCHEZ,04 AUG 1995,MEX,4,Managua (NCA),16 APR 2023,1005,35-kilometres-race-walk,race-walks,female,senior
-571,3:05:58,,PRIYANKA,10 MAR 1996,IND,24f1,"National Stadium, Tokyo (JPN)",13 SEP 2025,1005,35-kilometres-race-walk,race-walks,female,senior
+571,3:05:58,,PRIYANKA,10 MAR 1996,IND,24,"National Stadium, Tokyo (JPN)",13 SEP 2025,1005,35-kilometres-race-walk,race-walks,female,senior
 574,3:06:10,,Mayara Luize VICENTAINER,03 FEB 1991,BRA,31,"Autzen Complex, Eugene, OR (USA)",22 JUL 2022,1003,35-kilometres-race-walk,race-walks,female,senior
 575,3:06:13,,Irina MUSIKHINA,07 JUN 1988,RUS,5,Sochi (RUS),19 FEB 2021,1003,35-kilometres-race-walk,race-walks,female,senior
 575,3:06:13,,Casandra Milenka NIETO LINARES,29 NOV 1994,BOL,9,Lima (PER),06 FEB 2022,1003,35-kilometres-race-walk,race-walks,female,senior
@@ -622,7 +622,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 621,3:08:11,,Austėja KAVALIAUSKAITĖ,25 MAY 2000,LTU,33,"Hősök tere, Budapest (HUN)",24 AUG 2023,986,35-kilometres-race-walk,race-walks,female,senior
 622,3:08:12,,Mao TATSUMI,12 JAN 2000,JPN,3,Takahata (JPN),23 OCT 2022,986,35-kilometres-race-walk,race-walks,female,senior
 623,3:08:16,,Mayara Luize VICENTAINER,03 FEB 1991,BRA,10,Lima (PER),06 FEB 2022,986,35-kilometres-race-walk,race-walks,female,senior
-624,3:08:21,,Agnieszka ELLWARD,26 MAR 1989,POL,25f1,"National Stadium, Tokyo (JPN)",13 SEP 2025,985,35-kilometres-race-walk,race-walks,female,senior
+624,3:08:21,,Agnieszka ELLWARD,26 MAR 1989,POL,25,"National Stadium, Tokyo (JPN)",13 SEP 2025,985,35-kilometres-race-walk,race-walks,female,senior
 625,3:08:22,,Yumei QUE,08 FEB 1997,CHN,17,Huangshan (CHN),04 MAR 2018,985,35-kilometres-race-walk,race-walks,female,senior
 625,3:08:22,,Ramandeep KAUR,30 APR 1999,IND,2,"Sree Kanteerava Outdoor Stadium, Bengaluru (IND)",01 SEP 2024,985,35-kilometres-race-walk,race-walks,female,senior
 627,3:08:24,,Rita RÉCSEI,30 JAN 1996,HUN,1,Budapest (HUN),25 OCT 2020,985,35-kilometres-race-walk,race-walks,female,senior
@@ -636,11 +636,11 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 635,3:08:50,,Nadzeya DARAZHUK,23 JAN 1990,BLR,2,Brest (BLR),27 APR 2019,981,35-kilometres-race-walk,race-walks,female,senior
 636,3:08:51,,Mayara Luize VICENTAINER,03 FEB 1991,BRA,2,Rio de Janeiro (BRA),25 JUN 2022,981,35-kilometres-race-walk,race-walks,female,senior
 636,3:08:51,,Guo NA,22 JUN 1999,CHN,1,Taian (CHN),08 SEP 2024,981,35-kilometres-race-walk,race-walks,female,senior
-638,3:08:54,,Mayara Luize VICENTAINER,03 FEB 1991,BRA,26f1,"National Stadium, Tokyo (JPN)",13 SEP 2025,980,35-kilometres-race-walk,race-walks,female,senior
+638,3:08:54,,Mayara Luize VICENTAINER,03 FEB 1991,BRA,26,"National Stadium, Tokyo (JPN)",13 SEP 2025,980,35-kilometres-race-walk,race-walks,female,senior
 639,3:08:57,,Mayara Luize VICENTAINER,03 FEB 1991,BRA,2,"Rua, Brasilia (BRA)",05 MAR 2023,980,35-kilometres-race-walk,race-walks,female,senior
 640,3:08:58,,Evelyn INGA,16 APR 1998,PER,16,Muscat (OMA),05 MAR 2022,980,35-kilometres-race-walk,race-walks,female,senior
 641,3:09:03,,Lyudmyla SHELEST,04 OCT 1974,UKR,2,Lutsk (UKR),11 MAR 2018,979,35-kilometres-race-walk,race-walks,female,senior
-642,3:09:07,,Joana PONTES,22 MAR 2000,POR,27f1,"National Stadium, Tokyo (JPN)",13 SEP 2025,979,35-kilometres-race-walk,race-walks,female,senior
+642,3:09:07,,Joana PONTES,22 MAR 2000,POR,27,"National Stadium, Tokyo (JPN)",13 SEP 2025,979,35-kilometres-race-walk,race-walks,female,senior
 643,3:09:08,,Aura Libertad MORALES,07 JUN 1982,MEX,6,Managua (NCA),16 APR 2023,979,35-kilometres-race-walk,race-walks,female,senior
 644,3:09:19,,Yasury PALACIOS,26 OCT 1999,GUA,31,Dudince (SVK),23 APR 2022,977,35-kilometres-race-walk,race-walks,female,senior
 645,3:09:21,,Sofia ALIKANIOTI,27 APR 1998,GRE,19,Poděbrady (CZE),21 MAY 2023,977,35-kilometres-race-walk,race-walks,female,senior
@@ -650,7 +650,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 649,3:09:27,,Vitória OLIVEIRA,30 AUG 1992,POR,1,"Circuito Urbano, Porto de Mos (POR)",10 JAN 2021,976,35-kilometres-race-walk,race-walks,female,senior
 650,3:09:29,,Beatrice FORESTI,29 OCT 1998,ITA,4,Milazzo (ITA),29 JAN 2023,976,35-kilometres-race-walk,race-walks,female,senior
 651,3:09:31,,Bandana PATEL,16 AUG 1998,IND,3,"Sree Kanteerava Outdoor Stadium, Bengaluru (IND)",01 SEP 2024,975,35-kilometres-race-walk,race-walks,female,senior
-652,3:09:32,,Li MA,15 JAN 2000,CHN,28f1,"National Stadium, Tokyo (JPN)",13 SEP 2025,975,35-kilometres-race-walk,race-walks,female,senior
+652,3:09:32,,Li MA,15 JAN 2000,CHN,28,"National Stadium, Tokyo (JPN)",13 SEP 2025,975,35-kilometres-race-walk,race-walks,female,senior
 653,3:09:40,,Oksana KULAHINA,01 APR 1997,UKR,5,Ivano-Frankivsk (UKR),24 OCT 2021,974,35-kilometres-race-walk,race-walks,female,senior
 653,3:09:40,,Polina REPINA,29 JUN 1990,KAZ,2,"Konyaaltı Boulvared, Antalya (TUR)",12 MAR 2023,974,35-kilometres-race-walk,race-walks,female,senior
 655,3:09:41,,Kate VEALE,05 JAN 1994,IRL,2,Dublin (IRL),18 DEC 2022,974,35-kilometres-race-walk,race-walks,female,senior
@@ -667,7 +667,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 666,3:10:14,,Maria Dolores MARCOS VALERO,18 AUG 1979,ESP,3,"Circuito Urbano, Porto de Mos (POR)",07 JAN 2018,969,35-kilometres-race-walk,race-walks,female,senior
 667,3:10:15,,Aelita YARONGOVA,06 DEC 2002,RUS,7,Sochi (RUS),31 JAN 2022,969,35-kilometres-race-walk,race-walks,female,senior
 668,3:10:19,,Xueying BAI,26 APR 2000,CHN,17,Muscat (OMA),05 MAR 2022,969,35-kilometres-race-walk,race-walks,female,senior
-669,3:10:21,,Ema HAČUNDOVÁ,05 MAR 1999,SVK,29f1,"National Stadium, Tokyo (JPN)",13 SEP 2025,968,35-kilometres-race-walk,race-walks,female,senior
+669,3:10:21,,Ema HAČUNDOVÁ,05 MAR 1999,SVK,29,"National Stadium, Tokyo (JPN)",13 SEP 2025,968,35-kilometres-race-walk,race-walks,female,senior
 670,3:10:23,,Leilei LI,18 AUG 1989,CHN,18,Huangshan (CHN),04 MAR 2018,968,35-kilometres-race-walk,race-walks,female,senior
 671,3:10:26,,Bianca Maria DITTRICH,06 JUL 1993,GER,,Tilburg (NED),02 OCT 2022,968,35-kilometres-race-walk,race-walks,female,senior
 672,3:10:35,,Irina MUSIKHINA,07 JUN 1988,RUS,4,Saransk (RUS),20 MAY 2023,966,35-kilometres-race-walk,race-walks,female,senior
@@ -718,7 +718,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 717,3:12:00,,Joana PONTES,22 MAR 2000,POR,2,Lagoa (POR),12 JAN 2025,955,35-kilometres-race-walk,race-walks,female,senior
 718,3:12:03,,Lucie BARRITAULT,29 APR 1990,FRA,1,Aix-les-Bains (FRA),12 MAR 2023,954,35-kilometres-race-walk,race-walks,female,senior
 719,3:12:07,,Efstathia KOURKOUTSAKI,31 JAN 1998,GRE,3,Megara (GRE),28 FEB 2021,954,35-kilometres-race-walk,race-walks,female,senior
-719,3:12:07,,Miranda MELVILLE,20 MAR 1989,USA,30f1,"National Stadium, Tokyo (JPN)",13 SEP 2025,954,35-kilometres-race-walk,race-walks,female,senior
+719,3:12:07,,Miranda MELVILLE,20 MAR 1989,USA,30,"National Stadium, Tokyo (JPN)",13 SEP 2025,954,35-kilometres-race-walk,race-walks,female,senior
 721,3:12:21,,Tereza ĎURDIAKOVÁ,20 FEB 1991,CZE,19,Muscat (OMA),05 MAR 2022,952,35-kilometres-race-walk,race-walks,female,senior
 722,3:12:22,,Hongcun SUN,05 JAN 2001,CHN,5,"Changbaishan Avenue, Jilin (CHN)",04 JUL 2023,952,35-kilometres-race-walk,race-walks,female,senior
 723,3:12:25,,Ines PASTORINO,20 OCT 1992,FRA,1,Epinal (FRA),17 MAR 2019,951,35-kilometres-race-walk,race-walks,female,senior
@@ -734,7 +734,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 733,3:13:12,,Yuki YOSHIZUMI,07 JAN 1996,JPN,6,"Wajima Race Walk Course, Wajima (JPN)",16 APR 2023,945,35-kilometres-race-walk,race-walks,female,senior
 734,3:13:17,,Jessica GROENEWALD,22 APR 1992,RSA,8,"St Anne's Park, Dublin (IRL)",13 JUL 2025,944,35-kilometres-race-walk,race-walks,female,senior
 735,3:13:19,,PRIYANKA,10 MAR 1996,IND,20,Muscat (OMA),05 MAR 2022,944,35-kilometres-race-walk,race-walks,female,senior
-736,3:13:22,,Brigitte COAQUIRA ALBARRACIN,28 AUG 1999,PER,31f1,"National Stadium, Tokyo (JPN)",13 SEP 2025,944,35-kilometres-race-walk,race-walks,female,senior
+736,3:13:22,,Brigitte COAQUIRA ALBARRACIN,28 AUG 1999,PER,31,"National Stadium, Tokyo (JPN)",13 SEP 2025,944,35-kilometres-race-walk,race-walks,female,senior
 737,3:13:23,,Shuqing YANG,30 AUG 1996,CHN,20,Huangshan (CHN),04 MAR 2018,943,35-kilometres-race-walk,race-walks,female,senior
 738,3:13:24,,Sofia ALIKANIOTI,27 APR 1998,GRE,3,"Olympic Rowing – Canoeing – Kayak Centre, Sxinias (GRE)",22 JAN 2023,943,35-kilometres-race-walk,race-walks,female,senior
 739,3:13:29,,Veronica ESPINO,17 OCT 1981,ESP,7,Sevilla (ESP),14 FEB 2021,943,35-kilometres-race-walk,race-walks,female,senior
@@ -753,7 +753,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 752,3:14:12,,Lucie AUFFRET,06 JUL 1988,FRA,1,Gien (FRA),29 MAY 2022,937,35-kilometres-race-walk,race-walks,female,senior
 752,3:14:12,,Puja PRAMAN,07 SEP 1999,IND,4,Ranchi (IND),15 FEB 2023,937,35-kilometres-race-walk,race-walks,female,senior
 754,3:14:13,,Efstathia KOURKOUTSAKI,31 JAN 1998,GRE,16,Poděbrady (CZE),16 MAY 2021,937,35-kilometres-race-walk,race-walks,female,senior
-754,3:14:13,,Katie BURNETT,07 OCT 1988,USA,32f1,"National Stadium, Tokyo (JPN)",13 SEP 2025,937,35-kilometres-race-walk,race-walks,female,senior
+754,3:14:13,,Katie BURNETT,07 OCT 1988,USA,32,"National Stadium, Tokyo (JPN)",13 SEP 2025,937,35-kilometres-race-walk,race-walks,female,senior
 756,3:14:14,,Yuki YOSHIZUMI,07 JAN 1996,JPN,4,Takahata (JPN),23 OCT 2022,936,35-kilometres-race-walk,race-walks,female,senior
 757,3:14:15,,Mayara Luize VICENTAINER,03 FEB 1991,BRA,3,Bragança Paulista (BRA),09 JAN 2022,936,35-kilometres-race-walk,race-walks,female,senior
 758,3:14:16,,Efstathia KOURKOUTSAKI,31 JAN 1998,GRE,,Astros (GRE),12 APR 2025,936,35-kilometres-race-walk,race-walks,female,senior
@@ -764,7 +764,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 762,3:14:43,,Valentyna NAIAVKO,10 AUG 1994,UKR,3,Lutsk (UKR),25 MAR 2023,933,35-kilometres-race-walk,race-walks,female,senior
 762,3:14:43,,Wenhua SUN,30 JUN 2003,CHN,4,Taian (CHN),08 SEP 2024,933,35-kilometres-race-walk,race-walks,female,senior
 765,3:14:46,,Khrystyna YUDKINA,04 DEC 1984,UKR,17,Poděbrady (CZE),16 MAY 2021,932,35-kilometres-race-walk,race-walks,female,senior
-765,3:14:46,,Kader GÜVENÇ,27 NOV 2001,TUR,33f1,"National Stadium, Tokyo (JPN)",13 SEP 2025,932,35-kilometres-race-walk,race-walks,female,senior
+765,3:14:46,,Kader GÜVENÇ,27 NOV 2001,TUR,33,"National Stadium, Tokyo (JPN)",13 SEP 2025,932,35-kilometres-race-walk,race-walks,female,senior
 767,3:14:51,,Silvia Jerono KEMBOI,11 DEC 1988,KEN,1,"Nyayo National Stadium, Nairobi (KEN)",25 APR 2025,931,35-kilometres-race-walk,race-walks,female,senior
 768,3:14:53,,Myrian Pamela JARAMILLO,02 JUN 1998,ECU,3,Machala (ECU),25 FEB 2023,931,35-kilometres-race-walk,race-walks,female,senior
 769,3:14:57,,Sara VITIELLO,06 AUG 1996,ITA,22,Muscat (OMA),05 MAR 2022,931,35-kilometres-race-walk,race-walks,female,senior
@@ -783,7 +783,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 782,3:15:58,,Laura LANGLEY,11 SEP 1997,NZL,2,Melbourne (AUS),15 MAY 2022,922,35-kilometres-race-walk,race-walks,female,senior
 783,3:15:59,,Ilse GUERRERO,24 MAR 1993,MEX,23,Muscat (OMA),05 MAR 2022,922,35-kilometres-race-walk,race-walks,female,senior
 784,3:16:00,,Mylene ORTIZ,15 FEB 1979,FRA,3,Epinal (FRA),17 MAR 2019,922,35-kilometres-race-walk,race-walks,female,senior
-785,3:16:03,,Jessica GROENEWALD,22 APR 1992,RSA,34f1,"National Stadium, Tokyo (JPN)",13 SEP 2025,922,35-kilometres-race-walk,race-walks,female,senior
+785,3:16:03,,Jessica GROENEWALD,22 APR 1992,RSA,34,"National Stadium, Tokyo (JPN)",13 SEP 2025,922,35-kilometres-race-walk,race-walks,female,senior
 786,3:16:05,,Hayane OCHIAI,03 SEP 2000,JPN,7,Wajima (JPN),17 APR 2022,921,35-kilometres-race-walk,race-walks,female,senior
 787,3:16:09,,Jinyu WAN,28 JUN 2002,CHN,14,Huangshan (CHN),23 APR 2022,921,35-kilometres-race-walk,race-walks,female,senior
 788,3:16:11,,Elianay PEREIRA,11 MAY 1984,BRA,36,"Hősök tere, Budapest (HUN)",24 AUG 2023,921,35-kilometres-race-walk,race-walks,female,senior
@@ -837,20 +837,20 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 836,3:19:49,,Jie ZHANG,01 FEB 2003,CHN,7,"Changbaishan Avenue, Jilin (CHN)",04 JUL 2023,891,35-kilometres-race-walk,race-walks,female,senior
 837,3:19:52,,Nelly BUGÁROVÁ,09 APR 2001,CZE,26,Dudince (SVK),22 MAR 2025,891,35-kilometres-race-walk,race-walks,female,senior
 838,3:19:55,,Priyanka PATEL,09 MAY 1998,IND,5,"Sree Kanteerava Outdoor Stadium, Bengaluru (IND)",19 OCT 2022,891,35-kilometres-race-walk,race-walks,female,senior
-839,3:20:00,,Polina REPINA,29 JUN 1990,KAZ,35f1,"National Stadium, Tokyo (JPN)",13 SEP 2025,890,35-kilometres-race-walk,race-walks,female,senior
+839,3:20:00,,Polina REPINA,29 JUN 1990,KAZ,35,"National Stadium, Tokyo (JPN)",13 SEP 2025,890,35-kilometres-race-walk,race-walks,female,senior
 840,3:20:06,,Stephanie CASEY,01 AUG 1983,USA,27,Dudince (SVK),22 MAR 2025,889,35-kilometres-race-walk,race-walks,female,senior
 841,3:20:16,,Aura Libertad MORALES,07 JUN 1982,MEX,3,"Unidad Deportiva Bicentenario, Morelia (MEX)",02 JUN 2022,888,35-kilometres-race-walk,race-walks,female,senior
 842,3:20:22,,Maeva CASALE,05 MAR 1997,FRA,2,Mérignac (FRA),18 MAR 2018,887,35-kilometres-race-walk,race-walks,female,senior
 843,3:20:25,,Ramandeep KAUR,30 APR 1999,IND,5,Ranchi (IND),15 FEB 2023,887,35-kilometres-race-walk,race-walks,female,senior
 844,3:20:30,,Laura DUQUESNE,09 MAY 1990,FRA,3,Aix-les-Bains (FRA),12 MAR 2023,886,35-kilometres-race-walk,race-walks,female,senior
-845,3:20:32,,Elianay PEREIRA,11 MAY 1984,BRA,36f1,"National Stadium, Tokyo (JPN)",13 SEP 2025,886,35-kilometres-race-walk,race-walks,female,senior
+845,3:20:32,,Elianay PEREIRA,11 MAY 1984,BRA,36,"National Stadium, Tokyo (JPN)",13 SEP 2025,886,35-kilometres-race-walk,race-walks,female,senior
 846,3:20:39,,Puja PRAMAN,07 SEP 1999,IND,5,"Sree Kanteerava Outdoor Stadium, Bengaluru (IND)",01 SEP 2024,885,35-kilometres-race-walk,race-walks,female,senior
 846,3:20:39,,Yafei ZHAO,10 JUL 1999,CHN,5,Taian (CHN),08 SEP 2024,885,35-kilometres-race-walk,race-walks,female,senior
 848,3:20:50,,Mayara Luize VICENTAINER,03 FEB 1991,BRA,2,Recifé (BRA),16 FEB 2020,883,35-kilometres-race-walk,race-walks,female,senior
 849,3:20:57,,Alejandra ORTEGA,08 JUL 1994,MEX,24,Dudince (SVK),25 MAR 2023,882,35-kilometres-race-walk,race-walks,female,senior
 850,3:21:01,,Tamara HAVRYLYUK,14 DEC 1995,UKR,18,"Odeonplatz, München (GER)",16 AUG 2022,882,35-kilometres-race-walk,race-walks,female,senior
 851,3:21:06,,Yelena SERGEYEVA,27 APR 2000,RUS,3,"Avtodrom, Sochi (RUS)",27 FEB 2024,881,35-kilometres-race-walk,race-walks,female,senior
-851,3:21:06,,Sofia ALIKANIOTI,27 APR 1998,GRE,37f1,"National Stadium, Tokyo (JPN)",13 SEP 2025,881,35-kilometres-race-walk,race-walks,female,senior
+851,3:21:06,,Sofia ALIKANIOTI,27 APR 1998,GRE,37,"National Stadium, Tokyo (JPN)",13 SEP 2025,881,35-kilometres-race-walk,race-walks,female,senior
 853,3:21:14,,Sandra SILVA,21 SEP 1975,POR,33,Dudince (SVK),23 APR 2022,880,35-kilometres-race-walk,race-walks,female,senior
 853,3:21:14,,Lucie BARRITAULT,29 APR 1990,FRA,3,Fontenay-le-Comte (FRA),17 MAR 2024,880,35-kilometres-race-walk,race-walks,female,senior
 853,3:21:14,,Lana ŠVARBIĆ,27 AUG 2004,CRO,28,Dudince (SVK),22 MAR 2025,880,35-kilometres-race-walk,race-walks,female,senior
@@ -860,7 +860,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 859,3:21:29,,Nelly BUGÁROVÁ,09 APR 2001,CZE,7,"Weinauparkstadion, Zittau (GER)",26 OCT 2024,878,35-kilometres-race-walk,race-walks,female,senior
 860,3:21:31,,Manju RANI,22 MAR 1999,IND,1,"Kalinga Stadium, Bhubaneshwar (IND)",16 JUN 2023,878,35-kilometres-race-walk,race-walks,female,senior
 861,3:21:38,,Catalina Anabel URDIALES,03 JAN 1994,ECU,4,Machala (ECU),25 FEB 2023,877,35-kilometres-race-walk,race-walks,female,senior
-862,3:21:57,,Naomi GARCIA,30 MAR 1998,PUR,38f1,"National Stadium, Tokyo (JPN)",13 SEP 2025,875,35-kilometres-race-walk,race-walks,female,senior
+862,3:21:57,,Naomi GARCIA,30 MAR 1998,PUR,38,"National Stadium, Tokyo (JPN)",13 SEP 2025,875,35-kilometres-race-walk,race-walks,female,senior
 863,3:22:00,,. KOMAL,14 OCT 1999,IND,6,"Sree Kanteerava Outdoor Stadium, Bengaluru (IND)",01 SEP 2024,874,35-kilometres-race-walk,race-walks,female,senior
 864,3:22:03,,Aura Libertad MORALES,07 JUN 1982,MEX,3,Coatzacoalcos (MEX),30 JAN 2022,874,35-kilometres-race-walk,race-walks,female,senior
 864,3:22:03,,Roji PATEL,23 AUG 2001,IND,6,"Sree Kanteerava Outdoor Stadium, Bengaluru (IND)",19 OCT 2022,874,35-kilometres-race-walk,race-walks,female,senior

@@ -97,7 +97,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 86,12.99,-0.1,Grant HOLLOWAY,19 NOV 1997,USA,1,"Stade de France, Paris (FRA)",08 AUG 2024,1256,110-metres-hurdles,hurdles,male,senior
 86,12.99,-0.3,Grant HOLLOWAY,19 NOV 1997,USA,1,"Letzigrund, Zürich (SUI)",05 SEP 2024,1257,110-metres-hurdles,hurdles,male,senior
 86,12.99,+0.3,Just KWAOU-MATHEY,04 DEC 1999,FRA,1,"Stade Pierre Paul Bernard, Talence (FRA)",03 AUG 2025,1256,110-metres-hurdles,hurdles,male,senior
-86,12.99,-0.3,Cordell TINCH,13 JUL 2000,USA,1f1,"National Stadium, Tokyo (JPN)",16 SEP 2025,1257,110-metres-hurdles,hurdles,male,senior
+86,12.99,-0.3,Cordell TINCH,13 JUL 2000,USA,1,"National Stadium, Tokyo (JPN)",16 SEP 2025,1257,110-metres-hurdles,hurdles,male,senior
 100,13.00,+0.9,Renaldo NEHEMIAH,24 MAR 1959,USA,1,"Westwood, CA (USA)",06 MAY 1979,1255,110-metres-hurdles,hurdles,male,senior
 100,13.00,+0.5,Anthony JARRETT,13 AUG 1968,GBR,2,"Gottlieb-Daimler Stadion, Stuttgart (GER)",20 AUG 1993,1255,110-metres-hurdles,hurdles,male,senior
 100,13.00,-0.1,Allen JOHNSON,01 MAR 1971,USA,1,"Ullevi Stadium, Göteborg (SWE)",12 AUG 1995,1255,110-metres-hurdles,hurdles,male,senior
@@ -391,7 +391,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 328,13.08,+1.1,Rachid MURATAKE,06 FEB 2002,JPN,4,"Stade Charléty, Paris (FRA)",20 JUN 2025,1239,110-metres-hurdles,hurdles,male,senior
 328,13.08,+1.4,Rachid MURATAKE,06 FEB 2002,JPN,1h1,"Stade Charléty, Paris (FRA)",20 JUN 2025,1239,110-metres-hurdles,hurdles,male,senior
 328,13.08,+1.4,Dylan BEARD,15 SEP 1998,USA,2h1,"Stade Charléty, Paris (FRA)",20 JUN 2025,1239,110-metres-hurdles,hurdles,male,senior
-328,13.08,-0.3,Orlando BENNETT,12 OCT 1999,JAM,2f1,"National Stadium, Tokyo (JPN)",16 SEP 2025,1240,110-metres-hurdles,hurdles,male,senior
+328,13.08,-0.3,Orlando BENNETT,12 OCT 1999,JAM,2,"National Stadium, Tokyo (JPN)",16 SEP 2025,1240,110-metres-hurdles,hurdles,male,senior
 394,13.09,+0.2,Colin JACKSON,18 FEB 1967,GBR,1,London (GBR),20 JUL 1990,1237,110-metres-hurdles,hurdles,male,senior
 394,13.09,+0.5,Colin JACKSON,18 FEB 1967,GBR,1,Roma (ITA),17 JUL 1991,1237,110-metres-hurdles,hurdles,male,senior
 394,13.09,+1.0,Mark CREAR,02 OCT 1968,USA,1,Rhede (GER),30 JUL 1995,1237,110-metres-hurdles,hurdles,male,senior
@@ -661,7 +661,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 575,13.12,-0.1,Jamal BRITT,28 DEC 1998,USA,2sf2,"Hayward Field, Eugene, OR (USA)",03 AUG 2025,1231,110-metres-hurdles,hurdles,male,senior
 575,13.12,+0.6,Tatsuki ABE,03 AUG 2003,JPN,2,"Prefectural Stadium, Fukui (JPN)",16 AUG 2025,1231,110-metres-hurdles,hurdles,male,senior
 575,13.12,+0.3,Enrique LLOPIS,15 OCT 2000,ESP,2,"Letzigrund, Zürich (SUI)",28 AUG 2025,1231,110-metres-hurdles,hurdles,male,senior
-575,13.12,-0.3,Tyler MASON,15 NOV 1995,JAM,3f1,"National Stadium, Tokyo (JPN)",16 SEP 2025,1232,110-metres-hurdles,hurdles,male,senior
+575,13.12,-0.3,Tyler MASON,15 NOV 1995,JAM,3,"National Stadium, Tokyo (JPN)",16 SEP 2025,1232,110-metres-hurdles,hurdles,male,senior
 575,13.12,-0.1,Tyler MASON,15 NOV 1995,JAM,1sf3,"National Stadium, Tokyo (JPN)",16 SEP 2025,1231,110-metres-hurdles,hurdles,male,senior
 665,13.13,-0.4,Roger KINGDOM,26 AUG 1962,USA,1f1,"Stade Olympique de la Pontaise, Lausanne (SUI)",27 JUN 1989,1231,110-metres-hurdles,hurdles,male,senior
 665,13.13,+1.7,Anthony JARRETT,13 AUG 1968,GBR,1h1,Birmingham (GBR),26 JUL 1991,1229,110-metres-hurdles,hurdles,male,senior
@@ -996,7 +996,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 913,13.16,+1.1,Enrique LLOPIS,15 OCT 2000,ESP,3h2,"Stade Charléty, Paris (FRA)",20 JUN 2025,1223,110-metres-hurdles,hurdles,male,senior
 913,13.16,+1.9,Trey CUNNINGHAM,26 AUG 1998,USA,1sf3,"Hayward Field, Eugene, OR (USA)",03 AUG 2025,1223,110-metres-hurdles,hurdles,male,senior
 913,13.16,+0.4,Jason JOSEPH,11 OCT 1998,SUI,1h3,"Kleine Allmend, Frauenfeld (SUI)",24 AUG 2025,1223,110-metres-hurdles,hurdles,male,senior
-913,13.16,-0.3,Enrique LLOPIS,15 OCT 2000,ESP,4f1,"National Stadium, Tokyo (JPN)",16 SEP 2025,1224,110-metres-hurdles,hurdles,male,senior
+913,13.16,-0.3,Enrique LLOPIS,15 OCT 2000,ESP,4,"National Stadium, Tokyo (JPN)",16 SEP 2025,1224,110-metres-hurdles,hurdles,male,senior
 913,13.16,-0.5,Cordell TINCH,13 JUL 2000,USA,1sf2,"National Stadium, Tokyo (JPN)",16 SEP 2025,1226,110-metres-hurdles,hurdles,male,senior
 1000,13.17,+0.8,Renaldo NEHEMIAH,24 MAR 1959,USA,1,London (GBR),08 AUG 1981,1221,110-metres-hurdles,hurdles,male,senior
 1000,13.17,-0.4,Sam TURNER,17 JUN 1957,USA,2,"Westwood, CA (USA)",15 MAY 1983,1223,110-metres-hurdles,hurdles,male,senior
@@ -1219,7 +1219,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 1116,13.18,+0.5,Wilhem BELOCIAN,22 JUN 1995,FRA,2sf1,"Stade Pierre Paul Bernard, Talence (FRA)",03 AUG 2025,1219,110-metres-hurdles,hurdles,male,senior
 1116,13.18,+0.7,Lorenzo Ndele SIMONELLI,01 JUN 2002,ITA,1,"Giovanni Chiggiato Stadium, Caorle (ITA)",03 AUG 2025,1219,110-metres-hurdles,hurdles,male,senior
 1116,13.18,+0.2,Yuanjiang CHEN,27 JAN 2006,CHN,1,"Sports Center, Quzhou (CHN)",04 AUG 2025,1219,110-metres-hurdles,hurdles,male,senior
-1116,13.18,-0.3,Rachid MURATAKE,06 FEB 2002,JPN,5f1,"National Stadium, Tokyo (JPN)",16 SEP 2025,1220,110-metres-hurdles,hurdles,male,senior
+1116,13.18,-0.3,Rachid MURATAKE,06 FEB 2002,JPN,5,"National Stadium, Tokyo (JPN)",16 SEP 2025,1220,110-metres-hurdles,hurdles,male,senior
 1116,13.18,-0.5,Jason JOSEPH,11 OCT 1998,SUI,2sf2,"National Stadium, Tokyo (JPN)",16 SEP 2025,1222,110-metres-hurdles,hurdles,male,senior
 1223,13.19,+1.5,Renaldo NEHEMIAH,24 MAR 1959,USA,1,"Walnut, CA (USA)",16 JUN 1979,1218,110-metres-hurdles,hurdles,male,senior
 1223,13.19,+0.5,Greg FOSTER,04 AUG 1958,USA,1h1,"Los Angeles, CA (USA)",18 JUN 1984,1218,110-metres-hurdles,hurdles,male,senior
@@ -3446,7 +3446,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 3212,13.31,-0.5,Jamal BRITT,28 DEC 1998,USA,1,"Stadion Wankdorf, Bern (SUI)",16 AUG 2025,1197,110-metres-hurdles,hurdles,male,senior
 3212,13.31,0.0,Cordell TINCH,13 JUL 2000,USA,3h4,"National Stadium, Tokyo (JPN)",15 SEP 2025,1194,110-metres-hurdles,hurdles,male,senior
 3212,13.31,0.0,Demario PRINCE,27 OCT 2004,JAM,4h4,"National Stadium, Tokyo (JPN)",15 SEP 2025,1194,110-metres-hurdles,hurdles,male,senior
-3212,13.31,-0.3,Ja'Kobe THARP,30 SEP 2005,USA,6f1,"National Stadium, Tokyo (JPN)",16 SEP 2025,1195,110-metres-hurdles,hurdles,male,senior
+3212,13.31,-0.3,Ja'Kobe THARP,30 SEP 2005,USA,6,"National Stadium, Tokyo (JPN)",16 SEP 2025,1195,110-metres-hurdles,hurdles,male,senior
 3212,13.31,-0.8,Dylan BEARD,15 SEP 1998,USA,4sf1,"National Stadium, Tokyo (JPN)",16 SEP 2025,1198,110-metres-hurdles,hurdles,male,senior
 3212,13.31,-0.5,Wilhem BELOCIAN,22 JUN 1995,FRA,5sf2,"National Stadium, Tokyo (JPN)",16 SEP 2025,1197,110-metres-hurdles,hurdles,male,senior
 3451,13.32,+0.3,Greg FOSTER,04 AUG 1958,USA,2,Bruxelles (BEL),28 AUG 1981,1193,110-metres-hurdles,hurdles,male,senior
@@ -6740,7 +6740,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 6393,13.42,-0.2,Shenglong ZHU,25 JAN 2000,CHN,1h2,"Sports Center, Quzhou (CHN)",03 AUG 2025,1175,110-metres-hurdles,hurdles,male,senior
 6393,13.42,-0.3,Kendry L. MENÉNDEZ,14 MAR 2006,CUB,1,"Athletics Stadium, Beograd (SRB)",07 AUG 2025,1175,110-metres-hurdles,hurdles,male,senior
 6393,13.42,+1.8,Yohan CHAVERRA,21 MAR 1995,COL,3,"CNDA, Bragança Paulista (BRA)",24 AUG 2025,1174,110-metres-hurdles,hurdles,male,senior
-6393,13.42,-0.3,Just KWAOU-MATHEY,04 DEC 1999,FRA,7f1,"National Stadium, Tokyo (JPN)",16 SEP 2025,1175,110-metres-hurdles,hurdles,male,senior
+6393,13.42,-0.3,Just KWAOU-MATHEY,04 DEC 1999,FRA,7,"National Stadium, Tokyo (JPN)",16 SEP 2025,1175,110-metres-hurdles,hurdles,male,senior
 6743,13.43,+1.8,Earl MCCULLOUCH,12 JAN 1946,USA,1,"Minneapolis, MN (USA)",16 JUL 1967,1172,110-metres-hurdles,hurdles,male,senior
 6743,13.43,+1.0,Guy DRUT,06 DEC 1950,FRA,1,Leipzig (GER),13 JUL 1975,1172,110-metres-hurdles,hurdles,male,senior
 6743,13.43,-0.6,Charles FOSTER,02 JUL 1953,USA,1,Zürich (SUI),20 AUG 1975,1175,110-metres-hurdles,hurdles,male,senior

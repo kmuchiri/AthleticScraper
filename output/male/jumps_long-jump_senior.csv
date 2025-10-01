@@ -447,7 +447,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 420,8.39,+0.6,Maykel MASSÓ,08 MAY 1999,CUB,1,"Estadio Panamericano, La Habana (CUB)",29 MAY 2021,1223,long-jump,jumps,male,senior
 420,8.39,,Cameron CRUMP,03 SEP 1999,USA,1,"Randal Tyson Indoor Center, Fayetteville, AR (USA) (i)",24 FEB 2023,1223,long-jump,jumps,male,senior
 420,8.39,,Cameron CRUMP,03 SEP 1999,USA,2,"Convention Center, Albuquerque, NM (USA) (i)",10 MAR 2023,1223,long-jump,jumps,male,senior
-420,8.39,+0.2,Mattia FURLANI,07 FEB 2005,ITA,1f1,"National Stadium, Tokyo (JPN)",17 SEP 2025,1223,long-jump,jumps,male,senior
+420,8.39,+0.2,Mattia FURLANI,07 FEB 2005,ITA,1,"National Stadium, Tokyo (JPN)",17 SEP 2025,1223,long-jump,jumps,male,senior
 450,8.38,,Larry MYRICKS,10 MAR 1956,USA,1,"Johnson City, TN (USA) (i)",11 JAN 1980,1221,long-jump,jumps,male,senior
 450,8.38,,Larry MYRICKS,10 MAR 1956,USA,1,"San Diego, CA (USA) (i)",22 FEB 1980,1221,long-jump,jumps,male,senior
 450,8.38,+0.1,Larry MYRICKS,10 MAR 1956,USA,1,London (GBR),07 AUG 1981,1221,long-jump,jumps,male,senior
@@ -700,7 +700,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 629,8.34,+1.7,Simon EHAMMER,07 FEB 2000,SUI,1ce1,"Mösle-Stadium, Götzis (AUT)",31 MAY 2025,1212,long-jump,jumps,male,senior
 629,8.34,-0.2,Liam ADCOCK,21 JUN 1996,AUS,1,"Stadio Olimpico, Roma (ITA)",06 JUN 2025,1213,long-jump,jumps,male,senior
 629,8.34,+0.2,Jorge A. HODELÍN,16 MAY 2007,CUB,1,"Pista Rafael Fortun Chacon, Camagüey (CUB)",29 JUN 2025,1212,long-jump,jumps,male,senior
-629,8.34,-0.1,Tajay GAYLE,02 AUG 1996,JAM,2f1,"National Stadium, Tokyo (JPN)",17 SEP 2025,1212,long-jump,jumps,male,senior
+629,8.34,-0.1,Tajay GAYLE,02 AUG 1996,JAM,2,"National Stadium, Tokyo (JPN)",17 SEP 2025,1212,long-jump,jumps,male,senior
 703,8.33,,Phil SHINNICK,21 APR 1943,USA,1,"Modesto, CA (USA)",25 MAY 1963,1210,long-jump,jumps,male,senior
 703,8.33,+1.3,Bob BEAMON,29 AUG 1946,USA,1,"Sacramento, CA (USA)",20 JUN 1968,1210,long-jump,jumps,male,senior
 703,8.33,0.0,Larry MYRICKS,10 MAR 1956,USA,1,Köln (GER),23 AUG 1981,1210,long-jump,jumps,male,senior
@@ -758,7 +758,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 703,8.33,,Wayne PINNOCK,24 OCT 2000,JAM,4,"Convention Center, Albuquerque, NM (USA) (i)",10 MAR 2023,1210,long-jump,jumps,male,senior
 703,8.33,+1.8,Liam ADCOCK,21 JUN 1996,AUS,1,"WA Athletics Stadium, Perth (AUS)",01 MAR 2025,1210,long-jump,jumps,male,senior
 703,8.33,+1.6,Carey MCLEOD,14 APR 1998,JAM,1,"Piedmont Park, Atlanta, GA (USA)",17 MAY 2025,1210,long-jump,jumps,male,senior
-703,8.33,0.0,Yuhao SHI,26 SEP 1998,CHN,3f1,"National Stadium, Tokyo (JPN)",17 SEP 2025,1210,long-jump,jumps,male,senior
+703,8.33,0.0,Yuhao SHI,26 SEP 1998,CHN,3,"National Stadium, Tokyo (JPN)",17 SEP 2025,1210,long-jump,jumps,male,senior
 761,8.32,,Arnie ROBINSON,07 APR 1948,USA,1,"Modesto, CA (USA)",22 MAY 1976,1208,long-jump,jumps,male,senior
 761,8.32,+1.0,Arnie ROBINSON,07 APR 1948,USA,1,"Westwood, CA (USA)",11 JUN 1976,1208,long-jump,jumps,male,senior
 761,8.32,+1.9,Nenad STEKIĆ,07 MAR 1951,YUG,1,Rovereto (ITA),16 SEP 1978,1208,long-jump,jumps,male,senior
@@ -989,7 +989,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 904,8.30,+1.3,Jovan VAN VUUREN,17 JUL 1996,RSA,1,"Pilditch Stadium, Pretoria (RSA)",09 MAR 2024,1203,long-jump,jumps,male,senior
 904,8.30,,Mattia FURLANI,07 FEB 2005,ITA,1,"Sports Training Center, Nanjing (CHN) (i)",23 MAR 2025,1203,long-jump,jumps,male,senior
 904,8.30,+0.7,Mattia FURLANI,07 FEB 2005,ITA,2,"Sechseläutenplatz, Zürich (SUI)",27 AUG 2025,1203,long-jump,jumps,male,senior
-904,8.30,-0.2,Simon EHAMMER,07 FEB 2000,SUI,4f1,"National Stadium, Tokyo (JPN)",17 SEP 2025,1204,long-jump,jumps,male,senior
+904,8.30,-0.2,Simon EHAMMER,07 FEB 2000,SUI,4,"National Stadium, Tokyo (JPN)",17 SEP 2025,1204,long-jump,jumps,male,senior
 992,8.29,+1.6,Lutz DOMBROWSKI,25 JUN 1959,GDR,1,Dresden (GER),13 JUN 1979,1201,long-jump,jumps,male,senior
 992,8.29,+0.6,Jason GRIMES,10 SEP 1959,USA,2,"Olympiastadion, Helsinki (FIN)",10 AUG 1983,1201,long-jump,jumps,male,senior
 992,8.29,0.0,Jaime JEFFERSON,17 JAN 1962,CUB,2,Zürich (SUI),22 AUG 1984,1201,long-jump,jumps,male,senior
@@ -2387,7 +2387,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 2203,8.19,+0.8,Simon EHAMMER,07 FEB 2000,SUI,1,"Sportanlage Seefeld, Horw (SUI)",24 MAY 2025,1179,long-jump,jumps,male,senior
 2203,8.19,+1.2,Miltiadis TENTOGLOU,18 MAR 1998,GRE,1,"Konstantinos Baglatzis Municipal Stadium, Vari (GRE)",05 JUL 2025,1179,long-jump,jumps,male,senior
 2203,8.19,+0.9,Miltiadis TENTOGLOU,18 MAR 1998,GRE,2,"Olympic Stadium, London (GBR)",19 JUL 2025,1179,long-jump,jumps,male,senior
-2203,8.19,-0.2,Bozhidar SARÂBOYUKOV,06 AUG 2004,BUL,5f1,"National Stadium, Tokyo (JPN)",17 SEP 2025,1180,long-jump,jumps,male,senior
+2203,8.19,-0.2,Bozhidar SARÂBOYUKOV,06 AUG 2004,BUL,5,"National Stadium, Tokyo (JPN)",17 SEP 2025,1180,long-jump,jumps,male,senior
 2390,8.18,+0.5,Hans BAUMGARTNER,20 MAY 1949,FRG,2,"Olympiastadion, München (GER)",09 SEP 1972,1177,long-jump,jumps,male,senior
 2390,8.18,+1.9,Max KLAUSS,27 JUL 1947,GDR,1,Berlin (GER),12 JUN 1974,1177,long-jump,jumps,male,senior
 2390,8.18,,Grzegorz CYBULSKI,23 NOV 1951,POL,1,Warszawa (POL),29 MAY 1975,1177,long-jump,jumps,male,senior
@@ -2583,7 +2583,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 2390,8.18,+1.7,Julien PAUTHONNIER,31 OCT 1999,FRA,1,"Stade Municipal, Pezenas (FRA)",14 JUN 2025,1177,long-jump,jumps,male,senior
 2390,8.18,+1.4,Gerson BALDÉ,28 JAN 2000,POR,1,"Stade Raymond Petit, Tomblaine (FRA)",04 JUL 2025,1177,long-jump,jumps,male,senior
 2390,8.18,+0.5,Marquis DENDY,17 NOV 1992,USA,2,"Billy J. Murphy Track and Field Complex, Memphis, TN (USA)",12 JUL 2025,1177,long-jump,jumps,male,senior
-2390,8.18,-0.2,Mingkun ZHANG,20 OCT 2000,CHN,6f1,"National Stadium, Tokyo (JPN)",17 SEP 2025,1178,long-jump,jumps,male,senior
+2390,8.18,-0.2,Mingkun ZHANG,20 OCT 2000,CHN,6,"National Stadium, Tokyo (JPN)",17 SEP 2025,1178,long-jump,jumps,male,senior
 2586,8.17,,Jean-François BONHÉME,12 JUL 1949,FRA,1,"Scandinavium, Göteborg (SWE) (i)",09 MAR 1974,1175,long-jump,jumps,male,senior
 2586,8.17,,Valeriy PODLUZHNIY,22 AUG 1952,URS,1,München (GER),12 SEP 1974,1175,long-jump,jumps,male,senior
 2586,8.17,,Grzegorz CYBULSKI,23 NOV 1951,POL,1,Bydgoszcz (POL),04 AUG 1975,1175,long-jump,jumps,male,senior
@@ -2779,7 +2779,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 2586,8.17,-0.3,Lester LESCAY,15 OCT 2001,ESP,1,"Pista atletismo Fuente de la Niña, Guadalajara (ESP)",14 AUG 2025,1176,long-jump,jumps,male,senior
 2586,8.17,+0.3,Damarcus SIMPSON,14 JUL 1993,USA,1,"Estadio Jose A. Figueroa Freyre, Mayagüez (PUR)",23 AUG 2025,1175,long-jump,jumps,male,senior
 2586,8.17,+0.6,Miltiadis TENTOGLOU,18 MAR 1998,GRE,1q1,"National Stadium, Tokyo (JPN)",15 SEP 2025,1175,long-jump,jumps,male,senior
-2586,8.17,+0.4,Thobias MONTLER,15 FEB 1996,SWE,7f1,"National Stadium, Tokyo (JPN)",17 SEP 2025,1175,long-jump,jumps,male,senior
+2586,8.17,+0.4,Thobias MONTLER,15 FEB 1996,SWE,7,"National Stadium, Tokyo (JPN)",17 SEP 2025,1175,long-jump,jumps,male,senior
 2782,8.16,+1.3,Gayle HOPKINS,1941,USA,1,"Eugene, OR (USA)",19 JUN 1964,1173,long-jump,jumps,male,senior
 2782,8.16,+2.0,Clarence ROBINSON,1942,USA,1,"Des Moines, IA (USA)",23 APR 1965,1173,long-jump,jumps,male,senior
 2782,8.16,,Rainer STENIUS,19 MAR 1943,FIN,1,"Los Angeles, CA (USA)",06 MAY 1966,1173,long-jump,jumps,male,senior

@@ -1,9 +1,9 @@
 rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,discipline,type,sex,age_cat,normalized_discipline,track_field,mark_numeric,venue_country,age_at_event,season
 1,13:54,,Beatrice CHEBET,2000-03-05,KEN,1,Barcelona (ESP),2024-12-31,1295.0,5-kilometres,road-running,female,senior,5-kilometres,track,834.0,ESP,24.0,2024
-2,14:13,,Agnes Jebet NGETICH,2001-01-23,KEN,,Valencia (ESP),2024-01-14,1256.0,5-kilometres,road-running,female,senior,5-kilometres,track,853.0,ESP,22.0,2024
 2,14:13,,Beatrice CHEBET,2000-03-05,KEN,1,Barcelona (ESP),2023-12-31,1256.0,5-kilometres,road-running,female,senior,5-kilometres,track,853.0,ESP,23.0,2023
-4,14:19,,Caroline NYAGA,1993-10-07,KEN,1,"Meijijingu Gaien area, Tokyo (JPN)",2025-05-03,1244.0,5-kilometres,road-running,female,senior,5-kilometres,track,859.0,JPN,31.0,2025
+2,14:13,,Agnes Jebet NGETICH,2001-01-23,KEN,,Valencia (ESP),2024-01-14,1256.0,5-kilometres,road-running,female,senior,5-kilometres,track,853.0,ESP,22.0,2024
 4,14:19,,Ejgayehu TAYE,2000-02-10,ETH,1,Barcelona (ESP),2021-12-31,1244.0,5-kilometres,road-running,female,senior,5-kilometres,track,859.0,ESP,21.0,2021
+4,14:19,,Caroline NYAGA,1993-10-07,KEN,1,"Meijijingu Gaien area, Tokyo (JPN)",2025-05-03,1244.0,5-kilometres,road-running,female,senior,5-kilometres,track,859.0,JPN,31.0,2025
 6,14:21,,Ejgayehu TAYE,2000-02-10,ETH,1,Barcelona (ESP),2022-12-31,1240.0,5-kilometres,road-running,female,senior,5-kilometres,track,861.0,ESP,22.0,2022
 6,14:21,,Ejgayehu TAYE,2000-02-10,ETH,2,Barcelona (ESP),2023-12-31,1240.0,5-kilometres,road-running,female,senior,5-kilometres,track,861.0,ESP,23.0,2023
 8,14:23,,Medina EISA,2005-01-03,ETH,2,Barcelona (ESP),2024-12-31,1236.0,5-kilometres,road-running,female,senior,5-kilometres,track,863.0,ESP,20.0,2024
@@ -14,22 +14,22 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 14,14:30,,Hirut MESHESHA,2001-01-20,ETH,1,Lille (FRA),2025-03-16,1222.0,5-kilometres,road-running,female,senior,5-kilometres,track,870.0,FRA,24.0,2025
 13,14:30,,Hellen OBIRI,1989-12-13,KEN,2,"Sechseläutenplatz, Zürich (SUI)",2021-09-08,1223.0,5-kilometres,road-running,female,senior,5-kilometres,track,870.0,SUI,31.0,2021
 15,14:31,,Ejgayehu TAYE,2000-02-10,ETH,3,"Sechseläutenplatz, Zürich (SUI)",2021-09-08,1221.0,5-kilometres,road-running,female,senior,5-kilometres,track,871.0,SUI,21.0,2021
-17,14:32,,Margaret Chelimo KIPKEMBOI,1993-02-09,KEN,2,"Sechseläutenplatz, Zürich (SUI)",2022-09-07,1218.0,5-kilometres,road-running,female,senior,5-kilometres,track,872.0,SUI,29.0,2022
+17,14:32,,Joyciline JEPKOSGEI,1993-12-28,KEN,,Praha (CZE),2017-09-09,1218.0,5-kilometres,road-running,female,senior,5-kilometres,track,872.0,CZE,23.0,2017
 16,14:32,,Margaret Chelimo KIPKEMBOI,1993-02-09,KEN,4,"Sechseläutenplatz, Zürich (SUI)",2021-09-08,1220.0,5-kilometres,road-running,female,senior,5-kilometres,track,872.0,SUI,28.0,2021
 17,14:32,,Nadia BATTOCLETTI,2000-04-12,ITA,2,"Meijijingu Gaien area, Tokyo (JPN)",2025-05-03,1218.0,5-kilometres,road-running,female,senior,5-kilometres,track,872.0,JPN,25.0,2025
-17,14:32,,Joyciline JEPKOSGEI,1993-12-28,KEN,,Praha (CZE),2017-09-09,1218.0,5-kilometres,road-running,female,senior,5-kilometres,track,872.0,CZE,23.0,2017
 17,14:32,,Hawi ABERA,2006-12-17,ETH,2,Lille (FRA),2025-03-16,1218.0,5-kilometres,road-running,female,senior,5-kilometres,track,872.0,FRA,18.0,2025
+17,14:32,,Margaret Chelimo KIPKEMBOI,1993-02-09,KEN,2,"Sechseläutenplatz, Zürich (SUI)",2022-09-07,1218.0,5-kilometres,road-running,female,senior,5-kilometres,track,872.0,SUI,29.0,2022
 17,14:32,,Beatrice CHEBET,2000-03-05,KEN,1,"Sechseläutenplatz, Zürich (SUI)",2022-09-07,1218.0,5-kilometres,road-running,female,senior,5-kilometres,track,872.0,SUI,22.0,2022
 22,14:33,,Gudaf TSEGAY,1997-01-23,ETH,3,"Sechseläutenplatz, Zürich (SUI)",2022-09-07,1216.0,5-kilometres,road-running,female,senior,5-kilometres,track,873.0,SUI,25.0,2022
 22,14:33,,Ejgayehu TAYE,2000-02-10,ETH,4,"Sechseläutenplatz, Zürich (SUI)",2022-09-07,1216.0,5-kilometres,road-running,female,senior,5-kilometres,track,873.0,SUI,22.0,2022
-22,14:33,,Lilian Kasait RENGERUK,1997-05-03,KEN,1,Al Khobar (KSA),2023-12-09,1216.0,5-kilometres,road-running,female,senior,5-kilometres,track,873.0,KSA,26.0,2023
 22,14:33,,Likina AMEBAW,1997-11-30,ETH,1,Monaco (MON),2025-02-09,1216.0,5-kilometres,road-running,female,senior,5-kilometres,track,873.0,MON,27.0,2025
-26,14:35,,Caroline NYAGA,1993-10-07,KEN,1,Lille (FRA),2023-03-19,1212.0,5-kilometres,road-running,female,senior,5-kilometres,track,875.0,FRA,29.0,2023
+22,14:33,,Lilian Kasait RENGERUK,1997-05-03,KEN,1,Al Khobar (KSA),2023-12-09,1216.0,5-kilometres,road-running,female,senior,5-kilometres,track,873.0,KSA,26.0,2023
 26,14:35,,Mekides ABEBE,2001-01-29,ETH,2,Lille (FRA),2023-03-19,1212.0,5-kilometres,road-running,female,senior,5-kilometres,track,875.0,FRA,22.0,2023
 26,14:35,,Beatrice CHEBET,2000-03-05,KEN,1f1,Riga (LAT),2023-10-01,1212.0,5-kilometres,road-running,female,senior,5-kilometres,track,875.0,LAT,23.0,2023
 26,14:35,,Likina AMEBAW,1997-11-30,ETH,1,Monaco (MON),2024-02-11,1212.0,5-kilometres,road-running,female,senior,5-kilometres,track,875.0,MON,26.0,2024
-30,14:37,,Eva CHERONO,1996-08-15,KEN,5,"Sechseläutenplatz, Zürich (SUI)",2021-09-08,1208.0,5-kilometres,road-running,female,senior,5-kilometres,track,877.0,SUI,25.0,2021
+26,14:35,,Caroline NYAGA,1993-10-07,KEN,1,Lille (FRA),2023-03-19,1212.0,5-kilometres,road-running,female,senior,5-kilometres,track,875.0,FRA,29.0,2023
 31,14:37,,Senbere TEFERI,1995-05-03,ETH,1,Herzogenaurach (GER),2022-04-30,1208.0,5-kilometres,road-running,female,senior,5-kilometres,track,877.0,GER,27.0,2022
+30,14:37,,Eva CHERONO,1996-08-15,KEN,5,"Sechseläutenplatz, Zürich (SUI)",2021-09-08,1208.0,5-kilometres,road-running,female,senior,5-kilometres,track,877.0,SUI,25.0,2021
 32,14:38,,Medina EISA,2005-01-03,ETH,1,"Adi-Dassler-Straße 1, Herzogenaurach (GER)",2024-04-27,1206.0,5-kilometres,road-running,female,senior,5-kilometres,track,878.0,GER,19.0,2024
 32,14:38,,Likina AMEBAW,1997-11-30,ETH,3,Lille (FRA),2025-03-16,1206.0,5-kilometres,road-running,female,senior,5-kilometres,track,878.0,FRA,27.0,2025
 32,14:38,,Sifan HASSAN,1993-01-01,NED,5,"Sechseläutenplatz, Zürich (SUI)",2022-09-07,1206.0,5-kilometres,road-running,female,senior,5-kilometres,track,878.0,SUI,29.0,2022
@@ -608,55 +608,54 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 587,15:33,,Annette HAND-PETERS,1965-05-31,USA,3,"Los Angeles, CA (USA)",1991-03-03,1100.0,5-kilometres,road-running,female,senior,5-kilometres,track,933.0,USA,25.0,1991
 587,15:33,,Elly VAN HULST,1959-06-09,NED,1,"Carlsbad, CA (USA)",1990-03-25,1100.0,5-kilometres,road-running,female,senior,5-kilometres,track,933.0,USA,30.0,1990
 586,15:33,,Jessica O'CONNELL,1989-02-10,CAN,1,Wien (AUT),2015-05-31,1100.0,5-kilometres,road-running,female,senior,5-kilometres,track,933.0,AUT,26.0,2015
+610,15:34,,Abigael CHEMNAGEI,2005-05-02,KEN,13,Lille (FRA),2025-03-16,1098.0,5-kilometres,road-running,female,senior,5-kilometres,track,934.0,FRA,19.0,2025
 610,15:34,,Margaret AKIDOR,2002-06-26,KEN,1,"Ohori Park, Fukuoka (JPN)",2025-03-15,1098.0,5-kilometres,road-running,female,senior,5-kilometres,track,934.0,JPN,22.0,2025
 610,15:34,,Mercy JELIMO,2008-06-16,KEN,7,Lille (FRA),2024-11-16,1098.0,5-kilometres,road-running,female,senior,5-kilometres,track,934.0,FRA,16.0,2024
 610,15:34,,Nina CHYDENIUS,1990-01-28,FIN,1,London (GBR),2024-04-13,1098.0,5-kilometres,road-running,female,senior,5-kilometres,track,934.0,GBR,34.0,2024
 610,15:34,,Grace Loibach NAWOWUNA,2003-11-10,KEN,1,"Marienlyst Stadion, Drammen (NOR)",2024-04-07,1098.0,5-kilometres,road-running,female,senior,5-kilometres,track,934.0,NOR,20.0,2024
 610,15:34,,Megan DAVIES,1996-05-10,GBR,9f1,Leicester (GBR),2024-03-16,1098.0,5-kilometres,road-running,female,senior,5-kilometres,track,934.0,GBR,27.0,2024
 610,15:34,,Kate AXFORD,1999-03-31,GBR,8f1,Leicester (GBR),2024-03-16,1098.0,5-kilometres,road-running,female,senior,5-kilometres,track,934.0,GBR,24.0,2024
-610,15:34,,Nozomi TANAKA,1999-09-04,JPN,2,Fukuoka (JPN),2022-11-12,1098.0,5-kilometres,road-running,female,senior,5-kilometres,track,934.0,JPN,23.0,2022
 610,15:34,,Eloise WALKER,2001-05-27,GBR,2,Newcastle upon Tyne (GBR),2023-09-08,1098.0,5-kilometres,road-running,female,senior,5-kilometres,track,934.0,GBR,22.0,2023
-610,15:34,,Abigael CHEMNAGEI,2005-05-02,KEN,13,Lille (FRA),2025-03-16,1098.0,5-kilometres,road-running,female,senior,5-kilometres,track,934.0,FRA,19.0,2025
 610,15:34,,Katie WASSERMAN,1998-04-08,USA,8,"Indianapolis, IN (USA)",2025-05-03,1098.0,5-kilometres,road-running,female,senior,5-kilometres,track,934.0,USA,27.0,2025
+610,15:34,,Olena OCHEREDKO,1981-11-04,POL,5,Kassel (GER),2009-06-20,1098.0,5-kilometres,road-running,female,senior,5-kilometres,track,934.0,GER,27.0,2009
+610,15:34,,Julie CULLEY,1981-09-10,USA,1,"Baltimore, MD (USA)",2008-10-11,1098.0,5-kilometres,road-running,female,senior,5-kilometres,track,934.0,USA,27.0,2008
 610,15:34,,Grażyna SYREK,1972-01-09,POL,3,Praha (CZE),2004-09-19,1098.0,5-kilometres,road-running,female,senior,5-kilometres,track,934.0,CZE,32.0,2004
 610,15:34,,Ejegayehu DIBABA,1982-03-21,ETH,4,"Carlsbad, CA (USA)",2001-04-01,1098.0,5-kilometres,road-running,female,senior,5-kilometres,track,934.0,USA,19.0,2001
 610,15:34,,Lynn JENNINGS,1960-07-01,USA,3,"Providence, RI (USA)",1994-10-16,1098.0,5-kilometres,road-running,female,senior,5-kilometres,track,934.0,USA,34.0,1994
 610,15:34,,Anne Marie LAUCK,1969-03-07,USA,2,Freeport (BAH),1992-02-29,1098.0,5-kilometres,road-running,female,senior,5-kilometres,track,934.0,BAH,22.0,1992
 610,15:34,,Veronicah Nyaruai WANJIRU,1989-10-29,KEN,6,Rennes (FRA),2015-10-11,1098.0,5-kilometres,road-running,female,senior,5-kilometres,track,934.0,FRA,25.0,2015
 610,15:34,,Neely SPENCE GRACEY,1990-04-16,USA,2,"Providence, RI (USA)",2012-09-16,1098.0,5-kilometres,road-running,female,senior,5-kilometres,track,934.0,USA,22.0,2012
-610,15:34,,Olena OCHEREDKO,1981-11-04,POL,5,Kassel (GER),2009-06-20,1098.0,5-kilometres,road-running,female,senior,5-kilometres,track,934.0,GER,27.0,2009
-610,15:34,,Julie CULLEY,1981-09-10,USA,1,"Baltimore, MD (USA)",2008-10-11,1098.0,5-kilometres,road-running,female,senior,5-kilometres,track,934.0,USA,27.0,2008
-610,15:34,,Lauren HURLEY,1988-01-26,USA,1,"Charleston, SC (USA)",2021-11-25,1098.0,5-kilometres,road-running,female,senior,5-kilometres,track,934.0,USA,33.0,2021
+610,15:34,,Nozomi TANAKA,1999-09-04,JPN,2,Fukuoka (JPN),2022-11-12,1098.0,5-kilometres,road-running,female,senior,5-kilometres,track,934.0,JPN,23.0,2022
 610,15:34,,Lucy MAWIA,,KEN,1,Arezzo (ITA),2021-08-19,1098.0,5-kilometres,road-running,female,senior,5-kilometres,track,934.0,ITA,,2021
+610,15:34,,Lauren HURLEY,1988-01-26,USA,1,"Charleston, SC (USA)",2021-11-25,1098.0,5-kilometres,road-running,female,senior,5-kilometres,track,934.0,USA,33.0,2021
+610,15:34,,Diane NUKURI,1984-12-01,USA,6,"Boston, MA (USA)",2018-04-14,1098.0,5-kilometres,road-running,female,senior,5-kilometres,track,934.0,USA,33.0,2018
 610,15:34,,Konstanze KLOSTERHALFEN,1997-02-18,GER,1,Trier (GER),2017-12-31,1098.0,5-kilometres,road-running,female,senior,5-kilometres,track,934.0,GER,20.0,2017
 610,15:34,,Diane NUKURI,1984-12-01,BDI,4,"Carlsbad, CA (USA)",2016-04-03,1098.0,5-kilometres,road-running,female,senior,5-kilometres,track,934.0,USA,31.0,2016
 610,15:34,,Monicah WANJUHI,1993-11-07,KEN,1,"Frankfort, KY (USA)",2019-07-04,1098.0,5-kilometres,road-running,female,senior,5-kilometres,track,934.0,USA,25.0,2019
-610,15:34,,Diane NUKURI,1984-12-01,USA,6,"Boston, MA (USA)",2018-04-14,1098.0,5-kilometres,road-running,female,senior,5-kilometres,track,934.0,USA,33.0,2018
-636,15:35,,Yvonne GRAHAM,1965-08-22,JAM,6,"Carlsbad, CA (USA)",1995-04-02,1096.0,5-kilometres,road-running,female,senior,5-kilometres,track,935.0,USA,29.0,1995
 636,15:35,,Gete WAMI,1974-12-11,ETH,2,Bern (SUI),1997-06-08,1096.0,5-kilometres,road-running,female,senior,5-kilometres,track,935.0,SUI,22.0,1997
-636,15:35,,Patti Sue PLUMER,1962-04-27,USA,2,"Carlsbad, CA (USA)",1990-03-25,1096.0,5-kilometres,road-running,female,senior,5-kilometres,track,935.0,USA,27.0,1990
 636,15:35,,Annette HAND-PETERS,1965-05-31,USA,3,"Carlsbad, CA (USA)",1990-03-25,1096.0,5-kilometres,road-running,female,senior,5-kilometres,track,935.0,USA,24.0,1990
-634,15:35,,Karolina NADOLSKA,1981-09-06,POL,1,Korschenbroich (GER),2013-04-21,1097.0,5-kilometres,road-running,female,senior,5-kilometres,track,935.0,GER,31.0,2013
-635,15:35,,Alexi PAPPAS,1990-03-28,USA,3,"Providence, RI (USA)",2013-09-22,1097.0,5-kilometres,road-running,female,senior,5-kilometres,track,935.0,USA,23.0,2013
-636,15:35,,Gitte KARLSHØJ,1959-05-14,DEN,3,Freeport (BAH),1992-02-29,1096.0,5-kilometres,road-running,female,senior,5-kilometres,track,935.0,BAH,32.0,1992
 636,15:35,,Judi ST. HILAIRE,1959-09-05,USA,4,"Los Angeles, CA (USA)",1991-03-03,1096.0,5-kilometres,road-running,female,senior,5-kilometres,track,935.0,USA,31.0,1991
-636,15:35,,Danielle JONES,1996-08-21,USA,9,"Indianapolis, IN (USA)",2025-05-03,1096.0,5-kilometres,road-running,female,senior,5-kilometres,track,935.0,USA,28.0,2025
+636,15:35,,Yvonne GRAHAM,1965-08-22,JAM,6,"Carlsbad, CA (USA)",1995-04-02,1096.0,5-kilometres,road-running,female,senior,5-kilometres,track,935.0,USA,29.0,1995
+635,15:35,,Alexi PAPPAS,1990-03-28,USA,3,"Providence, RI (USA)",2013-09-22,1097.0,5-kilometres,road-running,female,senior,5-kilometres,track,935.0,USA,23.0,2013
+636,15:35,,Patti Sue PLUMER,1962-04-27,USA,2,"Carlsbad, CA (USA)",1990-03-25,1096.0,5-kilometres,road-running,female,senior,5-kilometres,track,935.0,USA,27.0,1990
+634,15:35,,Karolina NADOLSKA,1981-09-06,POL,1,Korschenbroich (GER),2013-04-21,1097.0,5-kilometres,road-running,female,senior,5-kilometres,track,935.0,GER,31.0,2013
+636,15:35,,Gitte KARLSHØJ,1959-05-14,DEN,3,Freeport (BAH),1992-02-29,1096.0,5-kilometres,road-running,female,senior,5-kilometres,track,935.0,BAH,32.0,1992
 636,15:35,,Emily HAGGARD-KEARNEY,1995-11-10,IRL,7f1,Leicester (GBR),2025-03-15,1096.0,5-kilometres,road-running,female,senior,5-kilometres,track,935.0,GBR,29.0,2025
-636,15:35,,Aleshign BAWEKE,2006-01-23,ETH,2,Bolzano (ITA),2024-12-31,1096.0,5-kilometres,road-running,female,senior,5-kilometres,track,935.0,ITA,18.0,2024
+636,15:35,,Danielle JONES,1996-08-21,USA,9,"Indianapolis, IN (USA)",2025-05-03,1096.0,5-kilometres,road-running,female,senior,5-kilometres,track,935.0,USA,28.0,2025
 636,15:35,,Nanami WATANABE,1998-12-24,JPN,3,Kumamoto (JPN),2024-12-01,1096.0,5-kilometres,road-running,female,senior,5-kilometres,track,935.0,JPN,25.0,2024
-636,15:35,,Calli HAUGER-THACKERY,1993-01-09,GBR,1,"Quayside, Newcastle upon Tyne (GBR)",2024-09-06,1096.0,5-kilometres,road-running,female,senior,5-kilometres,track,935.0,GBR,31.0,2024
+636,15:35,,Aleshign BAWEKE,2006-01-23,ETH,2,Bolzano (ITA),2024-12-31,1096.0,5-kilometres,road-running,female,senior,5-kilometres,track,935.0,ITA,18.0,2024
 636,15:35,,Philippine DE LA BIGNE,1998-03-29,FRA,1,St. Omer (FRA),2024-10-27,1096.0,5-kilometres,road-running,female,senior,5-kilometres,track,935.0,FRA,26.0,2024
-636,15:35,,Caroline Makandi GITONGA,1996-05-12,KEN,6,Oelde (GER),2024-06-08,1096.0,5-kilometres,road-running,female,senior,5-kilometres,track,935.0,GER,28.0,2024
+636,15:35,,Calli HAUGER-THACKERY,1993-01-09,GBR,1,"Quayside, Newcastle upon Tyne (GBR)",2024-09-06,1096.0,5-kilometres,road-running,female,senior,5-kilometres,track,935.0,GBR,31.0,2024
 636,15:35,,Cristina RUIZ,1999-01-16,ESP,11f1,Leicester (GBR),2024-03-16,1096.0,5-kilometres,road-running,female,senior,5-kilometres,track,935.0,GBR,25.0,2024
+636,15:35,,Caroline Makandi GITONGA,1996-05-12,KEN,6,Oelde (GER),2024-06-08,1096.0,5-kilometres,road-running,female,senior,5-kilometres,track,935.0,GER,28.0,2024
+636,15:35,,Zenah CHEPTOO,2002-11-11,KEN,12,"Adi-Dassler-Straße 1, Herzogenaurach (GER)",2023-04-29,1096.0,5-kilometres,road-running,female,senior,5-kilometres,track,935.0,GER,20.0,2023
 636,15:35,,Marisa HOWARD,1992-08-10,USA,11,"Boston, MA (USA)",2023-04-15,1096.0,5-kilometres,road-running,female,senior,5-kilometres,track,935.0,USA,30.0,2023
 636,15:35,,Amelia QUIRK,1999-12-18,GBR,10f1,Leicester (GBR),2024-03-16,1096.0,5-kilometres,road-running,female,senior,5-kilometres,track,935.0,GBR,24.0,2024
 636,15:35,,Teresiah Muthoni GATERI,2002-01-05,KEN,1f1,Fukuoka (JPN),2023-11-11,1096.0,5-kilometres,road-running,female,senior,5-kilometres,track,935.0,JPN,21.0,2023
-636,15:35,,Zenah CHEPTOO,2002-11-11,KEN,12,"Adi-Dassler-Straße 1, Herzogenaurach (GER)",2023-04-29,1096.0,5-kilometres,road-running,female,senior,5-kilometres,track,935.0,GER,20.0,2023
-636,15:35,,Helen BEKELE,1994-11-21,ETH,1,Arezzo (ITA),2019-05-25,1096.0,5-kilometres,road-running,female,senior,5-kilometres,track,935.0,ITA,24.0,2019
 636,15:35,,Aisha PRAUGHT LEER,1989-12-14,JAM,2,"Memphis, TN (USA)",2020-11-14,1096.0,5-kilometres,road-running,female,senior,5-kilometres,track,935.0,USA,30.0,2020
-636,15:35,,Gotytom GEBRESLASE,1995-01-15,ETH,3,"Boston, MA (USA)",2019-04-13,1096.0,5-kilometres,road-running,female,senior,5-kilometres,track,935.0,USA,24.0,2019
+636,15:35,,Helen BEKELE,1994-11-21,ETH,1,Arezzo (ITA),2019-05-25,1096.0,5-kilometres,road-running,female,senior,5-kilometres,track,935.0,ITA,24.0,2019
 636,15:35,,Molly SEIDEL,1994-07-12,USA,2,"New York, NY (USA)",2017-11-04,1096.0,5-kilometres,road-running,female,senior,5-kilometres,track,935.0,USA,23.0,2017
-636,15:35,,Werknesh KIDANE,1981-01-07,ETH,4,London (GBR),2010-09-05,1096.0,5-kilometres,road-running,female,senior,5-kilometres,track,935.0,GBR,29.0,2010
+636,15:35,,Gotytom GEBRESLASE,1995-01-15,ETH,3,"Boston, MA (USA)",2019-04-13,1096.0,5-kilometres,road-running,female,senior,5-kilometres,track,935.0,USA,24.0,2019
 636,15:35,,Werknesh KIDANE,1981-01-07,ETH,4,"Carlsbad, CA (USA)",2013-04-07,1096.0,5-kilometres,road-running,female,senior,5-kilometres,track,935.0,USA,32.0,2013
 636,15:35,,Deena KASTOR,1973-02-14,USA,2,"Los Angeles, CA (USA)",1997-11-23,1096.0,5-kilometres,road-running,female,senior,5-kilometres,track,935.0,USA,24.0,1997
 636,15:35,,Derartu TULU,1972-03-21,ETH,3,London (GBR),2001-09-02,1096.0,5-kilometres,road-running,female,senior,5-kilometres,track,935.0,GBR,29.0,2001
@@ -664,16 +663,18 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 636,15:35,,Takako KOTORIDA,1977-04-02,JPN,1,Miyazaki (JPN),2005-01-06,1096.0,5-kilometres,road-running,female,senior,5-kilometres,track,935.0,JPN,27.0,2005
 636,15:35,,Misikir DEMISSE,1986-07-23,ETH,2,"Little Rock, AR (USA)",2008-07-04,1096.0,5-kilometres,road-running,female,senior,5-kilometres,track,935.0,USA,21.0,2008
 636,15:35,,Grace MOMANYI,1981-02-13,KEN,6,London (GBR),2009-09-06,1096.0,5-kilometres,road-running,female,senior,5-kilometres,track,935.0,GBR,28.0,2009
-636,15:35,,Lineth CHEPKURUI,1987-02-23,KEN,7,"Boston, MA (USA)",2014-04-19,1096.0,5-kilometres,road-running,female,senior,5-kilometres,track,935.0,USA,27.0,2014
+636,15:35,,Werknesh KIDANE,1981-01-07,ETH,4,London (GBR),2010-09-05,1096.0,5-kilometres,road-running,female,senior,5-kilometres,track,935.0,GBR,29.0,2010
 636,15:35,,Caroline Chepkoech KIPKIRUI,1994-05-26,KEN,3,"Boston, MA (USA)",2016-04-16,1096.0,5-kilometres,road-running,female,senior,5-kilometres,track,935.0,USA,21.0,2016
 636,15:35,,Isabella OCHICHI,1979-10-28,KEN,3,"Albany, NY (USA)",2013-06-01,1096.0,5-kilometres,road-running,female,senior,5-kilometres,track,935.0,USA,33.0,2013
 636,15:35,,Genet YALEW,1992-12-31,ETH,8,Rennes (FRA),2013-10-13,1096.0,5-kilometres,road-running,female,senior,5-kilometres,track,935.0,FRA,20.0,2013
+636,15:35,,Lineth CHEPKURUI,1987-02-23,KEN,7,"Boston, MA (USA)",2014-04-19,1096.0,5-kilometres,road-running,female,senior,5-kilometres,track,935.0,USA,27.0,2014
 636,15:35,,Violah CHEPTOO,1989-03-01,KEN,1,"Carlsbad, CA (USA)",2017-04-02,1096.0,5-kilometres,road-running,female,senior,5-kilometres,track,935.0,USA,28.0,2017
 672,15:36,,Libbie JOHNSON-HICKMAN,1965-02-17,USA,3,"Carlsbad, CA (USA)",1991-04-14,1094.0,5-kilometres,road-running,female,senior,5-kilometres,track,936.0,USA,26.0,1991
-672,15:36,,Elly VAN HULST,1959-06-09,NED,2,"Carlsbad, CA (USA)",1991-04-14,1094.0,5-kilometres,road-running,female,senior,5-kilometres,track,936.0,USA,31.0,1991
 671,15:36,,Sara MOREIRA,1985-10-17,POR,1,Wien (AUT),2017-05-21,1095.0,5-kilometres,road-running,female,senior,5-kilometres,track,936.0,AUT,31.0,2017
-672,15:36,,Ludovica CAVALLI,2000-12-20,ITA,1,Oderzo (ITA),2024-05-01,1094.0,5-kilometres,road-running,female,senior,5-kilometres,track,936.0,ITA,23.0,2024
+672,15:36,,Elly VAN HULST,1959-06-09,NED,2,"Carlsbad, CA (USA)",1991-04-14,1094.0,5-kilometres,road-running,female,senior,5-kilometres,track,936.0,USA,31.0,1991
 672,15:36,,Susanna SULLIVAN,1990-05-13,USA,5,"New York, NY (USA)",2024-11-02,1094.0,5-kilometres,road-running,female,senior,5-kilometres,track,936.0,USA,34.0,2024
+672,15:36,,Vanessa FRASER,1995-07-27,USA,8,"Boston, MA (USA)",2024-04-13,1094.0,5-kilometres,road-running,female,senior,5-kilometres,track,936.0,USA,28.0,2024
+672,15:36,,Miriam CHEBET,2002-09-18,KEN,4,Barcelona (ESP),2022-12-31,1094.0,5-kilometres,road-running,female,senior,5-kilometres,track,936.0,ESP,20.0,2022
 672,15:36,,Feliciana JEPKOSGEI,2001-04-01,KEN,9,Herzogenaurach (GER),2021-09-12,1094.0,5-kilometres,road-running,female,senior,5-kilometres,track,936.0,GER,20.0,2021
 672,15:36,,Purity Kajuju GITONGA,1996-05-12,KEN,2,Arezzo (ITA),2021-08-19,1094.0,5-kilometres,road-running,female,senior,5-kilometres,track,936.0,ITA,25.0,2021
 672,15:36,,Jess JUDD,1995-01-07,GBR,2,Barrowford (GBR),2020-08-08,1094.0,5-kilometres,road-running,female,senior,5-kilometres,track,936.0,GBR,25.0,2020
@@ -687,9 +688,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 672,15:36,,Jessica O'CONNELL,1989-02-10,CAN,6,"Carlsbad, CA (USA)",2015-03-29,1094.0,5-kilometres,road-running,female,senior,5-kilometres,track,936.0,USA,26.0,2015
 672,15:36,,Haftamnesh TESFAYE,1994-04-28,ETH,4,Rennes (FRA),2012-10-14,1094.0,5-kilometres,road-running,female,senior,5-kilometres,track,936.0,FRA,18.0,2012
 672,15:36,,Dulce FÉLIX,1982-10-23,POR,1,Lisboa (POR),2012-05-27,1094.0,5-kilometres,road-running,female,senior,5-kilometres,track,936.0,POR,29.0,2012
-672,15:36,,Genet YALEW,1992-12-31,ETH,2,Rennes (FRA),2011-10-09,1094.0,5-kilometres,road-running,female,senior,5-kilometres,track,936.0,FRA,18.0,2011
-672,15:36,,Vanessa FRASER,1995-07-27,USA,8,"Boston, MA (USA)",2024-04-13,1094.0,5-kilometres,road-running,female,senior,5-kilometres,track,936.0,USA,28.0,2024
-672,15:36,,Miriam CHEBET,2002-09-18,KEN,4,Barcelona (ESP),2022-12-31,1094.0,5-kilometres,road-running,female,senior,5-kilometres,track,936.0,ESP,20.0,2022
+672,15:36,,Ludovica CAVALLI,2000-12-20,ITA,1,Oderzo (ITA),2024-05-01,1094.0,5-kilometres,road-running,female,senior,5-kilometres,track,936.0,ITA,23.0,2024
 672,15:36,,Olga MARKOVA,1968-08-06,RUS,5,"Carlsbad, CA (USA)",1992-03-29,1094.0,5-kilometres,road-running,female,senior,5-kilometres,track,936.0,USA,23.0,1992
 672,15:36,,Shelly STEELY,1962-10-23,USA,1,"Carlsbad, CA (USA)",1993-03-28,1094.0,5-kilometres,road-running,female,senior,5-kilometres,track,936.0,USA,30.0,1993
 672,15:36,,Catherine KIRUI,1976-03-01,KEN,7,"Carlsbad, CA (USA)",1995-04-02,1094.0,5-kilometres,road-running,female,senior,5-kilometres,track,936.0,USA,19.0,1995
@@ -704,72 +703,74 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 672,15:36,,Kate REED,1982-09-28,GBR,5,London (GBR),2007-09-16,1094.0,5-kilometres,road-running,female,senior,5-kilometres,track,936.0,GBR,24.0,2007
 672,15:36,,Teyba ERKESSO,1982-10-30,ETH,4,"Albany, NY (USA)",2010-06-05,1094.0,5-kilometres,road-running,female,senior,5-kilometres,track,936.0,USA,27.0,2010
 672,15:36,,Lauren FLESHMAN,1981-09-26,USA,5,London (GBR),2010-09-05,1094.0,5-kilometres,road-running,female,senior,5-kilometres,track,936.0,GBR,28.0,2010
-706,15:37,,Bethany HASZ,1997-09-09,USA,10,"Indianapolis, IN (USA)",2025-05-03,1092.0,5-kilometres,road-running,female,senior,5-kilometres,track,937.0,USA,27.0,2025
+672,15:36,,Genet YALEW,1992-12-31,ETH,2,Rennes (FRA),2011-10-09,1094.0,5-kilometres,road-running,female,senior,5-kilometres,track,936.0,FRA,18.0,2011
 706,15:37,,Marta SERRANO,2003-04-05,ESP,1,Pollensa (ESP),2025-05-17,1092.0,5-kilometres,road-running,female,senior,5-kilometres,track,937.0,ESP,22.0,2025
 706,15:37,,Jana VAN LENT,2001-04-22,BEL,9,Lille (FRA),2024-03-17,1092.0,5-kilometres,road-running,female,senior,5-kilometres,track,937.0,FRA,22.0,2024
 706,15:37,,Camille PLACE,2003-07-13,FRA,14,Lille (FRA),2025-03-16,1092.0,5-kilometres,road-running,female,senior,5-kilometres,track,937.0,FRA,21.0,2025
+706,15:37,,Bethany HASZ,1997-09-09,USA,10,"Indianapolis, IN (USA)",2025-05-03,1092.0,5-kilometres,road-running,female,senior,5-kilometres,track,937.0,USA,27.0,2025
 706,15:37,,Glynis SIM,1998-04-14,CAN,1,Vancouver (CAN),2024-03-16,1092.0,5-kilometres,road-running,female,senior,5-kilometres,track,937.0,CAN,25.0,2024
-706,15:37,,Carla GALLARDO,1999-02-09,ESP,12f1,Leicester (GBR),2024-03-16,1092.0,5-kilometres,road-running,female,senior,5-kilometres,track,937.0,GBR,25.0,2024
 706,15:37,,Verity OCKENDEN,1991-08-31,GBR,3,Barrowford (GBR),2020-08-08,1092.0,5-kilometres,road-running,female,senior,5-kilometres,track,937.0,GBR,28.0,2020
 706,15:37,,Agnes Jebet NGETICH,2001-01-23,KEN,9,Herzogenaurach (GER),2022-04-30,1092.0,5-kilometres,road-running,female,senior,5-kilometres,track,937.0,GER,21.0,2022
+706,15:37,,Carla GALLARDO,1999-02-09,ESP,12f1,Leicester (GBR),2024-03-16,1092.0,5-kilometres,road-running,female,senior,5-kilometres,track,937.0,GBR,25.0,2024
+706,15:37,,Gudaf TSEGAY,1997-01-23,ETH,7,Rennes (FRA),2015-10-11,1092.0,5-kilometres,road-running,female,senior,5-kilometres,track,937.0,FRA,18.0,2015
 706,15:37,,Gotytom GEBRESLASE,1995-01-15,ETH,6,"Carlsbad, CA (USA)",2014-03-30,1092.0,5-kilometres,road-running,female,senior,5-kilometres,track,937.0,USA,19.0,2014
 706,15:37,,Hiwot AYALEW,1990-03-06,ETH,5,Rennes (FRA),2012-10-14,1092.0,5-kilometres,road-running,female,senior,5-kilometres,track,937.0,FRA,22.0,2012
 706,15:37,,Lauren PAQUETTE,1986-06-27,USA,7,"Boston, MA (USA)",2018-04-14,1092.0,5-kilometres,road-running,female,senior,5-kilometres,track,937.0,USA,31.0,2018
-706,15:37,,Gudaf TSEGAY,1997-01-23,ETH,7,Rennes (FRA),2015-10-11,1092.0,5-kilometres,road-running,female,senior,5-kilometres,track,937.0,FRA,18.0,2015
 706,15:37,,Elizabeth MALOY,1985-08-10,USA,3,"Providence, RI (USA)",2012-09-16,1092.0,5-kilometres,road-running,female,senior,5-kilometres,track,937.0,USA,27.0,2012
-706,15:37,,Ashu KASIM,1984-10-20,ETH,2,"Albany, NY (USA)",2012-06-02,1092.0,5-kilometres,road-running,female,senior,5-kilometres,track,937.0,USA,27.0,2012
-706,15:37,,Allison ROE,1956-05-30,NZL,2,"Woodland Hills, CA (USA)",1982-10-31,1092.0,5-kilometres,road-running,female,senior,5-kilometres,track,937.0,USA,26.0,1982
+706,15:37,,Lynn JENNINGS,1960-07-01,USA,2,"Carlsbad, CA (USA)",1996-03-31,1092.0,5-kilometres,road-running,female,senior,5-kilometres,track,937.0,USA,35.0,1996
 706,15:37,,Annette HAND-PETERS,1965-05-31,USA,8,"Carlsbad, CA (USA)",1995-04-02,1092.0,5-kilometres,road-running,female,senior,5-kilometres,track,937.0,USA,29.0,1995
-706,15:37,,Patrycja WŁODARCZYK,1980-06-09,POL,1,Olesno (POL),2003-05-10,1092.0,5-kilometres,road-running,female,senior,5-kilometres,track,937.0,POL,22.0,2003
+706,15:37,,Allison ROE,1956-05-30,NZL,2,"Woodland Hills, CA (USA)",1982-10-31,1092.0,5-kilometres,road-running,female,senior,5-kilometres,track,937.0,USA,26.0,1982
 706,15:37,,Eyerusalem KUMA,1981-09-07,ETH,5,"Carlsbad, CA (USA)",2004-03-28,1092.0,5-kilometres,road-running,female,senior,5-kilometres,track,937.0,USA,22.0,2004
-706,15:37,,Jennifer RHINES,1974-07-01,USA,3,"Carlsbad, CA (USA)",2011-04-03,1092.0,5-kilometres,road-running,female,senior,5-kilometres,track,937.0,USA,36.0,2011
+706,15:37,,Ashu KASIM,1984-10-20,ETH,2,"Albany, NY (USA)",2012-06-02,1092.0,5-kilometres,road-running,female,senior,5-kilometres,track,937.0,USA,27.0,2012
 706,15:37,,Sabrina MOCKENHAUPT,1980-12-06,GER,1,Wien (AUT),2007-06-03,1092.0,5-kilometres,road-running,female,senior,5-kilometres,track,937.0,AUT,26.0,2007
+706,15:37,,Jennifer RHINES,1974-07-01,USA,3,"Carlsbad, CA (USA)",2011-04-03,1092.0,5-kilometres,road-running,female,senior,5-kilometres,track,937.0,USA,36.0,2011
+706,15:37,,Émilie MONDOR,1981-04-29,CAN,1,"Chula Vista, CA (USA)",2005-10-23,1092.0,5-kilometres,road-running,female,senior,5-kilometres,track,937.0,USA,24.0,2005
 706,15:37,,Petra KAMÍNKOVÁ,1973-01-19,CZE,4,Praha (CZE),2004-09-19,1092.0,5-kilometres,road-running,female,senior,5-kilometres,track,937.0,CZE,31.0,2004
 706,15:37,,Catherine Agnes CHIKWAKWA,1985-07-24,MAW,1,Darmstadt (GER),2004-06-23,1092.0,5-kilometres,road-running,female,senior,5-kilometres,track,937.0,GER,18.0,2004
 706,15:37,,Edna Ngeringwony KIPLAGAT,1979-11-15,KEN,5,"Carlsbad, CA (USA)",2006-04-09,1092.0,5-kilometres,road-running,female,senior,5-kilometres,track,937.0,USA,26.0,2006
-706,15:37,,Émilie MONDOR,1981-04-29,CAN,1,"Chula Vista, CA (USA)",2005-10-23,1092.0,5-kilometres,road-running,female,senior,5-kilometres,track,937.0,USA,24.0,2005
-706,15:37,,Lynn JENNINGS,1960-07-01,USA,2,"Carlsbad, CA (USA)",1996-03-31,1092.0,5-kilometres,road-running,female,senior,5-kilometres,track,937.0,USA,35.0,1996
 706,15:37,,Jackline MARANGA,1977-12-16,KEN,5,"Carlsbad, CA (USA)",1997-04-13,1092.0,5-kilometres,road-running,female,senior,5-kilometres,track,937.0,USA,19.0,1997
-706,15:37,,Breeda DENNEHY-WILLIS,1970-02-02,IRL,5,"Carlsbad, CA (USA)",2001-04-01,1092.0,5-kilometres,road-running,female,senior,5-kilometres,track,937.0,USA,31.0,2001
+706,15:37,,Patrycja WŁODARCZYK,1980-06-09,POL,1,Olesno (POL),2003-05-10,1092.0,5-kilometres,road-running,female,senior,5-kilometres,track,937.0,POL,22.0,2003
 706,15:37,,Kristin IHLE-HELLEDY,1969-04-12,USA,5,"Carlsbad, CA (USA)",1998-03-29,1092.0,5-kilometres,road-running,female,senior,5-kilometres,track,937.0,USA,28.0,1998
-736,15:38,,Gotytom GEBRESLASE,1995-01-15,ETH,1,San José (USA),2017-11-23,1090.0,5-kilometres,road-running,female,senior,5-kilometres,track,938.0,USA,22.0,2017
-736,15:38,,Emily SISSON,1991-10-12,USA,1,"New York, NY (USA)",2018-11-03,1090.0,5-kilometres,road-running,female,senior,5-kilometres,track,938.0,USA,27.0,2018
-734,15:38,,Sara MOREIRA,1985-10-17,POR,1,Wien (AUT),2016-05-22,1092.0,5-kilometres,road-running,female,senior,5-kilometres,track,938.0,AUT,30.0,2016
+706,15:37,,Breeda DENNEHY-WILLIS,1970-02-02,IRL,5,"Carlsbad, CA (USA)",2001-04-01,1092.0,5-kilometres,road-running,female,senior,5-kilometres,track,937.0,USA,31.0,2001
+736,15:38,,Elaina TABB,1991-12-17,USA,5,"Boston, MA (USA)",2019-04-13,1090.0,5-kilometres,road-running,female,senior,5-kilometres,track,938.0,USA,27.0,2019
 735,15:38,,Sally KIPYEGO,1985-12-19,KEN,2,San José (USA),2013-11-28,1091.0,5-kilometres,road-running,female,senior,5-kilometres,track,938.0,USA,27.0,2013
-736,15:38,,Vicoty CHEPNGENO,1993-11-12,KEN,1,"Wheeling, WV (USA)",2019-08-04,1090.0,5-kilometres,road-running,female,senior,5-kilometres,track,938.0,USA,25.0,2019
+734,15:38,,Sara MOREIRA,1985-10-17,POR,1,Wien (AUT),2016-05-22,1092.0,5-kilometres,road-running,female,senior,5-kilometres,track,938.0,AUT,30.0,2016
+736,15:38,,Monica JOYCE,1958-07-16,IRL,4,"Carlsbad, CA (USA)",1990-03-25,1090.0,5-kilometres,road-running,female,senior,5-kilometres,track,938.0,USA,31.0,1990
 736,15:38,,Mercy CHERONO,1991-05-07,KEN,4,Bolzano (ITA),2019-12-31,1090.0,5-kilometres,road-running,female,senior,5-kilometres,track,938.0,ITA,28.0,2019
-736,15:38,,Holly DIXON,1997-12-23,GBR,8f1,Leicester (GBR),2025-03-15,1090.0,5-kilometres,road-running,female,senior,5-kilometres,track,938.0,GBR,27.0,2025
+736,15:38,,Philippine DE LA BIGNE,1998-03-29,FRA,8,Barcelona (ESP),2024-12-31,1090.0,5-kilometres,road-running,female,senior,5-kilometres,track,938.0,ESP,26.0,2024
 736,15:38,,Kim CONLEY,1986-03-14,USA,7,"Boston, MA (USA)",2022-04-16,1090.0,5-kilometres,road-running,female,senior,5-kilometres,track,938.0,USA,36.0,2022
 736,15:38,,Lucia STAFFORD,1998-08-17,CAN,1,Hamilton (CAN),2023-11-04,1090.0,5-kilometres,road-running,female,senior,5-kilometres,track,938.0,CAN,25.0,2023
 736,15:38,,Dahdi DUBE,2005-01-16,ETH,11,Al Khobar (KSA),2023-12-09,1090.0,5-kilometres,road-running,female,senior,5-kilometres,track,938.0,KSA,18.0,2023
 736,15:38,,Mekedes ALEMESHETE,2006-03-30,ETH,12,Al Khobar (KSA),2023-12-09,1090.0,5-kilometres,road-running,female,senior,5-kilometres,track,938.0,KSA,17.0,2023
 736,15:38,,Julia VAN VELTHOVEN,1994-03-12,NED,3,Monaco (MON),2024-02-11,1090.0,5-kilometres,road-running,female,senior,5-kilometres,track,938.0,MON,29.0,2024
-736,15:38,,Elaina TABB,1991-12-17,USA,5,"Boston, MA (USA)",2019-04-13,1090.0,5-kilometres,road-running,female,senior,5-kilometres,track,938.0,USA,27.0,2019
+736,15:38,,Hawi ABERA,2006-12-17,ETH,2,Arezzo (ITA),2024-05-26,1090.0,5-kilometres,road-running,female,senior,5-kilometres,track,938.0,ITA,17.0,2024
+736,15:38,,Vicoty CHEPNGENO,1993-11-12,KEN,1,"Wheeling, WV (USA)",2019-08-04,1090.0,5-kilometres,road-running,female,senior,5-kilometres,track,938.0,USA,25.0,2019
+736,15:38,,Dorte VIBJERG,1973-10-28,DEN,1,Oslo (NOR),2003-05-10,1090.0,5-kilometres,road-running,female,senior,5-kilometres,track,938.0,NOR,29.0,2003
 736,15:38,,Sylvia MOSQUEDA,1966-04-08,USA,4,"Chula Vista, CA (USA)",2002-10-27,1090.0,5-kilometres,road-running,female,senior,5-kilometres,track,938.0,USA,36.0,2002
 736,15:38,,Eyerusalem KUMA,1981-09-07,ETH,1,"Syracuse, NY (USA)",2002-10-06,1090.0,5-kilometres,road-running,female,senior,5-kilometres,track,938.0,USA,21.0,2002
 736,15:38,,Sonia O'SULLIVAN,1969-11-28,IRL,7,"Carlsbad, CA (USA)",2002-04-07,1090.0,5-kilometres,road-running,female,senior,5-kilometres,track,938.0,USA,32.0,2002
 736,15:38,,Daria NAUER,1966-05-21,SUI,2,Bern (SUI),1996-06-09,1090.0,5-kilometres,road-running,female,senior,5-kilometres,track,938.0,SUI,30.0,1996
 736,15:38,,Lieve SLEGERS,1965-04-06,BEL,,"Providence, RI (USA)",1995-10-15,1090.0,5-kilometres,road-running,female,senior,5-kilometres,track,938.0,USA,30.0,1995
 736,15:38,,Natalya SOROKOVSKAYA,1962-07-23,KAZ,3,Essen (GER),1993-05-01,1090.0,5-kilometres,road-running,female,senior,5-kilometres,track,938.0,GER,30.0,1993
-736,15:38,,Monica JOYCE,1958-07-16,IRL,4,"Carlsbad, CA (USA)",1990-03-25,1090.0,5-kilometres,road-running,female,senior,5-kilometres,track,938.0,USA,31.0,1990
-736,15:38,,Philippine DE LA BIGNE,1998-03-29,FRA,8,Barcelona (ESP),2024-12-31,1090.0,5-kilometres,road-running,female,senior,5-kilometres,track,938.0,ESP,26.0,2024
-736,15:38,,Hawi ABERA,2006-12-17,ETH,2,Arezzo (ITA),2024-05-26,1090.0,5-kilometres,road-running,female,senior,5-kilometres,track,938.0,ITA,17.0,2024
+736,15:38,,Holly DIXON,1997-12-23,GBR,8f1,Leicester (GBR),2025-03-15,1090.0,5-kilometres,road-running,female,senior,5-kilometres,track,938.0,GBR,27.0,2025
+736,15:38,,Emily SISSON,1991-10-12,USA,1,"New York, NY (USA)",2018-11-03,1090.0,5-kilometres,road-running,female,senior,5-kilometres,track,938.0,USA,27.0,2018
+736,15:38,,Gotytom GEBRESLASE,1995-01-15,ETH,1,San José (USA),2017-11-23,1090.0,5-kilometres,road-running,female,senior,5-kilometres,track,938.0,USA,22.0,2017
 736,15:38,,Sarah LAHTI,1995-02-18,SWE,5,"Carlsbad, CA (USA)",2016-04-03,1090.0,5-kilometres,road-running,female,senior,5-kilometres,track,938.0,USA,21.0,2016
 736,15:38,,Emily CHEBET,1986-02-18,KEN,1,"Albany, NY (USA)",2015-05-30,1090.0,5-kilometres,road-running,female,senior,5-kilometres,track,938.0,USA,29.0,2015
 736,15:38,,Amy VAN ALSTINE,1987-11-11,USA,8,"Boston, MA (USA)",2014-04-19,1090.0,5-kilometres,road-running,female,senior,5-kilometres,track,938.0,USA,26.0,2014
 736,15:38,,Aheza KIROS,1985-10-16,ETH,1,"Carlsbad, CA (USA)",2009-04-05,1090.0,5-kilometres,road-running,female,senior,5-kilometres,track,938.0,USA,23.0,2009
 736,15:38,,Alena SAMOKHVALOVA,1980-11-21,RUS,1,"Binghamton, NY (USA)",2005-08-28,1090.0,5-kilometres,road-running,female,senior,5-kilometres,track,938.0,USA,24.0,2005
 736,15:38,,Hayley MCGREGOR,1979-05-27,AUS,6,"Carlsbad, CA (USA)",2004-03-28,1090.0,5-kilometres,road-running,female,senior,5-kilometres,track,938.0,USA,24.0,2004
-736,15:38,,Dorte VIBJERG,1973-10-28,DEN,1,Oslo (NOR),2003-05-10,1090.0,5-kilometres,road-running,female,senior,5-kilometres,track,938.0,NOR,29.0,2003
-763,15:39,,Emily DURGIN,1994-05-15,USA,9,"Boston, MA (USA)",2024-04-13,1089.0,5-kilometres,road-running,female,senior,5-kilometres,track,939.0,USA,29.0,2024
-763,15:39,,Tinebeb ASRES,2006-01-01,ETH,7,"Adi-Dassler-Straße 1, Herzogenaurach (GER)",2024-04-27,1089.0,5-kilometres,road-running,female,senior,5-kilometres,track,939.0,GER,18.0,2024
+763,15:39,,Katharina STEINRUCK,1989-08-22,GER,2,Wien (AUT),2024-05-26,1089.0,5-kilometres,road-running,female,senior,5-kilometres,track,939.0,AUT,34.0,2024
+763,15:39,,Natasha WODAK,1981-12-17,CAN,1,Vancouver (CAN),2018-03-17,1089.0,5-kilometres,road-running,female,senior,5-kilometres,track,939.0,CAN,36.0,2018
+763,15:39,,Natosha ROGERS,1991-05-07,USA,3,"New York, NY (USA)",2017-11-04,1089.0,5-kilometres,road-running,female,senior,5-kilometres,track,939.0,USA,26.0,2017
 763,15:39,,Lauren HOWARTH,1990-04-21,GBR,5,"Boston, MA (USA)",2017-04-15,1089.0,5-kilometres,road-running,female,senior,5-kilometres,track,939.0,USA,27.0,2017
 763,15:39,,Susan JEROTICH,1987-03-22,KEN,1,"Wheeling, WV (USA)",2014-08-02,1089.0,5-kilometres,road-running,female,senior,5-kilometres,track,939.0,USA,27.0,2014
 763,15:39,,Juliet CHEKWEL,1990-05-25,UGA,9,Rennes (FRA),2013-10-13,1089.0,5-kilometres,road-running,female,senior,5-kilometres,track,939.0,FRA,23.0,2013
 763,15:39,,Rose CHERUIYOT,1976-07-21,KEN,3,"Albany, NY (USA)",2009-05-30,1089.0,5-kilometres,road-running,female,senior,5-kilometres,track,939.0,USA,32.0,2009
-763,15:39,,Pauline Kiragu WANGURU,1980-08-26,KEN,2,Miyazaki (JPN),2007-01-06,1089.0,5-kilometres,road-running,female,senior,5-kilometres,track,939.0,JPN,26.0,2007
-763,15:39,,Katharina STEINRUCK,1989-08-22,GER,2,Wien (AUT),2024-05-26,1089.0,5-kilometres,road-running,female,senior,5-kilometres,track,939.0,AUT,34.0,2024
-763,15:39,,Mekedes ALEMESHETE,2006-03-30,ETH,11,Al Khobar (KSA),2024-12-14,1089.0,5-kilometres,road-running,female,senior,5-kilometres,track,939.0,KSA,18.0,2024
+763,15:39,,Fabienne KÖNIGSTEIN,1992-11-25,GER,11,"Meijijingu Gaien area, Tokyo (JPN)",2025-05-03,1089.0,5-kilometres,road-running,female,senior,5-kilometres,track,939.0,JPN,32.0,2025
+763,15:39,,Verity OCKENDEN,1991-08-31,GBR,2,Oderzo (ITA),2025-05-01,1089.0,5-kilometres,road-running,female,senior,5-kilometres,track,939.0,ITA,33.0,2025
+763,15:39,,Emily DURGIN,1994-05-15,USA,9,"Boston, MA (USA)",2024-04-13,1089.0,5-kilometres,road-running,female,senior,5-kilometres,track,939.0,USA,29.0,2024
 763,15:39,,Gebrewahd LETEBRHAN,,ETH,13,"Adi-Dassler-Straße 1, Herzogenaurach (GER)",2023-04-29,1089.0,5-kilometres,road-running,female,senior,5-kilometres,track,939.0,GER,,2023
 763,15:39,,Emily DURGIN,1994-05-15,USA,12,"Boston, MA (USA)",2023-04-15,1089.0,5-kilometres,road-running,female,senior,5-kilometres,track,939.0,USA,28.0,2023
 763,15:39,,Rebecca MWANGI,2001-06-15,KEN,3,Fukuoka (JPN),2022-11-12,1089.0,5-kilometres,road-running,female,senior,5-kilometres,track,939.0,JPN,21.0,2022
@@ -777,15 +778,15 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 763,15:39,,Mary MUNANU,1994-12-12,KEN,1,"Grand Rapids, MI (USA)",2021-10-23,1089.0,5-kilometres,road-running,female,senior,5-kilometres,track,939.0,USA,26.0,2021
 763,15:39,,Lauren PAQUETTE,1986-06-27,USA,3,"Memphis, TN (USA)",2020-11-14,1089.0,5-kilometres,road-running,female,senior,5-kilometres,track,939.0,USA,34.0,2020
 763,15:39,,Vicoty CHEPNGENO,1993-11-12,KEN,1,"Wheeling, WV (USA)",2018-08-04,1089.0,5-kilometres,road-running,female,senior,5-kilometres,track,939.0,USA,24.0,2018
-763,15:39,,Natasha WODAK,1981-12-17,CAN,1,Vancouver (CAN),2018-03-17,1089.0,5-kilometres,road-running,female,senior,5-kilometres,track,939.0,CAN,36.0,2018
-763,15:39,,Natosha ROGERS,1991-05-07,USA,3,"New York, NY (USA)",2017-11-04,1089.0,5-kilometres,road-running,female,senior,5-kilometres,track,939.0,USA,26.0,2017
+763,15:39,,Carmen DE OLIVEIRA,1965-08-17,BRA,1,"Albany, NY (USA)",1992-06-06,1089.0,5-kilometres,road-running,female,senior,5-kilometres,track,939.0,USA,26.0,1992
 763,15:39,,Mary KNISELY,1959-05-29,USA,4,"Carlsbad, CA (USA)",1991-04-14,1089.0,5-kilometres,road-running,female,senior,5-kilometres,track,939.0,USA,31.0,1991
 763,15:39,,Irene Kwambai KIPCHUMBA,1978-10-25,KEN,2,Dongio (SUI),2005-03-28,1089.0,5-kilometres,road-running,female,senior,5-kilometres,track,939.0,SUI,26.0,2005
+763,15:39,,Pauline Kiragu WANGURU,1980-08-26,KEN,2,Miyazaki (JPN),2007-01-06,1089.0,5-kilometres,road-running,female,senior,5-kilometres,track,939.0,JPN,26.0,2007
 763,15:39,,Dorota GRUCA,1970-12-05,POL,2,"Austin, TX (USA)",2004-04-25,1089.0,5-kilometres,road-running,female,senior,5-kilometres,track,939.0,USA,33.0,2004
 763,15:39,,Teresa Wanjiku MBUGUA,1974-05-07,KEN,10,"Carlsbad, CA (USA)",2000-03-26,1089.0,5-kilometres,road-running,female,senior,5-kilometres,track,939.0,USA,25.0,2000
-763,15:39,,Carmen DE OLIVEIRA,1965-08-17,BRA,1,"Albany, NY (USA)",1992-06-06,1089.0,5-kilometres,road-running,female,senior,5-kilometres,track,939.0,USA,26.0,1992
-763,15:39,,Fabienne KÖNIGSTEIN,1992-11-25,GER,11,"Meijijingu Gaien area, Tokyo (JPN)",2025-05-03,1089.0,5-kilometres,road-running,female,senior,5-kilometres,track,939.0,JPN,32.0,2025
-763,15:39,,Verity OCKENDEN,1991-08-31,GBR,2,Oderzo (ITA),2025-05-01,1089.0,5-kilometres,road-running,female,senior,5-kilometres,track,939.0,ITA,33.0,2025
+763,15:39,,Mekedes ALEMESHETE,2006-03-30,ETH,11,Al Khobar (KSA),2024-12-14,1089.0,5-kilometres,road-running,female,senior,5-kilometres,track,939.0,KSA,18.0,2024
+763,15:39,,Tinebeb ASRES,2006-01-01,ETH,7,"Adi-Dassler-Straße 1, Herzogenaurach (GER)",2024-04-27,1089.0,5-kilometres,road-running,female,senior,5-kilometres,track,939.0,GER,18.0,2024
+788,15:40,,Elvanie NIMBONA,1998-03-15,BDI,1,Melegnano (ITA),2025-05-24,1087.0,5-kilometres,road-running,female,senior,5-kilometres,track,940.0,ITA,27.0,2025
 788,15:40,,Svenja PINGPANK,1996-10-30,GER,4,Monaco (MON),2024-02-11,1087.0,5-kilometres,road-running,female,senior,5-kilometres,track,940.0,MON,27.0,2024
 788,15:40,,Dolphine Nyaboke OMARE,2001-07-26,KEN,2f1,Fukuoka (JPN),2023-11-11,1087.0,5-kilometres,road-running,female,senior,5-kilometres,track,940.0,JPN,22.0,2023
 788,15:40,,Fiona O'KEEFFE,1998-05-24,USA,11f1,Riga (LAT),2023-10-01,1087.0,5-kilometres,road-running,female,senior,5-kilometres,track,940.0,LAT,25.0,2023
@@ -799,18 +800,18 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 788,15:40,,Tigist TUFA,1987-01-26,ETH,1,"Binghamton, NY (USA)",2013-08-25,1087.0,5-kilometres,road-running,female,senior,5-kilometres,track,940.0,USA,26.0,2013
 788,15:40,,Kim CONLEY,1986-03-14,USA,1,San José (USA),2012-11-22,1087.0,5-kilometres,road-running,female,senior,5-kilometres,track,940.0,USA,26.0,2012
 788,15:40,,Alice Jemeli TIMBILILI,1983-02-01,KEN,2,Lisboa (POR),2011-05-29,1087.0,5-kilometres,road-running,female,senior,5-kilometres,track,940.0,POR,28.0,2011
-788,15:40,,Irina MIKITENKO,1972-08-23,GER,1,Wien (AUT),2010-05-30,1087.0,5-kilometres,road-running,female,senior,5-kilometres,track,940.0,AUT,37.0,2010
+788,15:40,,Everlyn KEMBOI,,USA,1,"Boulder, CO (USA)",2025-09-28,1087.0,5-kilometres,road-running,female,senior,5-kilometres,track,940.0,USA,,2025
 788,15:40,,Carina REICHT,2001-07-04,AUT,5,"Prater Hauptallee, Wien (AUT)",2025-05-25,1087.0,5-kilometres,road-running,female,senior,5-kilometres,track,940.0,AUT,23.0,2025
-788,15:40,,Elvanie NIMBONA,1998-03-15,BDI,1,Melegnano (ITA),2025-05-24,1087.0,5-kilometres,road-running,female,senior,5-kilometres,track,940.0,ITA,27.0,2025
-788,15:40,,Mary KNISELY,1959-05-29,USA,5,"Carlsbad, CA (USA)",1990-03-25,1087.0,5-kilometres,road-running,female,senior,5-kilometres,track,940.0,USA,30.0,1990
 788,15:40,,Lorraine MOLLER,1955-06-01,NZL,2,"Carlsbad, CA (USA)",1988-03-27,1087.0,5-kilometres,road-running,female,senior,5-kilometres,track,940.0,USA,32.0,1988
+788,15:40,,Mary KNISELY,1959-05-29,USA,5,"Carlsbad, CA (USA)",1990-03-25,1087.0,5-kilometres,road-running,female,senior,5-kilometres,track,940.0,USA,30.0,1990
+788,15:40,,Yoshiko FUJINAGA,1981-08-15,JPN,2,Miyazaki (JPN),2005-01-06,1087.0,5-kilometres,road-running,female,senior,5-kilometres,track,940.0,JPN,23.0,2005
 788,15:40,,Elva DRYER,1971-09-26,USA,6,"Carlsbad, CA (USA)",1997-04-13,1087.0,5-kilometres,road-running,female,senior,5-kilometres,track,940.0,USA,25.0,1997
 788,15:40,,Breeda DENNEHY-WILLIS,1970-02-02,IRL,3,"Carlsbad, CA (USA)",1996-03-31,1087.0,5-kilometres,road-running,female,senior,5-kilometres,track,940.0,USA,26.0,1996
 788,15:40,,Anikó KÁLOVICS,1977-05-13,HUN,1,Praha (CZE),2005-09-11,1087.0,5-kilometres,road-running,female,senior,5-kilometres,track,940.0,CZE,28.0,2005
-788,15:40,,Yoshiko FUJINAGA,1981-08-15,JPN,2,Miyazaki (JPN),2005-01-06,1087.0,5-kilometres,road-running,female,senior,5-kilometres,track,940.0,JPN,23.0,2005
-788,15:40,,Anikó KÁLOVICS,1977-05-13,HUN,1,Praha (CZE),2006-09-10,1087.0,5-kilometres,road-running,female,senior,5-kilometres,track,940.0,CZE,29.0,2006
 788,15:40,,Olga KRAVTSOVA,1981-07-25,BLR,1,"Providence, RI (USA)",2006-09-17,1087.0,5-kilometres,road-running,female,senior,5-kilometres,track,940.0,USA,25.0,2006
 788,15:40,,Sara HALL,1983-04-15,USA,2,"Providence, RI (USA)",2006-09-17,1087.0,5-kilometres,road-running,female,senior,5-kilometres,track,940.0,USA,23.0,2006
 788,15:40,,Malindi ELMORE,1980-03-13,CAN,4,"Carlsbad, CA (USA)",2007-04-01,1087.0,5-kilometres,road-running,female,senior,5-kilometres,track,940.0,USA,27.0,2007
+788,15:40,,Anikó KÁLOVICS,1977-05-13,HUN,1,Praha (CZE),2006-09-10,1087.0,5-kilometres,road-running,female,senior,5-kilometres,track,940.0,CZE,29.0,2006
+788,15:40,,Irina MIKITENKO,1972-08-23,GER,1,Wien (AUT),2010-05-30,1087.0,5-kilometres,road-running,female,senior,5-kilometres,track,940.0,AUT,37.0,2010
 788,15:40,,Susan CHEPKEMEI,1975-06-25,KEN,7,London (GBR),2006-09-03,1087.0,5-kilometres,road-running,female,senior,5-kilometres,track,940.0,GBR,31.0,2006
 788,15:40,,Edith MASAI,1967-04-04,KEN,1,Neuss (GER),2006-05-20,1087.0,5-kilometres,road-running,female,senior,5-kilometres,track,940.0,GER,39.0,2006

@@ -158,12 +158,12 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 153,30:37.26,,Tegla LOROUPE,1973-05-09,KEN,5,"Olympic Stadium, Sydney (AUS)",2000-09-30,1213.0,10000-metres,middlelong,female,senior,10000-metres,track,1837.26,AUS,27.0,2000
 155,30:37.31,,Daisy CHEROTICH,1997-05-30,KEN,3,"FBK Stadium, Hengelo (NED)",2021-06-06,1213.0,10000-metres,middlelong,female,senior,10000-metres,track,1837.31,NED,24.0,2021
 156,30:37.38,,Genet YALEW,1992-12-31,ETH,5,Hengelo (NED),2016-06-29,1213.0,10000-metres,middlelong,female,senior,10000-metres,track,1837.38,NED,23.0,2016
-157,30:37.61,,Beatrice CHEBET,2000-03-05,KEN,1f1,"National Stadium, Tokyo (JPN)",2025-09-13,1213.0,10000-metres,middlelong,female,senior,10000-metres,track,1837.61,JPN,25.0,2025
+157,30:37.61,,Beatrice CHEBET,2000-03-05,KEN,1,"National Stadium, Tokyo (JPN)",2025-09-13,1213.0,10000-metres,middlelong,female,senior,10000-metres,track,1837.61,JPN,25.0,2025
 158,30:37.68,,Benita WILLIS-JOHNSON,1979-05-06,AUS,8,"Stade de France, Paris-St-Denis (FRA)",2003-08-23,1213.0,10000-metres,middlelong,female,senior,10000-metres,track,1837.68,FRA,24.0,2003
 159,30:37.89,,Letesenbet GIDEY,1998-03-20,ETH,1,Hengelo (NED),2019-07-17,1213.0,10000-metres,middlelong,female,senior,10000-metres,track,1837.89,NED,21.0,2019
 160,30:38.09,,Yanmei DONG,1977-02-16,CHN,1,Shanghai (CHN),1997-10-19,1213.0,10000-metres,middlelong,female,senior,10000-metres,track,1838.09,CHN,20.0,1997
 161,30:38.18,,Rosemary WANJIRU,1994-12-09,KEN,1,"Athletic Track, Abashiri (JPN)",2020-07-15,1213.0,10000-metres,middlelong,female,senior,10000-metres,track,1838.18,JPN,25.0,2020
-162,30:38.23,,Nadia BATTOCLETTI,2000-04-12,ITA,2f1,"National Stadium, Tokyo (JPN)",2025-09-13,1212.0,10000-metres,middlelong,female,senior,10000-metres,track,1838.23,JPN,25.0,2025
+162,30:38.23,,Nadia BATTOCLETTI,2000-04-12,ITA,2,"National Stadium, Tokyo (JPN)",2025-09-13,1212.0,10000-metres,middlelong,female,senior,10000-metres,track,1838.23,JPN,25.0,2025
 163,30:38.33,,Mestawat TUFA,1983-09-14,ETH,1,Nijmegen (NED),2008-06-25,1212.0,10000-metres,middlelong,female,senior,10000-metres,track,1838.33,NED,24.0,2008
 164,30:38.35,,Sally KIPYEGO,1985-12-19,KEN,1f1,"Palo Alto, CA (USA)",2011-05-01,1212.0,10000-metres,middlelong,female,senior,10000-metres,track,1838.35,USA,25.0,2011
 165,30:38.60,,Weini KELATI FREZGHI,1996-12-01,USA,2f2,"JSerra Catholic HS, San Juan Capistrano, CA (USA)",2025-03-29,1212.0,10000-metres,middlelong,female,senior,10000-metres,track,1838.6,USA,28.0,2025
@@ -173,7 +173,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 168,30:39.41,,Lixin LAN,1979-02-14,CHN,2,Shanghai (CHN),1997-10-19,1211.0,10000-metres,middlelong,female,senior,10000-metres,track,1839.41,CHN,18.0,1997
 169,30:39.57,,Shalane FLANAGAN,1981-07-08,USA,2f1,"Palo Alto, CA (USA)",2011-05-01,1211.0,10000-metres,middlelong,female,senior,10000-metres,track,1839.57,USA,29.0,2011
 170,30:39.60,,Bosena MULATIE,2001-11-21,ETH,6,"Estadio Enrique Lopez Cuenca, Nerja (ESP)",2023-06-23,1211.0,10000-metres,middlelong,female,senior,10000-metres,track,1839.6,ESP,21.0,2023
-171,30:39.65,,Gudaf TSEGAY,1997-01-23,ETH,3f1,"National Stadium, Tokyo (JPN)",2025-09-13,1211.0,10000-metres,middlelong,female,senior,10000-metres,track,1839.65,JPN,28.0,2025
+171,30:39.65,,Gudaf TSEGAY,1997-01-23,ETH,3,"National Stadium, Tokyo (JPN)",2025-09-13,1211.0,10000-metres,middlelong,female,senior,10000-metres,track,1839.65,JPN,28.0,2025
 172,30:39.71,,Ririka HIRONAKA,2000-11-24,JPN,12,"Hayward Field, Eugene, OR (USA)",2022-07-16,1211.0,10000-metres,middlelong,female,senior,10000-metres,track,1839.71,USA,21.0,2022
 173,30:39.96,,Lucy Kabuu WANGUI,1984-03-24,KEN,5,"National Stadium, Beijing (CHN)",2008-08-15,1211.0,10000-metres,middlelong,female,senior,10000-metres,track,1839.96,CHN,24.0,2008
 5,30:39.98,,Lili YIN,1979-11-11,CHN,3,Shanghai (CHN),1997-10-19,1211.0,10000-metres,middlelong,female,u20,10000-metres,track,1839.98,CHN,17.0,1997
@@ -191,7 +191,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 185,30:41.93,,Francine NIYONSABA,1993-05-05,BDI,5,"National Stadium, Tokyo (JPN)",2021-08-07,1209.0,10000-metres,middlelong,female,senior,10000-metres,track,1841.93,JPN,28.0,2021
 186,30:41.95,,Joy CHEPTOYEK,2002-05-15,UGA,4,"Nyayo National Stadium, Nairobi (KEN)",2025-07-22,1209.0,10000-metres,middlelong,female,senior,10000-metres,track,1841.95,KEN,23.0,2025
 187,30:42.26,,Sally KIPYEGO,1985-12-19,KEN,1f1,"Palo Alto, CA (USA)",2014-05-04,1209.0,10000-metres,middlelong,female,senior,10000-metres,track,1842.26,USA,28.0,2014
-188,30:42.66,,Agnes Jebet NGETICH,2001-01-23,KEN,4f1,"National Stadium, Tokyo (JPN)",2025-09-13,1208.0,10000-metres,middlelong,female,senior,10000-metres,track,1842.66,JPN,24.0,2025
+188,30:42.66,,Agnes Jebet NGETICH,2001-01-23,KEN,4,"National Stadium, Tokyo (JPN)",2025-09-13,1208.0,10000-metres,middlelong,female,senior,10000-metres,track,1842.66,JPN,24.0,2025
 189,30:42.75,,Paula RADCLIFFE,1973-12-17,GBR,9,"Olympiastadion, Helsinki (FIN)",2005-08-06,1208.0,10000-metres,middlelong,female,senior,10000-metres,track,1842.75,FIN,31.0,2005
 190,30:43.25,,Beatrice CHEBET,2000-03-05,KEN,1,"Stade de France, Paris (FRA)",2024-08-09,1208.0,10000-metres,middlelong,female,senior,10000-metres,track,1843.25,FRA,24.0,2024
 191,30:43.35,,Nadia BATTOCLETTI,2000-04-12,ITA,2,"Stade de France, Paris (FRA)",2024-08-09,1208.0,10000-metres,middlelong,female,senior,10000-metres,track,1843.35,FRA,24.0,2024
@@ -304,7 +304,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 296,30:55.16,,Kara GOUCHER,1978-07-09,USA,8,"National Stadium, Beijing (CHN)",2008-08-15,1197.0,10000-metres,middlelong,female,senior,10000-metres,track,1855.16,CHN,30.0,2008
 297,30:55.29,,Ririka HIRONAKA,2000-11-24,JPN,1,"National Stadium, Tokyo (JPN)",2023-12-10,1197.0,10000-metres,middlelong,female,senior,10000-metres,track,1855.29,JPN,23.0,2023
 298,30:55.50,,Sule UTURA,1990-02-08,ETH,5,"Mestský Stadion, Ostrava (CZE)",2013-06-27,1197.0,10000-metres,middlelong,female,senior,10000-metres,track,1855.5,CZE,23.0,2013
-299,30:55.52,,Ejgayehu TAYE,2000-02-10,ETH,5f1,"National Stadium, Tokyo (JPN)",2025-09-13,1197.0,10000-metres,middlelong,female,senior,10000-metres,track,1855.52,JPN,25.0,2025
+299,30:55.52,,Ejgayehu TAYE,2000-02-10,ETH,5,"National Stadium, Tokyo (JPN)",2025-09-13,1197.0,10000-metres,middlelong,female,senior,10000-metres,track,1855.52,JPN,25.0,2025
 300,30:55.56,,Mamitu DASKA,1983-10-16,ETH,4,Hengelo (NED),2015-06-17,1197.0,10000-metres,middlelong,female,senior,10000-metres,track,1855.56,NED,31.0,2015
 301,30:55.63,,Julia BLEASDALE,1981-09-09,GBR,8,"Olympic Stadium, London (GBR)",2012-08-03,1197.0,10000-metres,middlelong,female,senior,10000-metres,track,1855.63,GBR,30.0,2012
 302,30:55.67,,Irene Kwambai KIPCHUMBA,1978-10-25,KEN,2,Utrecht (NED),2005-06-17,1197.0,10000-metres,middlelong,female,senior,10000-metres,track,1855.67,NED,26.0,2005
@@ -486,7 +486,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 472,31:09.46,,Yuko KAWAKAMI,1975-08-01,JPN,2,"Brunswick, ME (USA)",2000-07-01,1184.0,10000-metres,middlelong,female,senior,10000-metres,track,1869.46,USA,24.0,2000
 474,31:09.56,,Sutume Asefa KEBEDE,1994-12-11,ETH,6,"FBK Stadium, Hengelo (NED)",2021-06-08,1184.0,10000-metres,middlelong,female,senior,10000-metres,track,1869.56,NED,26.0,2021
 475,31:09.58,,Emily SISSON,1991-10-12,USA,10,"National Stadium, Tokyo (JPN)",2021-08-07,1184.0,10000-metres,middlelong,female,senior,10000-metres,track,1869.58,JPN,29.0,2021
-476,31:09.62,,Ririka HIRONAKA,2000-11-24,JPN,6f1,"National Stadium, Tokyo (JPN)",2025-09-13,1184.0,10000-metres,middlelong,female,senior,10000-metres,track,1869.62,JPN,24.0,2025
+476,31:09.62,,Ririka HIRONAKA,2000-11-24,JPN,6,"National Stadium, Tokyo (JPN)",2025-09-13,1184.0,10000-metres,middlelong,female,senior,10000-metres,track,1869.62,JPN,24.0,2025
 477,31:09.65,,Deena KASTOR,1973-02-14,USA,1,"Sacramento, CA (USA)",2004-07-16,1184.0,10000-metres,middlelong,female,senior,10000-metres,track,1869.65,USA,31.0,2004
 478,31:09.79,,Rachel SCHNEIDER,1991-07-18,USA,1f2,"JSerra Catholic HS, San Juan Capistrano, CA (USA)",2020-12-05,1184.0,10000-metres,middlelong,female,senior,10000-metres,track,1869.79,USA,29.0,2020
 479,31:09.85,,Hawi FEYSA,1999-02-01,ETH,5,"Parliament Hill Fields Athletics Track, London (GBR)",2023-05-20,1184.0,10000-metres,middlelong,female,senior,10000-metres,track,1869.85,GBR,24.0,2023
@@ -585,7 +585,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 14,31:14.98,,Linet Chepkwemoi MASAI,1989-12-05,KEN,7,Ostrava (CZE),2008-06-12,1179.0,10000-metres,middlelong,female,u20,10000-metres,track,1874.98,CZE,18.0,2008
 570,31:14.98,,Linet Chepkwemoi MASAI,1989-12-05,KEN,7,Ostrava (CZE),2008-06-12,1179.0,10000-metres,middlelong,female,senior,10000-metres,track,1874.98,CZE,18.0,2008
 571,31:15.00,,Galina ZAKHAROVA,1956-09-07,URS,2,Kiev (URS),1984-06-24,1179.0,10000-metres,middlelong,female,senior,10000-metres,track,1875.0,URS,27.0,1984
-572,31:15.03,,Joy CHEPTOYEK,2002-05-15,UGA,7f1,"National Stadium, Tokyo (JPN)",2025-09-13,1179.0,10000-metres,middlelong,female,senior,10000-metres,track,1875.03,JPN,23.0,2025
+572,31:15.03,,Joy CHEPTOYEK,2002-05-15,UGA,7,"National Stadium, Tokyo (JPN)",2025-09-13,1179.0,10000-metres,middlelong,female,senior,10000-metres,track,1875.03,JPN,23.0,2025
 573,31:15.05,,Mercyline CHELANGAT,1997-12-17,UGA,6,"FBK Stadium, Hengelo (NED)",2021-06-06,1179.0,10000-metres,middlelong,female,senior,10000-metres,track,1875.05,NED,23.0,2021
 574,31:15.34,,Tomoko HADORI,1981-05-28,JPN,3,Kobe (JPN),2004-04-25,1179.0,10000-metres,middlelong,female,senior,10000-metres,track,1875.34,JPN,22.0,2004
 2,31:15.38,,Sally BARSOSIO,1978-03-21,KEN,3,"Gottlieb-Daimler Stadion, Stuttgart (GER)",1993-08-21,1179.0,10000-metres,middlelong,female,u18,10000-metres,track,1875.38,GER,15.0,1993
@@ -716,7 +716,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 693,31:21.53,,Samantha HARRISON,1995-02-01,GBR,6,"Alexander Stadium, Birmingham (GBR)",2022-08-03,1173.0,10000-metres,middlelong,female,senior,10000-metres,track,1881.53,GBR,27.0,2022
 694,31:21.57,,Shitaye ESHETE,1990-05-21,BRN,6,"DS, Daegu (KOR)",2011-08-27,1173.0,10000-metres,middlelong,female,senior,10000-metres,track,1881.57,KOR,21.0,2011
 695,31:21.65,,Ednah KURGAT,1991-06-15,USA,2,"Irvine, CA (USA)",2021-05-14,1173.0,10000-metres,middlelong,female,senior,10000-metres,track,1881.65,USA,29.0,2021
-696,31:21.67,,Fotyen TESFAY,1998-02-17,ETH,8f1,"National Stadium, Tokyo (JPN)",2025-09-13,1173.0,10000-metres,middlelong,female,senior,10000-metres,track,1881.67,JPN,27.0,2025
+696,31:21.67,,Fotyen TESFAY,1998-02-17,ETH,8,"National Stadium, Tokyo (JPN)",2025-09-13,1173.0,10000-metres,middlelong,female,senior,10000-metres,track,1881.67,JPN,27.0,2025
 697,31:21.74,,Rebecca CHELANGAT,2002-01-01,UGA,1,"Sportcomplex De Leidse Hout, Leiden (NED)",2025-06-14,1173.0,10000-metres,middlelong,female,senior,10000-metres,track,1881.74,NED,23.0,2025
 698,31:21.75,,Sarah LANCASTER,1987-12-01,USA,6,"JSerra Catholic HS, San Juan Capistrano, CA (USA)",2022-03-06,1173.0,10000-metres,middlelong,female,senior,10000-metres,track,1881.75,USA,34.0,2022
 699,31:21.78,,Marielle HALL,1992-01-28,USA,5,"JSerra Catholic HS, San Juan Capistrano, CA (USA)",2021-02-20,1173.0,10000-metres,middlelong,female,senior,10000-metres,track,1881.78,USA,29.0,2021
@@ -845,7 +845,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 817,31:27.58,,Raisa SADREYDINOVA,1950-05-09,URS,1,Odessa (URS),1983-09-07,1168.0,10000-metres,middlelong,female,senior,10000-metres,track,1887.58,URS,33.0,1983
 819,31:27.62,,Chiemi TAKAHASHI,1976-02-16,JPN,5,"La Cartuja, Sevilla (ESP)",1999-08-26,1168.0,10000-metres,middlelong,female,senior,10000-metres,track,1887.62,ESP,23.0,1999
 820,31:27.73,,Jackline CHEPNGENO,1993-01-16,KEN,2,Durban (RSA),2016-06-25,1168.0,10000-metres,middlelong,female,senior,10000-metres,track,1887.73,RSA,23.0,2016
-821,31:27.78,,Lauren RYAN,1998-03-15,AUS,9f1,"National Stadium, Tokyo (JPN)",2025-09-13,1168.0,10000-metres,middlelong,female,senior,10000-metres,track,1887.78,JPN,27.0,2025
+821,31:27.78,,Lauren RYAN,1998-03-15,AUS,9,"National Stadium, Tokyo (JPN)",2025-09-13,1168.0,10000-metres,middlelong,female,senior,10000-metres,track,1887.78,JPN,27.0,2025
 822,31:27.80,,Tiki GELANA,1987-10-22,ETH,9,Ostrava (CZE),2008-06-12,1168.0,10000-metres,middlelong,female,senior,10000-metres,track,1887.8,CZE,20.0,2008
 823,31:27.82,,Maria GUIDA,1966-01-23,ITA,4,"Ullevi Stadium, Göteborg (SWE)",1995-08-09,1168.0,10000-metres,middlelong,female,senior,10000-metres,track,1887.82,SWE,29.0,1995
 824,31:27.83,,Salina Jebet KOSGEI,1976-11-16,KEN,1,Manchester (GBR),2002-07-30,1168.0,10000-metres,middlelong,female,senior,10000-metres,track,1887.83,GBR,25.0,2002
@@ -1032,7 +1032,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 997,31:33.77,,Miriam DATTKE,1998-06-24,GER,12,"Olympiastadion, Stockholm (SWE)",2021-05-04,1162.0,10000-metres,middlelong,female,senior,10000-metres,track,1893.77,SWE,22.0,2021
 998,31:33.82,,Katie MCGREGOR,1977-09-02,USA,1,"Carson, CA (USA)",2005-06-24,1162.0,10000-metres,middlelong,female,senior,10000-metres,track,1893.82,USA,27.0,2005
 999,31:33.83,,Emily DURGIN,1994-05-15,USA,4,"JSerra Catholic HS, San Juan Capistrano, CA (USA)",2022-05-06,1162.0,10000-metres,middlelong,female,senior,10000-metres,track,1893.83,USA,27.0,2022
-1000,31:33.85,,Megan KEITH,2002-04-23,GBR,10f1,"National Stadium, Tokyo (JPN)",2025-09-13,1162.0,10000-metres,middlelong,female,senior,10000-metres,track,1893.85,JPN,23.0,2025
+1000,31:33.85,,Megan KEITH,2002-04-23,GBR,10,"National Stadium, Tokyo (JPN)",2025-09-13,1162.0,10000-metres,middlelong,female,senior,10000-metres,track,1893.85,JPN,23.0,2025
 1001,31:33.92,,Kathrin WESSEL,1967-08-14,GDR,1,"Estadio Olímpico, Barcelona (ESP)",1989-09-09,1162.0,10000-metres,middlelong,female,senior,10000-metres,track,1893.92,ESP,22.0,1989
 1002,31:34.01,,Megumi TANAKA-OSHIMA,1975-09-04,JPN,2,Tottori (JPN),2004-06-04,1162.0,10000-metres,middlelong,female,senior,10000-metres,track,1894.01,JPN,28.0,2004
 1003,31:34.08,,Harumi HIROYAMA-SUZUKI,1968-09-02,JPN,3,Tottori (JPN),2004-06-04,1162.0,10000-metres,middlelong,female,senior,10000-metres,track,1894.08,JPN,35.0,2004
@@ -1134,7 +1134,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 1097,31:37.71,,Yuka ANDO,1994-03-16,JPN,8,"Yanmar Stadium Nagai, Osaka (JPN)",2020-12-04,1159.0,10000-metres,middlelong,female,senior,10000-metres,track,1897.71,JPN,26.0,2020
 1098,31:37.72,,Kara GOUCHER,1978-07-09,USA,2,"Eugene, OR (USA)",2008-06-27,1159.0,10000-metres,middlelong,female,senior,10000-metres,track,1897.72,USA,29.0,2008
 1099,31:37.81,,Rose CHELIMO,1989-07-12,BRN,2,Baku (AZE),2017-05-20,1159.0,10000-metres,middlelong,female,senior,10000-metres,track,1897.81,AZE,27.0,2017
-1099,31:37.81,,Calli HAUGER-THACKERY,1993-01-09,GBR,11f1,"National Stadium, Tokyo (JPN)",2025-09-13,1159.0,10000-metres,middlelong,female,senior,10000-metres,track,1897.81,JPN,32.0,2025
+1099,31:37.81,,Calli HAUGER-THACKERY,1993-01-09,GBR,11,"National Stadium, Tokyo (JPN)",2025-09-13,1159.0,10000-metres,middlelong,female,senior,10000-metres,track,1897.81,JPN,32.0,2025
 1101,31:37.82,,Katie MCGREGOR,1977-09-02,USA,3,"Palo Alto, CA (USA)",2007-04-29,1159.0,10000-metres,middlelong,female,senior,10000-metres,track,1897.82,USA,29.0,2007
 1102,31:37.85,,Katrina COOGAN,1993-11-15,USA,2,"Jack Kemp Stadium, Los Angeles, CA (USA)",2024-05-11,1159.0,10000-metres,middlelong,female,senior,10000-metres,track,1897.85,USA,30.0,2024
 1103,31:37.88,,Yuka SUZUKI,1999-09-14,JPN,4f2,"Ishin Me-Life Stadium, Yamaguchi (JPN)",2019-12-07,1159.0,10000-metres,middlelong,female,senior,10000-metres,track,1897.88,JPN,20.0,2019
@@ -1230,7 +1230,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 1190,31:39.98,,Kayoko FUKUSHI,1982-03-25,JPN,1,Marugame (JPN),2005-09-25,1157.0,10000-metres,middlelong,female,senior,10000-metres,track,1899.98,JPN,23.0,2005
 1191,31:40.02,,Bontu Edao REBITU,1997-12-12,BRN,1,"Complexe Olympique Mohamed Boudiaf, Algiers (ALG)",2023-07-06,1157.0,10000-metres,middlelong,female,senior,10000-metres,track,1900.02,ALG,25.0,2023
 1192,31:40.04,,Sarah CHELANGAT,2001-06-05,UGA,10,"Nemzeti Atlétikai Központ, Budapest (HUN)",2023-08-19,1157.0,10000-metres,middlelong,female,senior,10000-metres,track,1900.04,HUN,22.0,2023
-1193,31:40.07,,Elise CRANNY,1996-05-09,USA,12f1,"National Stadium, Tokyo (JPN)",2025-09-13,1157.0,10000-metres,middlelong,female,senior,10000-metres,track,1900.07,JPN,29.0,2025
+1193,31:40.07,,Elise CRANNY,1996-05-09,USA,12,"National Stadium, Tokyo (JPN)",2025-09-13,1157.0,10000-metres,middlelong,female,senior,10000-metres,track,1900.07,JPN,29.0,2025
 1194,31:40.10,,Isobel BATT-DOYLE,1995-09-14,AUS,,"Parliament Hill Fields Athletics Track, London (GBR)",2022-05-14,1157.0,10000-metres,middlelong,female,senior,10000-metres,track,1900.1,GBR,26.0,2022
 1195,31:40.13,,Glenrose XABA,1994-12-31,RSA,1,"Green Point Stadium, Cape Town (RSA)",2025-04-04,1157.0,10000-metres,middlelong,female,senior,10000-metres,track,1900.13,RSA,30.0,2025
 1196,31:40.14,,Liz MCCOLGAN,1964-05-24,GBR,6,"Ullevi Stadium, Göteborg (SWE)",1995-08-09,1157.0,10000-metres,middlelong,female,senior,10000-metres,track,1900.14,SWE,31.0,1995
@@ -1391,7 +1391,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 1343,31:43.93,,Joyciline JEPKOSGEI,1993-12-28,KEN,2,"Moi International Sports Centre, Kasarani, Nairobi (KEN)",2019-07-03,1153.0,10000-metres,middlelong,female,senior,10000-metres,track,1903.93,KEN,25.0,2019
 1344,31:44.02,,Rina NABESHIMA,1993-12-16,JPN,1,Osaka (JPN),2019-05-19,1153.0,10000-metres,middlelong,female,senior,10000-metres,track,1904.02,JPN,25.0,2019
 1345,31:44.03,,Haruka KOKAI,2003-01-20,JPN,19,"Stade de France, Paris (FRA)",2024-08-09,1153.0,10000-metres,middlelong,female,senior,10000-metres,track,1904.03,FRA,21.0,2024
-1346,31:44.05,,Jana VAN LENT,2001-04-22,BEL,13f1,"National Stadium, Tokyo (JPN)",2025-09-13,1153.0,10000-metres,middlelong,female,senior,10000-metres,track,1904.05,JPN,24.0,2025
+1346,31:44.05,,Jana VAN LENT,2001-04-22,BEL,13,"National Stadium, Tokyo (JPN)",2025-09-13,1153.0,10000-metres,middlelong,female,senior,10000-metres,track,1904.05,JPN,24.0,2025
 1347,31:44.06,,Caroline Chepkoech KIPKIRUI,1994-05-26,KEN,1,"Griswold Stadium, Portland, OR (USA)",2021-05-28,1153.0,10000-metres,middlelong,female,senior,10000-metres,track,1904.06,USA,27.0,2021
 1348,31:44.12,,Sabrina MOCKENHAUPT,1980-12-06,GER,1,Regensburg (GER),2006-06-17,1153.0,10000-metres,middlelong,female,senior,10000-metres,track,1904.12,GER,25.0,2006
 1349,31:44.13,,Shiori YANO,1995-02-11,JPN,5f2,Yamaguchi (JPN),2018-12-08,1153.0,10000-metres,middlelong,female,senior,10000-metres,track,1904.13,JPN,23.0,2018
@@ -1538,7 +1538,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 1485,31:47.59,,Jennifer RHINES,1974-07-01,USA,9,"DS, Daegu (KOR)",2011-08-27,1150.0,10000-metres,middlelong,female,senior,10000-metres,track,1907.59,KOR,37.0,2011
 1486,31:47.60,,Kayo SUGIHARA,1983-02-24,JPN,5,Oita (JPN),2006-10-01,1150.0,10000-metres,middlelong,female,senior,10000-metres,track,1907.6,JPN,23.0,2006
 1486,31:47.60,,Izzy FRY,2000-05-04,GBR,3,"Birmingham University Athletics Track, Birmingham (GBR)",2025-06-14,1150.0,10000-metres,middlelong,female,senior,10000-metres,track,1907.6,GBR,25.0,2025
-1488,31:47.65,,Emily INFELD,1990-03-21,USA,14f1,"National Stadium, Tokyo (JPN)",2025-09-13,1150.0,10000-metres,middlelong,female,senior,10000-metres,track,1907.65,JPN,35.0,2025
+1488,31:47.65,,Emily INFELD,1990-03-21,USA,14,"National Stadium, Tokyo (JPN)",2025-09-13,1150.0,10000-metres,middlelong,female,senior,10000-metres,track,1907.65,JPN,35.0,2025
 1489,31:47.67,,Mika YOSHIKAWA,1984-09-16,JPN,16,"Olympic Stadium, London (GBR)",2012-08-03,1150.0,10000-metres,middlelong,female,senior,10000-metres,track,1907.67,GBR,27.0,2012
 1489,31:47.67,,Olga BONDARENKO,1960-06-02,URS,2h1,"Olympic Stadium, Seoul (KOR)",1988-09-26,1150.0,10000-metres,middlelong,female,senior,10000-metres,track,1907.67,KOR,28.0,1988
 1491,31:47.70,,Kathrin WESSEL,1967-08-14,GDR,2,"Poljud Stadion, Split (CRO)",1990-08-31,1150.0,10000-metres,middlelong,female,senior,10000-metres,track,1907.7,CRO,23.0,1990
@@ -1642,9 +1642,9 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 1584,31:49.73,,Alemitu HAROYE,1995-05-09,ETH,7,"National Stadium, Beijing (CHN)",2015-08-24,1148.0,10000-metres,middlelong,female,senior,10000-metres,track,1909.73,CHN,20.0,2015
 1585,31:49.74,,Mikuni YADA,1999-10-29,JPN,8,"National Stadium, Tokyo (JPN)",2023-12-10,1148.0,10000-metres,middlelong,female,senior,10000-metres,track,1909.74,JPN,24.0,2023
 1586,31:49.75,,Lonah Chemtai SALPETER,1988-12-12,ISR,1,"Hadar Yosef Stadium, Tel Aviv (ISR)",2022-04-26,1148.0,10000-metres,middlelong,female,senior,10000-metres,track,1909.75,ISR,33.0,2022
-1587,31:49.76,,Klara LUKAN,2000-09-08,SLO,15f1,"National Stadium, Tokyo (JPN)",2025-09-13,1148.0,10000-metres,middlelong,female,senior,10000-metres,track,1909.76,JPN,25.0,2025
+1587,31:49.76,,Klara LUKAN,2000-09-08,SLO,15,"National Stadium, Tokyo (JPN)",2025-09-13,1148.0,10000-metres,middlelong,female,senior,10000-metres,track,1909.76,JPN,25.0,2025
 1588,31:49.81,,Beatrice Chepkemoi MUTAI,1987-04-19,KEN,4,Gold Coast (AUS),2018-04-09,1148.0,10000-metres,middlelong,female,senior,10000-metres,track,1909.81,AUS,30.0,2018
-1589,31:49.87,,Daisy JEPKEMEI,1996-02-13,KAZ,16f1,"National Stadium, Tokyo (JPN)",2025-09-13,1148.0,10000-metres,middlelong,female,senior,10000-metres,track,1909.87,JPN,29.0,2025
+1589,31:49.87,,Daisy JEPKEMEI,1996-02-13,KAZ,16,"National Stadium, Tokyo (JPN)",2025-09-13,1148.0,10000-metres,middlelong,female,senior,10000-metres,track,1909.87,JPN,29.0,2025
 1589,31:49.87,,Dong LI,1973-12-09,CHN,2,Beijing (CHN),1994-06-05,1148.0,10000-metres,middlelong,female,senior,10000-metres,track,1909.87,CHN,20.0,1994
 1591,31:49.88,,Hellen OBIRI,1989-12-13,KEN,1,"Moi International Sports Centre, Kasarani, Nairobi (KEN)",2022-06-24,1148.0,10000-metres,middlelong,female,senior,10000-metres,track,1909.88,KEN,32.0,2022
 1592,31:49.89,,Noriko MATSUOKA,1979-05-02,JPN,8,Oita (JPN),2006-10-01,1148.0,10000-metres,middlelong,female,senior,10000-metres,track,1909.89,JPN,27.0,2006
@@ -1803,7 +1803,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 1741,31:53.38,,Blandine BITZNER-DUCRET,1965-12-01,FRA,8,Barakaldo (ESP),1999-04-10,1145.0,10000-metres,middlelong,female,senior,10000-metres,track,1913.38,ESP,33.0,1999
 54,31:53.38,,Sally BARSOSIO,1978-03-21,KEN,10,"Olympic Stadium, Atlanta, GA (USA)",1996-08-02,1145.0,10000-metres,middlelong,female,u20,10000-metres,track,1913.38,USA,18.0,1996
 1743,31:53.40,,Naomi SAKASHITA,1975-05-25,JPN,2,Mito (JPN),1996-05-06,1145.0,10000-metres,middlelong,female,senior,10000-metres,track,1913.4,JPN,20.0,1996
-1744,31:53.41,,Isobel BATT-DOYLE,1995-09-14,AUS,17f1,"National Stadium, Tokyo (JPN)",2025-09-13,1145.0,10000-metres,middlelong,female,senior,10000-metres,track,1913.41,JPN,30.0,2025
+1744,31:53.41,,Isobel BATT-DOYLE,1995-09-14,AUS,17,"National Stadium, Tokyo (JPN)",2025-09-13,1145.0,10000-metres,middlelong,female,senior,10000-metres,track,1913.41,JPN,30.0,2025
 1745,31:53.44,,Eloise WELLINGS,1982-11-09,AUS,1,Leiden (NED),2016-06-11,1145.0,10000-metres,middlelong,female,senior,10000-metres,track,1913.44,NED,33.0,2016
 1746,31:53.46,,Philes ONGORI,1986-07-19,KEN,1,"Berkeley, CA (USA)",2009-04-24,1145.0,10000-metres,middlelong,female,senior,10000-metres,track,1913.46,USA,22.0,2009
 1747,31:53.53,,Zhanna TURSUNOVA,1957-10-23,URS,3,Kiev (URS),1984-06-24,1145.0,10000-metres,middlelong,female,senior,10000-metres,track,1913.53,URS,26.0,1984
@@ -2940,7 +2940,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 2836,32:12.12,,Gwen JORGENSEN,1986-04-25,USA,17f2,"JSerra Catholic HS, San Juan Capistrano, CA (USA)",2020-12-05,1128.0,10000-metres,middlelong,female,senior,10000-metres,track,1932.12,USA,34.0,2020
 2837,32:12.13,,Roberta BRUNET,1965-05-20,ITA,2,Pietrasanta (ITA),1996-05-05,1128.0,10000-metres,middlelong,female,senior,10000-metres,track,1932.13,ITA,30.0,1996
 2838,32:12.14,,Ryoko KIZAKI,1985-06-21,JPN,1,Shibetsu (JPN),2008-06-08,1128.0,10000-metres,middlelong,female,senior,10000-metres,track,1932.14,JPN,22.0,2008
-2839,32:12.19,,Taylor ROE,2000-10-13,USA,18f1,"National Stadium, Tokyo (JPN)",2025-09-13,1128.0,10000-metres,middlelong,female,senior,10000-metres,track,1932.19,JPN,24.0,2025
+2839,32:12.19,,Taylor ROE,2000-10-13,USA,18,"National Stadium, Tokyo (JPN)",2025-09-13,1128.0,10000-metres,middlelong,female,senior,10000-metres,track,1932.19,JPN,24.0,2025
 2840,32:12.2h,,Yelena TOLSTOGUZOVA,1962-06-17,URS,2,Kiev (URS),1988-06-24,1128.0,10000-metres,middlelong,female,senior,10000-metres,track,1932.2,URS,26.0,1988
 2841,32:12.24,,Yuka ANDO,1994-03-16,JPN,2,"Yanmar Stadium Nagai, Osaka (JPN)",2020-09-25,1128.0,10000-metres,middlelong,female,senior,10000-metres,track,1932.24,JPN,26.0,2020
 2841,32:12.24,,Yuka ANDO,1994-03-16,JPN,5,"Athletic Track, Abashiri (JPN)",2020-07-15,1128.0,10000-metres,middlelong,female,senior,10000-metres,track,1932.24,JPN,26.0,2020
@@ -2980,7 +2980,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 2873,32:12.7h,,Yingjie SUN,1979-01-19,CHN,1,Zhengzhou (CHN),1999-10-17,1128.0,10000-metres,middlelong,female,senior,10000-metres,track,1932.7,CHN,20.0,1999
 2875,32:12.72,,Federica DEL BUONO,1994-12-12,ITA,6f1,"Stade Complexe Sportif Jean-Paul Chasseboeuf, Pacé (FRA)",2025-05-24,1128.0,10000-metres,middlelong,female,senior,10000-metres,track,1932.72,FRA,30.0,2025
 97,32:12.72,,Marleen RENDERS,1968-12-24,BEL,4,Oslo (NOR),1987-07-04,1128.0,10000-metres,middlelong,female,u20,10000-metres,track,1932.72,NOR,18.0,1987
-2875,32:12.72,,Elisa PALMERO,1999-07-10,ITA,19f1,"National Stadium, Tokyo (JPN)",2025-09-13,1128.0,10000-metres,middlelong,female,senior,10000-metres,track,1932.72,JPN,26.0,2025
+2875,32:12.72,,Elisa PALMERO,1999-07-10,ITA,19,"National Stadium, Tokyo (JPN)",2025-09-13,1128.0,10000-metres,middlelong,female,senior,10000-metres,track,1932.72,JPN,26.0,2025
 2875,32:12.72,,Marleen RENDERS,1968-12-24,BEL,4,Oslo (NOR),1987-07-04,1128.0,10000-metres,middlelong,female,senior,10000-metres,track,1932.72,NOR,18.0,1987
 2878,32:12.74,,Yoko MANABE,1979-02-08,JPN,13,Kanazawa (JPN),2001-09-29,1128.0,10000-metres,middlelong,female,senior,10000-metres,track,1932.74,JPN,22.0,2001
 2879,32:12.76,,Joyce Chepkemoi TELE,1995-05-03,KEN,2,"Nyayo National Stadium, Nairobi (KEN)",2021-05-16,1128.0,10000-metres,middlelong,female,senior,10000-metres,track,1932.76,KEN,26.0,2021

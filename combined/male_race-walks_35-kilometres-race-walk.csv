@@ -1,351 +1,351 @@
 rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,discipline,type,sex,age_cat,normalized_discipline,track_field,mark_numeric,venue_country,age_at_event,season
-1,2:20:43,,Massimo STANO,1992-02-27,ITA,1,"Lázeňský Park, Poděbrady (CZE)",2025-05-18,1265,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8443.0,CZE,33,2025
-2,2:21:31,,Vladimir KANAYKIN,1985-03-21,RUS,1,"Adler, Sochi (RUS)",2006-02-19,1257,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8491.0,RUS,20,2006
-3,2:21:40,,Evan DUNFEE,1990-09-28,CAN,1,Dudince (SVK),2025-03-22,1255,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8500.0,SVK,34,2025
-4,2:21:47,,Masatora KAWANO,1998-10-23,JPN,1,"Takahata Race Walk Course, Takahata (JPN)",2024-10-27,1254,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8507.0,JPN,26,2024
-5,2:22:55,,Xianghong HE,1998-07-01,CHN,1,Huangshan (CHN),2023-03-04,1242,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8575.0,CHN,24,2023
-6,2:22:56,,Vasiliy MIZINOV,1997-12-29,RUS,1,"Avtodrom, Sochi (RUS)",2025-02-24,1242,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8576.0,RUS,27,2025
-7,2:23:13,,Tomohiro NODA,1996-01-24,JPN,1,"Wajima Race Walk Course, Wajima (JPN)",2023-04-16,1239,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8593.0,JPN,27,2023
-8,2:23:14,,Massimo STANO,1992-02-27,ITA,1,"Autzen Complex, Eugene, OR (USA)",2022-07-24,1239,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8594.0,USA,30,2022
-9,2:23:15,,Masatora KAWANO,1998-10-23,JPN,2,"Autzen Complex, Eugene, OR (USA)",2022-07-24,1238,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8595.0,USA,23,2022
-10,2:23:21,,Christopher LINKE,1988-10-24,GER,2,"Lázeňský Park, Poděbrady (CZE)",2025-05-18,1237,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8601.0,CZE,36,2025
-11,2:23:44,,Perseus KARLSTRÖM,1990-05-02,SWE,3,"Autzen Complex, Eugene, OR (USA)",2022-07-24,1233,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8624.0,USA,32,2022
-12,2:23:48,,Miguel Ángel LÓPEZ,1988-07-03,ESP,3,"Lázeňský Park, Poděbrady (CZE)",2025-05-18,1233,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8628.0,CZE,36,2025
-13,2:24:19,,Sergey KOZHEVNIKOV,2001-05-09,RUS,1,"Avtodrom, Sochi (RUS)",2023-02-13,1227,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8659.0,RUS,21,2023
-13,2:24:19,,Massimo STANO,1992-02-27,ITA,1,"St Anne's Park, Dublin (IRL)",2024-12-15,1227,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8659.0,IRL,32,2024
-15,2:24:24,,Satoshi MARUO,1991-11-28,JPN,2,"Takahata Race Walk Course, Takahata (JPN)",2024-10-27,1226,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8664.0,JPN,32,2024
-16,2:24:25,,Sergey BAKULIN,1986-11-13,RUS,1,"Adler, Sochi (RUS)",2009-03-01,1226,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8665.0,RUS,22,2009
-17,2:24:30,,Álvaro MARTÍN,1994-06-18,ESP,1,"Hősök tere, Budapest (HUN)",2023-08-24,1225,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8670.0,HUN,29,2023
-18,2:24:34,,Brian Daniel PINTADO,1995-07-29,ECU,2,"Hősök tere, Budapest (HUN)",2023-08-24,1225,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8674.0,HUN,28,2023
-19,2:24:37,,Brian Daniel PINTADO,1995-07-29,ECU,4,"Autzen Complex, Eugene, OR (USA)",2022-07-24,1224,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8677.0,USA,27,2022
-20,2:24:38,,Hayato KATSUKI,1990-11-28,JPN,1,Nomi (JPN),2025-03-16,1224,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8678.0,JPN,34,2025
-21,2:24:40,,Christopher LINKE,1988-10-24,GER,2,Dudince (SVK),2025-03-22,1224,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8680.0,SVK,36,2025
-22,2:24:41,,José Luis DOCTOR,1996-06-14,MEX,3,Dudince (SVK),2025-03-22,1223,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8681.0,SVK,28,2025
-23,2:24:45,,Xianghong HE,1998-07-01,CHN,5,"Autzen Complex, Eugene, OR (USA)",2022-07-24,1223,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8685.0,USA,24,2022
-24,2:24:53,,Sergey BAKULIN,1986-11-13,RUS,1,Sochi (RUS),2018-02-19,1221,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8693.0,RUS,31,2018
-25,2:24:56,,Denis NIZHEGORODOV,1980-07-26,RUS,2,"Adler, Sochi (RUS)",2009-03-01,1221,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8696.0,RUS,28,2009
-26,2:25:02,,Evan DUNFEE,1990-09-28,CAN,6,"Autzen Complex, Eugene, OR (USA)",2022-07-24,1220,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8702.0,USA,31,2022
-27,2:25:08,,Andres Eduardo OLIVAS NÚÑEZ,1998-05-27,MEX,2,Nomi (JPN),2025-03-16,1219,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8708.0,JPN,26,2025
-28,2:25:12,,Masatora KAWANO,1998-10-23,JPN,3,"Hősök tere, Budapest (HUN)",2023-08-24,1218,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8712.0,HUN,24,2023
-29,2:25:14,,Caio BONFIM,1991-03-19,BRA,7,"Autzen Complex, Eugene, OR (USA)",2022-07-24,1218,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8714.0,USA,31,2022
-30,2:25:19,,Andrey RUZAVIN,1986-03-28,RUS,3,"Adler, Sochi (RUS)",2009-03-01,1217,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8719.0,RUS,22,2009
-30,2:25:19,,Satoshi MARUO,1991-11-28,JPN,2,Nomi (JPN),2025-03-16,1217,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8719.0,JPN,33,2025
-32,2:25:21,,Eider ARÉVALO,1993-03-09,COL,8,"Autzen Complex, Eugene, OR (USA)",2022-07-24,1217,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8721.0,USA,29,2022
-32,2:25:21,,Rhydian COWLEY,1991-01-04,AUS,4,Nomi (JPN),2025-03-16,1217,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8721.0,JPN,34,2025
-34,2:25:28,,Evan DUNFEE,1990-09-28,CAN,4,"Hősök tere, Budapest (HUN)",2023-08-24,1215,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8728.0,HUN,32,2023
-35,2:25:29,,Tomohiro NODA,1996-01-24,JPN,9,"Autzen Complex, Eugene, OR (USA)",2022-07-24,1215,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8729.0,USA,26,2022
-36,2:25:32,,Qin WANG,1994-05-08,CHN,1,Hefei (CHN),2025-03-29,1215,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8732.0,CHN,30,2025
-37,2:25:35,,Álvaro MARTÍN,1994-06-18,ESP,1,Poděbrady (CZE),2023-05-21,1214,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8735.0,CZE,28,2023
-37,2:25:35,,Christopher LINKE,1988-10-24,GER,5,"Hősök tere, Budapest (HUN)",2023-08-24,1214,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8735.0,HUN,34,2023
-39,2:25:39,,Julio César SALAZAR,1993-07-08,MEX,4,Dudince (SVK),2025-03-22,1213,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8739.0,SVK,31,2025
-40,2:25:45,,Kazuki TAKAHASHI,1996-06-17,JPN,3,Nomi (JPN),2025-03-16,1212,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8745.0,JPN,28,2025
-41,2:25:49,,Satoshi MARUO,1991-11-28,JPN,2,"Wajima Race Walk Course, Wajima (JPN)",2023-04-16,1212,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8749.0,JPN,31,2023
-42,2:25:50,,Tomohiro NODA,1996-01-24,JPN,6,"Hősök tere, Budapest (HUN)",2023-08-24,1212,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8750.0,HUN,27,2023
-42,2:25:50,,Subaru ISHIDA,1999-06-04,JPN,4,Nomi (JPN),2025-03-16,1212,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8750.0,JPN,25,2025
-44,2:25:54,,Yingcheng ZHOU,2000-10-06,CHN,2,Hefei (CHN),2025-03-29,1211,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8754.0,CHN,24,2025
-45,2:25:56,,Jinrui ZHANG,2001-08-24,CHN,3,Hefei (CHN),2025-03-29,1211,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8756.0,CHN,23,2025
-46,2:25:57,,Aurélien QUINION,1993-01-27,FRA,1,Zittau (GER),2023-10-28,1210,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8757.0,GER,30,2023
-47,2:25:58,,Mikhail RYZHOV,1991-12-17,RUS,1,Sochi (RUS),2012-02-18,1210,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8758.0,RUS,20,2012
-47,2:25:58,,Miguel Ángel LÓPEZ,1988-07-03,ESP,10,"Autzen Complex, Eugene, OR (USA)",2022-07-24,1210,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8758.0,USA,34,2022
-49,2:25:59,,Vladimir KANAYKIN,1985-03-21,RUS,1,"Adler, Sochi (RUS)",2008-02-23,1210,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8759.0,RUS,22,2008
-49,2:25:59,,Massimo STANO,1992-02-27,ITA,7,"Hősök tere, Budapest (HUN)",2023-08-24,1210,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8759.0,HUN,31,2023
-51,2:26:00,,David HURTADO,1999-04-21,ECU,5,Dudince (SVK),2025-03-22,1210,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8760.0,SVK,25,2025
-52,2:26:09,,Riccardo ORSONI,2000-01-20,ITA,4,"Lázeňský Park, Poděbrady (CZE)",2025-05-18,1208,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8769.0,CZE,25,2025
-53,2:26:10,,Qin WANG,1994-05-08,CHN,2,Huangshan (CHN),2023-03-04,1208,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8770.0,CHN,28,2023
-54,2:26:15,,Ricardo ORTIZ,1995-02-07,MEX,2,"St Anne's Park, Dublin (IRL)",2024-12-15,1207,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8775.0,IRL,29,2024
-55,2:26:16,,Alex SCHWAZER,1984-11-26,ITA,1,Montalto di Castro (ITA),2010-01-24,1207,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8776.0,ITA,25,2010
-56,2:26:18,,Toshikazu YAMANISHI,1996-02-15,JPN,1,Takahata (JPN),2022-10-23,1207,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8778.0,JPN,26,2022
-56,2:26:18,,Kazuki TAKAHASHI,1996-06-17,JPN,3,"Takahata Race Walk Course, Takahata (JPN)",2024-10-27,1207,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8778.0,JPN,28,2024
-58,2:26:20,,Hayato KATSUKI,1990-11-28,JPN,4,"Takahata Race Walk Course, Takahata (JPN)",2024-10-27,1206,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8780.0,JPN,33,2024
-59,2:26:24,,Aurélien QUINION,1993-01-27,FRA,5,"Lázeňský Park, Poděbrady (CZE)",2025-05-18,1206,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8784.0,CZE,32,2025
-60,2:26:25,,Rhydian COWLEY,1991-01-04,AUS,1,"Stromlo Forest Park, Canberra (AUS)",2024-06-09,1206,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8785.0,AUS,33,2024
-60,2:26:25,,Noel CHAMA,1997-09-15,MEX,7,Nomi (JPN),2025-03-16,1206,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8785.0,JPN,27,2025
-62,2:26:29,,Yuriy ANDRONOV,1971-11-06,RUS,4,"Adler, Sochi (RUS)",2009-03-01,1205,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8789.0,RUS,37,2009
-63,2:26:31,,Dominik ČERNÝ,1997-11-01,SVK,6,Dudince (SVK),2025-03-22,1204,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8791.0,SVK,27,2025
-64,2:26:32,,Ivan NOSKOV,1988-07-16,RUS,2,Sochi (RUS),2012-02-18,1204,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8792.0,RUS,23,2012
-65,2:26:37,,José Luis DOCTOR,1996-06-14,MEX,1,Dudince (SVK),2023-03-25,1203,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8797.0,SVK,26,2023
-66,2:26:40,,Masatora KAWANO,1998-10-23,JPN,1,Wajima (JPN),2022-04-17,1203,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8800.0,JPN,23,2022
-66,2:26:40,,Sergey KOZHEVNIKOV,2001-05-09,RUS,1,"Yelena Yelesina Stadium, Chelyabinsk (RUS)",2022-08-27,1203,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8800.0,RUS,21,2022
-68,2:26:48,,Igor STARKOV,1991-04-29,RUS,1,"Avtodrom, Sochi (RUS)",2024-02-27,1202,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8808.0,RUS,32,2024
-69,2:26:49,,Miguel Ángel LÓPEZ,1988-07-03,ESP,1,"Odeonplatz, München (GER)",2022-08-16,1201,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8809.0,GER,34,2022
-70,2:26:51,,Masatora KAWANO,1998-10-23,JPN,3,"Wajima Race Walk Course, Wajima (JPN)",2023-04-16,1201,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8811.0,JPN,24,2023
-71,2:27:03,,Perseus KARLSTRÖM,1990-05-02,SWE,8,"Hősök tere, Budapest (HUN)",2023-08-24,1199,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8823.0,HUN,33,2023
-72,2:27:05,,Christopher LINKE,1988-10-24,GER,2,Poděbrady (CZE),2023-05-21,1199,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8825.0,CZE,34,2023
-73,2:27:07,,Sergey SHARYPOV,1992-04-14,RUS,1,Sochi (RUS),2017-02-18,1198,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8827.0,RUS,24,2017
-74,2:27:08,,Denis NIZHEGORODOV,1980-07-26,RUS,1,Sochi (RUS),2011-02-26,1198,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8828.0,RUS,30,2011
-74,2:27:08,,Karl JUNGHANNß,1996-04-06,GER,9,"Hősök tere, Budapest (HUN)",2023-08-24,1198,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8828.0,HUN,27,2023
-76,2:27:09,,Daisuke MATSUNAGA,1995-03-24,JPN,2,Wajima (JPN),2022-04-17,1198,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8829.0,JPN,27,2022
-77,2:27:11,,Ricardo ORTIZ,1995-02-07,MEX,11,"Autzen Complex, Eugene, OR (USA)",2022-07-24,1198,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8831.0,USA,27,2022
-78,2:27:12,,Igor YEROKHIN,1985-09-04,RUS,2,"Adler, Sochi (RUS)",2008-02-23,1197,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8832.0,RUS,22,2008
-79,2:27:16,,Sergey KOZHEVNIKOV,2001-05-09,RUS,1,Sochi (RUS),2022-01-31,1197,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8836.0,RUS,20,2022
-80,2:27:18,,Tomohiro NODA,1996-01-24,JPN,3,Wajima (JPN),2022-04-17,1196,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8838.0,JPN,26,2022
-80,2:27:18,,Matteo GIUPPONI,1988-10-08,ITA,7,Dudince (SVK),2025-03-22,1196,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8838.0,SVK,36,2025
-82,2:27:20,,Perseus KARLSTRÖM,1990-05-02,SWE,1,"Trolley Square, Santee, CA (USA)",2025-01-12,1196,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8840.0,USA,34,2025
-82,2:27:20,,Riccardo ORSONI,2000-01-20,ITA,1,Acquaviva delle Fonti (ITA),2025-01-26,1196,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8840.0,ITA,25,2025
-84,2:27:22,,Sergey KIRDYAPKIN,1980-06-18,RUS,5,"Adler, Sochi (RUS)",2009-03-01,1196,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8842.0,RUS,28,2009
-85,2:27:26,,Dementiy CHEPAREV,1992-10-28,RUS,1,Sochi (RUS),2020-02-17,1195,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8846.0,RUS,27,2020
-86,2:27:29,,Sergey KOZHEVNIKOV,2001-05-09,RUS,1,Cheboksary (RUS),2022-05-21,1195,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8849.0,RUS,21,2022
-87,2:27:30,,Caio BONFIM,1991-03-19,BRA,2,Dudince (SVK),2023-03-25,1194,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8850.0,SVK,32,2023
-88,2:27:33,,Satoshi MARUO,1991-11-28,JPN,2,Takahata (JPN),2022-10-23,1194,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8853.0,JPN,30,2022
-88,2:27:33,,Rhydian COWLEY,1991-01-04,AUS,1,"Albert Park, Melbourne (AUS)",2023-05-21,1194,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8853.0,AUS,32,2023
-88,2:27:33,,Miguel Ángel LÓPEZ,1988-07-03,ESP,3,Poděbrady (CZE),2023-05-21,1194,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8853.0,CZE,34,2023
-91,2:27:35,,Aleksandr GORODSKOV,2002-10-29,RUS,2,"Avtodrom, Sochi (RUS)",2025-02-24,1194,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8855.0,RUS,22,2025
-92,2:27:41,,Kirill FROLOV,1993-09-29,RUS,2,Sochi (RUS),2020-02-17,1192,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8861.0,RUS,26,2020
-93,2:27:42,,Dominik ČERNÝ,1997-11-01,SVK,6,"Lázeňský Park, Poděbrady (CZE)",2025-05-18,1192,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8862.0,CZE,27,2025
-93,2:27:42,,Sergey BAKULIN,1986-11-13,RUS,1,Sochi (RUS),2010-02-20,1192,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8862.0,RUS,23,2010
-95,2:27:43,,Ever Jair PALMA OLIVARES,1992-03-18,MEX,8,Nomi (JPN),2025-03-16,1192,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8863.0,JPN,33,2025
-96,2:27:45,,Caio BONFIM,1991-03-19,BRA,10,"Hősök tere, Budapest (HUN)",2023-08-24,1192,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8865.0,HUN,32,2023
-97,2:27:46,,Isaac PALMA,1990-10-26,MEX,9,Nomi (JPN),2025-03-16,1192,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8866.0,JPN,34,2025
-98,2:27:48,,Aleksandr GARIN,1999-12-28,RUS,2,Cheboksary (RUS),2022-05-21,1191,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8868.0,RUS,22,2022
-98,2:27:48,,Caio BONFIM,1991-03-19,BRA,3,"St Anne's Park, Dublin (IRL)",2024-12-15,1191,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8868.0,IRL,33,2024
-100,2:27:50,,Aleksey BARTSAYKIN,1989-03-22,RUS,3,Sochi (RUS),2012-02-18,1191,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8870.0,RUS,22,2012
-100,2:27:50,,Evan DUNFEE,1990-09-28,CAN,5,"Takahata Race Walk Course, Takahata (JPN)",2024-10-27,1191,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8870.0,JPN,34,2024
-102,2:27:51,,Maher BEN HLIMA,1989-07-24,POL,8,Dudince (SVK),2025-03-22,1191,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8871.0,SVK,35,2025
-103,2:27:52,,Denis STRELKOV,1990-10-26,RUS,2,Sochi (RUS),2011-02-26,1191,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8872.0,RUS,20,2011
-103,2:27:52,,Sergey KOZHEVNIKOV,2001-05-09,RUS,1,Saransk (RUS),2023-05-20,1191,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8872.0,RUS,22,2023
-105,2:27:53,,Miguel Ángel LÓPEZ,1988-07-03,ESP,1,Lepe (ESP),2022-01-30,1190,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8873.0,ESP,33,2022
-106,2:27:55,,Ever Jair PALMA OLIVARES,1992-03-18,MEX,12,"Autzen Complex, Eugene, OR (USA)",2022-07-24,1190,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8875.0,USA,30,2022
-106,2:27:55,,Miguel Ángel LÓPEZ,1988-07-03,ESP,1,Marín (ESP),2025-03-09,1190,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8875.0,ESP,36,2025
-108,2:27:56,,Daniel CHAMOSA,1997-05-04,ESP,7,"Lázeňský Park, Poděbrady (CZE)",2025-05-18,1190,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8876.0,CZE,28,2025
-109,2:27:59,,Andrey RUZAVIN,1986-03-28,RUS,3,"Adler, Sochi (RUS)",2008-02-23,1189,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8879.0,RUS,21,2008
-110,2:28:00,,Denis NIZHEGORODOV,1980-07-26,RUS,4,"Adler, Sochi (RUS)",2008-02-23,1189,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8880.0,RUS,27,2008
-110,2:28:00,,Dementiy CHEPAREV,1992-10-28,RUS,2,Sochi (RUS),2017-02-18,1189,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8880.0,RUS,24,2017
-112,2:28:10,,Alex SCHWAZER,1984-11-26,ITA,1,Latina (ITA),2012-01-29,1188,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8890.0,ITA,27,2012
-113,2:28:11,,Yuriy ANDRONOV,1971-11-06,RUS,4,Sochi (RUS),2012-02-18,1187,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8891.0,RUS,40,2012
-114,2:28:14,,Sergey SHARYPOV,1992-04-14,RUS,3,Sochi (RUS),2020-02-17,1187,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8894.0,RUS,27,2020
-115,2:28:16,,Álvaro MARTÍN,1994-06-18,ESP,1,Cieza (ESP),2023-02-26,1186,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8896.0,ESP,28,2023
-116,2:28:17,,Andrey RUZAVIN,1986-03-28,RUS,3,Sochi (RUS),2011-02-26,1186,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8897.0,RUS,24,2011
-117,2:28:19,,Karl JUNGHANNß,1996-04-06,GER,1,"Domplatz, Erfurt (GER)",2023-04-15,1186,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8899.0,GER,27,2023
-117,2:28:19,,Aleksandr GARIN,1999-12-28,RUS,2,"Yelena Yelesina Stadium, Chelyabinsk (RUS)",2022-08-27,1186,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8899.0,RUS,22,2022
-119,2:28:21,,Aleksandr GARIN,1999-12-28,RUS,1,Kazan (RUS),2024-05-10,1186,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8901.0,RUS,24,2024
-120,2:28:22,,Aleksi OJALA,1992-12-09,FIN,13,"Autzen Complex, Eugene, OR (USA)",2022-07-24,1185,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8902.0,USA,29,2022
-120,2:28:22,,Evan DUNFEE,1990-09-28,CAN,1f1,"National Stadium, Tokyo (JPN)",2025-09-13,1185,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8902.0,JPN,34,2025
-122,2:28:24,,Sergey SHARYPOV,1992-04-14,RUS,2,"Avtodrom, Sochi (RUS)",2024-02-27,1185,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8904.0,RUS,31,2024
-123,2:28:28,,Sergey KIRDYAPKIN,1980-06-18,RUS,5,"Adler, Sochi (RUS)",2008-02-23,1184,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8908.0,RUS,27,2008
-124,2:28:29,,Sergey BAKULIN,1986-11-13,RUS,1,Sochi (RUS),2016-02-27,1184,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8909.0,RUS,29,2016
-125,2:28:30,,Robert KORZENIOWSKI,1968-07-30,POL,1,Eschborn (GER),1993-06-12,1184,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8910.0,GER,24,1993
-126,2:28:31,,Kirill FROLOV,1993-09-29,RUS,3,Cheboksary (RUS),2022-05-21,1184,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8911.0,RUS,28,2022
-127,2:28:34,,Yutaro MURAYAMA,1998-09-29,JPN,6,"Takahata Race Walk Course, Takahata (JPN)",2024-10-27,1183,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8914.0,JPN,26,2024
-128,2:28:43,,Manuel BERMÚDEZ,1997-12-12,ESP,8,"Lázeňský Park, Poděbrady (CZE)",2025-05-18,1182,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8923.0,CZE,27,2025
-129,2:28:44,,Maher BEN HLIMA,1989-07-24,POL,1,"Weinauparkstadion, Zittau (GER)",2024-10-26,1182,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8924.0,GER,35,2024
-130,2:28:46,,Aurélien QUINION,1993-01-27,FRA,14,"Autzen Complex, Eugene, OR (USA)",2022-07-24,1181,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8926.0,USA,29,2022
-131,2:28:49,,Dementiy CHEPAREV,1992-10-28,RUS,1,Kostroma (RUS),2016-09-03,1181,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8929.0,RUS,23,2016
-132,2:28:51,,Teodorico CAPORASO,1987-09-14,ITA,9,Dudince (SVK),2025-03-22,1181,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8931.0,SVK,37,2025
-133,2:28:53,,Marco DE LUCA,1981-05-12,ITA,2,Montalto di Castro (ITA),2010-01-24,1180,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8933.0,ITA,28,2010
-133,2:28:53,,Hayato KATSUKI,1990-11-28,JPN,4,"Wajima Race Walk Course, Wajima (JPN)",2023-04-16,1180,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8933.0,JPN,32,2023
-135,2:28:55,,Caio BONFIM,1991-03-19,BRA,2f1,"National Stadium, Tokyo (JPN)",2025-09-13,1180,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8935.0,JPN,34,2025
-136,2:28:56,,Yangben ZHAXI,1996-04-15,CHN,15,"Autzen Complex, Eugene, OR (USA)",2022-07-24,1180,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8936.0,USA,26,2022
-136,2:28:56,,Aleksey KUDASHKIN,1997-02-01,RUS,2,"Avtodrom, Sochi (RUS)",2023-02-13,1180,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8936.0,RUS,26,2023
-136,2:28:56,,Motofumi SUWA,1999-10-22,JPN,5,Nomi (JPN),2025-03-16,1180,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8936.0,JPN,25,2025
-139,2:28:57,,Matteo GIUPPONI,1988-10-08,ITA,9,"Lázeňský Park, Poděbrady (CZE)",2025-05-18,1180,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8937.0,CZE,36,2025
-140,2:28:58,,Dementiy CHEPAREV,1992-10-28,RUS,2,Sochi (RUS),2018-02-19,1179,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8938.0,RUS,25,2018
-141,2:29:00,,Lihong CUI,1999-05-13,CHN,3,Dudince (SVK),2023-03-25,1179,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8940.0,SVK,23,2023
-142,2:29:04,,Ivan NOSKOV,1988-07-16,RUS,1,Sochi (RUS),2013-02-23,1178,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8944.0,RUS,24,2013
-142,2:29:04,,Diego GARCÍA CARRERA,1996-01-19,ESP,2,Cieza (ESP),2023-02-26,1178,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8944.0,ESP,27,2023
-142,2:29:04,,Veli-Matti PARTANEN,1991-10-28,FIN,1,Lappeenranta (FIN),2023-04-22,1178,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8944.0,FIN,31,2023
-145,2:29:05,,Kevin CAMPION,1988-05-23,FRA,10,"Lázeňský Park, Poděbrady (CZE)",2025-05-18,1178,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8945.0,CZE,37,2025
-146,2:29:09,,Massimo STANO,1992-02-27,ITA,1,Dudince (SVK),2022-04-23,1177,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8949.0,SVK,30,2022
-147,2:29:14,,Ricardo ORTIZ,1995-02-07,MEX,11,"Hősök tere, Budapest (HUN)",2023-08-24,1177,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8954.0,HUN,28,2023
-148,2:29:15,,Evan DUNFEE,1990-09-28,CAN,4,Dudince (SVK),2023-03-25,1176,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8955.0,SVK,32,2023
-149,2:29:16,,Hayato KATSUKI,1990-11-28,JPN,3f1,"National Stadium, Tokyo (JPN)",2025-09-13,1176,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8956.0,JPN,34,2025
-150,2:29:18,,Daniel CHAMOSA,1997-05-04,ESP,2,Marín (ESP),2025-03-09,1176,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8958.0,ESP,27,2025
-151,2:29:19,,Denis NIZHEGORODOV,1980-07-26,RUS,3,Sochi (RUS),2017-02-18,1176,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8959.0,RUS,36,2017
-151,2:29:19,,Satoshi MARUO,1991-11-28,JPN,4,Wajima (JPN),2022-04-17,1176,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8959.0,JPN,30,2022
-153,2:29:24,,José Luis DOCTOR,1996-06-14,MEX,2,Dudince (SVK),2022-04-23,1175,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8964.0,SVK,25,2022
-153,2:29:24,,César Augusto RODRÍGUEZ,1997-06-26,PER,16,"Autzen Complex, Eugene, OR (USA)",2022-07-24,1175,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8964.0,USA,25,2022
-155,2:29:25,,Yushuai TANG,2004-11-18,CHN,4,Hefei (CHN),2025-03-29,1175,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8965.0,CHN,20,2025
-156,2:29:26,,Aleksandr GARIN,1999-12-28,RUS,2,Saransk (RUS),2023-05-20,1175,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8966.0,RUS,23,2023
-157,2:29:28,,Yohann DINIZ,1978-01-01,FRA,1,Epinal (FRA),2019-03-17,1174,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8968.0,FRA,41,2019
-158,2:29:30,,Christopher LINKE,1988-10-24,GER,2,"Odeonplatz, München (GER)",2022-08-16,1174,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8970.0,GER,33,2022
-159,2:29:31,,Kevin CAMPION,1988-05-23,FRA,1,Zittau (GER),2022-10-29,1174,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8971.0,GER,34,2022
-159,2:29:31,,Yingcheng ZHOU,2000-10-06,CHN,4f1,"National Stadium, Tokyo (JPN)",2025-09-13,1174,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8971.0,JPN,24,2025
-161,2:29:32,,Sergey SHARYPOV,1992-04-14,RUS,3,Sochi (RUS),2018-02-19,1174,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8972.0,RUS,25,2018
-161,2:29:32,,Aurélien QUINION,1993-01-27,FRA,4,Poděbrady (CZE),2023-05-21,1174,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8972.0,CZE,30,2023
-161,2:29:32,,Miguel Ángel LÓPEZ,1988-07-03,ESP,12,"Hősök tere, Budapest (HUN)",2023-08-24,1174,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8972.0,HUN,35,2023
-164,2:29:33,,Sergey SHARYPOV,1992-04-14,RUS,1,Sochi (RUS),2015-02-27,1173,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8973.0,RUS,22,2015
-165,2:29:35,,Xianghong HE,1998-07-01,CHN,3,Dudince (SVK),2022-04-23,1173,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8975.0,SVK,23,2022
-166,2:29:36,,Yuriy ANDRONOV,1971-11-06,RUS,6,"Adler, Sochi (RUS)",2008-02-23,1173,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8976.0,RUS,36,2008
-166,2:29:36,,Yangben ZHAXI,1996-04-15,CHN,3,Huangshan (CHN),2023-03-04,1173,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8976.0,CHN,26,2023
-168,2:29:38,,Marc TUR,1994-11-30,ESP,3,Cieza (ESP),2023-02-26,1173,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8978.0,ESP,28,2023
-169,2:29:42,,Ivan NOSKOV,1988-07-16,RUS,4,Sochi (RUS),2020-02-17,1172,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8982.0,RUS,31,2020
-170,2:29:47,,Nikolay MAKSIMOV,1999-12-21,RUS,2,Kazan (RUS),2024-05-10,1171,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8987.0,RUS,24,2024
-171,2:29:51,,Nikolay MAKSIMOV,1999-12-21,RUS,3,"Avtodrom, Sochi (RUS)",2023-02-13,1170,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8991.0,RUS,23,2023
-171,2:29:51,,Maher BEN HLIMA,1989-07-24,POL,11,"Lázeňský Park, Poděbrady (CZE)",2025-05-18,1170,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8991.0,CZE,35,2025
-173,2:29:52,,Satoshi MARUO,1991-11-28,JPN,13,"Hősök tere, Budapest (HUN)",2023-08-24,1170,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8992.0,HUN,31,2023
-173,2:29:52,,Maksim BOYKO,2003-08-08,RUS,3,"Avtodrom, Sochi (RUS)",2025-02-24,1170,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8992.0,RUS,21,2025
-175,2:29:54,,Roman YEVSTIFEYEV,1992-09-19,RUS,2,Sochi (RUS),2015-02-27,1170,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8994.0,RUS,22,2015
-176,2:29:55,,Hao XU,1999-02-06,CHN,17,"Autzen Complex, Eugene, OR (USA)",2022-07-24,1170,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8995.0,USA,23,2022
-177,2:29:56,,Sergey SHARYPOV,1992-04-14,ANA,2,Kostroma (RUS),2016-09-03,1169,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8996.0,RUS,24,2016
-177,2:29:56,,Ram BABOO,1999-03-20,IND,5,Dudince (SVK),2023-03-25,1169,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8996.0,SVK,24,2023
-179,2:29:58,,Christopher LINKE,1988-10-24,GER,1,Frankfurt (GER),2022-04-30,1169,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8998.0,GER,33,2022
+1,2:20:43,,Massimo STANO,1992-02-27,ITA,1.0,"Lázeňský Park, Poděbrady (CZE)",2025-05-18,1265,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8443.0,CZE,33,2025
+2,2:21:31,,Vladimir KANAYKIN,1985-03-21,RUS,1.0,"Adler, Sochi (RUS)",2006-02-19,1257,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8491.0,RUS,20,2006
+3,2:21:40,,Evan DUNFEE,1990-09-28,CAN,1.0,Dudince (SVK),2025-03-22,1255,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8500.0,SVK,34,2025
+4,2:21:47,,Masatora KAWANO,1998-10-23,JPN,1.0,"Takahata Race Walk Course, Takahata (JPN)",2024-10-27,1254,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8507.0,JPN,26,2024
+5,2:22:55,,Xianghong HE,1998-07-01,CHN,1.0,Huangshan (CHN),2023-03-04,1242,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8575.0,CHN,24,2023
+6,2:22:56,,Vasiliy MIZINOV,1997-12-29,RUS,1.0,"Avtodrom, Sochi (RUS)",2025-02-24,1242,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8576.0,RUS,27,2025
+7,2:23:13,,Tomohiro NODA,1996-01-24,JPN,1.0,"Wajima Race Walk Course, Wajima (JPN)",2023-04-16,1239,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8593.0,JPN,27,2023
+8,2:23:14,,Massimo STANO,1992-02-27,ITA,1.0,"Autzen Complex, Eugene, OR (USA)",2022-07-24,1239,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8594.0,USA,30,2022
+9,2:23:15,,Masatora KAWANO,1998-10-23,JPN,2.0,"Autzen Complex, Eugene, OR (USA)",2022-07-24,1238,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8595.0,USA,23,2022
+10,2:23:21,,Christopher LINKE,1988-10-24,GER,2.0,"Lázeňský Park, Poděbrady (CZE)",2025-05-18,1237,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8601.0,CZE,36,2025
+11,2:23:44,,Perseus KARLSTRÖM,1990-05-02,SWE,3.0,"Autzen Complex, Eugene, OR (USA)",2022-07-24,1233,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8624.0,USA,32,2022
+12,2:23:48,,Miguel Ángel LÓPEZ,1988-07-03,ESP,3.0,"Lázeňský Park, Poděbrady (CZE)",2025-05-18,1233,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8628.0,CZE,36,2025
+13,2:24:19,,Sergey KOZHEVNIKOV,2001-05-09,RUS,1.0,"Avtodrom, Sochi (RUS)",2023-02-13,1227,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8659.0,RUS,21,2023
+13,2:24:19,,Massimo STANO,1992-02-27,ITA,1.0,"St Anne's Park, Dublin (IRL)",2024-12-15,1227,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8659.0,IRL,32,2024
+15,2:24:24,,Satoshi MARUO,1991-11-28,JPN,2.0,"Takahata Race Walk Course, Takahata (JPN)",2024-10-27,1226,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8664.0,JPN,32,2024
+16,2:24:25,,Sergey BAKULIN,1986-11-13,RUS,1.0,"Adler, Sochi (RUS)",2009-03-01,1226,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8665.0,RUS,22,2009
+17,2:24:30,,Álvaro MARTÍN,1994-06-18,ESP,1.0,"Hősök tere, Budapest (HUN)",2023-08-24,1225,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8670.0,HUN,29,2023
+18,2:24:34,,Brian Daniel PINTADO,1995-07-29,ECU,2.0,"Hősök tere, Budapest (HUN)",2023-08-24,1225,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8674.0,HUN,28,2023
+19,2:24:37,,Brian Daniel PINTADO,1995-07-29,ECU,4.0,"Autzen Complex, Eugene, OR (USA)",2022-07-24,1224,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8677.0,USA,27,2022
+20,2:24:38,,Hayato KATSUKI,1990-11-28,JPN,1.0,Nomi (JPN),2025-03-16,1224,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8678.0,JPN,34,2025
+21,2:24:40,,Christopher LINKE,1988-10-24,GER,2.0,Dudince (SVK),2025-03-22,1224,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8680.0,SVK,36,2025
+22,2:24:41,,José Luis DOCTOR,1996-06-14,MEX,3.0,Dudince (SVK),2025-03-22,1223,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8681.0,SVK,28,2025
+23,2:24:45,,Xianghong HE,1998-07-01,CHN,5.0,"Autzen Complex, Eugene, OR (USA)",2022-07-24,1223,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8685.0,USA,24,2022
+24,2:24:53,,Sergey BAKULIN,1986-11-13,RUS,1.0,Sochi (RUS),2018-02-19,1221,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8693.0,RUS,31,2018
+25,2:24:56,,Denis NIZHEGORODOV,1980-07-26,RUS,2.0,"Adler, Sochi (RUS)",2009-03-01,1221,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8696.0,RUS,28,2009
+26,2:25:02,,Evan DUNFEE,1990-09-28,CAN,6.0,"Autzen Complex, Eugene, OR (USA)",2022-07-24,1220,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8702.0,USA,31,2022
+27,2:25:08,,Andres Eduardo OLIVAS NÚÑEZ,1998-05-27,MEX,2.0,Nomi (JPN),2025-03-16,1219,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8708.0,JPN,26,2025
+28,2:25:12,,Masatora KAWANO,1998-10-23,JPN,3.0,"Hősök tere, Budapest (HUN)",2023-08-24,1218,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8712.0,HUN,24,2023
+29,2:25:14,,Caio BONFIM,1991-03-19,BRA,7.0,"Autzen Complex, Eugene, OR (USA)",2022-07-24,1218,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8714.0,USA,31,2022
+30,2:25:19,,Andrey RUZAVIN,1986-03-28,RUS,3.0,"Adler, Sochi (RUS)",2009-03-01,1217,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8719.0,RUS,22,2009
+30,2:25:19,,Satoshi MARUO,1991-11-28,JPN,2.0,Nomi (JPN),2025-03-16,1217,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8719.0,JPN,33,2025
+32,2:25:21,,Eider ARÉVALO,1993-03-09,COL,8.0,"Autzen Complex, Eugene, OR (USA)",2022-07-24,1217,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8721.0,USA,29,2022
+32,2:25:21,,Rhydian COWLEY,1991-01-04,AUS,4.0,Nomi (JPN),2025-03-16,1217,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8721.0,JPN,34,2025
+34,2:25:28,,Evan DUNFEE,1990-09-28,CAN,4.0,"Hősök tere, Budapest (HUN)",2023-08-24,1215,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8728.0,HUN,32,2023
+35,2:25:29,,Tomohiro NODA,1996-01-24,JPN,9.0,"Autzen Complex, Eugene, OR (USA)",2022-07-24,1215,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8729.0,USA,26,2022
+36,2:25:32,,Qin WANG,1994-05-08,CHN,1.0,Hefei (CHN),2025-03-29,1215,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8732.0,CHN,30,2025
+37,2:25:35,,Álvaro MARTÍN,1994-06-18,ESP,1.0,Poděbrady (CZE),2023-05-21,1214,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8735.0,CZE,28,2023
+37,2:25:35,,Christopher LINKE,1988-10-24,GER,5.0,"Hősök tere, Budapest (HUN)",2023-08-24,1214,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8735.0,HUN,34,2023
+39,2:25:39,,Julio César SALAZAR,1993-07-08,MEX,4.0,Dudince (SVK),2025-03-22,1213,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8739.0,SVK,31,2025
+40,2:25:45,,Kazuki TAKAHASHI,1996-06-17,JPN,3.0,Nomi (JPN),2025-03-16,1212,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8745.0,JPN,28,2025
+41,2:25:49,,Satoshi MARUO,1991-11-28,JPN,2.0,"Wajima Race Walk Course, Wajima (JPN)",2023-04-16,1212,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8749.0,JPN,31,2023
+42,2:25:50,,Tomohiro NODA,1996-01-24,JPN,6.0,"Hősök tere, Budapest (HUN)",2023-08-24,1212,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8750.0,HUN,27,2023
+42,2:25:50,,Subaru ISHIDA,1999-06-04,JPN,4.0,Nomi (JPN),2025-03-16,1212,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8750.0,JPN,25,2025
+44,2:25:54,,Yingcheng ZHOU,2000-10-06,CHN,2.0,Hefei (CHN),2025-03-29,1211,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8754.0,CHN,24,2025
+45,2:25:56,,Jinrui ZHANG,2001-08-24,CHN,3.0,Hefei (CHN),2025-03-29,1211,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8756.0,CHN,23,2025
+46,2:25:57,,Aurélien QUINION,1993-01-27,FRA,1.0,Zittau (GER),2023-10-28,1210,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8757.0,GER,30,2023
+47,2:25:58,,Mikhail RYZHOV,1991-12-17,RUS,1.0,Sochi (RUS),2012-02-18,1210,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8758.0,RUS,20,2012
+47,2:25:58,,Miguel Ángel LÓPEZ,1988-07-03,ESP,10.0,"Autzen Complex, Eugene, OR (USA)",2022-07-24,1210,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8758.0,USA,34,2022
+49,2:25:59,,Vladimir KANAYKIN,1985-03-21,RUS,1.0,"Adler, Sochi (RUS)",2008-02-23,1210,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8759.0,RUS,22,2008
+49,2:25:59,,Massimo STANO,1992-02-27,ITA,7.0,"Hősök tere, Budapest (HUN)",2023-08-24,1210,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8759.0,HUN,31,2023
+51,2:26:00,,David HURTADO,1999-04-21,ECU,5.0,Dudince (SVK),2025-03-22,1210,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8760.0,SVK,25,2025
+52,2:26:09,,Riccardo ORSONI,2000-01-20,ITA,4.0,"Lázeňský Park, Poděbrady (CZE)",2025-05-18,1208,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8769.0,CZE,25,2025
+53,2:26:10,,Qin WANG,1994-05-08,CHN,2.0,Huangshan (CHN),2023-03-04,1208,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8770.0,CHN,28,2023
+54,2:26:15,,Ricardo ORTIZ,1995-02-07,MEX,2.0,"St Anne's Park, Dublin (IRL)",2024-12-15,1207,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8775.0,IRL,29,2024
+55,2:26:16,,Alex SCHWAZER,1984-11-26,ITA,1.0,Montalto di Castro (ITA),2010-01-24,1207,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8776.0,ITA,25,2010
+56,2:26:18,,Toshikazu YAMANISHI,1996-02-15,JPN,1.0,Takahata (JPN),2022-10-23,1207,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8778.0,JPN,26,2022
+56,2:26:18,,Kazuki TAKAHASHI,1996-06-17,JPN,3.0,"Takahata Race Walk Course, Takahata (JPN)",2024-10-27,1207,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8778.0,JPN,28,2024
+58,2:26:20,,Hayato KATSUKI,1990-11-28,JPN,4.0,"Takahata Race Walk Course, Takahata (JPN)",2024-10-27,1206,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8780.0,JPN,33,2024
+59,2:26:24,,Aurélien QUINION,1993-01-27,FRA,5.0,"Lázeňský Park, Poděbrady (CZE)",2025-05-18,1206,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8784.0,CZE,32,2025
+60,2:26:25,,Rhydian COWLEY,1991-01-04,AUS,1.0,"Stromlo Forest Park, Canberra (AUS)",2024-06-09,1206,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8785.0,AUS,33,2024
+60,2:26:25,,Noel CHAMA,1997-09-15,MEX,7.0,Nomi (JPN),2025-03-16,1206,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8785.0,JPN,27,2025
+62,2:26:29,,Yuriy ANDRONOV,1971-11-06,RUS,4.0,"Adler, Sochi (RUS)",2009-03-01,1205,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8789.0,RUS,37,2009
+63,2:26:31,,Dominik ČERNÝ,1997-11-01,SVK,6.0,Dudince (SVK),2025-03-22,1204,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8791.0,SVK,27,2025
+64,2:26:32,,Ivan NOSKOV,1988-07-16,RUS,2.0,Sochi (RUS),2012-02-18,1204,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8792.0,RUS,23,2012
+65,2:26:37,,José Luis DOCTOR,1996-06-14,MEX,1.0,Dudince (SVK),2023-03-25,1203,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8797.0,SVK,26,2023
+66,2:26:40,,Masatora KAWANO,1998-10-23,JPN,1.0,Wajima (JPN),2022-04-17,1203,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8800.0,JPN,23,2022
+66,2:26:40,,Sergey KOZHEVNIKOV,2001-05-09,RUS,1.0,"Yelena Yelesina Stadium, Chelyabinsk (RUS)",2022-08-27,1203,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8800.0,RUS,21,2022
+68,2:26:48,,Igor STARKOV,1991-04-29,RUS,1.0,"Avtodrom, Sochi (RUS)",2024-02-27,1202,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8808.0,RUS,32,2024
+69,2:26:49,,Miguel Ángel LÓPEZ,1988-07-03,ESP,1.0,"Odeonplatz, München (GER)",2022-08-16,1201,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8809.0,GER,34,2022
+70,2:26:51,,Masatora KAWANO,1998-10-23,JPN,3.0,"Wajima Race Walk Course, Wajima (JPN)",2023-04-16,1201,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8811.0,JPN,24,2023
+71,2:27:03,,Perseus KARLSTRÖM,1990-05-02,SWE,8.0,"Hősök tere, Budapest (HUN)",2023-08-24,1199,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8823.0,HUN,33,2023
+72,2:27:05,,Christopher LINKE,1988-10-24,GER,2.0,Poděbrady (CZE),2023-05-21,1199,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8825.0,CZE,34,2023
+73,2:27:07,,Sergey SHARYPOV,1992-04-14,RUS,1.0,Sochi (RUS),2017-02-18,1198,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8827.0,RUS,24,2017
+74,2:27:08,,Denis NIZHEGORODOV,1980-07-26,RUS,1.0,Sochi (RUS),2011-02-26,1198,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8828.0,RUS,30,2011
+74,2:27:08,,Karl JUNGHANNß,1996-04-06,GER,9.0,"Hősök tere, Budapest (HUN)",2023-08-24,1198,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8828.0,HUN,27,2023
+76,2:27:09,,Daisuke MATSUNAGA,1995-03-24,JPN,2.0,Wajima (JPN),2022-04-17,1198,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8829.0,JPN,27,2022
+77,2:27:11,,Ricardo ORTIZ,1995-02-07,MEX,11.0,"Autzen Complex, Eugene, OR (USA)",2022-07-24,1198,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8831.0,USA,27,2022
+78,2:27:12,,Igor YEROKHIN,1985-09-04,RUS,2.0,"Adler, Sochi (RUS)",2008-02-23,1197,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8832.0,RUS,22,2008
+79,2:27:16,,Sergey KOZHEVNIKOV,2001-05-09,RUS,1.0,Sochi (RUS),2022-01-31,1197,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8836.0,RUS,20,2022
+80,2:27:18,,Tomohiro NODA,1996-01-24,JPN,3.0,Wajima (JPN),2022-04-17,1196,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8838.0,JPN,26,2022
+80,2:27:18,,Matteo GIUPPONI,1988-10-08,ITA,7.0,Dudince (SVK),2025-03-22,1196,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8838.0,SVK,36,2025
+82,2:27:20,,Perseus KARLSTRÖM,1990-05-02,SWE,1.0,"Trolley Square, Santee, CA (USA)",2025-01-12,1196,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8840.0,USA,34,2025
+82,2:27:20,,Riccardo ORSONI,2000-01-20,ITA,1.0,Acquaviva delle Fonti (ITA),2025-01-26,1196,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8840.0,ITA,25,2025
+84,2:27:22,,Sergey KIRDYAPKIN,1980-06-18,RUS,5.0,"Adler, Sochi (RUS)",2009-03-01,1196,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8842.0,RUS,28,2009
+85,2:27:26,,Dementiy CHEPAREV,1992-10-28,RUS,1.0,Sochi (RUS),2020-02-17,1195,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8846.0,RUS,27,2020
+86,2:27:29,,Sergey KOZHEVNIKOV,2001-05-09,RUS,1.0,Cheboksary (RUS),2022-05-21,1195,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8849.0,RUS,21,2022
+87,2:27:30,,Caio BONFIM,1991-03-19,BRA,2.0,Dudince (SVK),2023-03-25,1194,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8850.0,SVK,32,2023
+88,2:27:33,,Satoshi MARUO,1991-11-28,JPN,2.0,Takahata (JPN),2022-10-23,1194,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8853.0,JPN,30,2022
+88,2:27:33,,Rhydian COWLEY,1991-01-04,AUS,1.0,"Albert Park, Melbourne (AUS)",2023-05-21,1194,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8853.0,AUS,32,2023
+88,2:27:33,,Miguel Ángel LÓPEZ,1988-07-03,ESP,3.0,Poděbrady (CZE),2023-05-21,1194,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8853.0,CZE,34,2023
+91,2:27:35,,Aleksandr GORODSKOV,2002-10-29,RUS,2.0,"Avtodrom, Sochi (RUS)",2025-02-24,1194,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8855.0,RUS,22,2025
+92,2:27:41,,Kirill FROLOV,1993-09-29,RUS,2.0,Sochi (RUS),2020-02-17,1192,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8861.0,RUS,26,2020
+93,2:27:42,,Dominik ČERNÝ,1997-11-01,SVK,6.0,"Lázeňský Park, Poděbrady (CZE)",2025-05-18,1192,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8862.0,CZE,27,2025
+93,2:27:42,,Sergey BAKULIN,1986-11-13,RUS,1.0,Sochi (RUS),2010-02-20,1192,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8862.0,RUS,23,2010
+95,2:27:43,,Ever Jair PALMA OLIVARES,1992-03-18,MEX,8.0,Nomi (JPN),2025-03-16,1192,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8863.0,JPN,33,2025
+96,2:27:45,,Caio BONFIM,1991-03-19,BRA,10.0,"Hősök tere, Budapest (HUN)",2023-08-24,1192,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8865.0,HUN,32,2023
+97,2:27:46,,Isaac PALMA,1990-10-26,MEX,9.0,Nomi (JPN),2025-03-16,1192,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8866.0,JPN,34,2025
+98,2:27:48,,Aleksandr GARIN,1999-12-28,RUS,2.0,Cheboksary (RUS),2022-05-21,1191,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8868.0,RUS,22,2022
+98,2:27:48,,Caio BONFIM,1991-03-19,BRA,3.0,"St Anne's Park, Dublin (IRL)",2024-12-15,1191,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8868.0,IRL,33,2024
+100,2:27:50,,Aleksey BARTSAYKIN,1989-03-22,RUS,3.0,Sochi (RUS),2012-02-18,1191,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8870.0,RUS,22,2012
+100,2:27:50,,Evan DUNFEE,1990-09-28,CAN,5.0,"Takahata Race Walk Course, Takahata (JPN)",2024-10-27,1191,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8870.0,JPN,34,2024
+102,2:27:51,,Maher BEN HLIMA,1989-07-24,POL,8.0,Dudince (SVK),2025-03-22,1191,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8871.0,SVK,35,2025
+103,2:27:52,,Denis STRELKOV,1990-10-26,RUS,2.0,Sochi (RUS),2011-02-26,1191,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8872.0,RUS,20,2011
+103,2:27:52,,Sergey KOZHEVNIKOV,2001-05-09,RUS,1.0,Saransk (RUS),2023-05-20,1191,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8872.0,RUS,22,2023
+105,2:27:53,,Miguel Ángel LÓPEZ,1988-07-03,ESP,1.0,Lepe (ESP),2022-01-30,1190,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8873.0,ESP,33,2022
+106,2:27:55,,Ever Jair PALMA OLIVARES,1992-03-18,MEX,12.0,"Autzen Complex, Eugene, OR (USA)",2022-07-24,1190,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8875.0,USA,30,2022
+106,2:27:55,,Miguel Ángel LÓPEZ,1988-07-03,ESP,1.0,Marín (ESP),2025-03-09,1190,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8875.0,ESP,36,2025
+108,2:27:56,,Daniel CHAMOSA,1997-05-04,ESP,7.0,"Lázeňský Park, Poděbrady (CZE)",2025-05-18,1190,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8876.0,CZE,28,2025
+109,2:27:59,,Andrey RUZAVIN,1986-03-28,RUS,3.0,"Adler, Sochi (RUS)",2008-02-23,1189,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8879.0,RUS,21,2008
+110,2:28:00,,Denis NIZHEGORODOV,1980-07-26,RUS,4.0,"Adler, Sochi (RUS)",2008-02-23,1189,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8880.0,RUS,27,2008
+110,2:28:00,,Dementiy CHEPAREV,1992-10-28,RUS,2.0,Sochi (RUS),2017-02-18,1189,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8880.0,RUS,24,2017
+112,2:28:10,,Alex SCHWAZER,1984-11-26,ITA,1.0,Latina (ITA),2012-01-29,1188,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8890.0,ITA,27,2012
+113,2:28:11,,Yuriy ANDRONOV,1971-11-06,RUS,4.0,Sochi (RUS),2012-02-18,1187,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8891.0,RUS,40,2012
+114,2:28:14,,Sergey SHARYPOV,1992-04-14,RUS,3.0,Sochi (RUS),2020-02-17,1187,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8894.0,RUS,27,2020
+115,2:28:16,,Álvaro MARTÍN,1994-06-18,ESP,1.0,Cieza (ESP),2023-02-26,1186,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8896.0,ESP,28,2023
+116,2:28:17,,Andrey RUZAVIN,1986-03-28,RUS,3.0,Sochi (RUS),2011-02-26,1186,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8897.0,RUS,24,2011
+117,2:28:19,,Karl JUNGHANNß,1996-04-06,GER,1.0,"Domplatz, Erfurt (GER)",2023-04-15,1186,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8899.0,GER,27,2023
+117,2:28:19,,Aleksandr GARIN,1999-12-28,RUS,2.0,"Yelena Yelesina Stadium, Chelyabinsk (RUS)",2022-08-27,1186,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8899.0,RUS,22,2022
+119,2:28:21,,Aleksandr GARIN,1999-12-28,RUS,1.0,Kazan (RUS),2024-05-10,1186,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8901.0,RUS,24,2024
+120,2:28:22,,Aleksi OJALA,1992-12-09,FIN,13.0,"Autzen Complex, Eugene, OR (USA)",2022-07-24,1185,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8902.0,USA,29,2022
+120,2:28:22,,Evan DUNFEE,1990-09-28,CAN,1.0,"National Stadium, Tokyo (JPN)",2025-09-13,1185,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8902.0,JPN,34,2025
+122,2:28:24,,Sergey SHARYPOV,1992-04-14,RUS,2.0,"Avtodrom, Sochi (RUS)",2024-02-27,1185,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8904.0,RUS,31,2024
+123,2:28:28,,Sergey KIRDYAPKIN,1980-06-18,RUS,5.0,"Adler, Sochi (RUS)",2008-02-23,1184,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8908.0,RUS,27,2008
+124,2:28:29,,Sergey BAKULIN,1986-11-13,RUS,1.0,Sochi (RUS),2016-02-27,1184,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8909.0,RUS,29,2016
+125,2:28:30,,Robert KORZENIOWSKI,1968-07-30,POL,1.0,Eschborn (GER),1993-06-12,1184,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8910.0,GER,24,1993
+126,2:28:31,,Kirill FROLOV,1993-09-29,RUS,3.0,Cheboksary (RUS),2022-05-21,1184,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8911.0,RUS,28,2022
+127,2:28:34,,Yutaro MURAYAMA,1998-09-29,JPN,6.0,"Takahata Race Walk Course, Takahata (JPN)",2024-10-27,1183,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8914.0,JPN,26,2024
+128,2:28:43,,Manuel BERMÚDEZ,1997-12-12,ESP,8.0,"Lázeňský Park, Poděbrady (CZE)",2025-05-18,1182,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8923.0,CZE,27,2025
+129,2:28:44,,Maher BEN HLIMA,1989-07-24,POL,1.0,"Weinauparkstadion, Zittau (GER)",2024-10-26,1182,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8924.0,GER,35,2024
+130,2:28:46,,Aurélien QUINION,1993-01-27,FRA,14.0,"Autzen Complex, Eugene, OR (USA)",2022-07-24,1181,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8926.0,USA,29,2022
+131,2:28:49,,Dementiy CHEPAREV,1992-10-28,RUS,1.0,Kostroma (RUS),2016-09-03,1181,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8929.0,RUS,23,2016
+132,2:28:51,,Teodorico CAPORASO,1987-09-14,ITA,9.0,Dudince (SVK),2025-03-22,1181,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8931.0,SVK,37,2025
+133,2:28:53,,Marco DE LUCA,1981-05-12,ITA,2.0,Montalto di Castro (ITA),2010-01-24,1180,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8933.0,ITA,28,2010
+133,2:28:53,,Hayato KATSUKI,1990-11-28,JPN,4.0,"Wajima Race Walk Course, Wajima (JPN)",2023-04-16,1180,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8933.0,JPN,32,2023
+135,2:28:55,,Caio BONFIM,1991-03-19,BRA,2.0,"National Stadium, Tokyo (JPN)",2025-09-13,1180,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8935.0,JPN,34,2025
+136,2:28:56,,Yangben ZHAXI,1996-04-15,CHN,15.0,"Autzen Complex, Eugene, OR (USA)",2022-07-24,1180,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8936.0,USA,26,2022
+136,2:28:56,,Aleksey KUDASHKIN,1997-02-01,RUS,2.0,"Avtodrom, Sochi (RUS)",2023-02-13,1180,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8936.0,RUS,26,2023
+136,2:28:56,,Motofumi SUWA,1999-10-22,JPN,5.0,Nomi (JPN),2025-03-16,1180,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8936.0,JPN,25,2025
+139,2:28:57,,Matteo GIUPPONI,1988-10-08,ITA,9.0,"Lázeňský Park, Poděbrady (CZE)",2025-05-18,1180,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8937.0,CZE,36,2025
+140,2:28:58,,Dementiy CHEPAREV,1992-10-28,RUS,2.0,Sochi (RUS),2018-02-19,1179,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8938.0,RUS,25,2018
+141,2:29:00,,Lihong CUI,1999-05-13,CHN,3.0,Dudince (SVK),2023-03-25,1179,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8940.0,SVK,23,2023
+142,2:29:04,,Ivan NOSKOV,1988-07-16,RUS,1.0,Sochi (RUS),2013-02-23,1178,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8944.0,RUS,24,2013
+142,2:29:04,,Diego GARCÍA CARRERA,1996-01-19,ESP,2.0,Cieza (ESP),2023-02-26,1178,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8944.0,ESP,27,2023
+142,2:29:04,,Veli-Matti PARTANEN,1991-10-28,FIN,1.0,Lappeenranta (FIN),2023-04-22,1178,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8944.0,FIN,31,2023
+145,2:29:05,,Kevin CAMPION,1988-05-23,FRA,10.0,"Lázeňský Park, Poděbrady (CZE)",2025-05-18,1178,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8945.0,CZE,37,2025
+146,2:29:09,,Massimo STANO,1992-02-27,ITA,1.0,Dudince (SVK),2022-04-23,1177,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8949.0,SVK,30,2022
+147,2:29:14,,Ricardo ORTIZ,1995-02-07,MEX,11.0,"Hősök tere, Budapest (HUN)",2023-08-24,1177,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8954.0,HUN,28,2023
+148,2:29:15,,Evan DUNFEE,1990-09-28,CAN,4.0,Dudince (SVK),2023-03-25,1176,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8955.0,SVK,32,2023
+149,2:29:16,,Hayato KATSUKI,1990-11-28,JPN,3.0,"National Stadium, Tokyo (JPN)",2025-09-13,1176,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8956.0,JPN,34,2025
+150,2:29:18,,Daniel CHAMOSA,1997-05-04,ESP,2.0,Marín (ESP),2025-03-09,1176,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8958.0,ESP,27,2025
+151,2:29:19,,Denis NIZHEGORODOV,1980-07-26,RUS,3.0,Sochi (RUS),2017-02-18,1176,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8959.0,RUS,36,2017
+151,2:29:19,,Satoshi MARUO,1991-11-28,JPN,4.0,Wajima (JPN),2022-04-17,1176,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8959.0,JPN,30,2022
+153,2:29:24,,José Luis DOCTOR,1996-06-14,MEX,2.0,Dudince (SVK),2022-04-23,1175,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8964.0,SVK,25,2022
+153,2:29:24,,César Augusto RODRÍGUEZ,1997-06-26,PER,16.0,"Autzen Complex, Eugene, OR (USA)",2022-07-24,1175,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8964.0,USA,25,2022
+155,2:29:25,,Yushuai TANG,2004-11-18,CHN,4.0,Hefei (CHN),2025-03-29,1175,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8965.0,CHN,20,2025
+156,2:29:26,,Aleksandr GARIN,1999-12-28,RUS,2.0,Saransk (RUS),2023-05-20,1175,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8966.0,RUS,23,2023
+157,2:29:28,,Yohann DINIZ,1978-01-01,FRA,1.0,Epinal (FRA),2019-03-17,1174,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8968.0,FRA,41,2019
+158,2:29:30,,Christopher LINKE,1988-10-24,GER,2.0,"Odeonplatz, München (GER)",2022-08-16,1174,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8970.0,GER,33,2022
+159,2:29:31,,Kevin CAMPION,1988-05-23,FRA,1.0,Zittau (GER),2022-10-29,1174,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8971.0,GER,34,2022
+159,2:29:31,,Yingcheng ZHOU,2000-10-06,CHN,4.0,"National Stadium, Tokyo (JPN)",2025-09-13,1174,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8971.0,JPN,24,2025
+161,2:29:32,,Sergey SHARYPOV,1992-04-14,RUS,3.0,Sochi (RUS),2018-02-19,1174,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8972.0,RUS,25,2018
+161,2:29:32,,Aurélien QUINION,1993-01-27,FRA,4.0,Poděbrady (CZE),2023-05-21,1174,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8972.0,CZE,30,2023
+161,2:29:32,,Miguel Ángel LÓPEZ,1988-07-03,ESP,12.0,"Hősök tere, Budapest (HUN)",2023-08-24,1174,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8972.0,HUN,35,2023
+164,2:29:33,,Sergey SHARYPOV,1992-04-14,RUS,1.0,Sochi (RUS),2015-02-27,1173,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8973.0,RUS,22,2015
+165,2:29:35,,Xianghong HE,1998-07-01,CHN,3.0,Dudince (SVK),2022-04-23,1173,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8975.0,SVK,23,2022
+166,2:29:36,,Yuriy ANDRONOV,1971-11-06,RUS,6.0,"Adler, Sochi (RUS)",2008-02-23,1173,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8976.0,RUS,36,2008
+166,2:29:36,,Yangben ZHAXI,1996-04-15,CHN,3.0,Huangshan (CHN),2023-03-04,1173,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8976.0,CHN,26,2023
+168,2:29:38,,Marc TUR,1994-11-30,ESP,3.0,Cieza (ESP),2023-02-26,1173,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8978.0,ESP,28,2023
+169,2:29:42,,Ivan NOSKOV,1988-07-16,RUS,4.0,Sochi (RUS),2020-02-17,1172,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8982.0,RUS,31,2020
+170,2:29:47,,Nikolay MAKSIMOV,1999-12-21,RUS,2.0,Kazan (RUS),2024-05-10,1171,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8987.0,RUS,24,2024
+171,2:29:51,,Nikolay MAKSIMOV,1999-12-21,RUS,3.0,"Avtodrom, Sochi (RUS)",2023-02-13,1170,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8991.0,RUS,23,2023
+171,2:29:51,,Maher BEN HLIMA,1989-07-24,POL,11.0,"Lázeňský Park, Poděbrady (CZE)",2025-05-18,1170,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8991.0,CZE,35,2025
+173,2:29:52,,Satoshi MARUO,1991-11-28,JPN,13.0,"Hősök tere, Budapest (HUN)",2023-08-24,1170,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8992.0,HUN,31,2023
+173,2:29:52,,Maksim BOYKO,2003-08-08,RUS,3.0,"Avtodrom, Sochi (RUS)",2025-02-24,1170,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8992.0,RUS,21,2025
+175,2:29:54,,Roman YEVSTIFEYEV,1992-09-19,RUS,2.0,Sochi (RUS),2015-02-27,1170,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8994.0,RUS,22,2015
+176,2:29:55,,Hao XU,1999-02-06,CHN,17.0,"Autzen Complex, Eugene, OR (USA)",2022-07-24,1170,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8995.0,USA,23,2022
+177,2:29:56,,Sergey SHARYPOV,1992-04-14,ANA,2.0,Kostroma (RUS),2016-09-03,1169,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8996.0,RUS,24,2016
+177,2:29:56,,Ram BABOO,1999-03-20,IND,5.0,Dudince (SVK),2023-03-25,1169,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8996.0,SVK,24,2023
+179,2:29:58,,Christopher LINKE,1988-10-24,GER,1.0,Frankfurt (GER),2022-04-30,1169,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8998.0,GER,33,2022
 179,2:29:58,,Lihong CUI,1999-05-13,CHN,,Milazzo (ITA),2023-01-29,1169,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8998.0,ITA,23,2023
-179,2:29:58,,Will THOMPSON,2002-11-18,AUS,7,"Takahata Race Walk Course, Takahata (JPN)",2024-10-27,1169,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8998.0,JPN,21,2024
-182,2:29:59,,Álvaro MARTÍN,1994-06-18,ESP,2,Lepe (ESP),2022-01-30,1169,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8999.0,ESP,27,2022
-183,2:30:00,,Roman YEVSTIFEYEV,1992-09-19,RUS,1,Cheboksary (RUS),2014-09-06,1169,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9000.0,RUS,21,2014
-183,2:30:00,,Sergey SHARYPOV,1992-04-14,RUS,2,Sochi (RUS),2022-01-31,1169,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9000.0,RUS,29,2022
-183,2:30:00,,Serhii SVITLYCHNYI,1994-07-13,UKR,12,"Lázeňský Park, Poděbrady (CZE)",2025-05-18,1169,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9000.0,CZE,30,2025
-183,2:30:00,,Tao YOU,1997-07-19,CHN,4,Huangshan (CHN),2023-03-04,1169,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9000.0,CHN,25,2023
-187,2:30:01,,Aurélien QUINION,1993-01-27,FRA,4,Dudince (SVK),2022-04-23,1169,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9001.0,SVK,29,2022
-188,2:30:02,,Haruki MANJU,2001-04-10,JPN,8,"Takahata Race Walk Course, Takahata (JPN)",2024-10-27,1168,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9002.0,JPN,23,2024
-189,2:30:07,,Ricardo ORTIZ,1995-02-07,MEX,1,Coatzacoalcos (MEX),2022-01-30,1168,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9007.0,MEX,26,2022
-190,2:30:12,,Sergey RAKOV,1999-06-13,RUS,5,Sochi (RUS),2020-02-17,1167,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9012.0,RUS,20,2020
-190,2:30:12,,Motofumi SUWA,1999-10-22,JPN,9,"Takahata Race Walk Course, Takahata (JPN)",2024-10-27,1167,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9012.0,JPN,25,2024
-192,2:30:13,,Aleksey KUDASHKIN,1997-02-01,RUS,4,Sochi (RUS),2018-02-19,1167,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9013.0,RUS,21,2018
-193,2:30:14,,Ivan NOSKOV,1988-07-16,RUS,1,Sochi (RUS),2014-03-22,1166,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9014.0,RUS,25,2014
-194,2:30:16,,Andrea AGRUSTI,1995-08-30,ITA,5,Poděbrady (CZE),2023-05-21,1166,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9016.0,CZE,27,2023
-194,2:30:16,,Kento YOSHIKAWA,2001-08-09,JPN,6,Nomi (JPN),2025-03-16,1166,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9016.0,JPN,23,2025
-196,2:30:17,,Ihor SAKHARUK,1988-06-03,UKR,1,Alushta (UKR),2014-02-28,1166,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9017.0,UKR,25,2014
-197,2:30:18,,Kevin CAMPION,1988-05-23,FRA,14,"Hősök tere, Budapest (HUN)",2023-08-24,1166,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9018.0,HUN,35,2023
-198,2:30:20,,Oleksiy KAZANIN,1982-05-22,UKR,2,Alushta (UKR),2014-02-28,1165,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9020.0,UKR,31,2014
-199,2:30:22,,Ivan BANZERUK,1990-02-09,UKR,13,"Lázeňský Park, Poděbrady (CZE)",2025-05-18,1165,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9022.0,CZE,35,2025
-200,2:30:24,,Sergey SHARYPOV,1992-04-14,RUS,3,Saransk (RUS),2023-05-20,1165,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9024.0,RUS,31,2023
-200,2:30:24,,Aurélien QUINION,1993-01-27,FRA,5f1,"National Stadium, Tokyo (JPN)",2025-09-13,1165,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9024.0,JPN,32,2025
-202,2:30:25,,Aleksandr YARGUNKIN,1981-01-06,RUS,3,Sochi (RUS),2015-02-27,1165,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9025.0,RUS,34,2015
-202,2:30:25,,Aleksandr GARIN,1999-12-28,RUS,3,Sochi (RUS),2022-01-31,1165,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9025.0,RUS,22,2022
-204,2:30:27,,Nikolay MAKSIMOV,1999-12-21,RUS,4,"Avtodrom, Sochi (RUS)",2025-02-24,1164,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9027.0,RUS,25,2025
-205,2:30:28,,Aleksi OJALA,1992-12-09,FIN,1,Pori (FIN),2024-09-21,1164,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9028.0,FIN,31,2024
-206,2:30:30,,Johannes FRENZL,2001-09-22,GER,14,"Lázeňský Park, Poděbrady (CZE)",2025-05-18,1164,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9030.0,CZE,23,2025
-207,2:30:31,,Sergey SHARYPOV,1992-04-14,RUS,5,"Avtodrom, Sochi (RUS)",2025-02-24,1164,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9031.0,RUS,32,2025
-208,2:30:32,,Andrea AGRUSTI,1995-08-30,ITA,15,"Hősök tere, Budapest (HUN)",2023-08-24,1163,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9032.0,HUN,28,2023
-209,2:30:34,,Rhydian COWLEY,1991-01-04,AUS,18,"Autzen Complex, Eugene, OR (USA)",2022-07-24,1163,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9034.0,USA,31,2022
-209,2:30:34,,Matteo GIUPPONI,1988-10-08,ITA,3,"Odeonplatz, München (GER)",2022-08-16,1163,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9034.0,GER,33,2022
-211,2:30:37,,Subaru ISHIDA,1999-06-04,JPN,3,Takahata (JPN),2022-10-23,1163,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9037.0,JPN,23,2022
-212,2:30:38,,Riccardo ORSONI,2000-01-20,ITA,6,Poděbrady (CZE),2023-05-21,1162,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9038.0,CZE,23,2023
-212,2:30:38,,Jonathan HILBERT,1995-04-21,GER,15,"Lázeňský Park, Poděbrady (CZE)",2025-05-18,1162,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9038.0,CZE,30,2025
-214,2:30:40,,Sergey KIRDYAPKIN,1980-06-18,RUS,2,Sochi (RUS),2016-02-27,1162,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9040.0,RUS,35,2016
-215,2:30:41,,Hayato KATSUKI,1990-11-28,JPN,5,Wajima (JPN),2022-04-17,1162,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9041.0,JPN,31,2022
-216,2:30:42,,Daniel CHAMOSA,1997-05-04,ESP,6f1,"National Stadium, Tokyo (JPN)",2025-09-13,1162,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9042.0,JPN,28,2025
-217,2:30:46,,José MONTANA,1992-03-21,COL,5,Dudince (SVK),2022-04-23,1161,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9046.0,SVK,30,2022
-218,2:30:47,,Dawid TOMALA,1989-08-27,POL,19,"Autzen Complex, Eugene, OR (USA)",2022-07-24,1161,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9047.0,USA,32,2022
-219,2:30:50,,Giorgio RUBINO,1986-04-15,ITA,1,Grosseto (ITA),2018-01-28,1160,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9050.0,ITA,31,2018
-219,2:30:50,,Julio César SALAZAR,1993-07-08,MEX,6,Dudince (SVK),2022-04-23,1160,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9050.0,SVK,28,2022
+179,2:29:58,,Will THOMPSON,2002-11-18,AUS,7.0,"Takahata Race Walk Course, Takahata (JPN)",2024-10-27,1169,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8998.0,JPN,21,2024
+182,2:29:59,,Álvaro MARTÍN,1994-06-18,ESP,2.0,Lepe (ESP),2022-01-30,1169,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,8999.0,ESP,27,2022
+183,2:30:00,,Roman YEVSTIFEYEV,1992-09-19,RUS,1.0,Cheboksary (RUS),2014-09-06,1169,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9000.0,RUS,21,2014
+183,2:30:00,,Sergey SHARYPOV,1992-04-14,RUS,2.0,Sochi (RUS),2022-01-31,1169,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9000.0,RUS,29,2022
+183,2:30:00,,Serhii SVITLYCHNYI,1994-07-13,UKR,12.0,"Lázeňský Park, Poděbrady (CZE)",2025-05-18,1169,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9000.0,CZE,30,2025
+183,2:30:00,,Tao YOU,1997-07-19,CHN,4.0,Huangshan (CHN),2023-03-04,1169,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9000.0,CHN,25,2023
+187,2:30:01,,Aurélien QUINION,1993-01-27,FRA,4.0,Dudince (SVK),2022-04-23,1169,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9001.0,SVK,29,2022
+188,2:30:02,,Haruki MANJU,2001-04-10,JPN,8.0,"Takahata Race Walk Course, Takahata (JPN)",2024-10-27,1168,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9002.0,JPN,23,2024
+189,2:30:07,,Ricardo ORTIZ,1995-02-07,MEX,1.0,Coatzacoalcos (MEX),2022-01-30,1168,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9007.0,MEX,26,2022
+190,2:30:12,,Sergey RAKOV,1999-06-13,RUS,5.0,Sochi (RUS),2020-02-17,1167,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9012.0,RUS,20,2020
+190,2:30:12,,Motofumi SUWA,1999-10-22,JPN,9.0,"Takahata Race Walk Course, Takahata (JPN)",2024-10-27,1167,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9012.0,JPN,25,2024
+192,2:30:13,,Aleksey KUDASHKIN,1997-02-01,RUS,4.0,Sochi (RUS),2018-02-19,1167,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9013.0,RUS,21,2018
+193,2:30:14,,Ivan NOSKOV,1988-07-16,RUS,1.0,Sochi (RUS),2014-03-22,1166,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9014.0,RUS,25,2014
+194,2:30:16,,Andrea AGRUSTI,1995-08-30,ITA,5.0,Poděbrady (CZE),2023-05-21,1166,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9016.0,CZE,27,2023
+194,2:30:16,,Kento YOSHIKAWA,2001-08-09,JPN,6.0,Nomi (JPN),2025-03-16,1166,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9016.0,JPN,23,2025
+196,2:30:17,,Ihor SAKHARUK,1988-06-03,UKR,1.0,Alushta (UKR),2014-02-28,1166,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9017.0,UKR,25,2014
+197,2:30:18,,Kevin CAMPION,1988-05-23,FRA,14.0,"Hősök tere, Budapest (HUN)",2023-08-24,1166,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9018.0,HUN,35,2023
+198,2:30:20,,Oleksiy KAZANIN,1982-05-22,UKR,2.0,Alushta (UKR),2014-02-28,1165,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9020.0,UKR,31,2014
+199,2:30:22,,Ivan BANZERUK,1990-02-09,UKR,13.0,"Lázeňský Park, Poděbrady (CZE)",2025-05-18,1165,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9022.0,CZE,35,2025
+200,2:30:24,,Sergey SHARYPOV,1992-04-14,RUS,3.0,Saransk (RUS),2023-05-20,1165,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9024.0,RUS,31,2023
+200,2:30:24,,Aurélien QUINION,1993-01-27,FRA,5.0,"National Stadium, Tokyo (JPN)",2025-09-13,1165,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9024.0,JPN,32,2025
+202,2:30:25,,Aleksandr YARGUNKIN,1981-01-06,RUS,3.0,Sochi (RUS),2015-02-27,1165,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9025.0,RUS,34,2015
+202,2:30:25,,Aleksandr GARIN,1999-12-28,RUS,3.0,Sochi (RUS),2022-01-31,1165,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9025.0,RUS,22,2022
+204,2:30:27,,Nikolay MAKSIMOV,1999-12-21,RUS,4.0,"Avtodrom, Sochi (RUS)",2025-02-24,1164,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9027.0,RUS,25,2025
+205,2:30:28,,Aleksi OJALA,1992-12-09,FIN,1.0,Pori (FIN),2024-09-21,1164,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9028.0,FIN,31,2024
+206,2:30:30,,Johannes FRENZL,2001-09-22,GER,14.0,"Lázeňský Park, Poděbrady (CZE)",2025-05-18,1164,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9030.0,CZE,23,2025
+207,2:30:31,,Sergey SHARYPOV,1992-04-14,RUS,5.0,"Avtodrom, Sochi (RUS)",2025-02-24,1164,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9031.0,RUS,32,2025
+208,2:30:32,,Andrea AGRUSTI,1995-08-30,ITA,15.0,"Hősök tere, Budapest (HUN)",2023-08-24,1163,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9032.0,HUN,28,2023
+209,2:30:34,,Rhydian COWLEY,1991-01-04,AUS,18.0,"Autzen Complex, Eugene, OR (USA)",2022-07-24,1163,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9034.0,USA,31,2022
+209,2:30:34,,Matteo GIUPPONI,1988-10-08,ITA,3.0,"Odeonplatz, München (GER)",2022-08-16,1163,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9034.0,GER,33,2022
+211,2:30:37,,Subaru ISHIDA,1999-06-04,JPN,3.0,Takahata (JPN),2022-10-23,1163,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9037.0,JPN,23,2022
+212,2:30:38,,Riccardo ORSONI,2000-01-20,ITA,6.0,Poděbrady (CZE),2023-05-21,1162,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9038.0,CZE,23,2023
+212,2:30:38,,Jonathan HILBERT,1995-04-21,GER,15.0,"Lázeňský Park, Poděbrady (CZE)",2025-05-18,1162,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9038.0,CZE,30,2025
+214,2:30:40,,Sergey KIRDYAPKIN,1980-06-18,RUS,2.0,Sochi (RUS),2016-02-27,1162,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9040.0,RUS,35,2016
+215,2:30:41,,Hayato KATSUKI,1990-11-28,JPN,5.0,Wajima (JPN),2022-04-17,1162,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9041.0,JPN,31,2022
+216,2:30:42,,Daniel CHAMOSA,1997-05-04,ESP,6.0,"National Stadium, Tokyo (JPN)",2025-09-13,1162,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9042.0,JPN,28,2025
+217,2:30:46,,José MONTANA,1992-03-21,COL,5.0,Dudince (SVK),2022-04-23,1161,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9046.0,SVK,30,2022
+218,2:30:47,,Dawid TOMALA,1989-08-27,POL,19.0,"Autzen Complex, Eugene, OR (USA)",2022-07-24,1161,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9047.0,USA,32,2022
+219,2:30:50,,Giorgio RUBINO,1986-04-15,ITA,1.0,Grosseto (ITA),2018-01-28,1160,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9050.0,ITA,31,2018
+219,2:30:50,,Julio César SALAZAR,1993-07-08,MEX,6.0,Dudince (SVK),2022-04-23,1160,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9050.0,SVK,28,2022
 221,2:30:52,,Ronald WEIGEL,1959-08-08,GER,,Fougéres (FRA),1995-06-11,1160,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9052.0,FRA,35,1995
-221,2:30:52,,Aldo ANDREI,2001-07-15,ITA,2,Acquaviva delle Fonti (ITA),2025-01-26,1160,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9052.0,ITA,23,2025
-223,2:30:53,,Nikolay MAKSIMOV,1999-12-21,RUS,3,"Avtodrom, Sochi (RUS)",2024-02-27,1160,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9053.0,RUS,24,2024
-224,2:30:55,,Kazuki TAKAHASHI,1996-06-17,JPN,5,"Wajima Race Walk Course, Wajima (JPN)",2023-04-16,1159,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9055.0,JPN,26,2023
-225,2:30:56,,Sergey SERGACHEV,1987-07-10,RUS,2,Sochi (RUS),2010-02-20,1159,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9056.0,RUS,22,2010
-225,2:30:56,,Álvaro LÓPEZ,1999-03-24,ESP,3,Marín (ESP),2025-03-09,1159,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9056.0,ESP,25,2025
-227,2:30:58,,Ivan BANZERUK,1990-02-09,UKR,3,Alushta (UKR),2014-02-28,1159,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9058.0,UKR,24,2014
-228,2:30:59,,Carl DOHMANN,1990-05-18,GER,2,Frankfurt (GER),2022-04-30,1159,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9059.0,GER,31,2022
-229,2:31:03,,Dementiy CHEPAREV,1992-10-28,RUS,1,Sochi (RUS),2019-02-18,1158,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9063.0,RUS,26,2019
-230,2:31:05,,Xianghong HE,1998-07-01,CHN,1,Nanjing (CHN),2022-01-22,1158,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9065.0,CHN,23,2022
-231,2:31:06,,Kiril SHUTOV,1997-09-24,RUS,4,"Avtodrom, Sochi (RUS)",2023-02-13,1158,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9066.0,RUS,25,2023
-232,2:31:07,,Igor STARKOV,1991-04-29,RUS,4,Saransk (RUS),2023-05-20,1157,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9067.0,RUS,32,2023
-232,2:31:07,,Mitchell BAKER,2001-07-06,AUS,10,"Takahata Race Walk Course, Takahata (JPN)",2024-10-27,1157,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9067.0,JPN,23,2024
-234,2:31:09,,Sergey MELENTYEV,1976-12-05,RUS,7,"Adler, Sochi (RUS)",2008-02-23,1157,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9069.0,RUS,31,2008
-234,2:31:09,,Yangben ZHAXI,1996-04-15,CHN,2,Nanjing (CHN),2022-01-22,1157,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9069.0,CHN,25,2022
-236,2:31:10,,Konstantin MAKSIMOV,1982-06-17,RUS,2,Sochi (RUS),2013-02-23,1157,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9070.0,RUS,30,2013
-236,2:31:10,,Ever Jair PALMA OLIVARES,1992-03-18,MEX,7,Dudince (SVK),2022-04-23,1157,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9070.0,SVK,30,2022
-238,2:31:11,,Qingcun ZENG,1995-04-03,CHN,5,Huangshan (CHN),2023-03-04,1157,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9071.0,CHN,27,2023
-239,2:31:13,,Gianluca PICCHIOTTINO,1996-08-22,ITA,3,Acquaviva delle Fonti (ITA),2025-01-26,1156,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9073.0,ITA,28,2025
-240,2:31:15,,Sergey SHARYPOV,1992-04-14,RUS,4,Cheboksary (RUS),2022-05-21,1156,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9075.0,RUS,30,2022
-240,2:31:15,,Yingcheng ZHOU,2000-10-06,CHN,6,Huangshan (CHN),2023-03-04,1156,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9075.0,CHN,22,2023
-240,2:31:15,,Wayne SNYMAN,1985-03-08,RSA,20,"Autzen Complex, Eugene, OR (USA)",2022-07-24,1156,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9075.0,USA,37,2022
-240,2:31:15,,Yuriy ANDRONOV,1971-11-06,RUS,3,Sochi (RUS),2010-02-20,1156,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9075.0,RUS,38,2010
-244,2:31:16,,Dementiy CHEPAREV,1992-10-28,RUS,5,Cheboksary (RUS),2022-05-21,1156,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9076.0,RUS,29,2022
-244,2:31:16,,Miroslav ÚRADNÍK,1996-03-24,SVK,21,"Autzen Complex, Eugene, OR (USA)",2022-07-24,1156,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9076.0,USA,26,2022
-244,2:31:16,,Carl DOHMANN,1990-05-18,GER,7,Poděbrady (CZE),2023-05-21,1156,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9076.0,CZE,33,2023
-247,2:31:17,,Dominik ČERNÝ,1997-11-01,SVK,7f1,"National Stadium, Tokyo (JPN)",2025-09-13,1156,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9077.0,JPN,27,2025
-248,2:31:18,,Sergey SERGACHEV,1987-07-10,RUS,6,"Adler, Sochi (RUS)",2009-03-01,1156,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9078.0,RUS,21,2009
-249,2:31:19,,Robert HEFFERNAN,1978-02-28,IRL,1,Dublin (IRL),2000-07-15,1155,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9079.0,IRL,22,2000
-250,2:31:21,,Sergey MELENTYEV,1976-12-05,RUS,7,"Adler, Sochi (RUS)",2009-03-01,1155,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9081.0,RUS,32,2009
-251,2:31:22,,Yangben ZHAXI,1996-04-15,CHN,8,Dudince (SVK),2022-04-23,1155,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9082.0,SVK,26,2022
-252,2:31:24,,Aleksi OJALA,1992-12-09,FIN,1,Laitila (FIN),2022-05-21,1155,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9084.0,FIN,29,2022
-253,2:31:25,,Andrés CHOCHO,1983-11-04,ECU,9,Dudince (SVK),2022-04-23,1154,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9085.0,SVK,38,2022
-254,2:31:26,,Sotaro OSAKA,2006-01-31,JPN,11,"Takahata Race Walk Course, Takahata (JPN)",2024-10-27,1154,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9086.0,JPN,18,2024
-254,2:31:26,,Ihor HLAVAN,1990-09-25,UKR,16,"Lázeňský Park, Poděbrady (CZE)",2025-05-18,1154,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9086.0,CZE,34,2025
-254,2:31:26,,Erick Bernabé BARRONDO,1991-06-14,GUA,10,Dudince (SVK),2022-04-23,1154,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9086.0,SVK,30,2022
-254,2:31:26,,Kazuki TAKAHASHI,1996-06-17,JPN,6,Wajima (JPN),2022-04-17,1154,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9086.0,JPN,25,2022
-254,2:31:26,,Aleksandr YARGUNKIN,1981-01-06,RUS,3,Sochi (RUS),2013-02-23,1154,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9086.0,RUS,32,2013
-259,2:31:27,,Dementiy CHEPAREV,1992-10-28,RUS,1,Sochi (RUS),2021-02-19,1154,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9087.0,RUS,28,2021
-260,2:31:28,,José LEYVER,1985-11-12,MEX,11,Dudince (SVK),2022-04-23,1154,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9088.0,SVK,36,2022
+221,2:30:52,,Aldo ANDREI,2001-07-15,ITA,2.0,Acquaviva delle Fonti (ITA),2025-01-26,1160,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9052.0,ITA,23,2025
+223,2:30:53,,Nikolay MAKSIMOV,1999-12-21,RUS,3.0,"Avtodrom, Sochi (RUS)",2024-02-27,1160,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9053.0,RUS,24,2024
+224,2:30:55,,Kazuki TAKAHASHI,1996-06-17,JPN,5.0,"Wajima Race Walk Course, Wajima (JPN)",2023-04-16,1159,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9055.0,JPN,26,2023
+225,2:30:56,,Sergey SERGACHEV,1987-07-10,RUS,2.0,Sochi (RUS),2010-02-20,1159,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9056.0,RUS,22,2010
+225,2:30:56,,Álvaro LÓPEZ,1999-03-24,ESP,3.0,Marín (ESP),2025-03-09,1159,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9056.0,ESP,25,2025
+227,2:30:58,,Ivan BANZERUK,1990-02-09,UKR,3.0,Alushta (UKR),2014-02-28,1159,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9058.0,UKR,24,2014
+228,2:30:59,,Carl DOHMANN,1990-05-18,GER,2.0,Frankfurt (GER),2022-04-30,1159,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9059.0,GER,31,2022
+229,2:31:03,,Dementiy CHEPAREV,1992-10-28,RUS,1.0,Sochi (RUS),2019-02-18,1158,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9063.0,RUS,26,2019
+230,2:31:05,,Xianghong HE,1998-07-01,CHN,1.0,Nanjing (CHN),2022-01-22,1158,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9065.0,CHN,23,2022
+231,2:31:06,,Kiril SHUTOV,1997-09-24,RUS,4.0,"Avtodrom, Sochi (RUS)",2023-02-13,1158,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9066.0,RUS,25,2023
+232,2:31:07,,Igor STARKOV,1991-04-29,RUS,4.0,Saransk (RUS),2023-05-20,1157,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9067.0,RUS,32,2023
+232,2:31:07,,Mitchell BAKER,2001-07-06,AUS,10.0,"Takahata Race Walk Course, Takahata (JPN)",2024-10-27,1157,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9067.0,JPN,23,2024
+234,2:31:09,,Sergey MELENTYEV,1976-12-05,RUS,7.0,"Adler, Sochi (RUS)",2008-02-23,1157,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9069.0,RUS,31,2008
+234,2:31:09,,Yangben ZHAXI,1996-04-15,CHN,2.0,Nanjing (CHN),2022-01-22,1157,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9069.0,CHN,25,2022
+236,2:31:10,,Konstantin MAKSIMOV,1982-06-17,RUS,2.0,Sochi (RUS),2013-02-23,1157,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9070.0,RUS,30,2013
+236,2:31:10,,Ever Jair PALMA OLIVARES,1992-03-18,MEX,7.0,Dudince (SVK),2022-04-23,1157,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9070.0,SVK,30,2022
+238,2:31:11,,Qingcun ZENG,1995-04-03,CHN,5.0,Huangshan (CHN),2023-03-04,1157,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9071.0,CHN,27,2023
+239,2:31:13,,Gianluca PICCHIOTTINO,1996-08-22,ITA,3.0,Acquaviva delle Fonti (ITA),2025-01-26,1156,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9073.0,ITA,28,2025
+240,2:31:15,,Sergey SHARYPOV,1992-04-14,RUS,4.0,Cheboksary (RUS),2022-05-21,1156,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9075.0,RUS,30,2022
+240,2:31:15,,Yingcheng ZHOU,2000-10-06,CHN,6.0,Huangshan (CHN),2023-03-04,1156,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9075.0,CHN,22,2023
+240,2:31:15,,Wayne SNYMAN,1985-03-08,RSA,20.0,"Autzen Complex, Eugene, OR (USA)",2022-07-24,1156,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9075.0,USA,37,2022
+240,2:31:15,,Yuriy ANDRONOV,1971-11-06,RUS,3.0,Sochi (RUS),2010-02-20,1156,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9075.0,RUS,38,2010
+244,2:31:16,,Dementiy CHEPAREV,1992-10-28,RUS,5.0,Cheboksary (RUS),2022-05-21,1156,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9076.0,RUS,29,2022
+244,2:31:16,,Miroslav ÚRADNÍK,1996-03-24,SVK,21.0,"Autzen Complex, Eugene, OR (USA)",2022-07-24,1156,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9076.0,USA,26,2022
+244,2:31:16,,Carl DOHMANN,1990-05-18,GER,7.0,Poděbrady (CZE),2023-05-21,1156,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9076.0,CZE,33,2023
+247,2:31:17,,Dominik ČERNÝ,1997-11-01,SVK,7.0,"National Stadium, Tokyo (JPN)",2025-09-13,1156,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9077.0,JPN,27,2025
+248,2:31:18,,Sergey SERGACHEV,1987-07-10,RUS,6.0,"Adler, Sochi (RUS)",2009-03-01,1156,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9078.0,RUS,21,2009
+249,2:31:19,,Robert HEFFERNAN,1978-02-28,IRL,1.0,Dublin (IRL),2000-07-15,1155,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9079.0,IRL,22,2000
+250,2:31:21,,Sergey MELENTYEV,1976-12-05,RUS,7.0,"Adler, Sochi (RUS)",2009-03-01,1155,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9081.0,RUS,32,2009
+251,2:31:22,,Yangben ZHAXI,1996-04-15,CHN,8.0,Dudince (SVK),2022-04-23,1155,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9082.0,SVK,26,2022
+252,2:31:24,,Aleksi OJALA,1992-12-09,FIN,1.0,Laitila (FIN),2022-05-21,1155,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9084.0,FIN,29,2022
+253,2:31:25,,Andrés CHOCHO,1983-11-04,ECU,9.0,Dudince (SVK),2022-04-23,1154,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9085.0,SVK,38,2022
+254,2:31:26,,Sotaro OSAKA,2006-01-31,JPN,11.0,"Takahata Race Walk Course, Takahata (JPN)",2024-10-27,1154,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9086.0,JPN,18,2024
+254,2:31:26,,Ihor HLAVAN,1990-09-25,UKR,16.0,"Lázeňský Park, Poděbrady (CZE)",2025-05-18,1154,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9086.0,CZE,34,2025
+254,2:31:26,,Erick Bernabé BARRONDO,1991-06-14,GUA,10.0,Dudince (SVK),2022-04-23,1154,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9086.0,SVK,30,2022
+254,2:31:26,,Kazuki TAKAHASHI,1996-06-17,JPN,6.0,Wajima (JPN),2022-04-17,1154,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9086.0,JPN,25,2022
+254,2:31:26,,Aleksandr YARGUNKIN,1981-01-06,RUS,3.0,Sochi (RUS),2013-02-23,1154,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9086.0,RUS,32,2013
+259,2:31:27,,Dementiy CHEPAREV,1992-10-28,RUS,1.0,Sochi (RUS),2021-02-19,1154,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9087.0,RUS,28,2021
+260,2:31:28,,José LEYVER,1985-11-12,MEX,11.0,Dudince (SVK),2022-04-23,1154,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9088.0,SVK,36,2022
 261,2:31:29,,Zhen WANG,1991-08-24,CHN,,Latina (ITA),2012-01-29,1154,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9089.0,ITA,20,2012
-262,2:31:34,,Cameron CORBISHLEY,1997-03-31,GBR,2,"Weinauparkstadion, Zittau (GER)",2024-10-26,1153,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9094.0,GER,27,2024
-263,2:31:36,,Ram BABOO,1999-03-20,IND,1,Ranchi (IND),2023-02-15,1153,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9096.0,IND,23,2023
-264,2:31:37,,Karl JUNGHANNß,1996-04-06,GER,3,Frankfurt (GER),2022-04-30,1152,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9097.0,GER,26,2022
-265,2:31:38,,Yuki ITO,1992-04-12,JPN,7,Wajima (JPN),2022-04-17,1152,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9098.0,JPN,30,2022
-266,2:31:39,,Juan José SOTO,1999-08-22,COL,6,Dudince (SVK),2023-03-25,1152,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9099.0,SVK,23,2023
-266,2:31:39,,Riccardo ORSONI,2000-01-20,ITA,8f1,"National Stadium, Tokyo (JPN)",2025-09-13,1152,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9099.0,JPN,25,2025
-268,2:31:40,,Ihor HLAVAN,1990-09-25,UKR,1,Ivano-Frankivsk (UKR),2017-03-12,1152,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9100.0,UKR,26,2017
-269,2:31:41,,João VIEIRA,1976-02-20,POR,17,"Lázeňský Park, Poděbrady (CZE)",2025-05-18,1152,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9101.0,CZE,49,2025
-269,2:31:41,,Riccardo ORSONI,2000-01-20,ITA,16,"Hősök tere, Budapest (HUN)",2023-08-24,1152,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9101.0,HUN,23,2023
-271,2:31:44,,Vít HLAVÁČ,1997-02-26,CZE,18,"Lázeňský Park, Poděbrady (CZE)",2025-05-18,1151,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9104.0,CZE,28,2025
-271,2:31:44,,Yang YANYUN,2001-06-18,CHN,7,Huangshan (CHN),2023-03-04,1151,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9104.0,CHN,21,2023
-273,2:31:45,,José MONTANA,1992-03-21,COL,17,"Hősök tere, Budapest (HUN)",2023-08-24,1151,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9105.0,HUN,31,2023
-274,2:31:48,,Maksim BOYKO,2003-08-08,RUS,3,Kazan (RUS),2024-05-10,1151,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9108.0,RUS,20,2024
-274,2:31:48,,Hao XU,1999-02-06,CHN,1,Huangshan (CHN),2022-04-23,1151,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9108.0,CHN,23,2022
-274,2:31:48,,Aleksi OJALA,1992-12-09,FIN,7,Dudince (SVK),2023-03-25,1151,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9108.0,SVK,30,2023
-277,2:31:49,,Roman YEVSTIFEYEV,1992-09-19,RUS,3,Sochi (RUS),2016-02-27,1150,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9109.0,RUS,23,2016
-278,2:31:52,,Carl DOHMANN,1990-05-18,GER,2,"Domplatz, Erfurt (GER)",2023-04-15,1150,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9112.0,GER,32,2023
-279,2:31:53,,Bence VENYERCSÁN,1996-01-08,HUN,10,Dudince (SVK),2025-03-22,1150,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9113.0,SVK,29,2025
-279,2:31:53,,Oisin LANE,2002-06-12,IRL,1,Marín (ESP),2025-03-09,1150,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9113.0,ESP,22,2025
-279,2:31:53,,Marc TUR,1994-11-30,ESP,4,Marín (ESP),2025-03-09,1150,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9113.0,ESP,30,2025
-282,2:31:54,,Perseus KARLSTRÖM,1990-05-02,SWE,1,Dublin (IRL),2021-12-19,1150,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9114.0,IRL,31,2021
-282,2:31:54,,Mitchell BAKER,2001-07-06,AUS,2,"Albert Park, Melbourne (AUS)",2023-05-21,1150,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9114.0,AUS,21,2023
-284,2:31:56,,Brian Daniel PINTADO,1995-07-29,ECU,1,"Avenida Oriental, Sucúa (ECU)",2025-02-22,1149,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9116.0,ECU,29,2025
-285,2:31:58,,Ivan BANZERUK,1990-02-09,UKR,11,Dudince (SVK),2025-03-22,1149,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9118.0,SVK,35,2025
-285,2:31:58,,Roman YEVSTIFEYEV,1992-09-19,RUS,4,Sochi (RUS),2017-02-18,1149,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9118.0,RUS,24,2017
-287,2:31:59,,Diego GIAMPAOLO,2004-02-29,ITA,4,Acquaviva delle Fonti (ITA),2025-01-26,1149,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9119.0,ITA,20,2025
-288,2:32:00,,Marc TUR,1994-11-30,ESP,19,"Lázeňský Park, Poděbrady (CZE)",2025-05-18,1149,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9120.0,CZE,30,2025
-289,2:32:06,,Marc TUR,1994-11-30,ESP,8,Poděbrady (CZE),2023-05-21,1148,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9126.0,CZE,28,2023
-289,2:32:06,,Aleksandr GARIN,1999-12-28,RUS,5,"Avtodrom, Sochi (RUS)",2023-02-13,1148,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9126.0,RUS,23,2023
-289,2:32:06,,Manuel BERMÚDEZ,1997-12-12,ESP,3,Lepe (ESP),2022-01-30,1148,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9126.0,ESP,24,2022
-292,2:32:08,,Eider ARÉVALO,1993-03-09,COL,12,Dudince (SVK),2022-04-23,1147,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9128.0,SVK,29,2022
-293,2:32:09,,Ivan BANZERUK,1990-02-09,UKR,1,Ivano-Frankivsk (UKR),2024-10-19,1147,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9129.0,UKR,34,2024
-293,2:32:09,,Zhicairang DAN,2003-03-10,CHN,8,Huangshan (CHN),2023-03-04,1147,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9129.0,CHN,19,2023
-295,2:32:12,,Tongda BIAN,1991-04-01,CHN,8,Dudince (SVK),2023-03-25,1147,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9132.0,SVK,32,2023
-296,2:32:14,,Denis ASANOV,1992-09-23,RUS,2,Sochi (RUS),2014-03-22,1146,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9134.0,RUS,21,2014
-296,2:32:14,,Johannes FRENZL,2001-09-22,GER,12,Dudince (SVK),2025-03-22,1146,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9134.0,SVK,23,2025
-298,2:32:16,,Sergey RAKOV,1999-06-13,RUS,4,Sochi (RUS),2022-01-31,1146,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9136.0,RUS,22,2022
-298,2:32:16,,Isaac PALMA,1990-10-26,MEX,13,Dudince (SVK),2022-04-23,1146,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9136.0,SVK,31,2022
-300,2:32:18,,Aurélien QUINION,1993-01-27,FRA,1,Les Mureaux (FRA),2025-03-23,1146,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9138.0,FRA,32,2025
-301,2:32:19,,Teodorico CAPORASO,1987-09-14,ITA,14,Dudince (SVK),2022-04-23,1145,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9139.0,SVK,34,2022
-301,2:32:19,,Aleksey KHIMIN,1989-09-15,RUS,4,Sochi (RUS),2013-02-23,1145,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9139.0,RUS,23,2013
-303,2:32:21,,Wang ZHENHAO,2001-09-12,CHN,3,Nanjing (CHN),2022-01-22,1145,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9141.0,CHN,20,2022
-303,2:32:21,,Hayato KATSUKI,1990-11-28,JPN,4,Takahata (JPN),2022-10-23,1145,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9141.0,JPN,31,2022
-305,2:32:22,,Sergey SHARYPOV,1992-04-14,RUS,6,"Avtodrom, Sochi (RUS)",2023-02-13,1145,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9142.0,RUS,30,2023
-306,2:32:23,,Ivan BANZERUK,1990-02-09,UKR,2,Ivano-Frankivsk (UKR),2017-03-12,1145,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9143.0,UKR,27,2017
-306,2:32:23,,Ihor HLAVAN,1990-09-25,UKR,13,Dudince (SVK),2025-03-22,1145,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9143.0,SVK,34,2025
-308,2:32:26,,Sergey RAKOV,1999-06-13,RUS,2,Sochi (RUS),2021-02-19,1144,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9146.0,RUS,21,2021
-308,2:32:26,,Mikita KALIADA,2000-07-15,BLR,6,"Avtodrom, Sochi (RUS)",2025-02-24,1144,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9146.0,RUS,24,2025
-310,2:32:28,,César HERRERA,1999-01-28,COL,9,Dudince (SVK),2023-03-25,1144,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9148.0,SVK,24,2023
-310,2:32:28,,Veli-Matti PARTANEN,1991-10-28,FIN,18,"Hősök tere, Budapest (HUN)",2023-08-24,1144,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9148.0,HUN,31,2023
-312,2:32:29,,Sergey SERGACHEV,1987-07-10,RUS,4,Sochi (RUS),2011-02-26,1144,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9149.0,RUS,23,2011
+262,2:31:34,,Cameron CORBISHLEY,1997-03-31,GBR,2.0,"Weinauparkstadion, Zittau (GER)",2024-10-26,1153,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9094.0,GER,27,2024
+263,2:31:36,,Ram BABOO,1999-03-20,IND,1.0,Ranchi (IND),2023-02-15,1153,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9096.0,IND,23,2023
+264,2:31:37,,Karl JUNGHANNß,1996-04-06,GER,3.0,Frankfurt (GER),2022-04-30,1152,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9097.0,GER,26,2022
+265,2:31:38,,Yuki ITO,1992-04-12,JPN,7.0,Wajima (JPN),2022-04-17,1152,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9098.0,JPN,30,2022
+266,2:31:39,,Juan José SOTO,1999-08-22,COL,6.0,Dudince (SVK),2023-03-25,1152,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9099.0,SVK,23,2023
+266,2:31:39,,Riccardo ORSONI,2000-01-20,ITA,8.0,"National Stadium, Tokyo (JPN)",2025-09-13,1152,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9099.0,JPN,25,2025
+268,2:31:40,,Ihor HLAVAN,1990-09-25,UKR,1.0,Ivano-Frankivsk (UKR),2017-03-12,1152,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9100.0,UKR,26,2017
+269,2:31:41,,João VIEIRA,1976-02-20,POR,17.0,"Lázeňský Park, Poděbrady (CZE)",2025-05-18,1152,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9101.0,CZE,49,2025
+269,2:31:41,,Riccardo ORSONI,2000-01-20,ITA,16.0,"Hősök tere, Budapest (HUN)",2023-08-24,1152,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9101.0,HUN,23,2023
+271,2:31:44,,Vít HLAVÁČ,1997-02-26,CZE,18.0,"Lázeňský Park, Poděbrady (CZE)",2025-05-18,1151,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9104.0,CZE,28,2025
+271,2:31:44,,Yang YANYUN,2001-06-18,CHN,7.0,Huangshan (CHN),2023-03-04,1151,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9104.0,CHN,21,2023
+273,2:31:45,,José MONTANA,1992-03-21,COL,17.0,"Hősök tere, Budapest (HUN)",2023-08-24,1151,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9105.0,HUN,31,2023
+274,2:31:48,,Maksim BOYKO,2003-08-08,RUS,3.0,Kazan (RUS),2024-05-10,1151,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9108.0,RUS,20,2024
+274,2:31:48,,Hao XU,1999-02-06,CHN,1.0,Huangshan (CHN),2022-04-23,1151,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9108.0,CHN,23,2022
+274,2:31:48,,Aleksi OJALA,1992-12-09,FIN,7.0,Dudince (SVK),2023-03-25,1151,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9108.0,SVK,30,2023
+277,2:31:49,,Roman YEVSTIFEYEV,1992-09-19,RUS,3.0,Sochi (RUS),2016-02-27,1150,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9109.0,RUS,23,2016
+278,2:31:52,,Carl DOHMANN,1990-05-18,GER,2.0,"Domplatz, Erfurt (GER)",2023-04-15,1150,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9112.0,GER,32,2023
+279,2:31:53,,Bence VENYERCSÁN,1996-01-08,HUN,10.0,Dudince (SVK),2025-03-22,1150,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9113.0,SVK,29,2025
+279,2:31:53,,Oisin LANE,2002-06-12,IRL,1.0,Marín (ESP),2025-03-09,1150,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9113.0,ESP,22,2025
+279,2:31:53,,Marc TUR,1994-11-30,ESP,4.0,Marín (ESP),2025-03-09,1150,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9113.0,ESP,30,2025
+282,2:31:54,,Perseus KARLSTRÖM,1990-05-02,SWE,1.0,Dublin (IRL),2021-12-19,1150,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9114.0,IRL,31,2021
+282,2:31:54,,Mitchell BAKER,2001-07-06,AUS,2.0,"Albert Park, Melbourne (AUS)",2023-05-21,1150,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9114.0,AUS,21,2023
+284,2:31:56,,Brian Daniel PINTADO,1995-07-29,ECU,1.0,"Avenida Oriental, Sucúa (ECU)",2025-02-22,1149,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9116.0,ECU,29,2025
+285,2:31:58,,Ivan BANZERUK,1990-02-09,UKR,11.0,Dudince (SVK),2025-03-22,1149,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9118.0,SVK,35,2025
+285,2:31:58,,Roman YEVSTIFEYEV,1992-09-19,RUS,4.0,Sochi (RUS),2017-02-18,1149,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9118.0,RUS,24,2017
+287,2:31:59,,Diego GIAMPAOLO,2004-02-29,ITA,4.0,Acquaviva delle Fonti (ITA),2025-01-26,1149,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9119.0,ITA,20,2025
+288,2:32:00,,Marc TUR,1994-11-30,ESP,19.0,"Lázeňský Park, Poděbrady (CZE)",2025-05-18,1149,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9120.0,CZE,30,2025
+289,2:32:06,,Marc TUR,1994-11-30,ESP,8.0,Poděbrady (CZE),2023-05-21,1148,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9126.0,CZE,28,2023
+289,2:32:06,,Aleksandr GARIN,1999-12-28,RUS,5.0,"Avtodrom, Sochi (RUS)",2023-02-13,1148,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9126.0,RUS,23,2023
+289,2:32:06,,Manuel BERMÚDEZ,1997-12-12,ESP,3.0,Lepe (ESP),2022-01-30,1148,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9126.0,ESP,24,2022
+292,2:32:08,,Eider ARÉVALO,1993-03-09,COL,12.0,Dudince (SVK),2022-04-23,1147,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9128.0,SVK,29,2022
+293,2:32:09,,Ivan BANZERUK,1990-02-09,UKR,1.0,Ivano-Frankivsk (UKR),2024-10-19,1147,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9129.0,UKR,34,2024
+293,2:32:09,,Zhicairang DAN,2003-03-10,CHN,8.0,Huangshan (CHN),2023-03-04,1147,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9129.0,CHN,19,2023
+295,2:32:12,,Tongda BIAN,1991-04-01,CHN,8.0,Dudince (SVK),2023-03-25,1147,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9132.0,SVK,32,2023
+296,2:32:14,,Denis ASANOV,1992-09-23,RUS,2.0,Sochi (RUS),2014-03-22,1146,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9134.0,RUS,21,2014
+296,2:32:14,,Johannes FRENZL,2001-09-22,GER,12.0,Dudince (SVK),2025-03-22,1146,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9134.0,SVK,23,2025
+298,2:32:16,,Sergey RAKOV,1999-06-13,RUS,4.0,Sochi (RUS),2022-01-31,1146,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9136.0,RUS,22,2022
+298,2:32:16,,Isaac PALMA,1990-10-26,MEX,13.0,Dudince (SVK),2022-04-23,1146,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9136.0,SVK,31,2022
+300,2:32:18,,Aurélien QUINION,1993-01-27,FRA,1.0,Les Mureaux (FRA),2025-03-23,1146,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9138.0,FRA,32,2025
+301,2:32:19,,Teodorico CAPORASO,1987-09-14,ITA,14.0,Dudince (SVK),2022-04-23,1145,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9139.0,SVK,34,2022
+301,2:32:19,,Aleksey KHIMIN,1989-09-15,RUS,4.0,Sochi (RUS),2013-02-23,1145,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9139.0,RUS,23,2013
+303,2:32:21,,Wang ZHENHAO,2001-09-12,CHN,3.0,Nanjing (CHN),2022-01-22,1145,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9141.0,CHN,20,2022
+303,2:32:21,,Hayato KATSUKI,1990-11-28,JPN,4.0,Takahata (JPN),2022-10-23,1145,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9141.0,JPN,31,2022
+305,2:32:22,,Sergey SHARYPOV,1992-04-14,RUS,6.0,"Avtodrom, Sochi (RUS)",2023-02-13,1145,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9142.0,RUS,30,2023
+306,2:32:23,,Ivan BANZERUK,1990-02-09,UKR,2.0,Ivano-Frankivsk (UKR),2017-03-12,1145,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9143.0,UKR,27,2017
+306,2:32:23,,Ihor HLAVAN,1990-09-25,UKR,13.0,Dudince (SVK),2025-03-22,1145,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9143.0,SVK,34,2025
+308,2:32:26,,Sergey RAKOV,1999-06-13,RUS,2.0,Sochi (RUS),2021-02-19,1144,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9146.0,RUS,21,2021
+308,2:32:26,,Mikita KALIADA,2000-07-15,BLR,6.0,"Avtodrom, Sochi (RUS)",2025-02-24,1144,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9146.0,RUS,24,2025
+310,2:32:28,,César HERRERA,1999-01-28,COL,9.0,Dudince (SVK),2023-03-25,1144,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9148.0,SVK,24,2023
+310,2:32:28,,Veli-Matti PARTANEN,1991-10-28,FIN,18.0,"Hősök tere, Budapest (HUN)",2023-08-24,1144,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9148.0,HUN,31,2023
+312,2:32:29,,Sergey SERGACHEV,1987-07-10,RUS,4.0,Sochi (RUS),2011-02-26,1144,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9149.0,RUS,23,2011
 313,2:32:30,,Sándor URBANIK,1964-12-15,HUN,,Budapest (HUN),1999-02-06,1144,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9150.0,HUN,34,1999
-313,2:32:30,,Edikt KHAYRULLIN,1989-05-29,RUS,5,Sochi (RUS),2013-02-23,1144,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9150.0,RUS,23,2013
-315,2:32:31,,Manuel BERMÚDEZ,1997-12-12,ESP,4,"Odeonplatz, München (GER)",2022-08-16,1143,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9151.0,GER,24,2022
-316,2:32:33,,Rhydian COWLEY,1991-01-04,AUS,1,"Albert Park, Melbourne (AUS)",2024-12-15,1143,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9153.0,AUS,33,2024
-317,2:32:34,,Sergey YEROKHIN,1980-12-20,RUS,8,"Adler, Sochi (RUS)",2009-03-01,1143,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9154.0,RUS,28,2009
-318,2:32:35,,David HURTADO,1999-04-21,ECU,9f1,"National Stadium, Tokyo (JPN)",2025-09-13,1143,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9155.0,JPN,26,2025
-318,2:32:35,,Serhii SVITLYCHNYI,1994-07-13,UKR,2,Ivano-Frankivsk (UKR),2024-10-19,1143,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9155.0,UKR,30,2024
-320,2:32:36,,Federico TONTODONATI,1989-10-30,ITA,2,Grosseto (ITA),2018-01-28,1143,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9156.0,ITA,28,2018
-321,2:32:38,,Nikolay MAKSIMOV,1999-12-21,RUS,6,Cheboksary (RUS),2022-05-21,1142,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9158.0,RUS,22,2022
-321,2:32:38,,Oscar PATÍN,2001-02-01,ECU,2,"Avenida Oriental, Sucúa (ECU)",2025-02-22,1142,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9158.0,ECU,24,2025
-323,2:32:39,,Motofumi SUWA,1999-10-22,JPN,6,"Wajima Race Walk Course, Wajima (JPN)",2023-04-16,1142,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9159.0,JPN,23,2023
-324,2:32:40,,Aleksandr YARGUNKIN,1981-01-06,RUS,5,Sochi (RUS),2012-02-18,1142,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9160.0,RUS,31,2012
-324,2:32:40,,Sergey MELENTYEV,1976-12-05,RUS,4,Sochi (RUS),2010-02-20,1142,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9160.0,RUS,33,2010
-324,2:32:40,,Brian Daniel PINTADO,1995-07-29,ECU,1,Machala (ECU),2022-01-08,1142,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9160.0,ECU,26,2022
-327,2:32:42,,Ning LU,1999-02-12,CHN,4,Nanjing (CHN),2022-01-22,1142,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9162.0,CHN,22,2022
-328,2:32:43,,José Luis DOCTOR,1996-06-14,MEX,22,"Autzen Complex, Eugene, OR (USA)",2022-07-24,1141,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9163.0,USA,26,2022
-328,2:32:43,,Daniel CHAMOSA,1997-05-04,ESP,15,Dudince (SVK),2022-04-23,1141,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9163.0,SVK,24,2022
-330,2:32:44,,Jonathan HILBERT,1995-04-21,GER,5,"Odeonplatz, München (GER)",2022-08-16,1141,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9164.0,GER,27,2022
-330,2:32:44,,Álvaro LÓPEZ,1999-03-24,ESP,4,Lepe (ESP),2022-01-30,1141,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9164.0,ESP,22,2022
-332,2:32:45,,Qin WANG,1994-05-08,CHN,1,Xi'an (CHN),2022-09-24,1141,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9165.0,CHN,28,2022
-333,2:32:49,,Yuriy ANDRONOV,1971-11-06,RUS,5,Sochi (RUS),2011-02-26,1140,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9169.0,RUS,39,2011
-333,2:32:49,,Brendan BOYCE,1986-10-08,IRL,2,Dublin (IRL),2021-12-19,1140,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9169.0,IRL,35,2021
-333,2:32:49,,Teodorico CAPORASO,1987-09-14,ITA,3,"Albert Park, Melbourne (AUS)",2023-05-21,1140,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9169.0,AUS,35,2023
-336,2:32:50,,Ihor HLAVAN,1990-09-25,UKR,9,Poděbrady (CZE),2023-05-21,1140,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9170.0,CZE,32,2023
-336,2:32:50,,Vít HLAVÁČ,1997-02-26,CZE,23,"Autzen Complex, Eugene, OR (USA)",2022-07-24,1140,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9170.0,USA,25,2022
-336,2:32:50,,Yingchao GAO,1998-01-18,CHN,5,Nanjing (CHN),2022-01-22,1140,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9170.0,CHN,24,2022
-336,2:32:50,,Bernd GUMMELT,1963-12-21,GDR,1,Naumburg (GER),1989-05-01,1140,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9170.0,GER,25,1989
-340,2:32:51,,Hirooki ARAI,1988-05-18,JPN,8,Wajima (JPN),2022-04-17,1140,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9171.0,JPN,33,2022
-341,2:32:52,,Marco DE LUCA,1981-05-12,ITA,1,Bianco (ITA),2011-01-30,1140,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9172.0,ITA,29,2011
-341,2:32:52,,Wayne SNYMAN,1985-03-08,RSA,1,Cape Town (RSA),2022-01-15,1140,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9172.0,RSA,36,2022
-343,2:32:54,,Ram BABOO,1999-03-20,IND,1,"Sports Complex, Sector 7, Chandigarh (IND)",2025-04-19,1140,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9174.0,IND,26,2025
-344,2:32:56,,Miguel Ángel LÓPEZ,1988-07-03,ESP,1,Jumilla (ESP),2015-03-01,1139,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9176.0,ESP,26,2015
-344,2:32:56,,Manuel BERMÚDEZ,1997-12-12,ESP,5,Marín (ESP),2025-03-09,1139,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9176.0,ESP,27,2025
-344,2:32:56,,Dominik ČERNÝ,1997-11-01,SVK,19,"Hősök tere, Budapest (HUN)",2023-08-24,1139,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9176.0,HUN,25,2023
-347,2:32:58,,Quentin REW,1984-07-16,NZL,1,Melbourne (AUS),2022-05-15,1139,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9178.0,AUS,37,2022
-348,2:33:00,,Aleksandr YARGUNKIN,1981-01-06,RUS,6,Sochi (RUS),2011-02-26,1138,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9180.0,RUS,30,2011
-348,2:33:00,,Michal MORVAY,1996-08-19,SVK,14,Dudince (SVK),2025-03-22,1138,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9180.0,SVK,28,2025
-348,2:33:00,,Roman YEVSTIFEYEV,1992-09-19,RUS,3,Sochi (RUS),2014-03-22,1138,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9180.0,RUS,21,2014
+313,2:32:30,,Edikt KHAYRULLIN,1989-05-29,RUS,5.0,Sochi (RUS),2013-02-23,1144,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9150.0,RUS,23,2013
+315,2:32:31,,Manuel BERMÚDEZ,1997-12-12,ESP,4.0,"Odeonplatz, München (GER)",2022-08-16,1143,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9151.0,GER,24,2022
+316,2:32:33,,Rhydian COWLEY,1991-01-04,AUS,1.0,"Albert Park, Melbourne (AUS)",2024-12-15,1143,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9153.0,AUS,33,2024
+317,2:32:34,,Sergey YEROKHIN,1980-12-20,RUS,8.0,"Adler, Sochi (RUS)",2009-03-01,1143,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9154.0,RUS,28,2009
+318,2:32:35,,David HURTADO,1999-04-21,ECU,9.0,"National Stadium, Tokyo (JPN)",2025-09-13,1143,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9155.0,JPN,26,2025
+318,2:32:35,,Serhii SVITLYCHNYI,1994-07-13,UKR,2.0,Ivano-Frankivsk (UKR),2024-10-19,1143,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9155.0,UKR,30,2024
+320,2:32:36,,Federico TONTODONATI,1989-10-30,ITA,2.0,Grosseto (ITA),2018-01-28,1143,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9156.0,ITA,28,2018
+321,2:32:38,,Nikolay MAKSIMOV,1999-12-21,RUS,6.0,Cheboksary (RUS),2022-05-21,1142,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9158.0,RUS,22,2022
+321,2:32:38,,Oscar PATÍN,2001-02-01,ECU,2.0,"Avenida Oriental, Sucúa (ECU)",2025-02-22,1142,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9158.0,ECU,24,2025
+323,2:32:39,,Motofumi SUWA,1999-10-22,JPN,6.0,"Wajima Race Walk Course, Wajima (JPN)",2023-04-16,1142,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9159.0,JPN,23,2023
+324,2:32:40,,Aleksandr YARGUNKIN,1981-01-06,RUS,5.0,Sochi (RUS),2012-02-18,1142,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9160.0,RUS,31,2012
+324,2:32:40,,Sergey MELENTYEV,1976-12-05,RUS,4.0,Sochi (RUS),2010-02-20,1142,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9160.0,RUS,33,2010
+324,2:32:40,,Brian Daniel PINTADO,1995-07-29,ECU,1.0,Machala (ECU),2022-01-08,1142,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9160.0,ECU,26,2022
+327,2:32:42,,Ning LU,1999-02-12,CHN,4.0,Nanjing (CHN),2022-01-22,1142,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9162.0,CHN,22,2022
+328,2:32:43,,José Luis DOCTOR,1996-06-14,MEX,22.0,"Autzen Complex, Eugene, OR (USA)",2022-07-24,1141,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9163.0,USA,26,2022
+328,2:32:43,,Daniel CHAMOSA,1997-05-04,ESP,15.0,Dudince (SVK),2022-04-23,1141,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9163.0,SVK,24,2022
+330,2:32:44,,Jonathan HILBERT,1995-04-21,GER,5.0,"Odeonplatz, München (GER)",2022-08-16,1141,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9164.0,GER,27,2022
+330,2:32:44,,Álvaro LÓPEZ,1999-03-24,ESP,4.0,Lepe (ESP),2022-01-30,1141,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9164.0,ESP,22,2022
+332,2:32:45,,Qin WANG,1994-05-08,CHN,1.0,Xi'an (CHN),2022-09-24,1141,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9165.0,CHN,28,2022
+333,2:32:49,,Yuriy ANDRONOV,1971-11-06,RUS,5.0,Sochi (RUS),2011-02-26,1140,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9169.0,RUS,39,2011
+333,2:32:49,,Brendan BOYCE,1986-10-08,IRL,2.0,Dublin (IRL),2021-12-19,1140,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9169.0,IRL,35,2021
+333,2:32:49,,Teodorico CAPORASO,1987-09-14,ITA,3.0,"Albert Park, Melbourne (AUS)",2023-05-21,1140,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9169.0,AUS,35,2023
+336,2:32:50,,Ihor HLAVAN,1990-09-25,UKR,9.0,Poděbrady (CZE),2023-05-21,1140,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9170.0,CZE,32,2023
+336,2:32:50,,Vít HLAVÁČ,1997-02-26,CZE,23.0,"Autzen Complex, Eugene, OR (USA)",2022-07-24,1140,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9170.0,USA,25,2022
+336,2:32:50,,Yingchao GAO,1998-01-18,CHN,5.0,Nanjing (CHN),2022-01-22,1140,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9170.0,CHN,24,2022
+336,2:32:50,,Bernd GUMMELT,1963-12-21,GDR,1.0,Naumburg (GER),1989-05-01,1140,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9170.0,GER,25,1989
+340,2:32:51,,Hirooki ARAI,1988-05-18,JPN,8.0,Wajima (JPN),2022-04-17,1140,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9171.0,JPN,33,2022
+341,2:32:52,,Marco DE LUCA,1981-05-12,ITA,1.0,Bianco (ITA),2011-01-30,1140,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9172.0,ITA,29,2011
+341,2:32:52,,Wayne SNYMAN,1985-03-08,RSA,1.0,Cape Town (RSA),2022-01-15,1140,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9172.0,RSA,36,2022
+343,2:32:54,,Ram BABOO,1999-03-20,IND,1.0,"Sports Complex, Sector 7, Chandigarh (IND)",2025-04-19,1140,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9174.0,IND,26,2025
+344,2:32:56,,Miguel Ángel LÓPEZ,1988-07-03,ESP,1.0,Jumilla (ESP),2015-03-01,1139,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9176.0,ESP,26,2015
+344,2:32:56,,Manuel BERMÚDEZ,1997-12-12,ESP,5.0,Marín (ESP),2025-03-09,1139,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9176.0,ESP,27,2025
+344,2:32:56,,Dominik ČERNÝ,1997-11-01,SVK,19.0,"Hősök tere, Budapest (HUN)",2023-08-24,1139,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9176.0,HUN,25,2023
+347,2:32:58,,Quentin REW,1984-07-16,NZL,1.0,Melbourne (AUS),2022-05-15,1139,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9178.0,AUS,37,2022
+348,2:33:00,,Aleksandr YARGUNKIN,1981-01-06,RUS,6.0,Sochi (RUS),2011-02-26,1138,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9180.0,RUS,30,2011
+348,2:33:00,,Michal MORVAY,1996-08-19,SVK,14.0,Dudince (SVK),2025-03-22,1138,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9180.0,SVK,28,2025
+348,2:33:00,,Roman YEVSTIFEYEV,1992-09-19,RUS,3.0,Sochi (RUS),2014-03-22,1138,35-kilometres-race-walk,race-walks,male,senior,35-kilometres-race-walk,track,9180.0,RUS,21,2014

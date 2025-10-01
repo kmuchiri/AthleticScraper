@@ -37,7 +37,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 36,17.91,,Teddy TAMGHO,15 JUN 1989,FRA,1,Aubiére (FRA) (i),20 FEB 2011,1262,triple-jump,jumps,male,senior
 36,17.91,+1.4,Teddy TAMGHO,15 JUN 1989,FRA,1,"Stade Olympique de la Pontaise, Lausanne (SUI)",30 JUN 2011,1262,triple-jump,jumps,male,senior
 36,17.91,+0.9,Will CLAYE,13 JUN 1991,USA,1,"Sacramento, CA (USA)",23 JUN 2017,1262,triple-jump,jumps,male,senior
-36,17.91,+0.5,Pedro PICHARDO,30 JUN 1993,POR,1f1,"National Stadium, Tokyo (JPN)",19 SEP 2025,1262,triple-jump,jumps,male,senior
+36,17.91,+0.5,Pedro PICHARDO,30 JUN 1993,POR,1,"National Stadium, Tokyo (JPN)",19 SEP 2025,1262,triple-jump,jumps,male,senior
 40,17.90,+1.0,Volodimir INOZEMTSEV,25 MAY 1964,URS,1,Bratislava (TCH),20 JUN 1990,1261,triple-jump,jumps,male,senior
 40,17.90,+0.4,Jadel GREGÓRIO,16 SEP 1980,BRA,1,"Mangueirão, Belém (BRA)",20 MAY 2007,1261,triple-jump,jumps,male,senior
 40,17.90,,Teddy TAMGHO,15 JUN 1989,FRA,1,"Aspire Dome, Doha (QAT) (i)",14 MAR 2010,1261,triple-jump,jumps,male,senior
@@ -217,7 +217,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 207,17.64,+0.9,Jordan A. DÍAZ FORTUN,23 FEB 2001,CUB,1,Granollers (ESP),02 JUL 2022,1233,triple-jump,jumps,male,senior
 207,17.64,-0.3,Hugues Fabrice ZANGO,25 JUN 1993,BUR,1,"Nemzeti Atlétikai Központ, Budapest (HUN)",21 AUG 2023,1234,triple-jump,jumps,male,senior
 207,17.64,+0.7,Andy DÍAZ HERNÁNDEZ,25 DEC 1995,ITA,3,"Stade de France, Paris (FRA)",09 AUG 2024,1233,triple-jump,jumps,male,senior
-207,17.64,+1.5,Andrea DALLAVALLE,31 OCT 1999,ITA,2f1,"National Stadium, Tokyo (JPN)",19 SEP 2025,1233,triple-jump,jumps,male,senior
+207,17.64,+1.5,Andrea DALLAVALLE,31 OCT 1999,ITA,2,"National Stadium, Tokyo (JPN)",19 SEP 2025,1233,triple-jump,jumps,male,senior
 220,17.63,-1.2,Volodimir INOZEMTSEV,25 MAY 1964,URS,1,Kiev (URS),07 JUL 1990,1239,triple-jump,jumps,male,senior
 220,17.63,+0.5,Mike CONLEY,05 OCT 1962,USA,,"Estadio Olímpico, Barcelona (ESP)",03 AUG 1992,1232,triple-jump,jumps,male,senior
 220,17.63,+0.9,Kenta BELL,16 MAR 1977,USA,1,"Walnut, CA (USA)",21 APR 2002,1232,triple-jump,jumps,male,senior
@@ -495,7 +495,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 477,17.49,-1.1,Pedro PICHARDO,30 JUN 1993,POR,3,"Stade Charléty, Paris (FRA)",18 JUN 2022,1223,triple-jump,jumps,male,senior
 477,17.49,+0.1,Lázaro MARTÍNEZ,03 NOV 1997,CUB,1,"Boudewijnstadion, Bruxelles (BEL)",02 SEP 2022,1217,triple-jump,jumps,male,senior
 477,17.49,,Jordan A. DÍAZ FORTUN,23 FEB 2001,ESP,1,"Pistas Expourense, Ourense (ESP) (i)",11 FEB 2023,1217,triple-jump,jumps,male,senior
-477,17.49,0.0,Lázaro MARTÍNEZ,03 NOV 1997,CUB,3f1,"National Stadium, Tokyo (JPN)",19 SEP 2025,1217,triple-jump,jumps,male,senior
+477,17.49,0.0,Lázaro MARTÍNEZ,03 NOV 1997,CUB,3,"National Stadium, Tokyo (JPN)",19 SEP 2025,1217,triple-jump,jumps,male,senior
 498,17.48,+0.6,Zdzisław HOFFMANN,27 AUG 1959,POL,3,São Paulo (BRA),12 MAY 1985,1216,triple-jump,jumps,male,senior
 498,17.48,+1.0,Gennadiy VALYUKEVICH,01 JUN 1958,URS,1,Bydgoszcz (POL),20 AUG 1985,1216,triple-jump,jumps,male,senior
 498,17.48,,Oleg PROTSENKO,11 AUG 1963,URS,1,Penza (URS) (i),08 FEB 1987,1216,triple-jump,jumps,male,senior
@@ -900,7 +900,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 897,17.36,+0.8,Mike CONLEY,05 OCT 1962,USA,1q1,"Memorial Coliseum, Los Angeles, CA (USA)",03 AUG 1984,1203,triple-jump,jumps,male,senior
 897,17.36,,Willie BANKS,11 MAR 1956,USA,1,Tokyo (JPN),18 AUG 1985,1203,triple-jump,jumps,male,senior
 897,17.36,,Ray KIMBLE,19 APR 1953,USA,1,"Modesto, CA (USA)",09 MAY 1987,1203,triple-jump,jumps,male,senior
-897,17.36,+1.8,Vladimir CHEMIKOV,03 AUG 1959,URS,1,Odessa (URS),21 AUG 1988,1203,triple-jump,jumps,male,senior
+897,17.36,+1.8,Vladimir CHERNIKOV,03 AUG 1959,URS,1,Odessa (URS),21 AUG 1988,1203,triple-jump,jumps,male,senior
 897,17.36,,Oleg SAKIRKIN,23 JAN 1966,URS,1,Chelyabinsk (URS) (i),04 FEB 1990,1203,triple-jump,jumps,male,senior
 897,17.36,+2.0,Jonathan EDWARDS,10 MAY 1966,GBR,2,London (GBR),19 JUN 1991,1203,triple-jump,jumps,male,senior
 897,17.36,+0.4,Leonid VOLOSHIN,30 MAR 1966,RUS,1,"Stade Olympique de la Pontaise, Lausanne (SUI)",08 JUL 1992,1203,triple-jump,jumps,male,senior
@@ -938,11 +938,11 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 937,17.35,-0.3,Jaak UUDMÄE,03 SEP 1954,URS,1,"Lenin Stadium, Moskva (URS)",25 JUL 1980,1203,triple-jump,jumps,male,senior
 937,17.35,+1.8,Kenneth LORRAWAY,06 FEB 1956,AUS,1,Adelaide (AUS),12 MAR 1983,1202,triple-jump,jumps,male,senior
 937,17.35,+0.1,Charles SIMPKINS,19 OCT 1963,USA,1,"Baton Rouge, LA (USA)",28 JUL 1985,1202,triple-jump,jumps,male,senior
-937,17.35,+0.7,Vladimir CHEMIKOV,03 AUG 1959,URS,4,Leningrad (URS),04 AUG 1985,1202,triple-jump,jumps,male,senior
+937,17.35,+0.7,Vladimir CHERNIKOV,03 AUG 1959,URS,4,Leningrad (URS),04 AUG 1985,1202,triple-jump,jumps,male,senior
 937,17.35,+0.7,Vyacheslav BORDUKOV,1959,URS,5,Leningrad (URS),04 AUG 1985,1202,triple-jump,jumps,male,senior
 937,17.35,,Nikolay MUSIYENKO,16 DEC 1959,URS,1,Moskva (URS) (i),07 FEB 1986,1202,triple-jump,jumps,male,senior
 937,17.35,-0.1,Khristo MARKOV,27 JAN 1965,BUL,2,Moskva (URS),09 JUL 1986,1202,triple-jump,jumps,male,senior
-937,17.35,,Vladimir CHEMIKOV,03 AUG 1959,URS,2,Penza (URS) (i),08 FEB 1987,1202,triple-jump,jumps,male,senior
+937,17.35,,Vladimir CHERNIKOV,03 AUG 1959,URS,2,Penza (URS) (i),08 FEB 1987,1202,triple-jump,jumps,male,senior
 937,17.35,-0.1,Oleg SAKIRKIN,23 JAN 1966,URS,1q1,"Stadio Olimpico, Roma (ITA)",30 AUG 1987,1202,triple-jump,jumps,male,senior
 937,17.35,+1.7,Jacek PASTUSIŃSKI,08 SEP 1964,POL,5,"Stadio Olimpico, Roma (ITA)",31 AUG 1987,1202,triple-jump,jumps,male,senior
 937,17.35,0.0,Mike CONLEY,05 OCT 1962,USA,1,"Tampa, FL (USA)",18 JUN 1988,1202,triple-jump,jumps,male,senior
@@ -1509,7 +1509,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 1503,17.25,0.0,Peter BOUSCHEN,16 MAY 1960,FRG,1,München (GER),26 JUL 1983,1191,triple-jump,jumps,male,senior
 1503,17.25,,Aleksandr KOVALENKO,08 MAY 1963,URS,1,Moskva (URS),11 MAY 1986,1191,triple-jump,jumps,male,senior
 1503,17.25,,Aleksandr YAKOVLEV,08 SEP 1957,URS,4,Penza (URS) (i),08 FEB 1987,1191,triple-jump,jumps,male,senior
-1503,17.25,,Vladimir CHEMIKOV,03 AUG 1959,URS,1,Bryansk (URS) (i),07 MAR 1987,1191,triple-jump,jumps,male,senior
+1503,17.25,,Vladimir CHERNIKOV,03 AUG 1959,URS,1,Bryansk (URS) (i),07 MAR 1987,1191,triple-jump,jumps,male,senior
 1503,17.25,+2.0,Ivan SLANAŘ,11 JAN 1961,TCH,1,Bratislava (TCH),13 JUN 1987,1191,triple-jump,jumps,male,senior
 1503,17.25,+0.9,Ray KIMBLE,19 APR 1953,USA,5,San José (USA),27 JUN 1987,1191,triple-jump,jumps,male,senior
 1503,17.25,+1.0,Willie BANKS,11 MAR 1956,USA,2,Paris (FRA),16 JUL 1987,1191,triple-jump,jumps,male,senior
@@ -1567,7 +1567,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 1503,17.25,-0.3,Hugues Fabrice ZANGO,25 JUN 1993,BUR,2,"Hayward Field, Eugene, OR (USA)",16 SEP 2023,1192,triple-jump,jumps,male,senior
 1503,17.25,+0.6,Yasser Mohammed TRIKI,24 MAR 1997,ALG,2,"Bislett Stadion, Oslo (NOR)",30 MAY 2024,1191,triple-jump,jumps,male,senior
 1503,17.25,+0.1,Andy DÍAZ HERNÁNDEZ,25 DEC 1995,ITA,1,"Campo Comunale, Modena (ITA)",21 SEP 2024,1191,triple-jump,jumps,male,senior
-1503,17.25,+0.4,Yasser Mohammed TRIKI,24 MAR 1997,ALG,4f1,"National Stadium, Tokyo (JPN)",19 SEP 2025,1191,triple-jump,jumps,male,senior
+1503,17.25,+0.4,Yasser Mohammed TRIKI,24 MAR 1997,ALG,4,"National Stadium, Tokyo (JPN)",19 SEP 2025,1191,triple-jump,jumps,male,senior
 1570,17.24,+0.8,James BUTTS,09 MAY 1950,USA,1,Helsinki (FIN),29 JUN 1978,1190,triple-jump,jumps,male,senior
 1570,17.24,,João Carlos DE OLIVEIRA,28 MAY 1954,BRA,1,São Paulo (BRA),27 MAY 1979,1190,triple-jump,jumps,male,senior
 1570,17.24,-1.3,Viktor SANEYEV,03 OCT 1945,URS,2,"Lenin Stadium, Moskva (URS)",25 JUL 1980,1197,triple-jump,jumps,male,senior
@@ -1721,7 +1721,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 1709,17.22,+0.2,Oleg PROTSENKO,11 AUG 1963,URS,1,Bruxelles (BEL),05 SEP 1986,1188,triple-jump,jumps,male,senior
 1709,17.22,0.0,Vyacheslav BORDUKOV,1959,URS,1,Donetsk (URS),07 SEP 1986,1188,triple-jump,jumps,male,senior
 1709,17.22,+1.7,Vasif ASADOV,27 AUG 1965,URS,2,Sochi (URS),24 MAY 1987,1188,triple-jump,jumps,male,senior
-1709,17.22,-0.3,Vladimir CHEMIKOV,03 AUG 1959,URS,1,Novosibirsk (URS),16 AUG 1987,1189,triple-jump,jumps,male,senior
+1709,17.22,-0.3,Vladimir CHERNIKOV,03 AUG 1959,URS,1,Novosibirsk (URS),16 AUG 1987,1189,triple-jump,jumps,male,senior
 1709,17.22,+1.3,Igor DOVOYNO,19 AUG 1964,URS,2,São Paulo (BRA),22 MAY 1988,1188,triple-jump,jumps,male,senior
 1709,17.22,,Joseph TAIWO,24 AUG 1959,NGR,1,Bauchi (NGR),30 JUN 1988,1188,triple-jump,jumps,male,senior
 1709,17.22,+0.3,Igor LAPSHIN,08 AUG 1963,URS,2,Tokyo (JPN),08 OCT 1988,1188,triple-jump,jumps,male,senior
@@ -1869,7 +1869,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 1789,17.21,-1.0,Andy DÍAZ HERNÁNDEZ,25 DEC 1995,ITA,1,"Stadio M.S. Cozzoli, Molfetta (ITA)",29 JUL 2023,1193,triple-jump,jumps,male,senior
 1789,17.21,,Hugues Fabrice ZANGO,25 JUN 1993,BUR,1,"Arena Stade Couvert, Liévin (FRA) (i)",10 FEB 2024,1187,triple-jump,jumps,male,senior
 1789,17.21,+1.8,Hugues Fabrice ZANGO,25 JUN 1993,BUR,2,"Stade Charléty, Paris (FRA)",20 JUN 2025,1187,triple-jump,jumps,male,senior
-1789,17.21,0.0,Jordan SCOTT,29 JUN 1997,JAM,5f1,"National Stadium, Tokyo (JPN)",19 SEP 2025,1187,triple-jump,jumps,male,senior
+1789,17.21,0.0,Jordan SCOTT,29 JUN 1997,JAM,5,"National Stadium, Tokyo (JPN)",19 SEP 2025,1187,triple-jump,jumps,male,senior
 1872,17.20,+1.8,Jörg DREHMEL,03 MAY 1945,GDR,1,Potsdam (GDR),15 JUN 1972,1186,triple-jump,jumps,male,senior
 1872,17.20,+0.1,Mikhail BARIBAN,25 FEB 1949,URS,1,Moskva (URS),19 AUG 1973,1186,triple-jump,jumps,male,senior
 1872,17.20,,Viktor SANEYEV,03 OCT 1945,URS,1,Sochi (URS),21 SEP 1974,1186,triple-jump,jumps,male,senior
@@ -1978,15 +1978,15 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 1972,17.19,-0.3,Paul JORDAN,17 JUN 1956,USA,1q,"Los Angeles, CA (USA)",16 JUN 1984,1186,triple-jump,jumps,male,senior
 1972,17.19,-0.8,Al JOYNER,19 JAN 1960,USA,2,"Los Angeles, CA (USA)",17 JUN 1984,1189,triple-jump,jumps,male,senior
 1972,17.19,,Joseph TAIWO,24 AUG 1959,NGR,1,Rabat (MAR),13 JUL 1984,1185,triple-jump,jumps,male,senior
-1972,17.19,+0.1,Vladimir CHEMIKOV,03 AUG 1959,URS,3,Donetsk (URS),09 SEP 1984,1185,triple-jump,jumps,male,senior
+1972,17.19,+0.1,Vladimir CHERNIKOV,03 AUG 1959,URS,3,Donetsk (URS),09 SEP 1984,1185,triple-jump,jumps,male,senior
 1972,17.19,+1.8,Robert CANNON,09 JUL 1958,USA,6,San José (USA),27 JUN 1987,1185,triple-jump,jumps,male,senior
 1972,17.19,-0.7,Oleg PROTSENKO,11 AUG 1963,URS,1,Moskva (URS),21 AUG 1987,1189,triple-jump,jumps,male,senior
 1972,17.19,,Khristo MARKOV,27 JAN 1965,BUL,4,"Budapest Sportcsarnok, Budapest (HUN) (i)",06 MAR 1988,1185,triple-jump,jumps,male,senior
-1972,17.19,+0.9,Vladimir CHEMIKOV,03 AUG 1959,URS,4,Tallinn (EST),07 JUL 1988,1185,triple-jump,jumps,male,senior
+1972,17.19,+0.9,Vladimir CHERNIKOV,03 AUG 1959,URS,4,Tallinn (EST),07 JUL 1988,1185,triple-jump,jumps,male,senior
 1972,17.19,,Willie BANKS,11 MAR 1956,USA,2,"Letzigrund, Zürich (SUI)",17 AUG 1988,1185,triple-jump,jumps,male,senior
 1972,17.19,+1.7,Ivan SLANAŘ,11 JAN 1961,TCH,1,Praha (TCH),06 SEP 1988,1185,triple-jump,jumps,male,senior
-1972,17.19,+1.4,Vladimir CHEMIKOV,03 AUG 1959,URS,2,Sofia (BUL),09 JUL 1989,1185,triple-jump,jumps,male,senior
-1972,17.19,+0.3,Vladimir CHEMIKOV,03 AUG 1959,URS,4,Moskva (URS),10 JUN 1990,1185,triple-jump,jumps,male,senior
+1972,17.19,+1.4,Vladimir CHERNIKOV,03 AUG 1959,URS,2,Sofia (BUL),09 JUL 1989,1185,triple-jump,jumps,male,senior
+1972,17.19,+0.3,Vladimir CHERNIKOV,03 AUG 1959,URS,4,Moskva (URS),10 JUN 1990,1185,triple-jump,jumps,male,senior
 1972,17.19,+0.4,Mike CONLEY,05 OCT 1962,USA,1,Köln (GER),19 AUG 1990,1185,triple-jump,jumps,male,senior
 1972,17.19,-0.1,Pierre CAMARA,10 SEP 1965,FRA,3q2,"Gottlieb-Daimler Stadion, Stuttgart (GER)",15 AUG 1993,1185,triple-jump,jumps,male,senior
 1972,17.19,+0.6,Denis KAPUSTIN,05 OCT 1970,RUS,6,"Gottlieb-Daimler Stadion, Stuttgart (GER)",16 AUG 1993,1185,triple-jump,jumps,male,senior
@@ -2050,7 +2050,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 1972,17.19,+1.7,Abdulla Aboobacker NARANGOLINTEVIDA,17 JAN 1996,IND,1,"Anju Bobby High Performance Centre, Bengaluru (IND)",22 MAR 2025,1185,triple-jump,jumps,male,senior
 1972,17.19,+1.6,Andy DÍAZ HERNÁNDEZ,25 DEC 1995,ITA,3,"Stade Louis II, Monaco (MON)",11 JUL 2025,1185,triple-jump,jumps,male,senior
 1972,17.19,+0.4,Jordan SCOTT,29 JUN 1997,JAM,1q2,"National Stadium, Tokyo (JPN)",17 SEP 2025,1185,triple-jump,jumps,male,senior
-1972,17.19,+0.6,Andy DÍAZ HERNÁNDEZ,25 DEC 1995,ITA,6f1,"National Stadium, Tokyo (JPN)",19 SEP 2025,1185,triple-jump,jumps,male,senior
+1972,17.19,+0.6,Andy DÍAZ HERNÁNDEZ,25 DEC 1995,ITA,6,"National Stadium, Tokyo (JPN)",19 SEP 2025,1185,triple-jump,jumps,male,senior
 2053,17.18,0.0,James BUTTS,09 MAY 1950,USA,2,"Olympic Stadium, Montréal (CAN)",30 JUL 1976,1184,triple-jump,jumps,male,senior
 2053,17.18,,Gennadiy VALYUKEVICH,01 JUN 1958,URS,q,Minsk (BLR) (i),11 FEB 1979,1184,triple-jump,jumps,male,senior
 2053,17.18,+0.8,Mike MARLOW,31 JUL 1956,USA,2,"Sacramento, CA (USA)",21 JUN 1981,1184,triple-jump,jumps,male,senior
@@ -2071,7 +2071,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 2053,17.18,-0.7,Joseph TAIWO,24 AUG 1959,NGR,2,Köln (GER),17 AUG 1986,1188,triple-jump,jumps,male,senior
 2053,17.18,-0.2,Mike CONLEY,05 OCT 1962,USA,2,Bruxelles (BEL),05 SEP 1986,1185,triple-jump,jumps,male,senior
 2053,17.18,+0.9,Khristo MARKOV,27 JAN 1965,BUL,1,Paris-St-Denis (FRA),11 JUN 1987,1184,triple-jump,jumps,male,senior
-2053,17.18,+1.5,Vladimir CHEMIKOV,03 AUG 1959,URS,1,Tallinn (EST),27 JUN 1987,1184,triple-jump,jumps,male,senior
+2053,17.18,+1.5,Vladimir CHERNIKOV,03 AUG 1959,URS,1,Tallinn (EST),27 JUN 1987,1184,triple-jump,jumps,male,senior
 2053,17.18,,Khristo MARKOV,27 JAN 1965,BUL,1,Sindelfingen (GER) (i),05 FEB 1988,1184,triple-jump,jumps,male,senior
 2053,17.18,+0.3,Khristo MARKOV,27 JAN 1965,BUL,1,Paris-St-Denis (FRA),07 JUN 1988,1184,triple-jump,jumps,male,senior
 2053,17.18,-0.6,Gennadiy VALYUKEVICH,01 JUN 1958,URS,3,Leningrad (URS),12 JUN 1988,1187,triple-jump,jumps,male,senior
@@ -2238,8 +2238,8 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 2225,17.16,,Mike CONLEY,05 OCT 1962,USA,1,"Stadio Olimpico, Roma (ITA)",10 SEP 1986,1182,triple-jump,jumps,male,senior
 2225,17.16,-0.2,Aleksandr KOVALENKO,08 MAY 1963,URS,1,Tashkent (UZB),17 SEP 1986,1183,triple-jump,jumps,male,senior
 2225,17.16,+1.9,Charles SIMPKINS,19 OCT 1963,USA,1,Zagreb (CRO),17 JUL 1987,1182,triple-jump,jumps,male,senior
-2225,17.16,+1.1,Vladimir CHEMIKOV,03 AUG 1959,URS,4,Bryansk (URS),18 JUL 1987,1182,triple-jump,jumps,male,senior
-2225,17.16,,Vladimir CHEMIKOV,03 AUG 1959,URS,2,Chelyabinsk (URS),02 AUG 1987,1182,triple-jump,jumps,male,senior
+2225,17.16,+1.1,Vladimir CHERNIKOV,03 AUG 1959,URS,4,Bryansk (URS),18 JUL 1987,1182,triple-jump,jumps,male,senior
+2225,17.16,,Vladimir CHERNIKOV,03 AUG 1959,URS,2,Chelyabinsk (URS),02 AUG 1987,1182,triple-jump,jumps,male,senior
 2225,17.16,+0.2,Aleksandr KOVALENKO,08 MAY 1963,URS,2q2,"Stadio Olimpico, Roma (ITA)",30 AUG 1987,1182,triple-jump,jumps,male,senior
 2225,17.16,+0.5,Juan Miguel LÓPEZ,07 APR 1967,CUB,3,Bratislava (TCH),08 JUN 1988,1182,triple-jump,jumps,male,senior
 2225,17.16,+1.5,Khristo MARKOV,27 JAN 1965,BUL,1,Dijon (FRA),11 JUN 1988,1182,triple-jump,jumps,male,senior
@@ -2802,7 +2802,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 2791,17.10,+1.2,Béla BAKOSI,18 JUN 1957,HUN,2,Budapest (HUN),30 JUN 1982,1175,triple-jump,jumps,male,senior
 2791,17.10,,Vladimir BRIGADNIY,22 APR 1955,URS,4,Kiev (URS),22 AUG 1982,1175,triple-jump,jumps,male,senior
 2791,17.10,,Jaak UUDMÄE,03 SEP 1954,URS,1,Moskva (URS) (i),20 FEB 1983,1175,triple-jump,jumps,male,senior
-2791,17.10,+0.4,Vladimir CHEMIKOV,03 AUG 1959,URS,5,Moskva (URS),19 JUN 1983,1175,triple-jump,jumps,male,senior
+2791,17.10,+0.4,Vladimir CHERNIKOV,03 AUG 1959,URS,5,Moskva (URS),19 JUN 1983,1175,triple-jump,jumps,male,senior
 2791,17.10,,Zdzisław HOFFMANN,27 AUG 1959,POL,1,Oslo (NOR),23 AUG 1983,1175,triple-jump,jumps,male,senior
 2791,17.10,,Khristo MARKOV,27 JAN 1965,BUL,1,Fürth (GER),09 JUN 1984,1175,triple-jump,jumps,male,senior
 2791,17.10,,Viktor GERASIMENYA,30 JAN 1960,URS,1,Riga (LAT),05 JUL 1984,1175,triple-jump,jumps,male,senior
@@ -3076,7 +3076,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 3057,17.07,,Joseph TAIWO,24 AUG 1959,NGR,1,Verona (ITA),27 JUL 1988,1172,triple-jump,jumps,male,senior
 3057,17.07,,Jorge Alfredo REINA ABREU,10 JAN 1963,CUB,1,Liévin (FRA) (i),28 JAN 1989,1172,triple-jump,jumps,male,senior
 3057,17.07,,Mike CONLEY,05 OCT 1962,USA,1,Pireaus (GRE) (i),08 MAR 1989,1172,triple-jump,jumps,male,senior
-3057,17.07,+1.0,Vladimir CHEMIKOV,03 AUG 1959,URS,3,Volgograd (URS),10 JUN 1989,1172,triple-jump,jumps,male,senior
+3057,17.07,+1.0,Vladimir CHERNIKOV,03 AUG 1959,URS,3,Volgograd (URS),10 JUN 1989,1172,triple-jump,jumps,male,senior
 3057,17.07,+1.6,Igor LAPSHIN,08 AUG 1963,URS,2,Birmingham (GBR),24 JUN 1989,1172,triple-jump,jumps,male,senior
 3057,17.07,+0.5,Nikolay MUSIYENKO,16 DEC 1959,URS,2,São Paulo (BRA),20 MAY 1990,1172,triple-jump,jumps,male,senior
 3057,17.07,,Frank RUTHERFORD,23 NOV 1964,BAH,2,Bologna (ITA),18 JUL 1990,1172,triple-jump,jumps,male,senior
@@ -3304,12 +3304,12 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 3281,17.05,,Volodimir INOZEMTSEV,25 MAY 1964,URS,3,Moskva (URS) (i),15 FEB 1987,1170,triple-jump,jumps,male,senior
 3281,17.05,-0.2,Arne HOLM,22 DEC 1961,SWE,3,Göteborg (SWE),28 JUN 1987,1171,triple-jump,jumps,male,senior
 3281,17.05,+0.6,Aleksandr LEONOV,07 FEB 1962,URS,1,Tallinn (EST),01 AUG 1987,1170,triple-jump,jumps,male,senior
-3281,17.05,,Vladimir CHEMIKOV,03 AUG 1959,URS,3,Volgograd (URS) (i),12 FEB 1988,1170,triple-jump,jumps,male,senior
+3281,17.05,,Vladimir CHERNIKOV,03 AUG 1959,URS,3,Volgograd (URS) (i),12 FEB 1988,1170,triple-jump,jumps,male,senior
 3281,17.05,+1.0,Toussaint RABENALA,29 OCT 1965,MAD,1,Sotteville-lès-Rouen (FRA),10 JUN 1989,1170,triple-jump,jumps,male,senior
 3281,17.05,+1.3,Igor LAPSHIN,08 AUG 1963,URS,4,Volgograd (URS),10 JUN 1989,1170,triple-jump,jumps,male,senior
 3281,17.05,+1.1,Volker MAI,03 MAY 1966,GDR,4,Bratislava (TCH),20 JUN 1990,1170,triple-jump,jumps,male,senior
 3281,17.05,,Ján ČADO,07 MAY 1963,TCH,4,Zürich (SUI),15 AUG 1990,1170,triple-jump,jumps,male,senior
-3281,17.05,0.0,Vladimir CHEMIKOV,03 AUG 1959,URS,1,Odessa (URS),26 JUL 1991,1170,triple-jump,jumps,male,senior
+3281,17.05,0.0,Vladimir CHERNIKOV,03 AUG 1959,URS,1,Odessa (URS),26 JUL 1991,1170,triple-jump,jumps,male,senior
 3281,17.05,+0.2,Anísio Souza SILVA,18 JUN 1969,BRA,2q1,"Gottlieb-Daimler Stadion, Stuttgart (GER)",15 AUG 1993,1170,triple-jump,jumps,male,senior
 3281,17.05,,Oleg GROKHOVSKIY,15 JUL 1968,RUS,4,Grenoble (FRA) (i),06 FEB 1994,1170,triple-jump,jumps,male,senior
 3281,17.05,+1.2,Jonathan EDWARDS,10 MAY 1966,GBR,2,Gateshead (GBR),01 JUL 1994,1170,triple-jump,jumps,male,senior
@@ -4133,7 +4133,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 4130,16.98,0.0,Caleb Abdul RAHMAN,05 JUL 1949,USA,3,Ciudad de México (MEX),15 OCT 1975,1162,triple-jump,jumps,male,senior
 4130,16.98,,Viktor SANEYEV,03 OCT 1945,URS,2,Kishinev (URS),18 AUG 1978,1162,triple-jump,jumps,male,senior
 4130,16.98,-1.7,Kenneth LORRAWAY,06 FEB 1956,AUS,1,Canberra (AUS),20 DEC 1980,1172,triple-jump,jumps,male,senior
-4130,16.98,+1.6,Vladimir CHEMIKOV,03 AUG 1959,URS,2,Tallinn (EST),15 JUN 1981,1162,triple-jump,jumps,male,senior
+4130,16.98,+1.6,Vladimir CHERNIKOV,03 AUG 1959,URS,2,Tallinn (EST),15 JUN 1981,1162,triple-jump,jumps,male,senior
 4130,16.98,,Béla BAKOSI,18 JUN 1957,HUN,1,Fürth (GER),30 MAY 1982,1162,triple-jump,jumps,male,senior
 4130,16.98,,Ajayi AGBEBAKU,06 DEC 1956,NGR,3,"Berkeley, CA (USA)",12 JUN 1983,1162,triple-jump,jumps,male,senior
 4130,16.98,+0.4,Ivan SLANAŘ,11 JAN 1961,TCH,2,Warszawa (POL),28 JUL 1985,1162,triple-jump,jumps,male,senior
@@ -4272,7 +4272,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 4248,16.97,,Nikolay MAMCHUR,09 OCT 1963,URS,2,Bryansk (URS) (i),07 MAR 1987,1161,triple-jump,jumps,male,senior
 4248,16.97,+1.8,Nikolay MAMCHUR,09 OCT 1963,URS,4,Sochi (URS),24 MAY 1987,1161,triple-jump,jumps,male,senior
 4248,16.97,-0.2,Robert CANNON,09 JUL 1958,USA,3,"Stade Olympique de la Pontaise, Lausanne (SUI)",24 JUN 1988,1162,triple-jump,jumps,male,senior
-4248,16.97,,Vladimir CHEMIKOV,03 AUG 1959,URS,3,Gomel (BLR) (i),03 FEB 1989,1161,triple-jump,jumps,male,senior
+4248,16.97,,Vladimir CHERNIKOV,03 AUG 1959,URS,3,Gomel (BLR) (i),03 FEB 1989,1161,triple-jump,jumps,male,senior
 4248,16.97,,Vladimir ZUBRILIN,12 OCT 1963,URS,4,Gomel (BLR) (i),03 FEB 1989,1161,triple-jump,jumps,male,senior
 4248,16.97,-0.4,Vyacheslav BORDUKOV,1959,URS,5,Volgograd (URS),10 JUN 1989,1163,triple-jump,jumps,male,senior
 4248,16.97,,Aleksandr KOVALENKO,08 MAY 1963,URS,1,Moskva (URS) (i),22 JAN 1990,1161,triple-jump,jumps,male,senior
@@ -5153,7 +5153,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 4995,16.92,,Jordan SCOTT,29 JUN 1997,JAM,1,"Rector Fieldhouse, Blacksburg, VA (USA) (i)",22 FEB 2025,1156,triple-jump,jumps,male,senior
 4995,16.92,+1.6,Brandon GREEN,19 DEC 2003,USA,1,"Clyde Hart Track & Field Stadium, Waco, TX (USA)",19 APR 2025,1156,triple-jump,jumps,male,senior
 4995,16.92,+0.3,Yaming ZHU,04 MAY 1994,CHN,3,"China Textile City Sports Centre, Shaoxing/Keqiao (CHN)",03 MAY 2025,1156,triple-jump,jumps,male,senior
-4995,16.92,+0.8,Hugues Fabrice ZANGO,25 JUN 1993,BUR,7f1,"National Stadium, Tokyo (JPN)",19 SEP 2025,1156,triple-jump,jumps,male,senior
+4995,16.92,+0.8,Hugues Fabrice ZANGO,25 JUN 1993,BUR,7,"National Stadium, Tokyo (JPN)",19 SEP 2025,1156,triple-jump,jumps,male,senior
 5156,16.91,,Carol CORBU,08 FEB 1946,ROU,1,Bucureşti (ROU) (i),10 FEB 1973,1155,triple-jump,jumps,male,senior
 5156,16.91,,Tommy HAYNES,14 JUL 1952,USA,1,"Eugene, OR (USA)",15 AUG 1975,1155,triple-jump,jumps,male,senior
 5156,16.91,,Anatoliy PISKULIN,01 DEC 1952,URS,1,La Habana (CUB),15 SEP 1977,1155,triple-jump,jumps,male,senior
@@ -5658,7 +5658,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 5644,16.88,,Lázaro BETANCOURT,18 MAR 1963,CUB,1,La Habana (CUB),01 FEB 1984,1152,triple-jump,jumps,male,senior
 5644,16.88,,Sergey TARASOV,16 AUG 1962,URS,1,Donetsk (URS),10 AUG 1985,1152,triple-jump,jumps,male,senior
 5644,16.88,+1.6,Bárbaro TORRES,21 APR 1963,CUB,3,Santiago de Cuba (CUB),23 FEB 1986,1152,triple-jump,jumps,male,senior
-5644,16.88,+1.3,Vladimir CHEMIKOV,03 AUG 1959,URS,3,Helsinki (FIN),07 JUL 1986,1152,triple-jump,jumps,male,senior
+5644,16.88,+1.3,Vladimir CHERNIKOV,03 AUG 1959,URS,3,Helsinki (FIN),07 JUL 1986,1152,triple-jump,jumps,male,senior
 5644,16.88,,Arne HOLM,22 DEC 1961,SWE,2,Osaka (JPN) (i),15 JAN 1987,1152,triple-jump,jumps,male,senior
 5644,16.88,,Volker MAI,03 MAY 1966,GDR,1,Jablonec (TCH) (i),14 FEB 1987,1152,triple-jump,jumps,male,senior
 5644,16.88,,Joseph TAIWO,24 AUG 1959,NGR,3,Budapest (HUN),06 JUL 1987,1152,triple-jump,jumps,male,senior
@@ -5997,8 +5997,8 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 5971,16.86,,Béla BAKOSI,18 JUN 1957,HUN,3,London (GBR),21 AUG 1983,1150,triple-jump,jumps,male,senior
 5971,16.86,,Eric MCCALLA,18 AUG 1960,GBR,1,Vittel (FRA) (i),04 FEB 1984,1150,triple-jump,jumps,male,senior
 5971,16.86,,Mike CONLEY,05 OCT 1962,USA,1,"Austin, TX (USA)",11 MAY 1984,1150,triple-jump,jumps,male,senior
-5971,16.86,,Vladimir CHEMIKOV,03 AUG 1959,URS,3,Sofia (BUL),19 MAY 1984,1150,triple-jump,jumps,male,senior
-5971,16.86,,Vladimir CHEMIKOV,03 AUG 1959,URS,5,Kiev (URS),21 JUN 1984,1150,triple-jump,jumps,male,senior
+5971,16.86,,Vladimir CHERNIKOV,03 AUG 1959,URS,3,Sofia (BUL),19 MAY 1984,1150,triple-jump,jumps,male,senior
+5971,16.86,,Vladimir CHERNIKOV,03 AUG 1959,URS,5,Kiev (URS),21 JUN 1984,1150,triple-jump,jumps,male,senior
 5971,16.86,,Volker MAI,03 MAY 1966,GDR,1,Senftenberg (GER) (i),17 FEB 1985,1150,triple-jump,jumps,male,senior
 5971,16.86,+1.5,Yuriy GORBACHENKO,19 JUL 1966,URS,1,Odessa (URS),15 SEP 1985,1150,triple-jump,jumps,male,senior
 5971,16.86,+1.5,Dmitriy LITVINENKO,12 AUG 1963,URS,2,Sochi (URS),24 MAY 1986,1150,triple-jump,jumps,male,senior
@@ -6866,7 +6866,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 6690,16.82,-0.4,Connor MURPHY,22 OCT 2001,AUS,,"Lakeside Stadium, Melbourne (AUS)",15 FEB 2024,1147,triple-jump,jumps,male,senior
 6690,16.82,+0.1,Wen SU,10 FEB 1999,CHN,3,"Egret Stadium, Xiamen (CHN)",20 APR 2024,1145,triple-jump,jumps,male,senior
 6690,16.82,0.0,Jah-Nhai PERINCHIEF,13 DEC 1997,BER,1,"Billy J. Murphy Track and Field Complex, Memphis, TN (USA)",11 JUL 2024,1145,triple-jump,jumps,male,senior
-6690,16.82,+0.9,Jonathan SEREMES,03 SEP 2000,FRA,8f1,"National Stadium, Tokyo (JPN)",19 SEP 2025,1145,triple-jump,jumps,male,senior
+6690,16.82,+0.9,Jonathan SEREMES,03 SEP 2000,FRA,8,"National Stadium, Tokyo (JPN)",19 SEP 2025,1145,triple-jump,jumps,male,senior
 6869,16.81,,Józef SCHMIDT,28 MAR 1935,POL,1,"Stadio Olimpico, Roma (ITA)",06 SEP 1960,1144,triple-jump,jumps,male,senior
 6869,16.81,+1.2,Art WALKER,09 SEP 1941,USA,1,"Los Angeles, CA (USA)",30 JUN 1968,1144,triple-jump,jumps,male,senior
 6869,16.81,,Anatoliy PISKULIN,01 DEC 1952,URS,2,Kiev (URS),04 JUL 1975,1144,triple-jump,jumps,male,senior
@@ -6888,7 +6888,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 6869,16.81,,Kenneth LORRAWAY,06 FEB 1956,AUS,1,Melbourne (AUS),20 MAR 1983,1144,triple-jump,jumps,male,senior
 6869,16.81,,Viktor GERASIMENYA,30 JAN 1960,URS,1,Grodno (BLR),14 MAY 1983,1144,triple-jump,jumps,male,senior
 6869,16.81,,Willie BANKS,11 MAR 1956,USA,1,"Los Angeles, CA (USA)",26 JUN 1983,1144,triple-jump,jumps,male,senior
-6869,16.81,,Vladimir CHEMIKOV,03 AUG 1959,URS,1,Chelyabinsk (URS),06 AUG 1983,1144,triple-jump,jumps,male,senior
+6869,16.81,,Vladimir CHERNIKOV,03 AUG 1959,URS,1,Chelyabinsk (URS),06 AUG 1983,1144,triple-jump,jumps,male,senior
 6869,16.81,,Ajayi AGBEBAKU,06 DEC 1956,NGR,2,Göteborg (SWE),16 AUG 1983,1144,triple-jump,jumps,male,senior
 6869,16.81,,Kenneth LORRAWAY,06 FEB 1956,AUS,2,Osaka (JPN) (i),16 JAN 1984,1144,triple-jump,jumps,male,senior
 6869,16.81,,Robert CANNON,09 JUL 1958,USA,1,"Walnut, CA (USA)",29 APR 1984,1144,triple-jump,jumps,male,senior

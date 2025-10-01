@@ -280,7 +280,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 262,69.5,,Ria STALMAN,1951-12-11,NED,1,"Walnut, CA (USA)",1984-07-25,1247,discus-throw,throws,female,senior,discus-throw,field,69.5,USA,32.0,1984
 268,69.49,,Laulauga TAUSAGA,1998-05-22,USA,1,"Nemzeti Atlétikai Központ, Budapest (HUN)",2023-08-22,1247,discus-throw,throws,female,senior,discus-throw,field,69.49,HUN,25.0,2023
 269,69.48,,Faina MELNIK,1945-06-09,URS,1,Edinburgh (GBR),1973-09-07,1246,discus-throw,throws,female,senior,discus-throw,field,69.48,GBR,28.0,1973
-269,69.48,,Valarie ALLMAN,1995-02-23,USA,1f1,"National Stadium, Tokyo (JPN)",2025-09-14,1246,discus-throw,throws,female,senior,discus-throw,field,69.48,JPN,30.0,2025
+269,69.48,,Valarie ALLMAN,1995-02-23,USA,1,"National Stadium, Tokyo (JPN)",2025-09-14,1246,discus-throw,throws,female,senior,discus-throw,field,69.48,JPN,30.0,2025
 271,69.46,,Tsvetanka KHRISTOVA,1962-03-14,BUL,1,Sofia (BUL),1988-09-04,1246,discus-throw,throws,female,senior,discus-throw,field,69.46,BUL,26.0,1988
 271,69.46,,Tsvetanka KHRISTOVA,1962-03-14,BUL,1,Sofia (BUL),1987-05-31,1246,discus-throw,throws,female,senior,discus-throw,field,69.46,BUL,25.0,1987
 271,69.46,,Martina HELLMANN,1960-12-12,GDR,1,Berlin (GDR),1985-09-22,1246,discus-throw,throws,female,senior,discus-throw,field,69.46,GDR,24.0,1985
@@ -810,7 +810,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 787,67.51,,Sandra PERKOVIĆ,1990-06-21,CRO,1,"Alexander Stadium, Birmingham (GBR)",2017-08-20,1210,discus-throw,throws,female,senior,discus-throw,field,67.51,GBR,27.0,2017
 787,67.51,,Sandra ELKASEVIĆ,1990-06-21,CRO,3,"Stade de France, Paris (FRA)",2024-08-05,1210,discus-throw,throws,female,senior,discus-throw,field,67.51,FRA,34.0,2024
 787,67.51,,Anastasia KELESIDOU,1972-11-28,GRE,2,Thessaloniki (GRE),1999-06-23,1210,discus-throw,throws,female,senior,discus-throw,field,67.51,GRE,26.0,1999
-791,67.5,,Jorinde VAN KLINKEN,2000-02-02,NED,2f1,"National Stadium, Tokyo (JPN)",2025-09-14,1210,discus-throw,throws,female,senior,discus-throw,field,67.5,JPN,25.0,2025
+791,67.5,,Jorinde VAN KLINKEN,2000-02-02,NED,2,"National Stadium, Tokyo (JPN)",2025-09-14,1210,discus-throw,throws,female,senior,discus-throw,field,67.5,JPN,25.0,2025
 791,67.5,,Qiumei LI,1974-09-26,CHN,1,Beijing (CHN),1994-05-10,1210,discus-throw,throws,female,senior,discus-throw,field,67.5,CHN,19.0,1994
 791,67.5,,Yaimé PÉREZ,1991-05-29,CUB,1,Bilbao (ESP),2017-06-24,1210,discus-throw,throws,female,senior,discus-throw,field,67.5,ESP,26.0,2017
 791,67.5,,Sandra PERKOVIĆ,1990-06-21,CRO,1,"Boudewijnstadion, Bruxelles (BEL)",2015-09-11,1210,discus-throw,throws,female,senior,discus-throw,field,67.5,BEL,25.0,2015
@@ -878,7 +878,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 855,67.25,,Denia CABALLERO,1990-01-13,CUB,1,Sotteville-lès-Rouen (FRA),2015-07-06,1205,discus-throw,throws,female,senior,discus-throw,field,67.25,FRA,25.0,2015
 855,67.25,,Yaimé PÉREZ,1991-05-29,CUB,1,"Garage Strength, Fleetwood, PA (USA)",2025-08-21,1205,discus-throw,throws,female,senior,discus-throw,field,67.25,USA,34.0,2025
 855,67.25,,Yaimé PÉREZ,1991-05-29,CUB,2,"Hayward Field, Eugene, OR (USA)",2024-05-25,1205,discus-throw,throws,female,senior,discus-throw,field,67.25,USA,33.0,2024
-855,67.25,,Silinda MORÁLES,2000-08-30,CUB,3f1,"National Stadium, Tokyo (JPN)",2025-09-14,1205,discus-throw,throws,female,senior,discus-throw,field,67.25,JPN,25.0,2025
+855,67.25,,Silinda MORÁLES,2000-08-30,CUB,3,"National Stadium, Tokyo (JPN)",2025-09-14,1205,discus-throw,throws,female,senior,discus-throw,field,67.25,JPN,25.0,2025
 860,67.24,,Tsvetanka KHRISTOVA,1962-03-14,BUL,1,Schwechat (AUT),1987-06-24,1205,discus-throw,throws,female,senior,discus-throw,field,67.24,AUT,25.0,1987
 860,67.24,,Sandra PERKOVIĆ,1990-06-21,CRO,1,"Olympic Stadium, London (GBR)",2018-07-22,1205,discus-throw,throws,female,senior,discus-throw,field,67.24,GBR,28.0,2018
 860,67.24,,Tsvetanka KHRISTOVA,1962-03-14,BUL,1,Linz (AUT),1986-06-29,1205,discus-throw,throws,female,senior,discus-throw,field,67.24,AUT,24.0,1986
@@ -1090,7 +1090,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 1065,66.62,,Tsvetanka KHRISTOVA,1962-03-14,BUL,2,Ankara (TUR),1988-07-17,1194,discus-throw,throws,female,senior,discus-throw,field,66.62,TUR,26.0,1988
 1065,66.62,,Faina MELNIK,1945-06-09,URS,1,"Olympiastadion, München (GER)",1972-09-10,1194,discus-throw,throws,female,senior,discus-throw,field,66.62,GER,27.0,1972
 1068,66.61,,Franka DIETZSCH,1968-01-22,GER,1,"Yanmar Stadium Nagai, Osaka (JPN)",2007-08-29,1193,discus-throw,throws,female,senior,discus-throw,field,66.61,JPN,39.0,2007
-1068,66.61,,Vanessa KAMGA,1998-11-19,SWE,4f1,"National Stadium, Tokyo (JPN)",2025-09-14,1193,discus-throw,throws,female,senior,discus-throw,field,66.61,JPN,26.0,2025
+1068,66.61,,Vanessa KAMGA,1998-11-19,SWE,4,"National Stadium, Tokyo (JPN)",2025-09-14,1193,discus-throw,throws,female,senior,discus-throw,field,66.61,JPN,26.0,2025
 1070,66.6,,Qiaoping QIU,1971-10-31,CHN,1,Hiroshima (JPN),1994-04-30,1193,discus-throw,throws,female,senior,discus-throw,field,66.6,JPN,22.0,1994
 24,66.6,,Astrid KUMBERNUSS,1970-02-05,GDR,1,Berlin (GER),1988-07-20,1193,discus-throw,throws,female,u20,discus-throw,field,66.6,GER,18.0,1988
 1070,66.6,,Ilke WYLUDDA,1969-03-28,GER,1,Bruxelles (BEL),1996-08-23,1193,discus-throw,throws,female,senior,discus-throw,field,66.6,BEL,27.0,1996
@@ -1455,7 +1455,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 1421,65.83,,Yanfeng LI,1979-05-15,CHN,1,Jinan (CHN),2010-08-07,1179,discus-throw,throws,female,senior,discus-throw,field,65.83,CHN,31.0,2010
 1424,65.82,,Nicoleta GRASU,1971-09-11,ROU,1,"FBK Stadium, Hengelo (NED)",1998-06-01,1179,discus-throw,throws,female,senior,discus-throw,field,65.82,NED,26.0,1998
 1424,65.82,,Evelin JAHL,1956-03-28,GDR,3,Vilnius (LTU),1978-06-25,1179,discus-throw,throws,female,senior,discus-throw,field,65.82,LTU,22.0,1978
-1424,65.82,,Sandra ELKASEVIĆ,1990-06-21,CRO,5f1,"National Stadium, Tokyo (JPN)",2025-09-14,1179,discus-throw,throws,female,senior,discus-throw,field,65.82,JPN,35.0,2025
+1424,65.82,,Sandra ELKASEVIĆ,1990-06-21,CRO,5,"National Stadium, Tokyo (JPN)",2025-09-14,1179,discus-throw,throws,female,senior,discus-throw,field,65.82,JPN,35.0,2025
 1424,65.82,,Cierra JACKSON,2002-08-28,USA,1,"Hayward Field, Eugene, OR (USA)",2025-06-14,1179,discus-throw,throws,female,senior,discus-throw,field,65.82,USA,22.0,2025
 1424,65.82,,Irina KHVAL,1962-05-17,URS,1,Moskva (URS),1987-05-09,1179,discus-throw,throws,female,senior,discus-throw,field,65.82,URS,24.0,1987
 1429,65.81,,Gia LEWIS-SMALLWOOD,1979-04-01,USA,1,Coeur d'Alene (USA),2017-06-02,1179,discus-throw,throws,female,senior,discus-throw,field,65.81,USA,38.0,2017
@@ -1633,7 +1633,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 1589,65.5,,Valarie ALLMAN,1995-02-23,USA,1,"CVEATC, Chula Vista, CA (USA)",2021-05-02,1173,discus-throw,throws,female,senior,discus-throw,field,65.5,USA,26.0,2021
 1598,65.49,,Melina ROBERT-MICHON,1979-07-18,FRA,1,"Stade des Grands Pêchers, Montreuil (FRA)",2023-05-31,1173,discus-throw,throws,female,senior,discus-throw,field,65.49,FRA,43.0,2023
 1598,65.49,,Nicoleta GRASU,1971-09-11,ROU,1,Bucureşti (ROU),1999-03-04,1173,discus-throw,throws,female,senior,discus-throw,field,65.49,ROU,27.0,1999
-1598,65.49,,Laulauga TAUSAGA,1998-05-22,USA,6f1,"National Stadium, Tokyo (JPN)",2025-09-14,1173,discus-throw,throws,female,senior,discus-throw,field,65.49,JPN,27.0,2025
+1598,65.49,,Laulauga TAUSAGA,1998-05-22,USA,6,"National Stadium, Tokyo (JPN)",2025-09-14,1173,discus-throw,throws,female,senior,discus-throw,field,65.49,JPN,27.0,2025
 1598,65.49,,Gia LEWIS-SMALLWOOD,1979-04-01,USA,1,"Tucson, AZ (USA)",2013-05-18,1173,discus-throw,throws,female,senior,discus-throw,field,65.49,USA,34.0,2013
 1598,65.49,,Nicoleta GRASU,1971-09-11,ROU,1,Bucureşti (ROU),1999-03-02,1173,discus-throw,throws,female,senior,discus-throw,field,65.49,ROU,27.0,1999
 1603,65.48,,Franka DIETZSCH,1968-01-22,GER,4,"Olympic Stadium, Atlanta, GA (USA)",1996-07-29,1172,discus-throw,throws,female,senior,discus-throw,field,65.48,USA,28.0,1996
@@ -1776,7 +1776,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 1737,65.28,,Mette BERGMANN,1962-11-09,NOR,1,Hengelo (NED),1996-05-27,1169,discus-throw,throws,female,senior,discus-throw,field,65.28,NED,33.0,1996
 1737,65.28,,Beatrice FAUMUINA,1974-10-23,NZL,1,Sheffield (GBR),1997-07-15,1169,discus-throw,throws,female,senior,discus-throw,field,65.28,GBR,22.0,1997
 1737,65.28,,Kristin KUEHL,1970-07-30,USA,1,"Modesto, CA (USA)",2001-05-12,1169,discus-throw,throws,female,senior,discus-throw,field,65.28,USA,30.0,2001
-1737,65.28,,Bin FENG,1994-04-03,CHN,7f1,"National Stadium, Tokyo (JPN)",2025-09-14,1169,discus-throw,throws,female,senior,discus-throw,field,65.28,JPN,31.0,2025
+1737,65.28,,Bin FENG,1994-04-03,CHN,7,"National Stadium, Tokyo (JPN)",2025-09-14,1169,discus-throw,throws,female,senior,discus-throw,field,65.28,JPN,31.0,2025
 1744,65.27,,Nadine MÜLLER,1985-11-21,GER,1f1,Leiria (POR),2015-03-15,1169,discus-throw,throws,female,senior,discus-throw,field,65.27,POR,29.0,2015
 1745,65.26,,Argentina MENIS,1948-07-19,ROU,2,Düsseldorf (GER),1976-06-08,1168,discus-throw,throws,female,senior,discus-throw,field,65.26,GER,27.0,1976
 1745,65.26,,Argentina MENIS,1948-07-19,ROU,1,Berlin (GER),1974-08-21,1168,discus-throw,throws,female,senior,discus-throw,field,65.26,GER,26.0,1974
@@ -1818,7 +1818,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 1779,65.21,,Nicoleta GRASU,1971-09-11,ROU,2,Salon-de-Provence (FRA),2006-05-25,1167,discus-throw,throws,female,senior,discus-throw,field,65.21,FRA,34.0,2006
 1779,65.21,,Nicoleta GRASU,1971-09-11,ROU,1,Palma de Mallorca (ESP),1999-07-12,1167,discus-throw,throws,female,senior,discus-throw,field,65.21,ESP,27.0,1999
 1779,65.21,,Liliana CÁ,1986-11-05,POR,1q2,"Olympiastadion, München (GER)",2022-08-15,1167,discus-throw,throws,female,senior,discus-throw,field,65.21,GER,35.0,2022
-1779,65.21,,Shanice CRAFT,1993-05-15,GER,8f1,"National Stadium, Tokyo (JPN)",2025-09-14,1167,discus-throw,throws,female,senior,discus-throw,field,65.21,JPN,32.0,2025
+1779,65.21,,Shanice CRAFT,1993-05-15,GER,8,"National Stadium, Tokyo (JPN)",2025-09-14,1167,discus-throw,throws,female,senior,discus-throw,field,65.21,JPN,32.0,2025
 1779,65.21,,Gia LEWIS-SMALLWOOD,1979-04-01,USA,3,"Olympiastadion, Stockholm (SWE)",2014-08-21,1167,discus-throw,throws,female,senior,discus-throw,field,65.21,SWE,35.0,2014
 1779,65.21,,Dani STEVENS,1988-05-26,AUS,3,"Hampden Park, Glasgow (GBR)",2014-07-11,1167,discus-throw,throws,female,senior,discus-throw,field,65.21,GBR,26.0,2014
 1779,65.21,,Dani STEVENS,1988-05-26,AUS,2,"Stade Louis II, Monaco (MON)",2015-07-17,1167,discus-throw,throws,female,senior,discus-throw,field,65.21,MON,27.0,2015
