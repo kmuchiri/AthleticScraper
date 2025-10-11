@@ -46,7 +46,6 @@ BASE_URL = (
 
 # Scraper Function -------------------
 
-
 def scrape_event(gender, age_category, discipline_slug, type_slug, output_dir, today, max_retries=5):
     page = 1
     data = []
@@ -136,7 +135,7 @@ def get_scrape_jobs():
             jobs.append((gender, age_category, discipline_slug, type_slug, output_dir,today))
     return jobs
 
-def run_multithreaded_scrape(max_workers=10):
+def run_multithreaded_scrape(max_workers=20):
     jobs = get_scrape_jobs()
     with ThreadPoolExecutor(max_workers=max_workers) as executor:
         future_to_job = {
@@ -155,4 +154,6 @@ def run_multithreaded_scrape(max_workers=10):
 
 if __name__ == "__main__":
     run_multithreaded_scrape(max_workers=30)
+    print("-------------------------------------- ")
     print(" Scraping complete.")
+    print(" ")
