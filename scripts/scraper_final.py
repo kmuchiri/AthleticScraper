@@ -8,7 +8,9 @@ import threading
 from urllib3.exceptions import InsecureRequestWarning
 from concurrent.futures import ThreadPoolExecutor, as_completed
 import urllib3
-from datetime import date
+from datetime import datetime, date
+from requests.adapters import HTTPAdapter
+from urllib3.util.retry import Retry
 
 
 # Setup ------------------------------------
@@ -17,10 +19,25 @@ from datetime import date
 urllib3.disable_warnings(InsecureRequestWarning)
 lock = threading.Lock()
 
-today = str(date.today())
-
+# --- globals / setup ---
+today = date.today().isoformat()
+current_time = datetime.now().strftime("%Y%m%d-%H%M%S")
+log_dir = os.path.join("logs", today)
+os.makedirs(log_dir, exist_ok=True)
 
 print(today)
+print (current_time)
+
+# Retries & backoff
+session = requests.Session()
+retries = Retry(
+    total=5,
+    backoff_factor=1,                        # 0s, 1s, 2s, 4s, 8s...
+    status_forcelist=(429, 500, 502, 503, 504),
+    allowed_methods=("GET", "HEAD", "OPTIONS"),
+)
+session.mount("https://", HTTPAdapter(max_retries=retries))
+session.mount("http://", HTTPAdapter(max_retries=retries))
 
 
 # Load discipline/type mappings from JSON
@@ -49,8 +66,7 @@ BASE_URL = (
 def scrape_event(gender, age_category, discipline_slug, type_slug, output_dir, today, max_retries=5):
     page = 1
     data = []
-    today = str(date.today())
-    timestamp = time.strftime("%Y%m%d-%H%M%S")
+    timestamp = datetime.now().strftime("%Y%m%d-%H%M%S")
 
     while True:
         url = BASE_URL.format(
@@ -64,19 +80,20 @@ def scrape_event(gender, age_category, discipline_slug, type_slug, output_dir, t
 
         headers = {"User-Agent": "Mozilla/5.0"}
         success = False
-
         for attempt in range(max_retries):
             try:
-                response = requests.get(url, headers=headers, verify=False, timeout=10)
+                response = session.get(url, headers=headers, timeout=(5, 30), verify=True)
+                response.raise_for_status()
                 success = True
                 break
             except Exception as e:
                 time.sleep(2 ** attempt)  # exponential backoff
                 if attempt == max_retries - 1:
                     with lock:
-                        with open("/logs/scrape_errors_{timestamp}.log", "a") as log_file:
-                            log_file.write(f"FAILED: {url} | {e}\n")
+                        with open(os.path.join(log_dir, f"scrape_errors_{timestamp}.log"), "a") as log_file:
+                            log_file.write(f"FAILED: {url} | {repr(e)}\n")
                     return
+
 
         if not success:
             return
@@ -135,25 +152,28 @@ def get_scrape_jobs():
             jobs.append((gender, age_category, discipline_slug, type_slug, output_dir,today))
     return jobs
 
-def run_multithreaded_scrape(max_workers=20):
+def run_multithreaded_scrape(max_workers=30): 
     jobs = get_scrape_jobs()
     with ThreadPoolExecutor(max_workers=max_workers) as executor:
-        future_to_job = {
-            executor.submit(scrape_event, *job): job for job in jobs
-        }
+        future_to_job = {executor.submit(scrape_event, *job): job for job in jobs}
         for future in as_completed(future_to_job):
             job = future_to_job[future]
             try:
                 future.result()
             except Exception as e:
                 with lock:
-                    with open("scrape_errors.log", "a") as log_file:
-                        log_file.write(f"UNCAUGHT ERROR in job {job}: {e}\n")
+                    with open(os.path.join(log_dir, f"scrape_errors_{current_time}.log"), "a") as log_file:
+                        log_file.write(f"UNCAUGHT ERROR in job {job}: {repr(e)}\n")
 
 # Run Scraper ----------------------------------
 
 if __name__ == "__main__":
-    run_multithreaded_scrape(max_workers=30)
+    start_time = time.time()
+    run_multithreaded_scrape(max_workers=40)
+    end_time = time.time()
     print("-------------------------------------- ")
-    print(" Scraping complete.")
+    total_time = int(end_time - start_time)
+    time_min = total_time / 60
+    print(f" Scraping completed in {total_time:.2f} seconds")
+    print(f" Scraping completed in {time_min:.2f} minutes")
     print(" ")
