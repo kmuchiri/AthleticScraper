@@ -2,7 +2,7 @@ import os
 import pandas as pd
 
 # folder directory containing all the combined csv files
-combined_dir = "combined"
+combined_dir = "processing/combined"
 
 # List all CSV files
 csv_files = [f for f in os.listdir(combined_dir) if f.endswith(".csv")]

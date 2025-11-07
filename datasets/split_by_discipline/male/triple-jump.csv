@@ -6,7 +6,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 5,18.11,0.8,Christian TAYLOR,1990-06-18,USA,1,"Hayward Field, Eugene, OR (USA)",2017-05-27,1283.0,triple-jump,jumps,male,senior,triple-jump,field,18.11,USA,26.0,2017
 6,18.09,-0.4,Kenny HARRISON,1965-02-13,USA,1,"Olympic Stadium, Atlanta, GA (USA)",1996-07-27,1283.0,triple-jump,jumps,male,senior,triple-jump,field,18.09,USA,31.0,1996
 7,18.08,0.0,Pedro PICHARDO,1993-06-30,CUB,1,La Habana (CUB),2015-05-28,1280.0,triple-jump,jumps,male,senior,triple-jump,field,18.08,CUB,21.0,2015
-8,18.07,,Hugues Fabrice ZANGO,1993-06-25,BUR,1,"Stadium Jean-Pellez, Aubiére (FRA) (i)",2021-01-16,1279.0,triple-jump,jumps,male,senior,triple-jump,field,18.07,FRA,27.0,2021
+8,18.07,,Hugues Fabrice ZANGO,1993-06-25,BUR,1,"Stadium Jean-Pellez, Aubière (FRA) (i)",2021-01-16,1279.0,triple-jump,jumps,male,senior,triple-jump,field,18.07,FRA,27.0,2021
 9,18.06,0.8,Pedro PICHARDO,1993-06-30,CUB,1,"Suhaim bin Hamad Stadium, Doha (QAT)",2015-05-15,1278.0,triple-jump,jumps,male,senior,triple-jump,field,18.06,QAT,21.0,2015
 9,18.06,1.1,Christian TAYLOR,1990-06-18,USA,1,"Stade Olympique de la Pontaise, Lausanne (SUI)",2015-07-09,1278.0,triple-jump,jumps,male,senior,triple-jump,field,18.06,SUI,25.0,2015
 9,18.06,0.4,Will CLAYE,1991-06-13,USA,1,"Stade Charléty, Paris (FRA)",2019-08-24,1278.0,triple-jump,jumps,male,senior,triple-jump,field,18.06,FRA,28.0,2019
@@ -35,7 +35,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 29,17.92,1.9,James BECKFORD,1975-01-09,JAM,1,"Odessa, TX (USA)",1995-05-20,1263.0,triple-jump,jumps,male,senior,triple-jump,field,17.92,USA,20.0,1995
 29,17.92,1.6,Khristo MARKOV,1965-01-27,BUL,1,"Stadio Olimpico, Roma (ITA)",1987-08-31,1263.0,triple-jump,jumps,male,senior,triple-jump,field,17.92,ITA,22.0,1987
 36,17.91,0.5,Pedro PICHARDO,1993-06-30,POR,1,"National Stadium, Tokyo (JPN)",2025-09-19,1262.0,triple-jump,jumps,male,senior,triple-jump,field,17.91,JPN,32.0,2025
-36,17.91,,Teddy TAMGHO,1989-06-15,FRA,1,Aubiére (FRA) (i),2011-02-20,1262.0,triple-jump,jumps,male,senior,triple-jump,field,17.91,FRA,21.0,2011
+36,17.91,,Teddy TAMGHO,1989-06-15,FRA,1,Aubière (FRA) (i),2011-02-20,1262.0,triple-jump,jumps,male,senior,triple-jump,field,17.91,FRA,21.0,2011
 36,17.91,1.4,Teddy TAMGHO,1989-06-15,FRA,1,"Stade Olympique de la Pontaise, Lausanne (SUI)",2011-06-30,1262.0,triple-jump,jumps,male,senior,triple-jump,field,17.91,SUI,22.0,2011
 36,17.91,0.9,Will CLAYE,1991-06-13,USA,1,"Sacramento, CA (USA)",2017-06-23,1262.0,triple-jump,jumps,male,senior,triple-jump,field,17.91,USA,26.0,2017
 40,17.9,0.4,Jadel GREGÓRIO,1980-09-16,BRA,1,"Mangueirão, Belém (BRA)",2007-05-20,1261.0,triple-jump,jumps,male,senior,triple-jump,field,17.9,BRA,26.0,2007
@@ -1555,7 +1555,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 1503,17.25,0.3,Omar CRADDOCK,1991-04-26,USA,1,"Provo, UT (USA)",2019-04-27,1191.0,triple-jump,jumps,male,senior,triple-jump,field,17.25,USA,28.0,2019
 1503,17.25,-0.2,Donald SCOTT,1992-02-23,USA,3,"Boudewijnstadion, Bruxelles (BEL)",2018-08-31,1192.0,triple-jump,jumps,male,senior,triple-jump,field,17.25,BEL,26.0,2018
 1503,17.25,0.0,Andrea DALLAVALLE,1999-10-31,ITA,1,"Stadio Zecchini, Grosseto (ITA)",2022-06-16,1191.0,triple-jump,jumps,male,senior,triple-jump,field,17.25,ITA,22.0,2022
-1503,17.25,,Teddy TAMGHO,1989-06-15,FRA,1,Aubiére (FRA) (i),2010-02-14,1191.0,triple-jump,jumps,male,senior,triple-jump,field,17.25,FRA,20.0,2010
+1503,17.25,,Teddy TAMGHO,1989-06-15,FRA,1,Aubière (FRA) (i),2010-02-14,1191.0,triple-jump,jumps,male,senior,triple-jump,field,17.25,FRA,20.0,2010
 1503,17.25,,Phillips IDOWU,1978-12-30,GBR,4,"National Indoor Arena, Birmingham (GBR) (i)",2010-02-20,1191.0,triple-jump,jumps,male,senior,triple-jump,field,17.25,GBR,31.0,2010
 1503,17.25,0.2,Alexis COPELLO,1985-08-12,CUB,2,"Poljud Stadion, Split (CRO)",2010-09-05,1191.0,triple-jump,jumps,male,senior,triple-jump,field,17.25,CRO,25.0,2010
 1503,17.25,-0.3,Yoandri BETANZOS,1982-02-15,CUB,2,La Habana (CUB),2009-03-13,1192.0,triple-jump,jumps,male,senior,triple-jump,field,17.25,CUB,27.0,2009
@@ -2607,7 +2607,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 2501,17.13,1.8,Leevan SANDS,1981-08-16,BAH,4,"Crystal Palace, London (GBR)",2009-07-24,1178.0,triple-jump,jumps,male,senior,triple-jump,field,17.13,GBR,27.0,2009
 2501,17.13,-0.2,Leevan SANDS,1981-08-16,BAH,4,"Stadio Olimpico, Roma (ITA)",2011-05-26,1179.0,triple-jump,jumps,male,senior,triple-jump,field,17.13,ITA,29.0,2011
 2501,17.13,0.4,Leevan SANDS,1981-08-16,BAH,3q1,"DS, Daegu (KOR)",2011-09-02,1178.0,triple-jump,jumps,male,senior,triple-jump,field,17.13,KOR,30.0,2011
-2501,17.13,,Benjamin COMPAORÉ,1987-08-05,FRA,1,Aubiére (FRA) (i),2012-02-25,1178.0,triple-jump,jumps,male,senior,triple-jump,field,17.13,FRA,24.0,2012
+2501,17.13,,Benjamin COMPAORÉ,1987-08-05,FRA,1,Aubière (FRA) (i),2012-02-25,1178.0,triple-jump,jumps,male,senior,triple-jump,field,17.13,FRA,24.0,2012
 2501,17.13,1.3,Ernesto REVÉ,1992-02-26,CUB,1,La Habana (CUB),2012-03-24,1178.0,triple-jump,jumps,male,senior,triple-jump,field,17.13,CUB,20.0,2012
 2501,17.13,-0.7,Jadel GREGÓRIO,1980-09-16,BRA,1,São Paulo (BRA),2001-03-18,1182.0,triple-jump,jumps,male,senior,triple-jump,field,17.13,BRA,20.0,2001
 2501,17.13,,Alexander MARTÍNEZ,1977-08-23,CUB,1,Torino (ITA) (i),2002-01-26,1178.0,triple-jump,jumps,male,senior,triple-jump,field,17.13,ITA,24.0,2002
@@ -3503,7 +3503,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 3402,17.04,0.4,Yoelbi QUESADA,1973-08-04,CUB,1,La Habana (CUB),1999-01-14,1169.0,triple-jump,jumps,male,senior,triple-jump,field,17.04,CUB,25.0,1999
 3402,17.04,-0.3,Charles Michael FRIEDEK,1971-08-26,GER,6,"Népstadion, Budapest (HUN)",1998-08-23,1170.0,triple-jump,jumps,male,senior,triple-jump,field,17.04,HUN,27.0,1998
 66,17.04,1.9,Jordan A. DÍAZ FORTUN,2001-02-23,CUB,1f1,Buenos Aires (ARG),2018-10-16,1169.0,triple-jump,jumps,male,u20,triple-jump,field,17.04,ARG,17.0,2018
-66,17.04,,Melvin RAFFIN,1998-08-09,FRA,1,Aubiére (FRA) (i),2017-01-07,1169.0,triple-jump,jumps,male,u20,triple-jump,field,17.04,FRA,18.0,2017
+66,17.04,,Melvin RAFFIN,1998-08-09,FRA,1,Aubière (FRA) (i),2017-01-07,1169.0,triple-jump,jumps,male,u20,triple-jump,field,17.04,FRA,18.0,2017
 3402,17.04,0.6,Oleg PROTSENKO,1963-08-11,URS,3,"Olympiastadion, Berlin (GER)",1989-08-18,1169.0,triple-jump,jumps,male,senior,triple-jump,field,17.04,GER,26.0,1989
 3402,17.04,0.9,Toussaint RABENALA,1965-10-29,MAD,1,Belle Vue Mauricia (MRI),1992-06-26,1169.0,triple-jump,jumps,male,senior,triple-jump,field,17.04,MRI,26.0,1992
 3402,17.04,0.2,Andrey KAYUKOV,1964-04-12,URS,3,Almaty (KAZ),1991-09-08,1169.0,triple-jump,jumps,male,senior,triple-jump,field,17.04,KAZ,27.0,1991
@@ -3537,7 +3537,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 3402,17.04,,Randy LEWIS,1978-11-15,GRN,2,Moskva (RUS) (i),2007-01-28,1169.0,triple-jump,jumps,male,senior,triple-jump,field,17.04,RUS,28.0,2007
 3402,17.04,1.1,Alexey FYODOROV,1991-05-25,RUS,2,"Letzigrund, Zürich (SUI)",2014-08-14,1169.0,triple-jump,jumps,male,senior,triple-jump,field,17.04,SUI,23.0,2014
 3402,17.04,1.5,Nazim BABAYEV,1997-10-08,AZE,1,"Ekängens Friidrottsarena, Eskilstuna (SWE)",2015-07-19,1169.0,triple-jump,jumps,male,senior,triple-jump,field,17.04,SWE,17.0,2015
-3402,17.04,,Melvin RAFFIN,1998-08-09,FRA,1,Aubiére (FRA) (i),2017-01-07,1169.0,triple-jump,jumps,male,senior,triple-jump,field,17.04,FRA,18.0,2017
+3402,17.04,,Melvin RAFFIN,1998-08-09,FRA,1,Aubière (FRA) (i),2017-01-07,1169.0,triple-jump,jumps,male,senior,triple-jump,field,17.04,FRA,18.0,2017
 17,17.04,1.9,Jordan A. DÍAZ FORTUN,2001-02-23,CUB,1f1,Buenos Aires (ARG),2018-10-16,1169.0,triple-jump,jumps,male,u18,triple-jump,field,17.04,ARG,17.0,2018
 3402,17.04,1.4,Matthew O'NEAL,1994-06-10,USA,,"Austin, TX (USA)",2017-03-31,1169.0,triple-jump,jumps,male,senior,triple-jump,field,17.04,USA,22.0,2017
 3402,17.04,0.2,Nelson ÉVORA,1984-04-20,POR,4,"Suhaim bin Hamad Stadium, Doha (QAT)",2018-05-04,1169.0,triple-jump,jumps,male,senior,triple-jump,field,17.04,QAT,34.0,2018
@@ -3769,7 +3769,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 3624,17.02,1.4,Walter DAVIS,1979-07-02,USA,3,"Hayward Field, Eugene, OR (USA)",2011-06-23,1167.0,triple-jump,jumps,male,senior,triple-jump,field,17.02,USA,31.0,2011
 3624,17.02,,Dzmitry DZIATSUK,1985-04-09,BLR,1,Minsk (BLR),2011-06-04,1167.0,triple-jump,jumps,male,senior,triple-jump,field,17.02,BLR,26.0,2011
 3624,17.02,0.0,Leevan SANDS,1981-08-16,BAH,,"Auburn, AL (USA)",2011-04-16,1167.0,triple-jump,jumps,male,senior,triple-jump,field,17.02,USA,29.0,2011
-3624,17.02,,Yoann RAPINIER,1989-09-29,FRA,2,Aubiére (FRA) (i),2011-02-20,1167.0,triple-jump,jumps,male,senior,triple-jump,field,17.02,FRA,21.0,2011
+3624,17.02,,Yoann RAPINIER,1989-09-29,FRA,2,Aubière (FRA) (i),2011-02-20,1167.0,triple-jump,jumps,male,senior,triple-jump,field,17.02,FRA,21.0,2011
 3624,17.02,,Will CLAYE,1991-06-13,USA,1,"Fayetteville, AR (USA) (i)",2011-02-12,1167.0,triple-jump,jumps,male,senior,triple-jump,field,17.02,USA,19.0,2011
 3624,17.02,,Alexis COPELLO,1985-08-12,CUB,1,Mondeville (FRA) (i),2011-02-05,1167.0,triple-jump,jumps,male,senior,triple-jump,field,17.02,FRA,25.0,2011
 3624,17.02,0.1,Alexis COPELLO,1985-08-12,CUB,3,"Crystal Palace, London (GBR)",2010-08-13,1167.0,triple-jump,jumps,male,senior,triple-jump,field,17.02,GBR,25.0,2010
@@ -4233,7 +4233,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 4130,16.98,,Praveen CHITHRAVEL,2001-06-05,IND,2,Nur-Sultan (KAZ) (i),2023-02-10,1162.0,triple-jump,jumps,male,senior,triple-jump,field,16.98,KAZ,21.0,2023
 4130,16.98,0.1,Emmanuel IHEMEJE,1998-10-09,ITA,1q1,"Cushing Stadium, College Station, TX (USA)",2021-05-28,1162.0,triple-jump,jumps,male,senior,triple-jump,field,16.98,USA,22.0,2021
 4130,16.98,0.8,Alexsandro MELO,1995-09-26,BRA,1,"CNDA, Bragança Paulista (BRA)",2021-04-18,1162.0,triple-jump,jumps,male,senior,triple-jump,field,16.98,BRA,25.0,2021
-4130,16.98,,Melvin RAFFIN,1998-08-09,FRA,2,"Stadium Jean-Pellez, Aubiére (FRA) (i)",2021-01-16,1162.0,triple-jump,jumps,male,senior,triple-jump,field,16.98,FRA,22.0,2021
+4130,16.98,,Melvin RAFFIN,1998-08-09,FRA,2,"Stadium Jean-Pellez, Aubière (FRA) (i)",2021-01-16,1162.0,triple-jump,jumps,male,senior,triple-jump,field,16.98,FRA,22.0,2021
 4130,16.98,1.8,Pedro PICHARDO,1993-06-30,POR,1,"Sandnes Stadion, Sandnes (NOR)",2019-08-11,1162.0,triple-jump,jumps,male,senior,triple-jump,field,16.98,NOR,26.0,2019
 4130,16.98,,Alexis COPELLO,1985-08-12,AZE,4,"Gallur, Madrid (ESP) (i)",2018-02-08,1162.0,triple-jump,jumps,male,senior,triple-jump,field,16.98,ESP,32.0,2018
 4130,16.98,0.6,Alexis COPELLO,1985-08-12,AZE,4,"Stade Olympique de la Pontaise, Lausanne (SUI)",2017-07-06,1162.0,triple-jump,jumps,male,senior,triple-jump,field,16.98,SUI,31.0,2017
@@ -4241,7 +4241,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 4130,16.98,1.7,Harold CORREA,1988-06-26,FRA,1,Rovereto (ITA),2016-09-06,1162.0,triple-jump,jumps,male,senior,triple-jump,field,16.98,ITA,28.0,2016
 4130,16.98,0.5,Shuo CAO,1991-10-08,CHN,2,"National Stadium, Beijing (CHN)",2016-05-18,1162.0,triple-jump,jumps,male,senior,triple-jump,field,16.98,CHN,24.0,2016
 4130,16.98,0.5,Alexis COPELLO,1985-08-12,AZE,3,"Suhaim bin Hamad Stadium, Doha (QAT)",2016-05-06,1162.0,triple-jump,jumps,male,senior,triple-jump,field,16.98,QAT,30.0,2016
-4130,16.98,,Teddy TAMGHO,1989-06-15,FRA,1,Aubiére (FRA) (i),2016-02-28,1162.0,triple-jump,jumps,male,senior,triple-jump,field,16.98,FRA,26.0,2016
+4130,16.98,,Teddy TAMGHO,1989-06-15,FRA,1,Aubière (FRA) (i),2016-02-28,1162.0,triple-jump,jumps,male,senior,triple-jump,field,16.98,FRA,26.0,2016
 4130,16.98,0.9,Olu OLAMIGOKE,1990-09-19,NGR,2,Brazzaville (CGO),2015-09-14,1162.0,triple-jump,jumps,male,senior,triple-jump,field,16.98,CGO,25.0,2015
 4130,16.98,1.4,Tosin OKE,1980-10-01,NGR,1,Warri (NGR),2015-07-30,1162.0,triple-jump,jumps,male,senior,triple-jump,field,16.98,NGR,34.0,2015
 4130,16.98,-0.1,Marquis DENDY,1992-11-17,USA,,"Starkville, MS (USA)",2015-05-16,1162.0,triple-jump,jumps,male,senior,triple-jump,field,16.98,USA,22.0,2015
@@ -4607,7 +4607,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 4393,16.96,,Ron LIVERS,1955-07-20,USA,2,Sofia (BUL),1977-08-22,1160.0,triple-jump,jumps,male,senior,triple-jump,field,16.96,BUL,22.0,1977
 4393,16.96,0.0,Yoelbi QUESADA,1973-08-04,CUB,3,"Olympiastadion, Berlin (GER)",1995-09-01,1160.0,triple-jump,jumps,male,senior,triple-jump,field,16.96,GER,22.0,1995
 4393,16.96,,Jadel GREGÓRIO,1980-09-16,BRA,3q2,"Sportaréna, Budapest (HUN) (i)",2004-03-05,1160.0,triple-jump,jumps,male,senior,triple-jump,field,16.96,HUN,23.0,2004
-4393,16.96,,Julien KAPEK,1979-01-12,FRA,1,Aubiére (FRA) (i),2004-02-21,1160.0,triple-jump,jumps,male,senior,triple-jump,field,16.96,FRA,25.0,2004
+4393,16.96,,Julien KAPEK,1979-01-12,FRA,1,Aubière (FRA) (i),2004-02-21,1160.0,triple-jump,jumps,male,senior,triple-jump,field,16.96,FRA,25.0,2004
 4393,16.96,,Viktor GUSHCHINSKIY,1978-08-12,RUS,4,Samara (RUS) (i),2004-01-29,1160.0,triple-jump,jumps,male,senior,triple-jump,field,16.96,RUS,25.0,2004
 4393,16.96,0.5,Karl TAILLEPIERRE,1976-08-13,FRA,2,Strasbourg (FRA),2003-06-26,1160.0,triple-jump,jumps,male,senior,triple-jump,field,16.96,FRA,26.0,2003
 4393,16.96,,Georges SAINTE-ROSE,1969-09-03,FRA,5,"Palais Omnisports de Paris-Bercy, Paris (FRA) (i)",1994-03-12,1160.0,triple-jump,jumps,male,senior,triple-jump,field,16.96,FRA,24.0,1994
@@ -4669,7 +4669,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 4536,16.95,0.9,Bin DONG,1988-11-22,CHN,2,Incheon (KOR),2014-10-02,1159.0,triple-jump,jumps,male,senior,triple-jump,field,16.95,KOR,25.0,2014
 4536,16.95,1.7,Alexey FYODOROV,1991-05-25,RUS,,"Stade Raymond Petit, Tomblaine (FRA)",2014-06-27,1159.0,triple-jump,jumps,male,senior,triple-jump,field,16.95,FRA,23.0,2014
 4536,16.95,1.2,Nelson ÉVORA,1984-04-20,POR,3,"Stade Raymond Petit, Tomblaine (FRA)",2014-06-27,1159.0,triple-jump,jumps,male,senior,triple-jump,field,16.95,FRA,30.0,2014
-4536,16.95,,Benjamin COMPAORÉ,1987-08-05,FRA,1,"Stadium Jean-Pellez, Aubiére (FRA) (i)",2023-02-19,1159.0,triple-jump,jumps,male,senior,triple-jump,field,16.95,FRA,35.0,2023
+4536,16.95,,Benjamin COMPAORÉ,1987-08-05,FRA,1,"Stadium Jean-Pellez, Aubière (FRA) (i)",2023-02-19,1159.0,triple-jump,jumps,male,senior,triple-jump,field,16.95,FRA,35.0,2023
 4536,16.95,0.2,Jean-Marc PONTVIANNE,1994-08-06,FRA,4q2,"Hayward Field, Eugene, OR (USA)",2022-07-21,1159.0,triple-jump,jumps,male,senior,triple-jump,field,16.95,USA,27.0,2022
 4536,16.95,1.5,Jah-Nhai PERINCHIEF,1997-12-13,BER,,"CVEATC, Chula Vista, CA (USA)",2022-05-29,1159.0,triple-jump,jumps,male,senior,triple-jump,field,16.95,USA,24.0,2022
 4536,16.95,0.0,Eldhose PAUL,1996-11-07,IND,1,Thiruvanthapuram (IND),2022-03-23,1159.0,triple-jump,jumps,male,senior,triple-jump,field,16.95,IND,25.0,2022
@@ -4839,7 +4839,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 4673,16.94,,Daniele GRECO,1989-03-01,ITA,5q,"Ataköy Arena, Istanbul (TUR) (i)",2012-03-10,1158.0,triple-jump,jumps,male,senior,triple-jump,field,16.94,TUR,23.0,2012
 4673,16.94,,Bin DONG,1988-11-22,CHN,6q,"Ataköy Arena, Istanbul (TUR) (i)",2012-03-10,1158.0,triple-jump,jumps,male,senior,triple-jump,field,16.94,TUR,23.0,2012
 4673,16.94,0.1,Bin DONG,1988-11-22,CHN,3q2,"Olympic Stadium, London (GBR)",2012-08-07,1158.0,triple-jump,jumps,male,senior,triple-jump,field,16.94,GBR,23.0,2012
-4673,16.94,,Harold CORREA,1988-06-26,FRA,1,Aubiére (FRA) (i),2013-02-16,1158.0,triple-jump,jumps,male,senior,triple-jump,field,16.94,FRA,24.0,2013
+4673,16.94,,Harold CORREA,1988-06-26,FRA,1,Aubière (FRA) (i),2013-02-16,1158.0,triple-jump,jumps,male,senior,triple-jump,field,16.94,FRA,24.0,2013
 4673,16.94,,Gaetan SAKU BAFUANGA,1991-07-22,FRA,1,Metz (FRA) (i),2013-02-24,1158.0,triple-jump,jumps,male,senior,triple-jump,field,16.94,FRA,21.0,2013
 4673,16.94,,Daniele GRECO,1989-03-01,ITA,1q,"Scandinavium, Göteborg (SWE) (i)",2013-03-01,1158.0,triple-jump,jumps,male,senior,triple-jump,field,16.94,SWE,24.0,2013
 4673,16.94,1.8,Jefferson DIAS SABINO,1982-11-04,BRA,1,São Paulo (BRA),2013-06-09,1158.0,triple-jump,jumps,male,senior,triple-jump,field,16.94,BRA,30.0,2013
@@ -5139,7 +5139,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 4995,16.92,1.8,Julien KAPEK,1979-01-12,FRA,3,Albi (FRA),2008-07-25,1156.0,triple-jump,jumps,male,senior,triple-jump,field,16.92,FRA,29.0,2008
 4995,16.92,1.0,Hugo MAMBA-SCHLICK,1982-02-01,CMR,2,Addis Abeba (ETH),2008-05-03,1156.0,triple-jump,jumps,male,senior,triple-jump,field,16.92,ETH,26.0,2008
 4995,16.92,1.2,Jefferson DIAS SABINO,1982-11-04,BRA,1,Ibirapuera (BRA),2008-03-29,1156.0,triple-jump,jumps,male,senior,triple-jump,field,16.92,BRA,25.0,2008
-4995,16.92,,Karl TAILLEPIERRE,1976-08-13,FRA,3,Aubiére (FRA) (i),2011-02-20,1156.0,triple-jump,jumps,male,senior,triple-jump,field,16.92,FRA,34.0,2011
+4995,16.92,,Karl TAILLEPIERRE,1976-08-13,FRA,3,Aubière (FRA) (i),2011-02-20,1156.0,triple-jump,jumps,male,senior,triple-jump,field,16.92,FRA,34.0,2011
 4995,16.92,1.0,Alexey FYODOROV,1991-05-25,RUS,2,Moskva (RUS),2010-06-29,1156.0,triple-jump,jumps,male,senior,triple-jump,field,16.92,RUS,19.0,2010
 4995,16.92,0.7,Tosin OKE,1980-10-01,NGR,1,Calabar (NGR),2010-06-25,1156.0,triple-jump,jumps,male,senior,triple-jump,field,16.92,NGR,29.0,2010
 4995,16.92,0.6,Bo WU,1984-06-17,CHN,3,Bengaluru (IND),2010-06-05,1156.0,triple-jump,jumps,male,senior,triple-jump,field,16.92,IND,25.0,2010
@@ -5337,7 +5337,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 5156,16.91,1.8,Nelson ÉVORA,1984-04-20,POR,1,Avila (ESP),2014-07-13,1155.0,triple-jump,jumps,male,senior,triple-jump,field,16.91,ESP,30.0,2014
 5156,16.91,-0.6,Lázaro MARTÍNEZ,1997-11-03,CUB,2,Veracruz (MEX),2014-11-28,1158.0,triple-jump,jumps,male,senior,triple-jump,field,16.91,MEX,17.0,2014
 5156,16.91,,Alexey FYODOROV,1991-05-25,RUS,2,Moskva (RUS) (i),2015-02-18,1155.0,triple-jump,jumps,male,senior,triple-jump,field,16.91,RUS,23.0,2015
-5156,16.91,,Harold CORREA,1988-06-26,FRA,2,Aubiére (FRA) (i),2016-02-28,1155.0,triple-jump,jumps,male,senior,triple-jump,field,16.91,FRA,27.0,2016
+5156,16.91,,Harold CORREA,1988-06-26,FRA,2,Aubière (FRA) (i),2016-02-28,1155.0,triple-jump,jumps,male,senior,triple-jump,field,16.91,FRA,27.0,2016
 5156,16.91,-0.8,Alexis COPELLO,1985-08-12,AZE,4,"Hayward Field, Eugene, OR (USA)",2016-05-28,1159.0,triple-jump,jumps,male,senior,triple-jump,field,16.91,USA,30.0,2016
 5156,16.91,0.2,Alexis COPELLO,1985-08-12,AZE,1,"Bislett Stadion, Oslo (NOR)",2016-06-09,1155.0,triple-jump,jumps,male,senior,triple-jump,field,16.91,NOR,30.0,2016
 5156,16.91,0.0,Ernesto REVÉ,1992-02-26,CUB,2,La Habana (CUB),2016-06-17,1155.0,triple-jump,jumps,male,senior,triple-jump,field,16.91,CUB,24.0,2016
@@ -5497,7 +5497,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 5303,16.9,,Alexis COPELLO,1985-08-12,CUB,7q,"Ataköy Arena, Istanbul (TUR) (i)",2012-03-10,1154.0,triple-jump,jumps,male,senior,triple-jump,field,16.9,TUR,26.0,2012
 5303,16.9,-0.1,Leevan SANDS,1981-08-16,BAH,1,"Auburn, AL (USA)",2012-04-21,1154.0,triple-jump,jumps,male,senior,triple-jump,field,16.9,USA,30.0,2012
 5303,16.9,1.6,Benjamin COMPAORÉ,1987-08-05,FRA,4,"Bislett Stadion, Oslo (NOR)",2012-06-07,1154.0,triple-jump,jumps,male,senior,triple-jump,field,16.9,NOR,24.0,2012
-5303,16.9,,Karl TAILLEPIERRE,1976-08-13,FRA,1,Aubiére (FRA) (i),2006-02-25,1154.0,triple-jump,jumps,male,senior,triple-jump,field,16.9,FRA,29.0,2006
+5303,16.9,,Karl TAILLEPIERRE,1976-08-13,FRA,1,Aubière (FRA) (i),2006-02-25,1154.0,triple-jump,jumps,male,senior,triple-jump,field,16.9,FRA,29.0,2006
 5303,16.9,1.1,Bo WU,1984-06-17,CHN,3,Shijiazhuang (CHN),2006-08-07,1154.0,triple-jump,jumps,male,senior,triple-jump,field,16.9,CHN,22.0,2006
 5303,16.9,,David GIRAT,1984-08-26,CUB,4,Moskva (RUS) (i),2007-01-28,1154.0,triple-jump,jumps,male,senior,triple-jump,field,16.9,RUS,22.0,2007
 5303,16.9,,Yevgeniy PLOTNIR,1977-06-26,RUS,5,Moskva (RUS) (i),2007-01-28,1154.0,triple-jump,jumps,male,senior,triple-jump,field,16.9,RUS,29.0,2007
@@ -5799,7 +5799,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 5644,16.88,0.4,Donald SCOTT,1992-02-23,USA,4,"China Textile City Sports Centre, Shaoxing/Keqiao (CHN)",2025-05-03,1152.0,triple-jump,jumps,male,senior,triple-jump,field,16.88,CHN,33.0,2025
 5644,16.88,-0.2,Lázaro MARTÍNEZ,1997-11-03,CUB,1,"Estadio Panamericano, La Habana (CUB)",2025-05-23,1153.0,triple-jump,jumps,male,senior,triple-jump,field,16.88,CUB,27.0,2025
 5644,16.88,,Alexey FYODOROV,1991-05-25,RUS,4,"O2 Arena, Praha (CZE) (i)",2015-03-07,1152.0,triple-jump,jumps,male,senior,triple-jump,field,16.88,CZE,23.0,2015
-5644,16.88,,Benjamin COMPAORÉ,1987-08-05,FRA,3,Aubiére (FRA) (i),2016-02-28,1152.0,triple-jump,jumps,male,senior,triple-jump,field,16.88,FRA,28.0,2016
+5644,16.88,,Benjamin COMPAORÉ,1987-08-05,FRA,3,Aubière (FRA) (i),2016-02-28,1152.0,triple-jump,jumps,male,senior,triple-jump,field,16.88,FRA,28.0,2016
 5644,16.88,0.2,Daigo HASEGAWA,1990-02-27,JPN,1,Hiroshima (JPN),2016-04-29,1152.0,triple-jump,jumps,male,senior,triple-jump,field,16.88,JPN,26.0,2016
 5644,16.88,-0.1,Donald SCOTT,1992-02-23,USA,3,Baie Mahault (FRA),2017-05-17,1152.0,triple-jump,jumps,male,senior,triple-jump,field,16.88,FRA,25.0,2017
 5644,16.88,0.4,Pablo TORRIJOS,1992-05-12,ESP,1,Barcelona (ESP),2017-07-22,1152.0,triple-jump,jumps,male,senior,triple-jump,field,16.88,ESP,25.0,2017
@@ -6691,7 +6691,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 6494,16.83,0.0,Arpinder SINGH,1992-12-30,IND,1,Lucknow (IND),2019-08-28,1146.0,triple-jump,jumps,male,senior,triple-jump,field,16.83,IND,26.0,2019
 6494,16.83,,Pablo TORRIJOS,1992-05-12,ESP,7,"Arena Stade Couvert, Liévin (FRA) (i)",2020-02-19,1146.0,triple-jump,jumps,male,senior,triple-jump,field,16.83,FRA,27.0,2020
 6494,16.83,1.4,Wen SU,1999-02-10,CHN,1,"Xinzhuang Training Base, Shanghai (CHN)",2020-08-23,1146.0,triple-jump,jumps,male,senior,triple-jump,field,16.83,CHN,21.0,2020
-6494,16.83,,Karl TAILLEPIERRE,1976-08-13,FRA,2,Aubiére (FRA) (i),2013-02-16,1146.0,triple-jump,jumps,male,senior,triple-jump,field,16.83,FRA,36.0,2013
+6494,16.83,,Karl TAILLEPIERRE,1976-08-13,FRA,2,Aubière (FRA) (i),2013-02-16,1146.0,triple-jump,jumps,male,senior,triple-jump,field,16.83,FRA,36.0,2013
 6494,16.83,0.8,Renjith MAHESWARY,1986-01-30,IND,2,Bangkok (THA),2013-05-04,1146.0,triple-jump,jumps,male,senior,triple-jump,field,16.83,THA,27.0,2013
 6494,16.83,1.4,Ryan GRINNELL,1987-02-04,USA,,Kortrijk (BEL),2013-07-14,1146.0,triple-jump,jumps,male,senior,triple-jump,field,16.83,BEL,26.0,2013
 6494,16.83,0.9,Fabrizio SCHEMBRI,1981-01-27,ITA,5q2,"Luzhniki Stadion, Moskva (RUS)",2013-08-16,1146.0,triple-jump,jumps,male,senior,triple-jump,field,16.83,RUS,32.0,2013
@@ -6986,7 +6986,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 6690,16.82,-0.1,Jérôme ROMAIN,1971-06-12,DMA,5,St-Denis (FRA),1998-06-04,1145.0,triple-jump,jumps,male,senior,triple-jump,field,16.82,FRA,26.0,1998
 6690,16.82,,Maksim MOLOKOV,1977-05-24,RUS,1,Cheboksary (RUS),2004-05-16,1145.0,triple-jump,jumps,male,senior,triple-jump,field,16.82,RUS,26.0,2004
 6690,16.82,,Daniel DONOVICI,1980-03-05,ROU,1,Peania (GRE) (i),2004-02-28,1145.0,triple-jump,jumps,male,senior,triple-jump,field,16.82,GRE,24.0,2004
-6690,16.82,,Sébastien PINCEMAIL,1979-02-21,FRA,2,Aubiére (FRA) (i),2004-02-21,1145.0,triple-jump,jumps,male,senior,triple-jump,field,16.82,FRA,25.0,2004
+6690,16.82,,Sébastien PINCEMAIL,1979-02-21,FRA,2,Aubière (FRA) (i),2004-02-21,1145.0,triple-jump,jumps,male,senior,triple-jump,field,16.82,FRA,25.0,2004
 6690,16.82,,Dmitrij VAĽUKEVIČ,1981-05-31,BLR,1,Bratislava (SVK) (i),2004-01-17,1145.0,triple-jump,jumps,male,senior,triple-jump,field,16.82,SVK,22.0,2004
 6690,16.82,-0.2,Yevgeniy PLOTNIR,1977-06-26,RUS,3,Daegu (KOR),2003-08-30,1146.0,triple-jump,jumps,male,senior,triple-jump,field,16.82,KOR,26.0,2003
 6690,16.82,0.9,Jadel GREGÓRIO,1980-09-16,BRA,4q1,"Stade de France, Paris-St-Denis (FRA)",2003-08-23,1145.0,triple-jump,jumps,male,senior,triple-jump,field,16.82,FRA,22.0,2003

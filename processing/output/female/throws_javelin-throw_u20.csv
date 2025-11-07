@@ -1,0 +1,874 @@
+rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,discipline,type,sex,age_cat
+1,65.89,,Ziyi YAN,22 MAY 2008,CHN,1,"Sports Center, Quzhou (CHN)",03 AUG 2025,1187,javelin-throw,throws,female,u20
+2,64.83,,Ziyi YAN,22 MAY 2008,CHN,1f1,"Sichuan Xipu Training Base, Chengdu (CHN)",28 MAR 2025,1168,javelin-throw,throws,female,u20
+3,64.46,,Ziyi YAN,22 MAY 2008,CHN,1,"National Stadium, Beijing (CHN)",07 SEP 2025,1161,javelin-throw,throws,female,u20
+4,64.41,,Ziyi YAN,22 MAY 2008,CHN,1,"Sports Center, Quzhou (CHN)",14 SEP 2024,1160,javelin-throw,throws,female,u20
+5,64.38,,Ziyi YAN,22 MAY 2008,CHN,1,"Kuishan Sports Center, Rizhao (CHN)",27 SEP 2025,1159,javelin-throw,throws,female,u20
+6,64.28,,Ziyi YAN,22 MAY 2008,CHN,1,"HOC Stadium, Hangzhou (CHN)",14 APR 2024,1157,javelin-throw,throws,female,u20
+7,64.05,,Ziyi YAN,22 MAY 2008,CHN,1f1,"Sichuan Xipu Training Base, Chengdu (CHN)",01 APR 2025,1153,javelin-throw,throws,female,u20
+8,63.96,,Elina TZENGKO,02 SEP 2002,GRE,1,"Zosimades National Stadium, Ioannina (GRE)",01 AUG 2020,1151,javelin-throw,throws,female,u20
+9,63.86,,Yulenmis AGUILAR,03 AUG 1996,CUB,1,Edmonton (CAN),02 AUG 2015,1150,javelin-throw,throws,female,u20
+10,63.52,,Adriana VILAGOŠ,02 JAN 2004,SRB,1,"Pascual Guerrero Stadium, Cali (COL)",02 AUG 2022,1143,javelin-throw,throws,female,u20
+11,63.51,,Ziyi YAN,22 MAY 2008,CHN,1,"Kuishan Sports Center, Rizhao (CHN)",29 JUN 2024,1143,javelin-throw,throws,female,u20
+12,63.05,,Ziyi YAN,22 MAY 2008,CHN,1,"Estadio Atlético de la VIDENA, Lima (PER)",30 AUG 2024,1135,javelin-throw,throws,female,u20
+13,63.01,,Vera REBRIK,25 FEB 1989,UKR,1,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",10 JUL 2008,1134,javelin-throw,throws,female,u20
+14,63.00,,Adriana VILAGOŠ,02 JAN 2004,SRB,3,"Boudewijnstadion, Bruxelles (BEL)",02 SEP 2022,1134,javelin-throw,throws,female,u20
+15,62.96,,Ziyi YAN,22 MAY 2008,CHN,1,"City Stadium, Daqing (CHN)",15 JUN 2024,1133,javelin-throw,throws,female,u20
+16,62.93,,Juan XUE,10 FEB 1986,CHN,1,Changsha (CHN),27 OCT 2003,1132,javelin-throw,throws,female,u20
+17,62.76,,Adriana VILAGOŠ,02 JAN 2004,SRB,1,"Atletski stadion, Sremska Mitrovica (SRB)",11 JUN 2022,1129,javelin-throw,throws,female,u20
+18,62.73,,Ziyi YAN,22 MAY 2008,CHN,1,"Werferzentrum Brandberge, Halle (GER)",24 MAY 2025,1129,javelin-throw,throws,female,u20
+19,62.36,,Adriana VILAGOŠ,02 JAN 2004,SRB,2,"Sports Park Mladost, Zagreb (CRO)",14 SEP 2021,1122,javelin-throw,throws,female,u20
+20,62.23,,Ziyi YAN,22 MAY 2008,CHN,1q1,"Sichuan Xipu Training Base, Chengdu (CHN)",02 APR 2024,1119,javelin-throw,throws,female,u20
+21,62.21,,Elina TZENGKO,02 SEP 2002,GRE,3,"Mestský Stadion Sletište, Kladno (CZE)",16 SEP 2020,1119,javelin-throw,throws,female,u20
+22,62.11,,Maria ANDREJCZYK,09 MAR 1996,POL,1,"Stadion OPO Cetniewo, Władysławowo (POL)",01 AUG 2015,1117,javelin-throw,throws,female,u20
+23,62.09,,Li ZHANG,17 JAN 1989,CHN,1,Beijing (CHN),25 MAY 2008,1117,javelin-throw,throws,female,u20
+24,62.01,,Adriana VILAGOŠ,02 JAN 2004,SRB,2,"Olympiastadion, München (GER)",20 AUG 2022,1115,javelin-throw,throws,female,u20
+25,61.99,,Yaning WANG,04 JAN 1980,CHN,1,Huizhou (CHN),14 OCT 1999,1115,javelin-throw,throws,female,u20
+26,61.96,,Sofi FLINK,08 JUL 1995,SWE,4q1,"Luzhniki Stadion, Moskva (RUS)",16 AUG 2013,1114,javelin-throw,throws,female,u20
+27,61.87,,Adriana VILAGOŠ,02 JAN 2004,SRB,4,"Stade Olympique de la Pontaise, Lausanne (SUI)",30 JUN 2023,1113,javelin-throw,throws,female,u20
+28,61.83,,Ziyi YAN,22 MAY 2008,CHN,1,"Sichuan Xipu Training Base, Chengdu (CHN)",03 APR 2024,1112,javelin-throw,throws,female,u20
+29,61.79,,Nikolett SZABÓ,03 MAR 1980,HUN,1,Schwechat (AUT),23 MAY 1999,1111,javelin-throw,throws,female,u20
+30,61.77,,Li ZHANG,17 JAN 1989,CHN,4q1,"National Stadium, Beijing (CHN)",19 AUG 2008,1111,javelin-throw,throws,female,u20
+31,61.76,,Elina TZENGKO,02 SEP 2002,GRE,1,Patra (GRE),08 AUG 2020,1111,javelin-throw,throws,female,u20
+32,61.65,,Adriana VILAGOŠ,02 JAN 2004,SRB,1,"Wurfplatz Oberaue, Jena (GER)",18 SEP 2021,1109,javelin-throw,throws,female,u20
+33,61.64,,Vera REBRIK,25 FEB 1989,UKR,1,Yalta (UKR),07 MAY 2008,1108,javelin-throw,throws,female,u20
+34,61.61,,Chunfeng CHANG,04 MAY 1988,CHN,1,Chengdu (CHN),04 JUN 2007,1108,javelin-throw,throws,female,u20
+35,61.53,,Elina TZENGKO,02 SEP 2002,GRE,1,"Kaftanzoglio Stadium, Thessaloniki (GRE)",08 JUL 2020,1106,javelin-throw,throws,female,u20
+36,61.52,,Nikolett SZABÓ,03 MAR 1980,HUN,1,"Daugava Stadium, Riga (LAT)",08 AUG 1999,1106,javelin-throw,throws,female,u20
+37,61.49,,Lili LIANG,16 NOV 1983,CHN,1,Benxi (CHN),10 JUN 2002,1106,javelin-throw,throws,female,u20
+38,61.48,,Elina TZENGKO,02 SEP 2002,GRE,1,Halle (GER),01 JUN 2019,1105,javelin-throw,throws,female,u20
+39,61.46,,Adriana VILAGOŠ,02 JAN 2004,SRB,1,"Moi International Sports Centre, Kasarani, Nairobi (KEN)",19 AUG 2021,1105,javelin-throw,throws,female,u20
+40,61.42,,Juan XUE,10 FEB 1986,CHN,2,Macao (MAC),02 NOV 2005,1104,javelin-throw,throws,female,u20
+40,61.42,,Elina TZENGKO,02 SEP 2002,GRE,1,"Atletski stadion, Smederevo (SRB)",26 JUN 2021,1104,javelin-throw,throws,female,u20
+42,61.40,,Sofi FLINK,08 JUL 1995,SWE,1,"Estadio Olímpico, Barcelona (ESP)",11 JUL 2012,1104,javelin-throw,throws,female,u20
+42,61.40,,Ziyi YAN,22 MAY 2008,CHN,1,"Guoxin Sports Center, Qingdao (CHN)",14 MAY 2024,1104,javelin-throw,throws,female,u20
+44,61.38,,Annika SUTHE,15 OCT 1985,GER,1,Halle (GER),23 MAY 2004,1104,javelin-throw,throws,female,u20
+44,61.38,,Haruka KITAGUCHI,16 MAR 1998,JPN,3,"Todoroki Stadium, Kawasaki (JPN)",08 MAY 2016,1104,javelin-throw,throws,female,u20
+46,61.31,,Ziyi YAN,22 MAY 2008,CHN,1,"Sichuan Xipu Training Base, Chengdu (CHN)",30 MAR 2024,1102,javelin-throw,throws,female,u20
+47,61.24,,Marcelina WITEK,02 JUN 1995,POL,1,Bialogard (POL),06 SEP 2014,1101,javelin-throw,throws,female,u20
+48,61.22,,Adriana VILAGOŠ,02 JAN 2004,SRB,2,"Mestský Stadion, Ostrava (CZE)",27 JUN 2023,1101,javelin-throw,throws,female,u20
+49,61.18,,Elina TZENGKO,02 SEP 2002,GRE,1,"Kadrioru staadion, Tallinn (EST)",18 JUL 2021,1100,javelin-throw,throws,female,u20
+50,61.07,,Haruka KITAGUCHI,16 MAR 1998,JPN,1,Matsuyama (JPN),08 OCT 2017,1098,javelin-throw,throws,female,u20
+51,61.06,,Juan XUE,10 FEB 1986,CHN,1q1,Changsha (CHN),23 OCT 2003,1098,javelin-throw,throws,female,u20
+52,61.00,,Adriana VILAGOŠ,02 JAN 2004,SRB,1,"Stadion Park Mladeži, Split (CRO)",07 MAY 2023,1097,javelin-throw,throws,female,u20
+53,60.96,,Sofi FLINK,08 JUL 1995,SWE,1,Sollentuna (SWE),27 JUN 2013,1096,javelin-throw,throws,female,u20
+54,60.94,,Adriana VILAGOŠ,02 JAN 2004,SRB,2,"Atletski stadion, Smederevo (SRB)",26 JUN 2021,1095,javelin-throw,throws,female,u20
+54,60.94,,Adriana VILAGOŠ,02 JAN 2004,SRB,4,"ETSV Stadion, Offenburg (GER)",15 MAY 2022,1095,javelin-throw,throws,female,u20
+56,60.90,,Lili LIANG,16 NOV 1983,CHN,2,Shenyang (CHN),18 JUN 1999,1095,javelin-throw,throws,female,u20
+56,60.90,,Juan XUE,10 FEB 1986,CHN,1,Nanning (CHN),17 APR 2004,1095,javelin-throw,throws,female,u20
+58,60.88,,Chunfeng CHANG,04 MAY 1988,CHN,1,Suzhou (CHN),10 JUN 2007,1094,javelin-throw,throws,female,u20
+59,60.84,,Haruka KITAGUCHI,16 MAR 1998,JPN,1,Sapporo (JPN),10 JUL 2016,1094,javelin-throw,throws,female,u20
+59,60.84,,Yiselena BALLAR ROJAS,12 JAN 2003,CUB,1,"Estadio Panamericano, La Habana (CUB)",21 MAY 2021,1094,javelin-throw,throws,female,u20
+61,60.80,,Elina TZENGKO,02 SEP 2002,GRE,1,Thessaloniki (GRE),19 JUL 2020,1093,javelin-throw,throws,female,u20
+62,60.78,,Adriana VILAGOŠ,02 JAN 2004,SRB,1,"Atletski stadion, Sremska Mitrovica (SRB)",04 SEP 2021,1092,javelin-throw,throws,female,u20
+63,60.77,,Maria ANDREJCZYK,09 MAR 1996,POL,1,Słupsk (POL),19 SEP 2015,1092,javelin-throw,throws,female,u20
+64,60.73,,Yiselena BALLAR ROJAS,12 JAN 2003,CUB,1,"Estadio Panamericano, La Habana (CUB)",04 JUN 2021,1091,javelin-throw,throws,female,u20
+65,60.72,,Adriana VILAGOŠ,02 JAN 2004,SRB,1,"Estádio Dr. Magalhães Pessoa, Leiria (POR)",12 MAR 2022,1091,javelin-throw,throws,female,u20
+65,60.72,,Adriana VILAGOŠ,02 JAN 2004,SRB,1,Split (CRO),30 APR 2022,1091,javelin-throw,throws,female,u20
+67,60.69,,Lili LIANG,16 NOV 1983,CHN,1,Shunde (CHN),14 APR 2002,1091,javelin-throw,throws,female,u20
+68,60.68,,Dan SONG,05 JUL 1990,CHN,1,Chengdu (CHN),30 MAR 2008,1091,javelin-throw,throws,female,u20
+69,60.66,,Sofi FLINK,08 JUL 1995,SWE,1,Stockholm (SWE),07 SEP 2013,1090,javelin-throw,throws,female,u20
+70,60.64,,Līna MŪZE,04 DEC 1992,LAT,1,Riga (LAT),02 JUN 2011,1090,javelin-throw,throws,female,u20
+71,60.62,,Adriana VILAGOŠ,02 JAN 2004,SRB,1q2,"Kadrioru staadion, Tallinn (EST)",17 JUL 2021,1089,javelin-throw,throws,female,u20
+71,60.62,,Adriana VILAGOŠ,02 JAN 2004,SRB,1,"Atletski Stadion, Kraljevo (SRB)",22 JUL 2023,1089,javelin-throw,throws,female,u20
+73,60.57,,Nikolett SZABÓ,03 MAR 1980,HUN,6,Linz (AUT),26 JUL 1999,1089,javelin-throw,throws,female,u20
+74,60.54,,Ziyi YAN,22 MAY 2008,CHN,5,"China Textile City Sports Centre, Shaoxing/Keqiao (CHN)",03 MAY 2025,1088,javelin-throw,throws,female,u20
+75,60.52,,Yulenmis AGUILAR,03 AUG 1996,CUB,10q2,"National Stadium, Beijing (CHN)",28 AUG 2015,1088,javelin-throw,throws,female,u20
+76,60.51,,Adriana VILAGOŠ,02 JAN 2004,SRB,1,"Stadionul de atletism ""Nicolae Mărășescu"", Craiova (ROU)",18 JUN 2022,1087,javelin-throw,throws,female,u20
+77,60.49,,Haruka KITAGUCHI,16 MAR 1998,JPN,1,Fukui (JPN),08 SEP 2017,1087,javelin-throw,throws,female,u20
+78,60.46,,Adriana VILAGOŠ,02 JAN 2004,SRB,1,"Atletski stadion, Sremska Mitrovica (SRB)",11 APR 2021,1086,javelin-throw,throws,female,u20
+79,60.45,,Sandra SCHAFFARZIK,22 JUN 1987,GER,1,"Chaoyang Sport Center, Beijing (CHN)",19 AUG 2006,1086,javelin-throw,throws,female,u20
+80,60.44,,Adriana VILAGOŠ,02 JAN 2004,SRB,2,"Kadrioru staadion, Tallinn (EST)",18 JUL 2021,1086,javelin-throw,throws,female,u20
+81,60.43,,Elina TZENGKO,02 SEP 2002,GRE,1,"Pampeloponnisiako Stadium, Patra (GRE)",05 JUN 2021,1086,javelin-throw,throws,female,u20
+82,60.35,,Tatjana JELAČA,10 AUG 1990,SRB,1,"Karađorđe Stadium, Novi Sad (SRB)",26 JUL 2009,1084,javelin-throw,throws,female,u20
+83,60.27,,Ziyi YAN,22 MAY 2008,CHN,1,"Sports Center, Yulin (CHN)",11 JUL 2025,1083,javelin-throw,throws,female,u20
+84,60.25,,Nikolett SZABÓ,03 MAR 1980,HUN,2,Chemnitz (GER),02 JUN 1999,1083,javelin-throw,throws,female,u20
+84,60.25,,Lili LIANG,16 NOV 1983,CHN,1,Baoding (CHN),08 SEP 2002,1083,javelin-throw,throws,female,u20
+86,60.22,,Adriana VILAGOŠ,02 JAN 2004,SRB,1,"Stadion Park Mladeži, Split (CRO)",09 MAY 2021,1082,javelin-throw,throws,female,u20
+86,60.22,,Adriana VILAGOŠ,02 JAN 2004,SRB,1,"Stade Complexe Olympique, Oran (ALG)",02 JUL 2022,1082,javelin-throw,throws,female,u20
+88,60.17,,Adriana VILAGOŠ,02 JAN 2004,SRB,3,"Sports Park Mladost, Zagreb (CRO)",11 SEP 2022,1081,javelin-throw,throws,female,u20
+89,60.14,,Vivian ZIMMER,22 JUL 1987,GER,1,Heilbronn (GER),31 JUL 2004,1081,javelin-throw,throws,female,u20
+90,60.13,,Adriana VILAGOŠ,02 JAN 2004,SRB,1,"Atletski Stadion, Kruševac (SRB)",10 JUL 2022,1080,javelin-throw,throws,female,u20
+91,60.08,,Juan XUE,10 FEB 1986,CHN,1,Shijiazhuang (CHN),23 MAY 2004,1079,javelin-throw,throws,female,u20
+92,60.07,,Yiselena BALLAR ROJAS,12 JAN 2003,CUB,1,"Estadio Universitario, Lisboa (POR)",10 JUN 2022,1079,javelin-throw,throws,female,u20
+93,60.06,,Anastasiya SVECHNIKOVA,20 SEP 1992,UZB,1,Tashkent (UZB),30 SEP 2011,1079,javelin-throw,throws,female,u20
+94,60.01,,Anete KOCIŅA,05 FEB 1996,LAT,2,Ventspils (LAT),08 AUG 2015,1078,javelin-throw,throws,female,u20
+95,60.00,,Lili LIANG,16 NOV 1983,CHN,1,Shanghai (CHN),18 MAY 2002,1078,javelin-throw,throws,female,u20
+95,60.00,,Adriana VILAGOŠ,02 JAN 2004,SRB,1,"Atletski Stadion, Kruševac (SRB)",25 JUN 2022,1078,javelin-throw,throws,female,u20
+97,59.97,,Juan XUE,10 FEB 1986,CHN,1,Guilin (CHN),22 APR 2004,1077,javelin-throw,throws,female,u20
+97,59.97,,Adriana VILAGOŠ,02 JAN 2004,SRB,1,"Atletski stadion, Sremska Mitrovica (SRB)",25 SEP 2021,1077,javelin-throw,throws,female,u20
+99,59.96,,Li ZHANG,17 JAN 1989,CHN,1,Hyderabad (IND),18 OCT 2007,1077,javelin-throw,throws,female,u20
+99,59.96,,Vera REBRIK,25 FEB 1989,UKR,2,Kyiv (UKR),01 JUL 2008,1077,javelin-throw,throws,female,u20
+101,59.89,,Dan SONG,05 JUL 1990,CHN,1,Wuhan (CHN),02 NOV 2007,1076,javelin-throw,throws,female,u20
+102,59.87,,Juan XUE,10 FEB 1986,CHN,2,Nanjing (CHN),17 OCT 2005,1076,javelin-throw,throws,female,u20
+103,59.84,,Sofi FLINK,08 JUL 1995,SWE,6,"Letzigrund, Zürich (SUI)",29 AUG 2013,1075,javelin-throw,throws,female,u20
+104,59.83,,Adriana VILAGOŠ,02 JAN 2004,SRB,3f1,"Estádio Dr. Magalhães Pessoa, Leiria (POR)",11 MAR 2023,1075,javelin-throw,throws,female,u20
+105,59.82,,Lili LIANG,16 NOV 1983,CHN,3,Guangzhou (CHN),23 NOV 2001,1075,javelin-throw,throws,female,u20
+106,59.80,,Adriana VILAGOŠ,02 JAN 2004,SRB,3,"Mestský Stadion, Ostrava (CZE)",31 MAY 2022,1074,javelin-throw,throws,female,u20
+107,59.79,,Lili LIANG,16 NOV 1983,CHN,1,Jinan (CHN),13 MAY 2001,1074,javelin-throw,throws,female,u20
+107,59.79,,Yiselena BALLAR ROJAS,12 JAN 2003,CUB,1,"Estadio Panamericano, La Habana (CUB)",28 MAY 2021,1074,javelin-throw,throws,female,u20
+109,59.74,,Christin HUSSONG,17 MAR 1994,GER,1,Lille (FRA),07 JUL 2011,1073,javelin-throw,throws,female,u20
+110,59.73,,Maria ANDREJCZYK,09 MAR 1996,POL,1,"Ekängens Friidrottsarena, Eskilstuna (SWE)",19 JUL 2015,1073,javelin-throw,throws,female,u20
+111,59.72,,Juan XUE,10 FEB 1986,CHN,1,Changsha (CHN),25 JUN 2005,1073,javelin-throw,throws,female,u20
+112,59.66,,Sofi FLINK,08 JUL 1995,SWE,5,"Olympiastadion, Stockholm (SWE)",22 AUG 2013,1072,javelin-throw,throws,female,u20
+113,59.65,,Mariya YAKOVENKO,06 JAN 1982,RUS,1,"Adler, Sochi (RUS)",12 FEB 2000,1071,javelin-throw,throws,female,u20
+113,59.65,,Līna MŪZE,04 DEC 1992,LAT,1,Jékabpils (LAT),09 JUL 2011,1071,javelin-throw,throws,female,u20
+115,59.64,,Vera REBRIK,25 FEB 1989,UKR,1,Thessaloniki (GRE),02 JUL 2006,1071,javelin-throw,throws,female,u20
+116,59.60,,Elina TZENGKO,02 SEP 2002,GRE,2,"Moi International Sports Centre, Kasarani, Nairobi (KEN)",19 AUG 2021,1071,javelin-throw,throws,female,u20
+117,59.59,,Haruka KITAGUCHI,16 MAR 1998,JPN,5,"Todoroki Stadium, Kawasaki (JPN)",21 MAY 2017,1070,javelin-throw,throws,female,u20
+118,59.58,,Yiselena BALLAR ROJAS,12 JAN 2003,CUB,1,"Estadio Panamericano, La Habana (CUB)",18 JUN 2021,1070,javelin-throw,throws,female,u20
+119,59.54,,Maria ANDREJCZYK,09 MAR 1996,POL,1,Kolobrzeg (POL),18 SEP 2015,1069,javelin-throw,throws,female,u20
+120,59.53,,Mariya ABAKUMOVA,15 JAN 1986,RUS,1,"Adler, Sochi (RUS)",20 FEB 2005,1069,javelin-throw,throws,female,u20
+120,59.53,,Mariya ABAKUMOVA,15 JAN 1986,RUS,1,Tula (RUS),03 JUL 2005,1069,javelin-throw,throws,female,u20
+122,59.52,,Sofi FLINK,08 JUL 1995,SWE,9,"Luzhniki Stadion, Moskva (RUS)",18 AUG 2013,1069,javelin-throw,throws,female,u20
+122,59.52,,Anni-Linnea ALANEN,11 NOV 2002,FIN,1,"Kaarlen kenttä, Vaasa (FIN)",29 JUN 2021,1069,javelin-throw,throws,female,u20
+124,59.48,,Galina KAKHOVA,26 MAR 1982,BLR,1,Minsk (BLR),29 JUN 2001,1068,javelin-throw,throws,female,u20
+125,59.45,,Lili LIANG,16 NOV 1983,CHN,1,Deyang (CHN),12 MAY 2002,1068,javelin-throw,throws,female,u20
+126,59.42,,Elina TZENGKO,02 SEP 2002,GRE,1,Edessa (GRE),29 MAY 2019,1067,javelin-throw,throws,female,u20
+127,59.41,,Lili LIANG,16 NOV 1983,CHN,3,Shijiazhuang (CHN),24 APR 1999,1067,javelin-throw,throws,female,u20
+127,59.41,,Annika SUTHE,15 OCT 1985,GER,3,Braunschweig (GER),10 JUL 2004,1067,javelin-throw,throws,female,u20
+129,59.40,,Yiselena BALLAR ROJAS,12 JAN 2003,CUB,2,"Polideportivo Municipal, Andújar (ESP)",04 JUN 2022,1067,javelin-throw,throws,female,u20
+130,59.39,,Yiselena BALLAR ROJAS,12 JAN 2003,CUB,1,"Estadio Panamericano, La Habana (CUB)",11 JUN 2021,1067,javelin-throw,throws,female,u20
+131,59.33,,Lili LIANG,16 NOV 1983,CHN,1,Luohe (CHN),22 OCT 2000,1066,javelin-throw,throws,female,u20
+132,59.28,,Juanna WANG,03 JAN 1980,CHN,1,Zhuhai (CHN),20 MAR 1999,1065,javelin-throw,throws,female,u20
+133,59.25,,Juan XUE,10 FEB 1986,CHN,1q,Changsha (CHN),24 JUN 2005,1064,javelin-throw,throws,female,u20
+133,59.25,,Lingyu LI,26 JAN 1989,CHN,2,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",10 JUL 2008,1064,javelin-throw,throws,female,u20
+135,59.20,,Shiying LIU,24 SEP 1993,CHN,2,"Estadio Olímpico, Barcelona (ESP)",11 JUL 2012,1063,javelin-throw,throws,female,u20
+136,59.18,,Yulenmis AGUILAR,03 AUG 1996,CUB,1,La Habana (CUB),28 MAY 2015,1063,javelin-throw,throws,female,u20
+137,59.16,,Xinjie GU,02 FEB 2001,CHN,2,Zhaoqing (CHN),09 APR 2019,1062,javelin-throw,throws,female,u20
+138,59.12,,Mariya ABAKUMOVA,15 JAN 1986,RUS,4,Halle (GER),21 MAY 2005,1062,javelin-throw,throws,female,u20
+139,59.09,,Dan SONG,05 JUL 1990,CHN,1,Dazhou (CHN),17 AUG 2006,1061,javelin-throw,throws,female,u20
+140,59.08,,Haruka KITAGUCHI,16 MAR 1998,JPN,2,Hiratsuka (JPN),09 JUN 2017,1061,javelin-throw,throws,female,u20
+141,59.06,,Mariya ABAKUMOVA,15 JAN 1986,RUS,2f1,Mersin (TUR),13 MAR 2005,1061,javelin-throw,throws,female,u20
+142,59.05,,Vera REBRIK,25 FEB 1989,UKR,9q1,"National Stadium, Beijing (CHN)",19 AUG 2008,1060,javelin-throw,throws,female,u20
+143,59.01,,Adriana VILAGOŠ,02 JAN 2004,SRB,1,"Karađorđe Stadium, Novi Sad (SRB)",15 SEP 2022,1060,javelin-throw,throws,female,u20
+144,58.98,,Kihou KUZE,28 MAR 1995,JPN,2,Tokyo (JPN),07 JUN 2013,1059,javelin-throw,throws,female,u20
+144,58.98,,Mckyla VAN DER WESTHUIZEN,11 MAR 2004,RSA,2,"Germiston Stadium, Johannesburg (RSA)",13 APR 2022,1059,javelin-throw,throws,female,u20
+146,58.96,,Juleisy ANGULO,02 JAN 2001,ECU,1,San José (CRC),21 JUL 2019,1059,javelin-throw,throws,female,u20
+147,58.95,,Eda TUĞSUZ,27 MAR 1997,TUR,1,Mersin (TUR),23 MAY 2016,1059,javelin-throw,throws,female,u20
+148,58.93,,Adriana VILAGOŠ,02 JAN 2004,SRB,4f1,"Stadion Śląski, Chorzów (POL)",22 JUN 2023,1058,javelin-throw,throws,female,u20
+149,58.90,,Nikolett SZABÓ,03 MAR 1980,HUN,1q,"Daugava Stadium, Riga (LAT)",07 AUG 1999,1058,javelin-throw,throws,female,u20
+149,58.90,,Mariya ABAKUMOVA,15 JAN 1986,RUS,1,Sochi (RUS),27 MAY 2005,1058,javelin-throw,throws,female,u20
+149,58.90,,Elina TZENGKO,02 SEP 2002,GRE,1q1,"Kadrioru staadion, Tallinn (EST)",17 JUL 2021,1058,javelin-throw,throws,female,u20
+152,58.89,,Jelena JAAKKOLA,07 MAR 1989,FIN,1,Kuortane (FIN),25 MAY 2008,1057,javelin-throw,throws,female,u20
+153,58.88,,Li ZHANG,17 JAN 1989,CHN,1,Yantai (CHN),13 OCT 2006,1057,javelin-throw,throws,female,u20
+153,58.88,,Anete KOCIŅA,05 FEB 1996,LAT,2,"Ekängens Friidrottsarena, Eskilstuna (SWE)",19 JUL 2015,1057,javelin-throw,throws,female,u20
+155,58.87,,Lingyu LI,26 JAN 1989,CHN,1,Yichun (CHN),13 MAY 2006,1057,javelin-throw,throws,female,u20
+155,58.87,,Adriana VILAGOŠ,02 JAN 2004,SRB,1q1,"Pascual Guerrero Stadium, Cali (COL)",01 AUG 2022,1057,javelin-throw,throws,female,u20
+157,58.86,,Līna MŪZE,04 DEC 1992,LAT,1,Riga (LAT),20 MAY 2011,1057,javelin-throw,throws,female,u20
+158,58.84,,Anete KOCIŅA,05 FEB 1996,LAT,2,Valmiera (LAT),31 JUL 2015,1056,javelin-throw,throws,female,u20
+159,58.81,,Juan XUE,10 FEB 1986,CHN,1,Yixing (CHN),21 MAY 2005,1056,javelin-throw,throws,female,u20
+159,58.81,,Yanet CRUZ,08 FEB 1988,CUB,3,La Habana (CUB),27 MAY 2007,1056,javelin-throw,throws,female,u20
+161,58.77,,Lili LIANG,16 NOV 1983,CHN,2,Busan (KOR),07 OCT 2002,1055,javelin-throw,throws,female,u20
+161,58.77,,Tatjana JELAČA,10 AUG 1990,SRB,3,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",10 JUL 2008,1055,javelin-throw,throws,female,u20
+163,58.74,,Vivian ZIMMER,22 JUL 1987,GER,3f1,Mersin (TUR),13 MAR 2005,1055,javelin-throw,throws,female,u20
+164,58.72,,Chunfeng CHANG,04 MAY 1988,CHN,2q,Shijiazhuang (CHN),06 AUG 2006,1054,javelin-throw,throws,female,u20
+164,58.72,,Maria ANDREJCZYK,09 MAR 1996,POL,3,Bottrop (GER),21 JUN 2015,1054,javelin-throw,throws,female,u20
+164,58.72,,Elina TZENGKO,02 SEP 2002,GRE,7f1,"Stadion Park Mladeži, Split (CRO)",09 MAY 2021,1054,javelin-throw,throws,female,u20
+167,58.70,,Annika SUTHE,15 OCT 1985,GER,10q2,"Olympic Stadium, Athina (GRE)",25 AUG 2004,1054,javelin-throw,throws,female,u20
+167,58.70,,Aliaksandra KONSHYNA,14 AUG 2001,BLR,1,Minsk (BLR),09 FEB 2019,1054,javelin-throw,throws,female,u20
+167,58.70,,Mirja LUKAS,01 APR 2005,GER,1,"Grenzlandstadion, Mönchengladbach (GER)",06 JUL 2024,1054,javelin-throw,throws,female,u20
+170,58.69,,Juan XUE,10 FEB 1986,CHN,1q,Shijiazhuang (CHN),23 MAY 2004,1054,javelin-throw,throws,female,u20
+171,58.67,,Adriana VILAGOŠ,02 JAN 2004,SRB,2,"Atletski Stadion, Kraljevo (SRB)",05 JUN 2021,1053,javelin-throw,throws,female,u20
+172,58.66,,Vera REBRIK,25 FEB 1989,UKR,1q2,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",08 JUL 2008,1053,javelin-throw,throws,female,u20
+173,58.65,,Vera REBRIK,25 FEB 1989,UKR,2,Kyiv (UKR),31 MAY 2008,1053,javelin-throw,throws,female,u20
+173,58.65,,Adriana VILAGOŠ,02 JAN 2004,SRB,9q1,"Nemzeti Atlétikai Központ, Budapest (HUN)",23 AUG 2023,1053,javelin-throw,throws,female,u20
+175,58.64,,Adriana VILAGOŠ,02 JAN 2004,SRB,1,"Atletski stadion, Sremska Mitrovica (SRB)",28 MAR 2021,1053,javelin-throw,throws,female,u20
+176,58.62,,Nikolett SZABÓ,03 MAR 1980,HUN,1,Budapest (HUN),24 JUL 1999,1052,javelin-throw,throws,female,u20
+176,58.62,,Anastasiya SVECHNIKOVA,20 SEP 1992,UZB,1,Tashkent (UZB),28 SEP 2010,1052,javelin-throw,throws,female,u20
+178,58.61,,Lili LIANG,16 NOV 1983,CHN,1,Wuxi (CHN),22 MAY 2002,1052,javelin-throw,throws,female,u20
+179,58.60,,Mariya ABAKUMOVA,15 JAN 1986,RUS,2,"Adler, Sochi (RUS)",19 FEB 2005,1052,javelin-throw,throws,female,u20
+180,58.59,,Dan SONG,05 JUL 1990,CHN,3,Shijiazhuang (CHN),07 AUG 2006,1052,javelin-throw,throws,female,u20
+180,58.59,,Yekaterina STARYGINA,26 AUG 1995,RUS,1,Yerino (RUS),02 JUN 2013,1052,javelin-throw,throws,female,u20
+182,58.58,,Dan SONG,05 JUL 1990,CHN,1,Taian (CHN),03 NOV 2008,1052,javelin-throw,throws,female,u20
+183,58.55,,Christin HUSSONG,17 MAR 1994,GER,5,Elstal (GER),25 AUG 2013,1051,javelin-throw,throws,female,u20
+184,58.50,,Vivian ZIMMER,22 JUL 1987,GER,1,"Stadio Zecchini, Grosseto (ITA)",15 JUL 2004,1050,javelin-throw,throws,female,u20
+184,58.50,,Tatjana JELAČA,10 AUG 1990,SRB,1,Beograd (SRB),29 MAY 2009,1050,javelin-throw,throws,female,u20
+186,58.48,,Vera REBRIK,25 FEB 1989,UKR,1,"FBK Stadium, Hengelo (NED)",21 JUL 2007,1050,javelin-throw,throws,female,u20
+187,58.47,,Shiying LIU,24 SEP 1993,CHN,1q2,"Estadio Olímpico, Barcelona (ESP)",10 JUL 2012,1050,javelin-throw,throws,female,u20
+187,58.47,,Carolina VISCA,31 MAY 2000,ITA,1,"Bressanone, Trentino-Alto Adige (ITA)",28 JUL 2019,1050,javelin-throw,throws,female,u20
+189,58.45,,Lili LIANG,16 NOV 1983,CHN,2,Chengdu (CHN),30 JUN 2001,1049,javelin-throw,throws,female,u20
+190,58.44,,Nikolett SZABÓ,03 MAR 1980,HUN,1,Zalaegerszeg (HUN),16 MAY 1999,1049,javelin-throw,throws,female,u20
+190,58.44,,Christin HUSSONG,17 MAR 1994,GER,1,Rostock (GER),27 JUL 2013,1049,javelin-throw,throws,female,u20
+190,58.44,,Sofi FLINK,08 JUL 1995,SWE,1f1,Pihtipudas (FIN),29 JUN 2014,1049,javelin-throw,throws,female,u20
+193,58.43,,Lili LIANG,16 NOV 1983,CHN,5q2,"La Cartuja, Sevilla (ESP)",26 AUG 1999,1049,javelin-throw,throws,female,u20
+193,58.43,,Chunfeng CHANG,04 MAY 1988,CHN,1,Shijiazhuang (CHN),02 AUG 2007,1049,javelin-throw,throws,female,u20
+193,58.43,,Yiselena BALLAR ROJAS,12 JAN 2003,CUB,1,"Estadio Panamericano, La Habana (CUB)",07 AUG 2021,1049,javelin-throw,throws,female,u20
+196,58.38,,Adriana VILAGOŠ,02 JAN 2004,SRB,1,"Givat Ram Stadium, Jerusalem (ISR)",10 AUG 2023,1048,javelin-throw,throws,female,u20
+197,58.35,,Manuela ROTUNDO,19 JUL 2004,URU,6,Santiago de Chile (CHI),03 NOV 2023,1047,javelin-throw,throws,female,u20
+198,58.34,,Sofi FLINK,08 JUL 1995,SWE,6,"Suhaim bin Hamad Stadium, Doha (QAT)",09 MAY 2014,1047,javelin-throw,throws,female,u20
+199,58.33,,Sunette VILJOEN,06 OCT 1983,RSA,1,Potchefstroom (RSA),07 DEC 2002,1047,javelin-throw,throws,female,u20
+200,58.31,,Géraldine RUCKSTUHL,24 FEB 1998,SUI,2ce1,"Mösle-Stadium, Götzis (AUT)",28 MAY 2017,1047,javelin-throw,throws,female,u20
+201,58.30,,Mariya ABAKUMOVA,15 JAN 1986,RUS,q,Tula (RUS),02 JUL 2005,1046,javelin-throw,throws,female,u20
+201,58.30,,Veronika ŠOKOTA,09 MAR 2004,CRO,1,Zagreb (CRO),04 SEP 2022,1046,javelin-throw,throws,female,u20
+203,58.26,,Mariya ABAKUMOVA,15 JAN 1986,RUS,1,Cheboksary (RUS),26 JUN 2004,1046,javelin-throw,throws,female,u20
+203,58.26,,Mckyla VAN DER WESTHUIZEN,11 MAR 2004,RSA,1,"McArthur Stadium, Potchefstroom (RSA)",06 APR 2022,1046,javelin-throw,throws,female,u20
+205,58.20,,Yiselena BALLAR ROJAS,12 JAN 2003,CUB,1,"Estadio Panamericano, La Habana (CUB)",31 JUL 2021,1045,javelin-throw,throws,female,u20
+205,58.20,,Ziyi YAN,22 MAY 2008,CHN,2,"Olympic Sports Center, Chongqing (CHN)",29 MAY 2024,1045,javelin-throw,throws,female,u20
+207,58.19,,Juan XUE,10 FEB 1986,CHN,1,Chongqing (CHN),15 MAY 2005,1044,javelin-throw,throws,female,u20
+208,58.18,,Dan SONG,05 JUL 1990,CHN,1q1,Beijing (CHN),24 MAY 2008,1044,javelin-throw,throws,female,u20
+209,58.16,,Beibei DU,06 JAN 1983,CHN,3,Chengdu (CHN),30 JUN 2001,1044,javelin-throw,throws,female,u20
+209,58.16,,Dan SONG,05 JUL 1990,CHN,1,Suzhou (CHN),29 JUN 2008,1044,javelin-throw,throws,female,u20
+209,58.16,,Sofi FLINK,08 JUL 1995,SWE,2q2,"Estadio Olímpico, Barcelona (ESP)",10 JUL 2012,1044,javelin-throw,throws,female,u20
+212,58.14,,Sofi FLINK,08 JUL 1995,SWE,1,Västerås (SWE),11 AUG 2013,1044,javelin-throw,throws,female,u20
+213,58.13,,Eda TUĞSUZ,27 MAR 1997,TUR,9q1,"Olympisch Stadion, Amsterdam (NED)",07 JUL 2016,1043,javelin-throw,throws,female,u20
+213,58.13,,Fanni KÖVÉR,15 FEB 2004,HUN,1,"Nyíregyházi Atlétikai Centrum, Nyíregyháza (HUN)",11 JUN 2023,1043,javelin-throw,throws,female,u20
+215,58.12,,Adriana VILAGOŠ,02 JAN 2004,SRB,1,"Atletski stadion, Sremska Mitrovica (SRB)",02 APR 2022,1043,javelin-throw,throws,female,u20
+216,58.08,,Beibei DU,06 JAN 1983,CHN,2,Jinan (CHN),13 MAY 2001,1042,javelin-throw,throws,female,u20
+217,58.06,,Li ZHANG,17 JAN 1989,CHN,4,Torino (ITA),06 JUN 2006,1042,javelin-throw,throws,female,u20
+218,58.03,,Chunhua LIU,01 OCT 1986,CHN,1,Changchun (CHN),21 JUN 2003,1041,javelin-throw,throws,female,u20
+219,58.02,,Melissa M. HERNÁNDEZ,16 MAR 2001,CUB,1,"Estadio Panamericano, La Habana (CUB)",06 MAR 2020,1041,javelin-throw,throws,female,u20
+220,58.00,,Li ZHANG,17 JAN 1989,CHN,1,Hangzhou (CHN),11 APR 2008,1041,javelin-throw,throws,female,u20
+221,57.98,,Annika SUTHE,15 OCT 1985,GER,1,Mannheim (GER),20 JUN 2004,1041,javelin-throw,throws,female,u20
+221,57.98,,Maria ZERVA,10 AUG 1987,GRE,2,Trikala (GRE),11 JUN 2006,1041,javelin-throw,throws,female,u20
+221,57.98,,Yiselena BALLAR ROJAS,12 JAN 2003,CUB,1,"Estadio Panamericano, La Habana (CUB)",19 JUN 2022,1041,javelin-throw,throws,female,u20
+224,57.97,,Vera REBRIK,25 FEB 1989,UKR,1,Valmiera (LAT),17 AUG 2007,1040,javelin-throw,throws,female,u20
+224,57.97,,Kihou KUZE,28 MAR 1995,JPN,1,Kumagaya (JPN),05 SEP 2014,1040,javelin-throw,throws,female,u20
+226,57.96,,Haruka KITAGUCHI,16 MAR 1998,JPN,1q2,"Taipei Municipal Stadium, Taipei City (TPE)",23 AUG 2017,1040,javelin-throw,throws,female,u20
+227,57.95,,Fanni KÖVÉR,15 FEB 2004,HUN,1,"Sportcentrum, Pápa (HUN)",02 JUL 2022,1040,javelin-throw,throws,female,u20
+228,57.94,,Juleisy ANGULO,02 JAN 2001,ECU,3,Cali (COL),22 JUN 2019,1040,javelin-throw,throws,female,u20
+228,57.94,,Ting LI,31 DEC 2002,CHN,4,Zhaoqing (CHN),24 APR 2021,1040,javelin-throw,throws,female,u20
+230,57.93,,Juan XUE,10 FEB 1986,CHN,1,Chengdu (CHN),20 MAR 2004,1040,javelin-throw,throws,female,u20
+230,57.93,,Carolina VISCA,31 MAY 2000,ITA,3,Pescara (ITA),09 SEP 2018,1040,javelin-throw,throws,female,u20
+230,57.93,,Anni-Linnea ALANEN,11 NOV 2002,FIN,2,"Ratinan Stadion, Tampere (FIN)",28 AUG 2021,1040,javelin-throw,throws,female,u20
+233,57.92,,Lili LIANG,16 NOV 1983,CHN,2,Xi'an (CHN),18 SEP 1999,1039,javelin-throw,throws,female,u20
+233,57.92,,Maria ZERVA,10 AUG 1987,GRE,1q,"S. Darius & S. Girėnas Stadium, Kaunas (LTU)",23 JUL 2005,1039,javelin-throw,throws,female,u20
+233,57.92,,Elina TZENGKO,02 SEP 2002,GRE,2,"Stadion Juliska, Praha (CZE)",07 JUN 2021,1039,javelin-throw,throws,female,u20
+233,57.92,,Adriana VILAGOŠ,02 JAN 2004,SRB,1,Beograd (SRB),19 MAR 2023,1039,javelin-throw,throws,female,u20
+237,57.91,,Sofi FLINK,08 JUL 1995,SWE,1,"Stadio Guidobaldi, Rieti (ITA)",21 JUL 2013,1039,javelin-throw,throws,female,u20
+237,57.91,,Maria ANDREJCZYK,09 MAR 1996,POL,3,Warszawa (POL),26 JUL 2015,1039,javelin-throw,throws,female,u20
+237,57.91,,Julia VALTANEN,06 MAY 2001,FIN,1,"Ratinan Stadion, Tampere (FIN)",05 SEP 2020,1039,javelin-throw,throws,female,u20
+240,57.90,,Ning MA,04 NOV 1983,CHN,2,Baoding (CHN),08 SEP 2002,1039,javelin-throw,throws,female,u20
+240,57.90,,Vera REBRIK,25 FEB 1989,UKR,1,Yalta (UKR),06 JUN 2008,1039,javelin-throw,throws,female,u20
+240,57.90,,Christin HUSSONG,17 MAR 1994,GER,2,"Stadio Guidobaldi, Rieti (ITA)",21 JUL 2013,1039,javelin-throw,throws,female,u20
+240,57.90,,Mckyla VAN DER WESTHUIZEN,11 MAR 2004,RSA,1,"Bestmed Tuks Stadium, Pretoria (RSA)",12 MAR 2022,1039,javelin-throw,throws,female,u20
+244,57.88,,Lingyu LI,26 JAN 1989,CHN,2,Suzhou (CHN),10 JUN 2007,1039,javelin-throw,throws,female,u20
+245,57.87,,Yulenmis AGUILAR,03 AUG 1996,CUB,6,"CIBC, Toronto (CAN)",21 JUL 2015,1039,javelin-throw,throws,female,u20
+246,57.86,,Momoko TSUJI,05 DEC 2003,JPN,2,"Denka Big Swan Stadium, Niigata (JPN)",02 OCT 2022,1038,javelin-throw,throws,female,u20
+247,57.84,,Julia VALTANEN,06 MAY 2001,FIN,1,"Harjun stadion, Jyväskylä (FIN)",01 JUN 2020,1038,javelin-throw,throws,female,u20
+247,57.84,,Valentina BARRIOS,02 DEC 2003,COL,2,"Pascual Guerrero Stadium, Cali (COL)",02 AUG 2022,1038,javelin-throw,throws,female,u20
+249,57.83,,Beibei DU,06 JAN 1983,CHN,5,Guangzhou (CHN),23 NOV 2001,1038,javelin-throw,throws,female,u20
+249,57.83,,Juan XUE,10 FEB 1986,CHN,1,Yichun (CHN),11 APR 2004,1038,javelin-throw,throws,female,u20
+251,57.82,,Ning MA,04 NOV 1983,CHN,q,Chengdu (CHN),28 JUN 2001,1038,javelin-throw,throws,female,u20
+251,57.82,,Liina LAASMA,13 JAN 1992,EST,1,Rakvere (EST),06 JUL 2011,1038,javelin-throw,throws,female,u20
+253,57.80,,Li ZHANG,17 JAN 1989,CHN,3,Changsha (CHN),25 JUN 2005,1037,javelin-throw,throws,female,u20
+253,57.80,,Ziyi YAN,22 MAY 2008,CHN,2,"Stadion Juliska, Praha (CZE)",02 JUN 2025,1037,javelin-throw,throws,female,u20
+255,57.79,,Vera REBRIK,25 FEB 1989,UKR,2,"Chaoyang Sport Center, Beijing (CHN)",19 AUG 2006,1037,javelin-throw,throws,female,u20
+255,57.79,,Sara KOLAK,22 JUN 1995,CRO,3,"Stadio Guidobaldi, Rieti (ITA)",21 JUL 2013,1037,javelin-throw,throws,female,u20
+255,57.79,,Sara KOLAK,22 JUN 1995,CRO,2,Leiria (POR),15 MAR 2014,1037,javelin-throw,throws,female,u20
+258,57.78,,Ning MA,04 NOV 1983,CHN,1,Tiantai (CHN),27 OCT 2002,1037,javelin-throw,throws,female,u20
+259,57.77,,Eda TUĞSUZ,27 MAR 1997,TUR,1q1,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",19 JUL 2016,1037,javelin-throw,throws,female,u20
+260,57.76,,Juan XUE,10 FEB 1986,CHN,2,Benxi (CHN),10 JUN 2002,1036,javelin-throw,throws,female,u20
+261,57.75,,Julia ZANDT,08 MAY 1984,GER,1,Fulda (GER),05 JUL 2003,1036,javelin-throw,throws,female,u20
+262,57.74,,Carolin SOBOLL,12 JAN 1981,GER,1,Halle (GER),14 MAY 1999,1036,javelin-throw,throws,female,u20
+262,57.74,,Haruka KITAGUCHI,16 MAR 1998,JPN,6,Osaka (JPN),24 JUN 2017,1036,javelin-throw,throws,female,u20
+264,57.72,,Chunmei YI,15 MAR 1983,CHN,5,Chengdu (CHN),30 JUN 2001,1036,javelin-throw,throws,female,u20
+265,57.71,,Anete KOCIŅA,05 FEB 1996,LAT,6,Riga (LAT),28 MAY 2015,1036,javelin-throw,throws,female,u20
+266,57.70,,Adriana VILAGOŠ,02 JAN 2004,SRB,5q2,"Olympiastadion, München (GER)",18 AUG 2022,1035,javelin-throw,throws,female,u20
+267,57.68,,Margaryta DOROZHON,04 SEP 1987,UKR,3,"Chaoyang Sport Center, Beijing (CHN)",19 AUG 2006,1035,javelin-throw,throws,female,u20
+268,57.67,,Lili LIANG,16 NOV 1983,CHN,2,Shanghai (CHN),05 JUN 1999,1035,javelin-throw,throws,female,u20
+268,57.67,,Maria ANDREJCZYK,09 MAR 1996,POL,1q1,"Ekängens Friidrottsarena, Eskilstuna (SWE)",18 JUL 2015,1035,javelin-throw,throws,female,u20
+270,57.66,,Lili LIANG,16 NOV 1983,CHN,4,Shanghai (CHN),18 APR 2000,1035,javelin-throw,throws,female,u20
+270,57.66,,Xinjie GU,02 FEB 2001,CHN,5f1,Huangshi (CHN),13 APR 2019,1035,javelin-throw,throws,female,u20
+270,57.66,,Julia VALTANEN,06 MAY 2001,FIN,1,"Sauvosaaren urheilukenttä, Kemi (FIN)",21 AUG 2020,1035,javelin-throw,throws,female,u20
+270,57.66,,Adriana VILAGOŠ,02 JAN 2004,SRB,1,"Mladost Stadion, Kruševac (SRB)",29 MAY 2021,1035,javelin-throw,throws,female,u20
+274,57.64,,Vera REBRIK,25 FEB 1989,UKR,2,Kyiv (UKR),14 JUN 2006,1034,javelin-throw,throws,female,u20
+275,57.63,,Ning MA,04 NOV 1983,CHN,3,Benxi (CHN),10 JUN 2002,1034,javelin-throw,throws,female,u20
+276,57.60,,Mackenzie LITTLE,22 DEC 1996,AUS,2q,"Albert Park, Melbourne (AUS)",04 APR 2014,1034,javelin-throw,throws,female,u20
+277,57.59,,Klaudia MASZUREWSKA,28 AUG 1997,POL,1,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",20 JUL 2016,1033,javelin-throw,throws,female,u20
+278,57.58,,Inga KOŽARENOKA,16 MAR 1982,LAT,2,Ventspils (LAT),17 JUN 2000,1033,javelin-throw,throws,female,u20
+279,57.56,,Li ZHANG,17 JAN 1989,CHN,1,Chengdu (CHN),10 APR 2005,1033,javelin-throw,throws,female,u20
+280,57.55,,Tazmin BRITS,08 JAN 1991,RSA,1,Pretoria (RSA),19 APR 2008,1033,javelin-throw,throws,female,u20
+281,57.54,,Jana LADEWIG,16 SEP 1981,GER,1,Hamburg (GER),14 MAY 2000,1032,javelin-throw,throws,female,u20
+281,57.54,,Fanni KÖVÉR,15 FEB 2004,HUN,2,"Nemzeti Atlétikai Központ, Budapest (HUN)",07 JUL 2023,1032,javelin-throw,throws,female,u20
+283,57.53,,Sofi FLINK,08 JUL 1995,SWE,7q2,"Letzigrund, Zürich (SUI)",12 AUG 2014,1032,javelin-throw,throws,female,u20
+284,57.52,,Li ZHANG,17 JAN 1989,CHN,4,"Chaoyang Sport Center, Beijing (CHN)",19 AUG 2006,1032,javelin-throw,throws,female,u20
+284,57.52,,Shiying LIU,24 SEP 1993,CHN,1,Changzhou (CHN),20 APR 2012,1032,javelin-throw,throws,female,u20
+286,57.51,,Juan XUE,10 FEB 1986,CHN,3,Shanghai (CHN),14 SEP 2003,1032,javelin-throw,throws,female,u20
+287,57.50,,Mariya ABAKUMOVA,15 JAN 1986,RUS,4,Tula (RUS),25 JUL 2004,1032,javelin-throw,throws,female,u20
+288,57.48,,Vera REBRIK,25 FEB 1989,UKR,2,Kyiv (UKR),19 MAY 2005,1031,javelin-throw,throws,female,u20
+288,57.48,,Anete KOCIŅA,05 FEB 1996,LAT,1,Jékabpils (LAT),27 JUN 2015,1031,javelin-throw,throws,female,u20
+290,57.47,,Sara KOLAK,22 JUN 1995,CRO,,Celje (SLO),28 JUL 2013,1031,javelin-throw,throws,female,u20
+291,57.46,,Yiselena BALLAR ROJAS,12 JAN 2003,CUB,1,"Estadio Panamericano, La Habana (CUB)",13 MAR 2020,1031,javelin-throw,throws,female,u20
+292,57.45,,Panayota TOULOUMTZI,26 SEP 1986,GRE,1,Larisa (GRE),19 JUN 2005,1031,javelin-throw,throws,female,u20
+292,57.45,,Mirja LUKAS,01 APR 2005,GER,4,"Eintracht-Stadion, Braunschweig (GER)",30 JUN 2024,1031,javelin-throw,throws,female,u20
+294,57.44,,Sofi FLINK,08 JUL 1995,SWE,2f1,Pihtipudas (FIN),30 JUN 2013,1031,javelin-throw,throws,female,u20
+294,57.44,,Marie-Therese OBST,07 JAN 1996,NOR,1,Mannheim (GER),05 JUL 2014,1031,javelin-throw,throws,female,u20
+296,57.43,,Vivian ZIMMER,22 JUL 1987,GER,5,Ulm (GER),15 JUL 2006,1030,javelin-throw,throws,female,u20
+297,57.42,,Sofi FLINK,08 JUL 1995,SWE,1,Borås (SWE),01 SEP 2013,1030,javelin-throw,throws,female,u20
+298,57.41,,Sara KOLAK,22 JUN 1995,CRO,1,Split (CRO),01 MAR 2014,1030,javelin-throw,throws,female,u20
+298,57.41,,Adriana VILAGOŠ,02 JAN 2004,SRB,1,Novi Sad (SRB),22 AUG 2020,1030,javelin-throw,throws,female,u20
+298,57.41,,Yiselena BALLAR ROJAS,12 JAN 2003,CUB,1q,"Estadio Panamericano, La Habana (CUB)",06 AUG 2021,1030,javelin-throw,throws,female,u20
+298,57.41,,Xidan ZHANG,03 DEC 2006,CHN,2,"City Stadium, Daqing (CHN)",15 JUN 2024,1030,javelin-throw,throws,female,u20
+302,57.40,,Fabienne SCHÖNIG,27 JUL 1997,GER,1,Wipperfürth (GER),01 MAY 2016,1030,javelin-throw,throws,female,u20
+302,57.40,,Eda TUĞSUZ,27 MAR 1997,TUR,2,Mersin (TUR),28 MAY 2016,1030,javelin-throw,throws,female,u20
+304,57.39,,Nikolett SZABÓ,03 MAR 1980,HUN,1,Budapest (HUN),27 JUN 1999,1030,javelin-throw,throws,female,u20
+304,57.39,,Vivian ZIMMER,22 JUL 1987,GER,1,Bydgoszcz (POL),07 AUG 2004,1030,javelin-throw,throws,female,u20
+304,57.39,,Anete KOCIŅA,05 FEB 1996,LAT,1,Karksi-Nuia (EST),24 MAY 2015,1030,javelin-throw,throws,female,u20
+304,57.39,,Fanni KÖVÉR,15 FEB 2004,HUN,1,"Sugár úti Atlétikai Centrum, Szombathely (HUN)",16 JUN 2021,1030,javelin-throw,throws,female,u20
+308,57.37,,Laura CORNFORD,11 JUN 1988,AUS,1,Sydney (AUS),03 FEB 2007,1029,javelin-throw,throws,female,u20
+308,57.37,,Ying WANG,05 JUN 2001,CHN,2,Luoyang (CHN),30 MAY 2019,1029,javelin-throw,throws,female,u20
+310,57.35,,Lili LIANG,16 NOV 1983,CHN,2,Zhongshan (CHN),21 APR 2001,1029,javelin-throw,throws,female,u20
+310,57.35,,Lin FU,21 FEB 1989,CHN,2,Shijiazhuang (CHN),13 OCT 2008,1029,javelin-throw,throws,female,u20
+312,57.34,,Yanet CRUZ,08 FEB 1988,CUB,1,La Habana (CUB),15 JUN 2007,1029,javelin-throw,throws,female,u20
+312,57.34,,Līna MŪZE,04 DEC 1992,LAT,1,Strasbourg (FRA),12 JUN 2011,1029,javelin-throw,throws,female,u20
+314,57.33,,Adriana VILAGOŠ,02 JAN 2004,SRB,1,Istanbul (TUR),12 JUN 2021,1029,javelin-throw,throws,female,u20
+315,57.32,,Ning MA,04 NOV 1983,CHN,6,Guangzhou (CHN),23 NOV 2001,1028,javelin-throw,throws,female,u20
+315,57.32,,Lingdan SU,12 JAN 1997,CHN,1,Ho Chi-Minh (VIE),04 JUN 2016,1028,javelin-throw,throws,female,u20
+315,57.32,,Jo-Ane VAN DYK,03 OCT 1997,RSA,2,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",20 JUL 2016,1028,javelin-throw,throws,female,u20
+318,57.31,,Yuka MORI,21 JUL 1992,JPN,1,Okinawa (JPN),29 JUL 2010,1028,javelin-throw,throws,female,u20
+318,57.31,,Marcelina WITEK,02 JUN 1995,POL,1,Toruń (POL),29 JUN 2014,1028,javelin-throw,throws,female,u20
+318,57.31,,Valentina BARRIOS,02 DEC 2003,COL,2,Cascavel (BRA),01 OCT 2022,1028,javelin-throw,throws,female,u20
+321,57.30,,Tetyana FETISKINA,11 SEP 1994,UKR,2,Yalta (UKR),17 MAY 2013,1028,javelin-throw,throws,female,u20
+322,57.29,,Beibei DU,06 JAN 1983,CHN,2,Luohe (CHN),22 OCT 2000,1028,javelin-throw,throws,female,u20
+322,57.29,,Ynthie COETZEE,11 JUN 1988,RSA,1,Durban (RSA),16 APR 2005,1028,javelin-throw,throws,female,u20
+324,57.26,,Sanni UTRIAINEN,05 FEB 1991,FIN,1,Helsinki (FIN),27 AUG 2010,1027,javelin-throw,throws,female,u20
+324,57.26,,Sofi FLINK,08 JUL 1995,SWE,2,Äänekoski (FIN),06 JUN 2013,1027,javelin-throw,throws,female,u20
+326,57.25,,Mariya ABAKUMOVA,15 JAN 1986,RUS,1,"Adler, Sochi (RUS)",06 FEB 2005,1027,javelin-throw,throws,female,u20
+327,57.24,,Vera REBRIK,25 FEB 1989,UKR,1,Kyiv (UKR),19 MAY 2007,1027,javelin-throw,throws,female,u20
+327,57.24,,Eda TUĞSUZ,27 MAR 1997,TUR,1,Mersin (TUR),16 MAY 2016,1027,javelin-throw,throws,female,u20
+329,57.23,,Haruka KITAGUCHI,16 MAR 1998,JPN,3,Nagoya (JPN),25 JUN 2016,1027,javelin-throw,throws,female,u20
+330,57.22,,Dan SONG,05 JUL 1990,CHN,4,Beijing (CHN),25 MAY 2008,1026,javelin-throw,throws,female,u20
+330,57.22,,Momoko TSUJI,05 DEC 2003,JPN,7,"Yanmar Stadium Nagai, Osaka (JPN)",01 MAY 2022,1026,javelin-throw,throws,female,u20
+332,57.20,,Adriana VILAGOŠ,02 JAN 2004,SRB,1,"Vanyek Béla Sportcentrum, Vác (HUN)",25 SEP 2022,1026,javelin-throw,throws,female,u20
+333,57.18,,Prescilla LECURIEUX,01 DEC 1992,FRA,1q1,Dreux (FRA),15 JUL 2011,1026,javelin-throw,throws,female,u20
+334,57.17,,Christin HUSSONG,17 MAR 1994,GER,1,Mannheim (GER),29 JUN 2013,1026,javelin-throw,throws,female,u20
+334,57.17,,Momoko TSUJI,05 DEC 2003,JPN,1,"Yanmar Stadium Nagai, Osaka (JPN)",11 JUN 2022,1026,javelin-throw,throws,female,u20
+334,57.17,,Nozomi SAKURAI,27 APR 2005,JPN,1,"Tochigi Prefectural Sports Park Stadium, Utsunomiya (JPN)",09 OCT 2022,1026,javelin-throw,throws,female,u20
+337,57.16,,Maria Lucelly MURILLO,05 MAY 1991,COL,1,Cali (COL),03 JUL 2010,1025,javelin-throw,throws,female,u20
+338,57.15,,Ning MA,04 NOV 1983,CHN,1,Colombo (SRI),11 AUG 2002,1025,javelin-throw,throws,female,u20
+338,57.15,,Annika SUTHE,15 OCT 1985,GER,2,"Stadio Zecchini, Grosseto (ITA)",15 JUL 2004,1025,javelin-throw,throws,female,u20
+340,57.14,,Yiselena BALLAR ROJAS,12 JAN 2003,CUB,2,"Pascual Guerrero Stadium, Cali (COL)",03 DEC 2021,1025,javelin-throw,throws,female,u20
+341,57.13,,Sandra SCHAFFARZIK,22 JUN 1987,GER,1,Leipzig (GER),19 FEB 2006,1025,javelin-throw,throws,female,u20
+341,57.13,,Adriana VILAGOŠ,02 JAN 2004,SRB,1,"Karađorđe Stadium, Novi Sad (SRB)",22 MAY 2021,1025,javelin-throw,throws,female,u20
+343,57.12,,Marija VUČENOVIĆ,03 APR 1993,SRB,3,"Estadio Olímpico, Barcelona (ESP)",11 JUL 2012,1025,javelin-throw,throws,female,u20
+343,57.12,,Yuliya MAKEYEVA,05 NOV 2000,BLR,2,Minsk (BLR),09 FEB 2019,1025,javelin-throw,throws,female,u20
+343,57.12,,Vita BARBIĆ,13 AUG 2007,CRO,1,"Sports Park Mladost, Zagreb (CRO)",14 MAY 2025,1025,javelin-throw,throws,female,u20
+346,57.11,,Beibei DU,06 JAN 1983,CHN,q,Chengdu (CHN),28 JUN 2001,1024,javelin-throw,throws,female,u20
+346,57.11,,Mariya ABAKUMOVA,15 JAN 1986,RUS,1,"S. Darius & S. Girėnas Stadium, Kaunas (LTU)",24 JUL 2005,1024,javelin-throw,throws,female,u20
+346,57.11,,Anni-Linnea ALANEN,11 NOV 2002,FIN,1,"Hiekkaharjun urheilupuisto, Vantaa (FIN)",29 MAY 2021,1024,javelin-throw,throws,female,u20
+346,57.11,,Ayaka SUZUKI,13 JUN 2007,JPN,1,"Athletic Stadium, Hikone (JPN)",05 OCT 2025,1024,javelin-throw,throws,female,u20
+350,57.09,,Chunmei YI,15 MAR 1983,CHN,3,Tianjin (CHN),18 MAY 2001,1024,javelin-throw,throws,female,u20
+351,57.08,,Ziyi YAN,22 MAY 2008,CHN,5,"Mestský Stadion, Ostrava (CZE)",24 JUN 2025,1024,javelin-throw,throws,female,u20
+352,57.07,,Mckyla VAN DER WESTHUIZEN,11 MAR 2004,RSA,1,"DP de Villiers Stadium, Sasolburg (RSA)",28 MAY 2022,1024,javelin-throw,throws,female,u20
+353,57.04,,Liina LAASMA,13 JAN 1992,EST,2,Sofia (BUL),19 MAR 2011,1023,javelin-throw,throws,female,u20
+354,57.03,,Maria ANDREJCZYK,09 MAR 1996,POL,3,"Wieslaw Maniak Municipal Athletic Stadium, Szczecin (POL)",09 AUG 2015,1023,javelin-throw,throws,female,u20
+354,57.03,,Lea WIPPER,14 OCT 2001,GER,3,"Stadion an der Wiesenstraße, Thum (GER)",22 AUG 2020,1023,javelin-throw,throws,female,u20
+356,57.02,,Haruka KITAGUCHI,16 MAR 1998,JPN,1,Wakayama (JPN),04 OCT 2015,1023,javelin-throw,throws,female,u20
+356,57.02,,Veronika ŠOKOTA,09 MAR 2004,CRO,1,"Stadion Branko Čavlović-Čavlek, Karlovac (CRO)",06 JUN 2021,1023,javelin-throw,throws,female,u20
+358,57.01,,Sinta SPRUDZĀNE,26 FEB 1988,LAT,2,"FBK Stadium, Hengelo (NED)",21 JUL 2007,1023,javelin-throw,throws,female,u20
+358,57.01,,Li ZHANG,17 JAN 1989,CHN,3,Shijiazhuang (CHN),13 OCT 2008,1023,javelin-throw,throws,female,u20
+358,57.01,,Christin HUSSONG,17 MAR 1994,GER,1q,"Stadio Guidobaldi, Rieti (ITA)",20 JUL 2013,1023,javelin-throw,throws,female,u20
+361,57.00,,Sofi FLINK,08 JUL 1995,SWE,1,Oslo (NOR),22 MAY 2014,1022,javelin-throw,throws,female,u20
+362,56.99,,Vera REBRIK,25 FEB 1989,UKR,1,Yalta (UKR),08 MAY 2007,1022,javelin-throw,throws,female,u20
+362,56.99,,Līna MŪZE,04 DEC 1992,LAT,1,Äänekoski (FIN),10 JUN 2011,1022,javelin-throw,throws,female,u20
+362,56.99,,Prescilla LECURIEUX,01 DEC 1992,FRA,1q1,"Kadrioru staadion, Tallinn (EST)",23 JUL 2011,1022,javelin-throw,throws,female,u20
+365,56.98,,Eva VIVOD,07 AUG 1994,SLO,1,Nova Gorica (SLO),02 JUN 2013,1022,javelin-throw,throws,female,u20
+365,56.98,,Yu LIAO,18 MAY 2000,CHN,2q2,Chengdu (CHN),30 MAR 2019,1022,javelin-throw,throws,female,u20
+365,56.98,,Yiselena BALLAR ROJAS,12 JAN 2003,CUB,2,"Estadio Panamericano, La Habana (CUB)",06 MAR 2020,1022,javelin-throw,throws,female,u20
+365,56.98,,Karyna BUTKEVICH,05 OCT 2001,BLR,1,"Regional Sport Complex, Brest (BLR)",08 JUL 2020,1022,javelin-throw,throws,female,u20
+369,56.97,,Eda TUĞSUZ,27 MAR 1997,TUR,11,"Olympisch Stadion, Amsterdam (NED)",09 JUL 2016,1022,javelin-throw,throws,female,u20
+369,56.97,,Carolina VISCA,31 MAY 2000,ITA,1,Ancona (ITA),02 MAR 2019,1022,javelin-throw,throws,female,u20
+371,56.96,,Julia ZANDT,08 MAY 1984,GER,1,"Ratinan Stadion, Tampere (FIN)",27 JUL 2003,1022,javelin-throw,throws,female,u20
+371,56.96,,Li ZHANG,17 JAN 1989,CHN,5,Shijiazhuang (CHN),07 AUG 2006,1022,javelin-throw,throws,female,u20
+373,56.94,,Elina TZENGKO,02 SEP 2002,GRE,1,Thessaloniki (GRE),23 MAR 2019,1021,javelin-throw,throws,female,u20
+374,56.93,,Vivian ZIMMER,22 JUL 1987,GER,1,Jena (GER),02 JUL 2004,1021,javelin-throw,throws,female,u20
+375,56.92,,Vera REBRIK,25 FEB 1989,UKR,8f1,Halle (GER),24 MAY 2008,1021,javelin-throw,throws,female,u20
+375,56.92,,Jelena JAAKKOLA,07 MAR 1989,FIN,1,Soini (FIN),14 JUN 2008,1021,javelin-throw,throws,female,u20
+375,56.92,,Elina TZENGKO,02 SEP 2002,GRE,1,"Kaftanzoglio throws auxiliary field, Thessaloniki (GRE)",17 APR 2021,1021,javelin-throw,throws,female,u20
+378,56.90,,Sara KOLAK,22 JUN 1995,CRO,3,"Daugava Stadium, Riga (LAT)",21 JUN 2014,1021,javelin-throw,throws,female,u20
+379,56.89,,Vera REBRIK,25 FEB 1989,UKR,2f2,Mersin (TUR),13 MAR 2005,1020,javelin-throw,throws,female,u20
+380,56.88,,Eda TUĞSUZ,27 MAR 1997,TUR,1,Tunis (TUN),04 JUN 2016,1020,javelin-throw,throws,female,u20
+380,56.88,,Adriana VILAGOŠ,02 JAN 2004,SRB,8,"Stadion Śląski, Chorzów (POL)",16 JUL 2023,1020,javelin-throw,throws,female,u20
+382,56.87,,Sofi FLINK,08 JUL 1995,SWE,1,Göteborg (SWE),01 SEP 2012,1020,javelin-throw,throws,female,u20
+383,56.86,,Carolin SOBOLL,12 JAN 1981,GER,2,"Daugava Stadium, Riga (LAT)",08 AUG 1999,1020,javelin-throw,throws,female,u20
+383,56.86,,Tomoka KUWAZOE,01 FEB 1999,JPN,1,Hiratsuka (JPN),15 JUN 2018,1020,javelin-throw,throws,female,u20
+385,56.85,,Yekaterina STARYGINA,26 AUG 1995,RUS,1,"Hayward Field, Eugene, OR (USA)",24 JUL 2014,1020,javelin-throw,throws,female,u20
+386,56.84,,Kihou KUZE,28 MAR 1995,JPN,5,Osaka (JPN),10 JUN 2012,1019,javelin-throw,throws,female,u20
+386,56.84,,Nikol TABAČKOVÁ,24 JAN 1998,CZE,1,Breclav (CZE),06 MAY 2017,1019,javelin-throw,throws,female,u20
+388,56.83,,Eda TUĞSUZ,27 MAR 1997,TUR,1,Mersin (TUR),13 FEB 2016,1019,javelin-throw,throws,female,u20
+389,56.82,,Juan XUE,10 FEB 1986,CHN,1,Sherbrooke (CAN),13 JUL 2003,1019,javelin-throw,throws,female,u20
+389,56.82,,Dan SONG,05 JUL 1990,CHN,2,Shijiazhuang (CHN),02 AUG 2007,1019,javelin-throw,throws,female,u20
+389,56.82,,Veronika ŠOKOTA,09 MAR 2004,CRO,1f1,"Estádio Dr. Magalhães Pessoa, Leiria (POR)",11 MAR 2023,1019,javelin-throw,throws,female,u20
+392,56.81,,Mariya ABAKUMOVA,15 JAN 1986,RUS,5,"FBK Stadium, Hengelo (NED)",29 MAY 2005,1019,javelin-throw,throws,female,u20
+393,56.79,,Yulenmis AGUILAR,03 AUG 1996,CUB,2,San José (CRC),07 AUG 2015,1019,javelin-throw,throws,female,u20
+393,56.79,,Carolina VISCA,31 MAY 2000,ITA,1,Firenze (ITA),27 APR 2018,1019,javelin-throw,throws,female,u20
+395,56.78,,Marie-Therese OBST,07 JAN 1996,NOR,2,Oslo (NOR),22 MAY 2014,1018,javelin-throw,throws,female,u20
+395,56.78,,Adriana VILAGOŠ,02 JAN 2004,SRB,1,Kruševac (SRB),29 AUG 2020,1018,javelin-throw,throws,female,u20
+397,56.77,,Sinta SPRUDZĀNE,26 FEB 1988,LAT,1,Valmiera (LAT),06 JUL 2007,1018,javelin-throw,throws,female,u20
+398,56.76,,Christin HUSSONG,17 MAR 1994,GER,1q2,Lille (FRA),06 JUL 2011,1018,javelin-throw,throws,female,u20
+398,56.76,,Mirja LUKAS,01 APR 2005,GER,1q1,"Estadio Atlético de la VIDENA, Lima (PER)",28 AUG 2024,1018,javelin-throw,throws,female,u20
+400,56.75,,Jucilene Sales DE LIMA,14 SEP 1990,BRA,6,"Mangueirão, Belém (BRA)",24 MAY 2009,1018,javelin-throw,throws,female,u20
+400,56.75,,Maria ANDREJCZYK,09 MAR 1996,POL,13q2,"National Stadium, Beijing (CHN)",28 AUG 2015,1018,javelin-throw,throws,female,u20
+400,56.75,,Haruka KITAGUCHI,16 MAR 1998,JPN,2,Hiroshima (JPN),29 APR 2016,1018,javelin-throw,throws,female,u20
+400,56.75,,Carolina VISCA,31 MAY 2000,ITA,4,Rovereto (ITA),27 AUG 2019,1018,javelin-throw,throws,female,u20
+404,56.73,,Yu LIAO,18 MAY 2000,CHN,1,"Shanxi Sports Center Stadium, Taiyuan (CHN)",15 AUG 2019,1017,javelin-throw,throws,female,u20
+405,56.72,,Li ZHANG,17 JAN 1989,CHN,1,Zhongshan (CHN),24 APR 2005,1017,javelin-throw,throws,female,u20
+405,56.72,,Vera REBRIK,25 FEB 1989,UKR,1,Yalta (UKR),23 FEB 2008,1017,javelin-throw,throws,female,u20
+407,56.71,,Annika SUTHE,15 OCT 1985,GER,1,Toulouse (FRA),06 MAR 2004,1017,javelin-throw,throws,female,u20
+407,56.71,,Vivian ZIMMER,22 JUL 1987,GER,1,"Wattenscheid, Bochum (GER)",22 JUL 2006,1017,javelin-throw,throws,female,u20
+407,56.71,,Eda TUĞSUZ,27 MAR 1997,TUR,3,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",20 JUL 2016,1017,javelin-throw,throws,female,u20
+410,56.70,,Mariya ABAKUMOVA,15 JAN 1986,RUS,1,"Adler, Sochi (RUS)",20 FEB 2004,1017,javelin-throw,throws,female,u20
+410,56.70,,Juan XUE,10 FEB 1986,CHN,1,Nanjing (CHN),01 MAY 2004,1017,javelin-throw,throws,female,u20
+410,56.70,,Yanet CRUZ,08 FEB 1988,CUB,1,La Habana (CUB),23 FEB 2007,1017,javelin-throw,throws,female,u20
+410,56.70,,Vera REBRIK,25 FEB 1989,UKR,1,Kyiv (UKR),17 JUN 2007,1017,javelin-throw,throws,female,u20
+410,56.70,,Sofi FLINK,08 JUL 1995,SWE,2,"Hayward Field, Eugene, OR (USA)",24 JUL 2014,1017,javelin-throw,throws,female,u20
+410,56.70,,Rebecca NELIMARKKA,10 JUL 2006,FIN,5,"Kuortaneen keskusurheilukenttä, Kuortane (FIN)",22 JUN 2024,1017,javelin-throw,throws,female,u20
+416,56.69,,Sanni UTRIAINEN,05 FEB 1991,FIN,1,"Croix-Bleue Medavie Stadium, Moncton (CAN)",21 JUL 2010,1017,javelin-throw,throws,female,u20
+417,56.68,,Li ZHANG,17 JAN 1989,CHN,4,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",10 JUL 2008,1016,javelin-throw,throws,female,u20
+417,56.68,,Sofi FLINK,08 JUL 1995,SWE,12,"Letzigrund, Zürich (SUI)",14 AUG 2014,1016,javelin-throw,throws,female,u20
+417,56.68,,Lingdan SU,12 JAN 1997,CHN,4,Taiyuan (CHN),22 MAY 2016,1016,javelin-throw,throws,female,u20
+417,56.68,,Adriana VILAGOŠ,02 JAN 2004,SRB,2,"Atletski stadion, Novi Pazar (SRB)",05 SEP 2020,1016,javelin-throw,throws,female,u20
+421,56.67,,Mariya ABAKUMOVA,15 JAN 1986,RUS,2,Toulouse (FRA),06 MAR 2004,1016,javelin-throw,throws,female,u20
+421,56.67,,Marina BUKSA,15 MAR 1987,BLR,5,"Chaoyang Sport Center, Beijing (CHN)",19 AUG 2006,1016,javelin-throw,throws,female,u20
+421,56.67,,Chunfeng CHANG,04 MAY 1988,CHN,1,Zhaoqing (CHN),20 MAY 2007,1016,javelin-throw,throws,female,u20
+421,56.67,,Jelena JAAKKOLA,07 MAR 1989,FIN,1,Pihtipudas (FIN),29 JUN 2008,1016,javelin-throw,throws,female,u20
+425,56.66,,Li ZHANG,17 JAN 1989,CHN,1,"Sidi Youssef Ben Ali, Marrakech (MAR)",17 JUL 2005,1016,javelin-throw,throws,female,u20
+425,56.66,,Zhang YING,05 JAN 1988,CHN,2,Zhengzhou (CHN),28 MAY 2006,1016,javelin-throw,throws,female,u20
+425,56.66,,Pin-Hsun CHU,08 APR 2005,TPE,1,"National Stadium, Kaohsiung (TPE)",26 FEB 2024,1016,javelin-throw,throws,female,u20
+428,56.64,,Yaning WANG,04 JAN 1980,CHN,2,Xi'an (CHN),16 MAY 1999,1016,javelin-throw,throws,female,u20
+428,56.64,,Vera REBRIK,25 FEB 1989,UKR,1,Yalta (UKR),22 FEB 2008,1016,javelin-throw,throws,female,u20
+428,56.64,,Līna MŪZE,04 DEC 1992,LAT,2,"Croix-Bleue Medavie Stadium, Moncton (CAN)",21 JUL 2010,1016,javelin-throw,throws,female,u20
+431,56.63,,Panayota TOULOUMTZI,26 SEP 1986,GRE,4,Athina (GRE),11 JUN 2005,1016,javelin-throw,throws,female,u20
+431,56.63,,Maria ZERVA,10 AUG 1987,GRE,1,Tripoli (GRE),09 SEP 2006,1016,javelin-throw,throws,female,u20
+431,56.63,,Yiselena BALLAR ROJAS,12 JAN 2003,CUB,1,"Estadio Panamericano, La Habana (CUB)",18 MAR 2022,1016,javelin-throw,throws,female,u20
+434,56.61,,Viktoriya CHERVYAKOVA,08 MAR 2002,RUS,1,"Olympic Stadium, Cheboksary (RUS)",01 AUG 2021,1015,javelin-throw,throws,female,u20
+435,56.60,,Ning MA,04 NOV 1983,CHN,6,"CM, Madrid (ESP)",20 SEP 2002,1015,javelin-throw,throws,female,u20
+435,56.60,,Yekaterina STARYGINA,26 AUG 1995,RUS,1,"Adler, Sochi (RUS)",23 APR 2013,1015,javelin-throw,throws,female,u20
+437,56.59,,Vivian ZIMMER,22 JUL 1987,GER,,Halle (GER),05 MAR 2005,1015,javelin-throw,throws,female,u20
+437,56.59,,Jingya ZHU,15 DEC 1987,CHN,1,Guilin (CHN),10 SEP 2006,1015,javelin-throw,throws,female,u20
+437,56.59,,Madison WILTROUT,04 JUN 1999,USA,1,"North Huntingdon, PA (USA)",07 MAY 2015,1015,javelin-throw,throws,female,u20
+437,56.59,,Carolina VISCA,31 MAY 2000,ITA,1,Lucca (ITA),23 FEB 2019,1015,javelin-throw,throws,female,u20
+437,56.59,,Momoko TSUJI,05 DEC 2003,JPN,1,"Ehime Athletics Stadium, Matsuyama (JPN)",01 JUL 2022,1015,javelin-throw,throws,female,u20
+442,56.57,,Yuzhen YU,05 MAR 1998,CHN,2,Chengdu (CHN),31 MAR 2017,1014,javelin-throw,throws,female,u20
+443,56.56,,Liu LIN,03 JAN 1981,CHN,3,Jinan (CHN),02 MAY 1999,1014,javelin-throw,throws,female,u20
+443,56.56,,Xiaodan SONG,23 JAN 1993,CHN,5f1,Kunshan (CHN),24 SEP 2012,1014,javelin-throw,throws,female,u20
+445,56.55,,Vivian ZIMMER,22 JUL 1987,GER,1,Schönebeck (GER),10 JUN 2006,1014,javelin-throw,throws,female,u20
+445,56.55,,Tazmin BRITS,08 JAN 1991,RSA,1,Maputo (MOZ),10 JUN 2007,1014,javelin-throw,throws,female,u20
+445,56.55,,Yuzhen YU,05 MAR 1998,CHN,3,Zhengzhou (CHN),11 APR 2017,1014,javelin-throw,throws,female,u20
+445,56.55,,Manuela ROTUNDO,19 JUL 2004,URU,1,Paysandú (URU),14 OCT 2023,1014,javelin-throw,throws,female,u20
+449,56.54,,Lingyu LI,26 JAN 1989,CHN,1q,Yichun (CHN),12 MAY 2006,1014,javelin-throw,throws,female,u20
+449,56.54,,Alina SHUKH,12 FEB 1999,UKR,3,Lutsk (UKR),06 JUN 2017,1014,javelin-throw,throws,female,u20
+451,56.53,,Maria ANDREJCZYK,09 MAR 1996,POL,1,Toruń (POL),04 MAY 2014,1014,javelin-throw,throws,female,u20
+452,56.52,,Galina KAKHOVA,26 MAR 1982,BLR,2,Staiki (BLR),27 JUN 2000,1014,javelin-throw,throws,female,u20
+452,56.52,,Vera REBRIK,25 FEB 1989,UKR,10,Split (CRO),15 MAR 2008,1014,javelin-throw,throws,female,u20
+452,56.52,,Eda TUĞSUZ,27 MAR 1997,TUR,1,Mersin (TUR),28 FEB 2015,1014,javelin-throw,throws,female,u20
+452,56.52,,Yiselena BALLAR ROJAS,12 JAN 2003,CUB,1,La Habana (CUB),01 JUN 2019,1014,javelin-throw,throws,female,u20
+456,56.51,,Li ZHANG,17 JAN 1989,CHN,3,Chongqing (CHN),15 MAY 2005,1013,javelin-throw,throws,female,u20
+456,56.51,,Sofi FLINK,08 JUL 1995,SWE,4,"Eintracht-Stadion, Braunschweig (GER)",21 JUN 2014,1013,javelin-throw,throws,female,u20
+456,56.51,,Juleisy ANGULO,02 JAN 2001,ECU,7,"Estadio Atlético de la VIDENA, Lima (PER)",09 AUG 2019,1013,javelin-throw,throws,female,u20
+459,56.50,,Nikolett SZABÓ,03 MAR 1980,HUN,2,Budapest (HUN),03 JUL 1999,1013,javelin-throw,throws,female,u20
+459,56.50,,Lili LIANG,16 NOV 1983,CHN,6,Jinzhou (CHN),08 JUN 2000,1013,javelin-throw,throws,female,u20
+459,56.50,,Dan SONG,05 JUL 1990,CHN,3q,Shijiazhuang (CHN),06 AUG 2006,1013,javelin-throw,throws,female,u20
+459,56.50,,Hui-Jun LI,12 MAY 1999,TPE,2,Taipei City (TPE),25 MAY 2018,1013,javelin-throw,throws,female,u20
+459,56.50,,Lea WIPPER,14 OCT 2001,GER,1,"Werferzentrum Brandberge, Halle (GER)",03 JUL 2020,1013,javelin-throw,throws,female,u20
+464,56.49,,Charlotte MÜLLER,14 SEP 1993,GER,1,Mönchengladbach (GER),21 JUL 2012,1013,javelin-throw,throws,female,u20
+464,56.49,,Yiselena BALLAR ROJAS,12 JAN 2003,CUB,1q,"Estadio Panamericano, La Habana (CUB)",30 JUL 2021,1013,javelin-throw,throws,female,u20
+466,56.48,,Mareike RITTWEG,01 JUN 1984,GER,1,Krefeld (GER),16 AUG 2003,1013,javelin-throw,throws,female,u20
+466,56.48,,Dan SONG,05 JUL 1990,CHN,1,Chengdu (CHN),14 APR 2007,1013,javelin-throw,throws,female,u20
+466,56.48,,Lin FU,21 FEB 1989,CHN,3,Suzhou (CHN),10 JUN 2007,1013,javelin-throw,throws,female,u20
+466,56.48,,Yekaterina STARYGINA,26 AUG 1995,RUS,1,Krasnodar (RUS),21 FEB 2014,1013,javelin-throw,throws,female,u20
+466,56.48,,Mahiro OSA,26 NOV 1999,JPN,1,Okayama (JPN),30 JUL 2016,1013,javelin-throw,throws,female,u20
+466,56.48,,Carolina VISCA,31 MAY 2000,ITA,1,"Ryavallen, Borås (SWE)",21 JUL 2019,1013,javelin-throw,throws,female,u20
+472,56.47,,Juan XUE,10 FEB 1986,CHN,2q,Shanghai (CHN),13 SEP 2003,1013,javelin-throw,throws,female,u20
+472,56.47,,Maria ZERVA,10 AUG 1987,GRE,2,"S. Darius & S. Girėnas Stadium, Kaunas (LTU)",24 JUL 2005,1013,javelin-throw,throws,female,u20
+472,56.47,,Lingyu LI,26 JAN 1989,CHN,5,Beijing (CHN),25 MAY 2008,1013,javelin-throw,throws,female,u20
+472,56.47,,Eda TUĞSUZ,27 MAR 1997,TUR,1,Pitesti (ROU),25 JUN 2016,1013,javelin-throw,throws,female,u20
+476,56.45,,Xin XU,30 AUG 1987,CHN,8,Guangzhou (CHN),23 NOV 2001,1012,javelin-throw,throws,female,u20
+476,56.45,,Lingyu LI,26 JAN 1989,CHN,2,Yantai (CHN),13 OCT 2006,1012,javelin-throw,throws,female,u20
+478,56.44,,Sae TAKEMOTO,23 NOV 1999,JPN,1,Yamagata (JPN),01 AUG 2017,1012,javelin-throw,throws,female,u20
+479,56.43,,Chunmei YI,15 MAR 1983,CHN,1,Darussalam (BRU),22 JUL 2001,1012,javelin-throw,throws,female,u20
+479,56.43,,Fanni KÖVÉR,15 FEB 2004,HUN,6,"Bregyó Athletic Center, Székesfehérvár (HUN)",08 AUG 2022,1012,javelin-throw,throws,female,u20
+481,56.40,,Anete KOCIŅA,05 FEB 1996,LAT,3,Jelgava (LAT),14 JUN 2015,1011,javelin-throw,throws,female,u20
+481,56.40,,Anna TARASIUK,30 OCT 1997,BLR,2q1,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",19 JUL 2016,1011,javelin-throw,throws,female,u20
+483,56.39,,Yaning WANG,04 JAN 1980,CHN,3,Shanghai (CHN),05 JUN 1999,1011,javelin-throw,throws,female,u20
+483,56.39,,Lingyu LI,26 JAN 1989,CHN,2,Chengdu (CHN),04 JUN 2007,1011,javelin-throw,throws,female,u20
+483,56.39,,Yekaterina STARYGINA,26 AUG 1995,RUS,2f1,Castellón (ESP),16 MAR 2013,1011,javelin-throw,throws,female,u20
+483,56.39,,Sofi FLINK,08 JUL 1995,SWE,1,Helsinki (FIN),30 AUG 2014,1011,javelin-throw,throws,female,u20
+483,56.39,,Anni-Linnea ALANEN,11 NOV 2002,FIN,1,"Kuortaneen keskusurheilukenttä, Kuortane (FIN)",17 MAY 2021,1011,javelin-throw,throws,female,u20
+488,56.38,,Ilze GRIBULE,25 JAN 1984,LAT,1q,"Ratinan Stadion, Tampere (FIN)",26 JUL 2003,1011,javelin-throw,throws,female,u20
+488,56.38,,Sinta SPRUDZĀNE,26 FEB 1988,LAT,6,"Chaoyang Sport Center, Beijing (CHN)",19 AUG 2006,1011,javelin-throw,throws,female,u20
+488,56.38,,Irena ŠEDIVÁ,19 JAN 1992,CZE,7,"Stadion Juliska, Praha (CZE)",13 JUN 2011,1011,javelin-throw,throws,female,u20
+491,56.37,,Magdalena CZENSKA,14 JUN 1981,POL,1,Riesa (GER),23 SEP 2000,1011,javelin-throw,throws,female,u20
+492,56.36,,Carolina VISCA,31 MAY 2000,ITA,4f2,Šamorín (SVK),09 MAR 2019,1011,javelin-throw,throws,female,u20
+492,56.36,,Julia VALTANEN,06 MAY 2001,FIN,5,"Kuortaneen keskusurheilukenttä, Kuortane (FIN)",01 AUG 2020,1011,javelin-throw,throws,female,u20
+492,56.36,,Ziyi YAN,22 MAY 2008,CHN,1q2,"Sichuan Xipu Training Base, Chengdu (CHN)",29 MAR 2024,1011,javelin-throw,throws,female,u20
+495,56.35,,Kihou KUZE,28 MAR 1995,JPN,1,Tokyo (JPN),06 SEP 2013,1010,javelin-throw,throws,female,u20
+495,56.35,,Yutong LI,19 MAY 2001,CHN,7,"Shangyu Stadium, Shaoxing (CHN)",15 SEP 2020,1010,javelin-throw,throws,female,u20
+497,56.32,,Yanet CRUZ,08 FEB 1988,CUB,2,La Habana (CUB),02 MAR 2007,1010,javelin-throw,throws,female,u20
+497,56.32,,Vera REBRIK,25 FEB 1989,UKR,1,Mykolaiv (UKR),22 JUN 2007,1010,javelin-throw,throws,female,u20
+497,56.32,,Sara KOLAK,22 JUN 1995,CRO,2,"S. Darius & S. Girėnas Stadium, Kaunas (LTU)",22 JUN 2013,1010,javelin-throw,throws,female,u20
+500,56.31,,Kateryna DERUN,24 SEP 1993,UKR,2q1,"Kadrioru staadion, Tallinn (EST)",23 JUL 2011,1010,javelin-throw,throws,female,u20
+501,56.30,,Haruka KITAGUCHI,16 MAR 1998,JPN,10,"Taipei Municipal Stadium, Taipei City (TPE)",25 AUG 2017,1009,javelin-throw,throws,female,u20
+501,56.30,,Aoi MURAKAMI,11 MAR 2004,JPN,1,"National Stadium, Tokyo (JPN)",21 MAY 2022,1009,javelin-throw,throws,female,u20
+503,56.29,,Ning MA,04 NOV 1983,CHN,3,Shanghai (CHN),18 MAY 2002,1009,javelin-throw,throws,female,u20
+503,56.29,,Gyeongae GIM,05 MAR 1988,KOR,1,Daegu (KOR),02 JUN 2007,1009,javelin-throw,throws,female,u20
+503,56.29,,Sanni UTRIAINEN,05 FEB 1991,FIN,1,Kajaani (FIN),07 AUG 2010,1009,javelin-throw,throws,female,u20
+503,56.29,,Jiajia CHEN,14 OCT 1998,CHN,4,Beijing (CHN),28 JUN 2015,1009,javelin-throw,throws,female,u20
+507,56.27,,Mareike RITTWEG,01 JUN 1984,GER,2,Fulda (GER),05 JUL 2003,1009,javelin-throw,throws,female,u20
+507,56.27,,Chunhua LIU,01 OCT 1986,CHN,7,Nanjing (CHN),17 OCT 2005,1009,javelin-throw,throws,female,u20
+509,56.26,,Zhang YING,05 JAN 1988,CHN,1,Luohe (CHN),01 JUL 2006,1009,javelin-throw,throws,female,u20
+509,56.26,,Tereza VYTLAČILOVÁ,25 SEP 1995,CZE,1,Třinec (CZE),28 JUN 2014,1009,javelin-throw,throws,female,u20
+509,56.26,,Eda TUĞSUZ,27 MAR 1997,TUR,1,Mersin (TUR),17 MAY 2015,1009,javelin-throw,throws,female,u20
+509,56.26,,Momoko TSUJI,05 DEC 2003,JPN,1,"Hakatanomori Athletic Stadium, Fukuoka (JPN)",21 MAY 2022,1009,javelin-throw,throws,female,u20
+513,56.25,,Vera REBRIK,25 FEB 1989,UKR,q,Thessaloniki (GRE),02 JUL 2006,1009,javelin-throw,throws,female,u20
+513,56.25,,Carolina VISCA,31 MAY 2000,ITA,1,Rieti (ITA),08 JUN 2019,1009,javelin-throw,throws,female,u20
+515,56.24,,Vivian ZIMMER,22 JUL 1987,GER,2,Mannheim (GER),20 JUN 2004,1008,javelin-throw,throws,female,u20
+515,56.24,,Aleksandra OSTROWSKA,19 DEC 1997,POL,3,"Ekängens Friidrottsarena, Eskilstuna (SWE)",19 JUL 2015,1008,javelin-throw,throws,female,u20
+515,56.24,,Elina TZENGKO,02 SEP 2002,GRE,1,"Municipal Sports Center, Tripoli (GRE)",22 MAY 2021,1008,javelin-throw,throws,female,u20
+515,56.24,,Manuela ROTUNDO,19 JUL 2004,URU,1,Bogotá (COL),19 MAY 2023,1008,javelin-throw,throws,female,u20
+519,56.23,,Maria ANDREJCZYK,09 MAR 1996,POL,1q1,"Hayward Field, Eugene, OR (USA)",22 JUL 2014,1008,javelin-throw,throws,female,u20
+520,56.22,,Jo-Ane VAN DYK,03 OCT 1997,RSA,2,Durban (RSA),25 JUN 2016,1008,javelin-throw,throws,female,u20
+520,56.22,,Kaja Mørch PETEERSEN,06 NOV 2001,NOR,1,Larvik (NOR),26 SEP 2018,1008,javelin-throw,throws,female,u20
+520,56.22,,Kaja Mørch PETEERSEN,06 NOV 2001,NOR,1,Larvik (NOR),27 MAR 2019,1008,javelin-throw,throws,female,u20
+520,56.22,,Rebecca NELIMARKKA,10 JUL 2006,FIN,1,"Urheilupuisto, Mikkeli (FIN)",18 JUL 2025,1008,javelin-throw,throws,female,u20
+524,56.21,,Mariya ABAKUMOVA,15 JAN 1986,RUS,1,"Adler, Sochi (RUS)",06 FEB 2005,1008,javelin-throw,throws,female,u20
+524,56.21,,Beibei LIU,05 OCT 1990,CHN,5,Shijiazhuang (CHN),13 OCT 2008,1008,javelin-throw,throws,female,u20
+524,56.21,,Maura FIAMONCINI,23 JUN 1999,USA,1,"Selinsgrove, PA (USA)",31 MAR 2018,1008,javelin-throw,throws,female,u20
+527,56.20,,Sofi FLINK,08 JUL 1995,SWE,1,Sollentuna (SWE),12 AUG 2012,1008,javelin-throw,throws,female,u20
+527,56.20,,Marcelina WITEK,02 JUN 1995,POL,1,Kolobrzeg (POL),20 SEP 2013,1008,javelin-throw,throws,female,u20
+527,56.20,,Qianqian DAI,23 AUG 2000,CHN,1,Wuhu (CHN),19 MAY 2019,1008,javelin-throw,throws,female,u20
+527,56.20,,Melissa M. HERNÁNDEZ,16 MAR 2001,CUB,8,"Estadio Atlético de la VIDENA, Lima (PER)",09 AUG 2019,1008,javelin-throw,throws,female,u20
+531,56.19,,Nikol TABAČKOVÁ,24 JAN 1998,CZE,4,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",20 JUL 2016,1007,javelin-throw,throws,female,u20
+532,56.18,,Tazmin BRITS,08 JAN 1991,RSA,2,Durban (RSA),21 MAR 2010,1007,javelin-throw,throws,female,u20
+533,56.17,,Fanni KÖVÉR,15 FEB 2004,HUN,6,"Bregyó Athletic Center, Székesfehérvár (HUN)",06 JUL 2021,1007,javelin-throw,throws,female,u20
+533,56.17,,Fanni KÖVÉR,15 FEB 2004,HUN,2q1,"Kadrioru staadion, Tallinn (EST)",17 JUL 2021,1007,javelin-throw,throws,female,u20
+535,56.16,,Vera REBRIK,25 FEB 1989,UKR,2,"Sidi Youssef Ben Ali, Marrakech (MAR)",17 JUL 2005,1007,javelin-throw,throws,female,u20
+535,56.16,,Sinta SPRUDZĀNE,26 FEB 1988,LAT,1,Valmiera (LAT),04 AUG 2007,1007,javelin-throw,throws,female,u20
+535,56.16,,Sara KOLAK,22 JUN 1995,CRO,,Celje (SLO),03 AUG 2014,1007,javelin-throw,throws,female,u20
+535,56.16,,Haruka KITAGUCHI,16 MAR 1998,JPN,1q2,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",19 JUL 2016,1007,javelin-throw,throws,female,u20
+539,56.15,,Vivian ZIMMER,22 JUL 1987,GER,1q1,"Chaoyang Sport Center, Beijing (CHN)",15 AUG 2006,1007,javelin-throw,throws,female,u20
+539,56.15,,Carolina VISCA,31 MAY 2000,ITA,1,Firenze (ITA),28 APR 2017,1007,javelin-throw,throws,female,u20
+541,56.14,,Anastasiya SVECHNIKOVA,20 SEP 1992,UZB,1,Tashkent (UZB),17 JUL 2008,1006,javelin-throw,throws,female,u20
+541,56.14,,Li ZHANG,17 JAN 1989,CHN,9,"National Stadium, Beijing (CHN)",21 AUG 2008,1006,javelin-throw,throws,female,u20
+541,56.14,,Sofi FLINK,08 JUL 1995,SWE,1,Kuortane (FIN),06 JUL 2013,1006,javelin-throw,throws,female,u20
+541,56.14,,Ying WANG,05 JUN 2001,CHN,6,Zhaoqing (CHN),09 APR 2019,1006,javelin-throw,throws,female,u20
+541,56.14,,Skylar CICCOLINI,23 JUL 2001,USA,1,"Philadelphia, PA (USA)",25 APR 2019,1006,javelin-throw,throws,female,u20
+541,56.14,,Julia VALTANEN,06 MAY 2001,FIN,2,"Stadion, Lahti (FIN)",15 JUL 2020,1006,javelin-throw,throws,female,u20
+541,56.14,,Yiselena BALLAR ROJAS,12 JAN 2003,CUB,4,La Nucia (ESP),20 MAY 2022,1006,javelin-throw,throws,female,u20
+548,56.12,,Ning MA,04 NOV 1983,CHN,7,Chengdu (CHN),30 JUN 2001,1006,javelin-throw,throws,female,u20
+548,56.12,,Tazmin BRITS,08 JAN 1991,RSA,5,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",10 JUL 2008,1006,javelin-throw,throws,female,u20
+548,56.12,,Liina LAASMA,13 JAN 1992,EST,1q2,"Kadrioru staadion, Tallinn (EST)",23 JUL 2011,1006,javelin-throw,throws,female,u20
+551,56.10,,Liveta JASIŪNAITĖ,26 JUL 1994,LTU,1,Kaunas (LTU),03 JUN 2012,1006,javelin-throw,throws,female,u20
+551,56.10,,Yu LIAO,18 MAY 2000,CHN,8f1,Huangshi (CHN),13 APR 2019,1006,javelin-throw,throws,female,u20
+553,56.09,,Momoko TSUJI,05 DEC 2003,JPN,1,"Kyushu Kyoritsu University Stadium, Kitakyushu (JPN)",30 OCT 2022,1006,javelin-throw,throws,female,u20
+554,56.08,,Aihua GENG,29 JUN 1983,CHN,9,Guangzhou (CHN),23 NOV 2001,1005,javelin-throw,throws,female,u20
+554,56.08,,Maria Lucelly MURILLO,05 MAY 1991,COL,1,Medellín (COL),23 MAR 2010,1005,javelin-throw,throws,female,u20
+556,56.07,,Momoko TSUJI,05 DEC 2003,JPN,2q1,"Pascual Guerrero Stadium, Cali (COL)",01 AUG 2022,1005,javelin-throw,throws,female,u20
+557,56.05,,Karyna BUTKEVICH,05 OCT 2001,BLR,3,"RTSOP, Minsk (BLR)",26 JUN 2020,1005,javelin-throw,throws,female,u20
+558,56.04,,Jarmila KLIMEŠOVÁ,09 FEB 1981,CZE,2,Ostrava (CZE),03 SEP 2000,1005,javelin-throw,throws,female,u20
+558,56.04,,Juan XUE,10 FEB 1986,CHN,2,Colombo (SRI),11 AUG 2002,1005,javelin-throw,throws,female,u20
+558,56.04,,Annika SUTHE,15 OCT 1985,GER,1,Lüdenscheid (GER),13 JUN 2004,1005,javelin-throw,throws,female,u20
+558,56.04,,Lingyu LI,26 JAN 1989,CHN,2,Taian (CHN),03 NOV 2008,1005,javelin-throw,throws,female,u20
+558,56.04,,Shiying LIU,24 SEP 1993,CHN,6f1,Kunshan (CHN),24 SEP 2012,1005,javelin-throw,throws,female,u20
+558,56.04,,Sofi FLINK,08 JUL 1995,SWE,2q1,"Hayward Field, Eugene, OR (USA)",22 JUL 2014,1005,javelin-throw,throws,female,u20
+558,56.04,,Vita BARBIĆ,13 AUG 2007,CRO,2,"Stadion Branko Čavlović-Čavlek, Karlovac (CRO)",09 JUL 2023,1005,javelin-throw,throws,female,u20
+565,56.03,,Inga KOŽARENOKA,16 MAR 1982,LAT,1,Valmiera (LAT),15 JUL 2000,1004,javelin-throw,throws,female,u20
+566,56.02,,Vivian ZIMMER,22 JUL 1987,GER,1,Halle (GER),22 MAY 2004,1004,javelin-throw,throws,female,u20
+566,56.02,,Elina TZENGKO,02 SEP 2002,GRE,7,"Bregyó Athletic Center, Székesfehérvár (HUN)",06 JUL 2021,1004,javelin-throw,throws,female,u20
+568,56.01,,Annabel THOMSON,12 MAY 1987,AUS,3,"Stadio Zecchini, Grosseto (ITA)",15 JUL 2004,1004,javelin-throw,throws,female,u20
+568,56.01,,Lingyu LI,26 JAN 1989,CHN,1,Beijing (CHN),28 APR 2007,1004,javelin-throw,throws,female,u20
+568,56.01,,Julia VALTANEN,06 MAY 2001,FIN,1,"Harjun stadion, Jyväskylä (FIN)",01 SEP 2020,1004,javelin-throw,throws,female,u20
+568,56.01,,Anni-Linnea ALANEN,11 NOV 2002,FIN,2f1,"Urheilukenttä, Pihtipudas (FIN)",04 JUL 2021,1004,javelin-throw,throws,female,u20
+572,55.99,,Liina LAASMA,13 JAN 1992,EST,1,"Kadrioru staadion, Tallinn (EST)",24 JUL 2011,1004,javelin-throw,throws,female,u20
+572,55.99,,Sofi FLINK,08 JUL 1995,SWE,7,"Icahn Stadium, New York, NY (USA)",14 JUN 2014,1004,javelin-throw,throws,female,u20
+572,55.99,,Haruka KITAGUCHI,16 MAR 1998,JPN,7,"Todoroki Stadium, Kawasaki (JPN)",10 MAY 2015,1004,javelin-throw,throws,female,u20
+575,55.98,,Marina SAITO,15 OCT 1995,JPN,3,Nagasaki (JPN),19 OCT 2014,1004,javelin-throw,throws,female,u20
+575,55.98,,Esra TÜRKMEN,20 JAN 2002,TUR,3,Bursa (TUR),17 APR 2021,1004,javelin-throw,throws,female,u20
+577,55.97,,Maria ANDREJCZYK,09 MAR 1996,POL,2,Toruń (POL),29 JUN 2014,1003,javelin-throw,throws,female,u20
+577,55.97,,Yiselena BALLAR ROJAS,12 JAN 2003,CUB,1,"Pista Rafael Fortun Chacon, Camagüey (CUB)",09 JUL 2022,1003,javelin-throw,throws,female,u20
+577,55.97,,Veronika ŠOKOTA,09 MAR 2004,CRO,1,"Sports Park Mladost, Zagreb (CRO)",05 MAR 2023,1003,javelin-throw,throws,female,u20
+580,55.96,,Chunmei YI,15 MAR 1983,CHN,2,Deyang (CHN),14 MAY 2000,1003,javelin-throw,throws,female,u20
+580,55.96,,Laura CORNFORD,11 JUN 1988,AUS,1,Sydney (AUS),14 OCT 2007,1003,javelin-throw,throws,female,u20
+580,55.96,,Anastasiya SVECHNIKOVA,20 SEP 1992,UZB,5,Guangzhou (CHN),25 NOV 2010,1003,javelin-throw,throws,female,u20
+583,55.95,,Alina SHUKH,12 FEB 1999,UKR,1ce,"Kadrioru staadion, Tallinn (EST)",02 JUL 2017,1003,javelin-throw,throws,female,u20
+583,55.95,,Alina SHUKH,12 FEB 1999,UKR,1,"Ratinan Stadion, Tampere (FIN)",11 JUL 2018,1003,javelin-throw,throws,female,u20
+583,55.95,,Rabiye ÇIÇEK,12 APR 2007,TUR,1q2,"Ratinan Stadion, Tampere (FIN)",07 AUG 2025,1003,javelin-throw,throws,female,u20
+586,55.94,,Jarmila KLIMEŠOVÁ,09 FEB 1981,CZE,1,Caslav (CZE),29 AUG 2000,1003,javelin-throw,throws,female,u20
+587,55.93,,Jelena JAAKKOLA,07 MAR 1989,FIN,1,Mannheim (GER),22 JUN 2007,1003,javelin-throw,throws,female,u20
+587,55.93,,Sara KOLAK,22 JUN 1995,CRO,1,Zagreb (CRO),09 JUN 2013,1003,javelin-throw,throws,female,u20
+589,55.91,,Jie WU,26 SEP 1989,CHN,6,Shijiazhuang (CHN),07 AUG 2006,1002,javelin-throw,throws,female,u20
+589,55.91,,Réka SZILÁGYI,19 JAN 1996,HUN,4,"Ekängens Friidrottsarena, Eskilstuna (SWE)",19 JUL 2015,1002,javelin-throw,throws,female,u20
+591,55.90,,Tazmin BRITS,08 JAN 1991,RSA,1q2,Ostrava (CZE),14 JUL 2007,1002,javelin-throw,throws,female,u20
+591,55.90,,Esra TÜRKMEN,20 JAN 2002,TUR,1,"Ekrem Koçak Atletizm Pisti, Istanbul (TUR)",01 SEP 2020,1002,javelin-throw,throws,female,u20
+593,55.89,,Vera REBRIK,25 FEB 1989,UKR,2,Kyiv (UKR),22 JUL 2006,1002,javelin-throw,throws,female,u20
+594,55.88,,Juan XUE,10 FEB 1986,CHN,1,Yichun (CHN),17 APR 2005,1002,javelin-throw,throws,female,u20
+594,55.88,,Li ZHANG,17 JAN 1989,CHN,2,Celle Ligure (ITA),08 JUN 2006,1002,javelin-throw,throws,female,u20
+594,55.88,,Anastasiya SVECHNIKOVA,20 SEP 1992,UZB,1,Tashkent (UZB),11 JUN 2011,1002,javelin-throw,throws,female,u20
+597,55.87,,Lea WIPPER,14 OCT 2001,GER,1,"Frankenstadion, Heilbronn (GER)",06 SEP 2020,1002,javelin-throw,throws,female,u20
+598,55.86,,Juan XUE,10 FEB 1986,CHN,2,Zhongshan (CHN),24 APR 2005,1001,javelin-throw,throws,female,u20
+598,55.86,,Liina LAASMA,13 JAN 1992,EST,1,Jögeva (EST),12 JUL 2011,1001,javelin-throw,throws,female,u20
+600,55.85,,Veronika ŠOKOTA,09 MAR 2004,CRO,1,"Denizli Geleneksel Spor Kompleksi, Denizli (TUR)",16 JUL 2022,1001,javelin-throw,throws,female,u20
+601,55.83,,Lingyu LI,26 JAN 1989,CHN,3,Zhengzhou (CHN),28 MAY 2006,1001,javelin-throw,throws,female,u20
+601,55.83,,Tazmin BRITS,08 JAN 1991,RSA,1,Potchefstroom (RSA),04 MAR 2009,1001,javelin-throw,throws,female,u20
+601,55.83,,Tazmin BRITS,08 JAN 1991,RSA,2f1,Germiston (RSA),06 MAR 2009,1001,javelin-throw,throws,female,u20
+601,55.83,,Līna MŪZE,04 DEC 1992,LAT,2,"Kadrioru staadion, Tallinn (EST)",24 JUL 2011,1001,javelin-throw,throws,female,u20
+601,55.83,,Christin HUSSONG,17 MAR 1994,GER,1,Landau (GER),11 MAY 2013,1001,javelin-throw,throws,female,u20
+601,55.83,,Mckyla VAN DER WESTHUIZEN,11 MAR 2004,RSA,5,"Shuangliu Sports Centre, Chengdu (CHN)",03 AUG 2023,1001,javelin-throw,throws,female,u20
+607,55.82,,Lismania MUNOZ,28 FEB 1993,CUB,3,La Habana (CUB),19 MAR 2011,1001,javelin-throw,throws,female,u20
+607,55.82,,Fanni KÖVÉR,15 FEB 2004,HUN,5,"Sports Park Mladost, Zagreb (CRO)",11 SEP 2022,1001,javelin-throw,throws,female,u20
+607,55.82,,Hanyue LI,08 AUG 2004,CHN,1,Nanping (CHN),19 AUG 2023,1001,javelin-throw,throws,female,u20
+607,55.82,,Evelyn BLISS,14 JUN 2005,USA,6,"Hayward Field, Eugene, OR (USA)",30 JUN 2024,1001,javelin-throw,throws,female,u20
+611,55.81,,Li ZHANG,17 JAN 1989,CHN,8,Nanjing (CHN),17 OCT 2005,1000,javelin-throw,throws,female,u20
+611,55.81,,Manuela ROTUNDO,19 JUL 2004,URU,5,La Nucia (ESP),20 MAY 2022,1000,javelin-throw,throws,female,u20
+613,55.80,,Marisleisys DUARTHE,17 SEP 2000,CUB,1,La Habana (CUB),28 MAY 2017,1000,javelin-throw,throws,female,u20
+613,55.80,,Ting LI,31 DEC 2002,CHN,3,Fuzhou (CHN),24 MAY 2021,1000,javelin-throw,throws,female,u20
+615,55.79,,Lili LIANG,16 NOV 1983,CHN,1q,Deyang (CHN),11 MAY 2002,1000,javelin-throw,throws,female,u20
+615,55.79,,Veronika ŠOKOTA,09 MAR 2004,CRO,1,"Stadion Park Mladeži, Split (CRO)",13 MAR 2021,1000,javelin-throw,throws,female,u20
+617,55.78,,Marcelina WITEK,02 JUN 1995,POL,1q2,"Hayward Field, Eugene, OR (USA)",22 JUL 2014,1000,javelin-throw,throws,female,u20
+617,55.78,,Federica BOTTER,23 JAN 2001,ITA,1,Firenze (ITA),16 JUN 2019,1000,javelin-throw,throws,female,u20
+619,55.77,,Marina BUKSA,15 MAR 1987,BLR,2,Brest (BLR),06 JUL 2006,1000,javelin-throw,throws,female,u20
+619,55.77,,Sofi FLINK,08 JUL 1995,SWE,1,Uppsala (SWE),16 JUN 2013,1000,javelin-throw,throws,female,u20
+619,55.77,,Yutong LI,19 MAY 2001,CHN,4,"Beijing Sport University, Beijing (CHN)",07 AUG 2020,1000,javelin-throw,throws,female,u20
+622,55.76,,Chunfeng CHANG,04 MAY 1988,CHN,4,Zhengzhou (CHN),28 MAY 2006,999,javelin-throw,throws,female,u20
+622,55.76,,Kanako SHIBA,11 MAY 1990,JPN,1,Kofu (JPN),18 OCT 2009,999,javelin-throw,throws,female,u20
+624,55.75,,Galina KAKHOVA,26 MAR 1982,BLR,2,Brest (BLR),02 AUG 2000,999,javelin-throw,throws,female,u20
+624,55.75,,Julia ZANDT,08 MAY 1984,GER,2,Krefeld (GER),16 AUG 2003,999,javelin-throw,throws,female,u20
+624,55.75,,Annika SUTHE,15 OCT 1985,GER,1,Neubrandenburg (GER),15 FEB 2004,999,javelin-throw,throws,female,u20
+624,55.75,,Shiori TOMA,07 FEB 1996,JPN,1,Taipei City (TPE),13 JUN 2014,999,javelin-throw,throws,female,u20
+624,55.75,,Petra SIČAKOVÁ,14 APR 2003,CZE,1,"Městský stadion Střelnice, Domažlice (CZE)",08 MAY 2022,999,javelin-throw,throws,female,u20
+629,55.74,,Vera REBRIK,25 FEB 1989,UKR,1,Mykolaiv (UKR),12 JUN 2005,999,javelin-throw,throws,female,u20
+629,55.74,,Christin HUSSONG,17 MAR 1994,GER,1,Sindelfingen (GER),19 FEB 2012,999,javelin-throw,throws,female,u20
+629,55.74,,Sara KOLAK,22 JUN 1995,CRO,3,"Hayward Field, Eugene, OR (USA)",24 JUL 2014,999,javelin-throw,throws,female,u20
+629,55.74,,Shiori TOMA,07 FEB 1996,JPN,4,Hiroshima (JPN),19 APR 2015,999,javelin-throw,throws,female,u20
+629,55.74,,Yiselena BALLAR ROJAS,12 JAN 2003,CUB,1,La Habana (CUB),13 JUN 2019,999,javelin-throw,throws,female,u20
+629,55.74,,Lea WIPPER,14 OCT 2001,GER,2,"Enwag-Stadion, Wetzlar (GER)",18 JUL 2020,999,javelin-throw,throws,female,u20
+635,55.73,,Manuela KURRAT,25 DEC 1981,GER,1,Jena (GER),03 JUN 2000,999,javelin-throw,throws,female,u20
+635,55.73,,Galina KAKHOVA,26 MAR 1982,BLR,1q2,"E.Nacional, Santiago de Chile (CHI)",19 OCT 2000,999,javelin-throw,throws,female,u20
+635,55.73,,Ai YAMAUCHI,06 DEC 1994,JPN,2,Hiroshima (JPN),29 APR 2013,999,javelin-throw,throws,female,u20
+638,55.72,,Lin FU,21 FEB 1989,CHN,3,Chengdu (CHN),04 JUN 2007,999,javelin-throw,throws,female,u20
+638,55.72,,Tatjana JELAČA,10 AUG 1990,SRB,1,Schimatari (GRE),05 SEP 2009,999,javelin-throw,throws,female,u20
+638,55.72,,Leonie TRÖGER,22 DEC 2000,GER,1,Ulm (GER),28 JUL 2019,999,javelin-throw,throws,female,u20
+638,55.72,,Lea WIPPER,14 OCT 2001,GER,3,"Eintracht-Stadion, Braunschweig (GER)",08 AUG 2020,999,javelin-throw,throws,female,u20
+638,55.72,,Mirja LUKAS,01 APR 2005,GER,1,"ETSV Stadion, Offenburg (GER)",12 MAY 2024,999,javelin-throw,throws,female,u20
+643,55.71,,Sanobarhon ERKINOVA,16 DEC 1998,UZB,1,Tashkent (UZB),28 MAR 2017,999,javelin-throw,throws,female,u20
+644,55.70,,Palina SELIVANAVA,04 JAN 2006,BLR,3,"RTSOP, Minsk (BLR)",29 JUN 2025,998,javelin-throw,throws,female,u20
+645,55.69,,Jarmila KLIMEŠOVÁ,09 FEB 1981,CZE,2,Plzeň (CZE),15 JUL 2000,998,javelin-throw,throws,female,u20
+645,55.69,,Dan SONG,05 JUL 1990,CHN,4,Chengdu (CHN),04 JUN 2007,998,javelin-throw,throws,female,u20
+645,55.69,,Sara KOLAK,22 JUN 1995,CRO,1,Maribor (SLO),02 OCT 2010,998,javelin-throw,throws,female,u20
+645,55.69,,Yekaterina STARYGINA,26 AUG 1995,RUS,1,Kazan (RUS),16 JUN 2013,998,javelin-throw,throws,female,u20
+645,55.69,,Baoli WANG,25 OCT 2006,CHN,2f2,"Sichuan Xipu Training Base, Chengdu (CHN)",01 APR 2025,998,javelin-throw,throws,female,u20
+650,55.68,,Lismania MUNOZ,28 FEB 1993,CUB,4,La Habana (CUB),22 MAY 2010,998,javelin-throw,throws,female,u20
+650,55.68,,Irena ŠEDIVÁ,19 JAN 1992,CZE,2q2,"Kadrioru staadion, Tallinn (EST)",23 JUL 2011,998,javelin-throw,throws,female,u20
+650,55.68,,Madison WILTROUT,04 JUN 1999,USA,1,"Shippensburg, PA (USA)",23 MAY 2015,998,javelin-throw,throws,female,u20
+650,55.68,,Fanni KÖVÉR,15 FEB 2004,HUN,1,"Sportcentrum, Pápa (HUN)",18 JUN 2023,998,javelin-throw,throws,female,u20
+654,55.67,,Vera REBRIK,25 FEB 1989,UKR,1q2,"Sidi Youssef Ben Ali, Marrakech (MAR)",16 JUL 2005,998,javelin-throw,throws,female,u20
+654,55.67,,Kateryna DERUN,24 SEP 1993,UKR,3,Bar (MNE),17 MAR 2012,998,javelin-throw,throws,female,u20
+654,55.67,,Ziyi YAN,22 MAY 2008,CHN,1q2,"Estadio Atlético de la VIDENA, Lima (PER)",28 AUG 2024,998,javelin-throw,throws,female,u20
+657,55.66,,Monica STOIAN,25 AUG 1982,ROU,3,Bucureşti (ROU),05 MAR 2000,998,javelin-throw,throws,female,u20
+657,55.66,,Marina SAITO,15 OCT 1995,JPN,1,Chofu (JPN),06 OCT 2013,998,javelin-throw,throws,female,u20
+657,55.66,,Sara KOLAK,22 JUN 1995,CRO,1,Slovenj Gradec (SLO),05 JUL 2014,998,javelin-throw,throws,female,u20
+657,55.66,,Tomoka KUWAZOE,01 FEB 1999,JPN,2,"Ratinan Stadion, Tampere (FIN)",11 JUL 2018,998,javelin-throw,throws,female,u20
+661,55.65,,Lili LIANG,16 NOV 1983,CHN,3,Nanjing (CHN),14 APR 2000,997,javelin-throw,throws,female,u20
+661,55.65,,Chunmei YI,15 MAR 1983,CHN,8,Jinzhou (CHN),08 JUN 2000,997,javelin-throw,throws,female,u20
+661,55.65,,Valeriya PUTILINA,23 APR 2002,RUS,1,"Sports Training Center, Ufa (RUS)",01 JUL 2021,997,javelin-throw,throws,female,u20
+664,55.64,,Aihua GENG,29 JUN 1983,CHN,7,Benxi (CHN),10 JUN 2002,997,javelin-throw,throws,female,u20
+664,55.64,,Laura CORNFORD,11 JUN 1988,AUS,2,Brisbane (AUS),10 MAR 2007,997,javelin-throw,throws,female,u20
+664,55.64,,Vita BARBIĆ,13 AUG 2007,CRO,7,"Sports Park Mladost, Zagreb (CRO)",24 MAY 2025,997,javelin-throw,throws,female,u20
+667,55.63,,Jelena JAAKKOLA,07 MAR 1989,FIN,1,Esbjerg (DEN),01 SEP 2007,997,javelin-throw,throws,female,u20
+667,55.63,,Yuzhen YU,05 MAR 1998,CHN,5,Guiyang (CHN),27 JUN 2017,997,javelin-throw,throws,female,u20
+669,55.62,,Volha HAMZA,02 OCT 1985,BLR,1,Minsk (BLR),31 JUL 2004,997,javelin-throw,throws,female,u20
+669,55.62,,Chunfeng CHANG,04 MAY 1988,CHN,3,Guilin (CHN),10 SEP 2006,997,javelin-throw,throws,female,u20
+669,55.62,,Mailen BROOKS,26 JAN 2000,CUB,1,La Habana (CUB),09 MAR 2019,997,javelin-throw,throws,female,u20
+669,55.62,,Mirja LUKAS,01 APR 2005,GER,4,"Bungertstadion, Rehlingen (GER)",19 MAY 2024,997,javelin-throw,throws,female,u20
+673,55.61,,Juan XUE,10 FEB 1986,CHN,2,Nantong (CHN),05 JUN 2003,997,javelin-throw,throws,female,u20
+673,55.61,,Vera REBRIK,25 FEB 1989,UKR,2q1,"Chaoyang Sport Center, Beijing (CHN)",15 AUG 2006,997,javelin-throw,throws,female,u20
+673,55.61,,Sayuka KURATA,22 MAY 2004,JPN,1,"Prefectural Shizuoka Stadium, Fukuroi (JPN)",26 AUG 2023,997,javelin-throw,throws,female,u20
+676,55.60,,Rafaela TORRES GONÇALVES,27 NOV 1991,BRA,1,Piracicaba (BRA),16 MAY 2010,997,javelin-throw,throws,female,u20
+676,55.60,,Nikol TABAČKOVÁ,24 JAN 1998,CZE,4f1,Las Palmas (ESP),11 MAR 2017,997,javelin-throw,throws,female,u20
+676,55.60,,Aliaksandra KONSHYNA,14 AUG 2001,BLR,1,Brest (BLR),26 APR 2019,997,javelin-throw,throws,female,u20
+676,55.60,,Yiselena BALLAR ROJAS,12 JAN 2003,CUB,1,"Estadio Panamericano, La Habana (CUB)",22 MAR 2020,997,javelin-throw,throws,female,u20
+680,55.59,,Tetyana FETISKINA,11 SEP 1994,UKR,1,Yalta (UKR),20 FEB 2013,996,javelin-throw,throws,female,u20
+680,55.59,,Josephine Joyce LALAM,12 NOV 2000,UGA,1,Kampala (UGA),22 JUN 2019,996,javelin-throw,throws,female,u20
+680,55.59,,Miran NARAOKA,04 MAR 2001,JPN,2,"Komazawa Olympic Park Athletic Stadium, Tokyo (JPN)",24 JUL 2020,996,javelin-throw,throws,female,u20
+680,55.59,,Mckyla VAN DER WESTHUIZEN,11 MAR 2004,RSA,2,"Green Point Stadium, Cape Town (RSA)",23 APR 2022,996,javelin-throw,throws,female,u20
+684,55.58,,Chunmei YI,15 MAR 1983,CHN,10,Guangzhou (CHN),23 NOV 2001,996,javelin-throw,throws,female,u20
+684,55.58,,Vera REBRIK,25 FEB 1989,UKR,6,Kassel (GER),06 JUN 2007,996,javelin-throw,throws,female,u20
+684,55.58,,Irena ŠEDIVÁ,19 JAN 1992,CZE,1,Ostrava (CZE),18 JUN 2011,996,javelin-throw,throws,female,u20
+687,55.57,,Maria ZERVA,10 AUG 1987,GRE,1,Argos Orestiko (GRE),25 JUN 2006,996,javelin-throw,throws,female,u20
+687,55.57,,Nivia Lidia MÉNDEZ,11 MAY 1990,CUB,4,La Habana (CUB),25 APR 2009,996,javelin-throw,throws,female,u20
+687,55.57,,Federica BOTTER,23 JAN 2001,ITA,1,Conegliano (ITA),21 JUN 2019,996,javelin-throw,throws,female,u20
+690,55.56,,Anete KOCIŅA,05 FEB 1996,LAT,4,Jelgava (LAT),26 JUN 2014,996,javelin-throw,throws,female,u20
+690,55.56,,Yekaterina STARYGINA,26 AUG 1995,RUS,1,Yerino (RUS),09 JUL 2014,996,javelin-throw,throws,female,u20
+692,55.55,,Annika SUTHE,15 OCT 1985,GER,1,Ohrdruf (GER),29 MAY 2004,996,javelin-throw,throws,female,u20
+692,55.55,,Līna MŪZE,04 DEC 1992,LAT,6,Cottbus (GER),25 JUN 2011,996,javelin-throw,throws,female,u20
+692,55.55,,Valeriya KUCHINA,12 AUG 1998,RUS,1,"Adler, Sochi (RUS)",23 APR 2017,996,javelin-throw,throws,female,u20
+692,55.55,,Yu LIAO,18 MAY 2000,CHN,7,Zhaoqing (CHN),09 APR 2019,996,javelin-throw,throws,female,u20
+692,55.55,,Julia ULBRICHT,28 NOV 2000,GER,1q1,"Ryavallen, Borås (SWE)",18 JUL 2019,996,javelin-throw,throws,female,u20
+692,55.55,,Mckyla VAN DER WESTHUIZEN,11 MAR 2004,RSA,2,"Cote d'Or National Sports Complex, St Pierre (MRI)",11 JUN 2022,996,javelin-throw,throws,female,u20
+698,55.54,,Jingya ZHU,15 DEC 1987,CHN,1,Taipa (MAC),16 JUL 2006,995,javelin-throw,throws,female,u20
+698,55.54,,Dan SONG,05 JUL 1990,CHN,1,Sydney (AUS),19 JAN 2007,995,javelin-throw,throws,female,u20
+698,55.54,,Julia VALTANEN,06 MAY 2001,FIN,1,"Stadion, Lahti (FIN)",19 SEP 2020,995,javelin-throw,throws,female,u20
+701,55.53,,Līna MŪZE,04 DEC 1992,LAT,3,Bauska (LAT),22 JUN 2011,995,javelin-throw,throws,female,u20
+701,55.53,,Tsugumi OKABAYASHI,19 JUL 1998,JPN,1,Kitakami (JPN),09 OCT 2016,995,javelin-throw,throws,female,u20
+701,55.53,,Fanni KÖVÉR,15 FEB 2004,HUN,1,"Štadión SNP, Banská Bystrica (SVK)",24 JUN 2023,995,javelin-throw,throws,female,u20
+704,55.52,,Justine ROBBESON,15 MAY 1985,RSA,1,Potchefstroom (RSA),15 SEP 2004,995,javelin-throw,throws,female,u20
+704,55.52,,Christin HUSSONG,17 MAR 1994,GER,1,Jena (GER),05 AUG 2011,995,javelin-throw,throws,female,u20
+704,55.52,,Laura HENKEL,23 FEB 1992,GER,1,Jena (GER),06 AUG 2011,995,javelin-throw,throws,female,u20
+707,55.51,,Ásdís HJÁLMSDÓTTIR,28 OCT 1985,ISL,1q1,"Stadio Zecchini, Grosseto (ITA)",13 JUL 2004,995,javelin-throw,throws,female,u20
+708,55.50,,Juan XUE,10 FEB 1986,CHN,4,Shanghai (CHN),18 MAY 2002,995,javelin-throw,throws,female,u20
+709,55.49,,Inga KOŽARENOKA,16 MAR 1982,LAT,1,Murjāņi (LAT),25 SEP 1999,994,javelin-throw,throws,female,u20
+709,55.49,,Mareike RITTWEG,01 JUN 1984,GER,1,Regensburg (GER),09 AUG 2003,994,javelin-throw,throws,female,u20
+709,55.49,,Sandra SCHAFFARZIK,22 JUN 1987,GER,3,"S. Darius & S. Girėnas Stadium, Kaunas (LTU)",24 JUL 2005,994,javelin-throw,throws,female,u20
+709,55.49,,Momoko TSUJI,05 DEC 2003,JPN,1,"Honjo Athletic Stadium, Kitakyushu (JPN)",16 OCT 2022,994,javelin-throw,throws,female,u20
+709,55.49,,Manuela ROTUNDO,19 JUL 2004,URU,1,"Estadio Jose A. Figueroa Freyre, Mayagüez (PUR)",06 AUG 2023,994,javelin-throw,throws,female,u20
+714,55.48,,Yaning WANG,04 JAN 1980,CHN,3,Shenyang (CHN),18 JUN 1999,994,javelin-throw,throws,female,u20
+714,55.48,,Maria ZERVA,10 AUG 1987,GRE,6,Kalamata (GRE),30 MAY 2005,994,javelin-throw,throws,female,u20
+714,55.48,,Jelena JAAKKOLA,07 MAR 1989,FIN,6,Tallinn (EST),03 JUN 2008,994,javelin-throw,throws,female,u20
+714,55.48,,Kaja Mørch PETEERSEN,06 NOV 2001,NOR,1,Copenhagen (DEN),12 AUG 2018,994,javelin-throw,throws,female,u20
+714,55.48,,Yiselena BALLAR ROJAS,12 JAN 2003,CUB,3,"Moi International Sports Centre, Kasarani, Nairobi (KEN)",19 AUG 2021,994,javelin-throw,throws,female,u20
+719,55.47,,Lingyu LI,26 JAN 1989,CHN,2,Wuhan (CHN),02 NOV 2007,994,javelin-throw,throws,female,u20
+719,55.47,,Momoko TSUJI,05 DEC 2003,JPN,1er,"Kyushu Kyoritsu University Stadium, Kitakyushu (JPN)",17 JUL 2022,994,javelin-throw,throws,female,u20
+721,55.46,,Qianqian DAI,23 AUG 2000,CHN,5,Chengdu (CHN),01 APR 2018,994,javelin-throw,throws,female,u20
+721,55.46,,Ying WANG,05 JUN 2001,CHN,5,Chengdu (CHN),31 MAR 2019,994,javelin-throw,throws,female,u20
+723,55.45,,Lingdan SU,12 JAN 1997,CHN,4,Shaoxing (CHN),16 APR 2016,994,javelin-throw,throws,female,u20
+723,55.45,,Melissa M. HERNÁNDEZ,16 MAR 2001,CUB,2,"Estadio Panamericano, La Habana (CUB)",13 MAR 2020,994,javelin-throw,throws,female,u20
+725,55.44,,Mareike RITTWEG,01 JUN 1984,GER,2,Ulm (GER),28 JUN 2003,994,javelin-throw,throws,female,u20
+725,55.44,,Vera REBRIK,25 FEB 1989,UKR,1,Kyiv (UKR),21 MAY 2006,994,javelin-throw,throws,female,u20
+725,55.44,,Yuzhen YU,05 MAR 1998,CHN,4q,Chengdu (CHN),30 MAR 2017,994,javelin-throw,throws,female,u20
+725,55.44,,Ting LI,31 DEC 2002,CHN,4q2,Chengdu (CHN),30 MAR 2019,994,javelin-throw,throws,female,u20
+729,55.43,,Lingyu LI,26 JAN 1989,CHN,3,Shijiazhuang (CHN),02 AUG 2007,993,javelin-throw,throws,female,u20
+730,55.42,,Aseel Osama ABDEL HAMID,17 FEB 2008,EGY,1,"The Olympic Center For Training National Teams, Cairo (EGY)",30 DEC 2024,993,javelin-throw,throws,female,u20
+731,55.41,,Veronika ŠOKOTA,09 MAR 2004,CRO,2,"Givat Ram Stadium, Jerusalem (ISR)",10 AUG 2023,993,javelin-throw,throws,female,u20
+732,55.40,,Galina KAKHOVA,26 MAR 1982,BLR,1,"Stadio Zecchini, Grosseto (ITA)",22 JUL 2001,993,javelin-throw,throws,female,u20
+732,55.40,,Goldie SAYERS,16 JUL 1982,GBR,2,"Stadio Zecchini, Grosseto (ITA)",22 JUL 2001,993,javelin-throw,throws,female,u20
+732,55.40,,Vivian ZIMMER,22 JUL 1987,GER,1,Regensburg (GER),17 JUN 2006,993,javelin-throw,throws,female,u20
+732,55.40,,Vera REBRIK,25 FEB 1989,UKR,2,Yalta (UKR),10 FEB 2007,993,javelin-throw,throws,female,u20
+732,55.40,,Melissa M. HERNÁNDEZ,16 MAR 2001,CUB,2,"Estadio Panamericano, La Habana (CUB)",22 MAR 2020,993,javelin-throw,throws,female,u20
+737,55.39,,Beibei DU,06 JAN 1983,CHN,5,Jinan (CHN),02 MAY 1999,993,javelin-throw,throws,female,u20
+737,55.39,,Dan SONG,05 JUL 1990,CHN,1,Singapore (SGP),02 SEP 2006,993,javelin-throw,throws,female,u20
+737,55.39,,Mailen BROOKS,26 JAN 2000,CUB,2,La Habana (CUB),09 JUN 2018,993,javelin-throw,throws,female,u20
+740,55.38,,Lingyu LI,26 JAN 1989,CHN,2,Beijing (CHN),17 JUL 2004,992,javelin-throw,throws,female,u20
+740,55.38,,Julia VALTANEN,06 MAY 2001,FIN,2,"Ratinan Stadion, Tampere (FIN)",23 JUL 2020,992,javelin-throw,throws,female,u20
+742,55.37,,Chunhua LIU,01 OCT 1986,CHN,3q1,Changsha (CHN),23 OCT 2003,992,javelin-throw,throws,female,u20
+742,55.37,,Tatjana JELAČA,10 AUG 1990,SRB,1,Rijeka (CRO),19 MAY 2009,992,javelin-throw,throws,female,u20
+742,55.37,,Laura HENKEL,23 FEB 1992,GER,3,"Kadrioru staadion, Tallinn (EST)",24 JUL 2011,992,javelin-throw,throws,female,u20
+742,55.37,,Jiajia CHEN,14 OCT 1998,CHN,5,Shaoxing (CHN),16 APR 2016,992,javelin-throw,throws,female,u20
+746,55.36,,Beibei DU,06 JAN 1983,CHN,4,Zhongshan (CHN),21 APR 2001,992,javelin-throw,throws,female,u20
+746,55.36,,Jingya ZHU,15 DEC 1987,CHN,4,Chongqing (CHN),23 APR 2006,992,javelin-throw,throws,female,u20
+746,55.36,,Christin HUSSONG,17 MAR 1994,GER,1,Halle (GER),22 MAY 2011,992,javelin-throw,throws,female,u20
+746,55.36,,Karolina BOŁDYSZ-ARCHACKA,21 APR 1993,POL,1,Gdansk (POL),05 MAY 2012,992,javelin-throw,throws,female,u20
+746,55.36,,Hui-Jun LI,12 MAY 1999,TPE,1,Gifu (JPN),08 JUN 2018,992,javelin-throw,throws,female,u20
+746,55.36,,Viktoriia DERKACH,19 MAY 2005,POL,1,"Wieslaw Maniak Municipal Athletic Stadium, Szczecin (POL)",09 JUN 2024,992,javelin-throw,throws,female,u20
+752,55.35,,Linda BRIVULE,09 SEP 1983,LAT,1,"National Stadium, Kingston (JAM)",17 JUL 2002,992,javelin-throw,throws,female,u20
+752,55.35,,Christin HUSSONG,17 MAR 1994,GER,1,Pirmasens (GER),02 MAY 2010,992,javelin-throw,throws,female,u20
+752,55.35,,Xiaodan SONG,23 JAN 1993,CHN,1,Jinan (CHN),05 JUN 2011,992,javelin-throw,throws,female,u20
+752,55.35,,Mikako YAMASHITA,03 MAY 1997,JPN,2,Wakayama (JPN),04 OCT 2015,992,javelin-throw,throws,female,u20
+752,55.35,,Chu CHANG,11 SEP 1997,TPE,5,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",20 JUL 2016,992,javelin-throw,throws,female,u20
+757,55.34,,Li ZHANG,17 JAN 1989,CHN,5,Yixing (CHN),21 MAY 2005,992,javelin-throw,throws,female,u20
+757,55.34,,Jelena JAAKKOLA,07 MAR 1989,FIN,4,Lapua (FIN),08 JUN 2008,992,javelin-throw,throws,female,u20
+757,55.34,,Aliaksandra KONSHYNA,14 AUG 2001,BLR,2,"Regional Sport Complex, Brest (BLR)",08 JUL 2020,992,javelin-throw,throws,female,u20
+757,55.34,,Vita BARBIĆ,13 AUG 2007,CRO,7,"Sports Park Mladost, Zagreb (CRO)",08 SEP 2024,992,javelin-throw,throws,female,u20
+761,55.33,,Kaja Mørch PETEERSEN,06 NOV 2001,NOR,1,Larvik (NOR),19 SEP 2018,992,javelin-throw,throws,female,u20
+762,55.32,,Margaryta DOROZHON,04 SEP 1987,UKR,1,Kyiv (UKR),04 JUN 2005,991,javelin-throw,throws,female,u20
+762,55.32,,Jucilene Sales DE LIMA,14 SEP 1990,BRA,2,Sâo Caetano do Sul (BRA),14 FEB 2009,991,javelin-throw,throws,female,u20
+762,55.32,,Veronika ŠOKOTA,09 MAR 2004,CRO,1,"Stadion Branko Čavlović-Čavlek, Karlovac (CRO)",09 SEP 2020,991,javelin-throw,throws,female,u20
+762,55.32,,Fanni KÖVÉR,15 FEB 2004,HUN,2,"Lantos Mihály Sportközpont, Budapest (HUN)",26 JUN 2022,991,javelin-throw,throws,female,u20
+766,55.31,,Carolin SOBOLL,12 JAN 1981,GER,1,Wattenscheid (GER),29 APR 1999,991,javelin-throw,throws,female,u20
+766,55.31,,Anastasiya SVECHNIKOVA,20 SEP 1992,UZB,17q1,"National Stadium, Beijing (CHN)",19 AUG 2008,991,javelin-throw,throws,female,u20
+766,55.31,,Marcelina WITEK,02 JUN 1995,POL,1,Chojnice (POL),23 AUG 2014,991,javelin-throw,throws,female,u20
+769,55.30,,Beibei DU,06 JAN 1983,CHN,1,Singapore (SGP),30 SEP 1999,991,javelin-throw,throws,female,u20
+769,55.30,,Lili LIANG,16 NOV 1983,CHN,5,Tianjin (CHN),18 MAY 2001,991,javelin-throw,throws,female,u20
+769,55.30,,Volha HAMZA,02 OCT 1985,BLR,1,Kyiv (UKR),24 MAY 2002,991,javelin-throw,throws,female,u20
+769,55.30,,Panayota TOULOUMTZI,26 SEP 1986,GRE,1,Thessaloniki (GRE),28 APR 2005,991,javelin-throw,throws,female,u20
+769,55.30,,Carolina VISCA,31 MAY 2000,ITA,1f2,Jena (GER),29 JUN 2018,991,javelin-throw,throws,female,u20
+774,55.29,,Nikolett SZABÓ,03 MAR 1980,HUN,3,Athina (GRE),05 JUN 1999,991,javelin-throw,throws,female,u20
+774,55.29,,Christin HUSSONG,17 MAR 1994,GER,2,Göttingen (GER),16 JUN 2013,991,javelin-throw,throws,female,u20
+774,55.29,,Nikol TABAČKOVÁ,24 JAN 1998,CZE,3,Tábor (CZE),19 JUN 2016,991,javelin-throw,throws,female,u20
+774,55.29,,Pin-Hsun CHU,08 APR 2005,TPE,1,"Banqiao Stadium, New Taipei City (TPE)",10 MAR 2023,991,javelin-throw,throws,female,u20
+778,55.28,,Jie WU,26 SEP 1989,CHN,5,Chengdu (CHN),04 JUN 2007,991,javelin-throw,throws,female,u20
+778,55.28,,Līna MŪZE,04 DEC 1992,LAT,1,Ventspils (LAT),02 JUL 2010,991,javelin-throw,throws,female,u20
+778,55.28,,Ying WANG,05 JUN 2001,CHN,2,Wuhu (CHN),19 MAY 2019,991,javelin-throw,throws,female,u20
+781,55.27,,Lili LIANG,16 NOV 1983,CHN,2,Tiantai (CHN),27 OCT 2002,990,javelin-throw,throws,female,u20
+781,55.27,,Vera REBRIK,25 FEB 1989,UKR,2,Yalta (UKR),04 FEB 2006,990,javelin-throw,throws,female,u20
+781,55.27,,Sanni UTRIAINEN,05 FEB 1991,FIN,1q1,"Croix-Bleue Medavie Stadium, Moncton (CAN)",20 JUL 2010,990,javelin-throw,throws,female,u20
+781,55.27,,Liping SUI,01 MAY 1991,CHN,5q1,Jinan (CHN),07 AUG 2010,990,javelin-throw,throws,female,u20
+781,55.27,,Ying WANG,05 JUN 2001,CHN,2,Chengdu (CHN),05 APR 2018,990,javelin-throw,throws,female,u20
+781,55.27,,Aliaksandra KONSHYNA,14 AUG 2001,BLR,2,Šamorín (SVK),10 MAR 2019,990,javelin-throw,throws,female,u20
+787,55.26,,Li ZHANG,17 JAN 1989,CHN,2,Changsha (CHN),29 OCT 2006,990,javelin-throw,throws,female,u20
+787,55.26,,Yanet CRUZ,08 FEB 1988,CUB,2,La Habana (CUB),22 JUN 2007,990,javelin-throw,throws,female,u20
+787,55.26,,Lingyu LI,26 JAN 1989,CHN,3,Hangzhou (CHN),13 APR 2008,990,javelin-throw,throws,female,u20
+787,55.26,,Jelena JAAKKOLA,07 MAR 1989,FIN,6,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",10 JUL 2008,990,javelin-throw,throws,female,u20
+787,55.26,,Carolina VISCA,31 MAY 2000,ITA,1q,"Bressanone, Trentino-Alto Adige (ITA)",27 JUL 2019,990,javelin-throw,throws,female,u20
+787,55.26,,Yiselena BALLAR ROJAS,12 JAN 2003,CUB,1,"José Pepe del Cabo, Santiago de Cuba (CUB)",28 FEB 2020,990,javelin-throw,throws,female,u20
+787,55.26,,Yiselena BALLAR ROJAS,12 JAN 2003,CUB,1,"Estadio Panamericano, La Habana (CUB)",11 MAR 2022,990,javelin-throw,throws,female,u20
+787,55.26,,Vita BARBIĆ,13 AUG 2007,CRO,1f1,"Ratinan Stadion, Tampere (FIN)",09 AUG 2025,990,javelin-throw,throws,female,u20
+795,55.25,,Qing CAI,08 MAR 2000,CHN,6,Jinan (CHN),17 MAY 2017,990,javelin-throw,throws,female,u20
+795,55.25,,Julia ULBRICHT,28 NOV 2000,GER,4,Berlin (GER),03 AUG 2019,990,javelin-throw,throws,female,u20
+795,55.25,,Momoko TSUJI,05 DEC 2003,JPN,2,"Kyushu Kyoritsu University Stadium, Kitakyushu (JPN)",20 MAR 2022,990,javelin-throw,throws,female,u20
+798,55.24,,Anni-Linnea ALANEN,11 NOV 2002,FIN,2f2,Pihtipudas (FIN),30 JUN 2019,990,javelin-throw,throws,female,u20
+799,55.23,,. DEEPIKA,21 NOV 2005,IND,3,"Sree Kanteerava Outdoor Stadium, Bengaluru (IND)",31 AUG 2024,990,javelin-throw,throws,female,u20
+800,55.22,,Sandra SCHAFFARZIK,22 JUN 1987,GER,1,Mannheim (GER),07 JUL 2006,989,javelin-throw,throws,female,u20
+800,55.22,,Carita HINKKA,01 APR 1991,FIN,4,Pihtipudas (FIN),28 JUN 2009,989,javelin-throw,throws,female,u20
+800,55.22,,Sofi FLINK,08 JUL 1995,SWE,1,Stockholm (SWE),25 AUG 2012,989,javelin-throw,throws,female,u20
+800,55.22,,Carolina VISCA,31 MAY 2000,ITA,3,Savona (ITA),29 MAY 2019,989,javelin-throw,throws,female,u20
+800,55.22,,Federica BOTTER,23 JAN 2001,ITA,1,"Polisportivo Comunale, Codroipo (ITA)",30 JUN 2019,989,javelin-throw,throws,female,u20
+805,55.21,,Haley CROUSER,02 NOV 1994,USA,1,"Beaverton, OR (USA)",13 APR 2012,989,javelin-throw,throws,female,u20
+805,55.21,,Anete KOCIŅA,05 FEB 1996,LAT,2,Liepaja (LAT),09 MAY 2015,989,javelin-throw,throws,female,u20
+807,55.20,,Ilze GRIBULE,25 JAN 1984,LAT,2,Ventspils (LAT),14 JUN 2003,989,javelin-throw,throws,female,u20
+807,55.20,,Ilze GRIBULE,25 JAN 1984,LAT,1,Ventspils (LAT),14 JUN 2003,989,javelin-throw,throws,female,u20
+807,55.20,,Margaryta DOROZHON,04 SEP 1987,UKR,3,Kyiv (UKR),22 JUL 2006,989,javelin-throw,throws,female,u20
+807,55.20,,Lismania MUNOZ,28 FEB 1993,CUB,1,San Salvador (ESA),30 JUN 2012,989,javelin-throw,throws,female,u20
+807,55.20,,Elina TZENGKO,02 SEP 2002,GRE,1,Kilkis (GRE),21 APR 2019,989,javelin-throw,throws,female,u20
+812,55.19,,Annika SUTHE,15 OCT 1985,GER,2q,"Ratinan Stadion, Tampere (FIN)",26 JUL 2003,989,javelin-throw,throws,female,u20
+812,55.19,,Beibei LIU,05 OCT 1990,CHN,3,Taian (CHN),03 NOV 2008,989,javelin-throw,throws,female,u20
+812,55.19,,Lismania MUNOZ,28 FEB 1993,CUB,2,La Habana (CUB),08 JUN 2012,989,javelin-throw,throws,female,u20
+812,55.19,,Esra TÜRKMEN,20 JAN 2002,TUR,1,Denizli (TUR),15 AUG 2020,989,javelin-throw,throws,female,u20
+816,55.18,,Lili LIANG,16 NOV 1983,CHN,5,Tianjin (CHN),03 MAY 2000,989,javelin-throw,throws,female,u20
+816,55.18,,Chunhua LIU,01 OCT 1986,CHN,6,Changsha (CHN),25 JUN 2005,989,javelin-throw,throws,female,u20
+816,55.18,,Tatjana JELAČA,10 AUG 1990,SRB,1,Bar (MNE),01 MAY 2008,989,javelin-throw,throws,female,u20
+816,55.18,,Mckyla VAN DER WESTHUIZEN,11 MAR 2004,RSA,7q1,"Hornet Stadium - Sac St., Sacramento, CA (USA)",25 MAY 2023,989,javelin-throw,throws,female,u20
+820,55.17,,Panayota TOULOUMTZI,26 SEP 1986,GRE,1,Thessaloniki (GRE),10 JUL 2005,989,javelin-throw,throws,female,u20
+821,55.16,,Liu LIN,03 JAN 1981,CHN,5,Shenyang (CHN),18 JUN 1999,988,javelin-throw,throws,female,u20
+821,55.16,,Estefany CHACÓN,01 NOV 1997,VEN,1,Caracas (VEN),28 MAR 2015,988,javelin-throw,throws,female,u20
+821,55.16,,Madison WILTROUT,04 JUN 1999,USA,1,"Pittsburgh, PA (USA)",14 MAY 2015,988,javelin-throw,throws,female,u20
+821,55.16,,Lingdan SU,12 JAN 1997,CHN,5,Chengdu (CHN),10 APR 2016,988,javelin-throw,throws,female,u20
+821,55.16,,Eda TUĞSUZ,27 MAR 1997,TUR,1,Antalya (TUR),11 MAY 2016,988,javelin-throw,throws,female,u20
+826,55.15,,Marija VUČENOVIĆ,03 APR 1993,SRB,1,Sremska Mitrovica (SRB),09 JUN 2012,988,javelin-throw,throws,female,u20
+827,55.14,,Zhang YING,05 JAN 1988,CHN,2,Taipa (MAC),16 JUL 2006,988,javelin-throw,throws,female,u20
+828,55.13,,Jelena JAAKKOLA,07 MAR 1989,FIN,3,Tampere (FIN),26 JUL 2008,988,javelin-throw,throws,female,u20
+828,55.13,,Carolina VISCA,31 MAY 2000,ITA,7,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",10 AUG 2019,988,javelin-throw,throws,female,u20
+830,55.12,,Yulenmis AGUILAR,03 AUG 1996,CUB,1,La Habana (CUB),18 JUN 2015,988,javelin-throw,throws,female,u20
+830,55.12,,Carolina VISCA,31 MAY 2000,ITA,6,Rovereto (ITA),23 AUG 2018,988,javelin-throw,throws,female,u20
+832,55.11,,Dana BAKER,07 OCT 1999,USA,1,"East Stroudsburg, PA (USA)",29 JUN 2018,987,javelin-throw,throws,female,u20
+832,55.11,,Manuela ROTUNDO,19 JUL 2004,URU,3,"Pascual Guerrero Stadium, Cali (COL)",02 AUG 2022,987,javelin-throw,throws,female,u20
+832,55.11,,Rebecca NELIMARKKA,10 JUL 2006,FIN,1,"Paavo Nurmen Stadion, Turku (FIN)",04 JUN 2025,987,javelin-throw,throws,female,u20
+835,55.10,,Ning MA,04 NOV 1983,CHN,2q,Deyang (CHN),11 MAY 2002,987,javelin-throw,throws,female,u20
+835,55.10,,Chunfeng CHANG,04 MAY 1988,CHN,7,Shijiazhuang (CHN),07 AUG 2006,987,javelin-throw,throws,female,u20
+835,55.10,,Shiying LIU,24 SEP 1993,CHN,2,Jinan (CHN),05 JUN 2011,987,javelin-throw,throws,female,u20
+835,55.10,,Nikol TABAČKOVÁ,24 JAN 1998,CZE,1,"Stadio Zecchini, Grosseto (ITA)",21 JUL 2017,987,javelin-throw,throws,female,u20
+839,55.09,,Līna MŪZE,04 DEC 1992,LAT,3,Liepaja (LAT),30 JUL 2011,987,javelin-throw,throws,female,u20
+839,55.09,,Ying WANG,05 JUN 2001,CHN,2q,Chengdu (CHN),04 APR 2018,987,javelin-throw,throws,female,u20
+839,55.09,,Melissa M. HERNÁNDEZ,16 MAR 2001,CUB,1,La Habana (CUB),09 FEB 2019,987,javelin-throw,throws,female,u20
+842,55.08,,Ning MA,04 NOV 1983,CHN,2,Deyang (CHN),12 MAY 2002,987,javelin-throw,throws,female,u20
+842,55.08,,Chunhua LIU,01 OCT 1986,CHN,2,Zhaoqing (CHN),10 APR 2005,987,javelin-throw,throws,female,u20
+842,55.08,,Rhema OTABOR,03 DEC 2002,BAH,4,"Moi International Sports Centre, Kasarani, Nairobi (KEN)",19 AUG 2021,987,javelin-throw,throws,female,u20
+845,55.06,,Buoban PHAMANG,27 DEC 1986,THA,1,Manila (PHI),28 NOV 2005,987,javelin-throw,throws,female,u20
+845,55.06,,Jelena JAAKKOLA,07 MAR 1989,FIN,3,Lapinlahti (FIN),20 JUL 2008,987,javelin-throw,throws,female,u20
+845,55.06,,Rhema OTABOR,03 DEC 2002,BAH,1,"Estadio Nacional - La Sabana, San José (CRC)",11 JUL 2021,987,javelin-throw,throws,female,u20
+845,55.06,,Fanni KÖVÉR,15 FEB 2004,HUN,2,"Bregyó Athletic Center, Székesfehérvár (HUN)",11 SEP 2021,987,javelin-throw,throws,female,u20
+849,55.05,,Qiongnan YOU,06 NOV 1989,CHN,2,Yichun (CHN),13 MAY 2006,986,javelin-throw,throws,female,u20
+849,55.05,,Fanni KÖVÉR,15 FEB 2004,HUN,1,"SZIE Atlétika Centrum, Gödöllő (HUN)",27 JUN 2020,986,javelin-throw,throws,female,u20
+849,55.05,,Veronika ŠOKOTA,09 MAR 2004,CRO,2,Istanbul (TUR),12 JUN 2021,986,javelin-throw,throws,female,u20
+849,55.05,,Fanni KÖVÉR,15 FEB 2004,HUN,3,"Egyetemi Stadion, Veszprém (HUN)",28 MAY 2023,986,javelin-throw,throws,female,u20
+849,55.05,,Sayuka KURATA,22 MAY 2004,JPN,7,"Yanmar Stadium Nagai, Osaka (JPN)",02 JUN 2023,986,javelin-throw,throws,female,u20
+854,55.04,,Tatjana JELAČA,10 AUG 1990,SRB,1,Bar (MNE),01 MAY 2009,986,javelin-throw,throws,female,u20
+854,55.04,,Kateryna DERUN,24 SEP 1993,UKR,1,Yalta (UKR),02 JUN 2012,986,javelin-throw,throws,female,u20
+854,55.04,,Carolina VISCA,31 MAY 2000,ITA,1,Rieti (ITA),25 FEB 2018,986,javelin-throw,throws,female,u20
+854,55.04,,Dana BAKER,07 OCT 1999,USA,3,"Ratinan Stadion, Tampere (FIN)",11 JUL 2018,986,javelin-throw,throws,female,u20
+858,55.03,,Sinta SPRUDZĀNE,26 FEB 1988,LAT,2,Yalta (UKR),17 MAR 2007,986,javelin-throw,throws,female,u20
+858,55.03,,Maria ANDREJCZYK,09 MAR 1996,POL,9,"Olympiastadion, Berlin (GER)",06 SEP 2015,986,javelin-throw,throws,female,u20
+858,55.03,,Xinjie GU,02 FEB 2001,CHN,6,Chengdu (CHN),31 MAR 2019,986,javelin-throw,throws,female,u20
+858,55.03,,Josefa SCHEPP,18 FEB 2003,GER,1,"Stadion an der Wiesenstraße, Thum (GER)",27 MAY 2022,986,javelin-throw,throws,female,u20
+862,55.02,,Lili LIANG,16 NOV 1983,CHN,3,Shanghai (CHN),17 APR 1999,986,javelin-throw,throws,female,u20
+862,55.02,,Chunfeng CHANG,04 MAY 1988,CHN,3,Changsha (CHN),29 OCT 2006,986,javelin-throw,throws,female,u20
+862,55.02,,Alina SHUKH,12 FEB 1999,UKR,3,Leiria (POR),10 MAR 2018,986,javelin-throw,throws,female,u20
+862,55.02,,Orinta NAVIKAITĖ,05 FEB 2006,LTU,1,"Vingis Park Stadium, Vilnius (LTU)",23 JUL 2025,986,javelin-throw,throws,female,u20
+866,55.01,,Vera REBRIK,25 FEB 1989,UKR,3,Kyiv (UKR),17 JUN 2007,986,javelin-throw,throws,female,u20
+866,55.01,,Sae TAKEMOTO,23 NOV 1999,JPN,1,Kyoto (JPN),15 JUN 2017,986,javelin-throw,throws,female,u20
+866,55.01,,Carolina VISCA,31 MAY 2000,ITA,1,Roma (ITA),20 JAN 2019,986,javelin-throw,throws,female,u20
+869,55.00,,Mariya ABAKUMOVA,15 JAN 1986,RUS,7,"Stadio Luigi Ridolfi, Firenze (ITA)",18 JUN 2005,985,javelin-throw,throws,female,u20
+869,55.00,,Carita HINKKA,01 APR 1991,FIN,1,Vaasa (FIN),22 AUG 2009,985,javelin-throw,throws,female,u20
+869,55.00,,Yulenmis AGUILAR,03 AUG 1996,CUB,1,Las Tunas (CUB),16 MAY 2015,985,javelin-throw,throws,female,u20
+869,55.00,,Lea WIPPER,14 OCT 2001,GER,1,"Stadion Luftschiffhafen, Potsdam (GER)",19 JUN 2020,985,javelin-throw,throws,female,u20
+869,55.00,,Momoko TSUJI,05 DEC 2003,JPN,1,"Kyushu Kyoritsu University Stadium, Kitakyushu (JPN)",04 JUN 2022,985,javelin-throw,throws,female,u20

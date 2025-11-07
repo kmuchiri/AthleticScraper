@@ -1,0 +1,148 @@
+rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,discipline,type,sex,age_cat,normalized_discipline,track_field,mark_numeric,venue_country,age_at_event,season
+1,44:04,,Benard Kibet KOECH,1999-11-25,KEN,1,Kosa (JPN),2022-12-04,1257,10-miles-road,road-running,male,senior,10-miles-road,track,2644.0,JPN,23.0,2022
+2,44:24,,Haile GEBRSELASSIE,1973-04-18,ETH,1,Tilburg (NED),2005-09-04,1238,10-miles-road,road-running,male,senior,10-miles-road,track,2664.0,NED,32.0,2005
+3,44:51,,Martin Irungu MATHATHI,1985-12-25,KEN,1,Kosa (JPN),2004-12-12,1212,10-miles-road,road-running,male,senior,10-miles-road,track,2691.0,JPN,18.0,2004
+3,44:51,,Muktar EDRIS,1994-01-14,ETH,1,Amsterdam (NED),2024-09-22,1212,10-miles-road,road-running,male,senior,10-miles-road,track,2691.0,NED,30.0,2024
+5,44:52,,Martin Irungu MATHATHI,1985-12-25,KEN,1,Kosa (JPN),2009-12-06,1211,10-miles-road,road-running,male,senior,10-miles-road,track,2692.0,JPN,23.0,2009
+6,44:57,,Geoffrey KAMWOROR,1992-11-22,KEN,1,Bern (SUI),2019-05-11,1207,10-miles-road,road-running,male,senior,10-miles-road,track,2697.0,SUI,26.0,2019
+7,44:59,,Martin Irungu MATHATHI,1985-12-25,KEN,1,Kosa (JPN),2010-12-05,1205,10-miles-road,road-running,male,senior,10-miles-road,track,2699.0,JPN,24.0,2010
+8,45:01,,Martin Irungu MATHATHI,1985-12-25,KEN,1,Kosa (JPN),2006-12-10,1203,10-miles-road,road-running,male,senior,10-miles-road,track,2701.0,JPN,20.0,2006
+9,45:06,,Evans CHEBET,1988-11-10,KEN,1,Tilburg (NED),2017-09-03,1198,10-miles-road,road-running,male,senior,10-miles-road,track,2706.0,NED,28.0,2017
+10,45:10,,Samuel Kamau WANJIRU,1986-11-10,KEN,1,Kosa (JPN),2005-12-11,1194,10-miles-road,road-running,male,senior,10-miles-road,track,2710.0,JPN,19.0,2005
+11,45:12,,Bernard Kiprop KOECH,1988-01-31,KEN,1,Tilburg (NED),2014-09-07,1192,10-miles-road,road-running,male,senior,10-miles-road,track,2712.0,NED,26.0,2014
+12,45:14,,Charles Kipkkurui LANGAT,1996-04-28,KEN,1,Amsterdam (NED),2022-09-17,1191,10-miles-road,road-running,male,senior,10-miles-road,track,2714.0,NED,26.0,2022
+12,45:14,,Charles HICKS,2001-07-25,GBR,,"Washington, DC (USA)",2025-04-06,1191,10-miles-road,road-running,male,senior,10-miles-road,track,2714.0,USA,23.0,2025
+14,45:15,,Gideon NGATUNYI,1986-10-10,KEN,1f1,Kosa (JPN),2008-12-07,1190,10-miles-road,road-running,male,senior,10-miles-road,track,2715.0,JPN,22.0,2008
+14,45:15,,Allan KIPRONO,1990-02-15,KEN,1,"Washington, DC (USA)",2012-04-01,1190,10-miles-road,road-running,male,senior,10-miles-road,track,2715.0,USA,22.0,2012
+14,45:15,,Joshua CHEPTEGEI,1996-09-12,UGA,1,Amsterdam (NED),2018-09-23,1190,10-miles-road,road-running,male,senior,10-miles-road,track,2715.0,NED,22.0,2018
+14,45:15,,Nicholas Mboroto KOSIMBEI,1996-10-01,KEN,1,"Washington, DC (USA)",2022-04-02,1190,10-miles-road,road-running,male,senior,10-miles-road,track,2715.0,USA,25.0,2022
+14,45:15,,Alex MAIER,2000-01-22,USA,1,"Washington, DC (USA)",2025-04-06,1190,10-miles-road,road-running,male,senior,10-miles-road,track,2715.0,USA,25.0,2025
+19,45:16,,Simon Njuguna WANGAI,1978-12-11,KEN,1,"Philadelphia, PA (USA)",2002-05-05,1189,10-miles-road,road-running,male,senior,10-miles-road,track,2716.0,USA,23.0,2002
+19,45:16,,Joseph EBUYA,1987-06-20,KEN,1,Portsmouth (GBR),2010-10-24,1189,10-miles-road,road-running,male,senior,10-miles-road,track,2716.0,GBR,23.0,2010
+21,45:17,,Geoffrey Toroitich KIPCHUMBA,,KEN,2,Amsterdam (NED),2022-09-17,1188,10-miles-road,road-running,male,senior,10-miles-road,track,2717.0,NED,,2022
+22,45:18,,Joshua CHEPTEGEI,1996-09-12,UGA,2,Amsterdam (NED),2024-09-22,1187,10-miles-road,road-running,male,senior,10-miles-road,track,2718.0,NED,28.0,2024
+23,45:19,,Jeremiah KAREMI,1994-07-07,KEN,1,Kosa (JPN),2015-11-29,1186,10-miles-road,road-running,male,senior,10-miles-road,track,2719.0,JPN,21.0,2015
+24,45:20,,Julius MAINA,1977-10-14,KEN,1,Kosa (JPN),2002-12-08,1185,10-miles-road,road-running,male,senior,10-miles-road,track,2720.0,JPN,25.0,2002
+24,45:20,,Mathew Kipkorir KIMELI,1998-01-04,KEN,1,Zaandam (NED),2023-09-17,1185,10-miles-road,road-running,male,senior,10-miles-road,track,2720.0,NED,25.0,2023
+26,45:21,,Bernard Kiprop KOECH,1988-01-31,KEN,1,Tilburg (NED),2015-09-06,1184,10-miles-road,road-running,male,senior,10-miles-road,track,2721.0,NED,27.0,2015
+27,45:23,,John Thuo ITATI,1973-12-26,KEN,2,Kosa (JPN),2009-12-06,1182,10-miles-road,road-running,male,senior,10-miles-road,track,2723.0,JPN,35.0,2009
+27,45:23,,Shadrack Kipchirchir KEMBOI,1986-02-19,KEN,1,Schortens (GER),2010-08-21,1182,10-miles-road,road-running,male,senior,10-miles-road,track,2723.0,GER,24.0,2010
+27,45:23,,Abbabiya SIMBASSA,1993-06-30,USA,2,"Washington, DC (USA)",2025-04-06,1182,10-miles-road,road-running,male,senior,10-miles-road,track,2723.0,USA,31.0,2025
+30,45:24,,John KARIUKI,1986-11-10,KEN,1,Kosa (JPN),2007-12-09,1181,10-miles-road,road-running,male,senior,10-miles-road,track,2724.0,JPN,21.0,2007
+31,45:25,,Edwin KIPTOO,1993-08-14,KEN,1,Amsterdam (NED),2016-09-18,1180,10-miles-road,road-running,male,senior,10-miles-road,track,2725.0,NED,23.0,2016
+31,45:25,,Vincent Kiprotich KIBET,1999-03-19,KEN,2,Zaandam (NED),2023-09-17,1180,10-miles-road,road-running,male,senior,10-miles-road,track,2725.0,NED,24.0,2023
+33,45:29,,Simon MAINA MUNYI,1978-03-18,KEN,1,Kosa (JPN),2001-12-09,1177,10-miles-road,road-running,male,senior,10-miles-road,track,2729.0,JPN,23.0,2001
+33,45:29,,Getu FELEKE,1986-11-28,ETH,3,Amsterdam (NED),2009-09-20,1177,10-miles-road,road-running,male,senior,10-miles-road,track,2729.0,NED,22.0,2009
+33,45:29,,Stephen SAMBU,1988-07-07,KEN,1,"Washington, DC (USA)",2014-04-06,1177,10-miles-road,road-running,male,senior,10-miles-road,track,2729.0,USA,25.0,2014
+33,45:29,,Daniel Lemashon SALEL,1990-12-11,KEN,2,"Washington, DC (USA)",2014-04-06,1177,10-miles-road,road-running,male,senior,10-miles-road,track,2729.0,USA,23.0,2014
+37,45:30,,Martin Irungu MATHATHI,1985-12-25,KEN,1,Kosa (JPN),2003-12-14,1176,10-miles-road,road-running,male,senior,10-miles-road,track,2730.0,JPN,17.0,2003
+37,45:30,,Hillary BOR,1989-11-22,USA,3,"Washington, DC (USA)",2025-04-06,1176,10-miles-road,road-running,male,senior,10-miles-road,track,2730.0,USA,35.0,2025
+39,45:31,,Abera KUMA,1990-08-31,ETH,2,Schortens (GER),2010-08-21,1175,10-miles-road,road-running,male,senior,10-miles-road,track,2731.0,GER,19.0,2010
+40,45:33,,Abraham KIPYATICH,1993-05-10,KEN,1,Kosa (JPN),2019-12-01,1173,10-miles-road,road-running,male,senior,10-miles-road,track,2733.0,JPN,26.0,2019
+41,45:36,,Lelisa DESISA,1990-01-14,ETH,1,"Washington, DC (USA)",2011-04-03,1170,10-miles-road,road-running,male,senior,10-miles-road,track,2736.0,USA,21.0,2011
+42,45:37,,Ondoro OSORO,1967-12-03,KEN,1,"St. Petersburg, FL (USA)",1997-10-18,1169,10-miles-road,road-running,male,senior,10-miles-road,track,2737.0,USA,29.0,1997
+42,45:37,,John Kiprono LANGAT,1996-12-31,KEN,2,Tilburg (NED),2015-09-06,1169,10-miles-road,road-running,male,senior,10-miles-road,track,2737.0,NED,18.0,2015
+42,45:37,,Yohanes GHEBREGERGIS,1989-01-01,ERI,3,Tilburg (NED),2015-09-06,1169,10-miles-road,road-running,male,senior,10-miles-road,track,2737.0,NED,26.0,2015
+42,45:37,,Adel MECHAAL,1990-12-05,ESP,3,Zaandam (NED),2023-09-17,1169,10-miles-road,road-running,male,senior,10-miles-road,track,2737.0,NED,32.0,2023
+46,45:38,,Ismael KIRUI,1975-02-20,KEN,1,"Washington, DC (USA)",1995-04-09,1168,10-miles-road,road-running,male,senior,10-miles-road,track,2738.0,USA,20.0,1995
+46,45:38,,Stephen CHELIMO,1985-08-09,KEN,1,Schortens (GER),2008-08-16,1168,10-miles-road,road-running,male,senior,10-miles-road,track,2738.0,GER,23.0,2008
+46,45:38,,Pius Maiyo KIROP,1990-01-08,KEN,1,Tilburg (NED),2012-09-02,1168,10-miles-road,road-running,male,senior,10-miles-road,track,2738.0,NED,22.0,2012
+46,45:38,,Joshua CHEPTEGEI,1996-09-12,UGA,2,Amsterdam (NED),2016-09-18,1168,10-miles-road,road-running,male,senior,10-miles-road,track,2738.0,NED,20.0,2016
+46,45:38,,Birhanu LEGESE,1994-09-11,ETH,1,Amsterdam (NED),2017-09-17,1168,10-miles-road,road-running,male,senior,10-miles-road,track,2738.0,NED,23.0,2017
+51,45:39,,Abdallah Kibet MANDE,1995-05-10,UGA,2,Tilburg (NED),2017-09-03,1167,10-miles-road,road-running,male,senior,10-miles-road,track,2739.0,NED,22.0,2017
+52,45:40,,Masanari SHINTAKU,1957-12-20,JPN,1,Karatsu (JPN),1984-02-19,1166,10-miles-road,road-running,male,senior,10-miles-road,track,2740.0,JPN,26.0,1984
+52,45:40,,John Nzau MWANGANGI,1990-11-01,KEN,2,Tilburg (NED),2012-09-02,1166,10-miles-road,road-running,male,senior,10-miles-road,track,2740.0,NED,21.0,2012
+52,45:40,,Gilbert Kipruto KIRWA,1985-12-20,KEN,4,Tilburg (NED),2015-09-06,1166,10-miles-road,road-running,male,senior,10-miles-road,track,2740.0,NED,29.0,2015
+55,45:41,,Micah Kemboi KOGO,1986-06-30,KEN,4,Amsterdam (NED),2009-09-20,1165,10-miles-road,road-running,male,senior,10-miles-road,track,2741.0,NED,23.0,2009
+55,45:41,,Allan KIPRONO,1990-02-15,KEN,2,"Washington, DC (USA)",2011-04-03,1165,10-miles-road,road-running,male,senior,10-miles-road,track,2741.0,USA,21.0,2011
+55,45:41,,Patrick Makau MUSYOKI,1985-03-02,KEN,3,Tilburg (NED),2012-09-02,1165,10-miles-road,road-running,male,senior,10-miles-road,track,2741.0,NED,27.0,2012
+55,45:41,,Alfred NGENO,1997-05-02,KEN,2,Amsterdam (NED),2018-09-23,1165,10-miles-road,road-running,male,senior,10-miles-road,track,2741.0,NED,21.0,2018
+59,45:43,,Joseph KAMAU,1969-06-17,KEN,1,"Flint, MI (USA)",1996-08-24,1163,10-miles-road,road-running,male,senior,10-miles-road,track,2743.0,USA,27.0,1996
+59,45:43,,Stephen TUM,1986-07-12,KEN,1,"Washington, DC (USA)",2010-04-11,1163,10-miles-road,road-running,male,senior,10-miles-road,track,2743.0,USA,23.0,2010
+59,45:43,,Wilfred KIMITEI,1985-03-11,KEN,2,"Washington, DC (USA)",2022-04-02,1163,10-miles-road,road-running,male,senior,10-miles-road,track,2743.0,USA,37.0,2022
+59,45:43,,Robert GITITU,1983-08-04,KEN,1,"Philadelphia, PA (USA)",2022-05-01,1163,10-miles-road,road-running,male,senior,10-miles-road,track,2743.0,USA,38.0,2022
+63,45:44,,Benson Kipchumba BARUS,1980-07-04,KEN,2,"Philadelphia, PA (USA)",2002-05-05,1163,10-miles-road,road-running,male,senior,10-miles-road,track,2744.0,USA,21.0,2002
+63,45:44,,Lelisa DESISA,1990-01-14,ETH,2,"Washington, DC (USA)",2010-04-11,1163,10-miles-road,road-running,male,senior,10-miles-road,track,2744.0,USA,20.0,2010
+63,45:44,,Mathew Kipkorir KIMELI,1998-01-04,KEN,3,Amsterdam (NED),2024-09-22,1163,10-miles-road,road-running,male,senior,10-miles-road,track,2744.0,NED,26.0,2024
+66,45:45,,Brahim LAHLAFI,1968-04-15,MAR,1,"Flint, MI (USA)",1997-08-23,1162,10-miles-road,road-running,male,senior,10-miles-road,track,2745.0,USA,29.0,1997
+66,45:45,,Girma ASSEFA,1986-06-20,ETH,2,Kosa (JPN),2007-12-09,1162,10-miles-road,road-running,male,senior,10-miles-road,track,2745.0,JPN,21.0,2007
+66,45:45,,Yenew ALAMIREW,1990-05-27,ETH,2,Amsterdam (NED),2017-09-17,1162,10-miles-road,road-running,male,senior,10-miles-road,track,2745.0,NED,27.0,2017
+66,45:45,,Edwin KIPLAGAT,1993-02-19,KEN,1,"Washington, DC (USA)",2021-09-12,1162,10-miles-road,road-running,male,senior,10-miles-road,track,2745.0,USA,28.0,2021
+70,45:47,,Josphat Muchiri NDAMBIRI,1985-02-12,KEN,2,Kosa (JPN),2005-12-11,1160,10-miles-road,road-running,male,senior,10-miles-road,track,2747.0,JPN,20.0,2005
+70,45:47,,John Thuo ITATI,1973-12-26,KEN,2,Kosa (JPN),2010-12-05,1160,10-miles-road,road-running,male,senior,10-miles-road,track,2747.0,JPN,36.0,2010
+70,45:47,,Philip Kiprono LANGAT,1990-04-23,KEN,4,Tilburg (NED),2012-09-02,1160,10-miles-road,road-running,male,senior,10-miles-road,track,2747.0,NED,22.0,2012
+70,45:47,,Allan KIPRONO,1990-02-15,KEN,3,"Washington, DC (USA)",2014-04-06,1160,10-miles-road,road-running,male,senior,10-miles-road,track,2747.0,USA,24.0,2014
+70,45:47,,Noah KIPKEMBOI,1993-07-02,KEN,1,Tilburg (NED),2018-09-02,1160,10-miles-road,road-running,male,senior,10-miles-road,track,2747.0,NED,25.0,2018
+70,45:47,,Jonathan Muia NDIKU,1991-09-18,KEN,2,Kosa (JPN),2022-12-04,1160,10-miles-road,road-running,male,senior,10-miles-road,track,2747.0,JPN,31.0,2022
+70,45:47,,Bethwel KIBET,1991-08-04,KEN,4,Zaandam (NED),2023-09-17,1160,10-miles-road,road-running,male,senior,10-miles-road,track,2747.0,NED,32.0,2023
+77,45:48,,Ken-ichi TAKAHASHI,1973-01-16,JPN,1,Karatsu (JPN),2000-02-13,1159,10-miles-road,road-running,male,senior,10-miles-road,track,2748.0,JPN,27.0,2000
+77,45:48,,Simon MAINA MUNYI,1978-03-18,KEN,2,Kosa (JPN),2002-12-08,1159,10-miles-road,road-running,male,senior,10-miles-road,track,2748.0,JPN,24.0,2002
+77,45:48,,Shadrack KIMINING,1996-02-10,KEN,3,"Washington, DC (USA)",2022-04-02,1159,10-miles-road,road-running,male,senior,10-miles-road,track,2748.0,USA,26.0,2022
+80,45:49,,Julius MAINA,1977-10-14,KEN,2,Kosa (JPN),2003-12-14,1158,10-miles-road,road-running,male,senior,10-miles-road,track,2749.0,JPN,26.0,2003
+80,45:49,,Felix KENY,1985-12-25,KEN,2,Schortens (GER),2008-08-16,1158,10-miles-road,road-running,male,senior,10-miles-road,track,2749.0,GER,22.0,2008
+80,45:49,,Cleophas Kandie MEYAN,2000-08-14,KEN,3,Kosa (JPN),2022-12-04,1158,10-miles-road,road-running,male,senior,10-miles-road,track,2749.0,JPN,22.0,2022
+83,45:50,,Charles OMWOYO,,KEN,1,Zaandam (NED),1994-09-18,1157,10-miles-road,road-running,male,senior,10-miles-road,track,2750.0,NED,,1994
+83,45:50,,Paul TERGAT,1969-06-17,KEN,1,Zaandam (NED),1995-09-17,1157,10-miles-road,road-running,male,senior,10-miles-road,track,2750.0,NED,26.0,1995
+83,45:50,,Tilahun REGASSA,1990-01-18,ETH,3,"Washington, DC (USA)",2010-04-11,1157,10-miles-road,road-running,male,senior,10-miles-road,track,2750.0,USA,20.0,2010
+83,45:50,,Vincent Kiprop CHEPKOK,1988-07-05,KEN,5,Tilburg (NED),2015-09-06,1157,10-miles-road,road-running,male,senior,10-miles-road,track,2750.0,NED,27.0,2015
+83,45:50,,Takashi NAMBA,1999-03-06,JPN,4,Kosa (JPN),2022-12-04,1157,10-miles-road,road-running,male,senior,10-miles-road,track,2750.0,JPN,23.0,2022
+88,45:51,,Peter GITHUKA,1969-02-14,KEN,2,"Flint, MI (USA)",1996-08-24,1156,10-miles-road,road-running,male,senior,10-miles-road,track,2751.0,USA,27.0,1996
+88,45:51,,Simon RONO,1972-04-09,KEN,1,"Washington, DC (USA)",1998-04-05,1156,10-miles-road,road-running,male,senior,10-miles-road,track,2751.0,USA,26.0,1998
+88,45:51,,Edwin KIPTOO,1993-08-14,KEN,2,Tilburg (NED),2014-09-07,1156,10-miles-road,road-running,male,senior,10-miles-road,track,2751.0,NED,21.0,2014
+88,45:51,,Jeremiah KAREMI,1994-07-07,KEN,1,Kosa (JPN),2014-12-07,1156,10-miles-road,road-running,male,senior,10-miles-road,track,2751.0,JPN,20.0,2014
+88,45:51,,Jiksa TOLOSA,1998-12-11,ETH,3,Amsterdam (NED),2017-09-17,1156,10-miles-road,road-running,male,senior,10-miles-road,track,2751.0,NED,18.0,2017
+88,45:51,,Solomon BERIHU,1999-10-02,ETH,1,Amsterdam (NED),2019-09-22,1156,10-miles-road,road-running,male,senior,10-miles-road,track,2751.0,NED,19.0,2019
+88,45:51,,Jonathan Muia NDIKU,1991-09-18,KEN,2,Kosa (JPN),2019-12-01,1156,10-miles-road,road-running,male,senior,10-miles-road,track,2751.0,JPN,28.0,2019
+88,45:51,,Mogeni Benuel MAGOMA,2001-03-11,KEN,3,Kosa (JPN),2019-12-01,1156,10-miles-road,road-running,male,senior,10-miles-road,track,2751.0,JPN,18.0,2019
+96,45:52,,Thomas OSANO,1970-06-04,KEN,2,Zaandam (NED),1994-09-18,1155,10-miles-road,road-running,male,senior,10-miles-road,track,2752.0,NED,24.0,1994
+96,45:52,,Shinji KAWASHIMA,1966-06-04,JPN,1,Kosa (JPN),1996-12-08,1155,10-miles-road,road-running,male,senior,10-miles-road,track,2752.0,JPN,30.0,1996
+96,45:52,,Jeff SCHIEBLER,1973-06-01,CAN,2,Kosa (JPN),1996-12-08,1155,10-miles-road,road-running,male,senior,10-miles-road,track,2752.0,JPN,23.0,1996
+96,45:52,,Peter NDIRANGU,1971-05-24,KEN,2,"Flint, MI (USA)",1997-08-23,1155,10-miles-road,road-running,male,senior,10-miles-road,track,2752.0,USA,26.0,1997
+96,45:52,,James WAINAINA,1981-06-16,KEN,2,Kosa (JPN),2001-12-09,1155,10-miles-road,road-running,male,senior,10-miles-road,track,2752.0,JPN,20.0,2001
+101,45:53,,Lazarus Oyondi NYAKERAKA,1975-11-22,KEN,3,"Flint, MI (USA)",1996-08-24,1154,10-miles-road,road-running,male,senior,10-miles-road,track,2753.0,USA,20.0,1996
+101,45:53,,Edwin KIPTOO,1987-12-28,KEN,4,Amsterdam (NED),2017-09-17,1154,10-miles-road,road-running,male,senior,10-miles-road,track,2753.0,NED,29.0,2017
+103,45:54,,Julius MAINA,1977-10-14,KEN,2,Kosa (JPN),2004-12-12,1153,10-miles-road,road-running,male,senior,10-miles-road,track,2754.0,JPN,27.0,2004
+103,45:54,,Leonard LANGAT,1990-08-07,KEN,5,Amsterdam (NED),2017-09-17,1153,10-miles-road,road-running,male,senior,10-miles-road,track,2754.0,NED,27.0,2017
+103,45:54,,Kento NISHI,1998-10-20,JPN,5,Kosa (JPN),2022-12-04,1153,10-miles-road,road-running,male,senior,10-miles-road,track,2754.0,JPN,24.0,2022
+103,45:54,,Wesley KIPTOO,1999-07-07,KEN,1,"Washington, DC (USA)",2024-04-07,1153,10-miles-road,road-running,male,senior,10-miles-road,track,2754.0,USA,24.0,2024
+107,45:55,,Godfrey KIPROTICH,1964-11-23,KEN,4,"Flint, MI (USA)",1996-08-24,1152,10-miles-road,road-running,male,senior,10-miles-road,track,2755.0,USA,31.0,1996
+107,45:55,,Ken-ichi TAKAHASHI,1973-01-16,JPN,1,Kosa (JPN),1997-12-14,1152,10-miles-road,road-running,male,senior,10-miles-road,track,2755.0,JPN,24.0,1997
+107,45:55,,Charles CHERUIYOT TOROTICH,1988-08-04,KEN,5,Tilburg (NED),2012-09-02,1152,10-miles-road,road-running,male,senior,10-miles-road,track,2755.0,NED,24.0,2012
+107,45:55,,Julius KOGO,1985-08-12,KEN,1,"Flint, MI (USA)",2013-08-24,1152,10-miles-road,road-running,male,senior,10-miles-road,track,2755.0,USA,28.0,2013
+107,45:55,,Raymond MAGUT,,KEN,2,"Washington, DC (USA)",2024-04-07,1152,10-miles-road,road-running,male,senior,10-miles-road,track,2755.0,USA,,2024
+107,45:55,,Wesley KIPTOO,1999-07-07,KEN,,"Washington, DC (USA)",2025-04-06,1152,10-miles-road,road-running,male,senior,10-miles-road,track,2755.0,USA,25.0,2025
+113,45:56,,Benson MASYA,1970-05-14,KEN,1,Portsmouth (GBR),1995-10-08,1151,10-miles-road,road-running,male,senior,10-miles-road,track,2756.0,GBR,25.0,1995
+113,45:56,,Hezron Nyandusi OTWORI,1976-12-25,KEN,3,"Flint, MI (USA)",1997-08-23,1151,10-miles-road,road-running,male,senior,10-miles-road,track,2756.0,USA,20.0,1997
+113,45:56,,Rodgers ROP,1976-02-16,KEN,1,Tilburg (NED),2001-06-03,1151,10-miles-road,road-running,male,senior,10-miles-road,track,2756.0,NED,25.0,2001
+113,45:56,,Ridouane HARROUFI,1981-07-30,MAR,1,"Washington, DC (USA)",2009-04-05,1151,10-miles-road,road-running,male,senior,10-miles-road,track,2756.0,USA,27.0,2009
+113,45:56,,John MURITU,1996-06-30,KEN,1,Kosa (JPN),2018-12-02,1151,10-miles-road,road-running,male,senior,10-miles-road,track,2756.0,JPN,22.0,2018
+113,45:56,,Hillary BOR,1989-11-22,USA,3,"Washington, DC (USA)",2024-04-07,1151,10-miles-road,road-running,male,senior,10-miles-road,track,2756.0,USA,34.0,2024
+119,45:57,,Ken-ichi TAKAHASHI,1973-01-16,JPN,1,Karatsu (JPN),1997-02-09,1151,10-miles-road,road-running,male,senior,10-miles-road,track,2757.0,JPN,24.0,1997
+119,45:57,,Patrick NTHIWA,1983-06-30,KEN,3,"Philadelphia, PA (USA)",2002-05-05,1151,10-miles-road,road-running,male,senior,10-miles-road,track,2757.0,USA,18.0,2002
+119,45:57,,Edwin KIMAIYO,1986-09-02,KEN,3,Schortens (GER),2010-08-21,1151,10-miles-road,road-running,male,senior,10-miles-road,track,2757.0,GER,23.0,2010
+119,45:57,,Philemon RONO,1991-02-08,KEN,6,Tilburg (NED),2012-09-02,1151,10-miles-road,road-running,male,senior,10-miles-road,track,2757.0,NED,21.0,2012
+119,45:57,,Taku FUJIMOTO,1989-09-11,JPN,2,Kosa (JPN),2018-12-02,1151,10-miles-road,road-running,male,senior,10-miles-road,track,2757.0,JPN,29.0,2018
+119,45:57,,Masashi NONAKA,1995-11-10,JPN,6,Kosa (JPN),2022-12-04,1151,10-miles-road,road-running,male,senior,10-miles-road,track,2757.0,JPN,27.0,2022
+125,45:58,,Samson LOYWAPET,,KEN,3,Zaandam (NED),1994-09-18,1150,10-miles-road,road-running,male,senior,10-miles-road,track,2758.0,NED,,1994
+125,45:58,,Thomas OSANO,1970-06-04,KEN,2,Zaandam (NED),1995-09-17,1150,10-miles-road,road-running,male,senior,10-miles-road,track,2758.0,NED,25.0,1995
+125,45:58,,Joseph Nginyi KARIUKI,1970-01-18,KEN,2,"Washington, DC (USA)",1998-04-05,1150,10-miles-road,road-running,male,senior,10-miles-road,track,2758.0,USA,28.0,1998
+125,45:58,,Feyisa LILESA,1990-02-01,ETH,2,"Washington, DC (USA)",2009-04-05,1150,10-miles-road,road-running,male,senior,10-miles-road,track,2758.0,USA,19.0,2009
+125,45:58,,Yuta SHITARA,1991-12-18,JPN,1,Kosa (JPN),2017-12-03,1150,10-miles-road,road-running,male,senior,10-miles-road,track,2758.0,JPN,25.0,2017
+125,45:58,,Cyrus KINGORI,1997-01-05,KEN,3,Kosa (JPN),2018-12-02,1150,10-miles-road,road-running,male,senior,10-miles-road,track,2758.0,JPN,21.0,2018
+125,45:58,,Peter KIPSIRAT,,KEN,3,Amsterdam (NED),2022-09-17,1150,10-miles-road,road-running,male,senior,10-miles-road,track,2758.0,NED,,2022
+125,45:58,,Aidan REED,1998-01-15,USA,4,"Washington, DC (USA)",2025-04-06,1150,10-miles-road,road-running,male,senior,10-miles-road,track,2758.0,USA,27.0,2025
+133,45:59,,Eliud KURGAT,1976-03-20,KEN,1,Tilburg (NED),1999-06-06,1149,10-miles-road,road-running,male,senior,10-miles-road,track,2759.0,NED,23.0,1999
+133,45:59,,Hailu MEKONNEN,1980-04-04,ETH,2f1,Kosa (JPN),2008-12-07,1149,10-miles-road,road-running,male,senior,10-miles-road,track,2759.0,JPN,28.0,2008
+133,45:59,,Silas Kipngetich SANG,1978-08-21,KEN,3,"Washington, DC (USA)",2009-04-05,1149,10-miles-road,road-running,male,senior,10-miles-road,track,2759.0,USA,30.0,2009
+133,45:59,,Eliud TARUS,1993-03-03,KEN,3,Tilburg (NED),2014-09-07,1149,10-miles-road,road-running,male,senior,10-miles-road,track,2759.0,NED,21.0,2014
+133,45:59,,Peter LYNCH,1997-11-26,IRL,,"Washington, DC (USA)",2025-04-06,1149,10-miles-road,road-running,male,senior,10-miles-road,track,2759.0,USA,27.0,2025
+138,46:00,,Herb LINDSAY,1954-11-12,USA,1,"New York, NY (USA)",1980-04-27,1148,10-miles-road,road-running,male,senior,10-miles-road,track,2760.0,USA,25.0,1980
+138,46:00,,Kenji TAKAO,1975-03-23,JPN,3,Kosa (JPN),1996-12-08,1148,10-miles-road,road-running,male,senior,10-miles-road,track,2760.0,JPN,21.0,1996
+138,46:00,,Peter GITHUKA,1969-02-14,KEN,4,"Flint, MI (USA)",1997-08-23,1148,10-miles-road,road-running,male,senior,10-miles-road,track,2760.0,USA,28.0,1997
+138,46:00,,Joseph KIMANI,1972-09-21,KEN,2,"St. Petersburg, FL (USA)",1997-10-18,1148,10-miles-road,road-running,male,senior,10-miles-road,track,2760.0,USA,25.0,1997
+138,46:00,,Karim EL MABCHOUR,1982-07-08,MAR,4,"Washington, DC (USA)",2009-04-05,1148,10-miles-road,road-running,male,senior,10-miles-road,track,2760.0,USA,26.0,2009
+138,46:00,,Andrew Kwemoi MAN'GATA,1994-09-12,KEN,4,Tilburg (NED),2014-09-07,1148,10-miles-road,road-running,male,senior,10-miles-road,track,2760.0,NED,20.0,2014
+138,46:00,,Moses Ndiema KIPSIRO,1986-09-02,UGA,1,Portsmouth (GBR),2015-10-25,1148,10-miles-road,road-running,male,senior,10-miles-road,track,2760.0,GBR,29.0,2015
+138,46:00,,Sila KIPTOO,1996-02-03,KEN,2,"Philadelphia, PA (USA)",2022-05-01,1148,10-miles-road,road-running,male,senior,10-miles-road,track,2760.0,USA,26.0,2022
+138,46:00,,Nathan MARTIN,1989-12-18,USA,4,"Washington, DC (USA)",2024-04-07,1148,10-miles-road,road-running,male,senior,10-miles-road,track,2760.0,USA,34.0,2024
+138,46:00,,Ismael KIPRONO,1998-05-17,KEN,4,Amsterdam (NED),2024-09-22,1148,10-miles-road,road-running,male,senior,10-miles-road,track,2760.0,NED,26.0,2024

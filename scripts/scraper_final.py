@@ -147,7 +147,7 @@ def scrape_event(gender, age_category, discipline_slug, type_slug, output_dir, t
 def get_scrape_jobs():
     jobs = []
     for (gender, age_category), discipline_list in discipline_mappings.items():
-        output_dir = os.path.join("output", gender)
+        output_dir = os.path.join("processing/output", gender)
         for discipline_slug, type_slug in discipline_list:
             jobs.append((gender, age_category, discipline_slug, type_slug, output_dir,today))
     return jobs

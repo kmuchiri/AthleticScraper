@@ -1,34 +1,63 @@
 # Python Scraper for World Athletics Database
 
 ## About
+
 This is a python project that scrapes data from the World Athletics website and turns it into a large track and field csv dataset.
 
-When run it will take the current date as the end date and gather all the results for each track and field discipline. 
+When executed it will take the current date as the end date and gather all the results for each track and field discipline.
 
-Inspired by: https://github.com/thomascamminady/world-athletics-database/
+Inspired by: <https://github.com/thomascamminady/world-athletics-database/>
 
 Used the options.json file from that repo to help
 
 Note: Datasets here were generated on: 2025-09-20
 
 ### Repo Structure
- - Output: Folder for the csv files created as a result of scraping
- - Combined: a folder that takes the outputs and combines them on overall discipline e.g. Shot-put and Shot-put 6kg are of the shotput discpline however their records are maintained seperately one the World Athletics Page (intermediary files)
- - Datasets: contains final datasets split by type, individual events and relay events
- - Logs: For any errors that come up while running the scripts
- - Notebooks: Jupyter notebooks for EDA.
- - Scripts: Contains all the scripts necessary to generate the datasets.
+
+- Output: Folder for the csv files created as a result of scraping
+- Combined: a folder that takes the outputs and combines them on overall discipline e.g. Shot-put and Shot-put 6kg are of the shotput discpline however their records are maintained seperately one the World Athletics Page (intermediary files)
+- Datasets: contains final datasets split by type, individual events and relay events
+- Logs: For any errors that come up while running the scripts
+- Notebooks: Jupyter notebooks for EDA.
+- Scripts: Contains all the scripts necessary to generate the datasets.
+
+    ├── datasets
+    │   ├── all_disciplines_combined.csv
+    │   ├── individual_events.csv
+    │   ├── relay_events.csv
+    │   ├── split_by_discipline
+    │   └── split_by_type
+    ├── docs
+    │
+    ├── logs
+    │
+    ├── options.json
+    ├── processing
+    │   ├── combined
+    │   └── output
+    ├── README.md
+    ├── requirements.txt
+    ├── run.py
+    ├── scripts
+    │   ├── combine.py
+    │   ├── preprocessing.py
+    │   ├── scraper_final.py
+    │   └── split_by_type.py
+    └── venv
 
 ### To Run
+
 Install requirements from requirements.txt:
-    
-    pip install -r requirements.txt
+
+``` pip install -r requirements.txt
+```
 
 Run file "run.py":
-    
-    python3 run.py
 
-# Athletics Performance Dataset Description
+``` python3 run.py
+```
+
+## Athletics Performance Dataset Description
 
 This dataset contains structured performance records from international athletics competitions. Each row corresponds to an athlete's performance in a single event.
 

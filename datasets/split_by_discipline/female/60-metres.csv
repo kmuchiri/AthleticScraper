@@ -240,7 +240,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 218,7.06,,Elaine THOMPSON,1992-06-28,JAM,3,"Oregon Convention Center, Portland, OR (USA) (i)",2016-03-19,1199.0,60-metres,sprints,female,senior,60-metres,track,7.06,USA,23.0,2016
 218,7.06,,Barbara PIERRE,1987-04-28,USA,1sf1,"Oregon Convention Center, Portland, OR (USA) (i)",2016-03-19,1199.0,60-metres,sprints,female,senior,60-metres,track,7.06,USA,28.0,2016
 218,7.06,,Marie-Josée TA LOU,1988-11-18,CIV,2,Berlin (GER) (i),2016-02-13,1199.0,60-metres,sprints,female,senior,60-metres,track,7.06,GER,27.0,2016
-218,7.06,,Christine ARRON,1973-09-13,FRA,1,Aubiére (FRA) (i),2006-02-26,1199.0,60-metres,sprints,female,senior,60-metres,track,7.06,FRA,32.0,2006
+218,7.06,,Christine ARRON,1973-09-13,FRA,1,Aubière (FRA) (i),2006-02-26,1199.0,60-metres,sprints,female,senior,60-metres,track,7.06,FRA,32.0,2006
 218,7.06,,Me'Lisa BARBER,1980-10-04,USA,1,"Boston, MA (USA) (i)",2006-02-26,1199.0,60-metres,sprints,female,senior,60-metres,track,7.06,USA,25.0,2006
 218,7.06,,Angela WILLIAMS,1980-01-30,USA,1,"Velódromo Luis Puig, Valencia (ESP) (i)",2008-03-07,1199.0,60-metres,sprints,female,senior,60-metres,track,7.06,ESP,28.0,2008
 218,7.06,,Carmelita JETER,1979-11-24,USA,1,"National Indoor Arena, Birmingham (GBR) (i)",2010-02-20,1199.0,60-metres,sprints,female,senior,60-metres,track,7.06,GBR,30.0,2010
@@ -337,7 +337,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 325,7.08,,Carmelita JETER,1979-11-24,USA,1h1,"Albuquerque, NM (USA) (i)",2010-02-28,1192.0,60-metres,sprints,female,senior,60-metres,track,7.08,USA,30.0,2010
 325,7.08,,LaVerne JONES-FERRETTE,1981-09-16,ISV,1f2,"Houston, TX (USA) (i)",2012-01-28,1192.0,60-metres,sprints,female,senior,60-metres,track,7.08,USA,30.0,2012
 325,7.08,,Chandra STURRUP,1971-09-12,BAH,1h2,Birmingham (GBR) (i),2002-02-17,1192.0,60-metres,sprints,female,senior,60-metres,track,7.08,GBR,30.0,2002
-325,7.08,,Christine ARRON,1973-09-13,FRA,1,Aubiére (FRA) (i),2004-02-21,1192.0,60-metres,sprints,female,senior,60-metres,track,7.08,FRA,30.0,2004
+325,7.08,,Christine ARRON,1973-09-13,FRA,1,Aubière (FRA) (i),2004-02-21,1192.0,60-metres,sprints,female,senior,60-metres,track,7.08,FRA,30.0,2004
 325,7.08,,Gail DEVERS,1966-11-19,USA,1,"Sportaréna, Budapest (HUN) (i)",2004-03-05,1192.0,60-metres,sprints,female,senior,60-metres,track,7.08,HUN,37.0,2004
 325,7.08,,Yuliya TABAKOVA,1980-05-01,RUS,1,Moskva (RUS) (i),2006-01-25,1192.0,60-metres,sprints,female,senior,60-metres,track,7.08,RUS,25.0,2006
 325,7.08,,Christine ARRON,1973-09-13,FRA,1h1,Liévin (FRA) (i),2006-03-03,1192.0,60-metres,sprints,female,senior,60-metres,track,7.08,FRA,32.0,2006
@@ -809,13 +809,13 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 737,7.12,,Juliet CUTHBERT,1964-04-09,JAM,3,Madrid (ESP) (i),1995-02-09,1178.0,60-metres,sprints,female,senior,60-metres,track,7.12,ESP,30.0,1995
 737,7.12,,Carlette GUIDRY,1968-09-04,USA,1sf1,"Atlanta, GA (USA) (i)",1995-03-04,1178.0,60-metres,sprints,female,senior,60-metres,track,7.12,USA,26.0,1995
 737,7.12,,Savatheda FYNES,1974-10-17,BAH,2h2,Birmingham (GBR) (i),2002-02-17,1178.0,60-metres,sprints,female,senior,60-metres,track,7.12,GBR,27.0,2002
-737,7.12,,Christine ARRON,1973-09-13,FRA,1sf1,Aubiére (FRA) (i),2004-02-21,1178.0,60-metres,sprints,female,senior,60-metres,track,7.12,FRA,30.0,2004
+737,7.12,,Christine ARRON,1973-09-13,FRA,1sf1,Aubière (FRA) (i),2004-02-21,1178.0,60-metres,sprints,female,senior,60-metres,track,7.12,FRA,30.0,2004
 737,7.12,,Gail DEVERS,1966-11-19,USA,1,"Boston, MA (USA) (i)",2004-02-28,1178.0,60-metres,sprints,female,senior,60-metres,track,7.12,USA,37.0,2004
 737,7.12,,Torri EDWARDS,1977-01-31,USA,2,"Boston, MA (USA) (i)",2004-02-28,1178.0,60-metres,sprints,female,senior,60-metres,track,7.12,USA,27.0,2004
 737,7.12,,Kim GEVAERT,1978-08-05,BEL,2,"Sportaréna, Budapest (HUN) (i)",2004-03-05,1178.0,60-metres,sprints,female,senior,60-metres,track,7.12,HUN,25.0,2004
 737,7.12,,Yulia NESTSIARENKA,1979-06-15,BLR,3,"Sportaréna, Budapest (HUN) (i)",2004-03-05,1178.0,60-metres,sprints,female,senior,60-metres,track,7.12,HUN,24.0,2004
 737,7.12,,Larisa KRUGLOVA,1972-10-27,RUS,1h,Samara (RUS) (i),2006-02-04,1178.0,60-metres,sprints,female,senior,60-metres,track,7.12,RUS,33.0,2006
-737,7.12,,Christine ARRON,1973-09-13,FRA,1sf2,Aubiére (FRA) (i),2006-02-26,1178.0,60-metres,sprints,female,senior,60-metres,track,7.12,FRA,32.0,2006
+737,7.12,,Christine ARRON,1973-09-13,FRA,1sf2,Aubière (FRA) (i),2006-02-26,1178.0,60-metres,sprints,female,senior,60-metres,track,7.12,FRA,32.0,2006
 737,7.12,,Torri EDWARDS,1977-01-31,USA,3,"Boston, MA (USA) (i)",2006-02-26,1178.0,60-metres,sprints,female,senior,60-metres,track,7.12,USA,29.0,2006
 737,7.12,,Me'Lisa BARBER,1980-10-04,USA,1sf3,"Olimpiyskiy Stadion, Moskva (RUS) (i)",2006-03-10,1178.0,60-metres,sprints,female,senior,60-metres,track,7.12,RUS,25.0,2006
 737,7.12,,Kim GEVAERT,1978-08-05,BEL,1,"National Indoor Arena, Birmingham (GBR) (i)",2007-03-04,1178.0,60-metres,sprints,female,senior,60-metres,track,7.12,GBR,28.0,2007
@@ -846,7 +846,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 737,7.12,,Barbara PIERRE,1987-04-28,USA,1,Athlone (IRL) (i),2016-02-17,1178.0,60-metres,sprints,female,senior,60-metres,track,7.12,IRL,28.0,2016
 737,7.12,,Stella AKAKPO,1994-02-28,FRA,2f1,Metz (FRA) (i),2016-02-21,1178.0,60-metres,sprints,female,senior,60-metres,track,7.12,FRA,21.0,2016
 737,7.12,,Tatjana PINTO,1992-07-02,GER,1sf1,Leipzig (GER) (i),2016-02-27,1178.0,60-metres,sprints,female,senior,60-metres,track,7.12,GER,23.0,2016
-737,7.12,,Marie-Josée TA LOU,1988-11-18,CIV,1,Aubiére (FRA) (i),2016-02-27,1178.0,60-metres,sprints,female,senior,60-metres,track,7.12,FRA,27.0,2016
+737,7.12,,Marie-Josée TA LOU,1988-11-18,CIV,1,Aubière (FRA) (i),2016-02-27,1178.0,60-metres,sprints,female,senior,60-metres,track,7.12,FRA,27.0,2016
 737,7.12,,Hannah CUNLIFFE,1996-01-09,USA,1h2,"Birmingham, AL (USA) (i)",2016-03-11,1178.0,60-metres,sprints,female,senior,60-metres,track,7.12,USA,20.0,2016
 737,7.12,,Hannah CUNLIFFE,1996-01-09,USA,2,"Birmingham, AL (USA) (i)",2016-03-12,1178.0,60-metres,sprints,female,senior,60-metres,track,7.12,USA,20.0,2016
 737,7.12,,Dina ASHER-SMITH,1995-12-04,GBR,2h4,"Oregon Convention Center, Portland, OR (USA) (i)",2016-03-19,1178.0,60-metres,sprints,female,senior,60-metres,track,7.12,USA,20.0,2016
@@ -1612,7 +1612,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 1501,7.16,,Mariya BOLIKOVA,1977-05-23,RUS,2sf2,"Olimpiyskiy Stadion, Moskva (RUS) (i)",2006-03-10,1164.0,60-metres,sprints,female,senior,60-metres,track,7.16,RUS,28.0,2006
 1501,7.16,,Christine ARRON,1973-09-13,FRA,1h2,"Olimpiyskiy Stadion, Moskva (RUS) (i)",2006-03-10,1164.0,60-metres,sprints,female,senior,60-metres,track,7.16,RUS,32.0,2006
 1501,7.16,,Christine ARRON,1973-09-13,FRA,1,Liévin (FRA) (i),2006-03-05,1164.0,60-metres,sprints,female,senior,60-metres,track,7.16,FRA,32.0,2006
-1501,7.16,,Christine ARRON,1973-09-13,FRA,1h1,Aubiére (FRA) (i),2006-02-26,1164.0,60-metres,sprints,female,senior,60-metres,track,7.16,FRA,32.0,2006
+1501,7.16,,Christine ARRON,1973-09-13,FRA,1h1,Aubière (FRA) (i),2006-02-26,1164.0,60-metres,sprints,female,senior,60-metres,track,7.16,FRA,32.0,2006
 1501,7.16,,Me'Lisa BARBER,1980-10-04,USA,1h2,"Boston, MA (USA) (i)",2006-02-25,1164.0,60-metres,sprints,female,senior,60-metres,track,7.16,USA,25.0,2006
 1501,7.16,,Christine ARRON,1973-09-13,FRA,1,"National Indoor Arena, Birmingham (GBR) (i)",2006-02-18,1164.0,60-metres,sprints,female,senior,60-metres,track,7.16,GBR,32.0,2006
 1501,7.16,,Lauryn WILLIAMS,1983-09-11,USA,3,"Fayetteville, AR (USA) (i)",2006-02-10,1164.0,60-metres,sprints,female,senior,60-metres,track,7.16,USA,22.0,2006
@@ -1623,7 +1623,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 1501,7.16,,Katerina THANOU,1975-02-01,GRE,2,Pireaus (GRE) (i),1999-02-24,1164.0,60-metres,sprints,female,senior,60-metres,track,7.16,GRE,24.0,1999
 1501,7.16,,Natalya IGNATOVA,1973-01-03,RUS,1,Samara (RUS) (i),1999-02-21,1164.0,60-metres,sprints,female,senior,60-metres,track,7.16,RUS,26.0,1999
 1501,7.16,,Torri EDWARDS,1977-01-31,USA,4,"Sportaréna, Budapest (HUN) (i)",2004-03-05,1164.0,60-metres,sprints,female,senior,60-metres,track,7.16,HUN,27.0,2004
-1501,7.16,,Christine ARRON,1973-09-13,FRA,1h1,Aubiére (FRA) (i),2004-02-21,1164.0,60-metres,sprints,female,senior,60-metres,track,7.16,FRA,30.0,2004
+1501,7.16,,Christine ARRON,1973-09-13,FRA,1h1,Aubière (FRA) (i),2004-02-21,1164.0,60-metres,sprints,female,senior,60-metres,track,7.16,FRA,30.0,2004
 1501,7.16,,Ruddy ZANG MILAMA,1987-06-06,GAB,1,Gent (BEL) (i),2011-02-13,1164.0,60-metres,sprints,female,senior,60-metres,track,7.16,BEL,23.0,2011
 1501,7.16,,Olesya POVH,1987-10-18,UKR,1h1,Düsseldorf (GER) (i),2011-02-11,1164.0,60-metres,sprints,female,senior,60-metres,track,7.16,GER,23.0,2011
 1501,7.16,,Olesya POVH,1987-10-18,UKR,1h,"Schleyer Halle, Stuttgart (GER) (i)",2011-02-05,1164.0,60-metres,sprints,female,senior,60-metres,track,7.16,GER,23.0,2011
@@ -2240,8 +2240,8 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 2050,7.18,,Barbara PIERRE,1987-04-28,USA,1sf2,"Albuquerque, NM (USA) (i)",2014-02-23,1158.0,60-metres,sprints,female,senior,60-metres,track,7.18,USA,26.0,2014
 2050,7.18,,Jasmine TODD,1993-12-23,USA,1h2,"Albuquerque, NM (USA) (i)",2014-02-15,1158.0,60-metres,sprints,female,senior,60-metres,track,7.18,USA,20.0,2014
 2050,7.18,,Jenna PRANDINI,1992-11-20,USA,4,"Portland, OR (USA) (i)",2016-03-12,1158.0,60-metres,sprints,female,senior,60-metres,track,7.18,USA,23.0,2016
-2050,7.18,,Marie-Josée TA LOU,1988-11-18,CIV,1h2,Aubiére (FRA) (i),2016-02-27,1158.0,60-metres,sprints,female,senior,60-metres,track,7.18,FRA,27.0,2016
-2050,7.18,,Carolle ZAHI,1994-06-12,FRA,2,Aubiére (FRA) (i),2016-02-27,1158.0,60-metres,sprints,female,senior,60-metres,track,7.18,FRA,21.0,2016
+2050,7.18,,Marie-Josée TA LOU,1988-11-18,CIV,1h2,Aubière (FRA) (i),2016-02-27,1158.0,60-metres,sprints,female,senior,60-metres,track,7.18,FRA,27.0,2016
+2050,7.18,,Carolle ZAHI,1994-06-12,FRA,2,Aubière (FRA) (i),2016-02-27,1158.0,60-metres,sprints,female,senior,60-metres,track,7.18,FRA,21.0,2016
 2050,7.18,,Mikiah BRISCO,1996-07-14,USA,1,"Fayetteville, AR (USA) (i)",2016-02-27,1158.0,60-metres,sprints,female,senior,60-metres,track,7.18,USA,19.0,2016
 2050,7.18,,Asha PHILIP,1990-10-25,GBR,3h2,Berlin (GER) (i),2016-02-13,1158.0,60-metres,sprints,female,senior,60-metres,track,7.18,GER,25.0,2016
 2050,7.18,,Michelle-Lee AHYE,1992-04-10,TTO,1h1,"College Station, TX (USA) (i)",2016-02-06,1158.0,60-metres,sprints,female,senior,60-metres,track,7.18,USA,23.0,2016
@@ -2597,7 +2597,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 2389,7.19,,Shayla MAHAN,1989-01-18,USA,2h2,"Albuquerque, NM (USA) (i)",2013-03-03,1154.0,60-metres,sprints,female,senior,60-metres,track,7.19,USA,24.0,2013
 2389,7.19,,Dezerea BRYANT,1993-04-27,USA,1,"Lexington, KY (USA) (i)",2014-01-18,1154.0,60-metres,sprints,female,senior,60-metres,track,7.19,USA,20.0,2014
 2389,7.19,,Ruddy ZANG MILAMA,1987-06-06,GAB,1h1,Liévin (FRA) (i),2011-02-08,1154.0,60-metres,sprints,female,senior,60-metres,track,7.19,FRA,23.0,2011
-2389,7.19,,Myriam SOUMARÉ,1986-10-29,FRA,1,Aubiére (FRA) (i),2011-02-20,1154.0,60-metres,sprints,female,senior,60-metres,track,7.19,FRA,24.0,2011
+2389,7.19,,Myriam SOUMARÉ,1986-10-29,FRA,1,Aubière (FRA) (i),2011-02-20,1154.0,60-metres,sprints,female,senior,60-metres,track,7.19,FRA,24.0,2011
 2389,7.19,,Kim GEVAERT,1978-08-05,BEL,1h2,Gent (BEL) (i),2006-02-26,1154.0,60-metres,sprints,female,senior,60-metres,track,7.19,BEL,27.0,2006
 2389,7.19,,Larisa KRUGLOVA,1972-10-27,RUS,1h1,Moskva (RUS) (i),2007-01-28,1154.0,60-metres,sprints,female,senior,60-metres,track,7.19,RUS,34.0,2007
 2389,7.19,,Yevgeniya POLYAKOVA,1983-05-29,RUS,1sf1,Volgograd (RUS) (i),2007-02-09,1154.0,60-metres,sprints,female,senior,60-metres,track,7.19,RUS,23.0,2007
@@ -2629,7 +2629,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 2389,7.19,,Sheri-Ann BROOKS,1983-02-11,JAM,2f1,"New York, NY (USA) (i)",2010-02-26,1154.0,60-metres,sprints,female,senior,60-metres,track,7.19,USA,27.0,2010
 2389,7.19,,Ruddy ZANG MILAMA,1987-06-06,GAB,1h1,Moskva (RUS) (i),2011-02-06,1154.0,60-metres,sprints,female,senior,60-metres,track,7.19,RUS,23.0,2011
 2389,7.19,,Lauryn WILLIAMS,1983-09-11,USA,2h3,"Boston, MA (USA) (i)",2006-02-25,1154.0,60-metres,sprints,female,senior,60-metres,track,7.19,USA,22.0,2006
-2389,7.19,,Delphine Bertille ATANGANA,1984-08-16,CMR,1sf1,Aubiére (FRA) (i),2006-02-26,1154.0,60-metres,sprints,female,senior,60-metres,track,7.19,FRA,21.0,2006
+2389,7.19,,Delphine Bertille ATANGANA,1984-08-16,CMR,1sf1,Aubière (FRA) (i),2006-02-26,1154.0,60-metres,sprints,female,senior,60-metres,track,7.19,FRA,21.0,2006
 2389,7.19,,Chioma AJUNWA,1971-12-25,NGR,1,Eaubonne (FRA) (i),2002-02-13,1154.0,60-metres,sprints,female,senior,60-metres,track,7.19,FRA,30.0,2002
 2389,7.19,,Juliet CAMPBELL,1970-03-17,JAM,2h1,Birmingham (GBR) (i),2002-02-17,1154.0,60-metres,sprints,female,senior,60-metres,track,7.19,GBR,31.0,2002
 2389,7.19,,Andrea PHILIPP,1971-07-29,GER,3,Chemnitz (GER) (i),2002-02-22,1154.0,60-metres,sprints,female,senior,60-metres,track,7.19,GER,30.0,2002
@@ -2954,7 +2954,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 2753,7.2,,Chryste GAINES,1970-09-14,USA,1h,"Atlanta, GA (USA) (i)",2001-03-03,1151.0,60-metres,sprints,female,senior,60-metres,track,7.2,USA,30.0,2001
 2753,7.2,,LaKeisha BACKUS,1976-12-25,USA,1,"Flagstaff, AZ (USA) (i)",2004-02-07,1151.0,60-metres,sprints,female,senior,60-metres,track,7.2,USA,27.0,2004
 2753,7.2,,Debbie FERGUSON,1976-01-16,BAH,2,"Fayetteville, AR (USA) (i)",2004-02-14,1151.0,60-metres,sprints,female,senior,60-metres,track,7.2,USA,28.0,2004
-2753,7.2,,Muriel HURTIS,1979-03-25,FRA,1sf2,Aubiére (FRA) (i),2004-02-21,1151.0,60-metres,sprints,female,senior,60-metres,track,7.2,FRA,24.0,2004
+2753,7.2,,Muriel HURTIS,1979-03-25,FRA,1sf2,Aubière (FRA) (i),2004-02-21,1151.0,60-metres,sprints,female,senior,60-metres,track,7.2,FRA,24.0,2004
 2753,7.2,,Angela DAIGLE-BOWEN,1976-05-28,USA,2h2,"Boston, MA (USA) (i)",2004-02-28,1151.0,60-metres,sprints,female,senior,60-metres,track,7.2,USA,27.0,2004
 2753,7.2,,Veronica CAMPBELL-BROWN,1982-05-15,JAM,2,"Lexington, KY (USA) (i)",2004-02-29,1151.0,60-metres,sprints,female,senior,60-metres,track,7.2,USA,21.0,2004
 2753,7.2,,Chioma AJUNWA,1971-12-25,NGR,1h1,Stuttgart (GER) (i),2002-02-03,1151.0,60-metres,sprints,female,senior,60-metres,track,7.2,GER,30.0,2002
@@ -3513,7 +3513,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 3206,7.21,,LaKya BROOKINS,1989-07-28,USA,4,"Albuquerque, NM (USA) (i)",2013-03-03,1147.0,60-metres,sprints,female,senior,60-metres,track,7.21,USA,23.0,2013
 3206,7.21,,Mujinga KAMBUNDJI,1992-06-17,SUI,1,St. Gallen (SUI) (i),2016-02-27,1147.0,60-metres,sprints,female,senior,60-metres,track,7.21,SUI,23.0,2016
 3206,7.21,,Dafne SCHIPPERS,1992-06-15,NED,1sf3,Apeldoorn (NED) (i),2016-02-27,1147.0,60-metres,sprints,female,senior,60-metres,track,7.21,NED,23.0,2016
-3206,7.21,,Carolle ZAHI,1994-06-12,FRA,1h3,Aubiére (FRA) (i),2016-02-27,1147.0,60-metres,sprints,female,senior,60-metres,track,7.21,FRA,21.0,2016
+3206,7.21,,Carolle ZAHI,1994-06-12,FRA,1h3,Aubière (FRA) (i),2016-02-27,1147.0,60-metres,sprints,female,senior,60-metres,track,7.21,FRA,21.0,2016
 3206,7.21,,Ivet LALOVA-COLLIO,1984-05-18,BUL,5,"National Indoor Arena, Birmingham (GBR) (i)",2013-02-16,1147.0,60-metres,sprints,female,senior,60-metres,track,7.21,GBR,28.0,2013
 3206,7.21,,Ivet LALOVA-COLLIO,1984-05-18,BUL,2h2,Val-de-Reuil (FRA) (i),2013-02-12,1147.0,60-metres,sprints,female,senior,60-metres,track,7.21,FRA,28.0,2013
 3206,7.21,,Samantha HENRY-ROBINSON,1988-09-25,JAM,1f1,"Lexington, KY (USA) (i)",2009-03-01,1147.0,60-metres,sprints,female,senior,60-metres,track,7.21,USA,20.0,2009
@@ -3810,7 +3810,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 3639,7.22,,Muriel HURTIS,1979-03-25,FRA,1,Tampere (FIN) (i),2002-02-04,1144.0,60-metres,sprints,female,senior,60-metres,track,7.22,FIN,22.0,2002
 3639,7.22,,Virgen BENAVIDES,1974-12-31,CUB,3,Erfurt (GER) (i),2002-02-01,1144.0,60-metres,sprints,female,senior,60-metres,track,7.22,GER,27.0,2002
 3639,7.22,,Merlene OTTEY,1960-05-10,JAM,1h2,Madrid (ESP) (i),2001-03-14,1144.0,60-metres,sprints,female,senior,60-metres,track,7.22,ESP,40.0,2001
-3639,7.22,,Muriel HURTIS,1979-03-25,FRA,2,Aubiére (FRA) (i),2004-02-21,1144.0,60-metres,sprints,female,senior,60-metres,track,7.22,FRA,24.0,2004
+3639,7.22,,Muriel HURTIS,1979-03-25,FRA,2,Aubière (FRA) (i),2004-02-21,1144.0,60-metres,sprints,female,senior,60-metres,track,7.22,FRA,24.0,2004
 3639,7.22,,Manuela LEVORATO,1977-03-16,ITA,1,Genova (ITA) (i),2004-02-21,1144.0,60-metres,sprints,female,senior,60-metres,track,7.22,ITA,26.0,2004
 3639,7.22,,Manuela LEVORATO,1977-03-16,ITA,5,Karlsruhe (GER) (i),2004-02-15,1144.0,60-metres,sprints,female,senior,60-metres,track,7.22,GER,26.0,2004
 3639,7.22,,Karin MAYR-KRIFKA,1971-06-04,AUT,4,Karlsruhe (GER) (i),2004-02-15,1144.0,60-metres,sprints,female,senior,60-metres,track,7.22,GER,32.0,2004
@@ -4347,7 +4347,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 4112,7.23,,Rayniah JONES,2001-09-28,USA,1,"Gilliam Indoor Track, College Station, TX (USA) (i)",2022-02-04,1141.0,60-metres,sprints,female,senior,60-metres,track,7.23,USA,20.0,2022
 4112,7.23,-1.2,Shericka JACKSON,1994-07-16,JAM,1h3,"GC Foster College, Spanish Town (JAM)",2022-02-05,1148.0,60-metres,sprints,female,senior,60-metres,track,7.23,JAM,27.0,2022
 4112,7.23,,Michelle-Lee AHYE,1992-04-10,TTO,1h2,"L'Anneau-Halle d'athlétisme de Metz, Metz (FRA) (i)",2022-02-12,1141.0,60-metres,sprints,female,senior,60-metres,track,7.23,FRA,29.0,2022
-4112,7.23,,Edidiong Ofinome ODIONG,1997-03-13,BRN,1h2,"Rector Fieldhouse, Blacksburg, VA (USA) (i)",2022-02-25,1141.0,60-metres,sprints,female,senior,60-metres,track,7.23,USA,24.0,2022
+4112,7.23,,Edidiong ODIONG,1997-03-13,BRN,1h2,"Rector Fieldhouse, Blacksburg, VA (USA) (i)",2022-02-25,1141.0,60-metres,sprints,female,senior,60-metres,track,7.23,USA,24.0,2022
 4112,7.23,,Rafailia SPANOUDAKI-CHATZIRIGA,1994-06-07,GRE,1f1,"Peace and Friendship Stadium, Piraeus (GRE) (i)",2022-02-26,1141.0,60-metres,sprints,female,senior,60-metres,track,7.23,GRE,27.0,2022
 4112,7.23,,Maja MIHALINEC ZIDAR,1989-12-17,SLO,1,"Mercedes-Benz Arena, Berlin (GER) (i)",2021-02-05,1141.0,60-metres,sprints,female,senior,60-metres,track,7.23,GER,31.0,2021
 4112,7.23,,Ajla DEL PONTE,1996-07-15,SUI,1h2,"L'Anneau-Halle d'athlétisme de Metz, Metz (FRA) (i)",2021-02-06,1141.0,60-metres,sprints,female,senior,60-metres,track,7.23,FRA,24.0,2021
@@ -4554,7 +4554,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 4112,7.23,,Shalonda SOLOMON,1985-12-19,USA,1h1,"Fayetteville, AR (USA) (i)",2011-02-11,1141.0,60-metres,sprints,female,senior,60-metres,track,7.23,USA,25.0,2011
 4112,7.23,,Shalonda SOLOMON,1985-12-19,USA,1sf2,"Fayetteville, AR (USA) (i)",2011-02-11,1141.0,60-metres,sprints,female,senior,60-metres,track,7.23,USA,25.0,2011
 4112,7.23,,Ezinne OKPARAEBO,1988-03-03,NOR,2h,Karlsruhe (GER) (i),2011-02-13,1141.0,60-metres,sprints,female,senior,60-metres,track,7.23,GER,22.0,2011
-4112,7.23,,Véronique MANG,1984-12-15,FRA,2,Aubiére (FRA) (i),2011-02-20,1141.0,60-metres,sprints,female,senior,60-metres,track,7.23,FRA,26.0,2011
+4112,7.23,,Véronique MANG,1984-12-15,FRA,2,Aubière (FRA) (i),2011-02-20,1141.0,60-metres,sprints,female,senior,60-metres,track,7.23,FRA,26.0,2011
 4112,7.23,,Amber PURVIS,1990-01-23,USA,1f2,"Seattle, WA (USA) (i)",2011-02-26,1141.0,60-metres,sprints,female,senior,60-metres,track,7.23,USA,21.0,2011
 4112,7.23,,Georgia KOKLONI,1981-05-07,GRE,5sf2,"Palais Omnisports de Paris-Bercy, Paris (FRA) (i)",2011-03-05,1141.0,60-metres,sprints,female,senior,60-metres,track,7.23,FRA,29.0,2011
 4112,7.23,,Lakecia EALEY,1986-01-22,USA,4,"Fayetteville, AR (USA) (i)",2008-03-15,1141.0,60-metres,sprints,female,senior,60-metres,track,7.23,USA,22.0,2008
@@ -5093,7 +5093,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 4620,7.24,,Kimberlyn DUNCAN,1991-08-02,USA,1,"Fayetteville, AR (USA) (i)",2013-02-24,1137.0,60-metres,sprints,female,senior,60-metres,track,7.24,USA,21.0,2013
 4620,7.24,,English GARDNER,1992-04-22,USA,1f2,"Seattle, WA (USA) (i)",2013-02-23,1137.0,60-metres,sprints,female,senior,60-metres,track,7.24,USA,20.0,2013
 4620,7.24,,Tatjana PINTO,1992-07-02,GER,2,Dortmund (GER) (i),2013-02-23,1137.0,60-metres,sprints,female,senior,60-metres,track,7.24,GER,20.0,2013
-4620,7.24,,Myriam SOUMARÉ,1986-10-29,FRA,1,Aubiére (FRA) (i),2013-02-17,1137.0,60-metres,sprints,female,senior,60-metres,track,7.24,FRA,26.0,2013
+4620,7.24,,Myriam SOUMARÉ,1986-10-29,FRA,1,Aubière (FRA) (i),2013-02-17,1137.0,60-metres,sprints,female,senior,60-metres,track,7.24,FRA,26.0,2013
 4620,7.24,,Kateřina ČECHOVÁ,1988-03-21,CZE,1,Praha (CZE) (i),2013-02-16,1137.0,60-metres,sprints,female,senior,60-metres,track,7.24,CZE,24.0,2013
 4620,7.24,,Ivet LALOVA-COLLIO,1984-05-18,BUL,2h2,"National Indoor Arena, Birmingham (GBR) (i)",2013-02-16,1137.0,60-metres,sprints,female,senior,60-metres,track,7.24,GBR,28.0,2013
 4620,7.24,,Dominique BOOKER,1992-02-10,USA,3sf1,"Fayetteville, AR (USA) (i)",2011-02-11,1137.0,60-metres,sprints,female,senior,60-metres,track,7.24,USA,19.0,2011
@@ -5137,7 +5137,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 4620,7.24,,Natalya MURINOVICH,1985-05-27,RUS,2,Moskva (RUS) (i),2009-02-01,1137.0,60-metres,sprints,female,senior,60-metres,track,7.24,RUS,23.0,2009
 4620,7.24,,Samantha HENRY-ROBINSON,1988-09-25,JAM,5,"Fayetteville, AR (USA) (i)",2008-03-15,1137.0,60-metres,sprints,female,senior,60-metres,track,7.24,USA,19.0,2008
 4620,7.24,,LaKya BROOKINS,1989-07-28,USA,2,"Blacksburg, VA (USA) (i)",2011-01-21,1137.0,60-metres,sprints,female,senior,60-metres,track,7.24,USA,21.0,2011
-4620,7.24,,Ruddy ZANG MILAMA,1987-06-06,GAB,1f1,Aubiére (FRA) (i),2011-01-08,1137.0,60-metres,sprints,female,senior,60-metres,track,7.24,FRA,23.0,2011
+4620,7.24,,Ruddy ZANG MILAMA,1987-06-06,GAB,1f1,Aubière (FRA) (i),2011-01-08,1137.0,60-metres,sprints,female,senior,60-metres,track,7.24,FRA,23.0,2011
 4620,7.24,,Yevgeniya POLYAKOVA,1983-05-29,RUS,3sf2,"Aspire Dome, Doha (QAT) (i)",2010-03-14,1137.0,60-metres,sprints,female,senior,60-metres,track,7.24,QAT,26.0,2010
 4620,7.24,,Mikele BARBER,1980-10-04,USA,2sf2,"Aspire Dome, Doha (QAT) (i)",2010-03-14,1137.0,60-metres,sprints,female,senior,60-metres,track,7.24,QAT,29.0,2010
 4620,7.24,,Semoy HACKETT,1988-11-27,TTO,1,"Albuquerque, NM (USA) (i)",2010-03-13,1137.0,60-metres,sprints,female,senior,60-metres,track,7.24,USA,21.0,2010
@@ -5595,7 +5595,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 5183,7.25,,Morolake AKINOSUN,1994-05-17,USA,2,"Fayetteville, AR (USA) (i)",2014-02-14,1134.0,60-metres,sprints,female,senior,60-metres,track,7.25,USA,19.0,2014
 5183,7.25,,Shayla SANDERS,1994-01-06,USA,3,"Lexington, KY (USA) (i)",2015-02-28,1134.0,60-metres,sprints,female,senior,60-metres,track,7.25,USA,21.0,2015
 5183,7.25,,Ashley COLLIER,1992-02-04,USA,2f1,"New York, NY (USA) (i)",2012-02-03,1134.0,60-metres,sprints,female,senior,60-metres,track,7.25,USA,20.0,2012
-5183,7.25,,Céline DISTEL-BONNET,1987-07-25,FRA,1h2,Aubiére (FRA) (i),2015-02-21,1134.0,60-metres,sprints,female,senior,60-metres,track,7.25,FRA,27.0,2015
+5183,7.25,,Céline DISTEL-BONNET,1987-07-25,FRA,1h2,Aubière (FRA) (i),2015-02-21,1134.0,60-metres,sprints,female,senior,60-metres,track,7.25,FRA,27.0,2015
 5183,7.25,,Chante CLINKSCALE,,USA,5sf1,"Clemson Indoor Track & Field Complex, Clemson, SC (USA) (i)",2025-02-14,1134.0,60-metres,sprints,female,senior,60-metres,track,7.25,USA,,2025
 5183,7.25,,Natasha MORRISON,1992-11-17,JAM,5sf1,"Sports Training Center, Nanjing (CHN) (i)",2025-03-22,1134.0,60-metres,sprints,female,senior,60-metres,track,7.25,CHN,32.0,2025
 5183,7.25,,Joella LLOYD,2002-04-12,ANT,4sf1,"Sports Training Center, Nanjing (CHN) (i)",2025-03-22,1134.0,60-metres,sprints,female,senior,60-metres,track,7.25,CHN,22.0,2025
@@ -5630,7 +5630,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 5183,7.25,,Stephanie DURST,1982-01-06,USA,1,Wien (AUT) (i),2006-01-31,1134.0,60-metres,sprints,female,senior,60-metres,track,7.25,AUT,24.0,2006
 5183,7.25,,Shalonda SOLOMON,1985-12-19,USA,6,"Fayetteville, AR (USA) (i)",2006-03-11,1134.0,60-metres,sprints,female,senior,60-metres,track,7.25,USA,20.0,2006
 5183,7.25,,Marina KISLOVA,1978-12-12,RUS,2,Liévin (FRA) (i),2006-03-03,1134.0,60-metres,sprints,female,senior,60-metres,track,7.25,FRA,27.0,2006
-5183,7.25,,Jessica BAKASA,,ZIM,1,Aubiére (FRA) (i),2006-02-18,1134.0,60-metres,sprints,female,senior,60-metres,track,7.25,FRA,,2006
+5183,7.25,,Jessica BAKASA,,ZIM,1,Aubière (FRA) (i),2006-02-18,1134.0,60-metres,sprints,female,senior,60-metres,track,7.25,FRA,,2006
 5183,7.25,,Bianca KNIGHT,1989-01-02,USA,1,"Pocatello, ID (USA) (i)",2006-02-16,1134.0,60-metres,sprints,female,senior,60-metres,track,7.25,USA,17.0,2006
 5183,7.25,,Ashley OWENS,1985-11-19,USA,1,"Albuquerque, NM (USA) (i)",2006-02-11,1134.0,60-metres,sprints,female,senior,60-metres,track,7.25,USA,20.0,2006
 5183,7.25,,Yulia NESTSIARENKA,1979-06-15,BLR,1h2,Moskva (RUS) (i),2004-02-01,1134.0,60-metres,sprints,female,senior,60-metres,track,7.25,RUS,24.0,2004
@@ -5867,7 +5867,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 5183,7.25,,Audrey LEDUC,1999-03-09,CAN,1h1,"The Dome Louis Riel, Ottawa (CAN) (i)",2024-02-16,1134.0,60-metres,sprints,female,senior,60-metres,track,7.25,CAN,24.0,2024
 5183,7.25,,Krystsina TSIMANOUSKAYA,1996-11-19,BLR,h2,"Arena, Toruń (POL) (i)",2023-02-18,1134.0,60-metres,sprints,female,senior,60-metres,track,7.25,POL,26.0,2023
 5183,7.25,,Krystsina TSIMANOUSKAYA,1996-11-19,BLR,,"Arena, Toruń (POL) (i)",2023-02-18,1134.0,60-metres,sprints,female,senior,60-metres,track,7.25,POL,26.0,2023
-5183,7.25,,Cynthia LEDUC,1997-02-16,FRA,1,"Stadium Jean-Pellez, Aubiére (FRA) (i)",2023-02-18,1134.0,60-metres,sprints,female,senior,60-metres,track,7.25,FRA,26.0,2023
+5183,7.25,,Cynthia LEDUC,1997-02-16,FRA,1,"Stadium Jean-Pellez, Aubière (FRA) (i)",2023-02-18,1134.0,60-metres,sprints,female,senior,60-metres,track,7.25,FRA,26.0,2023
 5183,7.25,,Demi VAN DEN WILDENBERG,2000-02-29,NED,3,"Omnisport, Apeldoorn (NED) (i)",2023-02-18,1134.0,60-metres,sprints,female,senior,60-metres,track,7.25,NED,22.0,2023
 5183,7.25,,Asha PHILIP,1990-10-25,GBR,1sf3,"Utilita Arena Birmingham, Birmingham (GBR) (i)",2023-02-18,1134.0,60-metres,sprints,female,senior,60-metres,track,7.25,GBR,32.0,2023
 5183,7.25,,Brianna DUNCAN,1998-10-06,USA,1h3,"Convention Center, Albuquerque, NM (USA) (i)",2020-02-14,1134.0,60-metres,sprints,female,senior,60-metres,track,7.25,USA,21.0,2020

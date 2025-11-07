@@ -1,0 +1,76 @@
+rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,discipline,type,sex,age_cat
+1,1:57.18,,Yuan WANG,08 APR 1976,CHN,2h2,Beijing (CHN),08 SEP 1993,1213,800-metres,middlelong,female,u18
+2,1:57.86,,Phoebe GILL,27 APR 2007,GBR,1,"Mary Peters Track, Belfast (GBR)",11 MAY 2024,1201,800-metres,middlelong,female,u18
+3,1:58.07,,Phoebe GILL,27 APR 2007,GBR,1f1,"Sportcity Regional Arena, Manchester (GBR)",25 MAY 2024,1197,800-metres,middlelong,female,u18
+4,1:58.16,,Na LIN,18 JAN 1980,CHN,3,Shanghai (CHN),22 OCT 1997,1195,800-metres,middlelong,female,u18
+5,1:58.26,,Na LIN,18 JAN 1980,CHN,h,Shanghai (CHN),21 OCT 1997,1194,800-metres,middlelong,female,u18
+6,1:58.47,,Phoebe GILL,27 APR 2007,GBR,4sf1,"Stade de France, Paris (FRA)",04 AUG 2024,1190,800-metres,middlelong,female,u18
+7,1:58.66,,Phoebe GILL,27 APR 2007,GBR,1,"Manchester Regional Arena, Manchester (GBR)",30 JUN 2024,1186,800-metres,middlelong,female,u18
+8,1:58.83,,Phoebe GILL,27 APR 2007,GBR,3h3,"Stade de France, Paris (FRA)",02 AUG 2024,1183,800-metres,middlelong,female,u18
+9,1:59.51,,Mary CAIN,03 MAY 1996,USA,5,"Hayward Field, Eugene, OR (USA)",01 JUN 2013,1171,800-metres,middlelong,female,u18
+10,1:59.52,,Rin KUBO,20 JAN 2008,JPN,1,"National Stadium, Tokyo (JPN)",05 JUL 2025,1171,800-metres,middlelong,female,u18
+11,1:59.65,,Marion GEISSLER-HÜBNER,29 SEP 1962,GDR,3,Karl Marx Stadt (GDR),11 AUG 1979,1168,800-metres,middlelong,female,u18
+12,1:59.74,,Diribe WELTEJI,13 MAY 2002,ETH,1,"Ratinan Stadion, Tampere (FIN)",12 JUL 2018,1167,800-metres,middlelong,female,u18
+13,1:59.75,,Charlotte MOORE,04 FEB 1985,GBR,6,Manchester (GBR),29 JUL 2002,1167,800-metres,middlelong,female,u18
+14,1:59.96,,Birte BRUHNS,04 NOV 1970,GDR,1,Leipzig (GER),29 JUL 1987,1163,800-metres,middlelong,female,u18
+15,2:00.06,,Elena Mirela LAVRIC,17 FEB 1991,ROU,1,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",11 JUL 2008,1161,800-metres,middlelong,female,u18
+16,2:00.28,,Rin KUBO,20 JAN 2008,JPN,1f3,"Prefectural Shizuoka Stadium, Fukuroi (JPN)",03 MAY 2025,1157,800-metres,middlelong,female,u18
+17,2:00.42,,Rin KUBO,20 JAN 2008,JPN,2,"Gumi Civic Stadium, Gumi (KOR)",31 MAY 2025,1155,800-metres,middlelong,female,u18
+18,2:00.49,,Aníta HINRIKSDÓTTIR,13 JAN 1996,ISL,1,Mannheim (GER),30 JUN 2013,1153,800-metres,middlelong,female,u18
+19,2:00.51,,Diribe WELTEJI,13 MAY 2002,ETH,1,Hengelo (NED),17 JUL 2019,1153,800-metres,middlelong,female,u18
+20,2:00.56,,Birte BRUHNS,04 NOV 1970,GDR,1,"Alexander Stadium, Birmingham (GBR)",08 AUG 1987,1152,800-metres,middlelong,female,u18
+21,2:00.58,,Sophia GORRIARAN,20 JUN 2005,USA,4f1,"Boston Univ. Track & Tennis Center, Boston, MA (USA) (i)",11 FEB 2022,1176,800-metres,middlelong,female,u18
+22,2:00.65,,Sophia GORRIARAN,20 JUN 2005,USA,6,"Icahn Stadium, New York, NY (USA)",20 MAY 2022,1151,800-metres,middlelong,female,u18
+23,2:00.70,,Birte BRUHNS,04 NOV 1970,GDR,1,Neubrandenburg (GDR),11 JUN 1987,1150,800-metres,middlelong,female,u18
+24,2:00.78,,Roisin WILLIS,06 AUG 2004,USA,1f2,"Icahn Stadium, New York, NY (USA)",21 MAY 2021,1148,800-metres,middlelong,female,u18
+25,2:00.81,,Keely SMALL,09 JUN 2001,AUS,6h1,Gold Coast (AUS),12 APR 2018,1148,800-metres,middlelong,female,u18
+25,2:00.81,,Rin KUBO,20 JAN 2008,JPN,1,"Hakatanomori Athletic Stadium, Fukuoka (JPN)",31 JUL 2024,1148,800-metres,middlelong,female,u18
+27,2:00.89,,Diribe WELTEJI,13 MAY 2002,ETH,1,Assela (ETH),24 MAY 2018,1146,800-metres,middlelong,female,u18
+28,2:00.90,,Girdish NEGASH,07 OCT 1970,ETH,4,Berlin (GER),08 JUL 1987,1146,800-metres,middlelong,female,u18
+29,2:00.95,,Charlotte MOORE,04 FEB 1985,GBR,3sf1,Manchester (GBR),28 JUL 2002,1145,800-metres,middlelong,female,u18
+29,2:00.95,,Shaikira KING,14 JUL 2008,GBR,3f1,"Woodside Stadium, Watford (GBR)",12 JUL 2025,1145,800-metres,middlelong,female,u18
+31,2:00.96,,Jess JUDD,07 JAN 1995,GBR,2,"Estadio Olímpico, Barcelona (ESP)",12 JUL 2012,1145,800-metres,middlelong,female,u18
+32,2:01.09,,Jess JUDD,07 JAN 1995,GBR,1f1,Watford (GBR),09 JUN 2012,1143,800-metres,middlelong,female,u18
+33,2:01.11,,Meskerem LEGESSE,28 SEP 1986,ETH,2,"Portland, OR (USA)",17 MAY 2003,1142,800-metres,middlelong,female,u18
+34,2:01.13,,Aníta HINRIKSDÓTTIR,13 JAN 1996,ISL,1,Donetsk (UKR),14 JUL 2013,1142,800-metres,middlelong,female,u18
+35,2:01.14,,Aníta HINRIKSDÓTTIR,13 JAN 1996,ISL,1,"Stadio Guidobaldi, Rieti (ITA)",20 JUL 2013,1142,800-metres,middlelong,female,u18
+36,2:01.16,,Hirut MESHESHA,20 JAN 2001,ETH,2,Assela (ETH),24 MAY 2018,1142,800-metres,middlelong,female,u18
+37,2:01.17,,Aníta HINRIKSDÓTTIR,13 JAN 1996,ISL,1f1,"Štadión SNP, Banská Bystrica (SVK)",22 JUN 2013,1141,800-metres,middlelong,female,u18
+37,2:01.17,,Athing MU,08 JUN 2002,USA,5,"Drake Stadium, Des Moines, IA (USA)",28 JUL 2019,1141,800-metres,middlelong,female,u18
+39,2:01.21,,Marion GEISSLER-HÜBNER,29 SEP 1962,GDR,1,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",18 AUG 1979,1141,800-metres,middlelong,female,u18
+40,2:01.25,,Tigst ASSEFA,03 DEC 1996,ETH,3f1,Bellinzona (SUI),11 JUN 2013,1140,800-metres,middlelong,female,u18
+40,2:01.25,,Rin KUBO,20 JAN 2008,JPN,1f3,"Denka Big Swan Stadium, Niigata (JPN)",29 SEP 2024,1140,800-metres,middlelong,female,u18
+42,2:01.27,,Roisin WILLIS,06 AUG 2004,USA,4h3,"Hayward Field, Eugene, OR (USA)",24 JUN 2021,1140,800-metres,middlelong,female,u18
+43,2:01.29,,Monika BENS,06 NOV 1966,FRG,3,"Rudolf Tonn Stadion, Schwechat (AUT)",27 AUG 1983,1139,800-metres,middlelong,female,u18
+43,2:01.29,,Olga CRISTEA,13 DEC 1987,MDA,2,Kyiv (UKR),25 JUL 2004,1139,800-metres,middlelong,female,u18
+45,2:01.34,,Chunyu WANG,17 JAN 1995,CHN,1,Nanchang (CHN),23 OCT 2011,1138,800-metres,middlelong,female,u18
+46,2:01.35,,Freweyni HAILU,12 FEB 2001,ETH,3,Assela (ETH),24 MAY 2018,1138,800-metres,middlelong,female,u18
+47,2:01.38,,Athing MU,08 JUN 2002,USA,2f3,"Nashville, TN (USA)",01 JUN 2019,1138,800-metres,middlelong,female,u18
+48,2:01.46,,Keely SMALL,09 JUN 2001,AUS,1f1,Canberra (AUS),11 MAR 2017,1136,800-metres,middlelong,female,u18
+48,2:01.46,,Jackline WAMBUI,08 FEB 2000,KEN,1,"Kasarani, Nairobi (KEN)",16 JUL 2017,1136,800-metres,middlelong,female,u18
+50,2:01.48,,Chunyu WANG,17 JAN 1995,CHN,2,Kunshan (CHN),24 SEP 2012,1136,800-metres,middlelong,female,u18
+51,2:01.50,,Phoebe GILL,27 APR 2007,GBR,3,"Woodside Stadium, Watford (GBR)",23 AUG 2023,1136,800-metres,middlelong,female,u18
+51,2:01.50,,Paige SHEPPARD,2009,USA,1,"Renton Memorial Stadium, Renton, WA (USA)",08 JUN 2025,1136,800-metres,middlelong,female,u18
+53,2:01.60,,Nancy Jebet LANGAT,22 AUG 1981,KEN,1,Nairobi (KEN),09 AUG 1997,1134,800-metres,middlelong,female,u18
+53,2:01.60,,Claudia HOLLINGSWORTH,12 APR 2005,AUS,3,"Queensland Sport and Athletics Centre, Nathan, Brisbane (AUS)",27 MAR 2021,1134,800-metres,middlelong,female,u18
+55,2:01.65,,Jingnan LI,17 FEB 1983,CHN,8,Athina (GRE),28 JUN 2000,1133,800-metres,middlelong,female,u18
+55,2:01.65,,Shaikira KING,14 JUL 2008,GBR,5,"Mary Peters Track, Belfast (GBR)",10 MAY 2025,1133,800-metres,middlelong,female,u18
+57,2:01.67,,Cherono KOECH,08 DEC 1992,KEN,1,"Bressanone, Trentino-Alto Adige (ITA)",12 JUL 2009,1133,800-metres,middlelong,female,u18
+58,2:01.68,,Xiaolan ZHANG,15 NOV 1980,CHN,h,Shanghai (CHN),21 OCT 1997,1132,800-metres,middlelong,female,u18
+59,2:01.71,,Tigst ASSEFA,03 DEC 1996,ETH,3,Reims (FRA),28 JUN 2013,1132,800-metres,middlelong,female,u18
+60,2:01.72,,Tigst ASSEFA,03 DEC 1996,ETH,4,"Stade Raymond Petit, Tomblaine (FRA)",02 JUL 2013,1132,800-metres,middlelong,female,u18
+60,2:01.72,,Rin KUBO,20 JAN 2008,JPN,1,"Athletic Stadium, Hikone (JPN)",04 OCT 2025,1132,800-metres,middlelong,female,u18
+62,2:01.73,,Georgie CLARKE,17 JUN 1984,AUS,6,Brisbane (AUS),08 SEP 2000,1131,800-metres,middlelong,female,u18
+63,2:01.74,,Kutre DULECHA,22 AUG 1978,ETH,6h2,"Ullevi Stadium, Göteborg (SWE)",10 AUG 1995,1131,800-metres,middlelong,female,u18
+64,2:01.75,,Claudia HOLLINGSWORTH,12 APR 2005,AUS,2,"SOPAC, Sydney (AUS)",18 APR 2021,1131,800-metres,middlelong,female,u18
+65,2:01.76,,Živa REMIC,23 AUG 2009,SLO,2f1,"Ratinan Stadion, Tampere (FIN)",10 AUG 2025,1131,800-metres,middlelong,female,u18
+66,2:01.81,,Georgie CLARKE,17 JUN 1984,AUS,2,Canberra (AUS),15 JAN 2000,1130,800-metres,middlelong,female,u18
+67,2:01.82,,Jingnan LI,17 FEB 1983,CHN,1,Zhuhai (CHN),20 OCT 1998,1130,800-metres,middlelong,female,u18
+68,2:01.88,,Yumei CHEN,01 SEP 1974,CHN,1,Tangshan (CHN),27 SEP 1991,1129,800-metres,middlelong,female,u18
+69,2:01.89,,Diribe WELTEJI,13 MAY 2002,ETH,1sf2,"Ratinan Stadion, Tampere (FIN)",11 JUL 2018,1129,800-metres,middlelong,female,u18
+70,2:01.91,,Marta ZENONI,09 MAR 1999,ITA,10,Bellinzona (SUI),06 JUN 2016,1128,800-metres,middlelong,female,u18
+71,2:01.92,,Cherono KOECH,08 DEC 1992,KEN,3,Nairobi (KEN),25 JUL 2009,1128,800-metres,middlelong,female,u18
+71,2:01.92,,Mebriht MEKONEN,12 FEB 2005,ETH,4,"Centro Sportivo Fontanassa, Savona (ITA)",18 MAY 2022,1128,800-metres,middlelong,female,u18
+73,2:01.95,,Athing MU,08 JUN 2002,USA,2h4,"Drake Stadium, Des Moines, IA (USA)",25 JUL 2019,1128,800-metres,middlelong,female,u18
+74,2:01.96,,Freweyni HAILU,12 FEB 2001,ETH,1sf1,"Ratinan Stadion, Tampere (FIN)",11 JUL 2018,1127,800-metres,middlelong,female,u18
+75,2:01.99,,Živa REMIC,23 AUG 2009,SLO,1,"Stadion Portoval, Novo Mesto (SLO)",13 JUL 2025,1127,800-metres,middlelong,female,u18

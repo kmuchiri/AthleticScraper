@@ -1,0 +1,920 @@
+rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,discipline,type,sex,age_cat
+1,19.49,+1.4,Erriyon KNIGHTON,29 JAN 2004,USA,1f1,"LSU Bernie Moore Stadium, Baton Rouge, LA (USA)",30 APR 2022,1302,200-metres,sprints,male,u20
+2,19.69,-0.3,Erriyon KNIGHTON,29 JAN 2004,USA,2,"Hayward Field, Eugene, OR (USA)",26 JUN 2022,1270,200-metres,sprints,male,u20
+3,19.72,-0.1,Erriyon KNIGHTON,29 JAN 2004,USA,1,"Hayward Field, Eugene, OR (USA)",09 JUL 2023,1264,200-metres,sprints,male,u20
+4,19.75,-0.2,Erriyon KNIGHTON,29 JAN 2004,USA,2,"Nemzeti Atlétikai Központ, Budapest (HUN)",25 AUG 2023,1261,200-metres,sprints,male,u20
+5,19.77,+0.3,Erriyon KNIGHTON,29 JAN 2004,USA,1sf3,"Hayward Field, Eugene, OR (USA)",19 JUL 2022,1256,200-metres,sprints,male,u20
+5,19.77,+0.6,Erriyon KNIGHTON,29 JAN 2004,USA,1,"Bislett Stadion, Oslo (NOR)",15 JUN 2023,1256,200-metres,sprints,male,u20
+7,19.80,+0.4,Erriyon KNIGHTON,29 JAN 2004,USA,3,"Hayward Field, Eugene, OR (USA)",21 JUL 2022,1252,200-metres,sprints,male,u20
+8,19.84,+0.3,Erriyon KNIGHTON,29 JAN 2004,USA,3,"Hayward Field, Eugene, OR (USA)",27 JUN 2021,1245,200-metres,sprints,male,u20
+8,19.84,+0.8,Erriyon KNIGHTON,29 JAN 2004,USA,2,"Stade Louis II, Monaco (MON)",10 AUG 2022,1245,200-metres,sprints,male,u20
+10,19.87,-0.5,Erriyon KNIGHTON,29 JAN 2004,USA,2,"Letzigrund, Zürich (SUI)",31 AUG 2023,1244,200-metres,sprints,male,u20
+11,19.88,+1.1,Erriyon KNIGHTON,29 JAN 2004,USA,1sf2,"Hayward Field, Eugene, OR (USA)",26 JUN 2021,1239,200-metres,sprints,male,u20
+11,19.88,+0.8,Erriyon KNIGHTON,29 JAN 2004,USA,1,"Bregyó Athletic Center, Székesfehérvár (HUN)",08 AUG 2022,1239,200-metres,sprints,male,u20
+13,19.89,0.0,Erriyon KNIGHTON,29 JAN 2004,USA,1,"Stadio Luigi Ridolfi, Firenze (ITA)",02 JUN 2023,1237,200-metres,sprints,male,u20
+14,19.93,+1.4,Usain BOLT,21 AUG 1986,JAM,1,Hamilton (BER),11 APR 2004,1231,200-metres,sprints,male,u20
+14,19.93,-0.5,Erriyon KNIGHTON,29 JAN 2004,USA,4,"National Stadium, Tokyo (JPN)",04 AUG 2021,1234,200-metres,sprints,male,u20
+16,19.95,+0.7,Erriyon KNIGHTON,29 JAN 2004,USA,1,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",06 JUN 2023,1228,200-metres,sprints,male,u20
+17,19.96,-1.0,Blessing Akwasi AFRIFAH,26 OCT 2003,ISR,1,"Pascual Guerrero Stadium, Cali (COL)",04 AUG 2022,1232,200-metres,sprints,male,u20
+17,19.96,-1.0,Letsile TEBOGO,07 JUN 2003,BOT,2,"Pascual Guerrero Stadium, Cali (COL)",04 AUG 2022,1232,200-metres,sprints,male,u20
+19,19.97,+1.7,Erriyon KNIGHTON,29 JAN 2004,USA,1sf2,"Hayward Field, Eugene, OR (USA)",26 JUN 2022,1225,200-metres,sprints,male,u20
+19,19.97,+1.3,Issamade ASINGA,29 DEC 2004,USA,3f1,"Terry & Linda Fuller T&F Complex, Lubbock, TX (USA)",29 APR 2023,1225,200-metres,sprints,male,u20
+19,19.97,+0.6,Erriyon KNIGHTON,29 JAN 2004,USA,3,"Hayward Field, Eugene, OR (USA)",17 SEP 2023,1225,200-metres,sprints,male,u20
+22,19.98,-0.4,Erriyon KNIGHTON,29 JAN 2004,USA,1sf3,"Nemzeti Atlétikai Központ, Budapest (HUN)",24 AUG 2023,1225,200-metres,sprints,male,u20
+23,19.99,+1.8,Usain BOLT,21 AUG 1986,JAM,2,"Crystal Palace, London (GBR)",22 JUL 2005,1222,200-metres,sprints,male,u20
+23,19.99,+0.4,Letsile TEBOGO,07 JUN 2003,BOT,1h2,"Pascual Guerrero Stadium, Cali (COL)",03 AUG 2022,1222,200-metres,sprints,male,u20
+25,20.02,-0.2,Erriyon KNIGHTON,29 JAN 2004,USA,1sf1,"National Stadium, Tokyo (JPN)",03 AUG 2021,1218,200-metres,sprints,male,u20
+25,20.02,+1.2,Xavier BUTLER,,USA,1h1,"Cushing Stadium, College Station, TX (USA)",30 MAY 2025,1217,200-metres,sprints,male,u20
+25,20.02,0.0,Gout GOUT,29 DEC 2007,AUS,1,"Mestský Stadion, Ostrava (CZE)",24 JUN 2025,1217,200-metres,sprints,male,u20
+28,20.03,+1.8,Usain BOLT,21 AUG 1986,JAM,1,Nassau (BAH),11 JUL 2005,1215,200-metres,sprints,male,u20
+28,20.03,+1.2,Erriyon KNIGHTON,29 JAN 2004,USA,3f1,"Bregyó Athletic Center, Székesfehérvár (HUN)",06 JUL 2021,1215,200-metres,sprints,male,u20
+28,20.03,+1.0,Erriyon KNIGHTON,29 JAN 2004,USA,2sf1,"Hayward Field, Eugene, OR (USA)",09 JUL 2023,1215,200-metres,sprints,male,u20
+31,20.04,+0.1,Ramil GULIYEV,29 MAY 1990,AZE,1,Beograd (SRB),10 JUL 2009,1214,200-metres,sprints,male,u20
+31,20.04,-0.2,Erriyon KNIGHTON,29 JAN 2004,USA,1h1,"Hayward Field, Eugene, OR (USA)",25 JUN 2021,1215,200-metres,sprints,male,u20
+31,20.04,+1.5,Gout GOUT,29 DEC 2007,AUS,1,"Queensland Sport and Athletics Centre, Nathan, Brisbane (AUS)",07 DEC 2024,1214,200-metres,sprints,male,u20
+34,20.05,+1.1,Erriyon KNIGHTON,29 JAN 2004,USA,2,"Bregyó Athletic Center, Székesfehérvár (HUN)",18 JUL 2023,1212,200-metres,sprints,male,u20
+34,20.05,+1.2,Gout GOUT,29 DEC 2007,AUS,1h1,"Queensland Sport and Athletics Centre, Nathan, Brisbane (AUS)",16 MAR 2025,1212,200-metres,sprints,male,u20
+36,20.07,+1.5,Lorenzo DANIEL,23 MAR 1966,USA,1,"Starkville, MS (USA)",18 MAY 1985,1209,200-metres,sprints,male,u20
+36,20.07,-2.8,Erriyon KNIGHTON,29 JAN 2004,USA,1,"Boudewijnstadion, Bruxelles (BEL)",02 SEP 2022,1225,200-metres,sprints,male,u20
+38,20.08,+0.1,Udodi Chudi ONWUZURIKE,29 JAN 2003,NGR,1h2,"John McDonnell Field, Fayetteville, AR (USA)",27 MAY 2022,1207,200-metres,sprints,male,u20
+38,20.08,+1.1,Erriyon KNIGHTON,29 JAN 2004,USA,1h1,"Hayward Field, Eugene, OR (USA)",25 JUN 2022,1207,200-metres,sprints,male,u20
+38,20.08,+0.5,Bayanda WALAZA,09 FEB 2006,RSA,1,"UJ Stadium, Johannesburg (RSA)",19 MAR 2025,1207,200-metres,sprints,male,u20
+41,20.09,+1.6,Noah LYLES,18 JUL 1997,USA,4,"Hayward Field, Eugene, OR (USA)",09 JUL 2016,1206,200-metres,sprints,male,u20
+41,20.09,0.0,Udodi Chudi ONWUZURIKE,29 JAN 2003,NGR,2,"Hayward Field, Eugene, OR (USA)",15 MAY 2022,1206,200-metres,sprints,male,u20
+43,20.10,+1.7,Clarence MUNYAI,20 FEB 1998,RSA,2f5,Pretoria (RSA),04 MAR 2017,1204,200-metres,sprints,male,u20
+43,20.10,-1.9,Gout GOUT,29 DEC 2007,AUS,1,"Stade Louis II, Monaco (MON)",11 JUL 2025,1215,200-metres,sprints,male,u20
+45,20.11,+1.6,Erriyon KNIGHTON,29 JAN 2004,USA,1f1,"University of North Florda Jax Track at Hodges Stadium, Jacksonville, FL (USA)",31 MAY 2021,1203,200-metres,sprints,male,u20
+45,20.11,+1.1,Issamade ASINGA,29 DEC 2004,USA,1f1,"UMiami Cobb Stadium, Coral Gables, FL (USA)",08 APR 2023,1203,200-metres,sprints,male,u20
+47,20.12,+0.8,Renan CORREA,15 MAR 2004,BRA,1,Cuiaba (BRA),18 SEP 2022,1201,200-metres,sprints,male,u20
+47,20.12,+1.4,Xavier BUTLER,,USA,2sf2,"Hayward Field, Eugene, OR (USA)",11 JUN 2025,1201,200-metres,sprints,male,u20
+49,20.13,+1.7,Roy MARTIN,25 DEC 1966,USA,1,"Austin, TX (USA)",11 MAY 1985,1200,200-metres,sprints,male,u20
+49,20.13,+0.4,Roy MARTIN,25 DEC 1966,USA,2,"Indianapolis, IN (USA)",16 JUN 1985,1200,200-metres,sprints,male,u20
+49,20.13,0.0,Usain BOLT,21 AUG 1986,JAM,1,Bridgetown (BAR),20 JUL 2003,1200,200-metres,sprints,male,u20
+49,20.13,+0.8,Udodi Chudi ONWUZURIKE,29 JAN 2003,NGR,1pr3,"John McDonnell Field, Fayetteville, AR (USA)",25 MAY 2022,1200,200-metres,sprints,male,u20
+49,20.13,+1.3,Erriyon KNIGHTON,29 JAN 2004,USA,6,"Stade Olympique de la Pontaise, Lausanne (SUI)",26 AUG 2022,1200,200-metres,sprints,male,u20
+49,20.13,+0.6,Naeem JACK,31 JUL 2007,RSA,2,"McArthur Stadium, Potchefstroom (RSA)",26 APR 2025,1200,200-metres,sprints,male,u20
+55,20.14,+0.9,Usain BOLT,21 AUG 1986,JAM,1,Kingston (JAM),07 MAY 2005,1198,200-metres,sprints,male,u20
+55,20.14,+1.8,Tyreek HILL,01 MAR 1994,USA,1,"Orlando, FL (USA)",26 MAY 2012,1198,200-metres,sprints,male,u20
+55,20.14,+1.6,Michael NORMAN,03 DEC 1997,USA,5,"Hayward Field, Eugene, OR (USA)",09 JUL 2016,1198,200-metres,sprints,male,u20
+55,20.14,+1.8,Tate TAYLOR,,USA,1,"Mike A. Myers Stadium, Austin, TX (USA)",03 MAY 2025,1198,200-metres,sprints,male,u20
+59,20.15,+1.2,Michael NORMAN,03 DEC 1997,USA,1,"Clovis, CA (USA)",26 JUN 2016,1196,200-metres,sprints,male,u20
+59,20.15,+0.6,Udodi Chudi ONWUZURIKE,29 JAN 2003,NGR,3,"Hayward Field, Eugene, OR (USA)",10 JUN 2022,1196,200-metres,sprints,male,u20
+59,20.15,+1.1,Renan CORREA,15 MAR 2004,BRA,1,Cascavel (BRA),01 OCT 2022,1196,200-metres,sprints,male,u20
+62,20.16,-0.2,Riaan DEMPERS,04 MAR 1977,RSA,1,Germiston (RSA),07 APR 1995,1196,200-metres,sprints,male,u20
+63,20.17,+1.2,Michael NORMAN,03 DEC 1997,USA,1,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",22 JUL 2016,1193,200-metres,sprints,male,u20
+63,20.17,-0.2,Blessing Akwasi AFRIFAH,26 OCT 2003,ISR,1sf1,"Pascual Guerrero Stadium, Cali (COL)",03 AUG 2022,1194,200-metres,sprints,male,u20
+63,20.17,-0.5,Erriyon KNIGHTON,29 JAN 2004,USA,1h6,"Nemzeti Atlétikai Központ, Budapest (HUN)",23 AUG 2023,1196,200-metres,sprints,male,u20
+66,20.18,+1.0,Walter DIX,31 JAN 1986,USA,2sf2,"Sacramento, CA (USA)",09 JUN 2005,1192,200-metres,sprints,male,u20
+66,20.18,+1.8,Noah LYLES,18 JUL 1997,USA,1,"Eugene, OR (USA)",27 JUN 2015,1192,200-metres,sprints,male,u20
+68,20.19,+1.7,Puripol BOONSON,13 JAN 2006,THA,1,"Central Stadium, Almaty (KAZ)",26 JUN 2022,1190,200-metres,sprints,male,u20
+68,20.19,+0.7,Issamade ASINGA,29 DEC 2004,SUR,1,"COTP Stadium, São Paulo (BRA)",30 JUL 2023,1190,200-metres,sprints,male,u20
+70,20.20,+0.5,Gift LEOTLELA,12 MAY 1998,RSA,3,Potchefstroom (RSA),22 APR 2017,1189,200-metres,sprints,male,u20
+70,20.20,+0.3,Jaylen SLADE,OCT 2003,USA,1f1,"National Training Center, Clermont, FL (USA)",02 MAY 2021,1189,200-metres,sprints,male,u20
+70,20.20,-0.6,Erriyon KNIGHTON,29 JAN 2004,USA,4,"Letzigrund, Zürich (SUI)",08 SEP 2022,1192,200-metres,sprints,male,u20
+70,20.20,+0.5,Nyckoles HARBOR,05 JUL 2005,USA,3h3,"Un. of Kentucky Outdoor Track Facility, Lexington, KY (USA)",24 MAY 2024,1189,200-metres,sprints,male,u20
+74,20.21,+1.4,Baboloki THEBE,18 MAR 1997,BOT,1,Gaborone (BOT),22 MAY 2016,1187,200-metres,sprints,male,u20
+74,20.21,-1.1,Michael NORMAN,03 DEC 1997,USA,1sf1,"Hayward Field, Eugene, OR (USA)",08 JUL 2016,1193,200-metres,sprints,male,u20
+74,20.21,+0.5,Udodi Chudi ONWUZURIKE,29 JAN 2003,NGR,1,"Moi International Sports Centre, Kasarani, Nairobi (KEN)",21 AUG 2021,1187,200-metres,sprints,male,u20
+74,20.21,+0.6,Gout GOUT,29 DEC 2007,AUS,1h1,"WA Athletics Stadium, Perth (AUS)",13 APR 2025,1187,200-metres,sprints,male,u20
+74,20.21,+0.8,Bayanda WALAZA,09 FEB 2006,RSA,1h3,"McArthur Stadium, Potchefstroom (RSA)",25 APR 2025,1187,200-metres,sprints,male,u20
+79,20.22,+1.7,Dwayne EVANS,13 OCT 1958,USA,2,"Eugene, OR (USA)",22 JUN 1976,1186,200-metres,sprints,male,u20
+79,20.22,+1.1,Clarence MUNYAI,20 FEB 1998,RSA,1,Tlemcen (ALG),02 JUL 2017,1186,200-metres,sprints,male,u20
+79,20.22,+0.9,Xavier BUTLER,,USA,1h5,"Un. of Kentucky Outdoor Track Facility, Lexington, KY (USA)",15 MAY 2025,1186,200-metres,sprints,male,u20
+82,20.23,+0.2,Roy MARTIN,25 DEC 1966,USA,2,"Los Angeles, CA (USA)",08 JUN 1985,1184,200-metres,sprints,male,u20
+82,20.23,+0.5,Michael TIMPSON,06 JUN 1967,USA,1,"University Park, PA (USA)",16 MAY 1986,1184,200-metres,sprints,male,u20
+82,20.23,+0.5,Michael TIMPSON,06 JUN 1967,USA,1,"State College, PA (USA)",16 MAY 1986,1184,200-metres,sprints,male,u20
+82,20.23,+1.0,Walter DIX,31 JAN 1986,USA,1,"New York, NY (USA)",28 MAY 2005,1184,200-metres,sprints,male,u20
+82,20.23,-1.0,Michael NORMAN,03 DEC 1997,USA,1,"Norwalk, CA (USA)",27 MAY 2016,1190,200-metres,sprints,male,u20
+82,20.23,+0.2,Noah LYLES,18 JUL 1997,USA,1,"Fairfax, VA (USA)",27 MAY 2016,1184,200-metres,sprints,male,u20
+82,20.23,-1.2,Letsile TEBOGO,07 JUN 2003,BOT,1sf2,"Pascual Guerrero Stadium, Cali (COL)",03 AUG 2022,1191,200-metres,sprints,male,u20
+82,20.23,-0.1,Gout GOUT,29 DEC 2007,AUS,3h5,"National Stadium, Tokyo (JPN)",17 SEP 2025,1184,200-metres,sprints,male,u20
+90,20.24,+0.2,Joe DELOACH,05 JUN 1967,USA,3,"Los Angeles, CA (USA)",08 JUN 1985,1182,200-metres,sprints,male,u20
+90,20.24,+0.2,Francis OBIKWELU,22 NOV 1978,NGR,2,Granada (ESP),29 MAY 1996,1182,200-metres,sprints,male,u20
+90,20.24,+1.4,Roberto SKYERS,12 NOV 1991,CUB,1h5,Camagüey (CUB),15 MAR 2009,1182,200-metres,sprints,male,u20
+90,20.24,+1.8,Michael NORMAN,03 DEC 1997,USA,2,"Eugene, OR (USA)",27 JUN 2015,1182,200-metres,sprints,male,u20
+90,20.24,-0.3,Udodi Chudi ONWUZURIKE,29 JAN 2003,NGR,2sf1,"Hayward Field, Eugene, OR (USA)",08 JUN 2022,1183,200-metres,sprints,male,u20
+95,20.25,+1.9,Usain BOLT,21 AUG 1986,JAM,1,Kingston (JAM),05 APR 2003,1181,200-metres,sprints,male,u20
+95,20.25,-0.2,Clarence MUNYAI,20 FEB 1998,RSA,1f2,Pretoria (RSA),31 MAR 2017,1182,200-metres,sprints,male,u20
+95,20.25,+0.5,Clarence MUNYAI,20 FEB 1998,RSA,4,Potchefstroom (RSA),22 APR 2017,1181,200-metres,sprints,male,u20
+95,20.25,+0.8,Issamade ASINGA,29 DEC 2004,SUR,2,"Icahn Stadium, New York, NY (USA)",24 JUN 2023,1181,200-metres,sprints,male,u20
+99,20.26,+0.4,Noah LYLES,18 JUL 1997,USA,1sf2,"Hayward Field, Eugene, OR (USA)",08 JUL 2016,1179,200-metres,sprints,male,u20
+100,20.27,+0.5,Usain BOLT,21 AUG 1986,JAM,1,Kingston (JAM),26 JUN 2005,1178,200-metres,sprints,male,u20
+100,20.27,+1.3,Noah LYLES,18 JUL 1997,USA,1,Edmonton (CAN),01 AUG 2015,1178,200-metres,sprints,male,u20
+102,20.28,+1.0,Roy MARTIN,25 DEC 1966,USA,1qf2,"Los Angeles, CA (USA)",19 JUN 1984,1176,200-metres,sprints,male,u20
+102,20.28,+0.2,Usain BOLT,21 AUG 1986,JAM,1,Kingston (JAM),21 JUN 2003,1176,200-metres,sprints,male,u20
+102,20.28,+0.1,Andrew HOWE,12 MAY 1985,ITA,1,"Stadio Zecchini, Grosseto (ITA)",16 JUL 2004,1176,200-metres,sprints,male,u20
+102,20.28,+0.3,Ramil GULIYEV,29 MAY 1990,AZE,4sf2,"Olympiastadion, Berlin (GER)",19 AUG 2009,1176,200-metres,sprints,male,u20
+102,20.28,+1.3,Xavier BUTLER,,USA,5,"Un. of Kentucky Outdoor Track Facility, Lexington, KY (USA)",17 MAY 2025,1176,200-metres,sprints,male,u20
+107,20.29,+1.5,Clinton DAVIS,17 AUG 1965,USA,1,"State College, PA (USA)",26 JUN 1983,1175,200-metres,sprints,male,u20
+107,20.29,+1.5,Clinton DAVIS,17 AUG 1965,USA,1,"University Park, PA (USA)",26 JUN 1983,1175,200-metres,sprints,male,u20
+107,20.29,-0.2,Christian MALCOLM,03 JUN 1979,GBR,2,Kuala Lumpur (MAS),19 SEP 1998,1176,200-metres,sprints,male,u20
+107,20.29,+0.6,Justin GATLIN,10 FEB 1982,USA,1h1,"Columbia, SC (USA)",11 MAY 2001,1175,200-metres,sprints,male,u20
+107,20.29,+0.6,Yusuke OMAE,06 APR 1982,JPN,1,Matsumoto (JPN),30 JUN 2001,1175,200-metres,sprints,male,u20
+107,20.29,+1.2,Gout GOUT,29 DEC 2007,AUS,1h2,"Queensland Sport and Athletics Centre, Nathan, Brisbane (AUS)",03 NOV 2024,1175,200-metres,sprints,male,u20
+113,20.30,+1.1,Roy MARTIN,25 DEC 1966,USA,1h2,"Indianapolis, IN (USA)",16 JUN 1985,1173,200-metres,sprints,male,u20
+113,20.30,,Davidson EZINWA,22 NOV 1971,NGR,1h1,Bauchi (NGR),03 JAN 1990,1173,200-metres,sprints,male,u20
+113,20.30,,Brendan CHRISTIAN,11 DEC 1983,ANT,1,"Lockhart, TX (USA)",20 APR 2001,1173,200-metres,sprints,male,u20
+113,20.30,+0.7,Michael NORMAN,03 DEC 1997,USA,1,"Clovis, CA (USA)",06 JUN 2015,1173,200-metres,sprints,male,u20
+113,20.30,+0.9,Erriyon KNIGHTON,29 JAN 2004,USA,1f2,"Hilmer Lodge Stadium, Walnut, CA (USA)",09 MAY 2021,1173,200-metres,sprints,male,u20
+113,20.30,+0.9,Renan CORREA,15 MAR 2004,BRA,1,"Pista de Atletismo do CNTA, Cascavel (BRA)",09 APR 2023,1173,200-metres,sprints,male,u20
+113,20.30,+0.4,Gout GOUT,29 DEC 2007,AUS,2,"Lakeside Stadium, Melbourne (AUS)",29 MAR 2025,1173,200-metres,sprints,male,u20
+113,20.30,+1.8,Cameron MILLER,,USA,5f1,"Billy J. Murphy Track and Field Complex, Memphis, TN (USA)",12 JUL 2025,1173,200-metres,sprints,male,u20
+121,20.31,-0.6,Usain BOLT,21 AUG 1986,JAM,1,"New York, NY (USA)",11 JUN 2005,1175,200-metres,sprints,male,u20
+121,20.31,+0.4,Clarence MUNYAI,20 FEB 1998,RSA,5,"Complexe Sportif Prince Moulay Abdellah, Rabat (MAR)",16 JUL 2017,1172,200-metres,sprints,male,u20
+121,20.31,-0.8,Matthew BOLING,20 JUN 2000,USA,1,San José (CRC),20 JUL 2019,1176,200-metres,sprints,male,u20
+121,20.31,+1.7,Erriyon KNIGHTON,29 JAN 2004,USA,1f3,"National Training Center, Clermont, FL (USA)",04 APR 2021,1172,200-metres,sprints,male,u20
+121,20.31,+1.3,Letsile TEBOGO,07 JUN 2003,BOT,1sf1,"Moi International Sports Centre, Kasarani, Nairobi (KEN)",20 AUG 2021,1172,200-metres,sprints,male,u20
+126,20.32,+0.4,Justin GATLIN,10 FEB 1982,USA,1,"Columbia, SC (USA)",13 MAY 2001,1170,200-metres,sprints,male,u20
+126,20.32,+1.1,J-Mee SAMUELS,20 MAY 1987,USA,1,"Albuquerque, NM (USA)",04 JUN 2005,1170,200-metres,sprints,male,u20
+126,20.32,+1.3,Zharnel HUGHES,13 JUL 1995,AIA,1sf2,Kingston (JAM),27 MAR 2014,1170,200-metres,sprints,male,u20
+126,20.32,+2.0,Reynier MENA,21 NOV 1996,CUB,5sf1,"CIBC, Toronto (CAN)",23 JUL 2015,1170,200-metres,sprints,male,u20
+126,20.32,+0.3,Abdul Hakim SANI BROWN,06 MAR 1999,JPN,1,Osaka (JPN),25 JUN 2017,1170,200-metres,sprints,male,u20
+126,20.32,+0.5,Nyckoles HARBOR,05 JUL 2005,USA,4sf2,"Hayward Field, Eugene, OR (USA)",05 JUN 2024,1170,200-metres,sprints,male,u20
+126,20.32,+0.4,Jaden WILEY,10 AUG 2006,USA,2h2,"Un. of Kentucky Outdoor Track Facility, Lexington, KY (USA)",15 MAY 2025,1170,200-metres,sprints,male,u20
+133,20.33,-0.1,Ramil GULIYEV,29 MAY 1990,AZE,1,"Karađorđe Stadium, Novi Sad (SRB)",25 JUL 2009,1169,200-metres,sprints,male,u20
+133,20.33,0.0,Trentavis FRIDAY,05 JUN 1995,USA,1f5,"Kernersville, NC (USA)",31 MAY 2014,1169,200-metres,sprints,male,u20
+133,20.33,+0.8,Zharnel HUGHES,13 JUL 1995,AIA,1,Morelia (MEX),05 JUL 2014,1169,200-metres,sprints,male,u20
+133,20.33,+2.0,Noah LYLES,18 JUL 1997,USA,1,"Alexandria, VA (USA)",07 MAY 2016,1169,200-metres,sprints,male,u20
+133,20.33,+0.3,Erriyon KNIGHTON,29 JAN 2004,USA,1,"Satellite High School, Satellite Beach, FL (USA)",07 AUG 2020,1169,200-metres,sprints,male,u20
+133,20.33,+1.5,Erriyon KNIGHTON,29 JAN 2004,USA,1h1,"Hayward Field, Eugene, OR (USA)",08 JUL 2023,1169,200-metres,sprints,male,u20
+139,20.34,-0.4,Abdul Hakim SANI BROWN,06 MAR 1999,JPN,1,"Pascual Guerrero Stadium, Cali (COL)",19 JUL 2015,1169,200-metres,sprints,male,u20
+139,20.34,+1.3,Reynier MENA,21 NOV 1996,CUB,2,Edmonton (CAN),01 AUG 2015,1167,200-metres,sprints,male,u20
+139,20.34,+0.6,Filippo TORTU,15 JUN 1998,ITA,4,"Stadio Olimpico, Roma (ITA)",08 JUN 2017,1167,200-metres,sprints,male,u20
+139,20.34,+0.4,Udodi Chudi ONWUZURIKE,29 JAN 2003,NGR,3h5,"Hayward Field, Eugene, OR (USA)",18 JUL 2022,1167,200-metres,sprints,male,u20
+139,20.34,+0.1,Bryan LEVELL,23 DEC 2003,JAM,1sf3,"Pascual Guerrero Stadium, Cali (COL)",03 AUG 2022,1167,200-metres,sprints,male,u20
+139,20.34,0.0,Blessing Akwasi AFRIFAH,26 OCT 2003,ISR,3sf1,"Olympiastadion, München (GER)",18 AUG 2022,1167,200-metres,sprints,male,u20
+139,20.34,+0.1,Bayanda WALAZA,09 FEB 2006,RSA,1,"Pilditch Stadium, Pretoria (RSA)",23 MAR 2024,1167,200-metres,sprints,male,u20
+139,20.34,+1.3,Leendert KOEKEMOER,15 MAY 2007,RSA,1f1,"Michael-Hoffmann-Stadion, Mannheim (GER)",29 JUN 2025,1167,200-metres,sprints,male,u20
+147,20.35,-0.3,Akiyuki HASHIMOTO,18 NOV 1994,JPN,1f3,Fukuroi (JPN),03 MAY 2013,1166,200-metres,sprints,male,u20
+147,20.35,+1.8,Trentavis FRIDAY,05 JUN 1995,USA,1sf3,"Hayward Field, Eugene, OR (USA)",24 JUL 2014,1165,200-metres,sprints,male,u20
+147,20.35,0.0,Abdul Hakim SANI BROWN,06 MAR 1999,JPN,2h4,"National Stadium, Beijing (CHN)",25 AUG 2015,1165,200-metres,sprints,male,u20
+147,20.35,0.0,Christopher TAYLOR,01 OCT 1999,JAM,1,Kingston (JAM),24 MAR 2018,1165,200-metres,sprints,male,u20
+147,20.35,+2.0,Jordan ANTHONY,29 JUN 2004,USA,1,"Hayward Field, Eugene, OR (USA)",25 JUN 2022,1165,200-metres,sprints,male,u20
+147,20.35,+0.4,Xavier BUTLER,,USA,1f1,"Mike A. Myers Stadium, Austin, TX (USA)",24 APR 2025,1165,200-metres,sprints,male,u20
+147,20.35,-0.8,Naeem JACK,31 JUL 2007,RSA,1f1,"Stade du Parc de la Dodaine, Nivelles (BEL)",14 JUN 2025,1169,200-metres,sprints,male,u20
+154,20.36,+1.5,Clarence MUNYAI,20 FEB 1998,RSA,1,Germiston (RSA),02 APR 2016,1164,200-metres,sprints,male,u20
+154,20.36,+0.7,Matthew BOLING,20 JUN 2000,USA,1,"Miramar, FL (USA)",23 JUN 2019,1164,200-metres,sprints,male,u20
+154,20.36,+0.8,Letsile TEBOGO,07 JUN 2003,BOT,1f2,"National Stadium, Gaborone (BOT)",17 APR 2021,1164,200-metres,sprints,male,u20
+154,20.36,+0.9,Terrence JONES,08 NOV 2002,BAH,3h2,"Cushing Stadium, College Station, TX (USA)",29 MAY 2021,1164,200-metres,sprints,male,u20
+154,20.36,-1.0,Nyckoles HARBOR,05 JUL 2005,USA,2pr2,"Un. of Kentucky Outdoor Track Facility, Lexington, KY (USA)",22 MAY 2024,1170,200-metres,sprints,male,u20
+154,20.36,+2.0,Jalen JOHNSON,,USA,1,"Kentner Stadium Wake Forest University, Winston Salem, NC (USA)",17 MAY 2025,1164,200-metres,sprints,male,u20
+154,20.36,0.0,Gout GOUT,29 DEC 2007,AUS,4sf2,"National Stadium, Tokyo (JPN)",18 SEP 2025,1164,200-metres,sprints,male,u20
+161,20.37,+1.0,Jürgen EVERS,29 APR 1965,FRG,1,"Rudolf Tonn Stadion, Schwechat (AUT)",28 AUG 1983,1162,200-metres,sprints,male,u20
+161,20.37,+0.2,Roberto HERNÁNDEZ,06 MAR 1967,CUB,1,Sevilla (ESP),24 MAY 1986,1162,200-metres,sprints,male,u20
+161,20.37,+0.9,Francis OBIKWELU,22 NOV 1978,NGR,1,Funchal (POR),25 MAY 1996,1162,200-metres,sprints,male,u20
+161,20.37,+1.7,DaBryan BLANTON,03 JUL 1984,USA,1,"Austin, TX (USA)",12 MAY 2001,1162,200-metres,sprints,male,u20
+161,20.37,,Walter DIX,31 JAN 1986,USA,2,"Fayetteville, AR (USA) (i)",12 MAR 2005,1231,200-metres,sprints,male,u20
+161,20.37,+0.6,Jevaughn MINZIE,20 JUL 1995,JAM,1sf1,Kingston (JAM),27 MAR 2014,1162,200-metres,sprints,male,u20
+161,20.37,+1.9,Thomas SOMERS,28 APR 1997,GBR,1sf1,"Hayward Field, Eugene, OR (USA)",24 JUL 2014,1162,200-metres,sprints,male,u20
+161,20.37,-0.3,Reynier MENA,21 NOV 1996,CUB,3h1,"National Stadium, Beijing (CHN)",25 AUG 2015,1163,200-metres,sprints,male,u20
+161,20.37,+1.3,Tarsis Gracious OROGOT,24 NOV 2002,UGA,2sf1,"Moi International Sports Centre, Kasarani, Nairobi (KEN)",20 AUG 2021,1162,200-metres,sprints,male,u20
+161,20.37,0.0,Puripol BOONSON,13 JAN 2006,THA,1,"My Dinh National Stadium, Hanoi (VIE)",14 MAY 2022,1162,200-metres,sprints,male,u20
+161,20.37,-0.3,Blessing Akwasi AFRIFAH,26 OCT 2003,ISR,1h5,"Pascual Guerrero Stadium, Cali (COL)",03 AUG 2022,1163,200-metres,sprints,male,u20
+161,20.37,+1.0,Renan CORREA,15 MAR 2004,BRA,1h3,"Estadio Jose A. Figueroa Freyre, Mayagüez (PUR)",06 AUG 2023,1162,200-metres,sprints,male,u20
+161,20.37,+0.4,Renan CORREA,15 MAR 2004,BRA,1,Santiago de Chile (CHI),02 NOV 2023,1162,200-metres,sprints,male,u20
+161,20.37,+0.8,Naeem JACK,31 JUL 2007,RSA,2h3,"McArthur Stadium, Potchefstroom (RSA)",25 APR 2025,1162,200-metres,sprints,male,u20
+175,20.38,+0.3,LaShawn MERRITT,27 JUN 1986,USA,1,"Knoxville, TN (USA)",16 APR 2005,1161,200-metres,sprints,male,u20
+175,20.38,+0.5,Roberto SKYERS,12 NOV 1991,CUB,1f2,Kingston (JAM),18 APR 2009,1161,200-metres,sprints,male,u20
+175,20.38,+1.0,Julian FORTE,07 JAN 1993,JAM,1,Kingston (JAM),17 JUN 2012,1161,200-metres,sprints,male,u20
+175,20.38,+1.1,Adam GEMILI,06 OCT 1993,GBR,1f1,Derby (GBR),09 SEP 2012,1161,200-metres,sprints,male,u20
+175,20.38,+1.9,Zharnel HUGHES,13 JUL 1995,AIA,2sf1,"Hayward Field, Eugene, OR (USA)",24 JUL 2014,1161,200-metres,sprints,male,u20
+175,20.38,+0.5,Christopher TAYLOR,01 OCT 1999,JAM,1,Trujillo (PER),22 JUL 2017,1161,200-metres,sprints,male,u20
+175,20.38,+1.1,Christopher TAYLOR,01 OCT 1999,JAM,1,Nassau (BAH),02 APR 2018,1161,200-metres,sprints,male,u20
+175,20.38,+0.5,Letsile TEBOGO,07 JUN 2003,BOT,2,"Moi International Sports Centre, Kasarani, Nairobi (KEN)",21 AUG 2021,1161,200-metres,sprints,male,u20
+175,20.38,+0.3,Udodi Chudi ONWUZURIKE,29 JAN 2003,NGR,1f1,"Cobb Track and Angell Field, Palo Alto, CA (USA)",02 APR 2022,1161,200-metres,sprints,male,u20
+175,20.38,+0.8,Benjamin RICHARDSON,19 DEC 2003,RSA,1f3,"Sportcentrum Wembley, Kortrijk (BEL)",09 JUL 2022,1161,200-metres,sprints,male,u20
+175,20.38,+2.0,Renan CORREA,15 MAR 2004,BRA,1f2,"Pista de Atletismo do CNTA, Cascavel (BRA)",12 MAR 2023,1161,200-metres,sprints,male,u20
+186,20.39,+1.0,Marshall DILL,09 AUG 1952,USA,2,Cali (COL),03 AUG 1971,1159,200-metres,sprints,male,u20
+186,20.39,-1.5,Clinton DAVIS,17 AUG 1965,USA,1,Barquisimeto (VEN),01 AUG 1982,1168,200-metres,sprints,male,u20
+186,20.39,+0.9,Stanley KERR,19 JUN 1967,USA,1,"Towson, MD (USA)",29 JUN 1986,1159,200-metres,sprints,male,u20
+186,20.39,-0.1,Riaan DEMPERS,04 MAR 1977,RSA,1,Krugersdorp (RSA),11 MAR 1995,1159,200-metres,sprints,male,u20
+186,20.39,-0.5,Pat JOHNSON,10 AUG 1976,USA,1h2,"Tucson, AZ (USA)",19 MAY 1995,1162,200-metres,sprints,male,u20
+186,20.39,+0.6,Trentavis FRIDAY,05 JUN 1995,USA,1h1,"Eugene, OR (USA)",06 JUL 2014,1159,200-metres,sprints,male,u20
+186,20.39,+1.4,Clarence MUNYAI,20 FEB 1998,RSA,1,Johannesburg (RSA),18 MAR 2016,1159,200-metres,sprints,male,u20
+186,20.39,+1.5,Maxwell WILLIS,02 SEP 1998,USA,1h4,"Austin, TX (USA)",26 MAY 2017,1159,200-metres,sprints,male,u20
+186,20.39,-0.3,Eric HARRISON JR.,18 FEB 1999,USA,1,"Bloomington, IN (USA)",13 MAY 2018,1160,200-metres,sprints,male,u20
+186,20.39,+0.5,Erriyon KNIGHTON,29 JAN 2004,USA,1f3,"Percy Beard Track, Gainesville, FL (USA)",16 APR 2021,1159,200-metres,sprints,male,u20
+186,20.39,+1.8,Connor WASHINGTON,18 JAN 2003,USA,1,"Mike A. Myers Stadium, Austin, TX (USA)",08 MAY 2021,1159,200-metres,sprints,male,u20
+186,20.39,+2.0,Sinesipho DAMBILE,02 MAR 2002,RSA,5,"Moi International Sports Centre, Kasarani, Nairobi (KEN)",18 SEP 2021,1159,200-metres,sprints,male,u20
+186,20.39,+1.1,Udodi Chudi ONWUZURIKE,29 JAN 2003,NGR,6sf2,"Hayward Field, Eugene, OR (USA)",19 JUL 2022,1159,200-metres,sprints,male,u20
+186,20.39,-0.2,Benjamin RICHARDSON,19 DEC 2003,RSA,2sf1,"Pascual Guerrero Stadium, Cali (COL)",03 AUG 2022,1160,200-metres,sprints,male,u20
+186,20.39,-0.6,Renan CORREA,15 MAR 2004,BRA,1h3,Santiago de Chile (CHI),01 NOV 2023,1162,200-metres,sprints,male,u20
+186,20.39,+0.3,Xavier BUTLER,,USA,7,"Hayward Field, Eugene, OR (USA)",13 JUN 2025,1159,200-metres,sprints,male,u20
+202,20.40,-1.1,Usain BOLT,21 AUG 1986,JAM,1,Sherbrooke (CAN),13 JUL 2003,1164,200-metres,sprints,male,u20
+202,20.40,,LaShawn MERRITT,27 JUN 1986,USA,1,"Fayetteville, AR (USA) (i)",12 FEB 2005,1226,200-metres,sprints,male,u20
+202,20.40,+1.4,Nickel ASHMEADE,07 APR 1990,JAM,1,Port-of-Spain (TTO),01 AUG 2009,1158,200-metres,sprints,male,u20
+202,20.40,-0.3,Ramil GULIYEV,29 MAY 1990,AZE,2qf3,"Olympiastadion, Berlin (GER)",18 AUG 2009,1159,200-metres,sprints,male,u20
+202,20.40,+1.7,Julian FORTE,07 JAN 1993,JAM,3sf2,Kingston (JAM),30 JUN 2012,1158,200-metres,sprints,male,u20
+202,20.40,+1.9,Nigel ELLIS,08 AUG 1997,JAM,1,Montego Bay (JAM),02 FEB 2016,1158,200-metres,sprints,male,u20
+202,20.40,-1.2,Clarence MUNYAI,20 FEB 1998,RSA,1h4,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",21 JUL 2016,1165,200-metres,sprints,male,u20
+202,20.40,+2.0,Jeriel QUAINOO,17 APR 2003,GBR,3,"Manchester Regional Arena, Manchester (GBR)",26 JUN 2022,1158,200-metres,sprints,male,u20
+210,20.41,,Darrel BROWN,11 OCT 1984,TTO,1,Port-of-Spain (TTO),06 MAY 2001,1156,200-metres,sprints,male,u20
+210,20.41,,Jeremy WARINER,31 JAN 1984,USA,1,"Lubbock, TX (USA)",27 APR 2002,1156,200-metres,sprints,male,u20
+210,20.41,+1.7,Walter DIX,31 JAN 1986,USA,1,"Tallahassee, FL (USA)",23 APR 2005,1156,200-metres,sprints,male,u20
+210,20.41,-0.1,Walter DIX,31 JAN 1986,USA,1h,"New York, NY (USA)",27 MAY 2005,1156,200-metres,sprints,male,u20
+210,20.41,+1.0,Robert HERING,14 JUN 1990,GER,1,Ulm (GER),05 JUL 2009,1156,200-metres,sprints,male,u20
+210,20.41,+1.1,Kirani JAMES,01 SEP 1992,GRN,1f1,"El Paso, TX (USA)",16 APR 2011,1156,200-metres,sprints,male,u20
+210,20.41,-0.5,Yoshihide KIRYU,15 DEC 1995,JPN,1,Nara (JPN),15 JUN 2013,1159,200-metres,sprints,male,u20
+210,20.41,-0.2,Trentavis FRIDAY,05 JUN 1995,USA,1,"Greensboro, NC (USA)",15 JUN 2014,1157,200-metres,sprints,male,u20
+210,20.41,+0.9,Abdul Hakim SANI BROWN,06 MAR 1999,JPN,1f1,"Azusa, CA (USA)",14 APR 2017,1156,200-metres,sprints,male,u20
+210,20.41,+1.3,Clarence MUNYAI,20 FEB 1998,RSA,1f1,Bilbao (ESP),24 JUN 2017,1156,200-metres,sprints,male,u20
+210,20.41,+1.8,Thando DLODLO,22 APR 1999,RSA,2,Pretoria (RSA),17 MAR 2018,1156,200-metres,sprints,male,u20
+210,20.41,-1.3,Aidan MURPHY,14 OCT 2003,AUS,1,"SA Athletic Stadium, Adelaide (AUS)",20 FEB 2022,1163,200-metres,sprints,male,u20
+210,20.41,+1.1,Puripol BOONSON,13 JAN 2006,THA,1h1,"My Dinh National Stadium, Hanoi (VIE)",14 MAY 2022,1156,200-metres,sprints,male,u20
+223,20.42,+1.8,Silvio LEONARD,20 SEP 1955,CUB,2f2,Potsdam (GDR),13 JUN 1974,1155,200-metres,sprints,male,u20
+223,20.42,+1.8,Michael PRICE,24 FEB 1977,USA,2,"College Station, TX (USA)",09 MAY 1996,1155,200-metres,sprints,male,u20
+223,20.42,+0.6,Willie PERRY,16 MAY 1987,USA,2,"Greensboro, NC (USA)",27 MAY 2006,1155,200-metres,sprints,male,u20
+223,20.42,+0.6,Roberto SKYERS,12 NOV 1991,CUB,1f1,Camagüey (CUB),15 MAR 2009,1155,200-metres,sprints,male,u20
+223,20.42,+0.5,Ramil GULIYEV,29 MAY 1990,AZE,1f1,Istanbul (TUR),13 JUN 2009,1155,200-metres,sprints,male,u20
+223,20.42,+1.4,Michael NORMAN,03 DEC 1997,USA,1,"Clovis, CA (USA)",04 JUN 2016,1155,200-metres,sprints,male,u20
+223,20.42,+0.1,Calab LAW,31 DEC 2003,AUS,2sf3,"Pascual Guerrero Stadium, Cali (COL)",03 AUG 2022,1155,200-metres,sprints,male,u20
+223,20.42,+0.9,Konstantin KRYLOV,11 MAR 2004,RUS,1,"Kalininets Stadium, Yekaterinburg (RUS)",01 JUL 2023,1155,200-metres,sprints,male,u20
+223,20.42,-1.9,Naeem JACK,31 JUL 2007,RSA,3,"Stade Louis II, Monaco (MON)",11 JUL 2025,1166,200-metres,sprints,male,u20
+232,20.43,+0.9,Dwayne STROZIER,01 JUL 1957,USA,2,"Tucson, AZ (USA)",01 MAY 1976,1153,200-metres,sprints,male,u20
+232,20.43,+0.7,Dwayne EVANS,13 OCT 1958,USA,3,"Olympic Stadium, Montréal (CAN)",26 JUL 1976,1153,200-metres,sprints,male,u20
+232,20.43,-0.2,Roy MARTIN,25 DEC 1966,USA,4,"Los Angeles, CA (USA)",21 JUN 1984,1154,200-metres,sprints,male,u20
+232,20.43,-1.1,Usain BOLT,21 AUG 1986,JAM,1,Port-of-Spain (TTO),21 APR 2003,1159,200-metres,sprints,male,u20
+232,20.43,+1.6,Bryshon NELLUM,01 MAY 1989,USA,1,"Sacramento, CA (USA)",02 JUN 2007,1153,200-metres,sprints,male,u20
+232,20.43,+1.4,Femi OGUNODE,15 MAY 1991,QAT,1,Guangzhou (CHN),25 NOV 2010,1153,200-metres,sprints,male,u20
+232,20.43,-0.3,Abdul Hakim SANI BROWN,06 MAR 1999,JPN,2sf2,"Olympic Stadium, London (GBR)",09 AUG 2017,1154,200-metres,sprints,male,u20
+232,20.43,-0.4,Sinesipho DAMBILE,02 MAR 2002,RSA,1,Pretoria (RSA),15 MAR 2019,1155,200-metres,sprints,male,u20
+232,20.43,+1.9,Terrence JONES,08 NOV 2002,BAH,1,Nassau (BAH),27 JUL 2019,1153,200-metres,sprints,male,u20
+232,20.43,-0.2,Jeriel QUAINOO,17 APR 2003,GBR,3sf1,"Pascual Guerrero Stadium, Cali (COL)",03 AUG 2022,1154,200-metres,sprints,male,u20
+232,20.43,0.0,Renan CORREA,15 MAR 2004,BRA,5sf2,"Nemzeti Atlétikai Központ, Budapest (HUN)",24 AUG 2023,1153,200-metres,sprints,male,u20
+232,20.43,+0.6,Jalen JOHNSON,,USA,1,"Hayward Field, Eugene, OR (USA)",21 JUN 2025,1153,200-metres,sprints,male,u20
+244,20.44,,Joe DELOACH,05 JUN 1967,USA,1,"Austin, TX (USA)",10 MAY 1985,1152,200-metres,sprints,male,u20
+244,20.44,+1.8,Jannie VILJOEN,21 JUN 1971,RSA,1,Germiston (RSA),21 APR 1990,1152,200-metres,sprints,male,u20
+244,20.44,-0.2,Christian MALCOLM,03 JUN 1979,GBR,1,"Parc des Sports, Annecy (FRA)",01 AUG 1998,1153,200-metres,sprints,male,u20
+244,20.44,+0.3,Leigh JULIUS,25 MAR 1985,RSA,1,Durban (RSA),17 APR 2004,1152,200-metres,sprints,male,u20
+244,20.44,-0.7,Walter DIX,31 JAN 1986,USA,4,"Sacramento, CA (USA)",11 JUN 2005,1156,200-metres,sprints,male,u20
+244,20.44,+0.5,Eric HARRISON JR.,18 FEB 1999,USA,1,"Bloomington, IN (USA)",17 JUN 2018,1152,200-metres,sprints,male,u20
+244,20.44,+1.2,Sinesipho DAMBILE,02 MAR 2002,RSA,1,"Nyayo National Stadium, Nairobi (KEN)",03 OCT 2020,1152,200-metres,sprints,male,u20
+244,20.44,+1.3,Renan CORREA,15 MAR 2004,BRA,1,"Estadio Jose A. Figueroa Freyre, Mayagüez (PUR)",06 AUG 2023,1152,200-metres,sprints,male,u20
+244,20.44,-0.2,Renan CORREA,15 MAR 2004,BRA,2h4,"Nemzeti Atlétikai Központ, Budapest (HUN)",23 AUG 2023,1153,200-metres,sprints,male,u20
+244,20.44,-0.5,Brandon ARRINGTON,2007,USA,1f4,"Hilmer Lodge Stadium, Walnut, CA (USA)",19 APR 2025,1155,200-metres,sprints,male,u20
+254,20.45,+0.5,Clinton DAVIS,17 AUG 1965,USA,2,Rieti (ITA),04 SEP 1983,1150,200-metres,sprints,male,u20
+254,20.45,-1.5,Francis OBIKWELU,22 NOV 1978,NGR,1,Lagos (NGR),26 JUN 1997,1159,200-metres,sprints,male,u20
+254,20.45,+1.3,Michael O'HARA,29 SEP 1996,JAM,1sf2,"Hayward Field, Eugene, OR (USA)",24 JUL 2014,1150,200-metres,sprints,male,u20
+254,20.45,-1.7,Reynier MENA,21 NOV 1996,CUB,1,La Habana (CUB),13 JUN 2015,1160,200-metres,sprints,male,u20
+254,20.45,+1.9,Reynier MENA,21 NOV 1996,CUB,4h3,"CIBC, Toronto (CAN)",23 JUL 2015,1150,200-metres,sprints,male,u20
+254,20.45,-1.2,Divine ODUDURU,07 OCT 1996,NGR,2,Brazzaville (CGO),17 SEP 2015,1157,200-metres,sprints,male,u20
+254,20.45,+1.0,Nick GRAY,02 JUN 1997,USA,1h2,"Jacksonville, FL (USA)",27 MAY 2016,1150,200-metres,sprints,male,u20
+254,20.45,0.0,Clarence MUNYAI,20 FEB 1998,RSA,1h2,Lusaka (ZAM),18 JUN 2016,1150,200-metres,sprints,male,u20
+254,20.45,+0.1,Letsile TEBOGO,07 JUN 2003,BOT,2,"McArthur Stadium, Potchefstroom (RSA)",06 APR 2022,1150,200-metres,sprints,male,u20
+254,20.45,-1.0,Naeem JACK,31 JUL 2007,RSA,1sf3,"McArthur Stadium, Potchefstroom (RSA)",25 APR 2025,1156,200-metres,sprints,male,u20
+254,20.45,-0.3,Xavier BUTLER,,USA,1pr6,"Cushing Stadium, College Station, TX (USA)",28 MAY 2025,1151,200-metres,sprints,male,u20
+265,20.46,,Stanley FLOYD,23 JUN 1961,USA,1h2,"Auburn, AL (USA)",17 MAY 1980,1149,200-metres,sprints,male,u20
+265,20.46,+1.1,Jannie VILJOEN,21 JUN 1971,RSA,1,Pretoria (RSA),29 APR 1989,1149,200-metres,sprints,male,u20
+265,20.46,+0.4,Bernardo BALOYES,06 JAN 1994,COL,1,Cali (COL),23 JUN 2013,1149,200-metres,sprints,male,u20
+265,20.46,-0.9,Michael NORMAN,03 DEC 1997,USA,1,"Norwalk, CA (USA)",29 MAY 2015,1154,200-metres,sprints,male,u20
+265,20.46,+1.8,Ryan CLARK,14 SEP 1996,USA,3,"Eugene, OR (USA)",27 JUN 2015,1149,200-metres,sprints,male,u20
+265,20.46,-0.2,Eric HARRISON JR.,18 FEB 1999,USA,1h4,"Bloomington, IN (USA)",16 JUN 2018,1150,200-metres,sprints,male,u20
+265,20.46,,Tate TAYLOR,,USA,1f2,"Armory Track&Field Center, New York, NY (USA) (i)",16 MAR 2025,1217,200-metres,sprints,male,u20
+272,20.47,0.0,Dwayne EVANS,13 OCT 1958,USA,1qf1,"Eugene, OR (USA)",21 JUN 1976,1147,200-metres,sprints,male,u20
+272,20.47,+2.0,Chris NELLOMS,14 AUG 1971,USA,1,"Columbus, OH (USA)",02 JUN 1990,1147,200-metres,sprints,male,u20
+272,20.47,-0.5,Aleksandr GOREMYKIN,03 MAR 1971,URS,1,"Deveti Septemvri Stadium, Plovdiv (BUL)",11 AUG 1990,1150,200-metres,sprints,male,u20
+272,20.47,+1.5,Tony WHEELER,19 JAN 1975,USA,1,"Edwardsville, IL (USA)",10 JUL 1994,1147,200-metres,sprints,male,u20
+272,20.47,-1.6,Francis OBIKWELU,22 NOV 1978,NGR,1,"SIAC Homebush, Sydney (AUS)",24 AUG 1996,1156,200-metres,sprints,male,u20
+272,20.47,0.0,Leigh JULIUS,25 MAR 1985,RSA,1,Gaborone (BOT),30 MAY 2004,1147,200-metres,sprints,male,u20
+272,20.47,+1.0,Michael LAWRENCE,,USA,3f1,"Los Angeles, CA (USA)",07 JUN 2008,1147,200-metres,sprints,male,u20
+272,20.47,0.0,Ramil GULIYEV,29 MAY 1990,AZE,3,"Boudewijnstadion, Bruxelles (BEL)",04 SEP 2009,1147,200-metres,sprints,male,u20
+272,20.47,-0.2,Abdul Hakim SANI BROWN,06 MAR 1999,JPN,5sf2,"National Stadium, Beijing (CHN)",26 AUG 2015,1148,200-metres,sprints,male,u20
+272,20.47,+0.5,Gift LEOTLELA,12 MAY 1998,RSA,1,Lusaka (ZAM),18 JUN 2016,1147,200-metres,sprints,male,u20
+272,20.47,+1.3,Anthony SCHWARTZ,05 SEP 2000,USA,1,"Miami, FL (USA)",03 MAR 2018,1147,200-metres,sprints,male,u20
+272,20.47,-0.5,Sinesipho DAMBILE,02 MAR 2002,RSA,1h3,"Bestmed Tuks Stadium, Pretoria (RSA)",13 MAR 2020,1150,200-metres,sprints,male,u20
+272,20.47,-1.0,Udodi Chudi ONWUZURIKE,29 JAN 2003,NGR,1h1,"Moi International Sports Centre, Kasarani, Nairobi (KEN)",20 AUG 2021,1153,200-metres,sprints,male,u20
+272,20.47,+2.0,Brandon MILLER,27 JUN 2003,USA,2,"Hayward Field, Eugene, OR (USA)",25 JUN 2022,1147,200-metres,sprints,male,u20
+272,20.47,+0.3,Nyckoles HARBOR,05 JUL 2005,USA,2h3,"Percy Beard Track, Gainesville, FL (USA)",09 MAY 2024,1147,200-metres,sprints,male,u20
+287,20.48,+0.5,Fred MARTIN,04 OCT 1966,AUS,1,Brisbane (AUS),03 FEB 1985,1146,200-metres,sprints,male,u20
+287,20.48,+1.3,Roy BAILEY,17 MAY 1979,JAM,1,Bridgetown (BAR),05 APR 1997,1146,200-metres,sprints,male,u20
+287,20.48,-0.4,Delano WILLIAMS,23 DEC 1993,TKS,1,"Estadio Olímpico, Barcelona (ESP)",13 JUL 2012,1148,200-metres,sprints,male,u20
+287,20.48,0.0,Bernardo BALOYES,06 JAN 1994,COL,1,Medellín (COL),18 AUG 2012,1146,200-metres,sprints,male,u20
+287,20.48,+0.6,Trentavis FRIDAY,05 JUN 1995,USA,1h3,"Greensboro, NC (USA)",14 JUN 2014,1146,200-metres,sprints,male,u20
+287,20.48,-1.7,Noah LYLES,18 JUL 1997,USA,2,La Habana (CUB),13 JUN 2015,1156,200-metres,sprints,male,u20
+287,20.48,+1.8,Mike Mokamba NYANG'AU,28 AUG 1996,KEN,1,Nairobi (KEN),01 AUG 2015,1146,200-metres,sprints,male,u20
+287,20.48,0.0,Noah LYLES,18 JUL 1997,USA,1,"Arcadia, CA (USA)",09 APR 2016,1146,200-metres,sprints,male,u20
+287,20.48,-0.1,Jona EFOLOKO,23 SEP 1999,GBR,1,"Ratinan Stadion, Tampere (FIN)",13 JUL 2018,1146,200-metres,sprints,male,u20
+287,20.48,-0.4,Kennedy LIGHTNER,01 JAN 2001,USA,1,"Albuquerque, NM (USA)",08 JUN 2019,1148,200-metres,sprints,male,u20
+287,20.48,+0.3,Tazana Mikkel KAMANGA-DYRBAK,12 JAN 2002,DEN,3f1,"National Heroes Stadium, Lusaka (ZAM)",11 APR 2021,1146,200-metres,sprints,male,u20
+287,20.48,+0.5,Sinesipho DAMBILE,02 MAR 2002,RSA,3,"Moi International Sports Centre, Kasarani, Nairobi (KEN)",21 AUG 2021,1146,200-metres,sprints,male,u20
+287,20.48,-2.5,Wanya MCCOY,29 MAR 2003,BAH,2h1,"Billy Hayes T& F Complex, Bloomington, IN (USA)",27 MAY 2022,1161,200-metres,sprints,male,u20
+287,20.48,+1.8,Letsile TEBOGO,07 JUN 2003,BOT,1h7,"Cote d'Or National Sports Complex, St Pierre (MRI)",11 JUN 2022,1146,200-metres,sprints,male,u20
+287,20.48,+2.0,Laurenz COLBERT,25 JUN 2003,USA,3,"Hayward Field, Eugene, OR (USA)",25 JUN 2022,1146,200-metres,sprints,male,u20
+287,20.48,-1.0,Calab LAW,31 DEC 2003,AUS,3,"Pascual Guerrero Stadium, Cali (COL)",04 AUG 2022,1152,200-metres,sprints,male,u20
+287,20.48,,Issamade ASINGA,29 DEC 2004,USA,1f2,"The Track at New Balance, Boston, MA (USA) (i)",12 MAR 2023,1213,200-metres,sprints,male,u20
+287,20.48,+2.0,Busang Collen KEBINATSHIPI,13 FEB 2004,BOT,1,"National Stadium, Gaborone (BOT)",28 MAY 2023,1146,200-metres,sprints,male,u20
+287,20.48,0.0,Busang Collen KEBINATSHIPI,13 FEB 2004,BOT,1f2,"Stadion Allmend, Luzern (SUI)",20 JUL 2023,1146,200-metres,sprints,male,u20
+306,20.49,0.0,Darren CLARK,06 SEP 1965,AUS,1,Sydney (AUS),12 NOV 1983,1144,200-metres,sprints,male,u20
+306,20.49,+1.5,Dennis MITCHELL,20 FEB 1966,USA,4,"Starkville, MS (USA)",18 MAY 1985,1144,200-metres,sprints,male,u20
+306,20.49,+0.9,Henry THOMAS,10 JUL 1967,USA,1,"Westwood, CA (USA)",22 MAR 1986,1144,200-metres,sprints,male,u20
+306,20.49,0.0,Obadele THOMPSON,30 MAR 1976,BAR,1,Ciudad de Guatemala (GUA),16 JUL 1995,1144,200-metres,sprints,male,u20
+306,20.49,+1.9,Francis OBIKWELU,22 NOV 1978,NGR,2qf5,"Olympic Stadium, Atlanta, GA (USA)",31 JUL 1996,1144,200-metres,sprints,male,u20
+306,20.49,-0.7,Leigh JULIUS,25 MAR 1985,RSA,1,Daegu (KOR),28 AUG 2003,1148,200-metres,sprints,male,u20
+306,20.49,,Xavier CARTER,08 DEC 1985,USA,1,"Orlando, FL (USA)",22 MAY 2004,1144,200-metres,sprints,male,u20
+306,20.49,+2.0,LaShawn MERRITT,27 JUN 1986,USA,1,"Greensboro, NC (USA)",08 APR 2005,1144,200-metres,sprints,male,u20
+306,20.49,+0.4,Marcus ROWLAND,11 MAR 1990,USA,2,"Louisville, KY (USA)",30 MAY 2009,1144,200-metres,sprints,male,u20
+306,20.49,+1.3,Nickel ASHMEADE,07 APR 1990,JAM,1,Spanish Town (JAM),14 JUN 2009,1144,200-metres,sprints,male,u20
+306,20.49,+1.0,Tyreek HILL,01 MAR 1994,USA,1h3,"Orlando, FL (USA)",26 MAY 2012,1144,200-metres,sprints,male,u20
+306,20.49,+0.7,Gift LEOTLELA,12 MAY 1998,RSA,2sf2,Potchefstroom (RSA),22 APR 2017,1144,200-metres,sprints,male,u20
+306,20.49,0.0,Christopher TAYLOR,01 OCT 1999,JAM,1,"National Stadium, Kingston (JAM)",19 MAY 2018,1144,200-metres,sprints,male,u20
+306,20.49,-0.7,Anthony SCHWARTZ,05 SEP 2000,USA,1,"Albuquerque, NM (USA)",02 JUN 2018,1148,200-metres,sprints,male,u20
+306,20.49,-1.0,Renan CORREA,15 MAR 2004,BRA,1h7,Cuiaba (BRA),17 SEP 2022,1150,200-metres,sprints,male,u20
+306,20.49,+0.1,Armand VAN DER WALT,04 JAN 2005,RSA,2,"Bestmed Tuks Stadium, Pretoria (RSA)",12 APR 2023,1144,200-metres,sprints,male,u20
+322,20.50,+0.9,Stanley BLALOCK,18 MAR 1964,USA,2,"Des Moines, IA (USA)",30 APR 1983,1143,200-metres,sprints,male,u20
+322,20.50,,Clinton DAVIS,17 AUG 1965,USA,1,"Towson, MD (USA)",16 JUL 1983,1143,200-metres,sprints,male,u20
+322,20.50,+1.0,Ralf LÜBKE,17 JUN 1965,FRG,2,"Rudolf Tonn Stadion, Schwechat (AUT)",28 AUG 1983,1143,200-metres,sprints,male,u20
+322,20.50,-0.4,Quincy WATTS,19 JUN 1970,USA,1,"Provo, UT (USA)",25 JUL 1987,1145,200-metres,sprints,male,u20
+322,20.50,+0.7,Robert HERING,14 JUN 1990,GER,1h1,Ulm (GER),05 JUL 2009,1143,200-metres,sprints,male,u20
+322,20.50,-0.2,Jevaughn MINZIE,20 JUL 1995,JAM,1,Kingston (JAM),29 MAR 2014,1144,200-metres,sprints,male,u20
+322,20.50,+1.3,Michael O'HARA,29 SEP 1996,JAM,1,Fort-de-France (FRA),21 APR 2014,1143,200-metres,sprints,male,u20
+322,20.50,0.0,Reynier MENA,21 NOV 1996,CUB,2f1,Camagüey (CUB),16 MAY 2015,1143,200-metres,sprints,male,u20
+322,20.50,+1.1,Mike Mokamba NYANG'AU,28 AUG 1996,KEN,1,Nairobi (KEN),11 JUL 2015,1143,200-metres,sprints,male,u20
+322,20.50,+0.7,Gift LEOTLELA,12 MAY 1998,RSA,1f3,Potchefstroom (RSA),03 MAR 2017,1143,200-metres,sprints,male,u20
+322,20.50,-0.5,Shaun MASWANGANYI,01 FEB 2001,RSA,2h3,"Bestmed Tuks Stadium, Pretoria (RSA)",13 MAR 2020,1146,200-metres,sprints,male,u20
+322,20.50,+1.4,Almond SMALL,16 JAN 2003,CAN,2f1,"West Texas A&M University Track & Soccer Complex, Canyon, TX (USA)",09 APR 2022,1143,200-metres,sprints,male,u20
+322,20.50,+0.8,Wanya MCCOY,29 MAR 2003,BAH,4,"Morris Williams T&F Stadium, Durham, NC (USA)",14 MAY 2022,1143,200-metres,sprints,male,u20
+322,20.50,+1.0,Calab LAW,31 DEC 2003,AUS,3h6,"Hayward Field, Eugene, OR (USA)",18 JUL 2022,1143,200-metres,sprints,male,u20
+322,20.50,+0.3,Armand VAN DER WALT,04 JAN 2005,RSA,1,"McArthur Stadium, Potchefstroom (RSA)",01 APR 2023,1143,200-metres,sprints,male,u20
+322,20.50,+1.0,Marek ZAKRZEWSKI,18 DEC 2005,POL,1,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",28 JUN 2024,1143,200-metres,sprints,male,u20
+322,20.50,+1.3,Gary CARD,04 JUN 2007,JAM,5,"National Stadium, Kingston (JAM)",30 JUN 2024,1143,200-metres,sprints,male,u20
+322,20.50,+0.8,Joshua CALEB,14 JUL 2006,NGR,1f8,"Jack Rose Track, Long Beach, CA (USA)",19 APR 2025,1143,200-metres,sprints,male,u20
+322,20.50,+1.8,Richard LEE,,USA,2,"Mike A. Myers Stadium, Austin, TX (USA)",03 MAY 2025,1143,200-metres,sprints,male,u20
+322,20.50,+1.0,Kota UEMATSU,10 FEB 2006,JPN,1,"Wan Chai Sports Ground, Hong Kong (HKG)",28 SEP 2025,1143,200-metres,sprints,male,u20
+342,20.51,-0.9,Ralf LÜBKE,17 JUN 1965,FRG,5,"Memorial Coliseum, Los Angeles, CA (USA)",08 AUG 1984,1146,200-metres,sprints,male,u20
+342,20.51,+1.4,Usain BOLT,21 AUG 1986,JAM,1,"Tallahassee, FL (USA)",09 APR 2005,1141,200-metres,sprints,male,u20
+342,20.51,-0.3,Mike Mokamba NYANG'AU,28 AUG 1996,KEN,5h1,"National Stadium, Beijing (CHN)",25 AUG 2015,1142,200-metres,sprints,male,u20
+342,20.51,0.0,Divine ODUDURU,07 OCT 1996,NGR,1sf2,Brazzaville (CGO),16 SEP 2015,1141,200-metres,sprints,male,u20
+342,20.51,+1.0,Nigel ELLIS,08 AUG 1997,JAM,1sf1,Kingston (JAM),17 MAR 2016,1141,200-metres,sprints,male,u20
+342,20.51,+0.2,Michael NORMAN,03 DEC 1997,USA,1f3,"Murrieta, CA (USA)",04 MAY 2016,1141,200-metres,sprints,male,u20
+342,20.51,+0.9,Tyrese COOPER,21 MAR 2000,USA,1,"Hayward Field, Eugene, OR (USA)",27 MAY 2017,1141,200-metres,sprints,male,u20
+342,20.51,+1.5,Matthew BOLING,20 JUN 2000,USA,1h1,San José (CRC),20 JUL 2019,1141,200-metres,sprints,male,u20
+342,20.51,+2.0,Connor WASHINGTON,18 JAN 2003,USA,4,"Hayward Field, Eugene, OR (USA)",25 JUN 2022,1141,200-metres,sprints,male,u20
+342,20.51,0.0,Christian MILLER,16 MAY 2006,USA,1,"Hayward Field, Eugene, OR (USA)",09 JUL 2023,1141,200-metres,sprints,male,u20
+342,20.51,-1.5,Jaiden REID,10 APR 2005,CAY,2h2,"Percy Beard Track, Gainesville, FL (USA)",09 MAY 2024,1150,200-metres,sprints,male,u20
+342,20.51,+0.8,Ajani DWYER,18 MAY 2006,USA,2h2,"Hayward Field, Eugene, OR (USA)",16 MAY 2025,1141,200-metres,sprints,male,u20
+354,20.52,+2.0,Charles MITCHELL,29 JAN 1975,USA,1,"Sacramento, CA (USA)",12 JUN 1993,1139,200-metres,sprints,male,u20
+354,20.52,,Justin GATLIN,10 FEB 1982,USA,1h4,"Lexington, KY (USA) (i)",24 FEB 2001,0,200-metres,sprints,male,u20
+354,20.52,0.0,Robert HERING,14 JUN 1990,GER,5sf1,"Olympiastadion, Berlin (GER)",19 AUG 2009,1139,200-metres,sprints,male,u20
+354,20.52,+1.3,Charles CLARK,,USA,2f1,"Montverde, FL (USA)",08 JUN 2013,1139,200-metres,sprints,male,u20
+354,20.52,+0.1,Jinsheng LIANG,12 JAN 1996,CHN,1,Fuzhou (CHN),29 MAY 2015,1139,200-metres,sprints,male,u20
+354,20.52,-0.5,Abdul Hakim SANI BROWN,06 MAR 1999,JPN,2h1,"Olympic Stadium, London (GBR)",07 AUG 2017,1142,200-metres,sprints,male,u20
+354,20.52,+0.9,Christopher TAYLOR,01 OCT 1999,JAM,1sf2,Kingston (JAM),22 MAR 2018,1139,200-metres,sprints,male,u20
+354,20.52,0.0,Sinesipho DAMBILE,02 MAR 2002,RSA,1,Abidjan (CIV),19 APR 2019,1139,200-metres,sprints,male,u20
+354,20.52,+1.4,Antonio WATSON,11 SEP 2001,JAM,1,"National Stadium, Kingston (JAM)",08 MAR 2020,1139,200-metres,sprints,male,u20
+354,20.52,+1.1,Gavin SCHURR,2003,USA,1f3,"Clarence F. Robison Track, Provo, UT (USA)",14 MAY 2021,1139,200-metres,sprints,male,u20
+354,20.52,-0.7,Bayanda WALAZA,09 FEB 2006,RSA,1,"Estadio Atlético de la VIDENA, Lima (PER)",30 AUG 2024,1143,200-metres,sprints,male,u20
+354,20.52,+1.5,Gout GOUT,29 DEC 2007,AUS,1,"Queensland Sport and Athletics Centre, Nathan, Brisbane (AUS)",03 NOV 2024,1139,200-metres,sprints,male,u20
+354,20.52,-2.4,Bayanda WALAZA,09 FEB 2006,RSA,2,"Pilditch Stadium, Pretoria (RSA)",14 MAR 2025,1153,200-metres,sprints,male,u20
+354,20.52,+2.0,Ian JOHNSON,,USA,2,"Kentner Stadium Wake Forest University, Winston Salem, NC (USA)",17 MAY 2025,1139,200-metres,sprints,male,u20
+368,20.53,+1.5,Stanley BLALOCK,18 MAR 1964,USA,2,"University Park, PA (USA)",26 JUN 1983,1138,200-metres,sprints,male,u20
+368,20.53,+1.4,Brian BRIDGEWATER,07 SEP 1970,USA,1,"Van Nuys, CA (USA)",20 MAY 1988,1138,200-metres,sprints,male,u20
+368,20.53,+0.1,Christian MALCOLM,03 JUN 1979,GBR,qf,Kuala Lumpur (MAS),18 SEP 1998,1138,200-metres,sprints,male,u20
+368,20.53,,Earvin PARKER,06 APR 1984,USA,1,"Lubbock, TX (USA)",26 APR 2003,1138,200-metres,sprints,male,u20
+368,20.53,+0.6,Delano WILLIAMS,23 DEC 1993,TKS,1,Montego Bay (JAM),18 FEB 2012,1138,200-metres,sprints,male,u20
+368,20.53,-0.4,Aaron ERNEST,08 NOV 1993,USA,2,"Estadio Olímpico, Barcelona (ESP)",13 JUL 2012,1140,200-metres,sprints,male,u20
+368,20.53,0.0,Adam GEMILI,06 OCT 1993,GBR,5,"Alexander Stadium, Birmingham (GBR)",26 AUG 2012,1138,200-metres,sprints,male,u20
+368,20.53,-1.0,Sydney SIAME,07 OCT 1997,ZAM,1,Lusaka (ZAM),01 AUG 2015,1144,200-metres,sprints,male,u20
+368,20.53,-0.3,Chun-Han YANG,01 JAN 1997,TPE,1,Kaohsiung (TPE),21 OCT 2015,1139,200-metres,sprints,male,u20
+368,20.53,-0.6,Charles DOBSON,20 OCT 1999,GBR,1sf1,"Ratinan Stadion, Tampere (FIN)",12 JUL 2018,1141,200-metres,sprints,male,u20
+368,20.53,+0.4,Tazana Mikkel KAMANGA-DYRBAK,12 JAN 2002,DEN,1h4,"Moi International Sports Centre, Kasarani, Nairobi (KEN)",20 AUG 2021,1138,200-metres,sprints,male,u20
+368,20.53,-1.2,Bryan LEVELL,23 DEC 2003,JAM,1,"National Stadium, Kingston (JAM)",13 MAR 2022,1145,200-metres,sprints,male,u20
+368,20.53,-0.9,Aidan MURPHY,14 OCT 2003,AUS,1f1,"SOPAC, Sydney (AUS)",02 APR 2022,1143,200-metres,sprints,male,u20
+368,20.53,+1.5,Che NWABUKO,07 JUN 2004,USA,1,"Mike A. Myers Stadium, Austin, TX (USA)",12 MAY 2022,1138,200-metres,sprints,male,u20
+368,20.53,+0.4,Eduardo LONGOBARDI,19 OCT 2005,ITA,1,"Stadio Guidobaldi, Rieti (ITA)",28 JUL 2024,1138,200-metres,sprints,male,u20
+368,20.53,+0.6,Gary CARD,04 JUN 2007,JAM,1,"National Stadium, Kingston (JAM)",08 MAR 2025,1138,200-metres,sprints,male,u20
+368,20.53,0.0,Alejandro CARDENAS,19 MAY 2006,MEX,1f5,"Centro Deportivo Olímpico Mexicano, Ciudad de México (MEX)",15 MAR 2025,1138,200-metres,sprints,male,u20
+385,20.54,+0.3,Dwayne STROZIER,01 JUL 1957,USA,1,"Tempe, AZ (USA)",07 MAY 1976,1136,200-metres,sprints,male,u20
+385,20.54,+1.7,Jürgen EVERS,29 APR 1965,FRG,1sf2,"Rudolf Tonn Stadion, Schwechat (AUT)",27 AUG 1983,1136,200-metres,sprints,male,u20
+385,20.54,+0.8,Ade MAFE,12 NOV 1966,GBR,1,"Max-Reimann-Stadion, Cottbus (GDR)",25 AUG 1985,1136,200-metres,sprints,male,u20
+385,20.54,+1.1,Bruno PACHECO,20 APR 1983,BRA,1,Belém (BRA),03 AUG 2002,1136,200-metres,sprints,male,u20
+385,20.54,-0.7,Willie PERRY,16 MAY 1987,USA,3sf1,"Sacramento, CA (USA)",09 JUN 2006,1140,200-metres,sprints,male,u20
+385,20.54,+1.2,Rakieem SALAAM,05 APR 1990,USA,1h1,"Norman, OK (USA)",29 MAY 2009,1136,200-metres,sprints,male,u20
+385,20.54,-1.1,Nickel ASHMEADE,07 APR 1990,JAM,1,La Habana (CUB),05 JUL 2009,1142,200-metres,sprints,male,u20
+385,20.54,-0.9,Nickel ASHMEADE,07 APR 1990,JAM,2,Rieti (ITA),06 SEP 2009,1141,200-metres,sprints,male,u20
+385,20.54,+0.5,Aaron ERNEST,08 NOV 1993,USA,4sf2,"Jacksonville, FL (USA)",26 MAY 2012,1136,200-metres,sprints,male,u20
+385,20.54,+0.5,Zhenye XIE,17 AUG 1993,CHN,1,Zibo (CHN),27 MAY 2012,1136,200-metres,sprints,male,u20
+385,20.54,-0.4,Tyreek HILL,01 MAR 1994,USA,3,"Estadio Olímpico, Barcelona (ESP)",13 JUL 2012,1138,200-metres,sprints,male,u20
+385,20.54,-0.4,Karol ZALEWSKI,07 AUG 1993,POL,4,"Estadio Olímpico, Barcelona (ESP)",13 JUL 2012,1138,200-metres,sprints,male,u20
+385,20.54,-1.8,Reynier MENA,21 NOV 1996,CUB,2,Veracruz (MEX),27 NOV 2014,1146,200-metres,sprints,male,u20
+385,20.54,-1.0,Noah LYLES,18 JUL 1997,USA,1,"Greensboro, NC (USA)",21 JUN 2015,1142,200-metres,sprints,male,u20
+385,20.54,+1.0,Abdul Hakim SANI BROWN,06 MAR 1999,JPN,2f1,Fukuroi (JPN),03 MAY 2016,1136,200-metres,sprints,male,u20
+385,20.54,-1.6,Nick GRAY,02 JUN 1997,USA,1,"Lincoln, NE (USA)",15 MAY 2016,1145,200-metres,sprints,male,u20
+385,20.54,+0.8,Michael NORMAN,03 DEC 1997,USA,1h2,"Clovis, CA (USA)",25 JUN 2016,1136,200-metres,sprints,male,u20
+385,20.54,+1.5,Clarence MUNYAI,20 FEB 1998,RSA,1sf1,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",21 JUL 2016,1136,200-metres,sprints,male,u20
+385,20.54,+0.9,Kalon BARNES,16 DEC 1998,USA,2,"Hayward Field, Eugene, OR (USA)",27 MAY 2017,1136,200-metres,sprints,male,u20
+385,20.54,+0.4,Wanya MCCOY,29 MAR 2003,BAH,4sf2,"Hayward Field, Eugene, OR (USA)",08 JUN 2022,1136,200-metres,sprints,male,u20
+385,20.54,-0.6,Jelani WATKINS,,USA,1,"Mike A. Myers Stadium, Austin, TX (USA)",13 MAY 2023,1139,200-metres,sprints,male,u20
+385,20.54,+0.1,Udeme OKON,03 SEP 2005,RSA,2,"Pilditch Stadium, Pretoria (RSA)",23 MAR 2024,1136,200-metres,sprints,male,u20
+385,20.54,+0.6,Christian MILLER,16 MAY 2006,USA,2,"Edwin Moses Track, Atlanta, GA (USA)",31 MAY 2024,1136,200-metres,sprints,male,u20
+385,20.54,-1.2,Bayanda WALAZA,09 FEB 2006,RSA,1sf2,"Pilditch Stadium, Pretoria (RSA)",14 MAR 2025,1143,200-metres,sprints,male,u20
+409,20.55,+1.5,Ralf LÜBKE,17 JUN 1965,FRG,1,Fürth (GER),09 JUN 1984,1135,200-metres,sprints,male,u20
+409,20.55,-1.3,Danny PEEBLES,30 MAY 1966,USA,3h1,"Knoxville, TN (USA)",10 MAY 1985,1142,200-metres,sprints,male,u20
+409,20.55,+0.5,Marcus LA GRANGE,12 DEC 1977,RSA,1,Johannesburg (RSA),29 MAR 1996,1135,200-metres,sprints,male,u20
+409,20.55,-0.1,Justin GATLIN,10 FEB 1982,USA,2,"Knoxville, TN (USA)",12 APR 2001,1135,200-metres,sprints,male,u20
+409,20.55,+1.8,Andrew HOWE,12 MAY 1985,ITA,3h6,"Olympic Stadium, Athina (GRE)",24 AUG 2004,1135,200-metres,sprints,male,u20
+409,20.55,+1.7,Davonte STEWART,11 JUN 1993,USA,3,"Eugene, OR (USA)",13 MAY 2012,1135,200-metres,sprints,male,u20
+409,20.55,0.0,Kendal WILLIAMS,23 SEP 1995,USA,1,"Orlando, FL (USA)",24 MAY 2014,1135,200-metres,sprints,male,u20
+409,20.55,+1.1,Michael NORMAN,03 DEC 1997,USA,1f4,"San Diego, CA (USA)",26 MAR 2016,1135,200-metres,sprints,male,u20
+409,20.55,+0.5,Sydney SIAME,07 OCT 1997,ZAM,2,Lusaka (ZAM),18 JUN 2016,1135,200-metres,sprints,male,u20
+409,20.55,0.0,Sydney SIAME,07 OCT 1997,ZAM,2h2,Lusaka (ZAM),18 JUN 2016,1135,200-metres,sprints,male,u20
+409,20.55,+0.2,Tyrese COOPER,21 MAR 2000,USA,1,"Jacksonville, FL (USA)",18 MAR 2017,1135,200-metres,sprints,male,u20
+409,20.55,-0.9,Maxwell WILLIS,02 SEP 1998,USA,1h1,"Sacramento, CA (USA)",24 JUN 2017,1140,200-metres,sprints,male,u20
+409,20.55,-0.5,Thando DLODLO,22 APR 1999,RSA,3sf1,Pretoria (RSA),16 MAR 2018,1138,200-metres,sprints,male,u20
+409,20.55,+1.9,Kenan CHRISTON,,USA,1f3,"San Diego, CA (USA)",11 MAY 2019,1135,200-metres,sprints,male,u20
+409,20.55,-0.4,Cameron MILLER,13 SEP 2000,USA,2,"Albuquerque, NM (USA)",08 JUN 2019,1137,200-metres,sprints,male,u20
+409,20.55,+1.5,Marcellus MOORE,30 JUN 2002,USA,2f1,"University of North Florda Jax Track at Hodges Stadium, Jacksonville, FL (USA)",03 APR 2021,1135,200-metres,sprints,male,u20
+409,20.55,+0.6,Erriyon KNIGHTON,29 JAN 2004,USA,1h4,"National Stadium, Tokyo (JPN)",03 AUG 2021,1135,200-metres,sprints,male,u20
+409,20.55,+1.5,John RUTLEDGE,17 JUN 2003,USA,2,"Mike A. Myers Stadium, Austin, TX (USA)",12 MAY 2022,1135,200-metres,sprints,male,u20
+409,20.55,+1.0,Wanya MCCOY,29 MAR 2003,BAH,2pr2,"Billy Hayes T& F Complex, Bloomington, IN (USA)",25 MAY 2022,1135,200-metres,sprints,male,u20
+409,20.55,+0.1,Blessing Akwasi AFRIFAH,26 OCT 2003,ISR,1f3,"Michael-Hoffmann-Stadion, Mannheim (GER)",03 JUL 2022,1135,200-metres,sprints,male,u20
+409,20.55,-1.0,Benjamin RICHARDSON,19 DEC 2003,RSA,4,"Pascual Guerrero Stadium, Cali (COL)",04 AUG 2022,1141,200-metres,sprints,male,u20
+409,20.55,+1.0,Nyckoles HARBOR,05 JUL 2005,USA,8,"Percy Beard Track, Gainesville, FL (USA)",11 MAY 2024,1135,200-metres,sprints,male,u20
+409,20.55,+0.1,Jake ODEY-JORDAN,22 DEC 2007,GBR,1,"Franklin Field, Philadelphia, PA (USA)",16 JUN 2024,1135,200-metres,sprints,male,u20
+409,20.55,0.0,Ajani DWYER,18 MAY 2006,USA,1f2,"LSU Bernie Moore Stadium, Baton Rouge, LA (USA)",29 MAR 2025,1135,200-metres,sprints,male,u20
+409,20.55,+2.0,Joseph TAYLOR,14 JAN 2006,USA,3,"Kentner Stadium Wake Forest University, Winston Salem, NC (USA)",17 MAY 2025,1135,200-metres,sprints,male,u20
+434,20.56,+1.4,Harvey GLANCE,28 MAR 1957,USA,1qf4,"Eugene, OR (USA)",21 JUN 1976,1133,200-metres,sprints,male,u20
+434,20.56,-0.1,Dwayne EVANS,13 OCT 1958,USA,1qf1,"Olympic Stadium, Montréal (CAN)",25 JUL 1976,1133,200-metres,sprints,male,u20
+434,20.56,0.0,Jürgen EVERS,29 APR 1965,FRG,1f1,München (GER),26 JUL 1983,1133,200-metres,sprints,male,u20
+434,20.56,,Daniel EFFIONG,17 JUN 1972,NGR,2,Lagos (NGR),03 AUG 1991,1133,200-metres,sprints,male,u20
+434,20.56,-1.9,Ricky CARRIGAN,06 JUL 1973,USA,1,"Long Beach, CA (USA)",16 MAY 1992,1144,200-metres,sprints,male,u20
+434,20.56,+0.3,Francis OBIKWELU,22 NOV 1978,NGR,5sf1,"Olympic Stadium, Atlanta, GA (USA)",01 AUG 1996,1133,200-metres,sprints,male,u20
+434,20.56,+0.4,Francis OBIKWELU,22 NOV 1978,NGR,1,Lisboa (POR),11 APR 1997,1133,200-metres,sprints,male,u20
+434,20.56,-0.5,Christian MALCOLM,03 JUN 1979,GBR,sf,Kuala Lumpur (MAS),19 SEP 1998,1136,200-metres,sprints,male,u20
+434,20.56,+1.7,Brendan CHRISTIAN,11 DEC 1983,ANT,1,"Austin, TX (USA)",12 MAY 2001,1133,200-metres,sprints,male,u20
+434,20.56,-0.6,DaBryan BLANTON,03 JUL 1984,USA,3,"Austin, TX (USA)",19 MAY 2003,1136,200-metres,sprints,male,u20
+434,20.56,-1.4,Ramone MCKENZIE,15 NOV 1990,JAM,2h2,Kingston (JAM),28 JUN 2009,1141,200-metres,sprints,male,u20
+434,20.56,+1.3,Jevaughn MINZIE,20 JUL 1995,JAM,2,Fort-de-France (FRA),21 APR 2014,1133,200-metres,sprints,male,u20
+434,20.56,+1.4,Abdul Hakim SANI BROWN,06 MAR 1999,JPN,2h3,Nagoya (JPN),26 JUN 2015,1133,200-metres,sprints,male,u20
+434,20.56,-0.2,Reynier MENA,21 NOV 1996,CUB,7sf2,"National Stadium, Beijing (CHN)",26 AUG 2015,1134,200-metres,sprints,male,u20
+434,20.56,-0.3,Divine ODUDURU,07 OCT 1996,NGR,1h5,Brazzaville (CGO),16 SEP 2015,1134,200-metres,sprints,male,u20
+434,20.56,+1.5,Gift LEOTLELA,12 MAY 1998,RSA,2,Germiston (RSA),02 APR 2016,1133,200-metres,sprints,male,u20
+434,20.56,+0.3,Shamon EHIEMUA,30 SEP 1998,USA,1,"Albuquerque, NM (USA)",04 JUN 2016,1133,200-metres,sprints,male,u20
+434,20.56,-0.8,Kennedy LIGHTNER,01 JAN 2001,USA,2,San José (CRC),20 JUL 2019,1137,200-metres,sprints,male,u20
+434,20.56,-0.1,Sinesipho DAMBILE,02 MAR 2002,RSA,2f4,"Bestmed Tuks Stadium, Pretoria (RSA)",22 MAY 2021,1133,200-metres,sprints,male,u20
+434,20.56,+0.1,Haibin YAN,08 JAN 2003,CHN,1h4,Chongqing (CHN),26 JUN 2021,1133,200-metres,sprints,male,u20
+434,20.56,+0.1,Benjamin RICHARDSON,19 DEC 2003,RSA,2f3,"Michael-Hoffmann-Stadion, Mannheim (GER)",03 JUL 2022,1133,200-metres,sprints,male,u20
+434,20.56,-0.3,Jeriel QUAINOO,17 APR 2003,GBR,2h5,"Pascual Guerrero Stadium, Cali (COL)",03 AUG 2022,1134,200-metres,sprints,male,u20
+456,20.57,,Ralf LÜBKE,17 JUN 1965,FRG,1,Stuttgart (GER) (i),11 FEB 1984,1199,200-metres,sprints,male,u20
+456,20.57,-0.3,Ralf LÜBKE,17 JUN 1965,FRG,2qf4,"Memorial Coliseum, Los Angeles, CA (USA)",06 AUG 1984,1133,200-metres,sprints,male,u20
+456,20.57,+1.5,Ade MAFE,12 NOV 1966,GBR,2,Tokyo (JPN),14 SEP 1984,1132,200-metres,sprints,male,u20
+456,20.57,+2.0,Calvin HARRISON,20 JAN 1974,USA,2,"Sacramento, CA (USA)",12 JUN 1993,1132,200-metres,sprints,male,u20
+456,20.57,+0.5,Kazuhiro TAKAHASHI,27 JUL 1976,JPN,1,Osaka (JPN),18 JUN 1994,1132,200-metres,sprints,male,u20
+456,20.57,+0.4,Obadele THOMPSON,30 MAR 1976,BAR,3qf2,"Ullevi Stadium, Göteborg (SWE)",10 AUG 1995,1132,200-metres,sprints,male,u20
+456,20.57,,Francis OBIKWELU,22 NOV 1978,NGR,3,Birmingham (GBR) (i),23 FEB 1997,1199,200-metres,sprints,male,u20
+456,20.57,+0.8,Rae Monzavous EDWARDS,07 MAY 1981,USA,1,"Denton, TX (USA)",24 JUN 2000,1132,200-metres,sprints,male,u20
+456,20.57,+0.5,Robert HERING,14 JUN 1990,GER,1h1,"Karađorđe Stadium, Novi Sad (SRB)",24 JUL 2009,1132,200-metres,sprints,male,u20
+456,20.57,+1.4,Wayde VAN NIEKERK,15 JUL 1992,RSA,1,Durban (RSA),10 APR 2011,1132,200-metres,sprints,male,u20
+456,20.57,+0.1,Tyreek HILL,01 MAR 1994,USA,1,"Bloomington, IN (USA)",17 JUN 2012,1132,200-metres,sprints,male,u20
+456,20.57,+1.4,Martin MANLEY,10 MAR 1997,JAM,1sf3,Kingston (JAM),27 MAR 2014,1132,200-metres,sprints,male,u20
+456,20.57,+0.8,Abdul Hakim SANI BROWN,06 MAR 1999,JPN,2,Nagoya (JPN),27 JUN 2015,1132,200-metres,sprints,male,u20
+456,20.57,-0.4,Kyle APPEL,10 MAY 1998,RSA,2,"Pascual Guerrero Stadium, Cali (COL)",19 JUL 2015,1134,200-metres,sprints,male,u20
+456,20.57,+2.0,Jamal WALTON,25 NOV 1998,CAY,1h1,"Ansin Sports Complex, Miramar, FL (USA)",27 APR 2017,1132,200-metres,sprints,male,u20
+456,20.57,+0.6,Anthony CARPENTER,23 JAN 1999,JAM,1sf1,Kingston (JAM),22 MAR 2018,1132,200-metres,sprints,male,u20
+456,20.57,-0.1,Charles DOBSON,20 OCT 1999,GBR,2,"Ratinan Stadion, Tampere (FIN)",13 JUL 2018,1132,200-metres,sprints,male,u20
+456,20.57,+0.7,Jacory PATTERSON,02 FEB 2000,USA,1h2,"Charlottesville, VA (USA)",09 MAY 2019,1132,200-metres,sprints,male,u20
+456,20.57,+0.5,Tarsis Gracious OROGOT,24 NOV 2002,UGA,4,"Moi International Sports Centre, Kasarani, Nairobi (KEN)",21 AUG 2021,1132,200-metres,sprints,male,u20
+456,20.57,+0.1,Brandon MILLER,27 JUN 2003,USA,3sf3,"Pascual Guerrero Stadium, Cali (COL)",03 AUG 2022,1132,200-metres,sprints,male,u20
+456,20.57,+1.5,Issamade ASINGA,29 DEC 2004,USA,1f5,"Florida State University - Mike Long Track, Tallahassee, FL (USA)",24 MAR 2023,1132,200-metres,sprints,male,u20
+456,20.57,+1.3,Garrett KAALUND,25 JAN 2004,USA,2,"Estadio Jose A. Figueroa Freyre, Mayagüez (PUR)",06 AUG 2023,1132,200-metres,sprints,male,u20
+456,20.57,+1.6,William BATLEY,22 JAN 2007,CAN,1f2,"Fortis Canada Games Complex, St. John's (CAN)",23 AUG 2025,1132,200-metres,sprints,male,u20
+479,20.58,,Clinton DAVIS,17 AUG 1965,USA,1,"Towson, MD (USA)",18 JUL 1982,1130,200-metres,sprints,male,u20
+479,20.58,,Stanley BLALOCK,18 MAR 1964,USA,1,Sherbrooke (CAN),27 JUL 1983,1130,200-metres,sprints,male,u20
+479,20.58,0.0,Ralf LÜBKE,17 JUN 1965,FRG,2,Berlin (GER),17 AUG 1983,1130,200-metres,sprints,male,u20
+479,20.58,,Francis OBIKWELU,22 NOV 1978,NGR,2,Liévin (FRA) (i),16 FEB 1997,1198,200-metres,sprints,male,u20
+479,20.58,,Justin GATLIN,10 FEB 1982,USA,2,"Lexington, KY (USA) (i)",25 FEB 2001,0,200-metres,sprints,male,u20
+479,20.58,+1.2,Jonathan WADE,27 MAR 1984,USA,1,"Baton Rouge, LA (USA)",04 MAY 2002,1130,200-metres,sprints,male,u20
+479,20.58,+1.4,Usain BOLT,21 AUG 1986,JAM,1h4,"National Stadium, Kingston (JAM)",18 JUL 2002,1130,200-metres,sprints,male,u20
+479,20.58,+1.1,J-Mee SAMUELS,20 MAY 1987,USA,1,"Des Moines, IA (USA)",31 JUL 2004,1130,200-metres,sprints,male,u20
+479,20.58,+0.7,Ramone MCKENZIE,15 NOV 1990,JAM,1,Providenciales (TKS),09 APR 2007,1130,200-metres,sprints,male,u20
+479,20.58,+1.0,Bryshon NELLUM,01 MAY 1989,USA,1,"Cerritos, CA (USA)",19 MAY 2007,1130,200-metres,sprints,male,u20
+479,20.58,-0.6,Robert HERING,14 JUN 1990,GER,3qf4,"Olympiastadion, Berlin (GER)",18 AUG 2009,1133,200-metres,sprints,male,u20
+479,20.58,-0.6,Shota IIZUKA,25 JUN 1991,JPN,1h2,Shizuoka (JPN),03 MAY 2010,1133,200-metres,sprints,male,u20
+479,20.58,+0.6,Femi OGUNODE,15 MAY 1991,QAT,1h1,Guangzhou (CHN),24 NOV 2010,1130,200-metres,sprints,male,u20
+479,20.58,,Kirani JAMES,01 SEP 1992,GRN,1f1,"Albuquerque, NM (USA) (i)",21 JAN 2011,1198,200-metres,sprints,male,u20
+479,20.58,+1.1,Abraham HALL,1993,USA,1,"Austin, TX (USA)",12 MAY 2012,1130,200-metres,sprints,male,u20
+479,20.58,-1.0,Ryan CLARK,14 SEP 1996,USA,2,"Greensboro, NC (USA)",21 JUN 2015,1136,200-metres,sprints,male,u20
+479,20.58,+0.7,Chun-Han YANG,01 JAN 1997,TPE,1h4,Kaohsiung (TPE),20 OCT 2015,1130,200-metres,sprints,male,u20
+479,20.58,+2.0,Gift LEOTLELA,12 MAY 1998,RSA,1sf3,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",21 JUL 2016,1130,200-metres,sprints,male,u20
+479,20.58,0.0,Paulo André CAMILO,20 AUG 1998,BRA,1h5,Sao Bernardo do Campo (BRA),16 JUL 2017,1130,200-metres,sprints,male,u20
+479,20.58,+1.0,Zachary SHINNICK,08 FEB 1999,USA,2f1,"Los Angeles, CA (USA)",24 MAR 2018,1130,200-metres,sprints,male,u20
+479,20.58,-0.6,Matthew BOLING,20 JUN 2000,USA,1f26,"Houston, TX (USA)",16 MAR 2019,1133,200-metres,sprints,male,u20
+479,20.58,+0.3,Eckhart POTGIETER,13 JUN 2002,RSA,1h2,"Bestmed Tuks Stadium, Pretoria (RSA)",13 MAR 2020,1130,200-metres,sprints,male,u20
+479,20.58,+0.5,Lucas VILAR,10 MAR 2001,BRA,1,"CNDA, Bragança Paulista (BRA)",18 DEC 2020,1130,200-metres,sprints,male,u20
+479,20.58,+1.3,Shainer REGINFO MONTOYA,08 APR 2002,CUB,3sf1,"Moi International Sports Centre, Kasarani, Nairobi (KEN)",20 AUG 2021,1130,200-metres,sprints,male,u20
+479,20.58,+0.5,Tazana Mikkel KAMANGA-DYRBAK,12 JAN 2002,DEN,5,"Moi International Sports Centre, Kasarani, Nairobi (KEN)",21 AUG 2021,1130,200-metres,sprints,male,u20
+479,20.58,-1.6,Puripol BOONSON,13 JAN 2006,THA,1,Srisaket (THA),20 MAR 2022,1139,200-metres,sprints,male,u20
+479,20.58,+0.3,Jeriel QUAINOO,17 APR 2003,GBR,1f1,"Stratford Community Track, London (GBR)",14 AUG 2022,1130,200-metres,sprints,male,u20
+479,20.58,0.0,Musibau ADEBISI,2005,NGR,1h8,"Stephen Keshi Stadium, Asaba (NGR)",07 DEC 2022,1130,200-metres,sprints,male,u20
+507,20.59,0.0,Bernhard HOFF,10 JAN 1959,GDR,1,"RSC Olimpiyskiy, Donetsk (URS)",21 AUG 1977,1129,200-metres,sprints,male,u20
+507,20.59,-0.1,Adrian JONES,20 JAN 1961,USA,1,San José (USA),31 MAY 1980,1129,200-metres,sprints,male,u20
+507,20.59,-0.3,Stanley FLOYD,23 JUN 1961,USA,2,Koblenz (GER),27 AUG 1980,1130,200-metres,sprints,male,u20
+507,20.59,,Clinton DAVIS,17 AUG 1965,USA,2,Sherbrooke (CAN),27 JUL 1983,1129,200-metres,sprints,male,u20
+507,20.59,,Roberto HERNÁNDEZ,06 MAR 1967,CUB,1,Pisa (ITA),06 JUL 1985,1129,200-metres,sprints,male,u20
+507,20.59,+0.4,Daniel EFFIONG,17 JUN 1972,NGR,4qf1,"National Stadium, Tokyo (JPN)",26 AUG 1991,1129,200-metres,sprints,male,u20
+507,20.59,-0.6,Paul GORRIES,28 FEB 1981,RSA,1,Roodeport (RSA),13 MAR 2000,1132,200-metres,sprints,male,u20
+507,20.59,0.0,Paul GORRIES,28 FEB 1981,RSA,2,Pretoria (RSA),24 MAR 2000,1129,200-metres,sprints,male,u20
+507,20.59,+0.2,Michael MITCHELL,16 MAY 1981,USA,1,"Bakersfield, CA (USA)",19 MAY 2000,1129,200-metres,sprints,male,u20
+507,20.59,0.0,Yusuke OMAE,06 APR 1982,JPN,1,Kitakami (JPN),14 JUL 2001,1129,200-metres,sprints,male,u20
+507,20.59,-0.7,Willie PERRY,16 MAY 1987,USA,2,"Coral Gables, FL (USA)",15 APR 2006,1133,200-metres,sprints,male,u20
+507,20.59,+0.2,Willie PERRY,16 MAY 1987,USA,1h3,"Greensboro, NC (USA)",26 MAY 2006,1129,200-metres,sprints,male,u20
+507,20.59,+1.6,Yoshihide KIRYU,15 DEC 1995,JPN,1,Kyoto (JPN),19 MAY 2013,1129,200-metres,sprints,male,u20
+507,20.59,+0.4,Trayvon BROMELL,10 JUL 1995,USA,1f1,"Waco, TX (USA)",19 APR 2014,1129,200-metres,sprints,male,u20
+507,20.59,-0.1,Yoshihide KIRYU,15 DEC 1995,JPN,1,Kumagaya (JPN),06 SEP 2014,1129,200-metres,sprints,male,u20
+507,20.59,-1.8,Michael O'HARA,29 SEP 1996,JAM,1,Kingston (JAM),28 MAR 2015,1139,200-metres,sprints,male,u20
+507,20.59,+1.0,Akeem SIRLEAF,10 MAR 1997,LBR,4,"Levelland, TX (USA)",19 MAY 2016,1129,200-metres,sprints,male,u20
+507,20.59,+1.2,Gift LEOTLELA,12 MAY 1998,RSA,2,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",22 JUL 2016,1129,200-metres,sprints,male,u20
+507,20.59,0.0,Gift LEOTLELA,12 MAY 1998,RSA,4h4,"Estádio Olímpico, Rio de Janeiro (BRA)",16 AUG 2016,1129,200-metres,sprints,male,u20
+507,20.59,+0.7,Christopher TAYLOR,01 OCT 1999,JAM,1,Kingston (JAM),11 MAR 2017,1129,200-metres,sprints,male,u20
+507,20.59,+0.5,Tyrese COOPER,21 MAR 2000,USA,2,Trujillo (PER),22 JUL 2017,1129,200-metres,sprints,male,u20
+507,20.59,-0.6,Filippo TORTU,15 JUN 1998,ITA,3h5,"Olympic Stadium, London (GBR)",07 AUG 2017,1132,200-metres,sprints,male,u20
+507,20.59,+1.5,Jared HAYES,19 JAN 1999,USA,2,"San Marcos, TX (USA)",13 MAY 2018,1129,200-metres,sprints,male,u20
+507,20.59,+0.5,Yoshinobu IMOTO,31 JUL 1999,JPN,1h5,Sagamihara (JPN),26 MAY 2018,1129,200-metres,sprints,male,u20
+507,20.59,+0.7,Kennedy LIGHTNER,01 JAN 2001,USA,2,"Miramar, FL (USA)",23 JUN 2019,1129,200-metres,sprints,male,u20
+507,20.59,+0.5,Haibin YAN,08 JAN 2003,CHN,1h13,Zhaoqing (CHN),25 APR 2021,1129,200-metres,sprints,male,u20
+507,20.59,+1.8,Jose GARCIA,,USA,2,"Mike A. Myers Stadium, Austin, TX (USA)",08 MAY 2021,1129,200-metres,sprints,male,u20
+507,20.59,-0.3,Rodrick PLEASANT,01 FEB 2005,USA,1,"Arcadia HS Track, Arcadia, CA (USA)",26 JUN 2021,1130,200-metres,sprints,male,u20
+507,20.59,+1.9,Udodi Chudi ONWUZURIKE,29 JAN 2003,NGR,1sf2,"Alexander Stadium, Birmingham (GBR)",05 AUG 2022,1129,200-metres,sprints,male,u20
+507,20.59,-0.5,José FIGUEROA,14 SEP 2004,PUR,1,"Grand Bahama Sports Complex, Freeport (BAH)",13 MAY 2023,1132,200-metres,sprints,male,u20
+537,20.60,+1.1,DaBryan BLANTON,03 JUL 1984,USA,1h4,"Austin, TX (USA)",18 MAY 2003,1127,200-metres,sprints,male,u20
+537,20.60,-0.8,Ramil GULIYEV,29 MAY 1990,AZE,1,Tallinn (EST),25 AUG 2009,1131,200-metres,sprints,male,u20
+537,20.60,+1.0,Elijah HALL-THOMPSON,22 AUG 1994,USA,1,"Austin, TX (USA)",11 MAY 2013,1127,200-metres,sprints,male,u20
+537,20.60,+0.5,Miguel FRANCIS,28 MAR 1995,ANT,1,St. John's (CAN),02 JUN 2013,1127,200-metres,sprints,male,u20
+537,20.60,+1.4,Michael O'HARA,29 SEP 1996,JAM,2sf3,Kingston (JAM),27 MAR 2014,1127,200-metres,sprints,male,u20
+537,20.60,+0.7,Trentavis FRIDAY,05 JUN 1995,USA,1h3,"Hayward Field, Eugene, OR (USA)",24 JUL 2014,1127,200-metres,sprints,male,u20
+537,20.60,+1.0,Thomas SOMERS,28 APR 1997,GBR,1h9,"Hayward Field, Eugene, OR (USA)",24 JUL 2014,1127,200-metres,sprints,male,u20
+537,20.60,-1.0,Yoshihide KIRYU,15 DEC 1995,JPN,1h4,Kumagaya (JPN),06 SEP 2014,1133,200-metres,sprints,male,u20
+537,20.60,-0.7,Bryan LEVELL,23 DEC 2003,JAM,3f1,"National Stadium, Kingston (JAM)",05 JUN 2021,1131,200-metres,sprints,male,u20
+537,20.60,-0.3,Connor WASHINGTON,18 JAN 2003,USA,2h4,"Ole Miss T&F Complex, Oxford, MS (USA)",12 MAY 2022,1128,200-metres,sprints,male,u20
+537,20.60,+0.3,Connor WASHINGTON,18 JAN 2003,USA,8,"Ole Miss T&F Complex, Oxford, MS (USA)",14 MAY 2022,1127,200-metres,sprints,male,u20
+537,20.60,+2.0,Anthony GREENHOW,19 MAR 2003,USA,5,"Hayward Field, Eugene, OR (USA)",25 JUN 2022,1127,200-metres,sprints,male,u20
+537,20.60,+0.4,Armand VAN DER WALT,04 JAN 2005,RSA,1f7,"Bestmed Tuks Stadium, Pretoria (RSA)",01 FEB 2023,1127,200-metres,sprints,male,u20
+537,20.60,+1.8,Gary CARD,04 JUN 2007,JAM,1,"Kirani James Athletic Stadium, St. George's (GRN)",01 APR 2024,1127,200-metres,sprints,male,u20
+537,20.60,+0.3,Jelani WATKINS,,USA,1,"Mike A. Myers Stadium, Austin, TX (USA)",05 MAY 2024,1127,200-metres,sprints,male,u20
+537,20.60,-0.7,Gout GOUT,29 DEC 2007,AUS,2,"Estadio Atlético de la VIDENA, Lima (PER)",30 AUG 2024,1131,200-metres,sprints,male,u20
+537,20.60,+0.6,Jalen JOHNSON,,USA,1f1,"Morris Williams T&F Stadium, Durham, NC (USA)",04 MAY 2025,1127,200-metres,sprints,male,u20
+537,20.60,+0.7,Justice ORATILE,21 MAY 2006,BOT,1,"National Stadium, Gaborone (BOT)",18 MAY 2025,1127,200-metres,sprints,male,u20
+555,20.61,,LaMonte KING,18 DEC 1959,USA,1,"Fresno, CA (USA)",13 MAY 1978,1126,200-metres,sprints,male,u20
+555,20.61,,Floyd HEARD,24 MAR 1966,USA,1,"Milwaukee, WI (USA)",23 MAY 1985,1126,200-metres,sprints,male,u20
+555,20.61,,Deji ALIU,22 NOV 1975,NGR,1,Bauchi (NGR),16 APR 1994,1126,200-metres,sprints,male,u20
+555,20.61,+0.5,Riaan DEMPERS,04 MAR 1977,RSA,2,Helsinki (FIN),25 JUN 1996,1126,200-metres,sprints,male,u20
+555,20.61,-0.4,Usain BOLT,21 AUG 1986,JAM,1,Bridgetown (BAR),06 JUL 2002,1128,200-metres,sprints,male,u20
+555,20.61,+0.9,Usain BOLT,21 AUG 1986,JAM,1,"National Stadium, Kingston (JAM)",19 JUL 2002,1126,200-metres,sprints,male,u20
+555,20.61,,Walter DIX,31 JAN 1986,USA,2h2,"Fayetteville, AR (USA) (i)",11 MAR 2005,1193,200-metres,sprints,male,u20
+555,20.61,+1.2,J-Mee SAMUELS,20 MAY 1987,USA,1,"Greensboro, NC (USA)",21 MAY 2005,1126,200-metres,sprints,male,u20
+555,20.61,+1.3,Scott WIMS,30 MAY 1988,USA,5sf2,"Sacramento, CA (USA)",07 JUN 2007,1126,200-metres,sprints,male,u20
+555,20.61,-0.3,Ramil GULIYEV,29 MAY 1990,AZE,7,"Olympiastadion, Berlin (GER)",20 AUG 2009,1127,200-metres,sprints,male,u20
+555,20.61,+0.3,Aaron ERNEST,08 NOV 1993,USA,2h1,"Jacksonville, FL (USA)",25 MAY 2012,1126,200-metres,sprints,male,u20
+555,20.61,-1.1,Adam GEMILI,06 OCT 1993,GBR,1h2,Bedford (GBR),17 JUN 2012,1132,200-metres,sprints,male,u20
+555,20.61,+0.6,Yuki KOIKE,13 MAY 1995,JPN,3f2,Fukuroi (JPN),03 MAY 2014,1126,200-metres,sprints,male,u20
+555,20.61,+1.3,Christian COLEMAN,06 MAR 1996,USA,4qf3,"Jacksonville, FL (USA)",30 MAY 2015,1126,200-metres,sprints,male,u20
+555,20.61,+1.7,Christian COLEMAN,06 MAR 1996,USA,5sf1,"Eugene, OR (USA)",10 JUN 2015,1126,200-metres,sprints,male,u20
+555,20.61,+1.3,Derick SILVA,23 APR 1998,BRA,3,Sao Bernardo do Campo (BRA),11 JUN 2017,1126,200-metres,sprints,male,u20
+555,20.61,-0.4,Abdul Hakim SANI BROWN,06 MAR 1999,JPN,1h2,Osaka (JPN),24 JUN 2017,1128,200-metres,sprints,male,u20
+555,20.61,+1.2,Tazana Mikkel KAMANGA-DYRBAK,12 JAN 2002,DEN,3,"Nyayo National Stadium, Nairobi (KEN)",03 OCT 2020,1126,200-metres,sprints,male,u20
+555,20.61,+1.1,Wendell MILLER,03 JAN 2003,BAH,1,"Satellite High School, Satellite Beach, FL (USA)",16 JUL 2021,1126,200-metres,sprints,male,u20
+555,20.61,+0.4,Tazana Mikkel KAMANGA-DYRBAK,12 JAN 2002,DEN,1sf3,"Moi International Sports Centre, Kasarani, Nairobi (KEN)",20 AUG 2021,1126,200-metres,sprints,male,u20
+555,20.61,+0.1,Puripol BOONSON,13 JAN 2006,THA,4sf3,"Pascual Guerrero Stadium, Cali (COL)",03 AUG 2022,1126,200-metres,sprints,male,u20
+555,20.61,-1.1,Sebastian SULTANA,15 SEP 2005,AUS,1h2,"SA Athletic Stadium, Adelaide (AUS)",14 APR 2024,1132,200-metres,sprints,male,u20
+555,20.61,+1.8,Udeme OKON,03 SEP 2005,RSA,1f7,"McArthur Stadium, Potchefstroom (RSA)",25 MAY 2024,1126,200-metres,sprints,male,u20
+555,20.61,+0.1,Kei WAKANA,04 OCT 2006,JPN,1,"Hakatanomori Athletic Stadium, Fukuoka (JPN)",31 JUL 2024,1126,200-metres,sprints,male,u20
+555,20.61,+0.5,Jalen JOHNSON,,USA,1h3,"Kentner Stadium Wake Forest University, Winston Salem, NC (USA)",15 MAY 2025,1126,200-metres,sprints,male,u20
+555,20.61,-0.4,Zamarii SANDERS,,USA,1,"Franklin Field, Philadelphia, PA (USA)",22 JUN 2025,1128,200-metres,sprints,male,u20
+581,20.62,+0.4,Bruno CHERRIER,31 AUG 1953,FRA,3qf4,"Olympiastadion, München (GER)",03 SEP 1972,1124,200-metres,sprints,male,u20
+581,20.62,+1.0,Stanley BLALOCK,18 MAR 1964,USA,1h3,"Lexington, KY (USA)",14 MAY 1983,1124,200-metres,sprints,male,u20
+581,20.62,+0.1,Peter OGILVIE,02 MAY 1972,CAN,2,"Provo, UT (USA)",21 MAY 1991,1124,200-metres,sprints,male,u20
+581,20.62,+1.7,Bryan BRONSON,09 SEP 1972,USA,1,Kingston (JAM),20 JUL 1991,1124,200-metres,sprints,male,u20
+581,20.62,-1.2,Daniel PHILIP,17 JUN 1972,NGR,3,Cairo (EGY),26 SEP 1991,1131,200-metres,sprints,male,u20
+581,20.62,+1.7,Tony WHEELER,19 JAN 1975,USA,1,"Estadio Universitario, Lisboa (POR)",23 JUL 1994,1124,200-metres,sprints,male,u20
+581,20.62,-0.5,Francis OBIKWELU,22 NOV 1978,NGR,1h5,"Olympic Stadium, Atlanta, GA (USA)",31 JUL 1996,1127,200-metres,sprints,male,u20
+581,20.62,+1.3,Sultan MCCULLOUGH,12 FEB 1980,USA,1,"Norwalk, CA (USA)",24 MAY 1997,1124,200-metres,sprints,male,u20
+581,20.62,+1.0,Christian MALCOLM,03 JUN 1979,GBR,1sf2,"Parc des Sports, Annecy (FRA)",01 AUG 1998,1124,200-metres,sprints,male,u20
+581,20.62,-0.1,Paul GORRIES,28 FEB 1981,RSA,1,Bloemfontein (RSA),04 FEB 2000,1124,200-metres,sprints,male,u20
+581,20.62,+0.3,Zizhou XU,08 JAN 1981,CHN,1,Shanghai (CHN),19 APR 2000,1124,200-metres,sprints,male,u20
+581,20.62,-0.5,Paul GORRIES,28 FEB 1981,RSA,1sf2,"E.Nacional, Santiago de Chile (CHI)",20 OCT 2000,1127,200-metres,sprints,male,u20
+581,20.62,+0.4,Walter DIX,31 JAN 1986,USA,1,"Gainesville, FL (USA)",08 MAY 2004,1124,200-metres,sprints,male,u20
+581,20.62,,Willie PERRY,16 MAY 1987,USA,4,"Fayetteville, AR (USA) (i)",10 MAR 2006,1192,200-metres,sprints,male,u20
+581,20.62,+1.0,Yohan BLAKE,26 DEC 1989,JAM,1,Kingston (JAM),31 MAR 2007,1124,200-metres,sprints,male,u20
+581,20.62,+2.0,Alonso EDWARD,08 DEC 1989,PAN,2,Caracas (VEN),10 MAY 2007,1124,200-metres,sprints,male,u20
+581,20.62,0.0,Ryota YAMAGATA,10 JUN 1992,JPN,3,Tokyo (JPN),22 MAY 2011,1124,200-metres,sprints,male,u20
+581,20.62,-0.4,Sean MCLEAN,23 MAR 1992,USA,1,"Greensboro, NC (USA)",18 JUN 2011,1126,200-metres,sprints,male,u20
+581,20.62,+1.3,Davonte STEWART,11 JUN 1993,USA,3f1,"Los Angeles, CA (USA)",24 MAR 2012,1124,200-metres,sprints,male,u20
+581,20.62,-0.7,Nethaneel MITCHELL-BLAKE,02 APR 1994,GBR,1,"Stadio Guidobaldi, Rieti (ITA)",20 JUL 2013,1128,200-metres,sprints,male,u20
+581,20.62,+1.8,Leon REID,26 JUL 1994,GBR,1sf1,"Stadio Guidobaldi, Rieti (ITA)",20 JUL 2013,1124,200-metres,sprints,male,u20
+581,20.62,+1.3,Renard HOWELL,03 MAR 1995,USA,1f2,"Lubbock, TX (USA)",03 MAY 2014,1124,200-metres,sprints,male,u20
+581,20.62,+0.6,Michael O'HARA,29 SEP 1996,JAM,1h7,"Hayward Field, Eugene, OR (USA)",24 JUL 2014,1124,200-metres,sprints,male,u20
+581,20.62,-1.7,Abdul Hakim SANI BROWN,06 MAR 1999,JPN,1sf1,"Pascual Guerrero Stadium, Cali (COL)",18 JUL 2015,1134,200-metres,sprints,male,u20
+581,20.62,+1.3,Ryan CLARK,14 SEP 1996,USA,3,Edmonton (CAN),01 AUG 2015,1124,200-metres,sprints,male,u20
+581,20.62,+1.0,Shamon EHIEMUA,30 SEP 1998,USA,1,"Austin, TX (USA)",13 MAY 2016,1124,200-metres,sprints,male,u20
+581,20.62,+1.6,Yusuke TANAKA,11 JAN 1998,JPN,2,Fukui (JPN),10 SEP 2017,1124,200-metres,sprints,male,u20
+581,20.62,+0.5,Khance MEYERS,11 JAN 1999,USA,1h3,"El Dorado, KS (USA)",18 MAY 2018,1124,200-metres,sprints,male,u20
+581,20.62,+0.5,Khance MEYERS,11 JAN 1999,USA,2,"Bloomington, IN (USA)",17 JUN 2018,1124,200-metres,sprints,male,u20
+581,20.62,+1.3,Jevony MURRAY,,JAM,2,"El Dorado, KS (USA)",04 MAY 2019,1124,200-metres,sprints,male,u20
+581,20.62,,Jaylen SLADE,OCT 2003,USA,1f2,"Randal Tyson Indoor Center, Fayetteville, AR (USA) (i)",21 FEB 2021,1192,200-metres,sprints,male,u20
+581,20.62,+1.4,Aidan MURPHY,14 OCT 2003,AUS,1,"SA Athletic Stadium, Adelaide (AUS)",08 JAN 2022,1124,200-metres,sprints,male,u20
+581,20.62,-0.8,Armand VAN DER WALT,04 JAN 2005,RSA,1sf2,"Levy Mwanawasa Stadion, Ndola (ZAM)",01 MAY 2023,1128,200-metres,sprints,male,u20
+581,20.62,+1.8,Jackson CLARKE,24 NOV 2005,USA,3f8,"UVA Lanningan Field, Charlottesville, VA (USA)",20 APR 2024,1124,200-metres,sprints,male,u20
+581,20.62,+0.8,Bertie CRUYWAGEN,13 JAN 2006,RSA,2sf1,"Msunduzi Athletics Stadium, Pietermaritzburg (RSA)",20 APR 2024,1124,200-metres,sprints,male,u20
+581,20.62,0.0,Jalen JOHNSON,,USA,1h1,"Hayward Field, Eugene, OR (USA)",21 JUN 2025,1124,200-metres,sprints,male,u20
+617,20.63,,Lamar PREYOR,04 APR 1957,USA,1,"Tempe, AZ (USA)",24 MAR 1976,1123,200-metres,sprints,male,u20
+617,20.63,,Danie ZAAYMAN,05 JAN 1960,RSA,1,Pretoria (RSA),31 MAR 1978,1123,200-metres,sprints,male,u20
+617,20.63,0.0,Ralf LÜBKE,17 JUN 1965,FRG,3,Bremen (GER),26 JUN 1983,1123,200-metres,sprints,male,u20
+617,20.63,+0.7,Ade MAFE,12 NOV 1966,GBR,3sf2,"Memorial Coliseum, Los Angeles, CA (USA)",08 AUG 1984,1123,200-metres,sprints,male,u20
+617,20.63,+1.7,Quincy WATTS,19 JUN 1970,USA,1,"Los Angeles, CA (USA)",30 MAY 1987,1123,200-metres,sprints,male,u20
+617,20.63,+0.6,Kevin BRAUNSKILL,31 MAR 1969,USA,1,"Raleigh, NC (USA)",25 MAY 1988,1123,200-metres,sprints,male,u20
+617,20.63,+0.7,Glen ELFERINK,21 MAY 1973,RSA,3,Bloemfontein (RSA),11 APR 1992,1123,200-metres,sprints,male,u20
+617,20.63,+0.3,Ato BOLDON,30 DEC 1973,TTO,1,"Olympic Stadium, Seoul (KOR)",19 SEP 1992,1123,200-metres,sprints,male,u20
+617,20.63,-0.3,Obadele THOMPSON,30 MAR 1976,BAR,1h3,"Ullevi Stadium, Göteborg (SWE)",10 AUG 1995,1124,200-metres,sprints,male,u20
+617,20.63,0.0,Christopher LAMBERT,06 APR 1981,GBR,1,Neubrandenburg (GER),21 AUG 1999,1123,200-metres,sprints,male,u20
+617,20.63,+0.8,Jorge Célio SENA,31 JAN 1985,BRA,5,"Mangueirão, Belém (BRA)",04 MAY 2003,1123,200-metres,sprints,male,u20
+617,20.63,0.0,David NEVILLE,01 JUN 1984,USA,2,Bridgetown (BAR),20 JUL 2003,1123,200-metres,sprints,male,u20
+617,20.63,+1.0,Sebastian ERNST,11 OCT 1984,GER,1,"Ratinan Stadion, Tampere (FIN)",27 JUL 2003,1123,200-metres,sprints,male,u20
+617,20.63,+0.2,Shinji TAKAHIRA,18 JUL 1984,JPN,1,Maebashi (JPN),12 OCT 2003,1123,200-metres,sprints,male,u20
+617,20.63,+0.5,Willie PERRY,16 MAY 1987,USA,4,"Fayetteville, AR (USA)",14 MAY 2006,1123,200-metres,sprints,male,u20
+617,20.63,+1.2,Ramone MCKENZIE,15 NOV 1990,JAM,1,Kingston (JAM),24 JUN 2007,1123,200-metres,sprints,male,u20
+617,20.63,-0.6,Joseph Obinna METU,12 JUL 1988,NGR,1h3,Algiers (ALG),21 JUL 2007,1126,200-metres,sprints,male,u20
+617,20.63,+0.4,Robert HERING,14 JUN 1990,GER,1f1,Mannheim (GER),14 JUN 2009,1123,200-metres,sprints,male,u20
+617,20.63,-1.0,Michael O'HARA,29 SEP 1996,JAM,1,Donetsk (UKR),14 JUL 2013,1129,200-metres,sprints,male,u20
+617,20.63,,Reynier MENA,21 NOV 1996,CUB,1,Medellín (COL),24 AUG 2013,1123,200-metres,sprints,male,u20
+617,20.63,+1.0,Mohammad Hossein ABAREGHI,05 JAN 1995,IRI,1h3,Taipei City (TPE),14 JUN 2014,1123,200-metres,sprints,male,u20
+617,20.63,+0.2,Gift LEOTLELA,12 MAY 1998,RSA,1,Pretoria (RSA),20 MAR 2015,1123,200-metres,sprints,male,u20
+617,20.63,,Noah LYLES,18 JUL 1997,USA,1f2,"New York, NY (USA) (i)",13 MAR 2016,1190,200-metres,sprints,male,u20
+617,20.63,+1.6,Gift LEOTLELA,12 MAY 1998,RSA,1h3,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",21 JUL 2016,1123,200-metres,sprints,male,u20
+617,20.63,+1.2,Nigel ELLIS,08 AUG 1997,JAM,3,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",22 JUL 2016,1123,200-metres,sprints,male,u20
+617,20.63,+0.9,Yusuke TANAKA,11 JAN 1998,JPN,2,Hiratsuka (JPN),11 JUN 2017,1123,200-metres,sprints,male,u20
+617,20.63,+1.9,Tyrese COOPER,21 MAR 2000,USA,1h12,"Ypsilanti, MI (USA)",01 AUG 2017,1123,200-metres,sprints,male,u20
+617,20.63,-0.1,Abdul Hakim SANI BROWN,06 MAR 1999,JPN,7,"Olympic Stadium, London (GBR)",10 AUG 2017,1123,200-metres,sprints,male,u20
+617,20.63,-0.4,Benjamin RICHARDSON,19 DEC 2003,RSA,1f5,"Bestmed Tuks Stadium, Pretoria (RSA)",29 MAY 2021,1125,200-metres,sprints,male,u20
+617,20.63,+0.2,Letsile TEBOGO,07 JUN 2003,BOT,1h5,"Moi International Sports Centre, Kasarani, Nairobi (KEN)",20 AUG 2021,1123,200-metres,sprints,male,u20
+617,20.63,+0.7,Calab LAW,31 DEC 2003,AUS,1,"SOPAC, Sydney (AUS)",29 MAR 2022,1123,200-metres,sprints,male,u20
+617,20.63,+2.0,Busang Collen KEBINATSHIPI,13 FEB 2004,BOT,1h1,"National Stadium, Gaborone (BOT)",27 MAY 2023,1123,200-metres,sprints,male,u20
+617,20.63,-0.4,Issamade ASINGA,29 DEC 2004,SUR,1h1,"COTP Stadium, São Paulo (BRA)",30 JUL 2023,1125,200-metres,sprints,male,u20
+617,20.63,+1.3,José FIGUEROA,14 SEP 2004,PUR,3,"Estadio Jose A. Figueroa Freyre, Mayagüez (PUR)",06 AUG 2023,1123,200-metres,sprints,male,u20
+617,20.63,+1.0,Marek ZAKRZEWSKI,18 DEC 2005,POL,1,"Givat Ram Stadium, Jerusalem (ISR)",09 AUG 2023,1123,200-metres,sprints,male,u20
+617,20.63,+1.2,Renan CORREA,15 MAR 2004,BRA,1f4,"Pista da Universidade Estadual de Londrina, Londrina (BRA)",01 OCT 2023,1123,200-metres,sprints,male,u20
+617,20.63,0.0,Bayanda WALAZA,09 FEB 2006,RSA,1f11,"Pilditch Stadium, Pretoria (RSA)",15 FEB 2025,1123,200-metres,sprints,male,u20
+617,20.63,-0.4,Bayanda WALAZA,09 FEB 2006,RSA,2sf1,"McArthur Stadium, Potchefstroom (RSA)",25 APR 2025,1125,200-metres,sprints,male,u20
+617,20.63,-0.3,Bayanda WALAZA,09 FEB 2006,RSA,1,"Lohrheidestadion, Wattenscheid, Bochum (GER)",24 JUL 2025,1124,200-metres,sprints,male,u20
+617,20.63,+1.7,Tate TAYLOR,,USA,6h2,"Hayward Field, Eugene, OR (USA)",03 AUG 2025,1123,200-metres,sprints,male,u20
+657,20.64,,Everard SAMUELS,10 APR 1958,JAM,1h,Bridgetown (BAR),25 APR 1977,1121,200-metres,sprints,male,u20
+657,20.64,+0.9,Calvin SMITH,08 JAN 1961,USA,2,"Tuscaloosa, AL (USA)",05 APR 1980,1121,200-metres,sprints,male,u20
+657,20.64,-0.3,Jon DRUMMOND,09 SEP 1968,USA,1,"Tucson, AZ (USA)",20 JUN 1987,1122,200-metres,sprints,male,u20
+657,20.64,+0.4,Ibrahim MEITÉ,18 NOV 1976,CIV,2,Narbonne (FRA),19 JUN 1994,1121,200-metres,sprints,male,u20
+657,20.64,+0.5,Francis OBIKWELU,22 NOV 1978,NGR,4,Nice (FRA),16 JUL 1997,1121,200-metres,sprints,male,u20
+657,20.64,+1.3,Paul GORRIES,28 FEB 1981,RSA,1,"E.Nacional, Santiago de Chile (CHI)",21 OCT 2000,1121,200-metres,sprints,male,u20
+657,20.64,+0.6,Dwayne GRANT,17 JUL 1982,GBR,1,Mannheim (GER),16 JUN 2001,1121,200-metres,sprints,male,u20
+657,20.64,0.0,Walter DIX,31 JAN 1986,USA,1h2,"Tallahassee, FL (USA)",22 APR 2005,1121,200-metres,sprints,male,u20
+657,20.64,-0.2,Willie PERRY,16 MAY 1987,USA,5,"Sacramento, CA (USA)",10 JUN 2006,1122,200-metres,sprints,male,u20
+657,20.64,+1.8,Michael LAWRENCE,,USA,3qf4,"Eugene, OR (USA)",05 JUL 2008,1121,200-metres,sprints,male,u20
+657,20.64,-0.3,Nickel ASHMEADE,07 APR 1990,JAM,1h1,La Habana (CUB),05 JUL 2009,1122,200-metres,sprints,male,u20
+657,20.64,+1.8,Robert HERING,14 JUN 1990,GER,1sf1,"Karađorđe Stadium, Novi Sad (SRB)",25 JUL 2009,1121,200-metres,sprints,male,u20
+657,20.64,-0.7,Robert HERING,14 JUN 1990,GER,1h9,"Olympiastadion, Berlin (GER)",18 AUG 2009,1125,200-metres,sprints,male,u20
+657,20.64,+1.5,Sean MCLEAN,23 MAR 1992,USA,1,"Eugene, OR (USA)",25 JUN 2011,1121,200-metres,sprints,male,u20
+657,20.64,+1.0,Davonte STEWART,11 JUN 1993,USA,1h1,"Eugene, OR (USA)",12 MAY 2012,1121,200-metres,sprints,male,u20
+657,20.64,-1.1,Kendal WILLIAMS,23 SEP 1995,USA,1,"Orlando, FL (USA)",18 MAY 2013,1127,200-metres,sprints,male,u20
+657,20.64,-1.8,Mustaqeem WILLIAMS,24 AUG 1995,USA,1,"Greensboro, NC (USA)",27 JUL 2013,1131,200-metres,sprints,male,u20
+657,20.64,+1.6,Andrew HUDSON,14 DEC 1996,USA,1,"San Marcos, TX (USA)",12 JUL 2014,1121,200-metres,sprints,male,u20
+657,20.64,-1.0,Chidamba HAZEMBA,18 SEP 1997,ZAM,2,Lusaka (ZAM),01 AUG 2015,1127,200-metres,sprints,male,u20
+657,20.64,+1.5,Roger GURSKI,11 JUL 1997,GER,2sf1,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",21 JUL 2016,1121,200-metres,sprints,male,u20
+657,20.64,+1.6,Maxwell WILLIS,02 SEP 1998,USA,5sf3,"Eugene, OR (USA)",07 JUN 2017,1121,200-metres,sprints,male,u20
+657,20.64,+1.4,Abdul Hakim SANI BROWN,06 MAR 1999,JPN,1f5,"Fayetteville, AR (USA)",27 APR 2018,1121,200-metres,sprints,male,u20
+657,20.64,+1.2,Sinesipho DAMBILE,02 MAR 2002,RSA,1f1,Pretoria (RSA),09 FEB 2019,1121,200-metres,sprints,male,u20
+657,20.64,+1.2,Sinesipho DAMBILE,02 MAR 2002,RSA,1sf1,Abidjan (CIV),18 APR 2019,1121,200-metres,sprints,male,u20
+657,20.64,-0.3,Haibin YAN,08 JAN 2003,CHN,1,Chongqing (CHN),27 JUN 2021,1122,200-metres,sprints,male,u20
+657,20.64,+2.0,Aidan MURPHY,14 OCT 2003,AUS,1f1,"SA Athletic Stadium, Adelaide (AUS)",27 NOV 2021,1121,200-metres,sprints,male,u20
+657,20.64,+1.8,Aidan MURPHY,14 OCT 2003,AUS,1h1,"SA Athletic Stadium, Adelaide (AUS)",20 FEB 2022,1121,200-metres,sprints,male,u20
+657,20.64,,Jordan ANTHONY,29 JUN 2004,USA,1f2,"Ocean Breeze Athl. Complex, New York, NY (USA) (i)",12 MAR 2022,1189,200-metres,sprints,male,u20
+657,20.64,+0.1,Connor WASHINGTON,18 JAN 2003,USA,1f2,"John McDonnell Field, Fayetteville, AR (USA)",06 MAY 2022,1121,200-metres,sprints,male,u20
+657,20.64,+0.9,Laurenz COLBERT,25 JUN 2003,USA,2h1,"Terry & Linda Fuller T&F Complex, Lubbock, TX (USA)",14 MAY 2022,1121,200-metres,sprints,male,u20
+657,20.64,-1.0,Brandon MILLER,27 JUN 2003,USA,5,"Pascual Guerrero Stadium, Cali (COL)",04 AUG 2022,1127,200-metres,sprints,male,u20
+657,20.64,,Issamade ASINGA,29 DEC 2004,USA,1h19,"The Track at New Balance, Boston, MA (USA) (i)",11 MAR 2023,1189,200-metres,sprints,male,u20
+657,20.64,+1.4,Jayden JONES,10 MAY 2005,USA,7h2,"John McDonnell Field, Fayetteville, AR (USA)",24 MAY 2024,1121,200-metres,sprints,male,u20
+657,20.64,+1.2,Kota UEMATSU,10 FEB 2006,JPN,1h9,"Lemon Gas Stadium, Hiratsuka (JPN)",16 JUN 2024,1121,200-metres,sprints,male,u20
+657,20.64,-0.8,Xavier BUTLER,,USA,4f1,"Percy Beard Track, Gainesville, FL (USA)",18 APR 2025,1125,200-metres,sprints,male,u20
+657,20.64,+0.8,Seth KENNEDY,19 FEB 2008,AUS,1,"QSAC State Athletics Facility, Nathan, Brisbane (AUS)",24 OCT 2025,1121,200-metres,sprints,male,u20
+693,20.65,+1.8,Johnny JONES,04 APR 1958,USA,3,"Champaign, IL (USA)",04 JUN 1977,1120,200-metres,sprints,male,u20
+693,20.65,+0.5,Clinton DAVIS,17 AUG 1965,USA,3,"Villanova, PA (USA)",12 JUN 1983,1120,200-metres,sprints,male,u20
+693,20.65,+0.2,Atlee MAHORN,27 OCT 1965,CAN,2,Air Force Academy (USA),18 JUL 1983,1120,200-metres,sprints,male,u20
+693,20.65,+1.2,Ralf LÜBKE,17 JUN 1965,FRG,1sf1,"Rudolf Tonn Stadion, Schwechat (AUT)",27 AUG 1983,1120,200-metres,sprints,male,u20
+693,20.65,+1.8,Eric FREMPONG-MANSO,01 OCT 1975,CAN,1,Ottawa (CAN),03 JUL 1994,1120,200-metres,sprints,male,u20
+693,20.65,+1.4,Brandon COUTS,17 FEB 1979,USA,5,"Arlington, TX (USA)",02 MAY 1998,1120,200-metres,sprints,male,u20
+693,20.65,-0.6,Paul GORRIES,28 FEB 1981,RSA,1,Bellville (RSA),27 FEB 1999,1123,200-metres,sprints,male,u20
+693,20.65,+0.5,Zizhou XU,08 JAN 1981,CHN,1,Luohe (CHN),22 OCT 2000,1120,200-metres,sprints,male,u20
+693,20.65,,Justin GATLIN,10 FEB 1982,USA,4,"Fayetteville, AR (USA) (i)",09 MAR 2001,1187,200-metres,sprints,male,u20
+693,20.65,0.0,Kelvin LOVE,18 MAY 1986,USA,1,"Tempe, AZ (USA)",30 APR 2005,1120,200-metres,sprints,male,u20
+693,20.65,+1.6,Jahvid BEST,30 JAN 1989,LCA,2,"Sacramento, CA (USA)",02 JUN 2007,1120,200-metres,sprints,male,u20
+693,20.65,+0.8,Brandon O'CONNER,02 SEP 1989,USA,1,"Albuquerque, NM (USA)",07 JUN 2008,1120,200-metres,sprints,male,u20
+693,20.65,+0.2,Roberto SKYERS,12 NOV 1991,CUB,4,Baie Mahault (FRA),01 MAY 2010,1120,200-metres,sprints,male,u20
+693,20.65,+1.7,Charles SILMON,04 JUL 1991,USA,2,"Albuquerque, NM (USA)",15 MAY 2010,1120,200-metres,sprints,male,u20
+693,20.65,+1.5,Prezel HARDY,01 JUN 1992,USA,2,"Eugene, OR (USA)",25 JUN 2011,1120,200-metres,sprints,male,u20
+693,20.65,-0.2,Nick GRAY,02 JUN 1997,USA,2sf2,"Eugene, OR (USA)",08 JUN 2016,1121,200-metres,sprints,male,u20
+693,20.65,,Khance MEYERS,11 JAN 1999,USA,1f2,"Lubbock, TX (USA) (i)",03 MAR 2018,1187,200-metres,sprints,male,u20
+693,20.65,+1.4,Christopher TAYLOR,01 OCT 1999,JAM,1h3,Nassau (BAH),01 APR 2018,1120,200-metres,sprints,male,u20
+693,20.65,-0.2,Jona EFOLOKO,23 SEP 1999,GBR,1h3,"Ratinan Stadion, Tampere (FIN)",12 JUL 2018,1121,200-metres,sprints,male,u20
+693,20.65,-0.1,Charles DOBSON,20 OCT 1999,GBR,1h4,"Ratinan Stadion, Tampere (FIN)",12 JUL 2018,1120,200-metres,sprints,male,u20
+693,20.65,+0.5,Xavier NAIRNE,02 OCT 2000,JAM,1,George Town (CAY),21 APR 2019,1120,200-metres,sprints,male,u20
+693,20.65,-1.4,Robert GREGORY,12 DEC 2001,USA,1,"Satellite High School, Satellite Beach, FL (USA)",07 AUG 2020,1128,200-metres,sprints,male,u20
+693,20.65,-1.6,Benjamin RICHARDSON,19 DEC 2003,RSA,1h2,"Bestmed Tuks Stadium, Pretoria (RSA)",26 MAR 2021,1129,200-metres,sprints,male,u20
+693,20.65,+0.4,Benjamin RICHARDSON,19 DEC 2003,RSA,2f5,"Bestmed Tuks Stadium, Pretoria (RSA)",19 JUN 2021,1120,200-metres,sprints,male,u20
+693,20.65,+1.9,Jeriel QUAINOO,17 APR 2003,GBR,1f4,"Stratford Community Track, London (GBR)",11 JUN 2022,1120,200-metres,sprints,male,u20
+693,20.65,0.0,Garrett KAALUND,25 JAN 2004,USA,2,"Hayward Field, Eugene, OR (USA)",09 JUL 2023,1120,200-metres,sprints,male,u20
+693,20.65,-0.7,Konstantin KRYLOV,11 MAR 2004,RUS,1,"Kalininets Stadium, Yekaterinburg (RUS)",18 AUG 2023,1124,200-metres,sprints,male,u20
+693,20.65,,Ajani DWYER,18 MAY 2006,USA,1f1,"Ott Center for Track & Field, Philadelphia, PA (USA) (i)",25 JAN 2025,1187,200-metres,sprints,male,u20
+693,20.65,-0.3,Jalen JOHNSON,,USA,3pr1,"University of North Florda Jax Track at Hodges Stadium, Jacksonville, FL (USA)",28 MAY 2025,1121,200-metres,sprints,male,u20
+693,20.65,-0.1,Naeem JACK,31 JUL 2007,RSA,5h5,"National Stadium, Tokyo (JPN)",17 SEP 2025,1120,200-metres,sprints,male,u20
+693,20.65,+1.0,Ryoutaro HAMA,30 JUN 2006,JPN,2,"Wan Chai Sports Ground, Hong Kong (HKG)",28 SEP 2025,1120,200-metres,sprints,male,u20
+724,20.66,-1.8,Carl LEWIS,01 JUL 1961,USA,1,"Knoxville, TN (USA)",17 JUN 1980,1128,200-metres,sprints,male,u20
+724,20.66,+0.9,Stanley BLALOCK,18 MAR 1964,USA,4sf2,"Indianapolis, IN (USA)",19 JUN 1983,1118,200-metres,sprints,male,u20
+724,20.66,,Stanley KERR,19 JUN 1967,USA,1,"Brenham, TX (USA)",18 APR 1985,1118,200-metres,sprints,male,u20
+724,20.66,,James STALLWORTH,29 APR 1971,USA,1,"Columbus, OH (USA)",29 JUL 1990,1118,200-metres,sprints,male,u20
+724,20.66,-0.9,Obadele THOMPSON,30 MAR 1976,BAR,7sf2,"Ullevi Stadium, Göteborg (SWE)",11 AUG 1995,1123,200-metres,sprints,male,u20
+724,20.66,+1.2,Dwight THOMAS,23 SEP 1980,JAM,1,"Tampa, FL (USA)",11 JUL 1999,1118,200-metres,sprints,male,u20
+724,20.66,+0.6,Scott WIMS,30 MAY 1988,USA,1,"Des Moines, IA (USA)",26 MAY 2007,1118,200-metres,sprints,male,u20
+724,20.66,0.0,Joseph Obinna METU,12 JUL 1988,NGR,1sf2,Algiers (ALG),21 JUL 2007,1118,200-metres,sprints,male,u20
+724,20.66,+0.3,Ramil GULIYEV,29 MAY 1990,AZE,5qf4,"National Stadium, Beijing (CHN)",18 AUG 2008,1118,200-metres,sprints,male,u20
+724,20.66,+0.2,Ramone MCKENZIE,15 NOV 1990,JAM,1,Kingston (JAM),04 APR 2009,1118,200-metres,sprints,male,u20
+724,20.66,+0.5,António RODRÍGUES,12 JAN 1993,BRA,5,São Paulo (BRA),07 AUG 2011,1118,200-metres,sprints,male,u20
+724,20.66,+1.2,Zhenye XIE,17 AUG 1993,CHN,1,Wuhan (CHN),29 APR 2012,1118,200-metres,sprints,male,u20
+724,20.66,+0.1,Delano WILLIAMS,23 DEC 1993,TKS,1h6,"Estadio Olímpico, Barcelona (ESP)",12 JUL 2012,1118,200-metres,sprints,male,u20
+724,20.66,-0.4,Zhenye XIE,17 AUG 1993,CHN,5,"Estadio Olímpico, Barcelona (ESP)",13 JUL 2012,1120,200-metres,sprints,male,u20
+724,20.66,+1.9,Steven GARDINER,12 SEP 1995,BAH,1,Nassau (BAH),05 APR 2014,1118,200-metres,sprints,male,u20
+724,20.66,+1.3,Divine ODUDURU,07 OCT 1996,NGR,2sf2,"Hayward Field, Eugene, OR (USA)",24 JUL 2014,1118,200-metres,sprints,male,u20
+724,20.66,+1.8,Yuki KOIKE,13 MAY 1995,JPN,2sf3,"Hayward Field, Eugene, OR (USA)",24 JUL 2014,1118,200-metres,sprints,male,u20
+724,20.66,+0.2,Reynier MENA,21 NOV 1996,CUB,2,Guelph (CAN),30 MAY 2015,1118,200-metres,sprints,male,u20
+724,20.66,+0.4,Akeem BLOOMFIELD,10 NOV 1997,JAM,1f11,Kingston (JAM),21 MAY 2016,1118,200-metres,sprints,male,u20
+724,20.66,+0.7,Tyrese COOPER,21 MAR 2000,USA,1h20,"Kissimmee, FL (USA)",13 JUL 2016,1118,200-metres,sprints,male,u20
+724,20.66,+0.4,Clarence MUNYAI,20 FEB 1998,RSA,3h6,"Estádio Olímpico, Rio de Janeiro (BRA)",16 AUG 2016,1118,200-metres,sprints,male,u20
+724,20.66,+1.6,Jhevaughn MATHERSON,27 FEB 1999,JAM,1sf2,Kingston (JAM),30 MAR 2017,1118,200-metres,sprints,male,u20
+724,20.66,+0.4,Abdelaziz MOHAMED,20 OCT 2001,QAT,1f1,"McArthur Stadium, Potchefstroom (RSA)",10 MAR 2020,1118,200-metres,sprints,male,u20
+724,20.66,+0.2,Aidan MURPHY,14 OCT 2003,AUS,1,"SA Athletic Stadium, Adelaide (AUS)",12 FEB 2022,1118,200-metres,sprints,male,u20
+724,20.66,+1.4,Jackson ROWE,01 DEC 2003,AUS,1f1,"SOPAC, Sydney (AUS)",26 NOV 2022,1118,200-metres,sprints,male,u20
+724,20.66,-0.5,Neo MODIBE,07 SEP 2005,RSA,1,"Germiston Stadium, Johannesburg (RSA)",09 MAR 2024,1121,200-metres,sprints,male,u20
+724,20.66,,Jake ODEY-JORDAN,22 DEC 2007,GBR,1f2,"The Track at New Balance, Boston, MA (USA) (i)",10 MAR 2024,1185,200-metres,sprints,male,u20
+724,20.66,+1.9,Kota UEMATSU,10 FEB 2006,JPN,1sf1,"Lemon Gas Stadium, Hiratsuka (JPN)",16 JUN 2024,1118,200-metres,sprints,male,u20
+724,20.66,,Ajani DWYER,18 MAY 2006,USA,1h7,"Fall Creek Pavilion, Indianapolis, IN (USA) (i)",28 FEB 2025,1185,200-metres,sprints,male,u20
+724,20.66,+1.4,Shemarr SESSION,26 JAN 2006,USA,1f1,"Straus Track at UNC Asheville, Asheville, NC (USA)",12 APR 2025,1118,200-metres,sprints,male,u20
+724,20.66,+1.7,Pedro AFONSO,10 JAN 2007,POR,1f3,"Complexo Municipal de Atletismo Carla Sacramento, Seixal (POR)",27 JUL 2025,1118,200-metres,sprints,male,u20
+755,20.67,,Silvio LEONARD,20 SEP 1955,CUB,1sf2,Santo Domingo (DOM),06 MAR 1974,1117,200-metres,sprints,male,u20
+755,20.67,+1.0,Johnny JONES,04 APR 1958,USA,3sf1,"Champaign, IL (USA)",04 JUN 1977,1117,200-metres,sprints,male,u20
+755,20.67,+0.4,Héctor DALEY,22 NOV 1961,PAN,4sf1,"Walnut, CA (USA)",15 JUN 1980,1117,200-metres,sprints,male,u20
+755,20.67,,Ralf LÜBKE,17 JUN 1965,FRG,1sf1,Stuttgart (GER) (i),10 FEB 1984,1184,200-metres,sprints,male,u20
+755,20.67,+0.7,Ralf LÜBKE,17 JUN 1965,FRG,4sf2,"Memorial Coliseum, Los Angeles, CA (USA)",08 AUG 1984,1117,200-metres,sprints,male,u20
+755,20.67,-0.3,Quincy WATTS,19 JUN 1970,USA,2,"Tucson, AZ (USA)",20 JUN 1987,1118,200-metres,sprints,male,u20
+755,20.67,+1.6,Quincy WATTS,19 JUN 1970,USA,1sf,"Van Nuys, CA (USA)",20 MAY 1988,1117,200-metres,sprints,male,u20
+755,20.67,+1.6,Olapade ADENIKEN,19 AUG 1969,NGR,6sf2,"Olympic Stadium, Seoul (KOR)",28 SEP 1988,1117,200-metres,sprints,male,u20
+755,20.67,0.0,Quincy WATTS,19 JUN 1970,USA,1,"Westwood, CA (USA)",29 APR 1989,1117,200-metres,sprints,male,u20
+755,20.67,+1.2,Francis OBIKWELU,22 NOV 1978,NGR,2,Andújar (ESP),05 SEP 1996,1117,200-metres,sprints,male,u20
+755,20.67,+1.2,Sherwin VRIES,22 MAR 1980,NAM,1,Windhoek (NAM),19 JUN 1999,1117,200-metres,sprints,male,u20
+755,20.67,+0.5,Leo BOOKMAN,30 JAN 1982,USA,1,"Austin, TX (USA)",13 MAY 2000,1117,200-metres,sprints,male,u20
+755,20.67,+1.3,Tim BENJAMIN,02 MAY 1982,GBR,2,Cardiff (GBR),17 JUN 2001,1117,200-metres,sprints,male,u20
+755,20.67,0.0,Usain BOLT,21 AUG 1986,JAM,1h1,Bridgetown (BAR),20 JUL 2003,1117,200-metres,sprints,male,u20
+755,20.67,+1.2,Marcus DUNCAN,04 DEC 1986,TTO,1,Coatzacoalcos (MEX),27 JUN 2004,1117,200-metres,sprints,male,u20
+755,20.67,+0.6,Scott WIMS,30 MAY 1988,USA,7h,"Lincoln, NE (USA)",12 MAY 2007,1117,200-metres,sprints,male,u20
+755,20.67,+1.8,Ramil GULIYEV,29 MAY 1990,AZE,1f2,Baku (AZE),03 JUN 2007,1117,200-metres,sprints,male,u20
+755,20.67,-0.2,Ramone MCKENZIE,15 NOV 1990,JAM,1,Ostrava (CZE),15 JUL 2007,1118,200-metres,sprints,male,u20
+755,20.67,+0.1,Robert HERING,14 JUN 1990,GER,1f3,Regensburg (GER),07 JUN 2009,1117,200-metres,sprints,male,u20
+755,20.67,+0.5,Shota IIZUKA,25 JUN 1991,JPN,1,"Croix-Bleue Medavie Stadium, Moncton (CAN)",23 JUL 2010,1117,200-metres,sprints,male,u20
+755,20.67,+0.8,Wayde VAN NIEKERK,15 JUL 1992,RSA,1,Germiston (RSA),03 APR 2011,1117,200-metres,sprints,male,u20
+755,20.67,+0.9,António RODRÍGUES,12 JAN 1993,BRA,2h3,São Paulo (BRA),06 AUG 2011,1117,200-metres,sprints,male,u20
+755,20.67,+1.7,Nicholas HOUGH,20 OCT 1993,AUS,1f1,Sydney (AUS),22 DEC 2012,1117,200-metres,sprints,male,u20
+755,20.67,+1.9,Hanoj CARTER,26 JUN 1994,USA,1f5,"Nacogdoches, TX (USA)",06 APR 2013,1117,200-metres,sprints,male,u20
+755,20.67,-1.0,Vitor Hugo DOS SANTOS,01 FEB 1996,BRA,2,Donetsk (UKR),14 JUL 2013,1123,200-metres,sprints,male,u20
+755,20.67,+1.3,Levi Asher CADOGAN,08 NOV 1995,BAR,3,Fort-de-France (FRA),21 APR 2014,1117,200-metres,sprints,male,u20
+755,20.67,+1.5,Jun YAMASHITA,23 AUG 1997,JPN,3sf1,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",21 JUL 2016,1117,200-metres,sprints,male,u20
+755,20.67,+0.6,Clarence MUNYAI,20 FEB 1998,RSA,3f1,Potchefstroom (RSA),15 MAR 2017,1117,200-metres,sprints,male,u20
+755,20.67,0.0,Kenan CHRISTON,,USA,1f1,"Escondido, CA (USA)",27 APR 2019,1117,200-metres,sprints,male,u20
+755,20.67,+1.7,Kenan CHRISTON,,USA,1h1,"Clovis, CA (USA)",24 MAY 2019,1117,200-metres,sprints,male,u20
+755,20.67,+0.8,Bryan LEVELL,23 DEC 2003,JAM,1f1,"National Stadium, Kingston (JAM)",19 JUN 2021,1117,200-metres,sprints,male,u20
+755,20.67,+0.3,Calab LAW,31 DEC 2003,AUS,1,"Queensland Sport and Athletics Centre, Nathan, Brisbane (AUS)",06 MAR 2022,1117,200-metres,sprints,male,u20
+755,20.67,-0.6,Benjamin RICHARDSON,19 DEC 2003,RSA,2,"Germiston Stadium, Johannesburg (RSA)",13 APR 2022,1120,200-metres,sprints,male,u20
+755,20.67,,Max THOMAS,24 FEB 2004,USA,1f8,"Randal Tyson Indoor Center, Fayetteville, AR (USA) (i)",17 FEB 2023,1184,200-metres,sprints,male,u20
+755,20.67,+1.4,Zachary DELLA ROCCA,03 JUN 2005,AUS,1h2,"Weaver Stadium, Princeton, NJ (USA)",04 MAY 2024,1117,200-metres,sprints,male,u20
+755,20.67,0.0,Jake ODEY-JORDAN,22 DEC 2007,GBR,1f1,"Franklin Field, Philadelphia, PA (USA)",01 JUN 2024,1117,200-metres,sprints,male,u20
+755,20.67,+0.3,Jaden WILEY,10 AUG 2006,USA,5,"Percy Beard Track, Gainesville, FL (USA)",19 JUL 2024,1117,200-metres,sprints,male,u20
+755,20.67,-0.6,Roko FARKAŠ,11 FEB 2005,CRO,7,"Sports Park Mladost, Zagreb (CRO)",08 SEP 2024,1120,200-metres,sprints,male,u20
+755,20.67,+0.7,Sbongakonke MAKHAZA,16 NOV 2006,RSA,1,"Green Point Stadium, Cape Town (RSA)",29 MAR 2025,1117,200-metres,sprints,male,u20
+755,20.67,+0.4,Alejandro CARDENAS,19 MAY 2006,MEX,1,"Centro Deportivo Olímpico Mexicano, Ciudad de México (MEX)",20 APR 2025,1117,200-metres,sprints,male,u20
+755,20.67,-0.6,Adam ŠULC,2007,CZE,1,"Mestský Stadion, Ostrava (CZE)",22 JUN 2025,1120,200-metres,sprints,male,u20
+796,20.68,0.0,Desai WILLIAMS,12 JUN 1959,CAN,1,Aarau (SUI),18 AUG 1978,1115,200-metres,sprints,male,u20
+796,20.68,,Deon HOGAN,21 MAR 1960,USA,1,"Lincoln, NE (USA)",19 MAY 1979,1115,200-metres,sprints,male,u20
+796,20.68,+0.2,Stanley BLALOCK,18 MAR 1964,USA,1,Air Force Academy (USA),19 JUL 1983,1115,200-metres,sprints,male,u20
+796,20.68,-0.1,Michael BATES,19 DEC 1969,USA,3,"Tucson, AZ (USA)",11 JUN 1988,1115,200-metres,sprints,male,u20
+796,20.68,+0.3,Daniel EFFIONG,17 JUN 1972,NGR,3h3,"National Stadium, Tokyo (JPN)",26 AUG 1991,1115,200-metres,sprints,male,u20
+796,20.68,0.0,Francis OBIKWELU,22 NOV 1978,NGR,4,St-Denis (FRA),02 JUN 1997,1115,200-metres,sprints,male,u20
+796,20.68,-0.3,Enefiok UDO-OBONG,22 MAY 1982,NGR,1,Formia (ITA),14 JUL 2001,1116,200-metres,sprints,male,u20
+796,20.68,+0.6,Jorge Célio SENA,31 JAN 1985,BRA,1,Londrina (BRA),18 MAY 2003,1115,200-metres,sprints,male,u20
+796,20.68,+0.7,Daniel SCHNELTING,09 MAR 1986,GER,3,"Wattenscheid, Bochum (GER)",03 JUL 2005,1115,200-metres,sprints,male,u20
+796,20.68,-0.1,Usain BOLT,21 AUG 1986,JAM,4sf1,"Olympiastadion, Helsinki (FIN)",10 AUG 2005,1115,200-metres,sprints,male,u20
+796,20.68,+0.2,Suppachai CHIMDEE,05 JAN 1991,THA,1,Kanchanaburi (THA),18 MAR 2009,1115,200-metres,sprints,male,u20
+796,20.68,+1.9,Christophe LEMAITRE,11 JUN 1990,FRA,2f1,Genève (SUI),06 JUN 2009,1115,200-metres,sprints,male,u20
+796,20.68,-2.4,Ramone MCKENZIE,15 NOV 1990,JAM,3,Kingston (JAM),28 JUN 2009,1129,200-metres,sprints,male,u20
+796,20.68,+0.2,Charles SILMON,04 JUL 1991,USA,1h4,"Austin, TX (USA)",28 MAY 2010,1115,200-metres,sprints,male,u20
+796,20.68,+2.0,Remontay MCCLAIN,21 SEP 1992,USA,1,"Norwalk, CA (USA)",21 MAY 2011,1115,200-metres,sprints,male,u20
+796,20.68,-1.9,Akani SIMBINE,21 SEP 1993,RSA,1,Lusaka (ZAM),12 DEC 2012,1126,200-metres,sprints,male,u20
+796,20.68,+0.6,Jonathan FARINHA,16 MAY 1996,TTO,1,Port-of-Spain (TTO),01 JUN 2014,1115,200-metres,sprints,male,u20
+796,20.68,+0.9,Elliot POWELL,05 MAR 1996,GBR,1f4,Mannheim (GER),28 JUN 2015,1115,200-metres,sprints,male,u20
+796,20.68,+0.7,Mike Mokamba NYANG'AU,28 AUG 1996,KEN,2,Heusden-Zolder (BEL),18 JUL 2015,1115,200-metres,sprints,male,u20
+796,20.68,+1.5,Zane BRANCO,04 JAN 2000,AUS,1,Sydney (AUS),18 MAR 2018,1115,200-metres,sprints,male,u20
+796,20.68,+0.1,Abdelaziz MOHAMED,20 OCT 2001,QAT,1f3,Buenos Aires (ARG),16 OCT 2018,1115,200-metres,sprints,male,u20
+796,20.68,0.0,Matthew BOLING,20 JUN 2000,USA,1f1,"Houston, TX (USA)",30 MAY 2019,1115,200-metres,sprints,male,u20
+796,20.68,,Caleb BOGER,2001,USA,1f2,"Liberty Indoor Complex, Lynchburg, VA (USA) (i)",07 MAR 2020,1182,200-metres,sprints,male,u20
+796,20.68,+0.7,Sasha ZHOYA,25 JUN 2002,FRA,2f1,"Stadium Municipal, Albi (FRA)",13 SEP 2020,1115,200-metres,sprints,male,u20
+796,20.68,+1.5,Dylan BROWN,28 FEB 2002,USA,6h3,"Cushing Stadium, College Station, TX (USA)",29 MAY 2021,1115,200-metres,sprints,male,u20
+796,20.68,-1.0,Sinesipho DAMBILE,02 MAR 2002,RSA,2h1,"Moi International Sports Centre, Kasarani, Nairobi (KEN)",20 AUG 2021,1121,200-metres,sprints,male,u20
+796,20.68,-0.1,Haibin YAN,08 JAN 2003,CHN,5,Xi'an (CHN),22 SEP 2021,1115,200-metres,sprints,male,u20
+796,20.68,+1.4,Wanya MCCOY,29 MAR 2003,BAH,1h4,"Morris Williams T&F Stadium, Durham, NC (USA)",12 MAY 2022,1115,200-metres,sprints,male,u20
+796,20.68,+1.0,Aidan MURPHY,14 OCT 2003,AUS,1f1,"Performance Centre, Gold Coast (AUS)",28 MAY 2022,1115,200-metres,sprints,male,u20
+796,20.68,-1.5,Puripol BOONSON,13 JAN 2006,THA,1h4,"Pascual Guerrero Stadium, Cali (COL)",03 AUG 2022,1124,200-metres,sprints,male,u20
+796,20.68,+1.8,Nyckoles HARBOR,05 JUL 2005,USA,5f1,"Percy Beard Track, Gainesville, FL (USA)",12 APR 2024,1115,200-metres,sprints,male,u20
+796,20.68,+1.0,Jaden WILEY,10 AUG 2006,USA,1h2,"Hayward Field, Eugene, OR (USA)",13 JUN 2024,1115,200-metres,sprints,male,u20
+796,20.68,+0.8,Junhao SHI,27 OCT 2005,CHN,2,"Kuishan Sports Center, Rizhao (CHN)",30 JUN 2024,1115,200-metres,sprints,male,u20
+796,20.68,+0.6,Justin STEWART,02 DEC 2007,USA,2,"Hayward Field, Eugene, OR (USA)",21 JUN 2025,1115,200-metres,sprints,male,u20
+796,20.68,-0.9,Pedro AFONSO,10 JAN 2007,POR,1f4,"Michael-Hoffmann-Stadion, Mannheim (GER)",29 JUN 2025,1120,200-metres,sprints,male,u20
+831,20.69,+2.0,Thomas SCHRÖDER,23 AUG 1962,GDR,1,"Atletiekbaan Overvecht, Utrecht (NED)",23 AUG 1981,1114,200-metres,sprints,male,u20
+831,20.69,+1.2,Stanley BLALOCK,18 MAR 1964,USA,2h2,"Houston, TX (USA)",01 JUN 1983,1114,200-metres,sprints,male,u20
+831,20.69,+0.6,Ralf LÜBKE,17 JUN 1965,FRG,1,Koblenz (GER),16 JUL 1983,1114,200-metres,sprints,male,u20
+831,20.69,,Ralf LÜBKE,17 JUN 1965,FRG,1,Lüdenscheid (GER),26 MAY 1984,1114,200-metres,sprints,male,u20
+831,20.69,-0.5,Atlee MAHORN,27 OCT 1965,CAN,3qf1,"Memorial Coliseum, Los Angeles, CA (USA)",06 AUG 1984,1117,200-metres,sprints,male,u20
+831,20.69,0.0,Henry THOMAS,10 JUL 1967,USA,3,Köln (GER),25 AUG 1985,1114,200-metres,sprints,male,u20
+831,20.69,+2.0,Michael MARSH,04 AUG 1967,USA,2,"Westwood, CA (USA)",19 APR 1986,1114,200-metres,sprints,male,u20
+831,20.69,+0.6,Tony WHEELER,19 JAN 1975,USA,1qf1,"Estadio Universitario, Lisboa (POR)",22 JUL 1994,1114,200-metres,sprints,male,u20
+831,20.69,+1.4,Albert AGYEMANG,04 OCT 1977,GHA,2h2,"Olympic Stadium, Atlanta, GA (USA)",31 JUL 1996,1114,200-metres,sprints,male,u20
+831,20.69,+0.5,Francis OBIKWELU,22 NOV 1978,NGR,5,"Stadio Olimpico, Roma (ITA)",05 JUN 1997,1114,200-metres,sprints,male,u20
+831,20.69,-0.5,Marcin JĘDRUSIŃSKI,28 AUG 1981,POL,2sf2,"E.Nacional, Santiago de Chile (CHI)",20 OCT 2000,1117,200-metres,sprints,male,u20
+831,20.69,+1.1,Xavier CARTER,08 DEC 1985,USA,1,"Gainesville, FL (USA)",16 MAY 2003,1114,200-metres,sprints,male,u20
+831,20.69,+1.7,Aaron COLLINS,1984,USA,2,"Lincoln, NE (USA)",31 MAY 2003,1114,200-metres,sprints,male,u20
+831,20.69,+0.8,Leigh JULIUS,25 MAR 1985,RSA,1,Potchefstroom (RSA),13 FEB 2004,1114,200-metres,sprints,male,u20
+831,20.69,,Xavier CARTER,08 DEC 1985,USA,1,"New York, NY (USA) (i)",14 MAR 2004,1181,200-metres,sprints,male,u20
+831,20.69,,LaShawn MERRITT,27 JUN 1986,USA,1,"Virginia Beach, VA (USA)",01 MAY 2004,1114,200-metres,sprints,male,u20
+831,20.69,0.0,Kelvin LOVE,18 MAY 1986,USA,2,"Tempe, AZ (USA)",16 APR 2005,1114,200-metres,sprints,male,u20
+831,20.69,+0.1,Daniel SCHNELTING,09 MAR 1986,GER,1,Mannheim (GER),19 JUN 2005,1114,200-metres,sprints,male,u20
+831,20.69,+0.3,Usain BOLT,21 AUG 1986,JAM,2sf1,Nassau (BAH),10 JUL 2005,1114,200-metres,sprints,male,u20
+831,20.69,+1.4,Alex NELSON,21 MAR 1988,GBR,1,Stoke-on-Trent (GBR),30 JUL 2005,1114,200-metres,sprints,male,u20
+831,20.69,+0.3,Willie PERRY,16 MAY 1987,USA,2,"Gainesville, FL (USA)",01 APR 2006,1114,200-metres,sprints,male,u20
+831,20.69,+1.9,Yuzo KANEMARU,18 SEP 1987,JPN,1,Yokohama (JPN),21 MAY 2006,1114,200-metres,sprints,male,u20
+831,20.69,+1.2,Tomoya KAMIYAMA,21 FEB 1988,JPN,4,Osaka (JPN),30 JUN 2007,1114,200-metres,sprints,male,u20
+831,20.69,+0.2,Joseph Obinna METU,12 JUL 1988,NGR,6,"Wattenscheid, Bochum (GER)",12 AUG 2007,1114,200-metres,sprints,male,u20
+831,20.69,+0.2,Ramone MCKENZIE,15 NOV 1990,JAM,1,Kingston (JAM),01 MAR 2008,1114,200-metres,sprints,male,u20
+831,20.69,+1.0,Ryan BAILEY,13 APR 1989,USA,3f1,"Modesto, CA (USA)",10 MAY 2008,1114,200-metres,sprints,male,u20
+831,20.69,+1.1,Marcus ROWLAND,11 MAR 1990,USA,1h5,"Gainesville, FL (USA)",15 MAY 2009,1114,200-metres,sprints,male,u20
+831,20.69,-0.2,Marcus ROWLAND,11 MAR 1990,USA,5sf2,"Fayetteville, AR (USA)",11 JUN 2009,1115,200-metres,sprints,male,u20
+831,20.69,+0.7,Roberto SKYERS,12 NOV 1991,CUB,1,La Habana (CUB),23 MAY 2010,1114,200-metres,sprints,male,u20
+831,20.69,+0.3,Diego PALOMEQUE,05 DEC 1993,COL,1f1,Medellín (COL),29 APR 2012,1114,200-metres,sprints,male,u20
+831,20.69,+1.9,David BOLARINWA,20 OCT 1993,GBR,1f3,Regensburg (GER),02 JUN 2012,1114,200-metres,sprints,male,u20
+831,20.69,-0.4,David BOLARINWA,20 OCT 1993,GBR,6,"Estadio Olímpico, Barcelona (ESP)",13 JUL 2012,1116,200-metres,sprints,male,u20
+831,20.69,0.0,Zhenye XIE,17 AUG 1993,CHN,6h4,"Olympic Stadium, London (GBR)",07 AUG 2012,1114,200-metres,sprints,male,u20
+831,20.69,+1.7,Reynier MENA,21 NOV 1996,CUB,1h2,Medellín (COL),24 AUG 2013,1114,200-metres,sprints,male,u20
+831,20.69,+1.0,Mohammad Hossein ABAREGHI,05 JAN 1995,IRI,1,Taipei City (TPE),15 JUN 2014,1114,200-metres,sprints,male,u20
+831,20.69,-0.7,Divine ODUDURU,07 OCT 1996,NGR,1h2,"Le Grand Stade, Marrakech (MAR)",13 AUG 2014,1118,200-metres,sprints,male,u20
+831,20.69,+0.3,Michael NORMAN,03 DEC 1997,USA,1f3,"Murrieta, CA (USA)",06 MAY 2015,1114,200-metres,sprints,male,u20
+831,20.69,-1.2,Tyrese COOPER,21 MAR 2000,USA,1,"Kissimmee, FL (USA)",16 JUL 2016,1121,200-metres,sprints,male,u20
+831,20.69,,Maxwell WILLIS,02 SEP 1998,USA,3f1,"College Station, TX (USA) (i)",11 MAR 2017,1181,200-metres,sprints,male,u20
+831,20.69,+0.9,Joseph FAHNBULLEH,11 SEP 2001,USA,1,"Greensboro, NC (USA)",28 JUL 2018,1114,200-metres,sprints,male,u20
+831,20.69,+1.1,Devon ACHANE,13 OCT 2001,USA,1,"Austin, TX (USA)",10 MAY 2019,1114,200-metres,sprints,male,u20
+831,20.69,+1.4,Aaron SEXTON,24 AUG 2000,IRL,1,Tullamore (IRL),01 JUN 2019,1114,200-metres,sprints,male,u20
+831,20.69,-0.4,Lance BROOME,,USA,3,"Albuquerque, NM (USA)",08 JUN 2019,1116,200-metres,sprints,male,u20
+831,20.69,+1.3,Wendell MILLER,03 JAN 2003,BAH,4sf1,"Moi International Sports Centre, Kasarani, Nairobi (KEN)",20 AUG 2021,1114,200-metres,sprints,male,u20
+831,20.69,-0.3,Blessing Akwasi AFRIFAH,26 OCT 2003,ISR,7,"Olympiastadion, München (GER)",19 AUG 2022,1115,200-metres,sprints,male,u20
+831,20.69,+0.1,Armand VAN DER WALT,04 JAN 2005,RSA,1,"Pilditch Stadium, Pretoria (RSA)",10 MAR 2023,1114,200-metres,sprints,male,u20
+831,20.69,+1.5,Malique SMITH-BAND,25 MAY 2004,JAM,1,Nassau (BAH),10 APR 2023,1114,200-metres,sprints,male,u20
+831,20.69,+0.2,Christian MILLER,16 MAY 2006,USA,1h1,"Hayward Field, Eugene, OR (USA)",09 JUL 2023,1114,200-metres,sprints,male,u20
+831,20.69,+1.4,Gout GOUT,29 DEC 2007,AUS,1f1,"Queensland Sport and Athletics Centre, Nathan, Brisbane (AUS)",27 JAN 2024,1114,200-metres,sprints,male,u20
+831,20.69,+0.7,Joseph TAYLOR,14 JAN 2006,USA,2h2,"Kentner Stadium Wake Forest University, Winston Salem, NC (USA)",15 MAY 2025,1114,200-metres,sprints,male,u20
+831,20.69,-0.7,Jaden WILEY,10 AUG 2006,USA,2pr6,"University of North Florda Jax Track at Hodges Stadium, Jacksonville, FL (USA)",28 MAY 2025,1118,200-metres,sprints,male,u20
+831,20.69,+0.6,Selepe Prince PHAEZEL,18 FEB 2006,BOT,1f7,"McArthur Stadium, Potchefstroom (RSA)",28 JUN 2025,1114,200-metres,sprints,male,u20
+831,20.69,+2.0,Jahnie LESLIE,2007,CAN,1f4,"Track and Field Centre Outdoor Track, Toronto (CAN)",06 JUL 2025,1114,200-metres,sprints,male,u20
+884,20.70,-0.2,Pascal BARRÉ,12 APR 1959,FRA,5,"Stadion Evžena Rošického, Praha (TCH)",01 SEP 1978,1113,200-metres,sprints,male,u20
+884,20.70,+0.9,Stanley BLALOCK,18 MAR 1964,USA,2h2,"Indianapolis, IN (USA)",17 JUN 1983,1112,200-metres,sprints,male,u20
+884,20.70,+0.8,Ralf LÜBKE,17 JUN 1965,FRG,1,Dormagen (GER),02 JUN 1984,1112,200-metres,sprints,male,u20
+884,20.70,+0.1,Devlon DUNN,01 APR 1967,USA,2,"Boulder, CO (USA)",18 MAY 1986,1112,200-metres,sprints,male,u20
+884,20.70,+0.9,Jon DRUMMOND,09 SEP 1968,USA,1,"Pullman, WA (USA)",19 JUL 1987,1112,200-metres,sprints,male,u20
+884,20.70,0.0,Danny MCCRAY,11 MAR 1974,USA,1,"Waco, TX (USA)",17 APR 1993,1112,200-metres,sprints,male,u20
+884,20.70,-3.0,Jermaine STAFFORD,25 DEC 1974,USA,1,"Spokane, WA (USA)",27 JUN 1993,1130,200-metres,sprints,male,u20
+884,20.70,,Erick L. WILSON,20 JAN 1982,USA,1,"Miami, FL (USA)",03 MAY 2001,1112,200-metres,sprints,male,u20
+884,20.70,+1.3,Earvin PARKER,06 APR 1984,USA,1,"Austin, TX (USA)",10 MAY 2003,1112,200-metres,sprints,male,u20
+884,20.70,0.0,Jorge Célio SENA,31 JAN 1985,BRA,3,Bridgetown (BAR),20 JUL 2003,1112,200-metres,sprints,male,u20
+884,20.70,0.0,Leigh JULIUS,25 MAR 1985,RSA,2,Pretoria (RSA),20 FEB 2004,1112,200-metres,sprints,male,u20
+884,20.70,+1.2,Jeremy DODSON,30 AUG 1987,USA,1,"Aurora, IL (USA)",21 MAY 2005,1112,200-metres,sprints,male,u20
+884,20.70,-1.0,Willie PERRY,16 MAY 1987,USA,1,"Indianapolis, IN (USA)",23 JUN 2006,1118,200-metres,sprints,male,u20
+884,20.70,+0.4,Bryan BARNETT,10 FEB 1987,CAN,1,Ottawa (CAN),06 AUG 2006,1112,200-metres,sprints,male,u20
+884,20.70,-0.2,Adam GEMILI,06 OCT 1993,GBR,1f4,"Gainesville, FL (USA)",21 APR 2012,1113,200-metres,sprints,male,u20
+884,20.70,-0.5,Julian FORTE,07 JAN 1993,JAM,6,Kingston (JAM),01 JUL 2012,1115,200-metres,sprints,male,u20
+884,20.70,+1.5,Nethaneel MITCHELL-BLAKE,02 APR 1994,GBR,1sf3,"Stadio Guidobaldi, Rieti (ITA)",20 JUL 2013,1112,200-metres,sprints,male,u20
+884,20.70,+0.8,Reece PRESCOD,29 FEB 1996,GBR,1f2,Genève (SUI),06 JUN 2015,1112,200-metres,sprints,male,u20
+884,20.70,+1.8,Ruben ELS,11 JAN 2000,RSA,5,Pretoria (RSA),17 MAR 2018,1112,200-metres,sprints,male,u20
+884,20.70,+1.5,Eric HARRISON JR.,18 FEB 1999,USA,2f1,"Knoxville, TN (USA)",13 APR 2018,1112,200-metres,sprints,male,u20
+884,20.70,-0.9,Khance MEYERS,11 JAN 1999,USA,1h1,"Ratinan Stadion, Tampere (FIN)",12 JUL 2018,1117,200-metres,sprints,male,u20
+884,20.70,-0.8,Lucas VILAR,10 MAR 2001,BRA,3,San José (CRC),20 JUL 2019,1116,200-metres,sprints,male,u20
+884,20.70,+1.4,Deandre WATKIN,09 DEC 2002,JAM,2,"National Stadium, Kingston (JAM)",08 MAR 2020,1112,200-metres,sprints,male,u20
+884,20.70,+0.1,Robert GREGORY,12 DEC 2001,USA,1f9,"Life University Track & Field Stadium, Marietta, GA (USA)",25 JUL 2020,1112,200-metres,sprints,male,u20
+884,20.70,+0.4,Johnnie BLOCKBURGER,12 JUL 2002,USA,1f1,"Univ. of Arizona Roy P. Drachman Stadium, Tucson, AZ (USA)",17 APR 2021,1112,200-metres,sprints,male,u20
+884,20.70,0.0,Sinesipho DAMBILE,02 MAR 2002,RSA,1f1,"National Heroes Stadium, Lusaka (ZAM)",16 MAY 2021,1112,200-metres,sprints,male,u20
+884,20.70,+0.4,Jakub PIETRUSA,09 FEB 2002,POL,2sf3,"Moi International Sports Centre, Kasarani, Nairobi (KEN)",20 AUG 2021,1112,200-metres,sprints,male,u20
+884,20.70,+0.8,Puripol BOONSON,13 JAN 2006,THA,1,Bangkok (THA),23 DEC 2021,1112,200-metres,sprints,male,u20
+884,20.70,+0.3,Anthony SMITH,10 SEP 2003,USA,1,"Washington University Mooberry& TF Complex, Pullman, WA (USA)",22 APR 2022,1112,200-metres,sprints,male,u20
+884,20.70,+0.7,Blessing Akwasi AFRIFAH,26 OCT 2003,ISR,1f1,"Givat Ram Stadium, Jerusalem (ISR)",27 JUN 2022,1112,200-metres,sprints,male,u20
+884,20.70,+1.7,Armand VAN DER WALT,04 JAN 2005,RSA,1sf3,"McArthur Stadium, Potchefstroom (RSA)",31 MAR 2023,1112,200-metres,sprints,male,u20
+884,20.70,+0.4,Garrett KAALUND,25 JAN 2004,USA,1f1,"Univ. of Arizona Roy P. Drachman Stadium, Tucson, AZ (USA)",08 APR 2023,1112,200-metres,sprints,male,u20
+884,20.70,+0.5,Jayden JONES,10 MAY 2005,USA,2pr6,"John McDonnell Field, Fayetteville, AR (USA)",22 MAY 2024,1112,200-metres,sprints,male,u20
+884,20.70,-0.5,Roko FARKAŠ,11 FEB 2005,CRO,1h1,"Stadio Olimpico, Roma (ITA)",09 JUN 2024,1115,200-metres,sprints,male,u20
+884,20.70,+1.3,Teddy WILSON,29 NOV 2006,GBR,1f3,"London Marathon Community Track, London (GBR)",17 AUG 2025,1112,200-metres,sprints,male,u20
+884,20.70,-0.2,Ryoutaro HAMA,30 JUN 2006,JPN,1f2,"International Stadium, Yokohama (JPN)",20 AUG 2025,1113,200-metres,sprints,male,u20
