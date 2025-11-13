@@ -21,6 +21,7 @@ Note: Datasets here were generated on: 2025-09-20
 - Notebooks: Jupyter notebooks for EDA.
 - Scripts: Contains all the scripts necessary to generate the datasets.
 
+``` 
     ├── datasets
     │   ├── all_disciplines_combined.csv
     │   ├── individual_events.csv
@@ -44,17 +45,20 @@ Note: Datasets here were generated on: 2025-09-20
     │   ├── scraper_final.py
     │   └── split_by_type.py
     └── venv
+```
 
 ### To Run
 
 Install requirements from requirements.txt:
 
-``` pip install -r requirements.txt
+``` 
+pip install -r requirements.txt
 ```
 
 Run file "run.py":
 
-``` python3 run.py
+``` 
+python3 run.py
 ```
 
 ## Athletics Performance Dataset Description
