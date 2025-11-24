@@ -14,15 +14,8 @@ Note: Datasets here were generated on: 2025-09-20
 
 ### Repo Structure
 
-- Output: Folder for the csv files created as a result of scraping
-- Combined: a folder that takes the outputs and combines them on overall discipline e.g. Shot-put and Shot-put 6kg are of the shotput discpline however their records are maintained seperately one the World Athletics Page (intermediary files)
-- Datasets: contains final datasets split by type, individual events and relay events
-- Logs: For any errors that come up while running the scripts
-- Notebooks: Jupyter notebooks for EDA.
-- Scripts: Contains all the scripts necessary to generate the datasets.
-
 ``` 
-    ├── datasets
+    ├── datasets # contains final datasets split by type, split by discipline, individual events and relay events 
     │   ├── all_disciplines_combined.csv
     │   ├── individual_events.csv
     │   ├── relay_events.csv
@@ -33,13 +26,13 @@ Note: Datasets here were generated on: 2025-09-20
     ├── logs
     │
     ├── options.json
-    ├── processing
+    ├── processing # contains inital output from scraping the website
     │   ├── combined
     │   └── output
     ├── README.md
     ├── requirements.txt
     ├── run.py
-    ├── scripts
+    ├── scripts #  Contains all the scripts necessary to generate the datasets.
     │   ├── combine.py
     │   ├── preprocessing.py
     │   ├── scraper_final.py
