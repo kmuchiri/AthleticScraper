@@ -339,8 +339,8 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 318,4.80,,Fabiana MURER,16 MAR 1981,BRA,1,"Stade Louis II, Monaco (MON)",22 JUL 2010,1208,pole-vault,jumps,female,senior
 318,4.80,,Martina STRUTZ,04 NOV 1981,GER,2,"DS, Daegu (KOR)",30 AUG 2011,1208,pole-vault,jumps,female,senior
 318,4.80,,Yelena ISINBAYEVA,03 JUN 1982,RUS,1,"Ataköy Arena, Istanbul (TUR) (i)",11 MAR 2012,1208,pole-vault,jumps,female,senior
-318,4.80,,Jennifer SUHR,05 FEB 1982,USA,1,"Allendale, MI (USA)",10 MAY 2013,1208,pole-vault,jumps,female,senior
 318,4.80,,Jennifer SUHR,05 FEB 1982,USA,1,"Allendale, MI (USA) (i)",10 MAY 2013,1208,pole-vault,jumps,female,senior
+318,4.80,,Jennifer SUHR,05 FEB 1982,USA,1,"Allendale, MI (USA)",10 MAY 2013,1208,pole-vault,jumps,female,senior
 318,4.80,,Fabiana MURER,16 MAR 1981,BRA,1,"Icahn Stadium, New York, NY (USA)",14 JUN 2014,1208,pole-vault,jumps,female,senior
 318,4.80,,Nikoleta KYRIAKOPOULOU,21 MAR 1986,GRE,1,"Barclaycard Arena, Birmingham (GBR) (i)",21 FEB 2015,1208,pole-vault,jumps,female,senior
 318,4.80,,Anzhelika SIDOROVA,28 JUN 1991,RUS,1,"O2 Arena, Praha (CZE) (i)",08 MAR 2015,1208,pole-vault,jumps,female,senior
@@ -6141,7 +6141,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 4835,4.50,,Kitty Friele FAYE,17 AUG 2002,NOR,2,"Lohrheidestadion, Wattenscheid, Bochum (GER)",25 JUL 2025,1114,pole-vault,jumps,female,senior
 4835,4.50,,Amálie ŠVÁBÍKOVÁ,22 NOV 1999,CZE,3,"Piazza Transalpina, Gorizia (ITA)",25 JUL 2025,1114,pole-vault,jumps,female,senior
 4835,4.50,,Juliana DE MENIS CAMPOS,17 OCT 1996,BRA,4,"Piazza Transalpina, Gorizia (ITA)",25 JUL 2025,1114,pole-vault,jumps,female,senior
-4835,4.50,,Elise DE JONG,08 APR 2006,NED,1f1,"Ratinan Stadion, Tampere (FIN)",10 AUG 2025,1114,pole-vault,jumps,female,senior
+4835,4.50,,Elise DE JONG,08 APR 2006,NED,1,"Ratinan Stadion, Tampere (FIN)",10 AUG 2025,1114,pole-vault,jumps,female,senior
 4835,4.50,,Elien VEKEMANS,30 APR 2001,BEL,5,"Stadion Śląski, Chorzów (POL)",15 AUG 2025,1114,pole-vault,jumps,female,senior
 4835,4.50,,Marleen MÜLLA,28 JUN 2001,EST,6,"Stadion Śląski, Chorzów (POL)",15 AUG 2025,1114,pole-vault,jumps,female,senior
 4835,4.50,,Chloe TIMBERG,24 JUN 2003,USA,7,"Stadion Śląski, Chorzów (POL)",15 AUG 2025,1114,pole-vault,jumps,female,senior
@@ -10790,7 +10790,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 8621,4.40,,Marleen MÜLLA,28 JUN 2001,EST,1,"Kadrioru staadion, Tallinn (EST)",03 AUG 2025,1083,pole-vault,jumps,female,senior
 8621,4.40,,Yuge DAI,06 SEP 2002,CHN,1,"Sports Center, Quzhou (CHN)",04 AUG 2025,1083,pole-vault,jumps,female,senior
 8621,4.40,,Chenyao SHE,21 AUG 2000,CHN,2,"Sports Center, Quzhou (CHN)",04 AUG 2025,1083,pole-vault,jumps,female,senior
-8621,4.40,,Marijn KIEFT,29 AUG 2006,NED,2f1,"Ratinan Stadion, Tampere (FIN)",10 AUG 2025,1083,pole-vault,jumps,female,senior
+8621,4.40,,Marijn KIEFT,29 AUG 2006,NED,2,"Ratinan Stadion, Tampere (FIN)",10 AUG 2025,1083,pole-vault,jumps,female,senior
 8621,4.40,,Sydney HORN,26 JUL 2002,USA,4,"Untere Rheinwerft / Rheinuferpromenade, Düsseldorf (GER)",10 AUG 2025,1083,pole-vault,jumps,female,senior
 8621,4.40,,Pascale STÖCKLIN,05 FEB 1997,SUI,5,"Untere Rheinwerft / Rheinuferpromenade, Düsseldorf (GER)",10 AUG 2025,1083,pole-vault,jumps,female,senior
 8621,4.40,,Gabriela LEON,17 JUN 1999,USA,9,"Stadion Śląski, Chorzów (POL)",15 AUG 2025,1083,pole-vault,jumps,female,senior
@@ -12985,7 +12985,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 11562,4.35,,Natalie HOOPER,07 FEB 1998,GBR,2,"Alexander Stadium, Birmingham (GBR)",02 AUG 2025,1068,pole-vault,jumps,female,senior
 11562,4.35,,Anicka NEWELL,05 AUG 1993,CAN,2,"Terry Fox AF, Ottawa (CAN)",03 AUG 2025,1068,pole-vault,jumps,female,senior
 11562,4.35,,Saga ANDERSSON,30 MAR 2000,FIN,1,"Sollentunavallen, Sollentuna (SWE)",09 AUG 2025,1068,pole-vault,jumps,female,senior
-11562,4.35,,Apolena ŠVÁBÍKOVÁ,14 MAY 2006,CZE,3f1,"Ratinan Stadion, Tampere (FIN)",10 AUG 2025,1068,pole-vault,jumps,female,senior
+11562,4.35,,Apolena ŠVÁBÍKOVÁ,14 MAY 2006,CZE,3,"Ratinan Stadion, Tampere (FIN)",10 AUG 2025,1068,pole-vault,jumps,female,senior
 11562,4.35,,Aksana GATAULLINA,17 JUL 2000,RUS,4,"Central Stadium, Kazan (RUS)",10 AUG 2025,1068,pole-vault,jumps,female,senior
 11562,4.35,,Renata TIMOFEYEVA,12 SEP 2002,RUS,5,"Central Stadium, Kazan (RUS)",10 AUG 2025,1068,pole-vault,jumps,female,senior
 11562,4.35,,Angelica MOSER,09 OCT 1997,SUI,1,"Stade Olympique de la Pontaise, Lausanne (SUI)",20 AUG 2025,1068,pole-vault,jumps,female,senior
@@ -17672,8 +17672,8 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 14451,4.30,,Zixuan ZHANG,27 MAR 2006,CHN,3,"Sports Center, Quzhou (CHN)",04 AUG 2025,1052,pole-vault,jumps,female,senior
 14451,4.30,,Huiqin XU,04 SEP 1993,CHN,4,"Sports Center, Quzhou (CHN)",04 AUG 2025,1052,pole-vault,jumps,female,senior
 14451,4.30,,Maryna KYLYPKO,10 NOV 1995,UKR,1,"Stadion SKIF, Lviv (UKR)",09 AUG 2025,1052,pole-vault,jumps,female,senior
-14451,4.30,,Allika Inkeri MOSER,27 MAR 2008,EST,4f1,"Ratinan Stadion, Tampere (FIN)",10 AUG 2025,1052,pole-vault,jumps,female,senior
-14451,4.30,,Kajsa ROTH,07 MAR 2006,SWE,5f1,"Ratinan Stadion, Tampere (FIN)",10 AUG 2025,1052,pole-vault,jumps,female,senior
+14451,4.30,,Allika Inkeri MOSER,27 MAR 2008,EST,4,"Ratinan Stadion, Tampere (FIN)",10 AUG 2025,1052,pole-vault,jumps,female,senior
+14451,4.30,,Kajsa ROTH,07 MAR 2006,SWE,5,"Ratinan Stadion, Tampere (FIN)",10 AUG 2025,1052,pole-vault,jumps,female,senior
 14451,4.30,,Berenice PETIT,23 NOV 1998,FRA,6,"Untere Rheinwerft / Rheinuferpromenade, Düsseldorf (GER)",10 AUG 2025,1052,pole-vault,jumps,female,senior
 14451,4.30,,Friedelinde PETERSHOFEN,19 AUG 1995,GER,7,"Untere Rheinwerft / Rheinuferpromenade, Düsseldorf (GER)",10 AUG 2025,1052,pole-vault,jumps,female,senior
 14451,4.30,,Keni MIAO,05 AUG 2008,CHN,1,"Olympic Center, Shenyang (CHN)",11 AUG 2025,1052,pole-vault,jumps,female,senior
@@ -19719,8 +19719,8 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 18821,4.25,,Joana KRAFT,27 JUL 1991,GER,2,Bönnigheim (GER),09 MAY 2013,1037,pole-vault,jumps,female,senior
 18821,4.25,,Janice KEPPLER,22 MAR 1987,USA,2,"Allendale, MI (USA)",10 MAY 2013,1037,pole-vault,jumps,female,senior
 18821,4.25,,Janice KEPPLER,22 MAR 1987,USA,2,"Allendale, MI (USA) (i)",10 MAY 2013,1037,pole-vault,jumps,female,senior
-18821,4.25,,Kristen HIXSON,01 JUL 1992,USA,3,"Allendale, MI (USA)",10 MAY 2013,1037,pole-vault,jumps,female,senior
 18821,4.25,,Kristen HIXSON,01 JUL 1992,USA,3,"Allendale, MI (USA) (i)",10 MAY 2013,1037,pole-vault,jumps,female,senior
+18821,4.25,,Kristen HIXSON,01 JUL 1992,USA,3,"Allendale, MI (USA)",10 MAY 2013,1037,pole-vault,jumps,female,senior
 18821,4.25,,Robeilys PEINADO,26 NOV 1997,VEN,1,Barinas (VEN),10 MAY 2013,1037,pole-vault,jumps,female,senior
 18821,4.25,,Annika ROLOFF,10 MAR 1991,GER,1,Holzminden (GER),18 MAY 2013,1037,pole-vault,jumps,female,senior
 18821,4.25,,Sally PEAKE,08 FEB 1986,GBR,2,Loughborough (GBR),19 MAY 2013,1037,pole-vault,jumps,female,senior
@@ -27175,3 +27175,5 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 22584,4.20,,Nikola PÖSCHLOVÁ,10 SEP 1998,CZE,1,"Atletický stadion za parkem Vyškov, Vyškov (CZE)",07 SEP 2025,1021,pole-vault,jumps,female,senior
 22584,4.20,,Sora MURATA,30 APR 2004,JPN,1,"Athletic Stadium, Hikone (JPN)",05 OCT 2025,1021,pole-vault,jumps,female,senior
 22584,4.20,,Akari OSAKAYA,10 APR 2002,JPN,2,"Athletic Stadium, Hikone (JPN)",05 OCT 2025,1021,pole-vault,jumps,female,senior
+22584,4.20,,Elyssia KENSHOLE,12 AUG 2003,AUS,1,"Lakeside Stadium, Melbourne (AUS)",20 NOV 2025,1021,pole-vault,jumps,female,senior
+22584,4.20,,Daisy BRAYSHAW,20 JUL 2008,AUS,1,"WA Athletics Stadium, Perth (AUS)",21 NOV 2025,1021,pole-vault,jumps,female,senior

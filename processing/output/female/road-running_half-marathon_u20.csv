@@ -2,120 +2,121 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 1,1:06:47,,Degitu AZIMERAW,24 JAN 1999,ETH,6,Ras Al Khaimah (UAE),09 FEB 2018,1197,half-marathon,road-running,female,u20
 2,1:07:05,,Phena YEGO,23 JUN 2006,KEN,6,Copenhagen (DEN),14 SEP 2025,1190,half-marathon,road-running,female,u20
 3,1:07:06,,Meaza ASEFA,21 NOV 2006,ETH,6,Meishan (CHN),23 FEB 2025,1190,half-marathon,road-running,female,u20
-4,1:07:21,,Melal SIYOUM,2006,ETH,2,New Delhi (IND),12 OCT 2025,1185,half-marathon,road-running,female,u20
+4,1:07:21,,Melal SIYOUM,01 JUN 2006,ETH,2,New Delhi (IND),12 OCT 2025,1185,half-marathon,road-running,female,u20
 5,1:07:26,,Beriha GEBRESLASIE,03 JUN 2006,ETH,7,Meishan (CHN),23 FEB 2025,1183,half-marathon,road-running,female,u20
 6,1:07:44,,Bertukan WELDE,10 MAY 2004,ETH,1,"Adi-Dassler-Straße 1, Herzogenaurach (GER)",29 APR 2023,1177,half-marathon,road-running,female,u20
 7,1:07:45,,Aynadis MEBRATU,25 NOV 2004,ETH,4,Herzogenaurach (GER),30 APR 2022,1176,half-marathon,road-running,female,u20
 7,1:07:45,,Sewareg HAYMANOT,29 JAN 2006,ETH,9,Meishan (CHN),23 FEB 2025,1176,half-marathon,road-running,female,u20
 9,1:07:51,,Meseret BELETE,16 SEP 1999,ETH,8,København (DEN),16 SEP 2018,1174,half-marathon,road-running,female,u20
 10,1:07:57,,Abebu GELAN,18 JAN 1990,ETH,4,Ras Al Khaimah (UAE),20 FEB 2009,1172,half-marathon,road-running,female,u20
-11,1:08:09,,Meseret BELETE,16 SEP 1999,ETH,6,Valencia (ESP),24 MAR 2018,1168,half-marathon,road-running,female,u20
-12,1:08:10,,Debash DESTA,11 MAY 2005,ETH,4,Roma (ITA),20 OCT 2024,1168,half-marathon,road-running,female,u20
-13,1:08:12,,Chaltu DIDA,05 DEC 2006,ETH,2,Lisboa (POR),26 OCT 2025,1167,half-marathon,road-running,female,u20
-14,1:08:17,,Lucy CHERUIYOT,04 JAN 1997,KEN,2,Ústí nad Labem (CZE),17 SEP 2016,1165,half-marathon,road-running,female,u20
-15,1:08:21,,Valentine KIPKETER,05 JAN 1993,KEN,1,Lille (FRA),03 SEP 2011,1164,half-marathon,road-running,female,u20
-16,1:08:25,,Alem NIGUSSIE,2002,ETH,6,New Delhi (IND),20 OCT 2019,1162,half-marathon,road-running,female,u20
-17,1:08:36,,Merima MOHAMMED,10 JUN 1992,ETH,2,New Delhi (IND),21 NOV 2010,1159,half-marathon,road-running,female,u20
-18,1:08:37,,Senayet GETACHEW,01 OCT 2005,ETH,1,Porto (POR),18 SEP 2022,1158,half-marathon,road-running,female,u20
-18,1:08:37,,Chaltu DIDA,05 DEC 2006,ETH,7,Lisboa (POR),09 MAR 2025,1158,half-marathon,road-running,female,u20
-20,1:08:45,,Aynadis MEBRATU,25 NOV 2004,ETH,4,Praha (CZE),01 APR 2023,1155,half-marathon,road-running,female,u20
-21,1:08:50,,Beriha GEBRESLASIE,03 JUN 2006,ETH,5,New Delhi (IND),12 OCT 2025,1154,half-marathon,road-running,female,u20
-22,1:08:53,,Anchinalu DESSIE,09 JAN 2003,ETH,2,Azpeitia (ESP),26 MAR 2022,1153,half-marathon,road-running,female,u20
-23,1:08:58,,Yalemget YAREGAL,23 OCT 2003,ETH,1,Fes (MAR),20 NOV 2022,1151,half-marathon,road-running,female,u20
-24,1:09:03,,Aynadis MEBRATU,25 NOV 2004,ETH,2,Lisboa (POR),08 OCT 2023,1149,half-marathon,road-running,female,u20
-25,1:09:05,,Delillah ASIAGO,24 FEB 1972,KEN,1,Exeter (GBR),05 MAY 1991,1149,half-marathon,road-running,female,u20
-26,1:09:06,,Valentine KIPKETER,05 JAN 1993,KEN,8,New Delhi (IND),27 NOV 2011,1148,half-marathon,road-running,female,u20
-26,1:09:06,,Meseret BELETE,16 SEP 1999,ETH,1,Göteborg (SWE),19 MAY 2018,1148,half-marathon,road-running,female,u20
-28,1:09:10,,Muliye DEKEBO,13 MAR 1998,ETH,5,Ostia (ITA),12 MAR 2017,1147,half-marathon,road-running,female,u20
-29,1:09:22,,Muluhabt TSEGA,22 DEC 1997,ETH,3,Istanbul (TUR),26 APR 2015,1143,half-marathon,road-running,female,u20
-30,1:09:25,,Alemtsehay MEKURIA,16 OCT 2005,ETH,4,Fes (MAR),20 NOV 2022,1142,half-marathon,road-running,female,u20
-31,1:09:29,,Aynadis MEBRATU,25 NOV 2004,ETH,3,Azpeitia (ESP),26 MAR 2022,1140,half-marathon,road-running,female,u20
-32,1:09:36,,Beriha GEBRESLASIE,03 JUN 2006,ETH,3,Beijing (CHN),20 APR 2025,1138,half-marathon,road-running,female,u20
-33,1:09:37,,Senayet GETACHEW,01 OCT 2005,ETH,3,Lisboa (POR),08 OCT 2023,1138,half-marathon,road-running,female,u20
-34,1:09:39,,Aynadis MEBRATU,25 NOV 2004,ETH,2,Porto (POR),18 SEP 2022,1137,half-marathon,road-running,female,u20
-35,1:09:40,,Selam FENTE,28 JAN 2003,ETH,5,Gqeberha (RSA),04 JUN 2022,1136,half-marathon,road-running,female,u20
-36,1:09:45,,Meseret MENGISTU,06 MAR 1990,ETH,1,Reims (FRA),18 OCT 2009,1135,half-marathon,road-running,female,u20
-36,1:09:45,,Reia IWADE,08 DEC 1994,JPN,4,Okayama (JPN),23 DEC 2013,1135,half-marathon,road-running,female,u20
-36,1:09:45,,Brenda JEPCHIRCHIR,10 JUL 2005,KEN,2,Mainz (GER),05 MAY 2024,1135,half-marathon,road-running,female,u20
-39,1:09:46,,Muliye DEKEBO,13 MAR 1998,ETH,6,"Houston, TX (USA)",15 JAN 2017,1134,half-marathon,road-running,female,u20
-40,1:09:51,,Muliye DEKEBO,13 MAR 1998,ETH,1,Lugano (SUI),22 MAY 2016,1133,half-marathon,road-running,female,u20
-41,1:09:53,,Degitu AZIMERAW,24 JAN 1999,ETH,1,Gifu (JPN),22 APR 2018,1132,half-marathon,road-running,female,u20
-41,1:09:53,,Anchinalu DESSIE,09 JAN 2003,ETH,8,New Delhi (IND),16 OCT 2022,1132,half-marathon,road-running,female,u20
-43,1:09:55,,Azmera ABREHA,31 JAN 1998,ETH,2,Rabat (MAR),13 MAR 2016,1131,half-marathon,road-running,female,u20
-44,1:09:57,,Tadu TESHOME,09 JUN 2001,ETH,12,Ras Al Khaimah (UAE),21 FEB 2020,1131,half-marathon,road-running,female,u20
-45,1:09:58,,Anchinalu DESSIE,09 JAN 2003,ETH,3,Trento (ITA),02 OCT 2022,1130,half-marathon,road-running,female,u20
-46,1:10:00,,Birhan MHRETU,13 MAR 1999,ETH,7,Valencia (ESP),22 OCT 2017,1130,half-marathon,road-running,female,u20
-47,1:10:05,,Hiromi FUJII,07 FEB 1983,JPN,5,Yamaguchi (JPN),10 MAR 2002,1128,half-marathon,road-running,female,u20
-48,1:10:06,,Gorreti JEPKOECH,07 MAR 1994,KEN,1,Udine (ITA),22 SEP 2013,1128,half-marathon,road-running,female,u20
-49,1:10:07,,Muliye DEKEBO,13 MAR 1998,ETH,5,Istanbul (TUR),30 APR 2017,1127,half-marathon,road-running,female,u20
-50,1:10:08,,Mame FEYISA,10 JUN 1996,ETH,12,København (DEN),29 MAR 2014,1127,half-marathon,road-running,female,u20
-51,1:10:09,,Lineth CHEPKURUI,23 FEB 1987,KEN,1,"Philadelphia, PA (USA)",17 SEP 2006,1127,half-marathon,road-running,female,u20
-52,1:10:12,,Valentine KIPKETER,05 JAN 1993,KEN,1,Berlin (GER),03 APR 2011,1126,half-marathon,road-running,female,u20
-53,1:10:17,,Beatrice WAINAINA,23 NOV 1993,KEN,3,Okayama (JPN),23 DEC 2012,1124,half-marathon,road-running,female,u20
-54,1:10:18,,Natasha PHILLIPS,01 MAR 2005,GBR,19,Valencia (ESP),27 OCT 2024,1123,half-marathon,road-running,female,u20
-55,1:10:20,,Gutene SHANKO,2005,ETH,2,Padova (ITA),21 APR 2024,1123,half-marathon,road-running,female,u20
-56,1:10:21,,Tadu TESHOME,09 JUN 2001,ETH,1,Port Elizabeth (RSA),27 JUL 2019,1122,half-marathon,road-running,female,u20
-57,1:10:26,,Birhan MHRETU,13 MAR 1999,ETH,2,Warszawa (POL),25 MAR 2018,1121,half-marathon,road-running,female,u20
-58,1:10:27,,Senayet GETACHEW,01 OCT 2005,ETH,3,"Boston, MA (USA)",10 NOV 2024,1120,half-marathon,road-running,female,u20
-59,1:10:28,,Mare DIBABA,20 OCT 1989,ETH,8,New Delhi (IND),09 NOV 2008,1120,half-marathon,road-running,female,u20
-60,1:10:30,,Tsegereda GIRMA,31 MAY 1995,ETH,2,Den Haag (NED),13 MAR 2011,1119,half-marathon,road-running,female,u20
-60,1:10:30,,Melknat WUDU,03 JAN 2005,ETH,5,"Boston, MA (USA)",10 NOV 2024,1119,half-marathon,road-running,female,u20
-62,1:10:32,,Mare DIBABA,20 OCT 1989,ETH,2,Udine (ITA),28 SEP 2008,1119,half-marathon,road-running,female,u20
-62,1:10:32,,Gorreti JEPKOECH,07 MAR 1994,KEN,4,Paris (FRA),03 MAR 2013,1119,half-marathon,road-running,female,u20
-62,1:10:32,,Mebrat GIDEY,11 MAR 2005,ETH,6,"Boston, MA (USA)",10 NOV 2024,1119,half-marathon,road-running,female,u20
-65,1:10:35,,Ines CHENONGE,01 FEB 1982,KEN,1,Aveiro (POR),01 DEC 2001,1118,half-marathon,road-running,female,u20
-65,1:10:35,,Meseret MENGISTU,06 MAR 1990,ETH,1,Cassis (FRA),25 OCT 2009,1118,half-marathon,road-running,female,u20
-67,1:10:40,,Pauline MUTWA THITU,04 JUL 1990,KEN,2,Pune (IND),06 DEC 2009,1116,half-marathon,road-running,female,u20
-68,1:10:43,,Melat Yisak KEJETA,27 SEP 1992,ETH,5,Rabat (MAR),03 APR 2011,1115,half-marathon,road-running,female,u20
-69,1:10:44,,Mebrat GIDEY,11 MAR 2005,ETH,1,"Benjamin Franklin Parkway, Philadelphia, PA (USA)",23 NOV 2024,1115,half-marathon,road-running,female,u20
-70,1:10:45,,Tsige HAILESLASE,21 SEP 2000,ETH,1,Laayoune (MAR),04 NOV 2018,1114,half-marathon,road-running,female,u20
-71,1:10:46,,Yumiko HARA,09 JAN 1982,JPN,2,Nagoya (JPN),23 NOV 2001,1114,half-marathon,road-running,female,u20
-71,1:10:46,,Hitomi MIYAI,18 MAR 1985,JPN,2,Marugame (JPN),01 FEB 2004,1114,half-marathon,road-running,female,u20
-71,1:10:46,,Merima MOHAMMED,10 JUN 1992,ETH,10,New Delhi (IND),27 NOV 2011,1114,half-marathon,road-running,female,u20
-74,1:10:47,,Eveline Kemunto KIMWEI,25 AUG 1987,KEN,1,Okayama (JPN),23 DEC 2005,1114,half-marathon,road-running,female,u20
-75,1:10:48,,Yuka HATA,03 FEB 1979,JPN,5,Tokyo (JPN),25 JAN 1998,1113,half-marathon,road-running,female,u20
-76,1:10:52,,Maeregu HAYELOM,20 MAY 1999,ETH,3,Warszawa (POL),25 MAR 2018,1112,half-marathon,road-running,female,u20
-76,1:10:52,,Tiruye MESFIN,11 SEP 2002,ETH,1,Elche (ESP),10 OCT 2021,1112,half-marathon,road-running,female,u20
-78,1:10:53,,Megumi TERADA,1985,JPN,2,Kyoto (JPN),14 MAR 2004,1112,half-marathon,road-running,female,u20
-79,1:10:54,,Esther Wanjiru MAINA,27 MAR 1977,KEN,3,Sapporo (JPN),07 JUL 1996,1111,half-marathon,road-running,female,u20
-79,1:10:54,,Valentine KIPKETER,05 JAN 1993,KEN,2,Zwolle (NED),18 JUN 2011,1111,half-marathon,road-running,female,u20
-79,1:10:54,,Beriha GEBRESLASIE,03 JUN 2006,ETH,8,Yangzhou (CHN),30 MAR 2025,1111,half-marathon,road-running,female,u20
-82,1:10:56,,Eveline Kemunto KIMWEI,25 AUG 1987,KEN,2,Okayama (JPN),23 DEC 2006,1111,half-marathon,road-running,female,u20
-82,1:10:56,,Sichala KUMESHI,19 JUN 1995,ETH,2,Karlovy Vary (CZE),24 MAY 2014,1111,half-marathon,road-running,female,u20
-84,1:10:59,,Abebu GELAN,18 JAN 1990,ETH,6,Rio de Janeiro (BRA),12 OCT 2008,1110,half-marathon,road-running,female,u20
-85,1:11:01,,Yingying ZHANG,04 JAN 1990,CHN,1,Yangzhou (CHN),26 APR 2009,1109,half-marathon,road-running,female,u20
-85,1:11:01,,Tsegereda GIRMA,31 MAY 1995,ETH,1,Orevault (FRA),11 MAR 2012,1109,half-marathon,road-running,female,u20
-85,1:11:01,,Debash DESTA,11 MAY 2005,ETH,9,Lisboa (POR),21 NOV 2021,1109,half-marathon,road-running,female,u20
-88,1:11:03,,Furtuna ZEGERGISH,1989,ERI,21,Udine (ITA),14 OCT 2007,1108,half-marathon,road-running,female,u20
-88,1:11:03,,Shure DEMISE,21 JAN 1996,ETH,3,Rabat (MAR),07 APR 2013,1108,half-marathon,road-running,female,u20
-90,1:11:04,,Tsegereda GIRMA,31 MAY 1995,ETH,1,Azpeitia (ESP),24 MAR 2013,1108,half-marathon,road-running,female,u20
-91,1:11:09,,Nancy NZISA,29 DEC 1995,KEN,1,Pune (IND),07 DEC 2014,1106,half-marathon,road-running,female,u20
-91,1:11:09,,Dolshi TESFU,17 JUN 1999,ERI,20,Valencia (ESP),24 MAR 2018,1106,half-marathon,road-running,female,u20
-93,1:11:10,,Muliye DEKEBO,13 MAR 1998,ETH,1,Nice (FRA),24 APR 2016,1106,half-marathon,road-running,female,u20
-93,1:11:10,,Muliye DEKEBO,13 MAR 1998,ETH,2,Tamesna (MAR),08 OCT 2017,1106,half-marathon,road-running,female,u20
-95,1:11:12,,Nozomi IIJIMA,17 MAR 1984,JPN,1,Matsue (JPN),16 MAR 2003,1105,half-marathon,road-running,female,u20
-96,1:11:14,,Yoko SHIBUI,14 MAR 1979,JPN,6,Tokyo (JPN),25 JAN 1998,1104,half-marathon,road-running,female,u20
-96,1:11:14,,Tigist GETNET,09 JAN 2003,ETH,2,Elche (ESP),10 OCT 2021,1104,half-marathon,road-running,female,u20
-98,1:11:15,,Teyba ERKESSO,30 OCT 1982,ETH,20,Bristol (GBR),07 OCT 2001,1104,half-marathon,road-running,female,u20
-98,1:11:15,,Abebech AFEWORK,11 DEC 1990,ETH,3,Udine (ITA),27 SEP 2009,1104,half-marathon,road-running,female,u20
-98,1:11:15,,Hawi BEHARU,26 JAN 2006,ETH,2,Breda (NED),05 OCT 2025,1104,half-marathon,road-running,female,u20
-101,1:11:16,,Kazue OGOSHI,02 MAR 1981,JPN,2,Marugame (JPN),06 FEB 2000,1104,half-marathon,road-running,female,u20
-102,1:11:17,,Lucy CHERUIYOT,04 JAN 1997,KEN,1,Casablanca (MAR),15 MAY 2016,1103,half-marathon,road-running,female,u20
-102,1:11:17,,Lelise WAKWEYA,2005,ETH,4,Mainz (GER),05 MAY 2024,1103,half-marathon,road-running,female,u20
-104,1:11:18,,Yurika NAKAMURA,01 APR 1986,JPN,3,Okayama (JPN),23 DEC 2005,1103,half-marathon,road-running,female,u20
-105,1:11:20,,Ayaka FUJIMOTO,08 JUL 1997,JPN,3,Okayama (JPN),23 DEC 2016,1102,half-marathon,road-running,female,u20
-105,1:11:20,,Obse ABDETA,07 SEP 2000,ETH,4,Madrid (ESP),07 APR 2019,1102,half-marathon,road-running,female,u20
-105,1:11:20,,Natasha PHILLIPS,01 MAR 2005,GBR,6,Larne (GBR),27 AUG 2023,1102,half-marathon,road-running,female,u20
-108,1:11:22,,Shure DEMISE,21 JAN 1996,ETH,2,Warszawa (POL),30 MAR 2014,1102,half-marathon,road-running,female,u20
-109,1:11:23,,Nami MATSUDA,08 FEB 1987,JPN,2,Matsue (JPN),19 MAR 2006,1101,half-marathon,road-running,female,u20
-109,1:11:23,,Shewarge ALENE,09 DEC 1994,ETH,1,Guadalajara (MEX),20 FEB 2011,1101,half-marathon,road-running,female,u20
-111,1:11:24,,Mare DIBABA,20 OCT 1989,ETH,1,Warszawa (POL),30 MAR 2008,1101,half-marathon,road-running,female,u20
-111,1:11:24,,Maryem Hanna DINGO,1990,ETH,2,Trabzon (TUR),22 FEB 2009,1101,half-marathon,road-running,female,u20
-113,1:11:26,,Jackline TORORI,22 AUG 1978,KEN,1,Lille (FRA),06 SEP 1997,1100,half-marathon,road-running,female,u20
-113,1:11:26,,Xueqin WANG,01 JAN 1991,CHN,1f1,Xiamen (CHN),03 JAN 2009,1100,half-marathon,road-running,female,u20
-113,1:11:26,,Maki IZUMIDA,22 JAN 1996,JPN,6,Matsue (JPN),15 MAR 2015,1100,half-marathon,road-running,female,u20
-116,1:11:27,,Naoko TANAKA,23 MAR 1977,JPN,5,Yamaguchi (JPN),17 MAR 1996,1100,half-marathon,road-running,female,u20
-116,1:11:27,,Xiaoxue SONG,13 FEB 1987,CHN,1,Jinzhou (CHN),03 SEP 2006,1100,half-marathon,road-running,female,u20
-116,1:11:27,,Layes ABDULLAYEVA,29 MAY 1991,AZE,13,New Delhi (IND),01 NOV 2009,1100,half-marathon,road-running,female,u20
-119,1:11:29,,Azalech MASRESHA,04 MAY 1988,ETH,1,Reims (FRA),21 OCT 2007,1099,half-marathon,road-running,female,u20
-120,1:11:30,,Kei TERADA,27 MAR 1985,JPN,2,Kumagaya (JPN),28 OCT 2004,1099,half-marathon,road-running,female,u20
+11,1:08:08,,Wudinesh ALEMU,23 JAN 2007,ETH,3,Cardiff (GBR),05 OCT 2025,1168,half-marathon,road-running,female,u20
+12,1:08:09,,Meseret BELETE,16 SEP 1999,ETH,6,Valencia (ESP),24 MAR 2018,1168,half-marathon,road-running,female,u20
+13,1:08:10,,Debash DESTA,11 MAY 2005,ETH,4,Roma (ITA),20 OCT 2024,1168,half-marathon,road-running,female,u20
+14,1:08:12,,Chaltu DIDA,05 DEC 2006,ETH,2,Lisboa (POR),26 OCT 2025,1167,half-marathon,road-running,female,u20
+15,1:08:17,,Lucy CHERUIYOT,04 JAN 1997,KEN,2,Ústí nad Labem (CZE),17 SEP 2016,1165,half-marathon,road-running,female,u20
+16,1:08:21,,Valentine KIPKETER,05 JAN 1993,KEN,1,Lille (FRA),03 SEP 2011,1164,half-marathon,road-running,female,u20
+17,1:08:25,,Alem NIGUSSIE,2002,ETH,6,New Delhi (IND),20 OCT 2019,1162,half-marathon,road-running,female,u20
+18,1:08:36,,Merima MOHAMMED,10 JUN 1992,ETH,2,New Delhi (IND),21 NOV 2010,1159,half-marathon,road-running,female,u20
+19,1:08:37,,Senayet GETACHEW,01 OCT 2005,ETH,1,Porto (POR),18 SEP 2022,1158,half-marathon,road-running,female,u20
+19,1:08:37,,Chaltu DIDA,05 DEC 2006,ETH,7,Lisboa (POR),09 MAR 2025,1158,half-marathon,road-running,female,u20
+21,1:08:45,,Aynadis MEBRATU,25 NOV 2004,ETH,4,Praha (CZE),01 APR 2023,1155,half-marathon,road-running,female,u20
+22,1:08:50,,Beriha GEBRESLASIE,03 JUN 2006,ETH,5,New Delhi (IND),12 OCT 2025,1154,half-marathon,road-running,female,u20
+23,1:08:53,,Anchinalu DESSIE,09 JAN 2003,ETH,2,Azpeitia (ESP),26 MAR 2022,1153,half-marathon,road-running,female,u20
+24,1:08:58,,Yalemget YAREGAL,23 OCT 2003,ETH,1,Fes (MAR),20 NOV 2022,1151,half-marathon,road-running,female,u20
+25,1:09:03,,Aynadis MEBRATU,25 NOV 2004,ETH,2,Lisboa (POR),08 OCT 2023,1149,half-marathon,road-running,female,u20
+26,1:09:05,,Delillah ASIAGO,24 FEB 1972,KEN,1,Exeter (GBR),05 MAY 1991,1149,half-marathon,road-running,female,u20
+27,1:09:06,,Valentine KIPKETER,05 JAN 1993,KEN,8,New Delhi (IND),27 NOV 2011,1148,half-marathon,road-running,female,u20
+27,1:09:06,,Meseret BELETE,16 SEP 1999,ETH,1,Göteborg (SWE),19 MAY 2018,1148,half-marathon,road-running,female,u20
+29,1:09:10,,Muliye DEKEBO,13 MAR 1998,ETH,5,Ostia (ITA),12 MAR 2017,1147,half-marathon,road-running,female,u20
+30,1:09:22,,Muluhabt TSEGA,22 DEC 1997,ETH,3,Istanbul (TUR),26 APR 2015,1143,half-marathon,road-running,female,u20
+31,1:09:25,,Alemtsehay MEKURIA,16 OCT 2005,ETH,4,Fes (MAR),20 NOV 2022,1142,half-marathon,road-running,female,u20
+32,1:09:29,,Aynadis MEBRATU,25 NOV 2004,ETH,3,Azpeitia (ESP),26 MAR 2022,1140,half-marathon,road-running,female,u20
+33,1:09:36,,Beriha GEBRESLASIE,03 JUN 2006,ETH,3,Beijing (CHN),20 APR 2025,1138,half-marathon,road-running,female,u20
+34,1:09:37,,Senayet GETACHEW,01 OCT 2005,ETH,3,Lisboa (POR),08 OCT 2023,1138,half-marathon,road-running,female,u20
+35,1:09:39,,Aynadis MEBRATU,25 NOV 2004,ETH,2,Porto (POR),18 SEP 2022,1137,half-marathon,road-running,female,u20
+36,1:09:40,,Selam FENTE,28 JAN 2003,ETH,5,Gqeberha (RSA),04 JUN 2022,1136,half-marathon,road-running,female,u20
+37,1:09:45,,Meseret MENGISTU,06 MAR 1990,ETH,1,Reims (FRA),18 OCT 2009,1135,half-marathon,road-running,female,u20
+37,1:09:45,,Reia IWADE,08 DEC 1994,JPN,4,Okayama (JPN),23 DEC 2013,1135,half-marathon,road-running,female,u20
+37,1:09:45,,Brenda JEPCHIRCHIR,10 JUL 2005,KEN,2,Mainz (GER),05 MAY 2024,1135,half-marathon,road-running,female,u20
+40,1:09:46,,Muliye DEKEBO,13 MAR 1998,ETH,6,"Houston, TX (USA)",15 JAN 2017,1134,half-marathon,road-running,female,u20
+41,1:09:51,,Muliye DEKEBO,13 MAR 1998,ETH,1,Lugano (SUI),22 MAY 2016,1133,half-marathon,road-running,female,u20
+42,1:09:53,,Degitu AZIMERAW,24 JAN 1999,ETH,1,Gifu (JPN),22 APR 2018,1132,half-marathon,road-running,female,u20
+42,1:09:53,,Anchinalu DESSIE,09 JAN 2003,ETH,8,New Delhi (IND),16 OCT 2022,1132,half-marathon,road-running,female,u20
+44,1:09:55,,Azmera ABREHA,31 JAN 1998,ETH,2,Rabat (MAR),13 MAR 2016,1131,half-marathon,road-running,female,u20
+45,1:09:57,,Tadu TESHOME,09 JUN 2001,ETH,12,Ras Al Khaimah (UAE),21 FEB 2020,1131,half-marathon,road-running,female,u20
+46,1:09:58,,Anchinalu DESSIE,09 JAN 2003,ETH,3,Trento (ITA),02 OCT 2022,1130,half-marathon,road-running,female,u20
+47,1:10:00,,Birhan MHRETU,13 MAR 1999,ETH,7,Valencia (ESP),22 OCT 2017,1130,half-marathon,road-running,female,u20
+48,1:10:05,,Hiromi FUJII,07 FEB 1983,JPN,5,Yamaguchi (JPN),10 MAR 2002,1128,half-marathon,road-running,female,u20
+49,1:10:06,,Gorreti JEPKOECH,07 MAR 1994,KEN,1,Udine (ITA),22 SEP 2013,1128,half-marathon,road-running,female,u20
+50,1:10:07,,Muliye DEKEBO,13 MAR 1998,ETH,5,Istanbul (TUR),30 APR 2017,1127,half-marathon,road-running,female,u20
+51,1:10:08,,Mame FEYISA,10 JUN 1996,ETH,12,København (DEN),29 MAR 2014,1127,half-marathon,road-running,female,u20
+52,1:10:09,,Lineth CHEPKURUI,23 FEB 1987,KEN,1,"Philadelphia, PA (USA)",17 SEP 2006,1127,half-marathon,road-running,female,u20
+53,1:10:12,,Valentine KIPKETER,05 JAN 1993,KEN,1,Berlin (GER),03 APR 2011,1126,half-marathon,road-running,female,u20
+54,1:10:17,,Beatrice WAINAINA,23 NOV 1993,KEN,3,Okayama (JPN),23 DEC 2012,1124,half-marathon,road-running,female,u20
+55,1:10:18,,Natasha PHILLIPS,01 MAR 2005,GBR,19,Valencia (ESP),27 OCT 2024,1123,half-marathon,road-running,female,u20
+56,1:10:20,,Gutene SHANKO,2005,ETH,2,Padova (ITA),21 APR 2024,1123,half-marathon,road-running,female,u20
+57,1:10:21,,Tadu TESHOME,09 JUN 2001,ETH,1,Port Elizabeth (RSA),27 JUL 2019,1122,half-marathon,road-running,female,u20
+58,1:10:26,,Birhan MHRETU,13 MAR 1999,ETH,2,Warszawa (POL),25 MAR 2018,1121,half-marathon,road-running,female,u20
+59,1:10:27,,Senayet GETACHEW,01 OCT 2005,ETH,3,"Boston, MA (USA)",10 NOV 2024,1120,half-marathon,road-running,female,u20
+60,1:10:28,,Mare DIBABA,20 OCT 1989,ETH,8,New Delhi (IND),09 NOV 2008,1120,half-marathon,road-running,female,u20
+61,1:10:30,,Tsegereda GIRMA,31 MAY 1995,ETH,2,Den Haag (NED),13 MAR 2011,1119,half-marathon,road-running,female,u20
+61,1:10:30,,Melknat WUDU,03 JAN 2005,ETH,5,"Boston, MA (USA)",10 NOV 2024,1119,half-marathon,road-running,female,u20
+63,1:10:32,,Mare DIBABA,20 OCT 1989,ETH,2,Udine (ITA),28 SEP 2008,1119,half-marathon,road-running,female,u20
+63,1:10:32,,Gorreti JEPKOECH,07 MAR 1994,KEN,4,Paris (FRA),03 MAR 2013,1119,half-marathon,road-running,female,u20
+63,1:10:32,,Mebrat GIDEY,11 MAR 2005,ETH,6,"Boston, MA (USA)",10 NOV 2024,1119,half-marathon,road-running,female,u20
+66,1:10:35,,Ines CHENONGE,01 FEB 1982,KEN,1,Aveiro (POR),01 DEC 2001,1118,half-marathon,road-running,female,u20
+66,1:10:35,,Meseret MENGISTU,06 MAR 1990,ETH,1,Cassis (FRA),25 OCT 2009,1118,half-marathon,road-running,female,u20
+68,1:10:40,,Pauline MUTWA THITU,04 JUL 1990,KEN,2,Pune (IND),06 DEC 2009,1116,half-marathon,road-running,female,u20
+69,1:10:43,,Melat Yisak KEJETA,27 SEP 1992,ETH,5,Rabat (MAR),03 APR 2011,1115,half-marathon,road-running,female,u20
+70,1:10:44,,Mebrat GIDEY,11 MAR 2005,ETH,1,"Benjamin Franklin Parkway, Philadelphia, PA (USA)",23 NOV 2024,1115,half-marathon,road-running,female,u20
+71,1:10:45,,Tsige HAILESLASE,21 SEP 2000,ETH,1,Laayoune (MAR),04 NOV 2018,1114,half-marathon,road-running,female,u20
+72,1:10:46,,Yumiko HARA,09 JAN 1982,JPN,2,Nagoya (JPN),23 NOV 2001,1114,half-marathon,road-running,female,u20
+72,1:10:46,,Hitomi MIYAI,18 MAR 1985,JPN,2,Marugame (JPN),01 FEB 2004,1114,half-marathon,road-running,female,u20
+72,1:10:46,,Merima MOHAMMED,10 JUN 1992,ETH,10,New Delhi (IND),27 NOV 2011,1114,half-marathon,road-running,female,u20
+75,1:10:47,,Eveline Kemunto KIMWEI,25 AUG 1987,KEN,1,Okayama (JPN),23 DEC 2005,1114,half-marathon,road-running,female,u20
+76,1:10:48,,Yuka HATA,03 FEB 1979,JPN,5,Tokyo (JPN),25 JAN 1998,1113,half-marathon,road-running,female,u20
+77,1:10:52,,Maeregu HAYELOM,20 MAY 1999,ETH,3,Warszawa (POL),25 MAR 2018,1112,half-marathon,road-running,female,u20
+77,1:10:52,,Tiruye MESFIN,11 SEP 2002,ETH,1,Elche (ESP),10 OCT 2021,1112,half-marathon,road-running,female,u20
+79,1:10:53,,Megumi TERADA,1985,JPN,2,Kyoto (JPN),14 MAR 2004,1112,half-marathon,road-running,female,u20
+80,1:10:54,,Esther Wanjiru MAINA,27 MAR 1977,KEN,3,Sapporo (JPN),07 JUL 1996,1111,half-marathon,road-running,female,u20
+80,1:10:54,,Valentine KIPKETER,05 JAN 1993,KEN,2,Zwolle (NED),18 JUN 2011,1111,half-marathon,road-running,female,u20
+80,1:10:54,,Beriha GEBRESLASIE,03 JUN 2006,ETH,8,Yangzhou (CHN),30 MAR 2025,1111,half-marathon,road-running,female,u20
+83,1:10:56,,Eveline Kemunto KIMWEI,25 AUG 1987,KEN,2,Okayama (JPN),23 DEC 2006,1111,half-marathon,road-running,female,u20
+83,1:10:56,,Sichala KUMESHI,19 JUN 1995,ETH,2,Karlovy Vary (CZE),24 MAY 2014,1111,half-marathon,road-running,female,u20
+85,1:10:59,,Abebu GELAN,18 JAN 1990,ETH,6,Rio de Janeiro (BRA),12 OCT 2008,1110,half-marathon,road-running,female,u20
+86,1:11:01,,Yingying ZHANG,04 JAN 1990,CHN,1,Yangzhou (CHN),26 APR 2009,1109,half-marathon,road-running,female,u20
+86,1:11:01,,Tsegereda GIRMA,31 MAY 1995,ETH,1,Orevault (FRA),11 MAR 2012,1109,half-marathon,road-running,female,u20
+86,1:11:01,,Debash DESTA,11 MAY 2005,ETH,9,Lisboa (POR),21 NOV 2021,1109,half-marathon,road-running,female,u20
+89,1:11:03,,Furtuna ZEGERGISH,1989,ERI,21,Udine (ITA),14 OCT 2007,1108,half-marathon,road-running,female,u20
+89,1:11:03,,Shure DEMISE,21 JAN 1996,ETH,3,Rabat (MAR),07 APR 2013,1108,half-marathon,road-running,female,u20
+91,1:11:04,,Tsegereda GIRMA,31 MAY 1995,ETH,1,Azpeitia (ESP),24 MAR 2013,1108,half-marathon,road-running,female,u20
+92,1:11:09,,Nancy NZISA,29 DEC 1995,KEN,1,Pune (IND),07 DEC 2014,1106,half-marathon,road-running,female,u20
+92,1:11:09,,Dolshi TESFU,17 JUN 1999,ERI,20,Valencia (ESP),24 MAR 2018,1106,half-marathon,road-running,female,u20
+94,1:11:10,,Muliye DEKEBO,13 MAR 1998,ETH,1,Nice (FRA),24 APR 2016,1106,half-marathon,road-running,female,u20
+94,1:11:10,,Muliye DEKEBO,13 MAR 1998,ETH,2,Tamesna (MAR),08 OCT 2017,1106,half-marathon,road-running,female,u20
+96,1:11:12,,Nozomi IIJIMA,17 MAR 1984,JPN,1,Matsue (JPN),16 MAR 2003,1105,half-marathon,road-running,female,u20
+97,1:11:14,,Yoko SHIBUI,14 MAR 1979,JPN,6,Tokyo (JPN),25 JAN 1998,1104,half-marathon,road-running,female,u20
+97,1:11:14,,Tigist GETNET,09 JAN 2003,ETH,2,Elche (ESP),10 OCT 2021,1104,half-marathon,road-running,female,u20
+99,1:11:15,,Teyba ERKESSO,30 OCT 1982,ETH,20,Bristol (GBR),07 OCT 2001,1104,half-marathon,road-running,female,u20
+99,1:11:15,,Abebech AFEWORK,11 DEC 1990,ETH,3,Udine (ITA),27 SEP 2009,1104,half-marathon,road-running,female,u20
+99,1:11:15,,Hawi BEHARU,26 JAN 2006,ETH,2,Breda (NED),05 OCT 2025,1104,half-marathon,road-running,female,u20
+102,1:11:16,,Kazue OGOSHI,02 MAR 1981,JPN,2,Marugame (JPN),06 FEB 2000,1104,half-marathon,road-running,female,u20
+103,1:11:17,,Lucy CHERUIYOT,04 JAN 1997,KEN,1,Casablanca (MAR),15 MAY 2016,1103,half-marathon,road-running,female,u20
+103,1:11:17,,Lelise WAKWEYA,2005,ETH,4,Mainz (GER),05 MAY 2024,1103,half-marathon,road-running,female,u20
+105,1:11:18,,Yurika NAKAMURA,01 APR 1986,JPN,3,Okayama (JPN),23 DEC 2005,1103,half-marathon,road-running,female,u20
+106,1:11:20,,Ayaka FUJIMOTO,08 JUL 1997,JPN,3,Okayama (JPN),23 DEC 2016,1102,half-marathon,road-running,female,u20
+106,1:11:20,,Obse ABDETA,07 SEP 2000,ETH,4,Madrid (ESP),07 APR 2019,1102,half-marathon,road-running,female,u20
+106,1:11:20,,Natasha PHILLIPS,01 MAR 2005,GBR,6,Larne (GBR),27 AUG 2023,1102,half-marathon,road-running,female,u20
+109,1:11:22,,Shure DEMISE,21 JAN 1996,ETH,2,Warszawa (POL),30 MAR 2014,1102,half-marathon,road-running,female,u20
+110,1:11:23,,Nami MATSUDA,08 FEB 1987,JPN,2,Matsue (JPN),19 MAR 2006,1101,half-marathon,road-running,female,u20
+110,1:11:23,,Shewarge ALENE,09 DEC 1994,ETH,1,Guadalajara (MEX),20 FEB 2011,1101,half-marathon,road-running,female,u20
+112,1:11:24,,Mare DIBABA,20 OCT 1989,ETH,1,Warszawa (POL),30 MAR 2008,1101,half-marathon,road-running,female,u20
+112,1:11:24,,Maryem Hanna DINGO,1990,ETH,2,Trabzon (TUR),22 FEB 2009,1101,half-marathon,road-running,female,u20
+114,1:11:26,,Jackline TORORI,22 AUG 1978,KEN,1,Lille (FRA),06 SEP 1997,1100,half-marathon,road-running,female,u20
+114,1:11:26,,Xueqin WANG,01 JAN 1991,CHN,1f1,Xiamen (CHN),03 JAN 2009,1100,half-marathon,road-running,female,u20
+114,1:11:26,,Maki IZUMIDA,22 JAN 1996,JPN,6,Matsue (JPN),15 MAR 2015,1100,half-marathon,road-running,female,u20
+117,1:11:27,,Naoko TANAKA,23 MAR 1977,JPN,5,Yamaguchi (JPN),17 MAR 1996,1100,half-marathon,road-running,female,u20
+117,1:11:27,,Xiaoxue SONG,13 FEB 1987,CHN,1,Jinzhou (CHN),03 SEP 2006,1100,half-marathon,road-running,female,u20
+117,1:11:27,,Layes ABDULLAYEVA,29 MAY 1991,AZE,13,New Delhi (IND),01 NOV 2009,1100,half-marathon,road-running,female,u20
+120,1:11:29,,Azalech MASRESHA,04 MAY 1988,ETH,1,Reims (FRA),21 OCT 2007,1099,half-marathon,road-running,female,u20
+121,1:11:30,,Kei TERADA,27 MAR 1985,JPN,2,Kumagaya (JPN),28 OCT 2004,1099,half-marathon,road-running,female,u20

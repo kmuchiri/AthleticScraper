@@ -54,274 +54,276 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 53,27:26.12,,Sileshi SIHINE,29 JAN 1983,ETH,9,Bruxelles (BEL),30 AUG 2002,1185,10000-metres,middlelong,male,u20
 54,27:26.20,,Aron KIFLE,20 FEB 1998,ERI,1,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",19 JUL 2016,1184,10000-metres,middlelong,male,u20
 55,27:26.29,,Bernard Kiprop KIPYEGO,16 JUL 1986,KEN,8,"Boudewijnstadion, Bruxelles (BEL)",26 AUG 2005,1184,10000-metres,middlelong,male,u20
-56,27:26.68,,Jacob KIPLIMO,14 NOV 2000,UGA,2,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",19 JUL 2016,1184,10000-metres,middlelong,male,u20
-57,27:27.04,,Aron KIFLE,20 FEB 1998,ERI,1,Leiden (NED),11 JUN 2016,1183,10000-metres,middlelong,male,u20
-58,27:27.51,,Richard ETIR,12 DEC 2003,KEN,1f5,"NITTAIDAI Athletic Stadium, Yokohama (JPN)",12 NOV 2022,1182,10000-metres,middlelong,male,u20
-59,27:27.57,,Hunegnaw MESFIN,31 JAN 1989,ETH,5f1,Neerpelt (BEL),31 MAY 2008,1182,10000-metres,middlelong,male,u20
-59,27:27.57,,Joshua CHEPTEGEI,12 SEP 1996,UGA,8,"Hayward Field, Eugene, OR (USA)",29 MAY 2015,1182,10000-metres,middlelong,male,u20
-61,27:27.87,,Elijah KORIR,15 APR 1978,KEN,5,Bruxelles (BEL),22 AUG 1997,1182,10000-metres,middlelong,male,u20
-62,27:28.50,,Keita SATOH,22 JAN 2004,JPN,11f7,"Kamiyugi Park Athletic Stadium, Hachioji (JPN)",25 NOV 2023,1181,10000-metres,middlelong,male,u20
-63,27:28.60,,Julius GITAHI,29 APR 1978,KEN,1,Konosu (JPN),05 OCT 1996,1181,10000-metres,middlelong,male,u20
-64,27:28.67,,Patrick Mutunga MWIKYA,20 NOV 1994,KEN,1,Tajimi (JPN),14 OCT 2013,1181,10000-metres,middlelong,male,u20
-65,27:28.69,,John KARIUKI,10 NOV 1986,KEN,4,Kobe (JPN),24 APR 2005,1181,10000-metres,middlelong,male,u20
-66,27:28.82,,Abera ERTIBAN,13 MAR 1988,ETH,5,Neerpelt (BEL),02 JUN 2007,1180,10000-metres,middlelong,male,u20
-67,27:29.92,,Nelson MANDELA,30 DEC 2004,KEN,2f5,"NITTAIDAI Athletic Stadium, Yokohama (JPN)",12 NOV 2022,1179,10000-metres,middlelong,male,u20
-68,27:30.23,,John Cheruiyot KORIR,13 DEC 1981,KEN,1,"Stadion Rošický, Praha (CZE)",05 JUN 2000,1178,10000-metres,middlelong,male,u20
-69,27:30.25,,Jacob KIPLIMO,14 NOV 2000,UGA,3,Gold Coast (AUS),13 APR 2018,1178,10000-metres,middlelong,male,u20
-70,27:30.46,,Boki DIRIBA,25 FEB 2004,ETH,6,"Estadio Enrique Lopez Cuenca, Nerja (ESP)",23 JUN 2023,1178,10000-metres,middlelong,male,u20
-71,27:30.66,,Moses MOSOP,07 JUL 1985,KEN,5,Ostrava (CZE),08 JUN 2004,1177,10000-metres,middlelong,male,u20
-72,27:30.85,,Josphat Kipkoech BETT,12 JUN 1990,KEN,1,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",09 JUL 2008,1177,10000-metres,middlelong,male,u20
-73,27:30.88,,Haftu TEKLU,21 JAN 2000,ETH,2,Nijmegen (NED),15 JUN 2019,1177,10000-metres,middlelong,male,u20
-74,27:31.08,,Rogers KIBET,26 MAR 2003,UGA,9,"FBK Stadium, Hengelo (NED)",05 JUN 2022,1177,10000-metres,middlelong,male,u20
-75,27:31.65,,Titus Kipjumba MBISHEI,28 OCT 1990,KEN,2,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",09 JUL 2008,1176,10000-metres,middlelong,male,u20
-76,27:31.83,,Benard Kibet KOECH,25 NOV 1999,KEN,4f7,Machida (JPN),24 NOV 2018,1176,10000-metres,middlelong,male,u20
-77,27:32.18,,David CHELULE,07 JUL 1977,KEN,2,Bratislava (SVK),29 MAY 1996,1175,10000-metres,middlelong,male,u20
-78,27:32.43,,Samuel Kamau WANJIRU,10 NOV 1986,KEN,5,Kobe (JPN),24 APR 2005,1175,10000-metres,middlelong,male,u20
-79,27:32.48,,Assefa MEZGEBU,19 JUN 1978,ETH,5,"Olympic Stadium, Athina (GRE)",06 AUG 1997,1175,10000-metres,middlelong,male,u20
-80,27:32.51,,Yeneblo BIYAZEN,29 JAN 2000,ETH,1f6,"Hosei University Stadium, Machida (JPN)",25 NOV 2017,1175,10000-metres,middlelong,male,u20
-81,27:32.60,,Tilahun REGASSA,18 JAN 1990,ETH,7f1,Neerpelt (BEL),31 MAY 2008,1174,10000-metres,middlelong,male,u20
-82,27:32.63,,Fabiano Joseph NAASI,24 DEC 1985,TAN,14,"Boudewijnstadion, Bruxelles (BEL)",05 SEP 2003,1174,10000-metres,middlelong,male,u20
-83,27:32.81,,Fabiano Joseph NAASI,24 DEC 1985,TAN,1,Watford (GBR),05 JUL 2003,1174,10000-metres,middlelong,male,u20
-84,27:33.13,,Leonard BARSOTON,21 OCT 1994,KEN,1f1,Fukagawa (JPN),29 JUN 2013,1174,10000-metres,middlelong,male,u20
-85,27:33.14,,Patrick MWAKA,02 NOV 1992,KEN,3,Fukuroi (JPN),15 OCT 2011,1174,10000-metres,middlelong,male,u20
-86,27:33.38,,Jeremiah KAREMI,07 JUL 1994,KEN,2f1,Fukagawa (JPN),29 JUN 2013,1173,10000-metres,middlelong,male,u20
-87,27:33.76,,Edwin KIPSAISAK,16 MAR 2005,KEN,9f6,"Kamiyugi Park Athletic Stadium, Hachioji (JPN)",23 NOV 2024,1173,10000-metres,middlelong,male,u20
-88,27:34.04,,Richard CHELIMO,21 APR 1972,KEN,1,Koblenz (GER),11 SEP 1991,1172,10000-metres,middlelong,male,u20
-89,27:35.07,,Richard ETIR,12 DEC 2003,KEN,3f7,"NITTAIDAI Athletic Stadium, Yokohama (JPN)",04 JUN 2022,1171,10000-metres,middlelong,male,u20
-90,27:35.29,,Philip MULUWA,03 MAR 2002,KEN,7f6,"Kamiyugi Park Athletic Stadium, Hachioji (JPN)",27 NOV 2021,1170,10000-metres,middlelong,male,u20
-91,27:35.55,,Samuel Muturi MUGO,02 MAY 1986,KEN,6,Kobe (JPN),24 APR 2005,1170,10000-metres,middlelong,male,u20
-92,27:35.85,,Patrick KIMELI,22 APR 1989,KEN,8,Neerpelt (BEL),02 JUN 2007,1169,10000-metres,middlelong,male,u20
-93,27:36.34,,Abadi HADIS,06 NOV 1997,ETH,15,"Estádio Olímpico, Rio de Janeiro (BRA)",13 AUG 2016,1169,10000-metres,middlelong,male,u20
-94,27:36.37,,Samwel Chebolei MASAI,20 MAR 2001,KEN,3f8,"Kamiyugi Park Athletic Stadium, Hachioji (JPN)",21 NOV 2020,1169,10000-metres,middlelong,male,u20
-95,27:36.50,,Simon MAINA MUNYI,18 MAR 1978,KEN,1,Tokyo (JPN),30 NOV 1997,1168,10000-metres,middlelong,male,u20
-96,27:36.78,,Francis KIPROP,25 DEC 1984,KEN,11,Bruxelles (BEL),30 AUG 2002,1168,10000-metres,middlelong,male,u20
-97,27:37.72,,Jonathan Muia NDIKU,18 SEP 1991,KEN,3f6,Yokohama (JPN),24 OCT 2009,1166,10000-metres,middlelong,male,u20
-98,27:37.87,,Robert Kipkorir KIPCHUMBA,24 FEB 1984,KEN,3,"Stadion Rošický, Praha (CZE)",18 JUN 2001,1166,10000-metres,middlelong,male,u20
-99,27:38.05,,Muthoni MUIRU,27 MAR 1998,KEN,3f6,"Hosei University Stadium, Machida (JPN)",25 NOV 2017,1166,10000-metres,middlelong,male,u20
-100,27:38.13,,Tilahun REGASSA,18 JAN 1990,ETH,2,Villeneuve d'Ascq (FRA),30 JUN 2009,1166,10000-metres,middlelong,male,u20
-101,27:38.18,,Joseph KAMATHI,23 NOV 1996,KEN,4f3,Yamaguchi (JPN),10 OCT 2014,1166,10000-metres,middlelong,male,u20
-102,27:38.86,,John Cheruiyot KORIR,13 DEC 1981,KEN,2,"Stadion Rošický, Praha (CZE)",14 JUN 1999,1165,10000-metres,middlelong,male,u20
-103,27:39.34,,Samuel Kamau WANJIRU,10 NOV 1986,KEN,1,Fukagawa (JPN),29 JUN 2005,1164,10000-metres,middlelong,male,u20
-104,27:39.41,,Richard CHELIMO,21 APR 1972,KEN,2,"National Stadium, Tokyo (JPN)",26 AUG 1991,1164,10000-metres,middlelong,male,u20
-105,27:40.08,,Philemon KEMEI CHERUIYOT,12 FEB 1982,KEN,2,Rovereto (ITA),30 AUG 2000,1163,10000-metres,middlelong,male,u20
-106,27:40.19,,Samuel Muturi MUGO,02 MAY 1986,KEN,3,Shizuoka (JPN),03 MAY 2005,1163,10000-metres,middlelong,male,u20
-107,27:40.36,,Jacob KIPLIMO,14 NOV 2000,UGA,2,"Ratinan Stadion, Tampere (FIN)",10 JUL 2018,1162,10000-metres,middlelong,male,u20
-108,27:40.44,,Patrick Mutunga MWIKYA,20 NOV 1994,KEN,1,Kobe (JPN),21 APR 2013,1162,10000-metres,middlelong,male,u20
-109,27:40.64,,Awash Habtamu FIKADU,13 MAR 1988,ETH,9,"Boudewijnstadion, Bruxelles (BEL)",14 SEP 2007,1162,10000-metres,middlelong,male,u20
-110,27:40.94,,James Mwangi MURIGI,15 JUL 1986,KEN,1,Maebashi (JPN),09 OCT 2005,1161,10000-metres,middlelong,male,u20
-111,27:41.09,,Martin Irungu MATHATHI,25 DEC 1985,KEN,1,Tottori (JPN),05 JUN 2004,1161,10000-metres,middlelong,male,u20
-112,27:41.12,,Wesley LEDAMA,02 JUL 1999,KEN,6f7,Machida (JPN),24 NOV 2018,1161,10000-metres,middlelong,male,u20
-113,27:41.52,,Stephen MUTHINI,20 JUL 2005,KEN,2f2,"National Stadium, Tokyo (JPN)",09 MAY 2024,1160,10000-metres,middlelong,male,u20
-114,27:41.64,,Samuel Kamau WANJIRU,10 NOV 1986,KEN,,Tokyo (JPN),05 JUN 2005,1160,10000-metres,middlelong,male,u20
-115,27:41.70,,Anthony KIBE,27 MAR 2003,KEN,1f2,"Municipal Stadium, Miyoshi (JPN)",01 OCT 2022,1160,10000-metres,middlelong,male,u20
-116,27:41.79,,Bereket ZELEKE,07 NOV 2004,ETH,7,"Parliament Hill Fields Athletics Track, London (GBR)",20 MAY 2023,1160,10000-metres,middlelong,male,u20
-117,27:42.75,,Salim KIPSANG,22 DEC 1979,KEN,10,Bruxelles (BEL),28 AUG 1998,1159,10000-metres,middlelong,male,u20
-118,27:42.99,,Kiprono SITONIK,10 NOV 2001,KEN,5f8,"Kamiyugi Park Athletic Stadium, Hachioji (JPN)",21 NOV 2020,1158,10000-metres,middlelong,male,u20
-119,27:43.12,,Gebregziabher GEBREMARIAM,12 OCT 1984,ETH,2,Abuja (NGR),12 OCT 2003,1158,10000-metres,middlelong,male,u20
-120,27:43.14,,Robert Kipkorir KIPCHUMBA,24 FEB 1984,KEN,3,Rovereto (ITA),30 AUG 2000,1158,10000-metres,middlelong,male,u20
-121,27:43.16,,Martin Irungu MATHATHI,25 DEC 1985,KEN,1,Shizuoka (JPN),11 OCT 2003,1158,10000-metres,middlelong,male,u20
-122,27:43.40,,Martin Irungu MATHATHI,25 DEC 1985,KEN,1,Niigata (JPN),22 MAY 2004,1158,10000-metres,middlelong,male,u20
-123,27:43.65,,Yeneblo BIYAZEN,29 JAN 2000,ETH,1,Maia (POR),02 JUN 2018,1157,10000-metres,middlelong,male,u20
-124,27:43.85,,Rodgers KWEMOI,03 MAR 1998,KEN,3,Kobe (JPN),24 APR 2016,1157,10000-metres,middlelong,male,u20
-125,27:44.12,,Girma ASSEFA,20 JUN 1986,ETH,1,Hachioji (JPN),30 NOV 2005,1156,10000-metres,middlelong,male,u20
-126,27:44.49,,Julius GITAHI,29 APR 1978,KEN,1,Kobe (JPN),20 APR 1997,1156,10000-metres,middlelong,male,u20
-127,27:44.86,,James Gitahi RUNGARU,14 JAN 1993,KEN,2f1,Fukagawa (JPN),25 JUN 2011,1155,10000-metres,middlelong,male,u20
-127,27:44.86,,Sonata NAGASHIMA,17 JUN 2004,JPN,1,"NITTAIDAI Athletic Stadium, Yokohama (JPN)",02 DEC 2023,1155,10000-metres,middlelong,male,u20
-129,27:44.92,,Stephen MUTHINI,20 JUL 2005,KEN,1f1,"Athletic Track, Abashiri (JPN)",10 JUL 2024,1155,10000-metres,middlelong,male,u20
-130,27:45.02,,Julius GITAHI,29 APR 1978,KEN,1,Tokyo (JPN),04 OCT 1997,1155,10000-metres,middlelong,male,u20
-131,27:45.14,,Girma ASSEFA,20 JUN 1986,ETH,4,Shizuoka (JPN),03 MAY 2005,1155,10000-metres,middlelong,male,u20
-132,27:45.22,,Rodgers KWEMOI,03 MAR 1998,KEN,1f2,Gifu (JPN),17 OCT 2015,1155,10000-metres,middlelong,male,u20
-133,27:45.27,,Samuel MWANGI,19 SEP 1997,KEN,9f7,Hachioji (JPN),26 NOV 2016,1155,10000-metres,middlelong,male,u20
-134,27:45.31,,Joel MWAURA,20 JAN 1999,KEN,1f2,Osaka (JPN),22 SEP 2018,1155,10000-metres,middlelong,male,u20
-135,27:45.37,,Joel MWAURA,20 JAN 1999,KEN,5f2,Osaka (JPN),23 SEP 2017,1154,10000-metres,middlelong,male,u20
-136,27:45.87,,Philemon Kiplagat RUTO,20 SEP 2001,KEN,7f8,"Kamiyugi Park Athletic Stadium, Hachioji (JPN)",21 NOV 2020,1154,10000-metres,middlelong,male,u20
-137,27:46.10,,Josphat Muchiri NDAMBIRI,12 FEB 1985,KEN,1,Shizuoka (JPN),03 MAY 2004,1153,10000-metres,middlelong,male,u20
-138,27:46.38,,Chimdessa DEBELE,13 SEP 2003,ETH,10,"FBK Stadium, Hengelo (NED)",05 JUN 2022,1153,10000-metres,middlelong,male,u20
-139,27:46.47,,John KARIUKI,10 NOV 1986,KEN,3,Niigata (JPN),22 MAY 2004,1153,10000-metres,middlelong,male,u20
-140,27:46.50,,Teklemariam MEDHIN,24 JUN 1989,ERI,3f1,St-Maur (FRA),06 JUN 2008,1153,10000-metres,middlelong,male,u20
-141,27:46.61,,Moses MOSOP,07 JUL 1985,KEN,7,"Olympic Stadium, Athina (GRE)",20 AUG 2004,1153,10000-metres,middlelong,male,u20
-142,27:46.67,,Philemon Kiplagat RUTO,20 SEP 2001,KEN,2f3,Tajimi (JPN),09 OCT 2020,1152,10000-metres,middlelong,male,u20
-143,27:46.97,,Feyisa LILESA,01 FEB 1990,ETH,3,Pergine Valsugana (ITA),12 JUL 2008,1152,10000-metres,middlelong,male,u20
-144,27:47.30,,Stephen MUTHINI,20 JUL 2005,KEN,14f6,"Kamiyugi Park Athletic Stadium, Hachioji (JPN)",23 NOV 2024,1151,10000-metres,middlelong,male,u20
-145,27:47.59,,Samuel Muturi MUGO,02 MAY 1986,KEN,2,Maebashi (JPN),09 OCT 2005,1151,10000-metres,middlelong,male,u20
-146,27:47.76,,Vincent Kibet YEGON,05 DEC 2000,KEN,2f6,"Hosei University Stadium, Machida (JPN)",23 NOV 2019,1151,10000-metres,middlelong,male,u20
-147,27:47.88,,Emile HAFASHIMANA,01 MAR 2005,BDI,17,"Parliament Hill Fields Athletics Track, London (GBR)",18 MAY 2024,1151,10000-metres,middlelong,male,u20
-148,27:48.03,,Samuel NDUNGU,04 APR 1988,KEN,3,Fukuroi (JPN),14 OCT 2007,1150,10000-metres,middlelong,male,u20
-149,27:48.34,,Alene Emere RETA,25 JUN 1982,ETH,3,"Stadion Rošický, Praha (CZE)",05 JUN 2000,1150,10000-metres,middlelong,male,u20
-150,27:48.40,,Micah NJERU,05 AUG 1988,KEN,4,Fukuroi (JPN),14 OCT 2007,1150,10000-metres,middlelong,male,u20
-151,27:48.41,,Berihu AREGAWI,28 FEB 2001,ETH,3,"Ratinan Stadion, Tampere (FIN)",10 JUL 2018,1150,10000-metres,middlelong,male,u20
-152,27:48.42,,John Cheruiyot KORIR,13 DEC 1981,KEN,1,Nairobi (KEN),22 JUL 2000,1150,10000-metres,middlelong,male,u20
-153,27:48.55,,William Malel SITONIK,01 MAR 1994,KEN,1f12,Yokohama (JPN),28 SEP 2013,1150,10000-metres,middlelong,male,u20
-154,27:48.86,,Martin Irungu MATHATHI,25 DEC 1985,KEN,2,Kobe (JPN),20 APR 2003,1149,10000-metres,middlelong,male,u20
-155,27:48.87,,Cleophas Kandie MEYAN,14 AUG 2000,KEN,5f6,"Hosei University Stadium, Machida (JPN)",23 NOV 2019,1149,10000-metres,middlelong,male,u20
-156,27:48.89,,Joshua CHEPTEGEI,12 SEP 1996,UGA,9,"National Stadium, Beijing (CHN)",22 AUG 2015,1149,10000-metres,middlelong,male,u20
-157,27:49.46,,Joseph KAMATHI,23 NOV 1996,KEN,6f1,Fukagawa (JPN),09 JUL 2015,1148,10000-metres,middlelong,male,u20
-158,27:49.6h,,Rhonex KIPRUTO,12 OCT 1999,KEN,1,Nairobi (KEN),11 JUN 2018,1148,10000-metres,middlelong,male,u20
-159,27:49.70,,Rodgers KWEMOI,03 MAR 1998,KEN,10f7,Hachioji (JPN),28 NOV 2015,1148,10000-metres,middlelong,male,u20
-160,27:49.73,,John KARIUKI,10 NOV 1986,KEN,4,Kobe (JPN),24 APR 2004,1148,10000-metres,middlelong,male,u20
-161,27:49.93,,Patrick MWAKA,02 NOV 1992,KEN,3f1,Kobe (JPN),23 APR 2011,1147,10000-metres,middlelong,male,u20
-162,27:50.19,,John Cheruiyot KORIR,13 DEC 1981,KEN,3h1,"Olympic Stadium, Sydney (AUS)",22 SEP 2000,1147,10000-metres,middlelong,male,u20
-163,27:50.24,,Addis ABEBE,05 SEP 1970,ETH,3,Bruxelles (BEL),19 AUG 1988,1147,10000-metres,middlelong,male,u20
-164,27:50.43,,Philip MULUWA,03 MAR 2002,KEN,2f7,"Kamiyugi Park Athletic Stadium, Hachioji (JPN)",21 NOV 2020,1147,10000-metres,middlelong,male,u20
-165,27:50.45,,Dennis KIPRUTO,08 APR 2005,KEN,4,"NITTAIDAI Athletic Stadium, Yokohama (JPN)",22 APR 2023,1147,10000-metres,middlelong,male,u20
-166,27:50.53,,Ibrahim JEILAN,12 JUN 1989,ETH,17,"FBK Stadium, Hengelo (NED)",26 MAY 2007,1146,10000-metres,middlelong,male,u20
-167,27:50.7h,,Kennedy KIMUTAI,18 JUL 1991,KEN,2,Casablanca (MAR),14 JUN 2009,1146,10000-metres,middlelong,male,u20
-168,27:50.93,,Samuel MWANGI,19 SEP 1997,KEN,12f7,Hachioji (JPN),28 NOV 2015,1146,10000-metres,middlelong,male,u20
-169,27:51.07,,Addis ABEBE,05 SEP 1970,ETH,1,Lagos (NGR),04 AUG 1989,1146,10000-metres,middlelong,male,u20
-170,27:51.17,,Desta ALEMU,18 FEB 1992,ETH,2f3,Kita-Kyushu (JPN),14 MAY 2011,1145,10000-metres,middlelong,male,u20
-171,27:51.3h,,Jacob KIPLIMO,14 NOV 2000,UGA,1,Kampala (UGA),24 FEB 2018,1145,10000-metres,middlelong,male,u20
-172,27:51.36,,Abel BEKELE,01 JAN 2006,ETH,12,"Estadio Enrique Lopez Cuenca, Nerja (ESP)",14 JUN 2024,1145,10000-metres,middlelong,male,u20
-173,27:51.81,,Micah NJERU,05 AUG 1988,KEN,5,Kobe (JPN),22 APR 2007,1144,10000-metres,middlelong,male,u20
-174,27:51.89,,Milkesa MENGESHA,16 APR 2000,ETH,16,Hengelo (NED),17 JUL 2019,1144,10000-metres,middlelong,male,u20
-175,27:51.92,,Paul KUIRA,25 JAN 1990,KEN,1,Niigata (JPN),01 JUN 2008,1144,10000-metres,middlelong,male,u20
-176,27:51.99,,Philip KEMEI KIPKEMBOI,06 JUN 1977,KEN,9,Villeneuve d'Ascq (FRA),25 MAY 1996,1144,10000-metres,middlelong,male,u20
-176,27:51.99,,Mogeni Benuel MAGOMA,11 MAR 2001,KEN,8f6,"Hosei University Stadium, Machida (JPN)",23 NOV 2019,1144,10000-metres,middlelong,male,u20
-178,27:52.10,,Richard YATOR,04 JUN 1998,KEN,6f9,Yokohama (JPN),11 NOV 2017,1144,10000-metres,middlelong,male,u20
-179,27:52.32,,Nicholas MAKAU,15 OCT 1990,KEN,1f1,Kushiro (JPN),16 JUL 2008,1144,10000-metres,middlelong,male,u20
-180,27:52.54,,Dereje TADESSE,24 JAN 1987,ETH,,St-Maur (FRA),16 JUN 2006,1143,10000-metres,middlelong,male,u20
-181,27:52.66,,Joel MWAURA,20 JAN 1999,KEN,1f3,Kita-Kyushu (JPN),20 MAY 2017,1143,10000-metres,middlelong,male,u20
-182,27:52.83,,Samuel Muturi MUGO,02 MAY 1986,KEN,2,Shizuoka (JPN),03 MAY 2004,1143,10000-metres,middlelong,male,u20
-183,27:52.89,,Victor Kipkirui KORIR,14 AUG 2002,KEN,12f8,"Kamiyugi Park Athletic Stadium, Hachioji (JPN)",21 NOV 2020,1143,10000-metres,middlelong,male,u20
-184,27:53.00,,Duncan Maina MUTHEE,08 MAR 1991,KEN,1f8,Tokyo (JPN),27 NOV 2010,1143,10000-metres,middlelong,male,u20
-185,27:53.19,,Daniel KIPKEMBOI,05 JUL 1996,KEN,2f3,Tajimi (JPN),12 OCT 2015,1142,10000-metres,middlelong,male,u20
-185,27:53.19,,Daniel KIPKEMBOI,05 JUL 1996,KEN,3f2,Gifu (JPN),17 OCT 2015,1142,10000-metres,middlelong,male,u20
-187,27:53.37,,Boniface KIPROP,12 OCT 1985,UGA,4,Abuja (NGR),12 OCT 2003,1142,10000-metres,middlelong,male,u20
-188,27:53.39,,Philip MULUWA,03 MAR 2002,KEN,2f4,"Gion Stadium, Sagamihara (JPN)",19 JUN 2021,1142,10000-metres,middlelong,male,u20
-189,27:53.50,,John MAINA,14 JUL 1993,KEN,2f8,Tokyo (JPN),27 NOV 2010,1142,10000-metres,middlelong,male,u20
-190,27:53.59,,Kiprono SITONIK,10 NOV 2001,KEN,10f7,Machida (JPN),24 NOV 2018,1142,10000-metres,middlelong,male,u20
-191,27:53.79,,Joseph KAMATHI,23 NOV 1996,KEN,13f7,Hachioji (JPN),28 NOV 2015,1141,10000-metres,middlelong,male,u20
-192,27:53.82,,Rodgers KWEMOI,03 MAR 1998,KEN,1,Gifu (JPN),07 MAY 2016,1141,10000-metres,middlelong,male,u20
-193,27:53.88,,Dennis MASAI,01 DEC 1991,KEN,1,"Croix-Bleue Medavie Stadium, Moncton (CAN)",20 JUL 2010,1141,10000-metres,middlelong,male,u20
-194,27:53.9h,,Mathew Kipkorir KIMELI,04 JAN 1998,KEN,1,Nairobi (KEN),10 JUN 2017,1141,10000-metres,middlelong,male,u20
-195,27:54.13,,Cosmas Mwangi BOI,12 MAR 2003,KEN,9f3,"Nagaragawa Stadium, Gifu (JPN)",24 SEP 2022,1141,10000-metres,middlelong,male,u20
-196,27:54.28,,Kiplimo MUNERIA,28 AUG 1983,KEN,3,"Stadion Juliska, Praha (CZE)",17 JUN 2002,1141,10000-metres,middlelong,male,u20
-197,27:54.29,,Ayele ABSHERO,28 DEC 1990,ETH,5,Villeneuve d'Ascq (FRA),30 JUN 2009,1141,10000-metres,middlelong,male,u20
-198,27:54.6h,,Charles Yosey MNERIA,10 FEB 1996,KEN,2,Nairobi (KEN),11 JUL 2015,1140,10000-metres,middlelong,male,u20
-199,27:54.69,,Dennis MUTUKU,30 SEP 2005,KEN,10f6,"Kamiyugi Park Athletic Stadium, Hachioji (JPN)",25 NOV 2023,1140,10000-metres,middlelong,male,u20
-200,27:54.74,,Melaku ABERA,20 APR 1994,ETH,3f3,Kumagaya (JPN),20 SEP 2013,1140,10000-metres,middlelong,male,u20
-201,27:54.75,,Mekubo MOGUSU,25 DEC 1986,KEN,7,Kobe (JPN),24 APR 2005,1140,10000-metres,middlelong,male,u20
-202,27:54.98,,Patrick MATHENGE,02 NOV 1997,KEN,1f1,Abashiri (JPN),16 JUL 2015,1140,10000-metres,middlelong,male,u20
-203,27:55.21,,Mekubo MOGUSU,25 DEC 1986,KEN,2,Tokyo (JPN),13 MAY 2005,1139,10000-metres,middlelong,male,u20
-204,27:55.48,,Julius GITAHI,29 APR 1978,KEN,1,Mito (JPN),06 MAY 1996,1139,10000-metres,middlelong,male,u20
-205,27:55.49,,Victor Kipkirui KORIR,14 AUG 2002,KEN,6f1,"Athletics Stadium, Fukagawa (JPN)",07 JUL 2021,1139,10000-metres,middlelong,male,u20
-206,27:55.74,,Geoffrey KIRUI,16 FEB 1993,KEN,1,Gaborone (BOT),13 MAY 2011,1138,10000-metres,middlelong,male,u20
-207,27:55.75,,William Malel SITONIK,01 MAR 1994,KEN,7,Nairobi (KEN),13 JUL 2013,1138,10000-metres,middlelong,male,u20
-208,27:55.81,,Josphat Muchiri NDAMBIRI,12 FEB 1985,KEN,1,Tokyo (JPN),02 JUL 2004,1138,10000-metres,middlelong,male,u20
-209,27:55.85,,Tadesse FEYISSA,1981,ETH,13,Bruxelles (BEL),25 AUG 2000,1138,10000-metres,middlelong,male,u20
-210,27:55.88,,Girma ASSEFA,20 JUN 1986,ETH,1,Hachioji (JPN),24 NOV 2004,1138,10000-metres,middlelong,male,u20
-211,27:56.06,,Assefa MEZGEBU,19 JUN 1978,ETH,14,"Ullevi Stadium, Göteborg (SWE)",08 AUG 1995,1138,10000-metres,middlelong,male,u20
-212,27:56.11,,Philip MULUWA,03 MAR 2002,KEN,2,"Gion Stadium, Sagamihara (JPN)",20 MAY 2021,1138,10000-metres,middlelong,male,u20
-213,27:56.26,,Joshua CHEPTEGEI,12 SEP 1996,UGA,1f1,Leiden (NED),14 JUN 2014,1138,10000-metres,middlelong,male,u20
-214,27:56.39,,Patrick MWAKA,02 NOV 1992,KEN,7f2,Fukuroi (JPN),16 OCT 2010,1137,10000-metres,middlelong,male,u20
-215,27:56.47,,Dominic Nyairo OMARE,11 MAR 1997,KEN,3f1,Kobe (JPN),23 APR 2016,1137,10000-metres,middlelong,male,u20
-216,27:56.56,,Moses MOSOP,07 JUL 1985,KEN,5,Abuja (NGR),12 OCT 2003,1137,10000-metres,middlelong,male,u20
-217,27:56.79,,Martin MUKURE,14 DEC 1989,KEN,1f1,Fukagawa (JPN),11 JUN 2008,1137,10000-metres,middlelong,male,u20
-218,27:56.98,,Mogos SHUMAY,01 JAN 1997,ERI,8f1,"Palo Alto, CA (USA)",01 MAY 2016,1136,10000-metres,middlelong,male,u20
-219,27:57.19,,Joel MWAURA,20 JAN 1999,KEN,12f7,Machida (JPN),24 NOV 2018,1136,10000-metres,middlelong,male,u20
-220,27:57.21,,Girma ASSEFA,20 JUN 1986,ETH,8,Kobe (JPN),24 APR 2005,1136,10000-metres,middlelong,male,u20
-221,27:57.39,,Yeneblo BIYAZEN,29 JAN 2000,ETH,3,Kobe (JPN),22 APR 2018,1136,10000-metres,middlelong,male,u20
-222,27:57.44,,Solomon Kiplimo BOIT,01 OCT 1999,KEN,4,"Ratinan Stadion, Tampere (FIN)",10 JUL 2018,1136,10000-metres,middlelong,male,u20
-223,27:57.68,,Josphat Machuka KIPRONO,12 DEC 1973,KEN,3,Bruxelles (BEL),28 AUG 1992,1135,10000-metres,middlelong,male,u20
-224,27:57.94,,Elijah KORIR,15 APR 1978,KEN,8,Oslo (NOR),04 JUL 1997,1135,10000-metres,middlelong,male,u20
-225,27:57.99,,Paul Kipngetich TANUI,22 DEC 1990,KEN,3f1,Fugokawa (JPN),10 JUN 2009,1135,10000-metres,middlelong,male,u20
-226,27:58.02,,Charles NDIRANGU,08 FEB 1993,KEN,1f2,Kobe (JPN),21 APR 2012,1135,10000-metres,middlelong,male,u20
-227,27:58.60,,Paul Kipngetich TANUI,22 DEC 1990,KEN,1,Isahaya (JPN),26 SEP 2009,1134,10000-metres,middlelong,male,u20
-228,27:59.03,,Nicholas MAKAU,15 OCT 1990,KEN,4f1,Yamagata (JPN),26 SEP 2008,1133,10000-metres,middlelong,male,u20
-229,27:59.11,,Joseph Mana NDIRANGU,09 SEP 1994,KEN,5f1,Fukagawa (JPN),29 JUN 2013,1133,10000-metres,middlelong,male,u20
-230,27:59.3h,,Paul LONYANGATA,12 DEC 1992,KEN,9f1,Nairobi (KEN),16 JUL 2011,1133,10000-metres,middlelong,male,u20
-231,27:59.32,,Ryuji ONO,27 JAN 1985,JPN,3,Tottori (JPN),05 JUN 2004,1133,10000-metres,middlelong,male,u20
-232,27:59.52,,Rodgers KWEMOI,03 MAR 1998,KEN,7f1,Fukagawa (JPN),09 JUL 2015,1133,10000-metres,middlelong,male,u20
-233,27:59.61,,Samuel KABIRU,06 JUN 1983,KEN,5,Kobe (JPN),28 APR 2002,1132,10000-metres,middlelong,male,u20
-234,27:59.63,,Assefa MEZGEBU,19 JUN 1978,ETH,2,"FBK Stadium, Hengelo (NED)",05 JUN 1995,1132,10000-metres,middlelong,male,u20
-235,27:59.70,,Josphat Machuka KIPRONO,12 DEC 1973,KEN,1,Belle Vue Mauricia (MRI),25 JUN 1992,1132,10000-metres,middlelong,male,u20
-236,27:59.72,,Ryuji ONO,27 JAN 1985,JPN,1,Fukagawa (JPN),30 JUN 2004,1132,10000-metres,middlelong,male,u20
-237,27:59.77,,Kiyara KAMZEE,02 MAR 1980,KEN,11,"FBK Stadium, Hengelo (NED)",30 MAY 1999,1132,10000-metres,middlelong,male,u20
-238,27:59.88,,Samuel Muturi MUGO,02 MAY 1986,KEN,7,Kobe (JPN),24 APR 2004,1132,10000-metres,middlelong,male,u20
-239,28:00.12,,Julius GITAHI,29 APR 1978,KEN,1,Konosu (JPN),07 OCT 1995,1132,10000-metres,middlelong,male,u20
-240,28:00.14,,Samuel Kamau WANJIRU,10 NOV 1986,KEN,8,Kobe (JPN),24 APR 2004,1132,10000-metres,middlelong,male,u20
-240,28:00.14,,Amedework WALELEGN,11 MAR 1999,ETH,3,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",19 JUL 2016,1132,10000-metres,middlelong,male,u20
-242,28:00.36,,Philip MULUWA,03 MAR 2002,KEN,2,"Prefectural Stadium, Kumagaya (JPN)",17 SEP 2021,1131,10000-metres,middlelong,male,u20
-243,28:00.97,,Addis ABEBE,05 SEP 1970,ETH,1,Tokyo (JPN),16 SEP 1989,1130,10000-metres,middlelong,male,u20
-244,28:00.98,,Stephen KIPROTICH,27 FEB 1989,UGA,16f1,Neerpelt (BEL),31 MAY 2008,1130,10000-metres,middlelong,male,u20
-245,28:01.21,,James WAINAINA,16 JUN 1981,KEN,1,Shizuoka (JPN),14 OCT 2000,1130,10000-metres,middlelong,male,u20
-246,28:01.35,,Samuel MWANGI,19 SEP 1997,KEN,5f1,Abashiri (JPN),11 JUL 2016,1130,10000-metres,middlelong,male,u20
-247,28:01.76,,Cyrus KINGORI,05 JAN 1997,KEN,8f1,Kobe (JPN),23 APR 2016,1129,10000-metres,middlelong,male,u20
-248,28:01.81,,Habtom SAMUEL,30 NOV 2003,ERI,16,"Hayward Field, Eugene, OR (USA)",17 JUL 2022,1129,10000-metres,middlelong,male,u20
-249,28:01.88,,Nelson MANDELA,30 DEC 2004,KEN,1f2,"Universiade Commemorative Stadium, Kobe (JPN)",22 APR 2023,1129,10000-metres,middlelong,male,u20
-250,28:01.94,,Fabiano Joseph NAASI,24 DEC 1985,TAN,10,"Olympic Stadium, Athina (GRE)",20 AUG 2004,1129,10000-metres,middlelong,male,u20
-251,28:01.99,,Josphat Muchiri NDAMBIRI,12 FEB 1985,KEN,10,Kobe (JPN),24 APR 2004,1129,10000-metres,middlelong,male,u20
-252,28:02.08,,Aadam Ismaeel KHAMIS,12 FEB 1989,BRN,3,Doha (QAT),09 DEC 2006,1129,10000-metres,middlelong,male,u20
-253,28:02.09,,Josphat Muchiri NDAMBIRI,12 FEB 1985,KEN,5,Kobe (JPN),20 APR 2003,1129,10000-metres,middlelong,male,u20
-254,28:02.16,,Dominic Nyairo OMARE,11 MAR 1997,KEN,2f17,Yokohama (JPN),24 SEP 2016,1128,10000-metres,middlelong,male,u20
-255,28:02.26,,Johnson KIUMBANI,27 JAN 1993,KEN,3f1,Abashiri (JPN),07 JUL 2012,1128,10000-metres,middlelong,male,u20
-256,28:02.3h,,Geoffrey KIRUI,16 FEB 1993,KEN,11f1,Nairobi (KEN),16 JUL 2011,1128,10000-metres,middlelong,male,u20
-257,28:02.72,,John KARIUKI,10 NOV 1986,KEN,6,Kobe (JPN),20 APR 2003,1128,10000-metres,middlelong,male,u20
-258,28:02.79,,Daniel MUIVA KITONYI,12 JAN 1994,KEN,1f10,Yokohama (JPN),30 NOV 2013,1128,10000-metres,middlelong,male,u20
-259,28:02.83,,Joel MWAURA,20 JAN 1999,KEN,2f3,Kitakyushu (JPN),19 MAY 2018,1127,10000-metres,middlelong,male,u20
-260,28:02.87,,Patrick MWAKA,02 NOV 1992,KEN,2,Gifu (JPN),07 MAY 2011,1127,10000-metres,middlelong,male,u20
-261,28:02.93,,John KARIUKI,10 NOV 1986,KEN,3,Marugame (JPN),24 SEP 2005,1127,10000-metres,middlelong,male,u20
-262,28:02.96,,Mekubo MOGUSU,25 DEC 1986,KEN,7,Tottori (JPN),05 JUN 2004,1127,10000-metres,middlelong,male,u20
-263,28:03.00,,Dennis MUTUKU,30 SEP 2005,KEN,20f6,"Kamiyugi Park Athletic Stadium, Hachioji (JPN)",23 NOV 2024,1127,10000-metres,middlelong,male,u20
-264,28:03.03,,Gebregziabher GEBREMARIAM,12 OCT 1984,ETH,4,"FBK Stadium, Hengelo (NED)",01 JUN 2003,1127,10000-metres,middlelong,male,u20
-265,28:03.07,,Alexander MUNYAO,10 SEP 1996,KEN,19f7,Hachioji (JPN),28 NOV 2015,1127,10000-metres,middlelong,male,u20
-266,28:03.31,,Nehemiah KIPNGENO,02 MAY 2007,KEN,2f7,"Athletics Stadium, Setagaya, Tokyo (JPN)",04 OCT 2025,1127,10000-metres,middlelong,male,u20
-267,28:03.40,,Joseph KAMATHI,23 NOV 1996,KEN,4f1,Fukagawa (JPN),25 JUN 2014,1127,10000-metres,middlelong,male,u20
-268,28:03.45,,Gebretsadik ABRAHA,16 JUL 1992,ETH,2,"Croix-Bleue Medavie Stadium, Moncton (CAN)",20 JUL 2010,1127,10000-metres,middlelong,male,u20
-269,28:03.51,,Kazuma MAEDA,16 JAN 2005,JPN,3f4,"Gion Stadium, Sagamihara (JPN)",17 JUN 2023,1126,10000-metres,middlelong,male,u20
-270,28:03.53,,Musio SAIDAMU,12 OCT 2000,KEN,1f7,Yokohama (JPN),20 APR 2019,1126,10000-metres,middlelong,male,u20
-271,28:03.67,,Joseph KAMATHI,23 NOV 1996,KEN,5f3,Tajimi (JPN),12 OCT 2015,1126,10000-metres,middlelong,male,u20
-271,28:03.67,,Joseph KAMATHI,23 NOV 1996,KEN,6f2,Gifu (JPN),17 OCT 2015,1126,10000-metres,middlelong,male,u20
-273,28:03.75,,Nicholas MAKAU,15 OCT 1990,KEN,5f1,Okayama (JPN),25 SEP 2009,1126,10000-metres,middlelong,male,u20
-274,28:03.77,,Boniface KIPROP,12 OCT 1985,UGA,1,"Stadio Zecchini, Grosseto (ITA)",14 JUL 2004,1126,10000-metres,middlelong,male,u20
-275,28:03.79,,James Kipyego KORORIA,25 DEC 1971,KEN,2,Kobe (JPN),29 APR 1990,1126,10000-metres,middlelong,male,u20
-276,28:03.90,,Yamato YOSHII,14 FEB 2002,JPN,9f10,"NITTAIDAI Athletic Stadium, Yokohama (JPN)",04 DEC 2021,1126,10000-metres,middlelong,male,u20
-277,28:03.91,,Josphat Kipkoech BETT,12 JUN 1990,KEN,14,"Boudewijnstadion, Bruxelles (BEL)",05 SEP 2008,1126,10000-metres,middlelong,male,u20
-278,28:03.93,,John KARIUKI,10 NOV 1986,KEN,3,Shizuoka (JPN),03 MAY 2004,1126,10000-metres,middlelong,male,u20
-279,28:03.99,,Haile GEBRSELASSIE,18 APR 1973,ETH,1,"Olympic Stadium, Seoul (KOR)",18 SEP 1992,1126,10000-metres,middlelong,male,u20
-280,28:04.07,,Afewerki BERHANE,06 MAY 1996,ERI,2,San Sebastián (ESP),24 JUL 2015,1126,10000-metres,middlelong,male,u20
-281,28:04.11,,Samuel Kamau WANJIRU,10 NOV 1986,KEN,1,Hachioji (JPN),27 NOV 2004,1125,10000-metres,middlelong,male,u20
-282,28:04.20,,John Morimbori GWAKO,04 SEP 1978,KEN,6,Villeneuve d'Ascq (FRA),29 JUN 1997,1125,10000-metres,middlelong,male,u20
-283,28:04.45,,Fabiano Joseph NAASI,24 DEC 1985,TAN,2,"Stadio Zecchini, Grosseto (ITA)",14 JUL 2004,1125,10000-metres,middlelong,male,u20
-284,28:04.55,,Vincent Kibet YEGON,05 DEC 2000,KEN,1f4,Sagamihara (JPN),23 JUN 2019,1125,10000-metres,middlelong,male,u20
-285,28:04.79,,Kiprono SITONIK,10 NOV 2001,KEN,13f6,"Hosei University Stadium, Machida (JPN)",23 NOV 2019,1124,10000-metres,middlelong,male,u20
-286,28:05.14,,Victor Kipkirui KORIR,14 AUG 2002,KEN,3f1,Fukagawa (JPN),09 JUL 2019,1124,10000-metres,middlelong,male,u20
-287,28:05.31,,Martin Irungu MATHATHI,25 DEC 1985,KEN,2,Shizuoka (JPN),03 MAY 2003,1124,10000-metres,middlelong,male,u20
-287,28:05.31,,Ibrahim JEILAN,12 JUN 1989,ETH,15,"Boudewijnstadion, Bruxelles (BEL)",05 SEP 2008,1124,10000-metres,middlelong,male,u20
-289,28:05.43,,Stephen MUTHINI,20 JUL 2005,KEN,2f1,"Universiade Commemorative Stadium, Kobe (JPN)",20 APR 2024,1123,10000-metres,middlelong,male,u20
-290,28:05.54,,Tadesse TESFAHUN,1999,ETH,10,"FBK Stadium, Hengelo (NED)",11 JUN 2017,1123,10000-metres,middlelong,male,u20
-291,28:05.91,,Shotaro ISHIHARA,04 JAN 2002,JPN,2,"Gion Stadium, Sagamihara (JPN)",20 MAY 2021,1123,10000-metres,middlelong,male,u20
-292,28:05.96,,Daniel GITAU,01 OCT 1987,KEN,2,Yokohama (JPN),21 OCT 2006,1123,10000-metres,middlelong,male,u20
-293,28:05.99,,Solomon BUSHENDICH,10 JAN 1984,KEN,5,Pontevedra (ESP),20 JUL 2003,1123,10000-metres,middlelong,male,u20
-294,28:06.00,,Awash Habtamu FIKADU,13 MAR 1988,ETH,7,Algiers (ALG),19 JUL 2007,1123,10000-metres,middlelong,male,u20
-295,28:06.04,,Victor Kipkirui KORIR,14 AUG 2002,KEN,15f6,"Hosei University Stadium, Machida (JPN)",23 NOV 2019,1123,10000-metres,middlelong,male,u20
-296,28:06.08,,Martin MUKURE,14 DEC 1989,KEN,5f1,Yamagata (JPN),26 SEP 2008,1122,10000-metres,middlelong,male,u20
-297,28:06.09,,Philemon KEMEI CHERUIYOT,12 FEB 1982,KEN,,Carpi (ITA),17 JUN 2000,1122,10000-metres,middlelong,male,u20
-298,28:06.27,,Shunsuke YOSHII,08 APR 2003,JPN,15f6,"Gion Stadium, Machida (JPN)",26 NOV 2022,1122,10000-metres,middlelong,male,u20
-299,28:06.31,,Patrick KINYANJUI,14 SEP 2003,KEN,12f10,"NITTAIDAI Athletic Stadium, Yokohama (JPN)",04 DEC 2021,1122,10000-metres,middlelong,male,u20
-300,28:06.36,,Fabiano Joseph NAASI,24 DEC 1985,TAN,13,"Stade de France, Paris-St-Denis (FRA)",24 AUG 2003,1122,10000-metres,middlelong,male,u20
-301,28:06.43,,Addis ABEBE,05 SEP 1970,ETH,2,"Estadio Olímpico, Barcelona (ESP)",08 SEP 1989,1122,10000-metres,middlelong,male,u20
-302,28:06.52,,Philip MULUWA,03 MAR 2002,KEN,2,"Denka Big Swan Stadium, Niigata (JPN)",11 SEP 2020,1122,10000-metres,middlelong,male,u20
-303,28:06.62,,Barnabas Kiplagat KOSGEI,20 AUG 1986,KEN,15,"FBK Stadium, Hengelo (NED)",29 MAY 2005,1122,10000-metres,middlelong,male,u20
-304,28:06.8h,,Geoffrey KORIR,01 DEC 1996,KEN,2,Nairobi (KEN),04 JUN 2015,1121,10000-metres,middlelong,male,u20
-305,28:07.0h,,Moses MOSOP,07 JUL 1985,KEN,2,Nairobi (KEN),26 JUN 2004,1121,10000-metres,middlelong,male,u20
-306,28:07.1h,,Ismael KIRUI,20 FEB 1975,KEN,1,Nairobi (KEN),02 JUL 1993,1121,10000-metres,middlelong,male,u20
-307,28:07.39,,Yuki SATO,26 NOV 1986,JPN,2,Hachioji (JPN),27 NOV 2004,1120,10000-metres,middlelong,male,u20
-307,28:07.39,,Nicholas MAKAU,15 OCT 1990,KEN,3f1,Shizuoka (JPN),03 MAY 2009,1120,10000-metres,middlelong,male,u20
-309,28:07.69,,Jackson Kavesa MUEMA,03 SEP 2001,KEN,19f8,"Kamiyugi Park Athletic Stadium, Hachioji (JPN)",21 NOV 2020,1120,10000-metres,middlelong,male,u20
-310,28:07.70,,Petro META,18 DEC 1973,TAN,1,Formia (ITA),08 JUL 1991,1120,10000-metres,middlelong,male,u20
-311,28:07.98,,Ibrahim JEILAN,12 JUN 1989,ETH,3,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",09 JUL 2008,1120,10000-metres,middlelong,male,u20
-312,28:08.26,,Evans KIPLAGAT,07 MAY 2005,KEN,5f1,"Cobb Track and Angell Field, Palo Alto, CA (USA)",29 MAR 2024,1119,10000-metres,middlelong,male,u20
-313,28:08.28,,Jonathan Muia NDIKU,18 SEP 1991,KEN,1f4,Tokyo (JPN),29 NOV 2008,1119,10000-metres,middlelong,male,u20
-314,28:08.32,,Samuel MWANGI,19 SEP 1997,KEN,3f2,Kumagaya (JPN),21 MAY 2016,1119,10000-metres,middlelong,male,u20
-315,28:08.45,,Cyrus Gichobi NJUI,11 FEB 1986,KEN,13,Kobe (JPN),24 APR 2005,1119,10000-metres,middlelong,male,u20
-316,28:08.58,,Hunegnaw MESFIN,31 JAN 1989,ETH,4,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",09 JUL 2008,1119,10000-metres,middlelong,male,u20
-317,28:08.6h,,Moses Ndiema MASAI,01 JUN 1986,KEN,5,Nairobi (KEN),25 JUN 2005,1119,10000-metres,middlelong,male,u20
-318,28:08.61,,Yamato YOSHII,14 FEB 2002,JPN,3f9,"NITTAIDAI Athletic Stadium, Yokohama (JPN)",14 NOV 2020,1119,10000-metres,middlelong,male,u20
-319,28:08.72,,Stephen MUTHINI,20 JUL 2005,KEN,1f2,"Athletics Stadium, Fukagawa (JPN)",05 JUL 2023,1118,10000-metres,middlelong,male,u20
-320,28:08.79,,Gebregziabher GEBREMARIAM,12 OCT 1984,ETH,2,Hyderabad (IND),30 OCT 2003,1118,10000-metres,middlelong,male,u20
-321,28:08.98,,Amos KIRUI,09 FEB 1998,KEN,2,Gifu (JPN),07 MAY 2016,1118,10000-metres,middlelong,male,u20
-322,28:09.3h,,John Kemboi CHERUIYOT,05 JUL 1990,KEN,1,Nairobi (KEN),16 JUN 2009,1118,10000-metres,middlelong,male,u20
-323,28:09.57,,Gizachew NEGASA,18 APR 1998,ETH,4,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",19 JUL 2016,1117,10000-metres,middlelong,male,u20
-324,28:09.72,,Dennis KIPRUTO,08 APR 2005,KEN,6f2,"National Stadium, Tokyo (JPN)",09 MAY 2024,1117,10000-metres,middlelong,male,u20
-325,28:09.95,,John KARIUKI,10 NOV 1986,KEN,1,Gifu (JPN),07 MAY 2005,1117,10000-metres,middlelong,male,u20
-326,28:09.97,,Melaku ABERA,20 APR 1994,ETH,4f2,Fukagawa (JPN),29 JUN 2013,1117,10000-metres,middlelong,male,u20
+56,27:26.53,,Shadrack Rono KIPKEMEI,15 MAR 2006,KEN,12f7,"Kamiyugi Park Athletic Stadium, Hachioji (JPN)",22 NOV 2025,1184,10000-metres,middlelong,male,u20
+57,27:26.68,,Jacob KIPLIMO,14 NOV 2000,UGA,2,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",19 JUL 2016,1184,10000-metres,middlelong,male,u20
+58,27:27.04,,Aron KIFLE,20 FEB 1998,ERI,1,Leiden (NED),11 JUN 2016,1183,10000-metres,middlelong,male,u20
+59,27:27.51,,Richard ETIR,12 DEC 2003,KEN,1f5,"NITTAIDAI Athletic Stadium, Yokohama (JPN)",12 NOV 2022,1182,10000-metres,middlelong,male,u20
+60,27:27.57,,Hunegnaw MESFIN,31 JAN 1989,ETH,5f1,Neerpelt (BEL),31 MAY 2008,1182,10000-metres,middlelong,male,u20
+60,27:27.57,,Joshua CHEPTEGEI,12 SEP 1996,UGA,8,"Hayward Field, Eugene, OR (USA)",29 MAY 2015,1182,10000-metres,middlelong,male,u20
+62,27:27.87,,Elijah KORIR,15 APR 1978,KEN,5,Bruxelles (BEL),22 AUG 1997,1182,10000-metres,middlelong,male,u20
+63,27:28.50,,Keita SATOH,22 JAN 2004,JPN,11f7,"Kamiyugi Park Athletic Stadium, Hachioji (JPN)",25 NOV 2023,1181,10000-metres,middlelong,male,u20
+64,27:28.60,,Julius GITAHI,29 APR 1978,KEN,1,Konosu (JPN),05 OCT 1996,1181,10000-metres,middlelong,male,u20
+65,27:28.67,,Patrick Mutunga MWIKYA,20 NOV 1994,KEN,1,Tajimi (JPN),14 OCT 2013,1181,10000-metres,middlelong,male,u20
+66,27:28.69,,John KARIUKI,10 NOV 1986,KEN,4,Kobe (JPN),24 APR 2005,1181,10000-metres,middlelong,male,u20
+67,27:28.82,,Abera ERTIBAN,13 MAR 1988,ETH,5,Neerpelt (BEL),02 JUN 2007,1180,10000-metres,middlelong,male,u20
+68,27:29.92,,Nelson MANDELA,30 DEC 2004,KEN,2f5,"NITTAIDAI Athletic Stadium, Yokohama (JPN)",12 NOV 2022,1179,10000-metres,middlelong,male,u20
+69,27:30.23,,John Cheruiyot KORIR,13 DEC 1981,KEN,1,"Stadion Rošický, Praha (CZE)",05 JUN 2000,1178,10000-metres,middlelong,male,u20
+70,27:30.25,,Jacob KIPLIMO,14 NOV 2000,UGA,3,Gold Coast (AUS),13 APR 2018,1178,10000-metres,middlelong,male,u20
+71,27:30.46,,Boki DIRIBA,25 FEB 2004,ETH,6,"Estadio Enrique Lopez Cuenca, Nerja (ESP)",23 JUN 2023,1178,10000-metres,middlelong,male,u20
+72,27:30.66,,Moses MOSOP,07 JUL 1985,KEN,5,Ostrava (CZE),08 JUN 2004,1177,10000-metres,middlelong,male,u20
+73,27:30.85,,Josphat Kipkoech BETT,12 JUN 1990,KEN,1,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",09 JUL 2008,1177,10000-metres,middlelong,male,u20
+74,27:30.88,,Haftu TEKLU,21 JAN 2000,ETH,2,Nijmegen (NED),15 JUN 2019,1177,10000-metres,middlelong,male,u20
+75,27:31.08,,Rogers KIBET,26 MAR 2003,UGA,9,"FBK Stadium, Hengelo (NED)",05 JUN 2022,1177,10000-metres,middlelong,male,u20
+76,27:31.65,,Titus Kipjumba MBISHEI,28 OCT 1990,KEN,2,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",09 JUL 2008,1176,10000-metres,middlelong,male,u20
+77,27:31.83,,Benard Kibet KOECH,25 NOV 1999,KEN,4f7,Machida (JPN),24 NOV 2018,1176,10000-metres,middlelong,male,u20
+78,27:32.18,,David CHELULE,07 JUL 1977,KEN,2,Bratislava (SVK),29 MAY 1996,1175,10000-metres,middlelong,male,u20
+79,27:32.43,,Samuel Kamau WANJIRU,10 NOV 1986,KEN,5,Kobe (JPN),24 APR 2005,1175,10000-metres,middlelong,male,u20
+80,27:32.48,,Assefa MEZGEBU,19 JUN 1978,ETH,5,"Olympic Stadium, Athina (GRE)",06 AUG 1997,1175,10000-metres,middlelong,male,u20
+81,27:32.51,,Yeneblo BIYAZEN,29 JAN 2000,ETH,1f6,"Hosei University Stadium, Machida (JPN)",25 NOV 2017,1175,10000-metres,middlelong,male,u20
+82,27:32.60,,Tilahun REGASSA,18 JAN 1990,ETH,7f1,Neerpelt (BEL),31 MAY 2008,1174,10000-metres,middlelong,male,u20
+83,27:32.63,,Fabiano Joseph NAASI,24 DEC 1985,TAN,14,"Boudewijnstadion, Bruxelles (BEL)",05 SEP 2003,1174,10000-metres,middlelong,male,u20
+84,27:32.81,,Fabiano Joseph NAASI,24 DEC 1985,TAN,1,Watford (GBR),05 JUL 2003,1174,10000-metres,middlelong,male,u20
+85,27:33.13,,Leonard BARSOTON,21 OCT 1994,KEN,1f1,Fukagawa (JPN),29 JUN 2013,1174,10000-metres,middlelong,male,u20
+86,27:33.14,,Patrick MWAKA,02 NOV 1992,KEN,3,Fukuroi (JPN),15 OCT 2011,1174,10000-metres,middlelong,male,u20
+87,27:33.38,,Jeremiah KAREMI,07 JUL 1994,KEN,2f1,Fukagawa (JPN),29 JUN 2013,1173,10000-metres,middlelong,male,u20
+88,27:33.76,,Edwin KIPSAISAK,16 MAR 2005,KEN,9f6,"Kamiyugi Park Athletic Stadium, Hachioji (JPN)",23 NOV 2024,1173,10000-metres,middlelong,male,u20
+89,27:33.99,,Bilith BOI,29 SEP 2009,KEN,3,"NITTAIDAI Athletic Stadium, Yokohama (JPN)",15 NOV 2025,1172,10000-metres,middlelong,male,u20
+90,27:34.04,,Richard CHELIMO,21 APR 1972,KEN,1,Koblenz (GER),11 SEP 1991,1172,10000-metres,middlelong,male,u20
+91,27:35.07,,Richard ETIR,12 DEC 2003,KEN,3f7,"NITTAIDAI Athletic Stadium, Yokohama (JPN)",04 JUN 2022,1171,10000-metres,middlelong,male,u20
+92,27:35.29,,Philip MULUWA,03 MAR 2002,KEN,7f6,"Kamiyugi Park Athletic Stadium, Hachioji (JPN)",27 NOV 2021,1170,10000-metres,middlelong,male,u20
+93,27:35.55,,Samuel Muturi MUGO,02 MAY 1986,KEN,6,Kobe (JPN),24 APR 2005,1170,10000-metres,middlelong,male,u20
+94,27:35.85,,Patrick KIMELI,22 APR 1989,KEN,8,Neerpelt (BEL),02 JUN 2007,1169,10000-metres,middlelong,male,u20
+95,27:36.34,,Abadi HADIS,06 NOV 1997,ETH,15,"Estádio Olímpico, Rio de Janeiro (BRA)",13 AUG 2016,1169,10000-metres,middlelong,male,u20
+96,27:36.37,,Samwel Chebolei MASAI,20 MAR 2001,KEN,3f8,"Kamiyugi Park Athletic Stadium, Hachioji (JPN)",21 NOV 2020,1169,10000-metres,middlelong,male,u20
+97,27:36.50,,Simon MAINA MUNYI,18 MAR 1978,KEN,1,Tokyo (JPN),30 NOV 1997,1168,10000-metres,middlelong,male,u20
+98,27:36.78,,Francis KIPROP,25 DEC 1984,KEN,11,Bruxelles (BEL),30 AUG 2002,1168,10000-metres,middlelong,male,u20
+99,27:37.72,,Jonathan Muia NDIKU,18 SEP 1991,KEN,3f6,Yokohama (JPN),24 OCT 2009,1166,10000-metres,middlelong,male,u20
+100,27:37.87,,Robert Kipkorir KIPCHUMBA,24 FEB 1984,KEN,3,"Stadion Rošický, Praha (CZE)",18 JUN 2001,1166,10000-metres,middlelong,male,u20
+101,27:38.05,,Muthoni MUIRU,27 MAR 1998,KEN,3f6,"Hosei University Stadium, Machida (JPN)",25 NOV 2017,1166,10000-metres,middlelong,male,u20
+102,27:38.13,,Tilahun REGASSA,18 JAN 1990,ETH,2,Villeneuve d'Ascq (FRA),30 JUN 2009,1166,10000-metres,middlelong,male,u20
+103,27:38.18,,Joseph KAMATHI,23 NOV 1996,KEN,4f3,Yamaguchi (JPN),10 OCT 2014,1166,10000-metres,middlelong,male,u20
+104,27:38.86,,John Cheruiyot KORIR,13 DEC 1981,KEN,2,"Stadion Rošický, Praha (CZE)",14 JUN 1999,1165,10000-metres,middlelong,male,u20
+105,27:39.34,,Samuel Kamau WANJIRU,10 NOV 1986,KEN,1,Fukagawa (JPN),29 JUN 2005,1164,10000-metres,middlelong,male,u20
+106,27:39.41,,Richard CHELIMO,21 APR 1972,KEN,2,"National Stadium, Tokyo (JPN)",26 AUG 1991,1164,10000-metres,middlelong,male,u20
+107,27:40.08,,Philemon KEMEI CHERUIYOT,12 FEB 1982,KEN,2,Rovereto (ITA),30 AUG 2000,1163,10000-metres,middlelong,male,u20
+108,27:40.19,,Samuel Muturi MUGO,02 MAY 1986,KEN,3,Shizuoka (JPN),03 MAY 2005,1163,10000-metres,middlelong,male,u20
+109,27:40.36,,Jacob KIPLIMO,14 NOV 2000,UGA,2,"Ratinan Stadion, Tampere (FIN)",10 JUL 2018,1162,10000-metres,middlelong,male,u20
+110,27:40.44,,Patrick Mutunga MWIKYA,20 NOV 1994,KEN,1,Kobe (JPN),21 APR 2013,1162,10000-metres,middlelong,male,u20
+111,27:40.64,,Awash Habtamu FIKADU,13 MAR 1988,ETH,9,"Boudewijnstadion, Bruxelles (BEL)",14 SEP 2007,1162,10000-metres,middlelong,male,u20
+112,27:40.94,,James Mwangi MURIGI,15 JUL 1986,KEN,1,Maebashi (JPN),09 OCT 2005,1161,10000-metres,middlelong,male,u20
+113,27:41.09,,Martin Irungu MATHATHI,25 DEC 1985,KEN,1,Tottori (JPN),05 JUN 2004,1161,10000-metres,middlelong,male,u20
+114,27:41.12,,Wesley LEDAMA,02 JUL 1999,KEN,6f7,Machida (JPN),24 NOV 2018,1161,10000-metres,middlelong,male,u20
+115,27:41.52,,Stephen MUTHINI,20 JUL 2005,KEN,2f2,"National Stadium, Tokyo (JPN)",09 MAY 2024,1160,10000-metres,middlelong,male,u20
+116,27:41.64,,Samuel Kamau WANJIRU,10 NOV 1986,KEN,,Tokyo (JPN),05 JUN 2005,1160,10000-metres,middlelong,male,u20
+117,27:41.70,,Anthony KIBE,27 MAR 2003,KEN,1f2,"Municipal Stadium, Miyoshi (JPN)",01 OCT 2022,1160,10000-metres,middlelong,male,u20
+118,27:41.79,,Bereket ZELEKE,07 NOV 2004,ETH,7,"Parliament Hill Fields Athletics Track, London (GBR)",20 MAY 2023,1160,10000-metres,middlelong,male,u20
+119,27:42.75,,Salim KIPSANG,22 DEC 1979,KEN,10,Bruxelles (BEL),28 AUG 1998,1159,10000-metres,middlelong,male,u20
+120,27:42.99,,Kiprono SITONIK,10 NOV 2001,KEN,5f8,"Kamiyugi Park Athletic Stadium, Hachioji (JPN)",21 NOV 2020,1158,10000-metres,middlelong,male,u20
+121,27:43.12,,Gebregziabher GEBREMARIAM,12 OCT 1984,ETH,2,Abuja (NGR),12 OCT 2003,1158,10000-metres,middlelong,male,u20
+122,27:43.14,,Robert Kipkorir KIPCHUMBA,24 FEB 1984,KEN,3,Rovereto (ITA),30 AUG 2000,1158,10000-metres,middlelong,male,u20
+123,27:43.16,,Martin Irungu MATHATHI,25 DEC 1985,KEN,1,Shizuoka (JPN),11 OCT 2003,1158,10000-metres,middlelong,male,u20
+124,27:43.40,,Martin Irungu MATHATHI,25 DEC 1985,KEN,1,Niigata (JPN),22 MAY 2004,1158,10000-metres,middlelong,male,u20
+125,27:43.65,,Yeneblo BIYAZEN,29 JAN 2000,ETH,1,Maia (POR),02 JUN 2018,1157,10000-metres,middlelong,male,u20
+126,27:43.85,,Rodgers KWEMOI,03 MAR 1998,KEN,3,Kobe (JPN),24 APR 2016,1157,10000-metres,middlelong,male,u20
+127,27:44.12,,Girma ASSEFA,20 JUN 1986,ETH,1,Hachioji (JPN),30 NOV 2005,1156,10000-metres,middlelong,male,u20
+128,27:44.49,,Julius GITAHI,29 APR 1978,KEN,1,Kobe (JPN),20 APR 1997,1156,10000-metres,middlelong,male,u20
+129,27:44.86,,James Gitahi RUNGARU,14 JAN 1993,KEN,2f1,Fukagawa (JPN),25 JUN 2011,1155,10000-metres,middlelong,male,u20
+129,27:44.86,,Sonata NAGASHIMA,17 JUN 2004,JPN,1,"NITTAIDAI Athletic Stadium, Yokohama (JPN)",02 DEC 2023,1155,10000-metres,middlelong,male,u20
+131,27:44.92,,Stephen MUTHINI,20 JUL 2005,KEN,1f1,"Athletic Track, Abashiri (JPN)",10 JUL 2024,1155,10000-metres,middlelong,male,u20
+132,27:45.02,,Julius GITAHI,29 APR 1978,KEN,1,Tokyo (JPN),04 OCT 1997,1155,10000-metres,middlelong,male,u20
+133,27:45.14,,Girma ASSEFA,20 JUN 1986,ETH,4,Shizuoka (JPN),03 MAY 2005,1155,10000-metres,middlelong,male,u20
+134,27:45.22,,Rodgers KWEMOI,03 MAR 1998,KEN,1f2,Gifu (JPN),17 OCT 2015,1155,10000-metres,middlelong,male,u20
+135,27:45.27,,Samuel MWANGI,19 SEP 1997,KEN,9f7,Hachioji (JPN),26 NOV 2016,1155,10000-metres,middlelong,male,u20
+136,27:45.31,,Joel MWAURA,20 JAN 1999,KEN,1f2,Osaka (JPN),22 SEP 2018,1155,10000-metres,middlelong,male,u20
+137,27:45.37,,Joel MWAURA,20 JAN 1999,KEN,5f2,Osaka (JPN),23 SEP 2017,1154,10000-metres,middlelong,male,u20
+138,27:45.87,,Philemon Kiplagat RUTO,20 SEP 2001,KEN,7f8,"Kamiyugi Park Athletic Stadium, Hachioji (JPN)",21 NOV 2020,1154,10000-metres,middlelong,male,u20
+139,27:46.10,,Josphat Muchiri NDAMBIRI,12 FEB 1985,KEN,1,Shizuoka (JPN),03 MAY 2004,1153,10000-metres,middlelong,male,u20
+140,27:46.38,,Chimdessa DEBELE,13 SEP 2003,ETH,10,"FBK Stadium, Hengelo (NED)",05 JUN 2022,1153,10000-metres,middlelong,male,u20
+141,27:46.47,,John KARIUKI,10 NOV 1986,KEN,3,Niigata (JPN),22 MAY 2004,1153,10000-metres,middlelong,male,u20
+142,27:46.50,,Teklemariam MEDHIN,24 JUN 1989,ERI,3f1,St-Maur (FRA),06 JUN 2008,1153,10000-metres,middlelong,male,u20
+143,27:46.61,,Moses MOSOP,07 JUL 1985,KEN,7,"Olympic Stadium, Athina (GRE)",20 AUG 2004,1153,10000-metres,middlelong,male,u20
+144,27:46.67,,Philemon Kiplagat RUTO,20 SEP 2001,KEN,2f3,Tajimi (JPN),09 OCT 2020,1152,10000-metres,middlelong,male,u20
+145,27:46.97,,Feyisa LILESA,01 FEB 1990,ETH,3,Pergine Valsugana (ITA),12 JUL 2008,1152,10000-metres,middlelong,male,u20
+146,27:47.30,,Stephen MUTHINI,20 JUL 2005,KEN,14f6,"Kamiyugi Park Athletic Stadium, Hachioji (JPN)",23 NOV 2024,1151,10000-metres,middlelong,male,u20
+147,27:47.59,,Samuel Muturi MUGO,02 MAY 1986,KEN,2,Maebashi (JPN),09 OCT 2005,1151,10000-metres,middlelong,male,u20
+148,27:47.76,,Vincent Kibet YEGON,05 DEC 2000,KEN,2f6,"Hosei University Stadium, Machida (JPN)",23 NOV 2019,1151,10000-metres,middlelong,male,u20
+149,27:47.88,,Emile HAFASHIMANA,01 MAR 2005,BDI,17,"Parliament Hill Fields Athletics Track, London (GBR)",18 MAY 2024,1151,10000-metres,middlelong,male,u20
+150,27:48.03,,Samuel NDUNGU,04 APR 1988,KEN,3,Fukuroi (JPN),14 OCT 2007,1150,10000-metres,middlelong,male,u20
+151,27:48.34,,Alene Emere RETA,25 JUN 1982,ETH,3,"Stadion Rošický, Praha (CZE)",05 JUN 2000,1150,10000-metres,middlelong,male,u20
+152,27:48.40,,Micah NJERU,05 AUG 1988,KEN,4,Fukuroi (JPN),14 OCT 2007,1150,10000-metres,middlelong,male,u20
+153,27:48.41,,Berihu AREGAWI,28 FEB 2001,ETH,3,"Ratinan Stadion, Tampere (FIN)",10 JUL 2018,1150,10000-metres,middlelong,male,u20
+154,27:48.42,,John Cheruiyot KORIR,13 DEC 1981,KEN,1,Nairobi (KEN),22 JUL 2000,1150,10000-metres,middlelong,male,u20
+155,27:48.55,,William Malel SITONIK,01 MAR 1994,KEN,1f12,Yokohama (JPN),28 SEP 2013,1150,10000-metres,middlelong,male,u20
+156,27:48.86,,Martin Irungu MATHATHI,25 DEC 1985,KEN,2,Kobe (JPN),20 APR 2003,1149,10000-metres,middlelong,male,u20
+157,27:48.87,,Cleophas Kandie MEYAN,14 AUG 2000,KEN,5f6,"Hosei University Stadium, Machida (JPN)",23 NOV 2019,1149,10000-metres,middlelong,male,u20
+158,27:48.89,,Joshua CHEPTEGEI,12 SEP 1996,UGA,9,"National Stadium, Beijing (CHN)",22 AUG 2015,1149,10000-metres,middlelong,male,u20
+159,27:49.46,,Joseph KAMATHI,23 NOV 1996,KEN,6f1,Fukagawa (JPN),09 JUL 2015,1148,10000-metres,middlelong,male,u20
+160,27:49.6h,,Rhonex KIPRUTO,12 OCT 1999,KEN,1,Nairobi (KEN),11 JUN 2018,1148,10000-metres,middlelong,male,u20
+161,27:49.70,,Rodgers KWEMOI,03 MAR 1998,KEN,10f7,Hachioji (JPN),28 NOV 2015,1148,10000-metres,middlelong,male,u20
+162,27:49.73,,John KARIUKI,10 NOV 1986,KEN,4,Kobe (JPN),24 APR 2004,1148,10000-metres,middlelong,male,u20
+163,27:49.93,,Patrick MWAKA,02 NOV 1992,KEN,3f1,Kobe (JPN),23 APR 2011,1147,10000-metres,middlelong,male,u20
+164,27:50.19,,John Cheruiyot KORIR,13 DEC 1981,KEN,3h1,"Olympic Stadium, Sydney (AUS)",22 SEP 2000,1147,10000-metres,middlelong,male,u20
+165,27:50.24,,Addis ABEBE,05 SEP 1970,ETH,3,Bruxelles (BEL),19 AUG 1988,1147,10000-metres,middlelong,male,u20
+166,27:50.43,,Philip MULUWA,03 MAR 2002,KEN,2f7,"Kamiyugi Park Athletic Stadium, Hachioji (JPN)",21 NOV 2020,1147,10000-metres,middlelong,male,u20
+167,27:50.45,,Dennis KIPRUTO,08 APR 2005,KEN,4,"NITTAIDAI Athletic Stadium, Yokohama (JPN)",22 APR 2023,1147,10000-metres,middlelong,male,u20
+168,27:50.53,,Ibrahim JEILAN,12 JUN 1989,ETH,17,"FBK Stadium, Hengelo (NED)",26 MAY 2007,1146,10000-metres,middlelong,male,u20
+169,27:50.7h,,Kennedy KIMUTAI,18 JUL 1991,KEN,2,Casablanca (MAR),14 JUN 2009,1146,10000-metres,middlelong,male,u20
+170,27:50.93,,Samuel MWANGI,19 SEP 1997,KEN,12f7,Hachioji (JPN),28 NOV 2015,1146,10000-metres,middlelong,male,u20
+171,27:51.07,,Addis ABEBE,05 SEP 1970,ETH,1,Lagos (NGR),04 AUG 1989,1146,10000-metres,middlelong,male,u20
+172,27:51.17,,Desta ALEMU,18 FEB 1992,ETH,2f3,Kita-Kyushu (JPN),14 MAY 2011,1145,10000-metres,middlelong,male,u20
+173,27:51.3h,,Jacob KIPLIMO,14 NOV 2000,UGA,1,Kampala (UGA),24 FEB 2018,1145,10000-metres,middlelong,male,u20
+174,27:51.36,,Abel BEKELE,01 JAN 2006,ETH,12,"Estadio Enrique Lopez Cuenca, Nerja (ESP)",14 JUN 2024,1145,10000-metres,middlelong,male,u20
+175,27:51.81,,Micah NJERU,05 AUG 1988,KEN,5,Kobe (JPN),22 APR 2007,1144,10000-metres,middlelong,male,u20
+176,27:51.89,,Milkesa MENGESHA,16 APR 2000,ETH,16,Hengelo (NED),17 JUL 2019,1144,10000-metres,middlelong,male,u20
+177,27:51.92,,Paul KUIRA,25 JAN 1990,KEN,1,Niigata (JPN),01 JUN 2008,1144,10000-metres,middlelong,male,u20
+178,27:51.99,,Philip KEMEI KIPKEMBOI,06 JUN 1977,KEN,9,Villeneuve d'Ascq (FRA),25 MAY 1996,1144,10000-metres,middlelong,male,u20
+178,27:51.99,,Mogeni Benuel MAGOMA,11 MAR 2001,KEN,8f6,"Hosei University Stadium, Machida (JPN)",23 NOV 2019,1144,10000-metres,middlelong,male,u20
+180,27:52.10,,Richard YATOR,04 JUN 1998,KEN,6f9,Yokohama (JPN),11 NOV 2017,1144,10000-metres,middlelong,male,u20
+181,27:52.32,,Nicholas MAKAU,15 OCT 1990,KEN,1f1,Kushiro (JPN),16 JUL 2008,1144,10000-metres,middlelong,male,u20
+182,27:52.54,,Dereje TADESSE,24 JAN 1987,ETH,,St-Maur (FRA),16 JUN 2006,1143,10000-metres,middlelong,male,u20
+183,27:52.66,,Joel MWAURA,20 JAN 1999,KEN,1f3,Kita-Kyushu (JPN),20 MAY 2017,1143,10000-metres,middlelong,male,u20
+184,27:52.83,,Samuel Muturi MUGO,02 MAY 1986,KEN,2,Shizuoka (JPN),03 MAY 2004,1143,10000-metres,middlelong,male,u20
+185,27:52.89,,Victor Kipkirui KORIR,14 AUG 2002,KEN,12f8,"Kamiyugi Park Athletic Stadium, Hachioji (JPN)",21 NOV 2020,1143,10000-metres,middlelong,male,u20
+186,27:53.00,,Duncan Maina MUTHEE,08 MAR 1991,KEN,1f8,Tokyo (JPN),27 NOV 2010,1143,10000-metres,middlelong,male,u20
+187,27:53.19,,Daniel KIPKEMBOI,05 JUL 1996,KEN,2f3,Tajimi (JPN),12 OCT 2015,1142,10000-metres,middlelong,male,u20
+187,27:53.19,,Daniel KIPKEMBOI,05 JUL 1996,KEN,3f2,Gifu (JPN),17 OCT 2015,1142,10000-metres,middlelong,male,u20
+189,27:53.37,,Boniface KIPROP,12 OCT 1985,UGA,4,Abuja (NGR),12 OCT 2003,1142,10000-metres,middlelong,male,u20
+190,27:53.39,,Philip MULUWA,03 MAR 2002,KEN,2f4,"Gion Stadium, Sagamihara (JPN)",19 JUN 2021,1142,10000-metres,middlelong,male,u20
+191,27:53.50,,John MAINA,14 JUL 1993,KEN,2f8,Tokyo (JPN),27 NOV 2010,1142,10000-metres,middlelong,male,u20
+192,27:53.59,,Kiprono SITONIK,10 NOV 2001,KEN,10f7,Machida (JPN),24 NOV 2018,1142,10000-metres,middlelong,male,u20
+193,27:53.79,,Joseph KAMATHI,23 NOV 1996,KEN,13f7,Hachioji (JPN),28 NOV 2015,1141,10000-metres,middlelong,male,u20
+194,27:53.82,,Rodgers KWEMOI,03 MAR 1998,KEN,1,Gifu (JPN),07 MAY 2016,1141,10000-metres,middlelong,male,u20
+195,27:53.88,,Dennis MASAI,01 DEC 1991,KEN,1,"Croix-Bleue Medavie Stadium, Moncton (CAN)",20 JUL 2010,1141,10000-metres,middlelong,male,u20
+196,27:53.9h,,Mathew Kipkorir KIMELI,04 JAN 1998,KEN,1,Nairobi (KEN),10 JUN 2017,1141,10000-metres,middlelong,male,u20
+197,27:54.13,,Cosmas Mwangi BOI,12 MAR 2003,KEN,9f3,"Nagaragawa Stadium, Gifu (JPN)",24 SEP 2022,1141,10000-metres,middlelong,male,u20
+198,27:54.28,,Kiplimo MUNERIA,28 AUG 1983,KEN,3,"Stadion Juliska, Praha (CZE)",17 JUN 2002,1141,10000-metres,middlelong,male,u20
+199,27:54.29,,Ayele ABSHERO,28 DEC 1990,ETH,5,Villeneuve d'Ascq (FRA),30 JUN 2009,1141,10000-metres,middlelong,male,u20
+200,27:54.6h,,Charles Yosey MNERIA,10 FEB 1996,KEN,2,Nairobi (KEN),11 JUL 2015,1140,10000-metres,middlelong,male,u20
+201,27:54.69,,Dennis MUTUKU,30 SEP 2005,KEN,10f6,"Kamiyugi Park Athletic Stadium, Hachioji (JPN)",25 NOV 2023,1140,10000-metres,middlelong,male,u20
+202,27:54.74,,Melaku ABERA,20 APR 1994,ETH,3f3,Kumagaya (JPN),20 SEP 2013,1140,10000-metres,middlelong,male,u20
+203,27:54.75,,Mekubo MOGUSU,25 DEC 1986,KEN,7,Kobe (JPN),24 APR 2005,1140,10000-metres,middlelong,male,u20
+204,27:54.98,,Patrick MATHENGE,02 NOV 1997,KEN,1f1,Abashiri (JPN),16 JUL 2015,1140,10000-metres,middlelong,male,u20
+205,27:55.21,,Mekubo MOGUSU,25 DEC 1986,KEN,2,Tokyo (JPN),13 MAY 2005,1139,10000-metres,middlelong,male,u20
+206,27:55.48,,Julius GITAHI,29 APR 1978,KEN,1,Mito (JPN),06 MAY 1996,1139,10000-metres,middlelong,male,u20
+207,27:55.49,,Victor Kipkirui KORIR,14 AUG 2002,KEN,6f1,"Athletics Stadium, Fukagawa (JPN)",07 JUL 2021,1139,10000-metres,middlelong,male,u20
+208,27:55.74,,Geoffrey KIRUI,16 FEB 1993,KEN,1,Gaborone (BOT),13 MAY 2011,1138,10000-metres,middlelong,male,u20
+209,27:55.75,,William Malel SITONIK,01 MAR 1994,KEN,7,Nairobi (KEN),13 JUL 2013,1138,10000-metres,middlelong,male,u20
+210,27:55.81,,Josphat Muchiri NDAMBIRI,12 FEB 1985,KEN,1,Tokyo (JPN),02 JUL 2004,1138,10000-metres,middlelong,male,u20
+211,27:55.85,,Tadesse FEYISSA,02 JUL 1982,ETH,13,Bruxelles (BEL),25 AUG 2000,1138,10000-metres,middlelong,male,u20
+212,27:55.88,,Girma ASSEFA,20 JUN 1986,ETH,1,Hachioji (JPN),24 NOV 2004,1138,10000-metres,middlelong,male,u20
+213,27:56.06,,Assefa MEZGEBU,19 JUN 1978,ETH,14,"Ullevi Stadium, Göteborg (SWE)",08 AUG 1995,1138,10000-metres,middlelong,male,u20
+214,27:56.11,,Philip MULUWA,03 MAR 2002,KEN,2,"Gion Stadium, Sagamihara (JPN)",20 MAY 2021,1138,10000-metres,middlelong,male,u20
+215,27:56.26,,Joshua CHEPTEGEI,12 SEP 1996,UGA,1f1,Leiden (NED),14 JUN 2014,1138,10000-metres,middlelong,male,u20
+216,27:56.39,,Patrick MWAKA,02 NOV 1992,KEN,7f2,Fukuroi (JPN),16 OCT 2010,1137,10000-metres,middlelong,male,u20
+217,27:56.47,,Dominic Nyairo OMARE,11 MAR 1997,KEN,3f1,Kobe (JPN),23 APR 2016,1137,10000-metres,middlelong,male,u20
+218,27:56.56,,Moses MOSOP,07 JUL 1985,KEN,5,Abuja (NGR),12 OCT 2003,1137,10000-metres,middlelong,male,u20
+219,27:56.79,,Martin MUKURE,14 DEC 1989,KEN,1f1,Fukagawa (JPN),11 JUN 2008,1137,10000-metres,middlelong,male,u20
+220,27:56.98,,Mogos SHUMAY,01 JAN 1997,ERI,8f1,"Palo Alto, CA (USA)",01 MAY 2016,1136,10000-metres,middlelong,male,u20
+221,27:57.19,,Joel MWAURA,20 JAN 1999,KEN,12f7,Machida (JPN),24 NOV 2018,1136,10000-metres,middlelong,male,u20
+222,27:57.21,,Girma ASSEFA,20 JUN 1986,ETH,8,Kobe (JPN),24 APR 2005,1136,10000-metres,middlelong,male,u20
+223,27:57.39,,Yeneblo BIYAZEN,29 JAN 2000,ETH,3,Kobe (JPN),22 APR 2018,1136,10000-metres,middlelong,male,u20
+224,27:57.44,,Solomon Kiplimo BOIT,01 OCT 1999,KEN,4,"Ratinan Stadion, Tampere (FIN)",10 JUL 2018,1136,10000-metres,middlelong,male,u20
+225,27:57.68,,Josphat Machuka KIPRONO,12 DEC 1973,KEN,3,Bruxelles (BEL),28 AUG 1992,1135,10000-metres,middlelong,male,u20
+226,27:57.94,,Elijah KORIR,15 APR 1978,KEN,8,Oslo (NOR),04 JUL 1997,1135,10000-metres,middlelong,male,u20
+227,27:57.99,,Paul Kipngetich TANUI,22 DEC 1990,KEN,3f1,Fugokawa (JPN),10 JUN 2009,1135,10000-metres,middlelong,male,u20
+228,27:58.02,,Charles NDIRANGU,08 FEB 1993,KEN,1f2,Kobe (JPN),21 APR 2012,1135,10000-metres,middlelong,male,u20
+229,27:58.60,,Paul Kipngetich TANUI,22 DEC 1990,KEN,1,Isahaya (JPN),26 SEP 2009,1134,10000-metres,middlelong,male,u20
+230,27:59.03,,Nicholas MAKAU,15 OCT 1990,KEN,4f1,Yamagata (JPN),26 SEP 2008,1133,10000-metres,middlelong,male,u20
+231,27:59.11,,Joseph Mana NDIRANGU,09 SEP 1994,KEN,5f1,Fukagawa (JPN),29 JUN 2013,1133,10000-metres,middlelong,male,u20
+232,27:59.3h,,Paul LONYANGATA,12 DEC 1992,KEN,9f1,Nairobi (KEN),16 JUL 2011,1133,10000-metres,middlelong,male,u20
+233,27:59.32,,Ryuji ONO,27 JAN 1985,JPN,3,Tottori (JPN),05 JUN 2004,1133,10000-metres,middlelong,male,u20
+234,27:59.52,,Rodgers KWEMOI,03 MAR 1998,KEN,7f1,Fukagawa (JPN),09 JUL 2015,1133,10000-metres,middlelong,male,u20
+235,27:59.61,,Samuel KABIRU,06 JUN 1983,KEN,5,Kobe (JPN),28 APR 2002,1132,10000-metres,middlelong,male,u20
+236,27:59.63,,Assefa MEZGEBU,19 JUN 1978,ETH,2,"FBK Stadium, Hengelo (NED)",05 JUN 1995,1132,10000-metres,middlelong,male,u20
+237,27:59.70,,Josphat Machuka KIPRONO,12 DEC 1973,KEN,1,Belle Vue Mauricia (MRI),25 JUN 1992,1132,10000-metres,middlelong,male,u20
+238,27:59.72,,Ryuji ONO,27 JAN 1985,JPN,1,Fukagawa (JPN),30 JUN 2004,1132,10000-metres,middlelong,male,u20
+239,27:59.77,,Kiyara KAMZEE,02 MAR 1980,KEN,11,"FBK Stadium, Hengelo (NED)",30 MAY 1999,1132,10000-metres,middlelong,male,u20
+240,27:59.88,,Samuel Muturi MUGO,02 MAY 1986,KEN,7,Kobe (JPN),24 APR 2004,1132,10000-metres,middlelong,male,u20
+241,28:00.12,,Julius GITAHI,29 APR 1978,KEN,1,Konosu (JPN),07 OCT 1995,1132,10000-metres,middlelong,male,u20
+242,28:00.14,,Samuel Kamau WANJIRU,10 NOV 1986,KEN,8,Kobe (JPN),24 APR 2004,1132,10000-metres,middlelong,male,u20
+242,28:00.14,,Amedework WALELEGN,11 MAR 1999,ETH,3,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",19 JUL 2016,1132,10000-metres,middlelong,male,u20
+244,28:00.36,,Philip MULUWA,03 MAR 2002,KEN,2,"Prefectural Stadium, Kumagaya (JPN)",17 SEP 2021,1131,10000-metres,middlelong,male,u20
+245,28:00.97,,Addis ABEBE,05 SEP 1970,ETH,1,Tokyo (JPN),16 SEP 1989,1130,10000-metres,middlelong,male,u20
+246,28:00.98,,Stephen KIPROTICH,27 FEB 1989,UGA,16f1,Neerpelt (BEL),31 MAY 2008,1130,10000-metres,middlelong,male,u20
+247,28:01.21,,James WAINAINA,16 JUN 1981,KEN,1,Shizuoka (JPN),14 OCT 2000,1130,10000-metres,middlelong,male,u20
+248,28:01.35,,Samuel MWANGI,19 SEP 1997,KEN,5f1,Abashiri (JPN),11 JUL 2016,1130,10000-metres,middlelong,male,u20
+249,28:01.76,,Cyrus KINGORI,05 JAN 1997,KEN,8f1,Kobe (JPN),23 APR 2016,1129,10000-metres,middlelong,male,u20
+250,28:01.81,,Habtom SAMUEL,30 NOV 2003,ERI,16,"Hayward Field, Eugene, OR (USA)",17 JUL 2022,1129,10000-metres,middlelong,male,u20
+251,28:01.88,,Nelson MANDELA,30 DEC 2004,KEN,1f2,"Universiade Commemorative Stadium, Kobe (JPN)",22 APR 2023,1129,10000-metres,middlelong,male,u20
+252,28:01.94,,Fabiano Joseph NAASI,24 DEC 1985,TAN,10,"Olympic Stadium, Athina (GRE)",20 AUG 2004,1129,10000-metres,middlelong,male,u20
+253,28:01.99,,Josphat Muchiri NDAMBIRI,12 FEB 1985,KEN,10,Kobe (JPN),24 APR 2004,1129,10000-metres,middlelong,male,u20
+254,28:02.08,,Aadam Ismaeel KHAMIS,12 FEB 1989,BRN,3,Doha (QAT),09 DEC 2006,1129,10000-metres,middlelong,male,u20
+255,28:02.09,,Josphat Muchiri NDAMBIRI,12 FEB 1985,KEN,5,Kobe (JPN),20 APR 2003,1129,10000-metres,middlelong,male,u20
+256,28:02.16,,Dominic Nyairo OMARE,11 MAR 1997,KEN,2f17,Yokohama (JPN),24 SEP 2016,1128,10000-metres,middlelong,male,u20
+257,28:02.26,,Johnson KIUMBANI,27 JAN 1993,KEN,3f1,Abashiri (JPN),07 JUL 2012,1128,10000-metres,middlelong,male,u20
+258,28:02.3h,,Geoffrey KIRUI,16 FEB 1993,KEN,11f1,Nairobi (KEN),16 JUL 2011,1128,10000-metres,middlelong,male,u20
+259,28:02.72,,John KARIUKI,10 NOV 1986,KEN,6,Kobe (JPN),20 APR 2003,1128,10000-metres,middlelong,male,u20
+260,28:02.79,,Daniel MUIVA KITONYI,12 JAN 1994,KEN,1f10,Yokohama (JPN),30 NOV 2013,1128,10000-metres,middlelong,male,u20
+261,28:02.83,,Joel MWAURA,20 JAN 1999,KEN,2f3,Kitakyushu (JPN),19 MAY 2018,1127,10000-metres,middlelong,male,u20
+262,28:02.87,,Patrick MWAKA,02 NOV 1992,KEN,2,Gifu (JPN),07 MAY 2011,1127,10000-metres,middlelong,male,u20
+263,28:02.93,,John KARIUKI,10 NOV 1986,KEN,3,Marugame (JPN),24 SEP 2005,1127,10000-metres,middlelong,male,u20
+264,28:02.96,,Mekubo MOGUSU,25 DEC 1986,KEN,7,Tottori (JPN),05 JUN 2004,1127,10000-metres,middlelong,male,u20
+265,28:03.00,,Dennis MUTUKU,30 SEP 2005,KEN,20f6,"Kamiyugi Park Athletic Stadium, Hachioji (JPN)",23 NOV 2024,1127,10000-metres,middlelong,male,u20
+266,28:03.03,,Gebregziabher GEBREMARIAM,12 OCT 1984,ETH,4,"FBK Stadium, Hengelo (NED)",01 JUN 2003,1127,10000-metres,middlelong,male,u20
+267,28:03.07,,Alexander MUNYAO,10 SEP 1996,KEN,19f7,Hachioji (JPN),28 NOV 2015,1127,10000-metres,middlelong,male,u20
+268,28:03.31,,Nehemiah KIPNGENO,02 MAY 2007,KEN,2f7,"Athletics Stadium, Setagaya, Tokyo (JPN)",04 OCT 2025,1127,10000-metres,middlelong,male,u20
+269,28:03.40,,Joseph KAMATHI,23 NOV 1996,KEN,4f1,Fukagawa (JPN),25 JUN 2014,1127,10000-metres,middlelong,male,u20
+270,28:03.45,,Gebretsadik ABRAHA,16 JUL 1992,ETH,2,"Croix-Bleue Medavie Stadium, Moncton (CAN)",20 JUL 2010,1127,10000-metres,middlelong,male,u20
+271,28:03.51,,Kazuma MAEDA,16 JAN 2005,JPN,3f4,"Gion Stadium, Sagamihara (JPN)",17 JUN 2023,1126,10000-metres,middlelong,male,u20
+272,28:03.53,,Musio SAIDAMU,12 OCT 2000,KEN,1f7,Yokohama (JPN),20 APR 2019,1126,10000-metres,middlelong,male,u20
+273,28:03.67,,Joseph KAMATHI,23 NOV 1996,KEN,5f3,Tajimi (JPN),12 OCT 2015,1126,10000-metres,middlelong,male,u20
+273,28:03.67,,Joseph KAMATHI,23 NOV 1996,KEN,6f2,Gifu (JPN),17 OCT 2015,1126,10000-metres,middlelong,male,u20
+275,28:03.75,,Nicholas MAKAU,15 OCT 1990,KEN,5f1,Okayama (JPN),25 SEP 2009,1126,10000-metres,middlelong,male,u20
+276,28:03.77,,Boniface KIPROP,12 OCT 1985,UGA,1,"Stadio Zecchini, Grosseto (ITA)",14 JUL 2004,1126,10000-metres,middlelong,male,u20
+277,28:03.79,,James Kipyego KORORIA,25 DEC 1971,KEN,2,Kobe (JPN),29 APR 1990,1126,10000-metres,middlelong,male,u20
+278,28:03.90,,Yamato YOSHII,14 FEB 2002,JPN,9f10,"NITTAIDAI Athletic Stadium, Yokohama (JPN)",04 DEC 2021,1126,10000-metres,middlelong,male,u20
+279,28:03.91,,Josphat Kipkoech BETT,12 JUN 1990,KEN,14,"Boudewijnstadion, Bruxelles (BEL)",05 SEP 2008,1126,10000-metres,middlelong,male,u20
+280,28:03.93,,John KARIUKI,10 NOV 1986,KEN,3,Shizuoka (JPN),03 MAY 2004,1126,10000-metres,middlelong,male,u20
+281,28:03.99,,Haile GEBRSELASSIE,18 APR 1973,ETH,1,"Olympic Stadium, Seoul (KOR)",18 SEP 1992,1126,10000-metres,middlelong,male,u20
+282,28:04.07,,Afewerki BERHANE,06 MAY 1996,ERI,2,San Sebastián (ESP),24 JUL 2015,1126,10000-metres,middlelong,male,u20
+283,28:04.11,,Samuel Kamau WANJIRU,10 NOV 1986,KEN,1,Hachioji (JPN),27 NOV 2004,1125,10000-metres,middlelong,male,u20
+284,28:04.20,,John Morimbori GWAKO,04 SEP 1978,KEN,6,Villeneuve d'Ascq (FRA),29 JUN 1997,1125,10000-metres,middlelong,male,u20
+285,28:04.45,,Fabiano Joseph NAASI,24 DEC 1985,TAN,2,"Stadio Zecchini, Grosseto (ITA)",14 JUL 2004,1125,10000-metres,middlelong,male,u20
+286,28:04.55,,Vincent Kibet YEGON,05 DEC 2000,KEN,1f4,Sagamihara (JPN),23 JUN 2019,1125,10000-metres,middlelong,male,u20
+287,28:04.79,,Kiprono SITONIK,10 NOV 2001,KEN,13f6,"Hosei University Stadium, Machida (JPN)",23 NOV 2019,1124,10000-metres,middlelong,male,u20
+288,28:05.14,,Victor Kipkirui KORIR,14 AUG 2002,KEN,3f1,Fukagawa (JPN),09 JUL 2019,1124,10000-metres,middlelong,male,u20
+289,28:05.31,,Martin Irungu MATHATHI,25 DEC 1985,KEN,2,Shizuoka (JPN),03 MAY 2003,1124,10000-metres,middlelong,male,u20
+289,28:05.31,,Ibrahim JEILAN,12 JUN 1989,ETH,15,"Boudewijnstadion, Bruxelles (BEL)",05 SEP 2008,1124,10000-metres,middlelong,male,u20
+291,28:05.43,,Stephen MUTHINI,20 JUL 2005,KEN,2f1,"Universiade Commemorative Stadium, Kobe (JPN)",20 APR 2024,1123,10000-metres,middlelong,male,u20
+292,28:05.54,,Tadesse TESFAHUN,1999,ETH,10,"FBK Stadium, Hengelo (NED)",11 JUN 2017,1123,10000-metres,middlelong,male,u20
+293,28:05.91,,Shotaro ISHIHARA,04 JAN 2002,JPN,2,"Gion Stadium, Sagamihara (JPN)",20 MAY 2021,1123,10000-metres,middlelong,male,u20
+294,28:05.96,,Daniel GITAU,01 OCT 1987,KEN,2,Yokohama (JPN),21 OCT 2006,1123,10000-metres,middlelong,male,u20
+295,28:05.99,,Solomon BUSHENDICH,10 JAN 1984,KEN,5,Pontevedra (ESP),20 JUL 2003,1123,10000-metres,middlelong,male,u20
+296,28:06.00,,Awash Habtamu FIKADU,13 MAR 1988,ETH,7,Algiers (ALG),19 JUL 2007,1123,10000-metres,middlelong,male,u20
+297,28:06.04,,Victor Kipkirui KORIR,14 AUG 2002,KEN,15f6,"Hosei University Stadium, Machida (JPN)",23 NOV 2019,1123,10000-metres,middlelong,male,u20
+298,28:06.08,,Martin MUKURE,14 DEC 1989,KEN,5f1,Yamagata (JPN),26 SEP 2008,1122,10000-metres,middlelong,male,u20
+299,28:06.09,,Philemon KEMEI CHERUIYOT,12 FEB 1982,KEN,,Carpi (ITA),17 JUN 2000,1122,10000-metres,middlelong,male,u20
+300,28:06.27,,Shunsuke YOSHII,08 APR 2003,JPN,15f6,"Gion Stadium, Machida (JPN)",26 NOV 2022,1122,10000-metres,middlelong,male,u20
+301,28:06.31,,Patrick KINYANJUI,14 SEP 2003,KEN,12f10,"NITTAIDAI Athletic Stadium, Yokohama (JPN)",04 DEC 2021,1122,10000-metres,middlelong,male,u20
+302,28:06.36,,Fabiano Joseph NAASI,24 DEC 1985,TAN,13,"Stade de France, Paris-St-Denis (FRA)",24 AUG 2003,1122,10000-metres,middlelong,male,u20
+303,28:06.43,,Addis ABEBE,05 SEP 1970,ETH,2,"Estadio Olímpico, Barcelona (ESP)",08 SEP 1989,1122,10000-metres,middlelong,male,u20
+304,28:06.52,,Philip MULUWA,03 MAR 2002,KEN,2,"Denka Big Swan Stadium, Niigata (JPN)",11 SEP 2020,1122,10000-metres,middlelong,male,u20
+305,28:06.62,,Barnabas Kiplagat KOSGEI,20 AUG 1986,KEN,15,"FBK Stadium, Hengelo (NED)",29 MAY 2005,1122,10000-metres,middlelong,male,u20
+306,28:06.8h,,Geoffrey KORIR,01 DEC 1996,KEN,2,Nairobi (KEN),04 JUN 2015,1121,10000-metres,middlelong,male,u20
+307,28:07.0h,,Moses MOSOP,07 JUL 1985,KEN,2,Nairobi (KEN),26 JUN 2004,1121,10000-metres,middlelong,male,u20
+308,28:07.1h,,Ismael KIRUI,20 FEB 1975,KEN,1,Nairobi (KEN),02 JUL 1993,1121,10000-metres,middlelong,male,u20
+309,28:07.39,,Yuki SATO,26 NOV 1986,JPN,2,Hachioji (JPN),27 NOV 2004,1120,10000-metres,middlelong,male,u20
+309,28:07.39,,Nicholas MAKAU,15 OCT 1990,KEN,3f1,Shizuoka (JPN),03 MAY 2009,1120,10000-metres,middlelong,male,u20
+311,28:07.69,,Jackson Kavesa MUEMA,03 SEP 2001,KEN,19f8,"Kamiyugi Park Athletic Stadium, Hachioji (JPN)",21 NOV 2020,1120,10000-metres,middlelong,male,u20
+312,28:07.70,,Petro META,18 DEC 1973,TAN,1,Formia (ITA),08 JUL 1991,1120,10000-metres,middlelong,male,u20
+313,28:07.98,,Ibrahim JEILAN,12 JUN 1989,ETH,3,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",09 JUL 2008,1120,10000-metres,middlelong,male,u20
+314,28:08.26,,Evans KIPLAGAT,07 MAY 2005,KEN,5f1,"Cobb Track and Angell Field, Palo Alto, CA (USA)",29 MAR 2024,1119,10000-metres,middlelong,male,u20
+315,28:08.28,,Jonathan Muia NDIKU,18 SEP 1991,KEN,1f4,Tokyo (JPN),29 NOV 2008,1119,10000-metres,middlelong,male,u20
+316,28:08.32,,Samuel MWANGI,19 SEP 1997,KEN,3f2,Kumagaya (JPN),21 MAY 2016,1119,10000-metres,middlelong,male,u20
+317,28:08.45,,Cyrus Gichobi NJUI,11 FEB 1986,KEN,13,Kobe (JPN),24 APR 2005,1119,10000-metres,middlelong,male,u20
+318,28:08.58,,Hunegnaw MESFIN,31 JAN 1989,ETH,4,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",09 JUL 2008,1119,10000-metres,middlelong,male,u20
+319,28:08.6h,,Moses Ndiema MASAI,01 JUN 1986,KEN,5,Nairobi (KEN),25 JUN 2005,1119,10000-metres,middlelong,male,u20
+320,28:08.61,,Yamato YOSHII,14 FEB 2002,JPN,3f9,"NITTAIDAI Athletic Stadium, Yokohama (JPN)",14 NOV 2020,1119,10000-metres,middlelong,male,u20
+321,28:08.72,,Stephen MUTHINI,20 JUL 2005,KEN,1f2,"Athletics Stadium, Fukagawa (JPN)",05 JUL 2023,1118,10000-metres,middlelong,male,u20
+322,28:08.79,,Gebregziabher GEBREMARIAM,12 OCT 1984,ETH,2,Hyderabad (IND),30 OCT 2003,1118,10000-metres,middlelong,male,u20
+323,28:08.98,,Amos KIRUI,09 FEB 1998,KEN,2,Gifu (JPN),07 MAY 2016,1118,10000-metres,middlelong,male,u20
+324,28:09.3h,,John Kemboi CHERUIYOT,05 JUL 1990,KEN,1,Nairobi (KEN),16 JUN 2009,1118,10000-metres,middlelong,male,u20
+325,28:09.57,,Gizachew NEGASA,18 APR 1998,ETH,4,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",19 JUL 2016,1117,10000-metres,middlelong,male,u20
+326,28:09.72,,Dennis KIPRUTO,08 APR 2005,KEN,6f2,"National Stadium, Tokyo (JPN)",09 MAY 2024,1117,10000-metres,middlelong,male,u20
+327,28:09.95,,John KARIUKI,10 NOV 1986,KEN,1,Gifu (JPN),07 MAY 2005,1117,10000-metres,middlelong,male,u20
+328,28:09.97,,Melaku ABERA,20 APR 1994,ETH,4f2,Fukagawa (JPN),29 JUN 2013,1117,10000-metres,middlelong,male,u20

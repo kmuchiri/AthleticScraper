@@ -53,8 +53,8 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 52,12:04.41,,Yelena NIKOLAYEVA,1966-02-01,RUS,2,Moskva (RUS) (i),1993-02-27,1152,3000-metres-race-walk,race-walks,female,senior,3000-metres-race-walk,track,724.41,RUS,27.0,1993
 53,12:04.46,,Leonarda YUKHNEVICH,1963-05-01,BLR,5,"Palais Omnisports de Paris-Bercy, Paris (FRA) (i)",1994-03-11,1152,3000-metres-race-walk,race-walks,female,senior,3000-metres-race-walk,track,724.46,FRA,30.0,1994
 54,12:04.51,,Annarita SIDOTI,1969-07-25,ITA,4,"Palazzo dello Sport, Genova (ITA) (i)",1992-02-29,1152,3000-metres-race-walk,race-walks,female,senior,3000-metres-race-walk,track,724.51,ITA,22.0,1992
-55,12:04.86,,Sabine ZIMMER-KRANTZ,1981-02-06,GER,1,Sindelfingen (GER),2005-02-19,1151,3000-metres-race-walk,race-walks,female,senior,3000-metres-race-walk,track,724.86,GER,24.0,2005
 55,12:04.86,,Sabine ZIMMER-KRANTZ,1981-02-06,GER,1,Sindelfingen (GER) (i),2005-02-19,1151,3000-metres-race-walk,race-walks,female,senior,3000-metres-race-walk,track,724.86,GER,24.0,2005
+55,12:04.86,,Sabine ZIMMER-KRANTZ,1981-02-06,GER,1,Sindelfingen (GER),2005-02-19,1151,3000-metres-race-walk,race-walks,female,senior,3000-metres-race-walk,track,724.86,GER,24.0,2005
 57,12:05.1h,,Anastasiya KOLCHINA,2005-05-11,RUS,1,"Football and athletics Arena, Saransk (RUS) (i)",2023-09-24,1151,3000-metres-race-walk,race-walks,female,senior,3000-metres-race-walk,track,725.1,RUS,18.0,2023
 58,12:05.49,,Olga KRISHTOP,1957-10-08,URS,1,"Hoosier Dome, Indianapolis, IN (USA) (i)",1987-03-06,1150,3000-metres-race-walk,race-walks,female,senior,3000-metres-race-walk,track,725.49,USA,29.0,1987
 59,12:05.6h,,Lyudmila YEFIMKINA,1981-08-22,RUS,1,Insar (UZB) (i),1998-03-01,1150,3000-metres-race-walk,race-walks,female,senior,3000-metres-race-walk,track,725.6,UZB,16.0,1998
@@ -66,8 +66,8 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 64,12:06.10,,Sari ESSAYAH,1967-02-21,FIN,7,"The Sky Dome, Toronto (CAN) (i)",1993-03-13,1149,3000-metres-race-walk,race-walks,female,senior,3000-metres-race-walk,track,726.1,CAN,26.0,1993
 65,12:06.24,,Beate GUMMELT,1968-02-04,GER,1,Liévin (FRA) (i),1994-02-13,1149,3000-metres-race-walk,race-walks,female,senior,3000-metres-race-walk,track,726.24,FRA,26.0,1994
 66,12:06.63,,Yelena NIKOLAYEVA,1966-02-01,RUS,1,Formia (ITA),1997-07-13,1148,3000-metres-race-walk,race-walks,female,senior,3000-metres-race-walk,track,726.63,ITA,31.0,1997
-67,12:07.19,,Brigita VIRBALYTĖ-DIMSIENĖ,1985-02-01,LTU,,Klaipėda (LTU) (i),2014-02-22,1147,3000-metres-race-walk,race-walks,female,senior,3000-metres-race-walk,track,727.19,LTU,29.0,2014
 67,12:07.19,,Brigita VIRBALYTĖ-DIMSIENĖ,1985-02-01,LTU,1,Wien (AUT) (i),2014-02-08,1147,3000-metres-race-walk,race-walks,female,senior,3000-metres-race-walk,track,727.19,AUT,29.0,2014
+67,12:07.19,,Brigita VIRBALYTĖ-DIMSIENĖ,1985-02-01,LTU,,Klaipėda (LTU) (i),2014-02-22,1147,3000-metres-race-walk,race-walks,female,senior,3000-metres-race-walk,track,727.19,LTU,29.0,2014
 69,12:07.41,,Eleonora Anna GIORGI,1989-09-14,ITA,,"San Diego, CA (USA)",2015-01-17,1146,3000-metres-race-walk,race-walks,female,senior,3000-metres-race-walk,track,727.41,USA,25.0,2015
 70,12:07.67,,Ileana SALVADOR,1962-01-16,ITA,3,"Palacio de los Deportes, Sevilla (ESP) (i)",1991-03-09,1146,3000-metres-race-walk,race-walks,female,senior,3000-metres-race-walk,track,727.67,ESP,29.0,1991
 71,12:07.70,,Olga KARDOPOLTSEVA,1966-09-11,URS,4,"Palacio de los Deportes, Sevilla (ESP) (i)",1991-03-09,1146,3000-metres-race-walk,race-walks,female,senior,3000-metres-race-walk,track,727.7,ESP,24.0,1991
@@ -89,8 +89,8 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 87,12:11.3h,,Olimpiada IVANOVA,1970-08-29,RUS,1,Moskva (RUS),1997-01-23,1138,3000-metres-race-walk,race-walks,female,senior,3000-metres-race-walk,track,731.3,RUS,26.0,1997
 88,12:11.33,,Ileana SALVADOR,1962-01-16,ITA,3,"Budapest Sportcsarnok, Budapest (HUN) (i)",1989-03-04,1138,3000-metres-race-walk,race-walks,female,senior,3000-metres-race-walk,track,731.33,HUN,27.0,1989
 89,12:11.48,,Vera MAKOLOVA-NACHARKINA,1966-02-17,URS,1,Chelyabinsk (URS) (i),1990-02-03,1138,3000-metres-race-walk,race-walks,female,senior,3000-metres-race-walk,track,731.48,URS,23.0,1990
-90,12:11.70,,Miao YU,1989-04-02,CHN,2,Zhengzhou (CHN),2005-08-27,1137,3000-metres-race-walk,race-walks,female,senior,3000-metres-race-walk,track,731.7,CHN,16.0,2005
 2,12:11.70,,Miao YU,1989-04-02,CHN,2,Zhengzhou (CHN),2005-08-27,1137,3000-metres-race-walk,race-walks,female,u18,3000-metres-race-walk,track,731.7,CHN,16.0,2005
+90,12:11.70,,Miao YU,1989-04-02,CHN,2,Zhengzhou (CHN),2005-08-27,1137,3000-metres-race-walk,race-walks,female,senior,3000-metres-race-walk,track,731.7,CHN,16.0,2005
 91,12:12.23,,Sabine ZIMMER-KRANTZ,1981-02-06,GER,2,Leipzig (GER) (i),2007-02-17,1136,3000-metres-race-walk,race-walks,female,senior,3000-metres-race-walk,track,732.23,GER,26.0,2007
 92,12:12.80,,Sari ESSAYAH,1967-02-21,FIN,6,"Palais Omnisports de Paris-Bercy, Paris (FRA) (i)",1994-03-11,1135,3000-metres-race-walk,race-walks,female,senior,3000-metres-race-walk,track,732.8,FRA,27.0,1994
 93,12:12.97,,Vera SOKOLOVA,1987-06-23,RUS,2,Samara (RUS) (i),2014-01-30,1135,3000-metres-race-walk,race-walks,female,senior,3000-metres-race-walk,track,732.97,RUS,26.0,2014
@@ -136,8 +136,8 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 133,12:18.26,,Antigoni NTRISMPIOTI,1984-03-21,GRE,1,"Peace and Friendship Stadium, Piraeus (GRE) (i)",2023-02-18,1124,3000-metres-race-walk,race-walks,female,senior,3000-metres-race-walk,track,738.26,GRE,38.0,2023
 134,12:18.70,,Sabine ZIMMER-KRANTZ,1981-02-06,GER,1,Dortmund (GER) (i),2012-01-29,1123,3000-metres-race-walk,race-walks,female,senior,3000-metres-race-walk,track,738.7,GER,30.0,2012
 135,12:18.84,,Ileana SALVADOR,1962-01-16,ITA,2,"Kelvin Hall, Glasgow (GBR) (i)",1990-03-04,1123,3000-metres-race-walk,race-walks,female,senior,3000-metres-race-walk,track,738.84,GBR,28.0,1990
-136,12:18.86,,Kate VEALE,1994-01-05,IRL,1,Tullamore (IRL),2011-07-23,1123,3000-metres-race-walk,race-walks,female,senior,3000-metres-race-walk,track,738.86,IRL,17.0,2011
 3,12:18.86,,Kate VEALE,1994-01-05,IRL,1,Tullamore (IRL),2011-07-23,1123,3000-metres-race-walk,race-walks,female,u18,3000-metres-race-walk,track,738.86,IRL,17.0,2011
+136,12:18.86,,Kate VEALE,1994-01-05,IRL,1,Tullamore (IRL),2011-07-23,1123,3000-metres-race-walk,race-walks,female,senior,3000-metres-race-walk,track,738.86,IRL,17.0,2011
 137,12:19.08,,Ildikó ILYÉS,1966-08-28,HUN,2,Budapest (HUN) (i),1991-02-26,1122,3000-metres-race-walk,race-walks,female,senior,3000-metres-race-walk,track,739.08,HUN,24.0,1991
 138,12:19.15,,Brigita VIRBALYTĖ-DIMSIENĖ,1985-02-01,LTU,1,Klaipėda (LTU) (i),2018-02-17,1122,3000-metres-race-walk,race-walks,female,senior,3000-metres-race-walk,track,739.15,LTU,33.0,2018
 139,12:19.3h,,Tamara KOVALENKO,1964-06-05,RUS,2,Moskva (RUS),1997-01-23,1122,3000-metres-race-walk,race-walks,female,senior,3000-metres-race-walk,track,739.3,RUS,32.0,1997
@@ -201,12 +201,12 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 196,12:26.14,,Beate ANDERS,1968-02-04,GER,2h1,"Palazzo dello Sport, Genova (ITA) (i)",1992-02-28,1108,3000-metres-race-walk,race-walks,female,senior,3000-metres-race-walk,track,746.14,ITA,24.0,1992
 197,12:26.15,,Alina IVANOVA,1969-03-16,EUN,3h1,"Palazzo dello Sport, Genova (ITA) (i)",1992-02-28,1108,3000-metres-race-walk,race-walks,female,senior,3000-metres-race-walk,track,746.15,ITA,22.0,1992
 198,12:26.23,,Sonata MILUŠAUSKAITĖ,1973-08-21,LTU,1,Espinho (POR) (i),2006-02-25,1108,3000-metres-race-walk,race-walks,female,senior,3000-metres-race-walk,track,746.23,POR,32.0,2006
-5,12:26.24,,Sabine ZIMMER-KRANTZ,1981-02-06,GER,1,Berlin (GER),1998-06-26,1108,3000-metres-race-walk,race-walks,female,u18,3000-metres-race-walk,track,746.24,GER,17.0,1998
 199,12:26.24,,Sabine ZIMMER-KRANTZ,1981-02-06,GER,1,Berlin (GER),1998-06-26,1108,3000-metres-race-walk,race-walks,female,senior,3000-metres-race-walk,track,746.24,GER,17.0,1998
+5,12:26.24,,Sabine ZIMMER-KRANTZ,1981-02-06,GER,1,Berlin (GER),1998-06-26,1108,3000-metres-race-walk,race-walks,female,u18,3000-metres-race-walk,track,746.24,GER,17.0,1998
 200,12:26.32,,Anne MANNING,1959-11-13,AUS,3,Melbourne (AUS),1991-02-07,1108,3000-metres-race-walk,race-walks,female,senior,3000-metres-race-walk,track,746.32,AUS,31.0,1991
 201,12:26.37,,Yekaterina SAMOYLENKO,1963-01-23,UKR,1,Budapest (HUN) (i),1993-02-05,1107,3000-metres-race-walk,race-walks,female,senior,3000-metres-race-walk,track,746.37,HUN,30.0,1993
-202,12:26.45,,Pauline STEY,2001-09-09,FRA,1,"Stade couvert Jesse Owens, Val-de-Reuil (FRA) (i)",2023-02-11,1107,3000-metres-race-walk,race-walks,female,senior,3000-metres-race-walk,track,746.45,FRA,21.0,2023
 202,12:26.45,,Bethan DAVIES,1990-11-07,GBR,1,Cardiff (GBR),2017-06-10,1107,3000-metres-race-walk,race-walks,female,senior,3000-metres-race-walk,track,746.45,GBR,26.0,2017
+202,12:26.45,,Pauline STEY,2001-09-09,FRA,1,"Stade couvert Jesse Owens, Val-de-Reuil (FRA) (i)",2023-02-11,1107,3000-metres-race-walk,race-walks,female,senior,3000-metres-race-walk,track,746.45,FRA,21.0,2023
 204,12:26.90,,Natalya SPIRIDONOVA,1963-04-06,URS,1,Volgograd (URS) (i),1988-02-10,1106,3000-metres-race-walk,race-walks,female,senior,3000-metres-race-walk,track,746.9,URS,24.0,1988
 205,12:27.0h,,Anita LIEPIŅA,1967-11-17,LAT,1,Ventspils (LAT),1997-08-16,1106,3000-metres-race-walk,race-walks,female,senior,3000-metres-race-walk,track,747.0,LAT,29.0,1997
 206,12:27.16,,Melanie SEEGER,1977-01-08,GER,2,Sindelfingen (GER) (i),2005-02-19,1106,3000-metres-race-walk,race-walks,female,senior,3000-metres-race-walk,track,747.16,GER,28.0,2005
@@ -216,8 +216,8 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 210,12:27.42,,Annarita SIDOTI,1969-07-25,ITA,4h1,"Palazzo dello Sport, Genova (ITA) (i)",1992-02-28,1105,3000-metres-race-walk,race-walks,female,senior,3000-metres-race-walk,track,747.42,ITA,22.0,1992
 211,12:27.5h,,Claudia ŞTEF,1978-02-25,ROU,1,Moskva (RUS) (i),2012-02-05,1105,3000-metres-race-walk,race-walks,female,senior,3000-metres-race-walk,track,747.5,RUS,33.0,2012
 212,12:27.73,,Tanya HOLLIDAY,1988-09-21,AUS,1,Adelaide (AUS),2013-01-19,1105,3000-metres-race-walk,race-walks,female,senior,3000-metres-race-walk,track,747.73,AUS,24.0,2013
-213,12:27.82,,Kate VEALE,1994-01-05,IRL,1,"National Indoor Arena, Abbotstown, Dublin (IRL) (i)",2024-02-18,1105,3000-metres-race-walk,race-walks,female,senior,3000-metres-race-walk,track,747.82,IRL,30.0,2024
 213,12:27.82,,Maria REYES SOBRINO,1967-01-06,ESP,3h1,"Budapest Sportcsarnok, Budapest (HUN) (i)",1989-03-03,1105,3000-metres-race-walk,race-walks,female,senior,3000-metres-race-walk,track,747.82,HUN,22.0,1989
+213,12:27.82,,Kate VEALE,1994-01-05,IRL,1,"National Indoor Arena, Abbotstown, Dublin (IRL) (i)",2024-02-18,1105,3000-metres-race-walk,race-walks,female,senior,3000-metres-race-walk,track,747.82,IRL,30.0,2024
 215,12:27.94,,Annarita SIDOTI,1969-07-25,ITA,3,"Kelvin Hall, Glasgow (GBR) (i)",1990-03-04,1104,3000-metres-race-walk,race-walks,female,senior,3000-metres-race-walk,track,747.94,GBR,20.0,1990
 216,12:27.95,,Giulia GABRIELE,2005-11-11,ITA,1,"Palaindoor Ancona, Ancona (ITA) (i)",2025-02-01,1104,3000-metres-race-walk,race-walks,female,senior,3000-metres-race-walk,track,747.95,ITA,19.0,2025
 217,12:27.97,,Katarzyna ZDZIEBŁO,1996-11-28,POL,1,"Hala Uniwersytetu, Rzeszów (POL) (i)",2025-02-08,1104,3000-metres-race-walk,race-walks,female,senior,3000-metres-race-walk,track,747.97,POL,28.0,2025
@@ -228,8 +228,8 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 221,12:28.22,,Antigoni NTRISMPIOTI,1984-03-21,GRE,1,"Peace and Friendship Stadium, Piraeus (GRE) (i)",2020-02-28,1104,3000-metres-race-walk,race-walks,female,senior,3000-metres-race-walk,track,748.22,GRE,35.0,2020
 222,12:28.32,,Michelle ROHL,1965-11-12,USA,1,"Atlanta, GA (USA) (i)",2001-03-03,1104,3000-metres-race-walk,race-walks,female,senior,3000-metres-race-walk,track,748.32,USA,35.0,2001
 223,12:28.37,,Sonata MILUŠAUSKAITĖ,1973-08-21,LTU,1,Alcanena (POR),2006-03-11,1103,3000-metres-race-walk,race-walks,female,senior,3000-metres-race-walk,track,748.37,POR,32.0,2006
-224,12:28.7h,,Nadezhda RYASHKINA,1967-01-22,RUS,1,Moskva (RUS),1998-01-06,1103,3000-metres-race-walk,race-walks,female,senior,3000-metres-race-walk,track,748.7,RUS,30.0,1998
 224,12:28.70,,Inês HENRIQUES,1980-05-01,POR,1,Pombal (POR) (i),2011-02-26,1103,3000-metres-race-walk,race-walks,female,senior,3000-metres-race-walk,track,748.7,POR,30.0,2011
+224,12:28.7h,,Nadezhda RYASHKINA,1967-01-22,RUS,1,Moskva (RUS),1998-01-06,1103,3000-metres-race-walk,race-walks,female,senior,3000-metres-race-walk,track,748.7,RUS,30.0,1998
 226,12:28.76,,Dana VAVŘAČOVÁ,1954-06-25,TCH,4,"Kelvin Hall, Glasgow (GBR) (i)",1990-03-04,1103,3000-metres-race-walk,race-walks,female,senior,3000-metres-race-walk,track,748.76,GBR,35.0,1990
 227,12:28.92,,Elisa RIGAUDO,1980-06-17,ITA,1,Torino (ITA),2002-06-07,1102,3000-metres-race-walk,race-walks,female,senior,3000-metres-race-walk,track,748.92,ITA,21.0,2002
 228,12:28.97,,Sofiya BRODATSKAYA,1994-10-24,RUS,2,Moskva (RUS),2016-07-18,1102,3000-metres-race-walk,race-walks,female,senior,3000-metres-race-walk,track,748.97,RUS,21.0,2016
@@ -296,8 +296,8 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 289,12:35.12,,Vera SANTOS,1981-12-03,POR,1,Pombal (POR) (i),2012-01-28,1090,3000-metres-race-walk,race-walks,female,senior,3000-metres-race-walk,track,755.12,POR,30.0,2012
 290,12:35.16,,Despina ZAPOUNIDOU,1985-10-05,GRE,1,Pireaus (GRE) (i),2014-02-08,1090,3000-metres-race-walk,race-walks,female,senior,3000-metres-race-walk,track,755.16,GRE,28.0,2014
 7,12:35.17,,Hua LI,1991-01-15,CHN,3,Yantai (CHN),2006-10-11,1090,3000-metres-race-walk,race-walks,female,u18,3000-metres-race-walk,track,755.17,CHN,15.0,2006
-291,12:35.17,,Emilie MENUET,1991-09-27,FRA,1,Eaubonne (FRA) (i),2016-01-24,1090,3000-metres-race-walk,race-walks,female,senior,3000-metres-race-walk,track,755.17,FRA,24.0,2016
 291,12:35.17,,Hua LI,1991-01-15,CHN,3,Yantai (CHN),2006-10-11,1090,3000-metres-race-walk,race-walks,female,senior,3000-metres-race-walk,track,755.17,CHN,15.0,2006
+291,12:35.17,,Emilie MENUET,1991-09-27,FRA,1,Eaubonne (FRA) (i),2016-01-24,1090,3000-metres-race-walk,race-walks,female,senior,3000-metres-race-walk,track,755.17,FRA,24.0,2016
 293,12:35.23,,Meryem BEKMEZ,2000-07-31,TUR,1,Istanbul (TUR) (i),2019-01-13,1090,3000-metres-race-walk,race-walks,female,senior,3000-metres-race-walk,track,755.23,TUR,18.0,2019
 294,12:35.27,,Beate ANDERS,1968-02-04,GER,3h1,"Palacio de los Deportes, Sevilla (ESP) (i)",1991-03-08,1090,3000-metres-race-walk,race-walks,female,senior,3000-metres-race-walk,track,755.27,ESP,23.0,1991
 295,12:35.30,,Olive LOUGHNANE,1976-01-14,IRL,2,Nenagh (IRL) (i),2007-01-14,1089,3000-metres-race-walk,race-walks,female,senior,3000-metres-race-walk,track,755.3,IRL,31.0,2007
@@ -308,17 +308,17 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 300,12:35.6h,,Yevdokiya KOROTKOVA,1979-02-28,RUS,1,Yerino (RUS),2013-06-02,1089,3000-metres-race-walk,race-walks,female,senior,3000-metres-race-walk,track,755.6,RUS,34.0,2013
 301,12:35.62,,Emilie MENUET,1991-09-27,FRA,1f2,Blois (FRA),2017-05-07,1089,3000-metres-race-walk,race-walks,female,senior,3000-metres-race-walk,track,755.62,FRA,25.0,2017
 302,12:35.8h,,Anna DRABENYA,1987-08-15,BLR,2,Yerino (RUS),2013-06-02,1088,3000-metres-race-walk,race-walks,female,senior,3000-metres-race-walk,track,755.8,RUS,25.0,2013
-303,12:35.82,,Clémence BERETTA,1997-12-22,FRA,1,"Stade Raymond Petit, Tomblaine (FRA)",2024-05-12,1088,3000-metres-race-walk,race-walks,female,senior,3000-metres-race-walk,track,755.82,FRA,26.0,2024
 303,12:35.82,,Brigita VIRBALYTĖ-DIMSIENĖ,1985-02-01,LTU,1,Kaunas (LTU) (i),2009-02-28,1088,3000-metres-race-walk,race-walks,female,senior,3000-metres-race-walk,track,755.82,LTU,24.0,2009
+303,12:35.82,,Clémence BERETTA,1997-12-22,FRA,1,"Stade Raymond Petit, Tomblaine (FRA)",2024-05-12,1088,3000-metres-race-walk,race-walks,female,senior,3000-metres-race-walk,track,755.82,FRA,26.0,2024
 305,12:35.89,,Vitória OLIVEIRA,1992-08-30,POR,1,"Estádio Municipal Fontelo, Viseu (POR)",2024-07-13,1088,3000-metres-race-walk,race-walks,female,senior,3000-metres-race-walk,track,755.89,POR,31.0,2024
 306,12:35.92,,Ana CABECINHA,1984-04-29,POR,1,"Expocentro, Pombal (POR) (i)",2022-02-26,1088,3000-metres-race-walk,race-walks,female,senior,3000-metres-race-walk,track,755.92,POR,37.0,2022
 307,12:35.98,,Rossella GIORDANO,1972-12-01,ITA,11,"Palais Omnisports de Paris-Bercy, Paris (FRA) (i)",1994-03-11,1088,3000-metres-race-walk,race-walks,female,senior,3000-metres-race-walk,track,755.98,FRA,21.0,1994
 308,12:35.99,,Mária KATERINKA CZAKOVÁ,1988-10-02,SVK,1,"x-bionic sphere, Šamorín (SVK)",2020-09-11,1088,3000-metres-race-walk,race-walks,female,senior,3000-metres-race-walk,track,755.99,SVK,31.0,2020
 309,12:36.00,,Mária KATERINKA CZAKOVÁ,1988-10-02,SVK,1,Bratislava (SVK) (i),2019-01-27,1088,3000-metres-race-walk,race-walks,female,senior,3000-metres-race-walk,track,756.0,SVK,30.0,2019
 310,12:36.02,,Paulina BUZIAK,1986-12-16,POL,1,Rzeszów (POL),2012-09-15,1088,3000-metres-race-walk,race-walks,female,senior,3000-metres-race-walk,track,756.02,POL,25.0,2012
-8,12:36.21,,Natalie SAVILLE,1978-09-07,AUS,1,Sydney (CAN),1995-12-09,1088,3000-metres-race-walk,race-walks,female,u18,3000-metres-race-walk,track,756.21,CAN,17.0,1995
 311,12:36.21,,Natalie SAVILLE,1978-09-07,AUS,1,Sydney (CAN),1995-12-09,1088,3000-metres-race-walk,race-walks,female,senior,3000-metres-race-walk,track,756.21,CAN,17.0,1995
 311,12:36.21,,Beate ANDERS,1968-02-04,GDR,1,Torino (ITA) (i),1988-02-10,1088,3000-metres-race-walk,race-walks,female,senior,3000-metres-race-walk,track,756.21,ITA,20.0,1988
+8,12:36.21,,Natalie SAVILLE,1978-09-07,AUS,1,Sydney (CAN),1995-12-09,1088,3000-metres-race-walk,race-walks,female,u18,3000-metres-race-walk,track,756.21,CAN,17.0,1995
 313,12:36.27,,Olive LOUGHNANE,1976-01-14,IRL,1,Cork (IRL),2012-07-17,1088,3000-metres-race-walk,race-walks,female,senior,3000-metres-race-walk,track,756.27,IRL,36.0,2012
 314,12:36.32,,Emilie MENUET,1991-09-27,FRA,1,Blois (FRA),2016-05-22,1087,3000-metres-race-walk,race-walks,female,senior,3000-metres-race-walk,track,756.32,FRA,24.0,2016
 315,12:36.43,,Zuzana MALÍKOVÁ,1983-08-02,SVK,1,Belfast (GBR) (i),2010-02-06,1087,3000-metres-race-walk,race-walks,female,senior,3000-metres-race-walk,track,756.43,GBR,26.0,2010
@@ -328,18 +328,18 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 319,12:36.83,,Ainhoa PINEDO,1983-02-17,ESP,2,Huelva (ESP),2017-06-14,1086,3000-metres-race-walk,race-walks,female,senior,3000-metres-race-walk,track,756.83,ESP,34.0,2017
 320,12:36.89,,Emilie MENUET,1991-09-27,FRA,1f1,Laval (FRA),2018-05-20,1086,3000-metres-race-walk,race-walks,female,senior,3000-metres-race-walk,track,756.89,FRA,26.0,2018
 321,12:36.94,,Yelena ARSHINTSEVA,1971-04-05,RUS,2h2,"Palais Omnisports de Paris-Bercy, Paris (FRA) (i)",1994-03-11,1086,3000-metres-race-walk,race-walks,female,senior,3000-metres-race-walk,track,756.94,FRA,22.0,1994
-322,12:36.97,,Xinhua SONG,1991-03-03,CHN,4,Yantai (CHN),2006-10-11,1086,3000-metres-race-walk,race-walks,female,senior,3000-metres-race-walk,track,756.97,CHN,15.0,2006
 9,12:36.97,,Xinhua SONG,1991-03-03,CHN,4,Yantai (CHN),2006-10-11,1086,3000-metres-race-walk,race-walks,female,u18,3000-metres-race-walk,track,756.97,CHN,15.0,2006
+322,12:36.97,,Xinhua SONG,1991-03-03,CHN,4,Yantai (CHN),2006-10-11,1086,3000-metres-race-walk,race-walks,female,senior,3000-metres-race-walk,track,756.97,CHN,15.0,2006
 323,12:37.00,,Chloe LE ROCH,2007-11-14,FRA,1,"Halle Stéphane Diagana, Lyon (FRA) (i)",2025-02-08,1086,3000-metres-race-walk,race-walks,female,senior,3000-metres-race-walk,track,757.0,FRA,17.0,2025
-324,12:37.01,,Elisabetta PERRONE,1968-07-09,ITA,3h2,"Palais Omnisports de Paris-Bercy, Paris (FRA) (i)",1994-03-11,1086,3000-metres-race-walk,race-walks,female,senior,3000-metres-race-walk,track,757.01,FRA,25.0,1994
 324,12:37.01,,Vera SANTOS,1981-12-03,POR,2,Pombal (POR) (i),2014-02-15,1086,3000-metres-race-walk,race-walks,female,senior,3000-metres-race-walk,track,757.01,POR,32.0,2014
+324,12:37.01,,Elisabetta PERRONE,1968-07-09,ITA,3h2,"Palais Omnisports de Paris-Bercy, Paris (FRA) (i)",1994-03-11,1086,3000-metres-race-walk,race-walks,female,senior,3000-metres-race-walk,track,757.01,FRA,25.0,1994
 326,12:37.1h,,Nadezhda SERGEYEVA,1994-03-12,RUS,3,Yerino (RUS),2013-06-02,1086,3000-metres-race-walk,race-walks,female,senior,3000-metres-race-walk,track,757.1,RUS,19.0,2013
 327,12:37.11,,Eleonora DOMINICI,1996-02-22,ITA,2,Ancona (ITA) (i),2018-02-17,1086,3000-metres-race-walk,race-walks,female,senior,3000-metres-race-walk,track,757.11,ITA,22.0,2018
 328,12:37.36,,Chloe LE ROCH,2007-11-14,FRA,1,"Salle Maryvonne Dupureur, St-Brieuc (FRA) (i)",2025-01-19,1085,3000-metres-race-walk,race-walks,female,senior,3000-metres-race-walk,track,757.36,FRA,17.0,2025
 329,12:37.41,,Viktória MADARÁSZ,1985-05-12,HUN,1,"x-bionic sphere, Šamorín (SVK)",2021-06-02,1085,3000-metres-race-walk,race-walks,female,senior,3000-metres-race-walk,track,757.41,SVK,36.0,2021
 330,12:37.68,,Vera SANTOS,1981-12-03,POR,1,Pombal (POR) (i),2014-02-22,1085,3000-metres-race-walk,race-walks,female,senior,3000-metres-race-walk,track,757.68,POR,32.0,2014
-331,12:37.82,,Alana BARBER,1987-07-08,NZL,1,Auckland (NZL),2017-03-05,1084,3000-metres-race-walk,race-walks,female,senior,3000-metres-race-walk,track,757.82,NZL,29.0,2017
 331,12:37.82,,Erica ALFRIDI,1968-02-22,ITA,2,Genova (ITA) (i),2002-02-16,1084,3000-metres-race-walk,race-walks,female,senior,3000-metres-race-walk,track,757.82,ITA,34.0,2002
+331,12:37.82,,Alana BARBER,1987-07-08,NZL,1,Auckland (NZL),2017-03-05,1084,3000-metres-race-walk,race-walks,female,senior,3000-metres-race-walk,track,757.82,NZL,29.0,2017
 333,12:37.84,,Zuzana MALÍKOVÁ,1983-08-02,SVK,3,Nenagh (IRL) (i),2007-01-14,1084,3000-metres-race-walk,race-walks,female,senior,3000-metres-race-walk,track,757.84,IRL,23.0,2007
 334,12:37.98,,Vera SANTOS,1981-12-03,POR,2,Pombal (POR) (i),2011-01-29,1084,3000-metres-race-walk,race-walks,female,senior,3000-metres-race-walk,track,757.98,POR,29.0,2011
 335,12:38.05,,Camille MOUTARD,2001-07-11,FRA,1f2,"Stade L. Lagrange, Chalon-sur-Saône (FRA)",2024-05-12,1084,3000-metres-race-walk,race-walks,female,senior,3000-metres-race-walk,track,758.05,FRA,22.0,2024
@@ -352,8 +352,8 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 342,12:38.43,,Lyudmila OLYANOVSKA,1993-02-20,UKR,1,Kyiv (UKR) (i),2013-01-11,1083,3000-metres-race-walk,race-walks,female,senior,3000-metres-race-walk,track,758.43,UKR,19.0,2013
 343,12:38.68,,Eliška MARTÍNKOVÁ,2002-01-27,CZE,1,"Atletický stadion Turnov, Turnov (CZE)",2022-05-24,1083,3000-metres-race-walk,race-walks,female,senior,3000-metres-race-walk,track,758.68,CZE,20.0,2022
 344,12:38.72,,Camille MOUTARD,2001-07-11,FRA,1,"Stade Colette Besson, Dijon (FRA)",2023-05-07,1083,3000-metres-race-walk,race-walks,female,senior,3000-metres-race-walk,track,758.72,FRA,21.0,2023
-10,12:38.8h,,Anastasiya KOLCHINA,2005-05-11,RUS,1,"Football and athletics Arena, Saransk (RUS) (i)",2020-12-27,1082,3000-metres-race-walk,race-walks,female,u18,3000-metres-race-walk,track,758.8,RUS,15.0,2020
 345,12:38.8h,,Anastasiya KOLCHINA,2005-05-11,RUS,1,"Football and athletics Arena, Saransk (RUS) (i)",2020-12-27,1082,3000-metres-race-walk,race-walks,female,senior,3000-metres-race-walk,track,758.8,RUS,15.0,2020
+10,12:38.8h,,Anastasiya KOLCHINA,2005-05-11,RUS,1,"Football and athletics Arena, Saransk (RUS) (i)",2020-12-27,1082,3000-metres-race-walk,race-walks,female,u18,3000-metres-race-walk,track,758.8,RUS,15.0,2020
 346,12:38.81,,Tatyana RAGOZINA,1964-09-03,UKR,1,Budapest (HUN) (i),1994-02-05,1082,3000-metres-race-walk,race-walks,female,senior,3000-metres-race-walk,track,758.81,HUN,29.0,1994
 347,12:38.82,,Kyriaki FILTISAKOU,2000-08-14,GRE,3,"Peace and Friendship Stadium, Piraeus (GRE) (i)",2021-02-12,1082,3000-metres-race-walk,race-walks,female,senior,3000-metres-race-walk,track,758.82,GRE,20.0,2021
 348,12:38.83,,Raquel GONZÁLEZ,1989-11-16,ESP,1,Mataró (ESP),2015-07-18,1082,3000-metres-race-walk,race-walks,female,senior,3000-metres-race-walk,track,758.83,ESP,25.0,2015
@@ -363,8 +363,8 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 352,12:39.39,,Ana CABECINHA,1984-04-29,POR,1,Pombal (POR) (i),2018-02-10,1081,3000-metres-race-walk,race-walks,female,senior,3000-metres-race-walk,track,759.39,POR,33.0,2018
 353,12:39.45,,Mária URBANIKNÉ ROSZA,1967-02-12,HUN,4,Budapest (HUN) (i),1993-02-05,1081,3000-metres-race-walk,race-walks,female,senior,3000-metres-race-walk,track,759.45,HUN,26.0,1993
 354,12:39.50,,Maria REYES SOBRINO,1967-01-06,ESP,3,"Sporthal Houtrust, Den Haag (NED) (i)",1989-02-19,1081,3000-metres-race-walk,race-walks,female,senior,3000-metres-race-walk,track,759.5,NED,22.0,1989
-355,12:39.58,,Chloe LE ROCH,2007-11-14,FRA,1,"Stadium Miramas Métropole, Miramas (FRA) (i)",2024-03-02,1081,3000-metres-race-walk,race-walks,female,senior,3000-metres-race-walk,track,759.58,FRA,16.0,2024
 11,12:39.58,,Chloe LE ROCH,2007-11-14,FRA,1,"Stadium Miramas Métropole, Miramas (FRA) (i)",2024-03-02,1081,3000-metres-race-walk,race-walks,female,u18,3000-metres-race-walk,track,759.58,FRA,16.0,2024
+355,12:39.58,,Chloe LE ROCH,2007-11-14,FRA,1,"Stadium Miramas Métropole, Miramas (FRA) (i)",2024-03-02,1081,3000-metres-race-walk,race-walks,female,senior,3000-metres-race-walk,track,759.58,FRA,16.0,2024
 356,12:39.59,,Camille MOUTARD,2001-07-11,FRA,1,"Stade Colette Besson, Dijon (FRA)",2025-05-04,1081,3000-metres-race-walk,race-walks,female,senior,3000-metres-race-walk,track,759.59,FRA,23.0,2025
 357,12:39.62,,Sara STEVENSON,1979-10-15,USA,,Abbotsford (CAN),2000-05-25,1081,3000-metres-race-walk,race-walks,female,senior,3000-metres-race-walk,track,759.62,CAN,20.0,2000
 358,12:39.65,,Leonarda YUKHNEVICH,1963-05-01,BLR,6h1,"Palais Omnisports de Paris-Bercy, Paris (FRA) (i)",1994-03-11,1081,3000-metres-race-walk,race-walks,female,senior,3000-metres-race-walk,track,759.65,FRA,30.0,1994

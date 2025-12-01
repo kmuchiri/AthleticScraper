@@ -21,9 +21,9 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 20,43:41.0h,,Yelena LASHMANOVA,09 APR 1992,RUS,2,Sochi (RUS),27 FEB 2011,1132,10000-metres-race-walk,race-walks,female,u20
 21,43:41.70,,Claudia IOVAN,25 FEB 1978,ROU,1,Bucureşti (ROU),24 MAY 1997,1132,10000-metres-race-walk,race-walks,female,u20
 22,43:45.16,,Elmira ALEMBEKOVA,30 JUN 1990,RUS,2,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",09 JUL 2008,1130,10000-metres-race-walk,race-walks,female,u20
-23,43:47.89,,Sofia SANTACREU,07 FEB 2006,ESP,1f1,"Ratinan Stadion, Tampere (FIN)",09 AUG 2025,1128,10000-metres-race-walk,race-walks,female,u20
+23,43:47.89,,Sofia SANTACREU,07 FEB 2006,ESP,1,"Ratinan Stadion, Tampere (FIN)",09 AUG 2025,1128,10000-metres-race-walk,race-walks,female,u20
 24,43:52.1h,,Yueling CHEN,01 APR 1968,CHN,1,Zhengzhou (CHN),25 OCT 1987,1126,10000-metres-race-walk,race-walks,female,u20
-25,43:56.25,,Serena DI FABIO,23 NOV 2007,ITA,2f1,"Ratinan Stadion, Tampere (FIN)",09 AUG 2025,1123,10000-metres-race-walk,race-walks,female,u20
+25,43:56.25,,Serena DI FABIO,23 NOV 2007,ITA,2,"Ratinan Stadion, Tampere (FIN)",09 AUG 2025,1123,10000-metres-race-walk,race-walks,female,u20
 26,43:56.80,,Chen YAN,30 JAN 1974,CHN,16,Jinan (CHN),15 MAR 1992,1123,10000-metres-race-walk,race-walks,female,u20
 27,44:01.08,,Olga SHARGINA,24 JUL 1996,RUS,2,"Ekängens Friidrottsarena, Eskilstuna (SWE)",16 JUL 2015,1120,10000-metres-race-walk,race-walks,female,u20
 28,44:02.20,,Yufang YUAN,01 FEB 1976,CHN,17,Jinan (CHN),15 MAR 1992,1120,10000-metres-race-walk,race-walks,female,u20
@@ -35,7 +35,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 34,44:13.37,,Nanako FUJII,07 MAY 1999,JPN,2,Osaka (JPN),22 SEP 2018,1113,10000-metres-race-walk,race-walks,female,u20
 35,44:13.88,,Alegna GONZÁLEZ,02 JAN 1999,MEX,1,"Ratinan Stadion, Tampere (FIN)",14 JUL 2018,1113,10000-metres-race-walk,race-walks,female,u20
 36,44:15.87,,Anežka DRAHOTOVÁ,22 JUL 1995,CZE,1,"Stadio Guidobaldi, Rieti (ITA)",18 JUL 2013,1112,10000-metres-race-walk,race-walks,female,u20
-37,44:15.89,,Aldara MEILÁN,02 OCT 2006,ESP,3f1,"Ratinan Stadion, Tampere (FIN)",09 AUG 2025,1112,10000-metres-race-walk,race-walks,female,u20
+37,44:15.89,,Aldara MEILÁN,02 OCT 2006,ESP,3,"Ratinan Stadion, Tampere (FIN)",09 AUG 2025,1112,10000-metres-race-walk,race-walks,female,u20
 38,44:16.72,,Yuanyuan NI,06 APR 1995,CHN,3,"Hayward Field, Eugene, OR (USA)",23 JUL 2014,1111,10000-metres-race-walk,race-walks,female,u20
 39,44:17.58,,Natalya TROFIMOVA,17 JAN 1975,RUS,6,Yaroslavl (RUS),22 MAY 1994,1111,10000-metres-race-walk,race-walks,female,u20
 40,44:17.69,,Meryem BEKMEZ,31 JUL 2000,TUR,2,"Ratinan Stadion, Tampere (FIN)",14 JUL 2018,1111,10000-metres-race-walk,race-walks,female,u20
@@ -51,11 +51,11 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 50,44:31.32,,Yanxue MAO,15 FEB 1994,CHN,3,Tianjin (CHN),18 SEP 2012,1103,10000-metres-race-walk,race-walks,female,u20
 51,44:32.84,,Laura GARCÍA-CARO,16 APR 1995,ESP,4,"Hayward Field, Eugene, OR (USA)",23 JUL 2014,1102,10000-metres-race-walk,race-walks,female,u20
 52,44:34.13,,Kumiko OKADA,17 OCT 1991,JPN,2,Chiba (JPN),04 OCT 2010,1101,10000-metres-race-walk,race-walks,female,u20
-53,44:35.66,,Mina STANKOVIĆ,23 JAN 2006,SRB,4f1,"Ratinan Stadion, Tampere (FIN)",09 AUG 2025,1100,10000-metres-race-walk,race-walks,female,u20
+53,44:35.66,,Mina STANKOVIĆ,23 JAN 2006,SRB,4,"Ratinan Stadion, Tampere (FIN)",09 AUG 2025,1100,10000-metres-race-walk,race-walks,female,u20
 54,44:39.39,,AARTI,06 SEP 2006,IND,3,"Estadio Atlético de la VIDENA, Lima (PER)",30 AUG 2024,1098,10000-metres-race-walk,race-walks,female,u20
 55,44:42.0h,,Anisiya KORNIKOVA-KIRDYAPKINA,23 OCT 1989,RUS,2,Saransk (RUS),03 JUN 2006,1096,10000-metres-race-walk,race-walks,female,u20
 56,44:42.28,,Olga DUBROVINA,11 JUN 1993,RUS,2,Moskva (RUS),10 JUN 2012,1096,10000-metres-race-walk,race-walks,female,u20
-57,44:43.01,,Claudia VENTURA,17 APR 2006,ESP,5f1,"Ratinan Stadion, Tampere (FIN)",09 AUG 2025,1096,10000-metres-race-walk,race-walks,female,u20
+57,44:43.01,,Claudia VENTURA,17 APR 2006,ESP,5,"Ratinan Stadion, Tampere (FIN)",09 AUG 2025,1096,10000-metres-race-walk,race-walks,female,u20
 58,44:43.78,,Noemi STELLA,02 FEB 1997,ITA,5,"Ekängens Friidrottsarena, Eskilstuna (SWE)",16 JUL 2015,1095,10000-metres-race-walk,race-walks,female,u20
 59,44:43.85,,Evin DEMİR,16 FEB 2001,TUR,1,"Ekrem Koçak Atletizm Pisti, Istanbul (TUR)",05 SEP 2020,1095,10000-metres-race-walk,race-walks,female,u20
 60,44:43.89,,Alegna GONZÁLEZ,02 JAN 1999,MEX,1,Trujillo (PER),23 JUL 2017,1095,10000-metres-race-walk,race-walks,female,u20

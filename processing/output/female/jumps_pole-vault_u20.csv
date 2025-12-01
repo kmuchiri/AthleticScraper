@@ -93,7 +93,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 58,4.50,,Anna WILLIS,25 JAN 2006,USA,1f2,"Hilmer Lodge Stadium, Walnut, CA (USA)",18 APR 2025,1114,pole-vault,jumps,female,u20
 58,4.50,,Elise DE JONG,08 APR 2006,NED,1,"Vughtse Sports Club Prins Hendrik, Vught (NED)",17 MAY 2025,1114,pole-vault,jumps,female,u20
 58,4.50,,Elise DE JONG,08 APR 2006,NED,1,"Sportcomplex De Leidse Hout, Leiden (NED)",14 JUN 2025,1114,pole-vault,jumps,female,u20
-58,4.50,,Elise DE JONG,08 APR 2006,NED,1f1,"Ratinan Stadion, Tampere (FIN)",10 AUG 2025,1114,pole-vault,jumps,female,u20
+58,4.50,,Elise DE JONG,08 APR 2006,NED,1,"Ratinan Stadion, Tampere (FIN)",10 AUG 2025,1114,pole-vault,jumps,female,u20
 96,4.49,,Lisa GUNNARSSON,20 AUG 1999,SWE,4,"Globe Arena, Stockholm (SWE) (i)",17 FEB 2016,1111,pole-vault,jumps,female,u20
 96,4.49,,Paige SOMMERS,20 MAY 2003,USA,1,"Westlake Village, CA (USA)",26 MAY 2021,1111,pole-vault,jumps,female,u20
 98,4.48,,Silke SPIEGELBURG,17 MAR 1986,GER,2,Münster (GER),25 AUG 2005,1108,pole-vault,jumps,female,u20
@@ -323,7 +323,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 223,4.40,,Hannah GRACE,29 MAY 2007,USA,1,"Hayward Field, Eugene, OR (USA)",12 JUN 2024,1083,pole-vault,jumps,female,u20
 223,4.40,,Molly HAYWOOD,15 MAR 2005,USA,2,"Hayward Field, Eugene, OR (USA)",12 JUN 2024,1083,pole-vault,jumps,female,u20
 223,4.40,,Veronica VACCA,19 OCT 2006,USA,1,"Vault Factory, Basking Ridge, NJ (USA)",20 JUL 2024,1083,pole-vault,jumps,female,u20
-223,4.40,,Marijn KIEFT,29 AUG 2006,NED,2f1,"Ratinan Stadion, Tampere (FIN)",10 AUG 2025,1083,pole-vault,jumps,female,u20
+223,4.40,,Marijn KIEFT,29 AUG 2006,NED,2,"Ratinan Stadion, Tampere (FIN)",10 AUG 2025,1083,pole-vault,jumps,female,u20
 223,4.40,,Keni MIAO,05 AUG 2008,CHN,1,"Kuishan Sports Center, Rizhao (CHN)",26 SEP 2025,1083,pole-vault,jumps,female,u20
 327,4.39,,Wilma MURTO,11 JUN 1998,FIN,6,"Globe Arena, Stockholm (SWE) (i)",17 FEB 2016,1080,pole-vault,jumps,female,u20
 327,4.39,,Saga ANDERSSON,30 MAR 2000,FIN,1,Somero (FIN),01 JUL 2018,1080,pole-vault,jumps,female,u20
@@ -465,7 +465,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 377,4.35,,Mya STRAHM,05 AUG 2007,USA,3,"Tom Black Track at LaPorte Stadium, Knoxville, TN (USA)",02 MAY 2025,1068,pole-vault,jumps,female,u20
 377,4.35,,Elise DE JONG,08 APR 2006,NED,3,"Kennedyplatz, Essen (GER)",31 MAY 2025,1068,pole-vault,jumps,female,u20
 377,4.35,,Anna WILLIS,25 JAN 2006,USA,1,"Hayward Field, Eugene, OR (USA)",20 JUN 2025,1068,pole-vault,jumps,female,u20
-377,4.35,,Apolena ŠVÁBÍKOVÁ,14 MAY 2006,CZE,3f1,"Ratinan Stadion, Tampere (FIN)",10 AUG 2025,1068,pole-vault,jumps,female,u20
+377,4.35,,Apolena ŠVÁBÍKOVÁ,14 MAY 2006,CZE,3,"Ratinan Stadion, Tampere (FIN)",10 AUG 2025,1068,pole-vault,jumps,female,u20
 468,4.34,,Shade WEYGANDT,24 JAN 1991,USA,1,"Columbia, MO (USA)",16 MAY 2010,1065,pole-vault,jumps,female,u20
 468,4.34,,Morgann LELEUX,14 NOV 1992,USA,1,"Lafayette, LA (USA)",27 APR 2011,1065,pole-vault,jumps,female,u20
 468,4.34,,Desiree FREIER,24 JUL 1996,USA,1f2,"New York, NY (USA) (i)",16 MAR 2014,1065,pole-vault,jumps,female,u20
@@ -812,8 +812,8 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 574,4.30,,Marijn KIEFT,29 AUG 2006,NED,1,"Atletiekvereniging Hera, Heerhugowaard (NED)",06 JUL 2025,1052,pole-vault,jumps,female,u20
 574,4.30,,Elise DE JONG,08 APR 2006,NED,4,"Lohrheidestadion, Wattenscheid, Bochum (GER)",25 JUL 2025,1052,pole-vault,jumps,female,u20
 574,4.30,,Zixuan ZHANG,27 MAR 2006,CHN,3,"Sports Center, Quzhou (CHN)",04 AUG 2025,1052,pole-vault,jumps,female,u20
-574,4.30,,Allika Inkeri MOSER,27 MAR 2008,EST,4f1,"Ratinan Stadion, Tampere (FIN)",10 AUG 2025,1052,pole-vault,jumps,female,u20
-574,4.30,,Kajsa ROTH,07 MAR 2006,SWE,5f1,"Ratinan Stadion, Tampere (FIN)",10 AUG 2025,1052,pole-vault,jumps,female,u20
+574,4.30,,Allika Inkeri MOSER,27 MAR 2008,EST,4,"Ratinan Stadion, Tampere (FIN)",10 AUG 2025,1052,pole-vault,jumps,female,u20
+574,4.30,,Kajsa ROTH,07 MAR 2006,SWE,5,"Ratinan Stadion, Tampere (FIN)",10 AUG 2025,1052,pole-vault,jumps,female,u20
 574,4.30,,Keni MIAO,05 AUG 2008,CHN,1,"Olympic Center, Shenyang (CHN)",11 AUG 2025,1052,pole-vault,jumps,female,u20
 574,4.30,,Allika Inkeri MOSER,27 MAR 2008,EST,10,"Stadion Śląski, Chorzów (POL)",15 AUG 2025,1052,pole-vault,jumps,female,u20
 574,4.30,,Kajsa ROTH,07 MAR 2006,SWE,1,"AtletiekArena Gaston Roelants Kessel-Lo / Hal 5, Leuven (BEL)",16 AUG 2025,1052,pole-vault,jumps,female,u20
@@ -1763,3 +1763,4 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 1254,4.20,,Olha BELCHENKO,24 JUL 2007,UKR,4q2,"Lohrheidestadion, Wattenscheid, Bochum (GER)",24 JUL 2025,1021,pole-vault,jumps,female,u20
 1254,4.20,,Olha BELCHENKO,24 JUL 2007,UKR,8,"Lohrheidestadion, Wattenscheid, Bochum (GER)",25 JUL 2025,1021,pole-vault,jumps,female,u20
 1254,4.20,,Aleka ZAYTSEVA,26 AUG 2009,RUS,6,"Central Stadium, Kazan (RUS)",10 AUG 2025,1021,pole-vault,jumps,female,u20
+1254,4.20,,Daisy BRAYSHAW,20 JUL 2008,AUS,1,"WA Athletics Stadium, Perth (AUS)",21 NOV 2025,1021,pole-vault,jumps,female,u20

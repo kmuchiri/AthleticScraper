@@ -474,7 +474,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 473,9:57.48,,Aleksandra KUDRYASHOVA,18 JUL 1990,RUS,1,Saransk (RUS),03 JUL 2009,1101,3000-metres-steeplechase,middlelong,female,u20
 474,9:57.53,,Tsehainesh TSALE,29 JAN 1993,ETH,9,"Stadion Juliska, Praha (CZE)",13 JUN 2011,1101,3000-metres-steeplechase,middlelong,female,u20
 475,9:57.56,,Isabell SCHMITZ,2006,USA,3f2,"Hayward Field, Eugene, OR (USA)",16 MAY 2025,1101,3000-metres-steeplechase,middlelong,female,u20
-476,9:57.59,,Andrea NYGÅRD VIE,04 JUL 2006,NOR,1f1,"Ratinan Stadion, Tampere (FIN)",09 AUG 2025,1101,3000-metres-steeplechase,middlelong,female,u20
+476,9:57.59,,Andrea NYGÅRD VIE,04 JUL 2006,NOR,1,"Ratinan Stadion, Tampere (FIN)",09 AUG 2025,1101,3000-metres-steeplechase,middlelong,female,u20
 477,9:57.74,,Geneviève LALONDE,05 SEP 1991,CAN,6,"Croix-Bleue Medavie Stadium, Moncton (CAN)",22 JUL 2010,1101,3000-metres-steeplechase,middlelong,female,u20
 477,9:57.74,,Buzuayehu MOHAMED,04 JAN 1996,ETH,6,"Moratalaz, Madrid (ESP)",11 JUL 2015,1101,3000-metres-steeplechase,middlelong,female,u20
 479,9:57.83,,Rihab DHAHRI,09 SEP 2003,TUN,2,"Stadio Adriatico, Pescara (ITA)",10 SEP 2022,1100,3000-metres-steeplechase,middlelong,female,u20
@@ -496,7 +496,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 494,9:58.7h,,Yorlín OCAMPO,07 JUL 1990,CUB,1,La Habana (CUB),30 MAY 2009,1098,3000-metres-steeplechase,middlelong,female,u20
 494,9:58.70,,Caren CHEBET,24 MAY 2000,KEN,5,Nairobi (KEN),11 JUN 2018,1098,3000-metres-steeplechase,middlelong,female,u20
 497,9:58.76,,Poļina JEĻIZAROVA,01 MAY 1989,LAT,4,"Chaoyang Sport Center, Beijing (CHN)",17 AUG 2006,1098,3000-metres-steeplechase,middlelong,female,u20
-498,9:58.77,,Jule Jutta LINDNER,15 MAY 2006,GER,2f1,"Ratinan Stadion, Tampere (FIN)",09 AUG 2025,1098,3000-metres-steeplechase,middlelong,female,u20
+498,9:58.77,,Jule Jutta LINDNER,15 MAY 2006,GER,2,"Ratinan Stadion, Tampere (FIN)",09 AUG 2025,1098,3000-metres-steeplechase,middlelong,female,u20
 499,9:58.78,,Reimi YOSHIMURA,22 APR 2000,JPN,1,"Universiade Commemorative Stadium, Kobe (JPN)",21 APR 2019,1098,3000-metres-steeplechase,middlelong,female,u20
 500,9:58.90,,Diana CHEPKEMOI,25 JAN 2007,KEN,9,"Moi International Sports Centre, Kasarani, Nairobi (KEN)",28 APR 2022,1098,3000-metres-steeplechase,middlelong,female,u20
 501,9:58.93,,Maruša MIŠMAŠ,24 OCT 1994,SLO,1,"S. Darius & S. Girėnas Stadium, Kaunas (LTU)",22 JUN 2013,1098,3000-metres-steeplechase,middlelong,female,u20
@@ -833,7 +833,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 832,10:09.60,,Grace FETHERSTONHAUGH,13 OCT 2000,CAN,7h1,"Ratinan Stadion, Tampere (FIN)",10 JUL 2018,1072,3000-metres-steeplechase,middlelong,female,u20
 833,10:09.66,,Estefania TOBAL,09 MAY 1991,ESP,8,"Croix-Bleue Medavie Stadium, Moncton (CAN)",22 JUL 2010,1072,3000-metres-steeplechase,middlelong,female,u20
 833,10:09.66,,Natalia BIELAK,10 MAY 2002,POL,1,"Golęcin Stadion, Poznan (POL)",13 JUN 2021,1072,3000-metres-steeplechase,middlelong,female,u20
-835,10:09.71,,Ema BERKOVÁ,22 DEC 2007,CZE,3f1,"Ratinan Stadion, Tampere (FIN)",09 AUG 2025,1072,3000-metres-steeplechase,middlelong,female,u20
+835,10:09.71,,Ema BERKOVÁ,22 DEC 2007,CZE,3,"Ratinan Stadion, Tampere (FIN)",09 AUG 2025,1072,3000-metres-steeplechase,middlelong,female,u20
 836,10:09.73,,Jule Jutta LINDNER,15 MAY 2006,GER,12,"Estadio Atlético de la VIDENA, Lima (PER)",29 AUG 2024,1072,3000-metres-steeplechase,middlelong,female,u20
 837,10:09.74,,Anju TAKAMIZAWA,06 MAR 1996,JPN,1,Kobe (JPN),26 APR 2015,1072,3000-metres-steeplechase,middlelong,female,u20
 837,10:09.74,,Gülnaz USKUN,12 MAR 1998,TUR,3,Bursa (TUR),14 JUN 2017,1072,3000-metres-steeplechase,middlelong,female,u20
@@ -1020,7 +1020,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 1018,10:14.03,,Paula SCHNEIDERS,20 FEB 2001,GER,4,Wetzlar (GER),16 JUN 2019,1062,3000-metres-steeplechase,middlelong,female,u20
 1020,10:14.07,,Estefania TOBAL,09 MAY 1991,ESP,4h1,"Croix-Bleue Medavie Stadium, Moncton (CAN)",20 JUL 2010,1061,3000-metres-steeplechase,middlelong,female,u20
 1020,10:14.07,,Amy-Eloise NEALE,05 AUG 1995,GBR,11,"Portland, OR (USA)",08 JUN 2013,1061,3000-metres-steeplechase,middlelong,female,u20
-1022,10:14.11,,Zoe BOURHIS,01 JAN 2006,FRA,4f1,"Ratinan Stadion, Tampere (FIN)",09 AUG 2025,1061,3000-metres-steeplechase,middlelong,female,u20
+1022,10:14.11,,Zoe BOURHIS,04 OCT 2006,FRA,4,"Ratinan Stadion, Tampere (FIN)",09 AUG 2025,1061,3000-metres-steeplechase,middlelong,female,u20
 1023,10:14.12,,Yevdokiya BUKINA,10 FEB 1993,RUS,1,Cheboksary (RUS),20 JUN 2012,1061,3000-metres-steeplechase,middlelong,female,u20
 1024,10:14.13,,Mejra MEHMEDOVIĆ,29 JUN 2006,SRB,7h2,"Estadio Atlético de la VIDENA, Lima (PER)",27 AUG 2024,1061,3000-metres-steeplechase,middlelong,female,u20
 1025,10:14.14,,Carolin HINRICHS,26 JAN 2004,GER,8,"Putbosstadion, Oordegem (BEL)",28 MAY 2022,1061,3000-metres-steeplechase,middlelong,female,u20
@@ -1117,7 +1117,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 1116,10:16.07,,Emily PIDGEON,01 JUN 1989,GBR,5,Watford (GBR),11 JUN 2005,1057,3000-metres-steeplechase,middlelong,female,u20
 1117,10:16.10,,Derya KUNUR,01 SEP 1999,TUR,1,Mersin (TUR),20 MAY 2017,1057,3000-metres-steeplechase,middlelong,female,u20
 1117,10:16.1h,,Soukaina ELHAJI,08 APR 2002,MAR,1,"Complexe Sportif Prince Moulay Abdellah, Rabat (MAR)",06 JUN 2021,1057,3000-metres-steeplechase,middlelong,female,u20
-1117,10:16.10,,Zoe BOURHIS,01 JAN 2006,FRA,2,"Stade Henri Lux, St-Etienne (FRA)",20 JUN 2025,1057,3000-metres-steeplechase,middlelong,female,u20
+1117,10:16.10,,Zoe BOURHIS,04 OCT 2006,FRA,2,"Stade Henri Lux, St-Etienne (FRA)",20 JUN 2025,1057,3000-metres-steeplechase,middlelong,female,u20
 1120,10:16.14,,Patrycja KAPAŁA,26 MAR 1997,POL,2,Bialogard (POL),11 JUN 2016,1057,3000-metres-steeplechase,middlelong,female,u20
 1120,10:16.14,,Georgia WINKCUP,09 MAY 1997,AUS,7h2,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",19 JUL 2016,1057,3000-metres-steeplechase,middlelong,female,u20
 1122,10:16.17,,Estefania TOBAL,09 MAY 1991,ESP,2,Vigo (ESP),26 JUN 2010,1056,3000-metres-steeplechase,middlelong,female,u20
@@ -1316,7 +1316,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 1315,10:19.62,,Qiongqiong MA,25 AUG 1989,CHN,1,Jinzhou (CHN),31 AUG 2006,1048,3000-metres-steeplechase,middlelong,female,u20
 1316,10:19.64,,Benadate CHERUIYOT,,KEN,3,"Tampa, FL (USA)",02 MAY 2014,1048,3000-metres-steeplechase,middlelong,female,u20
 1317,10:19.66,,Jasmijn BAKKER,11 OCT 1999,NED,15,Oordegem (BEL),26 MAY 2018,1048,3000-metres-steeplechase,middlelong,female,u20
-1317,10:19.66,,Zoe BOURHIS,01 JAN 2006,FRA,10,"Stade Raymond Troussier, Decines (FRA)",05 JUL 2025,1048,3000-metres-steeplechase,middlelong,female,u20
+1317,10:19.66,,Zoe BOURHIS,04 OCT 2006,FRA,10,"Stade Raymond Troussier, Decines (FRA)",05 JUL 2025,1048,3000-metres-steeplechase,middlelong,female,u20
 1319,10:19.7h,,Josephine KIMUYU,1988,KEN,7,Nairobi (KEN),16 JUN 2007,1048,3000-metres-steeplechase,middlelong,female,u20
 1320,10:19.72,,Viktoriya IVANOVA,21 NOV 1991,RUS,2,Cheboksary (RUS),19 JUN 2010,1048,3000-metres-steeplechase,middlelong,female,u20
 1320,10:19.72,,Astrid SNÄLL,11 NOV 1999,FIN,7,Espoo (FIN),13 JUN 2018,1048,3000-metres-steeplechase,middlelong,female,u20

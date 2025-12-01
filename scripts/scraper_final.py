@@ -142,7 +142,7 @@ def scrape_event(gender, age_category, discipline_slug, type_slug, output_dir, t
             pd.DataFrame(data).to_csv(filepath, index=False)
             print(f" Saved {filepath}")
 
-# Multithreading -------------------------
+# "Multithreading" -------------------------
 
 def get_scrape_jobs():
     jobs = []
@@ -169,7 +169,7 @@ def run_multithreaded_scrape(max_workers=30):
 
 if __name__ == "__main__":
     start_time = time.time()
-    run_multithreaded_scrape(max_workers=40)
+    run_multithreaded_scrape(max_workers=30)
     end_time = time.time()
     print("-------------------------------------- ")
     total_time = int(end_time - start_time)

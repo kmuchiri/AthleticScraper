@@ -12,8 +12,8 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 11,3:17.83,,United States,,USA,1,"Olympiastadion, Berlin (GER)",2009-08-23,1243,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,197.82999999999998,GER,,2009
 12,3:17.96,,Arkansas,,INT,1,"Hayward Field, Eugene, OR (USA)",2024-06-08,1242,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,197.96,USA,,2024
 13,3:18.09,,United States,,USA,1,"DS, Daegu (KOR)",2011-09-03,1241,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,198.09,KOR,,2011
-14,3:18.29,,German Democratic Republic,,GDR,3,"Olympic Stadium, Seoul (KOR)",1988-10-01,1239,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,198.29,KOR,,1988
 14,3:18.29,,United States,,USA,1,"Memorial Coliseum, Los Angeles, CA (USA)",1984-08-11,1239,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,198.29,USA,,1984
+14,3:18.29,,German Democratic Republic,,GDR,3,"Olympic Stadium, Seoul (KOR)",1988-10-01,1239,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,198.29,KOR,,1988
 16,3:18.38,,Russia,,RUS,2,"Gottlieb-Daimler Stadion, Stuttgart (GER)",1993-08-22,1238,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,198.38,GER,,1993
 17,3:18.43,,Soviet Union,,URS,1,"National Stadium, Tokyo (JPN)",1991-09-01,1238,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,198.43,JPN,,1991
 18,3:18.54,,United States,,USA,1,"National Stadium, Beijing (CHN)",2008-08-23,1237,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,198.54,CHN,,2008
@@ -59,11 +59,11 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 58,3:20.37,,German Democratic Republic,,GDR,1,"Olympic Stadium, Montréal (CAN)",1979-08-24,1221,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,200.37,CAN,,1979
 59,3:20.39,,Soviet Union,,URS,2,Torino (ITA),1979-08-05,1221,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,200.39,ITA,,1979
 60,3:20.40,,Jamaica,,JAM,2,"National Stadium, Beijing (CHN)",2008-08-23,1221,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,200.4,CHN,,2008
-61,3:20.41,,United States,,USA,1,"Luzhniki Stadion, Moskva (RUS)",2013-08-17,1221,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,200.41,RUS,,2013
 61,3:20.41,,Soviet Union,,URS,1,Praha (TCH),1987-06-28,1221,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,200.41,TCH,,1987
+61,3:20.41,,United States,,USA,1,"Luzhniki Stadion, Moskva (RUS)",2013-08-17,1221,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,200.41,RUS,,2013
 63,3:20.53,,Poland,,POL,2,"National Stadium, Tokyo (JPN)",2021-08-07,1219,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,200.53,JPN,,2021
-64,3:20.60,,Soviet Union,,URS,2,"Bruce Stadium, Canberra (AUS)",1985-10-04,1219,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,200.6,AUS,,1985
 64,3:20.60,,German Democratic Republic,,GDR,2,Praha (TCH),1987-06-28,1219,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,200.6,TCH,,1987
+64,3:20.60,,Soviet Union,,URS,2,"Bruce Stadium, Canberra (AUS)",1985-10-04,1219,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,200.6,AUS,,1985
 66,3:20.62,,German Democratic Republic,,GDR,1,"Stadio Olimpico, Roma (ITA)",1981-09-04,1219,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,200.62,ITA,,1981
 67,3:20.65,,Jamaica,,JAM,1,"Commonwealth Stadium, Edmonton (CAN)",2001-08-12,1218,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,200.65,CAN,,2001
 68,3:20.69,,United States,,USA,2,"Olympic Stadium, Athina (GRE)",2006-09-17,1218,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,200.69,GRE,,2006
@@ -77,16 +77,16 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 75,3:20.88,,United States B,,USA,1,München (GER),2004-08-08,1216,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,200.88,GER,,2004
 77,3:20.91,,United States,,USA,1,"Olympic Stadium, Atlanta, GA (USA)",1996-08-03,1216,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,200.91,USA,,1996
 77,3:20.91,,United States,,USA,2,München (GER),2004-08-08,1216,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,200.91,GER,,2004
-79,3:20.92,,United States,,USA,2,"Estadio Olímpico, Barcelona (ESP)",1992-08-08,1216,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,200.92000000000002,ESP,,1992
 79,3:20.92,,Germany,,GER,1,"Olympic Stadium, Athina (GRE)",1997-08-10,1216,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,200.92000000000002,GRE,,1997
+79,3:20.92,,United States,,USA,2,"Estadio Olímpico, Barcelona (ESP)",1992-08-08,1216,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,200.92000000000002,ESP,,1992
 81,3:20.93,,Americas,,INT,1,"Le Grand Stade, Marrakech (MAR)",2014-09-14,1216,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,200.93,MAR,,2014
 82,3:20.94,,Russia,,RUS,1h2,"DS, Daegu (KOR)",2011-09-02,1216,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,200.94,KOR,,2011
-83,3:20.95,,Russia,,RUS,1,"Olympiastadion, Helsinki (FIN)",2005-08-14,1216,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,200.95,FIN,,2005
 83,3:20.95,,Jamaica,,JAM,2,"Olympic Stadium, London (GBR)",2012-08-11,1216,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,200.95,GBR,,2012
+83,3:20.95,,Russia,,RUS,1,"Olympiastadion, Helsinki (FIN)",2005-08-14,1216,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,200.95,FIN,,2005
 85,3:21.02,,German Democratic Republic,,GDR,1,"Poljud Stadion, Split (CRO)",1990-09-01,1215,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,201.02,CRO,,1990
 86,3:21.03,,United States,,USA,2,"Olympic Stadium, Athina (GRE)",1997-08-10,1215,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,201.03,GRE,,1997
-87,3:21.04,,United States,,USA,3,"Stadio Olimpico, Roma (ITA)",1987-09-06,1215,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,201.04,ITA,,1987
 87,3:21.04,,Nigeria,,NGR,2,"Olympic Stadium, Atlanta, GA (USA)",1996-08-03,1215,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,201.04,USA,,1996
+87,3:21.04,,United States,,USA,3,"Stadio Olimpico, Roma (ITA)",1987-09-06,1215,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,201.04,ITA,,1987
 87,3:21.04,,Great Britain & NI,,GBR,3,"Nemzeti Atlétikai Központ, Budapest (HUN)",2023-08-27,1215,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,201.04,HUN,,2023
 90,3:21.14,,Germany,,GER,3,"Olympic Stadium, Atlanta, GA (USA)",1996-08-03,1214,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,201.14,USA,,1996
 91,3:21.15,,Jamaica,,JAM,2,"Olympiastadion, Berlin (GER)",2009-08-23,1214,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,201.15,GER,,2009
@@ -116,14 +116,14 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 115,3:21.93,,Kentucky,,USA,1,"Ole Miss T&F Complex, Oxford, MS (USA)",2022-05-14,1207,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,201.93,USA,,2022
 116,3:21.94,,Ukraine,,URS,1,Kiev (URS),1986-07-17,1207,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,201.94,URS,,1986
 117,3:21.95,,Jamaica,,JAM,2h2,"National Stadium, Tokyo (JPN)",2021-08-05,1207,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,201.95,JPN,,2021
-118,3:21.97,,United States,,USA,1h1,"Commonwealth Stadium, Edmonton (CAN)",2001-08-11,1207,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,201.97,CAN,,2001
 118,3:21.97,,Germany,,GER,2,"Commonwealth Stadium, Edmonton (CAN)",2001-08-12,1207,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,201.97,CAN,,2001
+118,3:21.97,,United States,,USA,1h1,"Commonwealth Stadium, Edmonton (CAN)",2001-08-11,1207,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,201.97,CAN,,2001
 120,3:21.98,,Russia,,RUS,1,"La Cartuja, Sevilla (ESP)",1999-08-29,1207,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,201.98,ESP,,1999
 121,3:22.00,,Jamaica,,JAM,3,"Olympic Stadium, Athina (GRE)",2004-08-28,1207,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,202.0,GRE,,2004
+122,3:22.01,,Canada,,CAN,6,"Stade de France, Paris (FRA)",2024-08-10,1207,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,202.01,FRA,,2024
+122,3:22.01,,Jamaica,,JAM,1h3,"DS, Daegu (KOR)",2011-09-02,1207,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,202.01,KOR,,2011
 122,3:22.01,,Great Britain & NI,,GBR,4,"National Stadium, Tokyo (JPN)",1991-09-01,1207,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,202.01,JPN,,1991
 122,3:22.01,,Texas A&M,,INT,2,"Ole Miss T&F Complex, Oxford, MS (USA)",2022-05-14,1207,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,202.01,USA,,2022
-122,3:22.01,,Jamaica,,JAM,1h3,"DS, Daegu (KOR)",2011-09-02,1207,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,202.01,KOR,,2011
-122,3:22.01,,Canada,,CAN,6,"Stade de France, Paris (FRA)",2024-08-10,1207,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,202.01,FRA,,2024
 126,3:22.09,,United States,,USA,2,"La Cartuja, Sevilla (ESP)",1999-08-29,1206,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,202.09,ESP,,1999
 126,3:22.09,,United States,,USA,1h2,"Olympic Stadium, London (GBR)",2012-08-10,1206,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,202.09,GBR,,2012
 128,3:22.12,,Belgium,,BEL,4,"Olympiastadion, München (GER)",2022-08-20,1206,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,202.12,GER,,2022
@@ -145,12 +145,12 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 144,3:22.42,,Canada,,CAN,4,"Nemzeti Atlétikai Központ, Budapest (HUN)",2023-08-27,1203,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,202.42000000000002,HUN,,2023
 145,3:22.43,,Germany,,GER,3,"La Cartuja, Sevilla (ESP)",1999-08-29,1203,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,202.43,ESP,,1999
 146,3:22.45,,United States,,USA,1h2,"National Stadium, Beijing (CHN)",2008-08-22,1203,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,202.45,CHN,,2008
-147,3:22.49,,Jamaica,,JAM,2f1,"T. Robinson Stadium, Nassau (BAH)",2015-05-03,1202,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,202.49,BAH,,2015
 147,3:22.49,,Federal Republic of Germany,,FRG,4,"Olympic Stadium, Seoul (KOR)",1988-10-01,1202,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,202.49,KOR,,1988
-149,3:22.53,,United States,,USA,1h2,"National Stadium, Tokyo (JPN)",2025-09-20,1202,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,202.53,JPN,,2025
+147,3:22.49,,Jamaica,,JAM,2f1,"T. Robinson Stadium, Nassau (BAH)",2015-05-03,1202,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,202.49,BAH,,2015
 149,3:22.53,,Soviet Union,,URS,2,"Stadion Evžena Rošického, Praha (TCH)",1978-09-03,1202,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,202.53,TCH,,1978
-151,3:22.55,,Kentucky,,USA,1,"Hayward Field, Eugene, OR (USA)",2022-06-11,1202,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,202.55,USA,,2022
+149,3:22.53,,United States,,USA,1h2,"National Stadium, Tokyo (JPN)",2025-09-20,1202,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,202.53,JPN,,2025
 151,3:22.55,,Arkansas,,USA,3,"Ole Miss T&F Complex, Oxford, MS (USA)",2022-05-14,1202,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,202.55,USA,,2022
+151,3:22.55,,Kentucky,,USA,1,"Hayward Field, Eugene, OR (USA)",2022-06-11,1202,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,202.55,USA,,2022
 153,3:22.59,,Great Britain & NI,,GBR,5,"National Stadium, Tokyo (JPN)",2021-08-07,1202,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,202.59,JPN,,2021
 154,3:22.60,,Jamaica,,JAM,2h2,"National Stadium, Beijing (CHN)",2008-08-22,1201,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,202.6,CHN,,2008
 155,3:22.61,,Great Britain & NI,,GBR,2,"Luzhniki Stadion, Moskva (RUS)",2013-08-17,1201,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,202.61,RUS,,2013
@@ -158,10 +158,10 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 157,3:22.63,,United States,,USA,1,"Stade de France, Paris-St-Denis (FRA)",2003-08-31,1201,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,202.63,FRA,,2003
 158,3:22.64,,Great Britain & NI,,GBR,3,"Hayward Field, Eugene, OR (USA)",2022-07-24,1201,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,202.64,USA,,2022
 159,3:22.66,,United States Red,,USA,1,"Philadelphia, PA (USA)",2013-04-27,1201,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,202.66,USA,,2013
-160,3:22.68,,Great Britain & NI,,GBR,2,"Philadelphia, PA (USA)",2013-04-27,1201,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,202.68,USA,,2013
 160,3:22.68,,Great Britain & NI,,GBR,3,"National Stadium, Beijing (CHN)",2008-08-23,1201,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,202.68,CHN,,2008
-162,3:22.71,,Ireland,,IRL,2,"Stadio Olimpico, Roma (ITA)",2024-06-12,1201,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,202.71,ITA,,2024
+160,3:22.68,,Great Britain & NI,,GBR,2,"Philadelphia, PA (USA)",2013-04-27,1201,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,202.68,USA,,2013
 162,3:22.71,,United States,,USA,1h1,"Olympic Stadium, Atlanta, GA (USA)",1996-08-02,1201,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,202.71,USA,,1996
+162,3:22.71,,Ireland,,IRL,2,"Stadio Olimpico, Roma (ITA)",2024-06-12,1201,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,202.71,ITA,,2024
 164,3:22.74,,Jamaica,,JAM,1h1,"Nemzeti Atlétikai Központ, Budapest (HUN)",2023-08-26,1200,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,202.74,HUN,,2023
 165,3:22.77,,Jamaica,,JAM,1h1,"National Stadium, Tokyo (JPN)",2025-09-20,1200,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,202.77,JPN,,2025
 166,3:22.79,,Soviet Union,,URS,3,"Olympic Stadium, Athina (GRE)",1982-09-11,1200,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,202.79,GRE,,1982
@@ -169,14 +169,14 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 168,3:22.81,,United States,,USA,2,"Olympic Stadium, Montréal (CAN)",1976-07-31,1200,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,202.81,CAN,,1976
 169,3:22.82,,United States,,USA,1h1,"Memorial Coliseum, Los Angeles, CA (USA)",1984-08-10,1200,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,202.82,USA,,1984
 170,3:22.84,,Belgium,,BEL,5,"Nemzeti Atlétikai Központ, Budapest (HUN)",2023-08-27,1199,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,202.84,HUN,,2023
-171,3:22.91,,Russia,,RUS,2,"Stade de France, Paris-St-Denis (FRA)",2003-08-31,1199,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,202.91,FRA,,2003
 171,3:22.91,,Unified Team,,EUN,1h2,"Estadio Olímpico, Barcelona (ESP)",1992-08-07,1199,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,202.91,ESP,,1992
+171,3:22.91,,Russia,,RUS,2,"Stade de France, Paris-St-Denis (FRA)",2003-08-31,1199,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,202.91,FRA,,2003
 171,3:22.91,,Poland,,POL,5,"National Stadium, Tokyo (JPN)",2025-09-21,1199,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,202.91,JPN,,2025
 174,3:22.92,,United States Red,,USA,1,"Philadelphia, PA (USA)",2011-04-30,1199,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,202.92000000000002,USA,,2011
 174,3:22.92,,Jamaica,,JAM,3,"Stade de France, Paris-St-Denis (FRA)",2003-08-31,1199,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,202.92000000000002,FRA,,2003
 176,3:22.93,,United States Red,,USA,1f2,"Philadelphia, PA (USA)",2005-04-30,1199,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,202.93,USA,,2005
-177,3:22.95,,German Democratic Republic,,GDR,1,"Olympiastadion, München (GER)",1972-09-10,1198,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,202.95,GER,,1972
 177,3:22.95,,Belgium,,BEL,3,"Stadio Olimpico, Roma (ITA)",2024-06-12,1198,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,202.95,ITA,,2024
+177,3:22.95,,German Democratic Republic,,GDR,1,"Olympiastadion, München (GER)",1972-09-10,1198,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,202.95,GER,,1972
 179,3:22.96,,United States,,USA,1h2,"Khalifa International Stadium, Doha (QAT)",2019-10-05,1198,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,202.96,QAT,,2019
 180,3:22.97,,German Democratic Republic,,GDR,1h2,"Stadio Olimpico, Roma (ITA)",1987-09-05,1198,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,202.97,ITA,,1987
 181,3:22.98,,Federal Republic of Germany,,FRG,3,"Memorial Coliseum, Los Angeles, CA (USA)",1984-08-11,1198,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,202.98,USA,,1984
@@ -185,42 +185,42 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 184,3:23.03,,Europa,,INT,2,"Stadio Olimpico, Roma (ITA)",1981-09-04,1198,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,203.03,ITA,,1981
 184,3:23.03,,Germany,,GER,1,"Népstadion, Budapest (HUN)",1998-08-23,1198,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,203.03,HUN,,1998
 186,3:23.04,,Soviet Union,,URS,2,"Olympic Stadium, Montréal (CAN)",1979-08-24,1198,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,203.04,CAN,,1979
-187,3:23.05,,Great Britain & NI,,GBR,2h3,"DS, Daegu (KOR)",2011-09-02,1198,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,203.05,KOR,,2011
-187,3:23.05,,United States,,USA,1h2,"National Stadium, Beijing (CHN)",2015-08-29,1198,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,203.05,CHN,,2015
 187,3:23.05,,Americas,,INT,1,"Estadio Olímpico, Barcelona (ESP)",1989-09-08,1198,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,203.05,ESP,,1989
+187,3:23.05,,United States,,USA,1h2,"National Stadium, Beijing (CHN)",2015-08-29,1198,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,203.05,CHN,,2015
+187,3:23.05,,Great Britain & NI,,GBR,2h3,"DS, Daegu (KOR)",2011-09-02,1198,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,203.05,KOR,,2011
 190,3:23.08,,United States Red,,USA,1,"Philadelphia, PA (USA)",2009-04-25,1197,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,203.07999999999998,USA,,2009
 191,3:23.10,,Poland,,POL,1h1,"National Stadium, Tokyo (JPN)",2021-08-05,1197,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,203.1,JPN,,2021
-192,3:23.13,,Oregon,,USA,1,"Eugene, OR (USA)",2017-06-10,1197,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,203.13,USA,,2017
 192,3:23.13,,Jamaica,,JAM,5,"Olympic Stadium, Seoul (KOR)",1988-10-01,1197,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,203.13,KOR,,1988
+192,3:23.13,,Oregon,,USA,1,"Eugene, OR (USA)",2017-06-10,1197,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,203.13,USA,,2017
 194,3:23.17,,United States Blue,,USA,2,"Philadelphia, PA (USA)",2011-04-30,1197,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,203.17000000000002,USA,,2011
 195,3:23.21,,Cuba,,CUB,4,"National Stadium, Beijing (CHN)",2008-08-23,1196,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,203.21,CHN,,2008
-196,3:23.24,,Captain Athletics,,USA,1f1,"Percy Beard Track, Gainesville, FL (USA)",2025-04-19,1196,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,203.24,USA,,2025
 196,3:23.24,,Nigeria,,NGR,2h1,"Olympic Stadium, Atlanta, GA (USA)",1996-08-02,1196,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,203.24,USA,,1996
+196,3:23.24,,Captain Athletics,,USA,1f1,"Percy Beard Track, Gainesville, FL (USA)",2025-04-19,1196,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,203.24,USA,,2025
 198,3:23.25,,Jamaica,,JAM,2,"Olympic Stadium, Sydney (AUS)",2000-09-30,1196,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,203.25,AUS,,2000
 199,3:23.26,,Jamaica,,JAM,2f1,"T. Robinson Stadium, Nassau (BAH)",2014-05-25,1196,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,203.26,BAH,,2014
 200,3:23.27,,Texas,,INT,1,"Mike A. Myers Stadium, Austin, TX (USA)",2023-04-01,1196,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,203.27,USA,,2023
+201,3:23.29,,Jamaica,,JAM,2,"Olympiastadion, Helsinki (FIN)",2005-08-14,1195,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,203.29,FIN,,2005
 201,3:23.29,,Canada,,CAN,2h1,"Nemzeti Atlétikai Központ, Budapest (HUN)",2023-08-26,1195,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,203.29,HUN,,2023
 201,3:23.29,,United States,,USA,1sf2,"Ullevi Stadium, Göteborg (SWE)",1995-08-12,1195,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,203.29,SWE,,1995
-201,3:23.29,,Jamaica,,JAM,2,"Olympiastadion, Helsinki (FIN)",2005-08-14,1195,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,203.29,FIN,,2005
 204,3:23.32,,Tennessee,,INT,2,"Hayward Field, Eugene, OR (USA)",2024-06-08,1195,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,203.32,USA,,2024
 205,3:23.33,,Great Britain & NI,,GBR,1h2,"Nemzeti Atlétikai Központ, Budapest (HUN)",2023-08-26,1195,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,203.32999999999998,HUN,,2023
 206,3:23.34,,Soviet Union,,URS,2,"Poljud Stadion, Split (CRO)",1990-09-01,1195,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,203.34,CRO,,1990
-207,3:23.35,,Texas,,INT,2,"Hayward Field, Eugene, OR (USA)",2022-06-11,1195,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,203.35,USA,,2022
 207,3:23.35,,USC,,INT,2,"Eugene, OR (USA)",2017-06-10,1195,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,203.35,USA,,2017
-209,3:23.37,,United States,,USA,1h2,"Yanmar Stadium Nagai, Osaka (JPN)",2007-09-01,1195,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,203.37,JPN,,2007
+207,3:23.35,,Texas,,INT,2,"Hayward Field, Eugene, OR (USA)",2022-06-11,1195,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,203.35,USA,,2022
 209,3:23.37,,Russia,,RUS,1,Glasgow (GBR) (i),2006-01-28,1220,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,203.37,GBR,,2006
+209,3:23.37,,United States,,USA,1h2,"Yanmar Stadium Nagai, Osaka (JPN)",2007-09-01,1195,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,203.37,JPN,,2007
 211,3:23.38,,United States,,USA,1h1,"Hayward Field, Eugene, OR (USA)",2022-07-23,1195,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,203.38,USA,,2022
-211,3:23.38,,Soviet Union,,URS,1h2,"National Stadium, Tokyo (JPN)",1991-08-31,1195,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,203.38,JPN,,1991
 211,3:23.38,,German Democratic Republic,,GDR,1h2,"Olympic Stadium, Montréal (CAN)",1976-07-30,1195,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,203.38,CAN,,1976
+211,3:23.38,,Soviet Union,,URS,1h2,"National Stadium, Tokyo (JPN)",1991-08-31,1195,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,203.38,JPN,,1991
 214,3:23.40,,Italy,,ITA,4,"Stadio Olimpico, Roma (ITA)",2024-06-12,1195,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,203.4,ITA,,2024
-215,3:23.41,,Nigeria,,NGR,3f1,"T. Robinson Stadium, Nassau (BAH)",2014-05-25,1194,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,203.41,BAH,,2014
 215,3:23.41,,Cique Elite Track Club,,USA,2f1,"Percy Beard Track, Gainesville, FL (USA)",2025-04-19,1194,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,203.41,USA,,2025
 215,3:23.41,,Great Britain & NI,,GBR,3,"Gottlieb-Daimler Stadion, Stuttgart (GER)",1993-08-22,1194,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,203.41,GER,,1993
+215,3:23.41,,Nigeria,,NGR,3f1,"T. Robinson Stadium, Nassau (BAH)",2014-05-25,1194,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,203.41,BAH,,2014
 218,3:23.46,,Russia,,RUS,3,"Olympic Stadium, Sydney (AUS)",2000-09-30,1194,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,203.46,AUS,,2000
-219,3:23.49,,United States Red,,USA,1,"Austin, TX (USA)",2008-04-05,1194,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,203.49,USA,,2008
 219,3:23.49,,Russia,,RUS,1h1,"Yanmar Stadium Nagai, Osaka (JPN)",2007-09-01,1194,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,203.49,JPN,,2007
-221,3:23.51,,Russia,,RUS,1,"Estadio Ciudad de Málaga, Málaga (ESP)",2006-06-29,1194,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,203.51,ESP,,2006
+219,3:23.49,,United States Red,,USA,1,"Austin, TX (USA)",2008-04-05,1194,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,203.49,USA,,2008
 221,3:23.51,,United States Blue,,USA,1f1,"Philadelphia, PA (USA)",2006-04-29,1194,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,203.51,USA,,2006
+221,3:23.51,,Russia,,RUS,1,"Estadio Ciudad de Málaga, Málaga (ESP)",2006-06-29,1194,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,203.51,ESP,,2006
 223,3:23.52,,Russia,,RUS,1h1,"Olympic Stadium, Athina (GRE)",2004-08-27,1194,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,203.52,GRE,,2004
 224,3:23.53,,Americas,,INT,1,"CM, Madrid (ESP)",2002-09-21,1193,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,203.53,ESP,,2002
 225,3:23.54,,United States,,USA,1,"Grand Bahama Sports Complex, Freeport (BAH)",2022-08-21,1193,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,203.54,BAH,,2022
@@ -228,9 +228,9 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 226,3:23.56,,Russia,,RUS,2,"Népstadion, Budapest (HUN)",1998-08-23,1193,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,203.56,HUN,,1998
 228,3:23.57,,Ukraine,,UKR,3,"Olympic Stadium, London (GBR)",2012-08-11,1193,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,203.57,GBR,,2012
 228,3:23.57,,United States,,USA,1h1,"DS, Daegu (KOR)",2011-09-02,1193,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,203.57,KOR,,2011
-230,3:23.62,,Georgia,,INT,1,"Hayward Field, Eugene, OR (USA)",2025-06-14,1193,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,203.62,USA,,2025
-230,3:23.62,,Jamaica,,JAM,1h1,"National Stadium, Beijing (CHN)",2015-08-29,1193,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,203.62,CHN,,2015
 230,3:23.62,,Great Britain & NI,,GBR,3,"National Stadium, Beijing (CHN)",2015-08-30,1193,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,203.62,CHN,,2015
+230,3:23.62,,Jamaica,,JAM,1h1,"National Stadium, Beijing (CHN)",2015-08-29,1193,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,203.62,CHN,,2015
+230,3:23.62,,Georgia,,INT,1,"Hayward Field, Eugene, OR (USA)",2025-06-14,1193,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,203.62,USA,,2025
 233,3:23.63,,Belgium,,BEL,2h2,"Nemzeti Atlétikai Központ, Budapest (HUN)",2023-08-26,1193,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,203.63,HUN,,2023
 233,3:23.63,,Great Britain & NI,,GBR,3,"DS, Daegu (KOR)",2011-09-03,1193,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,203.63,KOR,,2011
 235,3:23.64,,Jamaica,,JAM,1h1,"Khalifa International Stadium, Doha (QAT)",2019-10-05,1192,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,203.64,QAT,,2019
@@ -245,8 +245,8 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 244,3:23.74,,Nigeria,,NGR,5,"National Stadium, Beijing (CHN)",2008-08-23,1192,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,203.74,CHN,,2008
 244,3:23.74,,Netherlands,,NED,6,"National Stadium, Tokyo (JPN)",2021-08-07,1192,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,203.74,JPN,,2021
 246,3:23.75,,University of Texas,,USA,1,"Austin, TX (USA)",2004-04-02,1192,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,203.75,USA,,2004
-246,3:23.75,,Netherlands,,NED,3h1,"Nemzeti Atlétikai Központ, Budapest (HUN)",2023-08-26,1192,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,203.75,HUN,,2023
 246,3:23.75,,Russia,,RUS,2h1,"National Stadium, Beijing (CHN)",2015-08-29,1192,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,203.75,CHN,,2015
+246,3:23.75,,Netherlands,,NED,3h1,"Nemzeti Atlétikai Központ, Budapest (HUN)",2023-08-26,1192,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,203.75,HUN,,2023
 249,3:23.76,,Russia,,RUS,1f1,"Fana Stadion, Bergen (NOR)",2010-06-20,1191,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,203.76,NOR,,2010
 250,3:23.77,,France,,FRA,5,"Stadio Olimpico, Roma (ITA)",2024-06-12,1191,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,203.77,ITA,,2024
 250,3:23.77,,Russia,,RUS,1,"Parc des Sports, Annecy (FRA)",2008-06-22,1191,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,203.77,FRA,,2008
@@ -254,16 +254,16 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 253,3:23.80,,Nigeria,,NGR,4,"Olympic Stadium, Sydney (AUS)",2000-09-30,1191,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,203.8,AUS,,2000
 254,3:23.81,,Germany,,GER,1,"Weserstadion, Bremen (GER)",2001-06-24,1191,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,203.81,GER,,2001
 254,3:23.81,,Australia,,AUS,5,"Olympic Stadium, Sydney (AUS)",2000-09-30,1191,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,203.81,AUS,,2000
-256,3:23.82,,United States Red,,USA,1,"Philadelphia, PA (USA)",2004-04-24,1191,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,203.82,USA,,2004
-256,3:23.82,,Jamaica,,JAM,3,"Philadelphia, PA (USA)",2011-04-30,1191,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,203.82,USA,,2011
-256,3:23.82,,Jamaica,,JAM,1h1,"Gottlieb-Daimler Stadion, Stuttgart (GER)",1993-08-21,1191,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,203.82,GER,,1993
 256,3:23.82,,Czech Republic,,CZE,4,"La Cartuja, Sevilla (ESP)",1999-08-29,1191,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,203.82,ESP,,1999
+256,3:23.82,,Jamaica,,JAM,1h1,"Gottlieb-Daimler Stadion, Stuttgart (GER)",1993-08-21,1191,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,203.82,GER,,1993
+256,3:23.82,,Jamaica,,JAM,3,"Philadelphia, PA (USA)",2011-04-30,1191,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,203.82,USA,,2011
+256,3:23.82,,United States Red,,USA,1,"Philadelphia, PA (USA)",2004-04-24,1191,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,203.82,USA,,2004
 256,3:23.82,,Jamaica,,JAM,1,"Hampden Park, Glasgow (GBR)",2014-08-02,1191,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,203.82,GBR,,2014
 261,3:23.83,,Jamaica,,JAM,4,"Gottlieb-Daimler Stadion, Stuttgart (GER)",1993-08-22,1191,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,203.82999999999998,GER,,1993
 261,3:23.83,,Empire Athletics,,USA,1f1,"Percy Beard Track, Gainesville, FL (USA)",2024-04-13,1191,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,203.82999999999998,USA,,2024
-263,3:23.84,,United States,,USA,1h2,"T. Robinson Stadium, Nassau (BAH)",2014-05-24,1191,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,203.84,BAH,,2014
 263,3:23.84,,Norway,,NOR,2h1,"National Stadium, Tokyo (JPN)",2025-09-20,1191,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,203.84,JPN,,2025
 263,3:23.84,,Germany,,GER,3sf2,"Ullevi Stadium, Göteborg (SWE)",1995-08-12,1191,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,203.84,SWE,,1995
+263,3:23.84,,United States,,USA,1h2,"T. Robinson Stadium, Nassau (BAH)",2014-05-24,1191,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,203.84,BAH,,2014
 266,3:23.85,,United States,,USA,1,"Arena Birmingham, Birmingham (GBR) (i)",2018-03-04,1216,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,203.85,GBR,,2018
 267,3:23.86,,Italy,,ITA,3h2,"Nemzeti Atlétikai Központ, Budapest (HUN)",2023-08-26,1191,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,203.86,HUN,,2023
 268,3:23.88,,Russia,,RUS,1,"Sportaréna, Budapest (HUN) (i)",2004-03-07,1216,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,203.88,HUN,,2004
@@ -280,43 +280,43 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 279,3:24.00,,Jamaica,,JAM,1,Gold Coast (AUS),2018-04-14,1189,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,204.0,AUS,,2018
 280,3:24.01,,Netherlands,,NED,4h2,"National Stadium, Tokyo (JPN)",2021-08-05,1189,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,204.01,JPN,,2021
 281,3:24.03,,Netherlands,,NED,3h2,"National Stadium, Tokyo (JPN)",2025-09-20,1189,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,204.03,JPN,,2025
-282,3:24.04,,United States U20,,USA,1,San José (CRC),2019-07-21,1189,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,204.04,CRC,,2019
 1,3:24.04,,United States U20,,USA,1,San José (CRC),2019-07-21,1189,4x400-metres-relay,relays,female,u20,4x400-metres-relay,track,204.04,CRC,,2019
-282,3:24.04,,Cuba,,CUB,2h1,"National Stadium, Tokyo (JPN)",2021-08-05,1189,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,204.04,JPN,,2021
 282,3:24.04,,German Democratic Republic,,GDR,1,"Rheinstadion, Düsseldorf (GER)",1977-09-02,1189,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,204.04,GER,,1977
+282,3:24.04,,Cuba,,CUB,2h1,"National Stadium, Tokyo (JPN)",2021-08-05,1189,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,204.04,JPN,,2021
+282,3:24.04,,United States U20,,USA,1,San José (CRC),2019-07-21,1189,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,204.04,CRC,,2019
+285,3:24.05,,Poland,,POL,4h1,"Nemzeti Atlétikai Központ, Budapest (HUN)",2023-08-26,1189,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,204.05,HUN,,2023
 285,3:24.05,,Arkansas,,INT,1,"Mike A. Myers Stadium, Austin, TX (USA)",2023-06-10,1189,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,204.05,USA,,2023
-285,3:24.05,,Australia,,AUS,2h3,"Olympic Stadium, Sydney (AUS)",2000-09-29,1189,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,204.05,AUS,,2000
 285,3:24.05,,Canada,,CAN,5h2,"National Stadium, Tokyo (JPN)",2021-08-05,1189,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,204.05,JPN,,2021
 285,3:24.05,,United States,,USA,1h3,"T. Robinson Stadium, Nassau (BAH)",2015-05-02,1189,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,204.05,BAH,,2015
-285,3:24.05,,Poland,,POL,4h1,"Nemzeti Atlétikai Központ, Budapest (HUN)",2023-08-26,1189,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,204.05,HUN,,2023
+285,3:24.05,,Australia,,AUS,2h3,"Olympic Stadium, Sydney (AUS)",2000-09-29,1189,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,204.05,AUS,,2000
 290,3:24.06,,Russia,,RUS,2,"Olympiastadion, Helsinki (FIN)",1994-08-14,1189,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,204.06,FIN,,1994
 291,3:24.07,,Germany,,GER,1,"Estadio Olímpico, Barcelona (ESP)",2010-08-01,1189,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,204.07,ESP,,2010
+292,3:24.08,,Belgium,,BEL,3h1,"National Stadium, Tokyo (JPN)",2021-08-05,1189,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,204.07999999999998,JPN,,2021
 292,3:24.08,,United States,,USA,1h2,"Gottlieb-Daimler Stadion, Stuttgart (GER)",1993-08-21,1189,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,204.07999999999998,GER,,1993
 292,3:24.08,,Germany,,GER,1h2,"Olympic Stadium, Atlanta, GA (USA)",1996-08-02,1189,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,204.07999999999998,USA,,1996
-292,3:24.08,,Belgium,,BEL,3h1,"National Stadium, Tokyo (JPN)",2021-08-05,1189,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,204.07999999999998,JPN,,2021
 292,3:24.08,,France,,FRA,7,"National Stadium, Tokyo (JPN)",2025-09-21,1189,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,204.07999999999998,JPN,,2025
-296,3:24.09,,USA Red,,USA,2f1,"Percy Beard Track, Gainesville, FL (USA)",2024-04-13,1189,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,204.09,USA,,2024
 296,3:24.09,,Arkansas,,INT,1f3,"Gilliam Indoor Track, College Station, TX (USA) (i)",2022-02-26,1214,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,204.09,USA,,2022
-298,3:24.10,,Russia,,RUS,1,"Olympiastadion, München (GER)",1997-06-22,1189,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,204.1,GER,,1997
+296,3:24.09,,USA Red,,USA,2f1,"Percy Beard Track, Gainesville, FL (USA)",2024-04-13,1189,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,204.09,USA,,2024
 298,3:24.10,,Nigeria,,NGR,3h2,"National Stadium, Beijing (CHN)",2008-08-22,1189,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,204.1,CHN,,2008
+298,3:24.10,,Russia,,RUS,1,"Olympiastadion, München (GER)",1997-06-22,1189,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,204.1,GER,,1997
 298,3:24.10,,Germany,,GER,3,"Olympiastadion, Helsinki (FIN)",1994-08-14,1189,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,204.1,FIN,,1994
-301,3:24.11,,Jamaica,,JAM,3,"Philadelphia, PA (USA)",2013-04-27,1188,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,204.11,USA,,2013
 301,3:24.11,,Canada,,CAN,4,"Stadio Olimpico, Roma (ITA)",1987-09-06,1188,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,204.11,ITA,,1987
+301,3:24.11,,Jamaica,,JAM,3,"Philadelphia, PA (USA)",2013-04-27,1188,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,204.11,USA,,2013
 303,3:24.12,,Europe,,INT,2,"Le Grand Stade, Marrakech (MAR)",2014-09-14,1188,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,204.12,MAR,,2014
 304,3:24.13,,Spain,,ESP,1f1,"Tianhe Sports Center, Guangzhou (CHN)",2025-05-11,1188,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,204.13,CHN,,2025
 305,3:24.14,,Great Britain & NI,,GBR,4,"Olympiastadion, Helsinki (FIN)",1994-08-14,1188,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,204.14,FIN,,1994
 305,3:24.14,,One Goal Athletics,,INT,1f1,"Gainesville, FL (USA)",2012-04-07,1188,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,204.14,USA,,2012
-307,3:24.21,,University of Texas,,USA,1,"Eugene, OR (USA)",2014-06-14,1188,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,204.21,USA,,2014
 307,3:24.21,,France,,FRA,3,"Luzhniki Stadion, Moskva (RUS)",2013-08-17,1188,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,204.21,RUS,,2013
+307,3:24.21,,University of Texas,,USA,1,"Eugene, OR (USA)",2014-06-14,1188,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,204.21,USA,,2014
 309,3:24.23,,Cuba,,CUB,2h2,"Olympic Stadium, Atlanta, GA (USA)",1996-08-02,1187,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,204.23,USA,,1996
-309,3:24.23,,Great Britain & NI,,GBR,3,"Estadio Olímpico, Barcelona (ESP)",1992-08-08,1187,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,204.23,ESP,,1992
 309,3:24.23,,Jamaica,,JAM,1h2,"Hayward Field, Eugene, OR (USA)",2022-07-23,1187,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,204.23,USA,,2022
+309,3:24.23,,Great Britain & NI,,GBR,3,"Estadio Olímpico, Barcelona (ESP)",1992-08-08,1187,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,204.23,ESP,,1992
 312,3:24.24,,Soviet Union,,URS,3,"Olympic Stadium, Montréal (CAN)",1976-07-31,1187,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,204.24,CAN,,1976
 313,3:24.25,,Arkansas,,INT,2,"Hayward Field, Eugene, OR (USA)",2025-06-14,1187,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,204.25,USA,,2025
 313,3:24.25,,Russia,,RUS,1,"Green Dome, Maebashi (JPN) (i)",1999-03-07,1213,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,204.25,JPN,,1999
 315,3:24.26,,Germany,,GER,1,"SGJ, Johannesburg (RSA)",1998-09-11,1187,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,204.26,RSA,,1998
-315,3:24.26,,South Carolina,,USA,1f2,"Un. of Kentucky Outdoor Track Facility, Lexington, KY (USA)",2025-05-17,1187,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,204.26,USA,,2025
 315,3:24.26,,Georgia,,USA,4,"Hayward Field, Eugene, OR (USA)",2024-06-08,1187,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,204.26,USA,,2024
+315,3:24.26,,South Carolina,,USA,1f2,"Un. of Kentucky Outdoor Track Facility, Lexington, KY (USA)",2025-05-17,1187,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,204.26,USA,,2025
 318,3:24.27,,France,,FRA,1,"Letzigrund, Zürich (SUI)",2014-08-17,1187,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,204.27,SUI,,2014
 319,3:24.28,,United States,,USA,1,London (GBR),2018-07-14,1187,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,204.28,GBR,,2018
 319,3:24.28,,Belarus,,BLR,2h1,"DS, Daegu (KOR)",2011-09-02,1187,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,204.28,KOR,,2011
@@ -325,8 +325,8 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 323,3:24.32,,Great Britain & NI,,GBR,2,"Estadio Olímpico, Barcelona (ESP)",2010-08-01,1187,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,204.32,ESP,,2010
 323,3:24.32,,Ukraine,,UKR,2,"Letzigrund, Zürich (SUI)",2014-08-17,1187,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,204.32,SUI,,2014
 325,3:24.33,,France,,FRA,4h2,"National Stadium, Tokyo (JPN)",2025-09-20,1187,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,204.32999999999998,JPN,,2025
-326,3:24.34,,Great Britain & NI,,GBR,3,"Letzigrund, Zürich (SUI)",2014-08-17,1186,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,204.34,SUI,,2014
 326,3:24.34,,Netherlands,,NED,1,"Omnisport, Apeldoorn (NED) (i)",2025-03-09,1212,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,204.34,NED,,2025
+326,3:24.34,,Great Britain & NI,,GBR,3,"Letzigrund, Zürich (SUI)",2014-08-17,1186,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,204.34,SUI,,2014
 328,3:24.36,,United States,,USA,1f1,"T. Robinson Stadium, Nassau (BAH)",2017-04-23,1186,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,204.36,BAH,,2017
 329,3:24.38,,Ireland,,IRL,12,"The Bahamas National Stadium, Nassau (BAH)",2024-05-04,1186,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,204.38,BAH,,2024
 330,3:24.39,,Poland,,POL,3h1,"National Stadium, Tokyo (JPN)",2025-09-20,1186,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,204.39,JPN,,2025
@@ -334,170 +334,170 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 332,3:24.40,,Czech Republic,,CZE,3h3,"Olympic Stadium, Sydney (AUS)",2000-09-29,1186,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,204.4,AUS,,2000
 333,3:24.44,,Great Britain & NI,,GBR,3,"Olympiastadion, Helsinki (FIN)",2005-08-14,1186,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,204.44,FIN,,2005
 333,3:24.44,,Tennessee,,INT,1f2,"Percy Beard Track, Gainesville, FL (USA)",2024-05-11,1186,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,204.44,USA,,2024
-335,3:24.45,,Arkansas,,USA,2,"Mike A. Myers Stadium, Austin, TX (USA)",2023-04-01,1185,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,204.45,USA,,2023
 335,3:24.45,,Nigeria,,NGR,5,"National Stadium, Tokyo (JPN)",1991-09-01,1185,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,204.45,JPN,,1991
+335,3:24.45,,Arkansas,,USA,2,"Mike A. Myers Stadium, Austin, TX (USA)",2023-04-01,1185,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,204.45,USA,,2023
 337,3:24.46,,Great Britain & NI,,GBR,11,"Tianhe Sports Center, Guangzhou (CHN)",2025-05-11,1185,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,204.46,CHN,,2025
 338,3:24.49,,Poland,,POL,4,"Olympiastadion, Helsinki (FIN)",2005-08-14,1185,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,204.49,FIN,,2005
-339,3:24.50,,Ukraine,,UKR,6h2,"National Stadium, Tokyo (JPN)",2021-08-05,1185,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,204.5,JPN,,2021
 339,3:24.50,,Canada,,CAN,3h1,"Stadio Olimpico, Roma (ITA)",1987-09-05,1185,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,204.5,ITA,,1987
+339,3:24.50,,Ukraine,,UKR,6h2,"National Stadium, Tokyo (JPN)",2021-08-05,1185,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,204.5,JPN,,2021
 341,3:24.51,,Russia,,RUS,1h1,"La Cartuja, Sevilla (ESP)",1999-08-28,1185,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,204.51,ESP,,1999
 342,3:24.52,,Belgium,,BEL,21,"Tianhe Sports Center, Guangzhou (CHN)",2025-05-11,1185,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,204.52,CHN,,2025
-343,3:24.54,,Soviet Union,,URS,1h1,"Olympic Stadium, Montréal (CAN)",1976-07-30,1185,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,204.54,CAN,,1976
 343,3:24.54,,USC,,INT,2,"Hayward Field, Eugene, OR (USA)",2021-06-12,1185,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,204.54,USA,,2021
 343,3:24.54,,Oregon,,INT,1,"Des Moines, IA (USA)",2012-06-09,1185,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,204.54,USA,,2012
+343,3:24.54,,Soviet Union,,URS,1h1,"Olympic Stadium, Montréal (CAN)",1976-07-30,1185,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,204.54,CAN,,1976
 346,3:24.55,,Texas A&M,,USA,4,"Hayward Field, Eugene, OR (USA)",2022-06-11,1185,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,204.55,USA,,2022
 347,3:24.56,,Poland,,POL,31,"Tianhe Sports Center, Guangzhou (CHN)",2025-05-11,1185,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,204.56,CHN,,2025
-348,3:24.57,,Jamaica,,JAM,2,"Philadelphia, PA (USA)",2009-04-25,1184,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,204.57,USA,,2009
 348,3:24.57,,United States,,USA,1h3,"Stade de France, Paris-St-Denis (FRA)",2003-08-30,1184,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,204.57,FRA,,2003
+348,3:24.57,,Jamaica,,JAM,2,"Philadelphia, PA (USA)",2009-04-25,1184,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,204.57,USA,,2009
 350,3:24.58,,One Goal Athletics,,INT,1f1,"Gainesville, FL (USA)",2013-04-06,1184,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,204.57999999999998,USA,,2013
 350,3:24.58,,Russia,,RUS,2,"Weserstadion, Bremen (GER)",2001-06-24,1184,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,204.57999999999998,GER,,2001
 352,3:24.59,,Louisiana State,,INT,2,"Des Moines, IA (USA)",2012-06-09,1184,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,204.59,USA,,2012
 353,3:24.60,,USA Red,,USA,1,"Mike A. Myers Stadium, Austin, TX (USA)",2022-03-26,1184,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,204.6,USA,,2022
-354,3:24.61,,Russia,,RUS,1,"Stade Charléty, Paris (FRA)",1999-06-20,1184,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,204.61,FRA,,1999
 354,3:24.61,,Poland,,POL,2,"Stadio Luigi Ridolfi, Firenze (ITA)",2005-06-19,1184,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,204.61,ITA,,2005
+354,3:24.61,,Russia,,RUS,1,"Stade Charléty, Paris (FRA)",1999-06-20,1184,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,204.61,FRA,,1999
 356,3:24.63,,United States,,USA,1,"Queensland Sport and Athletics Centre, Nathan, Brisbane (AUS)",2001-09-07,1184,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,204.63,AUS,,2001
 357,3:24.65,,Poland,,POL,3,"Neckarstadion, Stuttgart (GER)",1986-08-31,1184,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,204.65,GER,,1986
 358,3:24.67,,Russia,,RUS,2h1,"Gottlieb-Daimler Stadion, Stuttgart (GER)",1993-08-21,1184,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,204.67000000000002,GER,,1993
 359,3:24.69,,Ireland,,IRL,12,"Tianhe Sports Center, Guangzhou (CHN)",2025-05-11,1183,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,204.69,CHN,,2025
-360,3:24.70,,United States Red,,USA,1,"Philadelphia, PA (USA)",2007-04-28,1183,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,204.7,USA,,2007
-360,3:24.70,,Leningrad,,URS,2,Kiev (URS),1986-07-17,1183,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,204.7,URS,,1986
 360,3:24.70,,Germany,,GER,1h1,"Olympic Stadium, Athina (GRE)",1997-08-09,1183,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,204.7,GRE,,1997
-363,3:24.71,,Italy,,ITA,4h1,"National Stadium, Tokyo (JPN)",2025-09-20,1183,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,204.71,JPN,,2025
+360,3:24.70,,Leningrad,,URS,2,Kiev (URS),1986-07-17,1183,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,204.7,URS,,1986
+360,3:24.70,,United States Red,,USA,1,"Philadelphia, PA (USA)",2007-04-28,1183,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,204.7,USA,,2007
 363,3:24.71,,Nigeria,,NGR,2,"Hampden Park, Glasgow (GBR)",2014-08-02,1183,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,204.71,GBR,,2014
+363,3:24.71,,Italy,,ITA,4h1,"National Stadium, Tokyo (JPN)",2025-09-20,1183,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,204.71,JPN,,2025
 363,3:24.71,,Poland,,POL,2f1,"The Bahamas National Stadium, Nassau (BAH)",2024-05-05,1183,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,204.71,BAH,,2024
+366,3:24.72,,Great Britain & NI,,GBR,2h1,"Stade de France, Paris (FRA)",2024-08-09,1183,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,204.72,FRA,,2024
 366,3:24.72,,United States,,USA,2f1,"Tianhe Sports Center, Guangzhou (CHN)",2025-05-11,1183,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,204.72,CHN,,2025
 366,3:24.72,,Jamaica,,JAM,1h2,"Olympiastadion, Berlin (GER)",2009-08-22,1183,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,204.72,GER,,2009
-366,3:24.72,,Great Britain & NI,,GBR,2h1,"Stade de France, Paris (FRA)",2024-08-09,1183,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,204.72,FRA,,2024
+369,3:24.73,,France,,FRA,3h1,"Stade de France, Paris (FRA)",2024-08-09,1183,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,204.73,FRA,,2024
 369,3:24.73,,Houston University,,INT,5,"Hayward Field, Eugene, OR (USA)",2024-06-08,1183,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,204.73,USA,,2024
 369,3:24.73,,Moskva,,URS,3,Kiev (URS),1986-07-17,1183,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,204.73,URS,,1986
-369,3:24.73,,France,,FRA,3h1,"Stade de France, Paris (FRA)",2024-08-09,1183,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,204.73,FRA,,2024
 372,3:24.74,,Russia,,URS,4,Kiev (URS),1986-07-17,1183,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,204.74,URS,,1986
 372,3:24.74,,Great Britain & NI,,GBR,2h1,"Olympic Stadium, London (GBR)",2017-08-12,1183,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,204.74,GBR,,2017
-374,3:24.76,,Jamaica,,JAM,1,"New York, NY (USA)",1998-07-22,1183,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,204.76,USA,,1998
-374,3:24.76,,Great Britain & NI,,GBR,4,"Olympic Stadium, London (GBR)",2012-08-11,1183,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,204.76,GBR,,2012
 374,3:24.76,,United States,,USA,14,"The Bahamas National Stadium, Nassau (BAH)",2024-05-04,1183,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,204.76,BAH,,2024
+374,3:24.76,,Jamaica,,JAM,1,"New York, NY (USA)",1998-07-22,1183,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,204.76,USA,,1998
 374,3:24.76,,Spain,,ESP,5h1,"National Stadium, Tokyo (JPN)",2025-09-20,1183,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,204.76,JPN,,2025
+374,3:24.76,,Great Britain & NI,,GBR,4,"Olympic Stadium, London (GBR)",2012-08-11,1183,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,204.76,GBR,,2012
 378,3:24.77,,Germany,,GER,4h1,"National Stadium, Tokyo (JPN)",2021-08-05,1183,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,204.77,JPN,,2021
 379,3:24.78,,Great Britain & NI,,GBR,3,"Poljud Stadion, Split (CRO)",1990-09-01,1183,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,204.78,CRO,,1990
 380,3:24.80,,Germany,,GER,1h2,"La Cartuja, Sevilla (ESP)",1999-08-28,1182,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,204.8,ESP,,1999
-381,3:24.81,,United States,,USA,2,"New York, NY (USA)",1998-07-22,1182,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,204.81,USA,,1998
-381,3:24.81,,Great Britain & NI,,GBR,2h2,"Estádio Olímpico, Rio de Janeiro (BRA)",2016-08-19,1182,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,204.81,BRA,,2016
 381,3:24.81,,Poland,,POL,1f1,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",2019-08-11,1182,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,204.81,POL,,2019
+381,3:24.81,,Great Britain & NI,,GBR,2h2,"Estádio Olímpico, Rio de Janeiro (BRA)",2016-08-19,1182,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,204.81,BRA,,2016
 381,3:24.81,,Ireland,,IRL,1h2,"Stadio Olimpico, Roma (ITA)",2024-06-11,1182,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,204.81,ITA,,2024
+381,3:24.81,,United States,,USA,2,"New York, NY (USA)",1998-07-22,1182,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,204.81,USA,,1998
 385,3:24.82,,Hurdle Mechanic,,USA,1,"Mike A. Myers Stadium, Austin, TX (USA)",2023-04-01,1182,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,204.82,USA,,2023
-386,3:24.83,,Jamaica,,JAM,5,"La Cartuja, Sevilla (ESP)",1999-08-29,1182,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,204.82999999999998,ESP,,1999
 386,3:24.83,,United States,,USA,1,"Ergo Arena, Sopot (POL) (i)",2014-03-09,1208,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,204.82999999999998,POL,,2014
-388,3:24.84,,Russia,,RUS,4,"National Stadium, Beijing (CHN)",2015-08-30,1182,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,204.84,CHN,,2015
+386,3:24.83,,Jamaica,,JAM,5,"La Cartuja, Sevilla (ESP)",1999-08-29,1182,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,204.82999999999998,ESP,,1999
 388,3:24.84,,South Africa,,RSA,3f1,"Tianhe Sports Center, Guangzhou (CHN)",2025-05-11,1182,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,204.84,CHN,,2025
+388,3:24.84,,Russia,,RUS,4,"National Stadium, Beijing (CHN)",2015-08-30,1182,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,204.84,CHN,,2015
 390,3:24.85,,Georgia,,INT,2f2,"Un. of Kentucky Outdoor Track Facility, Lexington, KY (USA)",2025-05-17,1182,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,204.85,USA,,2025
 391,3:24.86,,Russia,,RUS,3h2,"Olympic Stadium, Atlanta, GA (USA)",1996-08-02,1182,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,204.86,USA,,1996
-391,3:24.86,,France,,FRA,3h2,"National Stadium, Beijing (CHN)",2015-08-29,1182,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,204.86,CHN,,2015
 391,3:24.86,,South Carolina,,INT,6,"Hayward Field, Eugene, OR (USA)",2024-06-08,1182,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,204.86,USA,,2024
+391,3:24.86,,France,,FRA,3h2,"National Stadium, Beijing (CHN)",2015-08-29,1182,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,204.86,CHN,,2015
 394,3:24.87,,Jamaica,,JAM,2,"Queensland Sport and Athletics Centre, Nathan, Brisbane (AUS)",2001-09-07,1182,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,204.87,AUS,,2001
 394,3:24.87,,Jamaica,,JAM,2h1,"Commonwealth Stadium, Edmonton (CAN)",2001-08-11,1182,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,204.87,CAN,,2001
 396,3:24.89,,Great Britain & NI,,GBR,22,"The Bahamas National Stadium, Nassau (BAH)",2024-05-04,1182,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,204.89,BAH,,2024
 396,3:24.89,,Great Britain & NI,,GBR,2,"Omnisport, Apeldoorn (NED) (i)",2025-03-09,1207,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,204.89,NED,,2025
 398,3:24.91,,Cuba,,CUB,2,La Habana (CUB),1991-08-11,1182,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,204.91,CUB,,1991
 398,3:24.91,,Russia,,RUS,1,"Olimpiyskiy Stadion, Moskva (RUS) (i)",2006-03-12,1207,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,204.91,RUS,,2006
-400,3:24.92,,Russia,,RUS,3,"Commonwealth Stadium, Edmonton (CAN)",2001-08-12,1181,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,204.92000000000002,CAN,,2001
-400,3:24.92,,Jamaica,,JAM,2h1,"Olympic Stadium, Athina (GRE)",2004-08-27,1181,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,204.92000000000002,GRE,,2004
-400,3:24.92,,United States,,USA,1h1,"National Stadium, Tokyo (JPN)",1991-08-31,1181,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,204.92000000000002,JPN,,1991
-400,3:24.92,,Belgium,,BEL,4h1,"Stade de France, Paris (FRA)",2024-08-09,1181,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,204.92000000000002,FRA,,2024
 400,3:24.92,,Jamaica,,JAM,1h2,"Stade de France, Paris (FRA)",2024-08-09,1181,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,204.92000000000002,FRA,,2024
+400,3:24.92,,Belgium,,BEL,4h1,"Stade de France, Paris (FRA)",2024-08-09,1181,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,204.92000000000002,FRA,,2024
+400,3:24.92,,United States,,USA,1h1,"National Stadium, Tokyo (JPN)",1991-08-31,1181,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,204.92000000000002,JPN,,1991
+400,3:24.92,,Jamaica,,JAM,2h1,"Olympic Stadium, Athina (GRE)",2004-08-27,1181,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,204.92000000000002,GRE,,2004
+400,3:24.92,,Russia,,RUS,3,"Commonwealth Stadium, Edmonton (CAN)",2001-08-12,1181,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,204.92000000000002,CAN,,2001
 405,3:24.93,,Poland,,POL,6,"Nemzeti Atlétikai Központ, Budapest (HUN)",2023-08-27,1181,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,204.93,HUN,,2023
-406,3:24.94,,Canada,,CAN,3h2,"Estádio Olímpico, Rio de Janeiro (BRA)",2016-08-19,1181,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,204.94,BRA,,2016
 406,3:24.94,,Federal Republic of Germany,,FRG,5,"Stadio Olimpico, Roma (ITA)",1987-09-06,1181,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,204.94,ITA,,1987
+406,3:24.94,,Canada,,CAN,3h2,"Estádio Olímpico, Rio de Janeiro (BRA)",2016-08-19,1181,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,204.94,BRA,,2016
 408,3:24.95,,Jamaica,,JAM,2h2,"T. Robinson Stadium, Nassau (BAH)",2014-05-24,1181,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,204.95,BAH,,2014
 409,3:24.98,,Italy,,ITA,7,"Nemzeti Atlétikai Központ, Budapest (HUN)",2023-08-27,1181,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,204.98,HUN,,2023
 409,3:24.98,,Russia,,RUS,1f1,"Olympic Stadium, Cheboksary (RUS)",2015-06-21,1181,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,204.98,RUS,,2015
 411,3:24.99,,Great Britain & NI,,GBR,2h2,"Khalifa International Stadium, Doha (QAT)",2019-10-05,1181,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,204.99,QAT,,2019
-412,3:25.00,,Italy,,ITA,8,"National Stadium, Tokyo (JPN)",2025-09-21,1181,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.0,JPN,,2025
 412,3:25.00,,Great Britain & NI,,GBR,2,"Olympic Stadium, London (GBR)",2017-08-13,1181,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.0,GBR,,2017
+412,3:25.00,,Italy,,ITA,8,"National Stadium, Tokyo (JPN)",2025-09-21,1181,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.0,JPN,,2025
 414,3:25.01,,UCLA,,INT,3,"Hayward Field, Eugene, OR (USA)",2021-06-12,1181,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.01,USA,,2021
-415,3:25.02,,Russia,,RUS,4,"Letzigrund, Zürich (SUI)",2014-08-17,1181,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.02,SUI,,2014
 415,3:25.02,,South Carolina,,INT,2f2,"Percy Beard Track, Gainesville, FL (USA)",2024-05-11,1181,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.02,USA,,2024
-417,3:25.03,,Netherlands,,NED,2h2,"Stade de France, Paris (FRA)",2024-08-09,1181,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.03,FRA,,2024
+415,3:25.02,,Russia,,RUS,4,"Letzigrund, Zürich (SUI)",2014-08-17,1181,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.02,SUI,,2014
 417,3:25.03,,Arkansas,,INT,1,"Mike A. Myers Stadium, Austin, TX (USA)",2025-03-29,1181,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.03,USA,,2025
+417,3:25.03,,Netherlands,,NED,2h2,"Stade de France, Paris (FRA)",2024-08-09,1181,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.03,FRA,,2024
 419,3:25.04,,MVP Track Club,,JAM,1,"Walnut, CA (USA)",2008-04-20,1180,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.04,USA,,2008
 420,3:25.05,,Ireland,,IRL,3h2,"Stade de France, Paris (FRA)",2024-08-09,1180,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.05,FRA,,2024
 420,3:25.05,,University of Texas,,USA,1f1,"Philadelphia, PA (USA)",2014-04-26,1180,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.05,USA,,2014
+420,3:25.05,,Great Britain & NI,,GBR,2h2,"Olympic Stadium, London (GBR)",2012-08-10,1180,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.05,GBR,,2012
 420,3:25.05,,Poland,,POL,3h1,"Olympic Stadium, Athina (GRE)",2004-08-27,1180,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.05,GRE,,2004
 420,3:25.05,,Great Britain & NI,,GBR,1,"Olympisch Stadion, Amsterdam (NED)",2016-07-10,1180,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.05,NED,,2016
-420,3:25.05,,Great Britain & NI,,GBR,2h2,"Olympic Stadium, London (GBR)",2012-08-10,1180,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.05,GBR,,2012
-425,3:25.07,,Netherlands,,NED,1,"Glasgow Arena, Glasgow (GBR) (i)",2024-03-03,1205,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.07,GBR,,2024
-425,3:25.07,,France,,FRA,5h1,"National Stadium, Tokyo (JPN)",2021-08-05,1180,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.07,JPN,,2021
 425,3:25.07,,Ukraine,,UKR,1,"Olympiastadion, Helsinki (FIN)",2012-07-01,1180,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.07,FIN,,2012
-428,3:25.08,,Germany,,GER,2h2,"Olympiastadion, Berlin (GER)",2009-08-22,1180,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.07999999999998,GER,,2009
-428,3:25.08,,Empire Athletics,,INT,1,"Percy Beard Track, Gainesville, FL (USA)",2024-03-30,1180,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.07999999999998,USA,,2024
+425,3:25.07,,France,,FRA,5h1,"National Stadium, Tokyo (JPN)",2021-08-05,1180,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.07,JPN,,2021
+425,3:25.07,,Netherlands,,NED,1,"Glasgow Arena, Glasgow (GBR) (i)",2024-03-03,1205,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.07,GBR,,2024
 428,3:25.08,,Hurdle Mechanic,,INT,1,"Clyde Hart Track & Field Stadium, Waco, TX (USA)",2022-04-02,1180,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.07999999999998,USA,,2022
-431,3:25.10,,United States,,USA,1h3,"La Cartuja, Sevilla (ESP)",1999-08-28,1180,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.1,ESP,,1999
+428,3:25.08,,Empire Athletics,,INT,1,"Percy Beard Track, Gainesville, FL (USA)",2024-03-30,1180,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.07999999999998,USA,,2024
+428,3:25.08,,Germany,,GER,2h2,"Olympiastadion, Berlin (GER)",2009-08-22,1180,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.07999999999998,GER,,2009
 431,3:25.10,,Germany,,GER,1,"Olympiastadion, München (GER)",2002-08-06,1180,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.1,GER,,2002
+431,3:25.10,,United States,,USA,1h3,"La Cartuja, Sevilla (ESP)",1999-08-28,1180,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.1,ESP,,1999
 433,3:25.11,,Czech Republic,,CZE,2h1,"Olympic Stadium, Athina (GRE)",1997-08-09,1180,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.11,GRE,,1997
 434,3:25.12,,Great Britain & NI,,GBR,4,"Olympic Stadium, Athina (GRE)",2004-08-28,1180,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.12,GRE,,2004
-434,3:25.12,,Russia,,RUS,1,"Ullevi Stadium, Göteborg (SWE)",2006-08-13,1180,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.12,SWE,,2006
 434,3:25.12,,Federal Republic of Germany,,FRG,4,"Poljud Stadion, Split (CRO)",1990-09-01,1180,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.12,CRO,,1990
+434,3:25.12,,Russia,,RUS,1,"Ullevi Stadium, Göteborg (SWE)",2006-08-13,1180,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.12,SWE,,2006
 437,3:25.13,,Jamaica,,JAM,1h1,"Olympic Stadium, London (GBR)",2012-08-10,1180,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.13,GBR,,2012
-438,3:25.14,,CAP Athletics,,INT,3f1,"Percy Beard Track, Gainesville, FL (USA)",2024-04-13,1180,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.14,USA,,2024
 438,3:25.14,,Belarus,,BLR,2h1,"Yanmar Stadium Nagai, Osaka (JPN)",2007-09-01,1180,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.14,JPN,,2007
-440,3:25.15,,France,,FRA,2h2,"Stadio Olimpico, Roma (ITA)",2024-06-11,1179,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.15,ITA,,2024
-440,3:25.15,,Russia,,RUS,3,"SGJ, Johannesburg (RSA)",1998-09-11,1179,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.15,RSA,,1998
+438,3:25.14,,CAP Athletics,,INT,3f1,"Percy Beard Track, Gainesville, FL (USA)",2024-04-13,1180,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.14,USA,,2024
 440,3:25.15,,United States,,USA,2h1,"Olympic Stadium, Montréal (CAN)",1976-07-30,1179,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.15,CAN,,1976
+440,3:25.15,,France,,FRA,2h2,"Stadio Olimpico, Roma (ITA)",2024-06-11,1179,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.15,ITA,,2024
 440,3:25.15,,United States,,USA,2,"Olympiastadion, München (GER)",1972-09-10,1179,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.15,GER,,1972
+440,3:25.15,,Russia,,RUS,3,"SGJ, Johannesburg (RSA)",1998-09-11,1179,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.15,RSA,,1998
+444,3:25.16,,Arkansas,,USA,1h1,"John McDonnell Field, Fayetteville, AR (USA)",2022-05-27,1179,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.16,USA,,2022
 444,3:25.16,,Belgium,,BEL,3h2,"Stadio Olimpico, Roma (ITA)",2024-06-11,1179,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.16,ITA,,2024
 444,3:25.16,,France,,FRA,5,"Poljud Stadion, Split (CRO)",1990-09-01,1179,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.16,CRO,,1990
-444,3:25.16,,Great Britain & NI,,GBR,3,"Olympiastadion, Berlin (GER)",2009-08-23,1179,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.16,GER,,2009
 444,3:25.16,,Italy,,ITA,4h2,"Estádio Olímpico, Rio de Janeiro (BRA)",2016-08-19,1179,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.16,BRA,,2016
-444,3:25.16,,Arkansas,,USA,1h1,"John McDonnell Field, Fayetteville, AR (USA)",2022-05-27,1179,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.16,USA,,2022
+444,3:25.16,,Great Britain & NI,,GBR,3,"Olympiastadion, Berlin (GER)",2009-08-23,1179,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.16,GER,,2009
 449,3:25.17,,Canada,,CAN,3f1,"The Bahamas National Stadium, Nassau (BAH)",2024-05-05,1179,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.17000000000002,BAH,,2024
 450,3:25.18,,Canada,,CAN,4,"Hayward Field, Eugene, OR (USA)",2022-07-24,1179,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.18,USA,,2022
 450,3:25.18,,United States,,USA,1h1,"Luzhniki Stadion, Moskva (RUS)",2013-08-16,1179,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.18,RUS,,2013
-452,3:25.20,,International,,INT,1,"Mike A. Myers Stadium, Austin, TX (USA)",2025-03-29,1179,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.2,USA,,2025
-452,3:25.20,,Canada,,CAN,4,"Estadio Olímpico, Barcelona (ESP)",1992-08-08,1179,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.2,ESP,,1992
 452,3:25.20,,Great Britain & NI,,GBR,2h2,"Estadio Olímpico, Barcelona (ESP)",1992-08-07,1179,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.2,ESP,,1992
 452,3:25.20,,Arkansas,,INT,1f3,"Virginia Beach Sports Center, Virginia Beach, VA (USA) (i)",2025-03-15,1204,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.2,USA,,2025
-456,3:25.22,,Poland,,POL,5,"Olympic Stadium, Athina (GRE)",2004-08-28,1179,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.22,GRE,,2004
+452,3:25.20,,Canada,,CAN,4,"Estadio Olímpico, Barcelona (ESP)",1992-08-08,1179,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.2,ESP,,1992
+452,3:25.20,,International,,INT,1,"Mike A. Myers Stadium, Austin, TX (USA)",2025-03-29,1179,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.2,USA,,2025
 456,3:25.22,,Cuba,,CUB,2h1,"Olympic Stadium, Sydney (AUS)",2000-09-29,1179,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.22,AUS,,2000
+456,3:25.22,,Poland,,POL,5,"Olympic Stadium, Athina (GRE)",2004-08-28,1179,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.22,GRE,,2004
 458,3:25.23,,Great Britain & NI,,GBR,3h2,"Olympiastadion, Berlin (GER)",2009-08-22,1179,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.23,GER,,2009
 459,3:25.25,,Spain,,ESP,4h2,"Stadio Olimpico, Roma (ITA)",2024-06-11,1179,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.25,ITA,,2024
 460,3:25.26,,Louisiana State,,INT,1,"Austin, TX (USA)",2004-06-12,1179,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.26,USA,,2004
-461,3:25.28,,Great Britain & NI,,GBR,1h2,"Olympic Stadium, Sydney (AUS)",2000-09-29,1178,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.28,AUS,,2000
 461,3:25.28,,Italy,,ITA,5h2,"Stadio Olimpico, Roma (ITA)",2024-06-11,1178,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.28,ITA,,2024
-463,3:25.29,,Federal Republic of Germany,,FRG,3,Praha (TCH),1987-06-28,1178,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.29,TCH,,1987
+461,3:25.28,,Great Britain & NI,,GBR,1h2,"Olympic Stadium, Sydney (AUS)",2000-09-29,1178,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.28,AUS,,2000
 463,3:25.29,,Nigeria,,NGR,2,Gold Coast (AUS),2018-04-14,1178,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.29,AUS,,2018
-465,3:25.31,,Team International,,INT,1,"Mike A. Myers Stadium, Austin, TX (USA)",2024-03-30,1178,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.31,USA,,2024
+463,3:25.29,,Federal Republic of Germany,,FRG,3,Praha (TCH),1987-06-28,1178,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.29,TCH,,1987
 465,3:25.31,,Czechia,,CZE,3,"Omnisport, Apeldoorn (NED) (i)",2025-03-09,1203,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.31,NED,,2025
+465,3:25.31,,Team International,,INT,1,"Mike A. Myers Stadium, Austin, TX (USA)",2024-03-30,1178,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.31,USA,,2024
 465,3:25.31,,USA Elite,,USA,1f2,"Hilmer Lodge Stadium, Walnut, CA (USA)",2023-04-15,1178,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.31,USA,,2023
-468,3:25.33,,Jamaica,,JAM,3,München (GER),2004-08-08,1178,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.32999999999998,GER,,2004
 468,3:25.33,,Jamaica,,JAM,4h2,"Olympic Stadium, Atlanta, GA (USA)",1996-08-02,1178,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.32999999999998,USA,,1996
 468,3:25.33,,Jamaica,,JAM,2,"Philadelphia, PA (USA)",2001-04-28,1178,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.32999999999998,USA,,2001
 468,3:25.33,,Germany,,GER,6h1,"National Stadium, Tokyo (JPN)",2025-09-20,1178,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.32999999999998,JPN,,2025
-472,3:25.34,,Poland,,POL,2h1,"Estádio Olímpico, Rio de Janeiro (BRA)",2016-08-19,1178,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.34,BRA,,2016
+468,3:25.33,,Jamaica,,JAM,3,München (GER),2004-08-08,1178,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.32999999999998,GER,,2004
 472,3:25.34,,United States,,USA,4,"SGJ, Johannesburg (RSA)",1998-09-11,1178,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.34,RSA,,1998
+472,3:25.34,,Poland,,POL,2h1,"Estádio Olímpico, Rio de Janeiro (BRA)",2016-08-19,1178,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.34,BRA,,2016
 472,3:25.34,,United States,,USA,2,"Glasgow Arena, Glasgow (GBR) (i)",2024-03-03,1203,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.34,GBR,,2024
 475,3:25.35,,United States,,USA,1f2,"Hilmer Lodge Stadium, Walnut, CA (USA)",2022-04-16,1178,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.35,USA,,2022
 475,3:25.35,,Norway,,NOR,4f1,"Tianhe Sports Center, Guangzhou (CHN)",2025-05-11,1178,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.35,CHN,,2025
 477,3:25.37,,United States,,USA,1h2,"Olympic Stadium, Athina (GRE)",1997-08-09,1178,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.37,GRE,,1997
-478,3:25.39,,United States,,USA,1,San José (CRC),2015-08-09,1177,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.39,CRC,,2015
 478,3:25.39,,Great Britain & NI,,GBR,1h2,"Luzhniki Stadion, Moskva (RUS)",2013-08-16,1177,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.39,RUS,,2013
+478,3:25.39,,United States,,USA,1,San José (CRC),2015-08-09,1177,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.39,CRC,,2015
 480,3:25.40,,Nigeria,,NGR,2h2,"Olympic Stadium, London (GBR)",2017-08-12,1177,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.4,GBR,,2017
 481,3:25.41,,Poland,,POL,3,"Olympic Stadium, London (GBR)",2017-08-13,1177,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.41,GBR,,2017
 482,3:25.42,,Nigeria,,NGR,4sf2,"Ullevi Stadium, Göteborg (SWE)",1995-08-12,1177,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.42000000000002,SWE,,1995
 483,3:25.43,,Texas A&M,,INT,2f3,"Gilliam Indoor Track, College Station, TX (USA) (i)",2022-02-26,1202,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.43,USA,,2022
 483,3:25.43,,Australia,,AUS,7h1,"National Stadium, Tokyo (JPN)",2025-09-20,1177,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.43,JPN,,2025
 485,3:25.44,,Belgium,,BEL,2h1,"Olympiastadion, München (GER)",2022-08-19,1177,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.44,GER,,2022
-486,3:25.45,,South Carolina,,USA,4,"Ole Miss T&F Complex, Oxford, MS (USA)",2022-05-14,1177,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.45,USA,,2022
 486,3:25.45,,Great Britain & NI,,GBR,2h2,"Yanmar Stadium Nagai, Osaka (JPN)",2007-09-01,1177,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.45,JPN,,2007
+486,3:25.45,,South Carolina,,USA,4,"Ole Miss T&F Complex, Oxford, MS (USA)",2022-05-14,1177,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.45,USA,,2022
 488,3:25.46,,Cuba,,CUB,1h1,"National Stadium, Beijing (CHN)",2008-08-22,1177,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.46,CHN,,2008
-489,3:25.48,,Arkansas,,USA,1h2,"Lawrence, KS (USA)",2016-05-28,1177,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.48,USA,,2016
 489,3:25.48,,Great Britain & NI,,GBR,2h1,"National Stadium, Beijing (CHN)",2008-08-22,1177,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.48,CHN,,2008
 489,3:25.48,,Arkansas,,USA,1h1,"Cushing Stadium, College Station, TX (USA)",2025-05-31,1177,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.48,USA,,2025
+489,3:25.48,,Arkansas,,USA,1h2,"Lawrence, KS (USA)",2016-05-28,1177,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.48,USA,,2016
 492,3:25.49,,Germany,,GER,5,"Gottlieb-Daimler Stadion, Stuttgart (GER)",1993-08-22,1177,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.49,GER,,1993
 492,3:25.49,,France,,FRA,2,"Olympiastadion, Helsinki (FIN)",2012-07-01,1177,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.49,FIN,,2012
 494,3:25.50,,Great Britain & NI,,GBR,5sf2,"Ullevi Stadium, Göteborg (SWE)",1995-08-12,1176,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.5,SWE,,1995
 494,3:25.50,,Russia,,RUS,1,"International Stadium, Gateshead (GBR)",2000-07-16,1176,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.5,GBR,,2000
+496,3:25.51,,Great Britain & NI,,GBR,4,"Memorial Coliseum, Los Angeles, CA (USA)",1984-08-11,1176,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.51,USA,,1984
 496,3:25.51,,Africa,,INT,3,"Le Grand Stade, Marrakech (MAR)",2014-09-14,1176,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.51,MAR,,2014
 496,3:25.51,,Arkansas,,INT,1sf3,"Hayward Field, Eugene, OR (USA)",2024-06-06,1176,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.51,USA,,2024
-496,3:25.51,,Great Britain & NI,,GBR,4,"Memorial Coliseum, Los Angeles, CA (USA)",1984-08-11,1176,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.51,USA,,1984
 499,3:25.52,,Russia,,RUS,1,"Petrovskiy Stadium, St. Petersburg (RUS)",1998-06-28,1176,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.52,RUS,,1998
 500,3:25.53,,Jamaica,,JAM,2h2,"Olympic Stadium, Athina (GRE)",1997-08-09,1176,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.53,GRE,,1997
 501,3:25.54,,United States,,USA,1,Birmingham (GBR),2006-08-20,1176,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.54,GBR,,2006
@@ -505,148 +505,148 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 502,3:25.55,,Germany,,GER,3h1,"National Stadium, Beijing (CHN)",2008-08-22,1176,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.55,CHN,,2008
 504,3:25.56,,Australia,,AUS,4,"Olympic Stadium, Montréal (CAN)",1976-07-31,1176,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.56,CAN,,1976
 505,3:25.57,,Texas A&M,,INT,1,"Austin, TX (USA)",2019-06-08,1176,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.57,USA,,2019
-506,3:25.58,,University of Texas,,USA,1h1,"Austin, TX (USA)",2004-06-10,1176,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.57999999999998,USA,,2004
 506,3:25.58,,Czech Republic,,CZE,2h2,"La Cartuja, Sevilla (ESP)",1999-08-28,1176,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.57999999999998,ESP,,1999
+506,3:25.58,,University of Texas,,USA,1h1,"Austin, TX (USA)",2004-06-10,1176,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.57999999999998,USA,,2004
 506,3:25.58,,Russia,,RUS,3,"New York, NY (USA)",1998-07-22,1176,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.57999999999998,USA,,1998
-509,3:25.59,,Russia,,RUS,2,"Olympiastadion, München (GER)",2002-08-06,1176,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.59,GER,,2002
 509,3:25.59,,University of Texas,,USA,2h2,"Lawrence, KS (USA)",2016-05-28,1176,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.59,USA,,2016
 509,3:25.59,,Arkansas,,INT,1f6,"Randal Tyson Indoor Center, Fayetteville, AR (USA) (i)",2024-01-27,1201,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.59,USA,,2024
 509,3:25.59,,Nigeria,,NGR,2h2,"DS, Daegu (KOR)",2011-09-02,1176,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.59,KOR,,2011
+509,3:25.59,,Russia,,RUS,2,"Olympiastadion, München (GER)",2002-08-06,1176,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.59,GER,,2002
 509,3:25.59,,Poland,,POL,1h1,"Stadio Olimpico, Roma (ITA)",2024-06-11,1176,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.59,ITA,,2024
 514,3:25.62,,United States,,USA,1,"Philadelphia, PA (USA)",2014-04-26,1175,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.62,USA,,2014
-515,3:25.63,,Texas A&M,,INT,2,"Eugene, OR (USA)",2014-06-14,1175,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.63,USA,,2014
 515,3:25.63,,Australia,,AUS,1,Manchester (GBR),2002-07-31,1175,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.63,GBR,,2002
 515,3:25.63,,Texas A&M,,INT,1sf3,"Hayward Field, Eugene, OR (USA)",2022-06-09,1175,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.63,USA,,2022
+515,3:25.63,,Texas A&M,,INT,2,"Eugene, OR (USA)",2014-06-14,1175,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.63,USA,,2014
 518,3:25.64,,Belarus,,BLR,4,"DS, Daegu (KOR)",2011-09-03,1175,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.64,KOR,,2011
-518,3:25.64,,Texas,,INT,1,"LSU Bernie Moore Stadium, Baton Rouge, LA (USA)",2022-04-30,1175,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.64,USA,,2022
 518,3:25.64,,Russia,,RUS,2,"Philadelphia, PA (USA)",2005-04-30,1175,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.64,USA,,2005
+518,3:25.64,,Texas,,INT,1,"LSU Bernie Moore Stadium, Baton Rouge, LA (USA)",2022-04-30,1175,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.64,USA,,2022
 521,3:25.65,,Jamaica,,JAM,2h2,"Olympic Stadium, Sydney (AUS)",2000-09-29,1175,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.65,AUS,,2000
 521,3:25.65,,USA Red,,USA,2,"Mike A. Myers Stadium, Austin, TX (USA)",2023-04-01,1175,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.65,USA,,2023
 523,3:25.66,,Great Britain & NI,,GBR,3,"Népstadion, Budapest (HUN)",1998-08-23,1175,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.66,HUN,,1998
 523,3:25.66,,Netherlands,,NED,1,"Ataköy Arena, Istanbul (TUR) (i)",2023-03-05,1200,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.66,TUR,,2023
-525,3:25.67,,Kentucky,,INT,2sf3,"Hayward Field, Eugene, OR (USA)",2022-06-09,1175,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.67000000000002,USA,,2022
 525,3:25.67,,Texas,,INT,2f3,"Convention Center, Albuquerque, NM (USA) (i)",2023-03-11,1200,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.67000000000002,USA,,2023
+525,3:25.67,,Kentucky,,INT,2sf3,"Hayward Field, Eugene, OR (USA)",2022-06-09,1175,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.67000000000002,USA,,2022
 525,3:25.67,,Great Britain & NI,,GBR,6,"Olympic Stadium, Sydney (AUS)",2000-09-30,1175,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.67000000000002,AUS,,2000
-528,3:25.68,,Australia,,AUS,3h1,"Estadio Olímpico, Barcelona (ESP)",1992-08-07,1175,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.68,ESP,,1992
-528,3:25.68,,Romania,,ROU,2,"Stade Charléty, Paris (FRA)",1999-06-20,1175,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.68,FRA,,1999
-528,3:25.68,,United States,,USA,1,"CIBC, Toronto (CAN)",2015-07-25,1175,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.68,CAN,,2015
-528,3:25.68,,Spain,,ESP,4,"Omnisport, Apeldoorn (NED) (i)",2025-03-09,1200,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.68,NED,,2025
 528,3:25.68,,Canada,,CAN,3h1,"Commonwealth Stadium, Edmonton (CAN)",2001-08-11,1175,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.68,CAN,,2001
+528,3:25.68,,Spain,,ESP,4,"Omnisport, Apeldoorn (NED) (i)",2025-03-09,1200,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.68,NED,,2025
+528,3:25.68,,United States,,USA,1,"CIBC, Toronto (CAN)",2015-07-25,1175,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.68,CAN,,2015
+528,3:25.68,,Romania,,ROU,2,"Stade Charléty, Paris (FRA)",1999-06-20,1175,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.68,FRA,,1999
+528,3:25.68,,Australia,,AUS,3h1,"Estadio Olímpico, Barcelona (ESP)",1992-08-07,1175,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.68,ESP,,1992
 528,3:25.68,,Jamaica,,JAM,5,"Estadio Olímpico, Barcelona (ESP)",1992-08-08,1175,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.68,ESP,,1992
-534,3:25.71,,Federal Republic of Germany,,FRG,4,"Olympic Stadium, Athina (GRE)",1982-09-11,1175,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.71,GRE,,1982
-534,3:25.71,,United States Blue,,USA,2,"Austin, TX (USA)",2008-04-05,1175,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.71,USA,,2008
-534,3:25.71,,Federal Republic of Germany,,FRG,5,"Olympic Stadium, Montréal (CAN)",1976-07-31,1175,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.71,CAN,,1976
-534,3:25.71,,Italy,,ITA,3,"Estadio Olímpico, Barcelona (ESP)",2010-08-01,1175,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.71,ESP,,2010
 534,3:25.71,,Australia,,AUS,3h1,"Estádio Olímpico, Rio de Janeiro (BRA)",2016-08-19,1175,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.71,BRA,,2016
+534,3:25.71,,Federal Republic of Germany,,FRG,5,"Olympic Stadium, Montréal (CAN)",1976-07-31,1175,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.71,CAN,,1976
+534,3:25.71,,United States Blue,,USA,2,"Austin, TX (USA)",2008-04-05,1175,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.71,USA,,2008
+534,3:25.71,,Italy,,ITA,3,"Estadio Olímpico, Barcelona (ESP)",2010-08-01,1175,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.71,ESP,,2010
+534,3:25.71,,Federal Republic of Germany,,FRG,4,"Olympic Stadium, Athina (GRE)",1982-09-11,1175,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.71,GRE,,1982
 539,3:25.72,,United States,,USA,1h2,"International Stadium, Yokohama (JPN)",2019-05-11,1175,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.72,JPN,,2019
-540,3:25.73,,Cique Elite,,USA,1f1,"Clemson Indoor Track & Field Complex, Clemson, SC (USA) (i)",2025-02-15,1200,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.73,USA,,2025
 540,3:25.73,,Poland,,POL,5,"Letzigrund, Zürich (SUI)",2014-08-17,1174,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.73,SUI,,2014
+540,3:25.73,,Cique Elite,,USA,1f1,"Clemson Indoor Track & Field Complex, Clemson, SC (USA) (i)",2025-02-15,1200,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.73,USA,,2025
 542,3:25.74,,United States Red,,USA,1,"Austin, TX (USA)",2006-04-08,1174,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.74,USA,,2006
 543,3:25.76,,Czech Republic,,CZE,3,"Stade Charléty, Paris (FRA)",1999-06-20,1174,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.76,FRA,,1999
 544,3:25.77,,Canada,,CAN,4h2,"Stade de France, Paris (FRA)",2024-08-09,1174,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.77,FRA,,2024
 545,3:25.78,,Great Britain & NI,,GBR,3h1,"Olympic Stadium, Athina (GRE)",1997-08-09,1174,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.78,GRE,,1997
-545,3:25.78,,South Carolina,,USA,5,"Hayward Field, Eugene, OR (USA)",2022-06-11,1174,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.78,USA,,2022
-545,3:25.78,,Poland,,POL,2h1,"Khalifa International Stadium, Doha (QAT)",2019-10-05,1174,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.78,QAT,,2019
 545,3:25.78,,Louisiana State,,INT,1,"Sacramento, CA (USA)",2006-06-10,1174,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.78,USA,,2006
+545,3:25.78,,Poland,,POL,2h1,"Khalifa International Stadium, Doha (QAT)",2019-10-05,1174,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.78,QAT,,2019
+545,3:25.78,,South Carolina,,USA,5,"Hayward Field, Eugene, OR (USA)",2022-06-11,1174,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.78,USA,,2022
 549,3:25.79,,Kentucky,,USA,1,"Un. of Kentucky Outdoor Track Facility, Lexington, KY (USA)",2022-04-23,1174,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.79,USA,,2022
 549,3:25.79,,Texas A&M,,USA,2f2,"Hilmer Lodge Stadium, Walnut, CA (USA)",2023-04-15,1174,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.79,USA,,2023
-551,3:25.80,,Georgia,,INT,1h3,"University of North Florda Jax Track at Hodges Stadium, Jacksonville, FL (USA)",2025-05-31,1174,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.8,USA,,2025
-551,3:25.80,,Kenya,,KEN,1,"Nyayo National Stadium, Nairobi (KEN)",2025-04-26,1174,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.8,KEN,,2025
 551,3:25.80,,France,,FRA,5,"Omnisport, Apeldoorn (NED) (i)",2025-03-09,1199,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.8,NED,,2025
-554,3:25.81,,France,,FRA,5,"Hayward Field, Eugene, OR (USA)",2022-07-24,1174,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.81,USA,,2022
+551,3:25.80,,Kenya,,KEN,1,"Nyayo National Stadium, Nairobi (KEN)",2025-04-26,1174,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.8,KEN,,2025
+551,3:25.80,,Georgia,,INT,1h3,"University of North Florda Jax Track at Hodges Stadium, Jacksonville, FL (USA)",2025-05-31,1174,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.8,USA,,2025
 554,3:25.81,,Bulgaria,,BUL,1,Sofia (BUL),1983-07-24,1174,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.81,BUL,,1983
-556,3:25.82,,Oregon,,INT,7,"Hayward Field, Eugene, OR (USA)",2024-06-08,1174,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.82,USA,,2024
+554,3:25.81,,France,,FRA,5,"Hayward Field, Eugene, OR (USA)",2022-07-24,1174,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.81,USA,,2022
 556,3:25.82,,Great Britain & NI,,GBR,5,"Olympic Stadium, Athina (GRE)",1982-09-11,1174,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.82,GRE,,1982
+556,3:25.82,,Oregon,,INT,7,"Hayward Field, Eugene, OR (USA)",2024-06-08,1174,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.82,USA,,2024
 558,3:25.83,,Russia,,RUS,3h2,"Olympic Stadium, Athina (GRE)",1997-08-09,1174,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.82999999999998,GRE,,1997
-559,3:25.84,,Netherlands,,NED,1h2,"Olympiastadion, München (GER)",2022-08-19,1174,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.84,GER,,2022
-559,3:25.84,,Texas A&M,,INT,1h3,"Cushing Stadium, College Station, TX (USA)",2021-05-29,1174,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.84,USA,,2021
-559,3:25.84,,France,,FRA,4f1,"T. Robinson Stadium, Nassau (BAH)",2014-05-25,1174,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.84,BAH,,2014
 559,3:25.84,,Great Britain & NI,,GBR,4f1,"The Bahamas National Stadium, Nassau (BAH)",2024-05-05,1174,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.84,BAH,,2024
-559,3:25.84,,Great Britain & NI,,GBR,8h1,"National Stadium, Tokyo (JPN)",2025-09-20,1174,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.84,JPN,,2025
+559,3:25.84,,France,,FRA,4f1,"T. Robinson Stadium, Nassau (BAH)",2014-05-25,1174,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.84,BAH,,2014
+559,3:25.84,,Texas A&M,,INT,1h3,"Cushing Stadium, College Station, TX (USA)",2021-05-29,1174,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.84,USA,,2021
 559,3:25.84,,Canada,,CAN,1,"Alexander Stadium, Birmingham (GBR)",2022-08-07,1174,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.84,GBR,,2022
-565,3:25.85,,Cuba,,CUB,6,"Olympic Stadium, Atlanta, GA (USA)",1996-08-03,1173,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.85,USA,,1996
+559,3:25.84,,Netherlands,,NED,1h2,"Olympiastadion, München (GER)",2022-08-19,1174,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.84,GER,,2022
+559,3:25.84,,Great Britain & NI,,GBR,8h1,"National Stadium, Tokyo (JPN)",2025-09-20,1174,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.84,JPN,,2025
 565,3:25.85,,Bulgaria,,BUL,2h2,"Stadio Olimpico, Roma (ITA)",1987-09-05,1173,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.85,ITA,,1987
-567,3:25.86,,United States C,,USA,4,München (GER),2004-08-08,1173,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.86,GER,,2004
-567,3:25.86,,United States,,USA,1h2,"Olympic Stadium, Seoul (KOR)",1988-09-30,1173,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.86,KOR,,1988
-567,3:25.86,,Russia,,RUS,1h1,"Ullevi Stadium, Göteborg (SWE)",2006-08-12,1173,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.86,SWE,,2006
+565,3:25.85,,Cuba,,CUB,6,"Olympic Stadium, Atlanta, GA (USA)",1996-08-03,1173,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.85,USA,,1996
 567,3:25.86,,Canada,,CAN,3h1,"Khalifa International Stadium, Doha (QAT)",2019-10-05,1173,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.86,QAT,,2019
-571,3:25.87,,Finland,,FIN,6,"Olympic Stadium, Montréal (CAN)",1976-07-31,1173,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.87,CAN,,1976
+567,3:25.86,,United States,,USA,1h2,"Olympic Stadium, Seoul (KOR)",1988-09-30,1173,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.86,KOR,,1988
+567,3:25.86,,United States C,,USA,4,München (GER),2004-08-08,1173,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.86,GER,,2004
+567,3:25.86,,Russia,,RUS,1h1,"Ullevi Stadium, Göteborg (SWE)",2006-08-12,1173,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.86,SWE,,2006
 571,3:25.87,,Captain Athletics,,INT,2,"Mike A. Myers Stadium, Austin, TX (USA)",2024-03-30,1173,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.87,USA,,2024
-573,3:25.88,,Australia,,AUS,3,"Ullevi Stadium, Göteborg (SWE)",1995-08-13,1173,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.88,SWE,,1995
+571,3:25.87,,Finland,,FIN,6,"Olympic Stadium, Montréal (CAN)",1976-07-31,1173,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.87,CAN,,1976
 573,3:25.88,,Great Britain & NI,,GBR,3,"Estádio Olímpico, Rio de Janeiro (BRA)",2016-08-20,1173,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.88,BRA,,2016
+573,3:25.88,,Australia,,AUS,3,"Ullevi Stadium, Göteborg (SWE)",1995-08-13,1173,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.88,SWE,,1995
+575,3:25.89,,Texas A&M,,USA,8,"Hayward Field, Eugene, OR (USA)",2024-06-08,1173,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.89,USA,,2024
 575,3:25.89,,Arkansas,,USA,2,"Austin, TX (USA)",2019-06-08,1173,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.89,USA,,2019
 575,3:25.89,,Kentucky,,INT,3f3,"Gilliam Indoor Track, College Station, TX (USA) (i)",2022-02-26,1198,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.89,USA,,2022
-575,3:25.89,,Texas A&M,,USA,8,"Hayward Field, Eugene, OR (USA)",2024-06-08,1173,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.89,USA,,2024
-578,3:25.90,,Ukraine,,UKR,2h1,"Olympic Stadium, London (GBR)",2012-08-10,1173,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.9,GBR,,2012
-578,3:25.90,,Switzerland,,SUI,6h1,"National Stadium, Tokyo (JPN)",2021-08-05,1173,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.9,JPN,,2021
 578,3:25.90,,Germany,,GER,2h1,"Stadio Olimpico, Roma (ITA)",2024-06-11,1173,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.9,ITA,,2024
 578,3:25.90,,United States Red,,USA,1,"Austin, TX (USA)",2004-04-02,1173,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.9,USA,,2004
+578,3:25.90,,Ukraine,,UKR,2h1,"Olympic Stadium, London (GBR)",2012-08-10,1173,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.9,GBR,,2012
+578,3:25.90,,Switzerland,,SUI,6h1,"National Stadium, Tokyo (JPN)",2021-08-05,1173,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.9,JPN,,2021
 582,3:25.91,,France,,FRA,3,London (GBR),2018-07-14,1173,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.91,GBR,,2018
-582,3:25.91,,Russia,,RUS,1h1,"Olimpiyskiy Stadion, Moskva (RUS) (i)",2006-03-12,1198,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.91,RUS,,2006
 582,3:25.91,,Arkansas,,INT,1sf2,"Mike A. Myers Stadium, Austin, TX (USA)",2023-06-08,1173,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.91,USA,,2023
+582,3:25.91,,Russia,,RUS,1h1,"Olimpiyskiy Stadion, Moskva (RUS) (i)",2006-03-12,1198,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.91,RUS,,2006
 585,3:25.92,,Texas A&M,,INT,1,"Cushing Stadium, College Station, TX (USA)",2022-04-30,1173,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.92000000000002,USA,,2022
 585,3:25.92,,France,,FRA,5,"Olympic Stadium, London (GBR)",2012-08-11,1173,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.92000000000002,GBR,,2012
 587,3:25.93,,Texas,,INT,1h2,"John McDonnell Field, Fayetteville, AR (USA)",2022-05-27,1173,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.93,USA,,2022
 587,3:25.93,,Germany,,GER,2h1,"National Stadium, Tokyo (JPN)",1991-08-31,1173,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.93,JPN,,1991
-589,3:25.94,,Germany,,GER,4,"Stade Charléty, Paris (FRA)",1999-06-20,1173,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.94,FRA,,1999
-589,3:25.94,,France,,FRA,3h1,"Olympic Stadium, London (GBR)",2012-08-10,1173,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.94,GBR,,2012
 589,3:25.94,,Ukraine,,UKR,5,"National Stadium, Beijing (CHN)",2015-08-30,1173,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.94,CHN,,2015
+589,3:25.94,,France,,FRA,3h1,"Olympic Stadium, London (GBR)",2012-08-10,1173,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.94,GBR,,2012
+589,3:25.94,,Germany,,GER,4,"Stade Charléty, Paris (FRA)",1999-06-20,1173,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.94,FRA,,1999
 592,3:25.95,,Arkansas,,INT,1h3,"Hornet Stadium - Sac St., Sacramento, CA (USA)",2023-05-27,1173,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.95,USA,,2023
 593,3:25.96,,France,,FRA,2,"Olympisch Stadion, Amsterdam (NED)",2016-07-10,1173,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.96,NED,,2016
 593,3:25.96,,United States Red,,USA,1,"Philadelphia, PA (USA)",2000-04-29,1173,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.96,USA,,2000
 595,3:25.97,,Texas A&M,,USA,1,"Franklin Field, Philadelphia, PA (USA)",2023-04-29,1172,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.97,USA,,2023
 596,3:25.98,,Australia,,AUS,2h2,"Olympic Stadium, Montréal (CAN)",1976-07-30,1172,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.98,CAN,,1976
-597,3:25.99,,Netherlands,,NED,3h1,"Stadio Olimpico, Roma (ITA)",2024-06-11,1172,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.99,ITA,,2024
 597,3:25.99,,Kentucky,,INT,1f2,"Knoxville, TN (USA)",2018-05-13,1172,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.99,USA,,2018
+597,3:25.99,,Netherlands,,NED,3h1,"Stadio Olimpico, Roma (ITA)",2024-06-11,1172,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,205.99,ITA,,2024
+599,3:26.01,,Czech Republic,,CZE,3h2,"DS, Daegu (KOR)",2011-09-02,1172,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.01,KOR,,2011
 599,3:26.01,,Ukraine,,UKR,4h2,"National Stadium, Beijing (CHN)",2015-08-29,1172,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.01,CHN,,2015
 599,3:26.01,,USC,,INT,3,"Hayward Field, Eugene, OR (USA)",2025-06-14,1172,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.01,USA,,2025
-599,3:26.01,,Czech Republic,,CZE,3h2,"DS, Daegu (KOR)",2011-09-02,1172,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.01,KOR,,2011
 602,3:26.02,,Germany,,GER,5h2,"Estádio Olímpico, Rio de Janeiro (BRA)",2016-08-19,1172,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.02,BRA,,2016
 602,3:26.02,,Czech Republic,,CZE,3,"Olympiastadion, Helsinki (FIN)",2012-07-01,1172,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.02,FIN,,2012
 602,3:26.02,,Russia,,RUS,1,"Stadio Luigi Ridolfi, Firenze (ITA)",2003-06-22,1172,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.02,ITA,,2003
 605,3:26.04,,Poland,,POL,2h1,"Olympiastadion, Helsinki (FIN)",2005-08-13,1172,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.04,FIN,,2005
 605,3:26.04,,Russia,,RUS,1,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",2004-06-20,1172,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.04,POL,,2004
-607,3:26.05,,Norway,,NOR,4h1,"Stadio Olimpico, Roma (ITA)",2024-06-11,1172,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.05,ITA,,2024
-607,3:26.05,,Sverdlovsk Region,,RUS,1,Cheboksary (RUS),2009-07-26,1172,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.05,RUS,,2009
-607,3:26.05,,United States,,USA,11,"Tianhe Sports Center, Guangzhou (CHN)",2025-05-10,1172,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.05,CHN,,2025
 607,3:26.05,,Russia,,RUS,3h2,"Olympic Stadium, Sydney (AUS)",2000-09-29,1172,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.05,AUS,,2000
-607,3:26.05,,Poland,,POL,3h1,"Olympiastadion, München (GER)",2022-08-19,1172,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.05,GER,,2022
 607,3:26.05,,South Carolina,,USA,1f3,"Randal Tyson Indoor Center, Fayetteville, AR (USA) (i)",2024-02-24,1197,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.05,USA,,2024
-613,3:26.06,,Georgia,,USA,1h1,"Un. of Kentucky Outdoor Track Facility, Lexington, KY (USA)",2024-05-25,1172,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.06,USA,,2024
+607,3:26.05,,Poland,,POL,3h1,"Olympiastadion, München (GER)",2022-08-19,1172,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.05,GER,,2022
+607,3:26.05,,Norway,,NOR,4h1,"Stadio Olimpico, Roma (ITA)",2024-06-11,1172,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.05,ITA,,2024
+607,3:26.05,,United States,,USA,11,"Tianhe Sports Center, Guangzhou (CHN)",2025-05-10,1172,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.05,CHN,,2025
+607,3:26.05,,Sverdlovsk Region,,RUS,1,Cheboksary (RUS),2009-07-26,1172,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.05,RUS,,2009
 613,3:26.06,,Ireland,,IRL,2h2,"Olympiastadion, München (GER)",2022-08-19,1172,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.06,GER,,2022
+613,3:26.06,,Georgia,,USA,1h1,"Un. of Kentucky Outdoor Track Facility, Lexington, KY (USA)",2024-05-25,1172,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.06,USA,,2024
 615,3:26.07,,Oregon,,USA,1,"Gainesville, FL (USA)",2017-04-01,1172,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.07,USA,,2017
 615,3:26.07,,Georgia,,INT,2f3,"Virginia Beach Sports Center, Virginia Beach, VA (USA) (i)",2025-03-15,1197,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.07,USA,,2025
-617,3:26.08,,Arkansas,,USA,1sf1,"Hayward Field, Eugene, OR (USA)",2025-06-12,1172,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.07999999999998,USA,,2025
 617,3:26.08,,United States,,USA,1,Toronto (CAN),2018-08-12,1172,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.07999999999998,CAN,,2018
-617,3:26.08,,Cuba,,CUB,1,San Salvador (ESA),2023-07-07,1172,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.07999999999998,ESA,,2023
 617,3:26.08,,Australia,,AUS,2sf1,"Ullevi Stadium, Göteborg (SWE)",1995-08-12,1172,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.07999999999998,SWE,,1995
-621,3:26.09,,Poland,,POL,2,"Arena Birmingham, Birmingham (GBR) (i)",2018-03-04,1197,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.09,GBR,,2018
-621,3:26.09,,Germany,,GER,5,"Olympiastadion, München (GER)",2022-08-20,1171,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.09,GER,,2022
+617,3:26.08,,Arkansas,,USA,1sf1,"Hayward Field, Eugene, OR (USA)",2025-06-12,1172,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.07999999999998,USA,,2025
+617,3:26.08,,Cuba,,CUB,1,San Salvador (ESA),2023-07-07,1172,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.07999999999998,ESA,,2023
 621,3:26.09,,USC,,INT,1h1,"Austin, TX (USA)",2017-05-27,1171,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.09,USA,,2017
+621,3:26.09,,Germany,,GER,5,"Olympiastadion, München (GER)",2022-08-20,1171,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.09,GER,,2022
 621,3:26.09,,Canada,,CAN,4h1,"Estadio Olímpico, Barcelona (ESP)",1992-08-07,1171,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.09,ESP,,1992
+621,3:26.09,,Poland,,POL,2,"Arena Birmingham, Birmingham (GBR) (i)",2018-03-04,1197,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.09,GBR,,2018
 625,3:26.10,,Arkansas,,INT,1f2,"Percy Beard Track, Gainesville, FL (USA)",2024-04-13,1171,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.1,USA,,2024
 625,3:26.10,,Germany,,GER,4,"Ullevi Stadium, Göteborg (SWE)",1995-08-13,1171,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.1,SWE,,1995
+627,3:26.12,,United States Blue,,USA,1,"Philadelphia, PA (USA)",2010-04-24,1171,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.12,USA,,2010
 627,3:26.12,,Texas A&M,,USA,2,"Mike A. Myers Stadium, Austin, TX (USA)",2023-06-10,1171,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.12,USA,,2023
 627,3:26.12,,Germany,,GER,2,"Olympiastadion, München (GER)",1997-06-22,1171,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.12,GER,,1997
-627,3:26.12,,United States Blue,,USA,1,"Philadelphia, PA (USA)",2010-04-24,1171,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.12,USA,,2010
 630,3:26.13,,Arkansas,,INT,3f2,"Percy Beard Track, Gainesville, FL (USA)",2024-05-11,1171,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.13,USA,,2024
-631,3:26.14,,Canada,,CAN,3h1,"National Stadium, Beijing (CHN)",2015-08-29,1171,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.14,CHN,,2015
 631,3:26.14,,Soviet Union,,URS,1h1,"Poljud Stadion, Split (CRO)",1990-08-31,1171,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.14,CRO,,1990
+631,3:26.14,,Canada,,CAN,3h1,"National Stadium, Beijing (CHN)",2015-08-29,1171,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.14,CHN,,2015
 631,3:26.14,,Jamaica,,JAM,3h1,"Yanmar Stadium Nagai, Osaka (JPN)",2007-09-01,1171,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.14,JPN,,2007
 634,3:26.15,,Poland,,POL,3,"Olympiastadion, München (GER)",2002-08-06,1171,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.15,GER,,2002
 634,3:26.15,,Soviet Union,,URS,3,"Estadio Olímpico, Barcelona (ESP)",1989-09-08,1171,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.15,ESP,,1989
 636,3:26.16,,United States,,USA,1,"Austin, TX (USA)",2018-03-31,1171,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.16,USA,,2018
 637,3:26.17,,Poland,,POL,4,London (GBR),2018-07-14,1171,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.17000000000002,GBR,,2018
 637,3:26.17,,Texas A&M,,INT,1f2,"Cushing Stadium, College Station, TX (USA)",2021-05-15,1171,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.17000000000002,USA,,2021
-639,3:26.18,,United States,,USA,1,"Buffalo, NY (USA)",1993-07-18,1171,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.18,USA,,1993
-639,3:26.18,,Ireland,,IRL,4h2,"Nemzeti Atlétikai Központ, Budapest (HUN)",2023-08-26,1171,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.18,HUN,,2023
 639,3:26.18,,France,,FRA,4h1,"Estádio Olímpico, Rio de Janeiro (BRA)",2016-08-19,1171,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.18,BRA,,2016
-642,3:26.19,,Germany,,GER,1,"Estadio de la Comunidad, Madrid (ESP)",1996-06-02,1171,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.19,ESP,,1996
+639,3:26.18,,Ireland,,IRL,4h2,"Nemzeti Atlétikai Központ, Budapest (HUN)",2023-08-26,1171,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.18,HUN,,2023
+639,3:26.18,,United States,,USA,1,"Buffalo, NY (USA)",1993-07-18,1171,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.18,USA,,1993
 642,3:26.19,,Belarus,,BLR,1,"Stadion Rošický, Praha (CZE)",2006-06-18,1171,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.19,CZE,,2006
+642,3:26.19,,Germany,,GER,1,"Estadio de la Comunidad, Madrid (ESP)",1996-06-02,1171,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.19,ESP,,1996
 642,3:26.19,,Great Britain & NI,,GBR,1h2,"Olympiastadion, Helsinki (FIN)",2005-08-13,1171,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.19,FIN,,2005
-645,3:26.20,,Czech Republic,,CZE,3h2,"Olympic Stadium, London (GBR)",2012-08-10,1170,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.2,GBR,,2012
 645,3:26.20,,Great Britain & NI,,GBR,4,"Olympiastadion, Helsinki (FIN)",2012-07-01,1170,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.2,FIN,,2012
 645,3:26.20,,South Carolina,,USA,1f3,"The Track at New Balance, Boston, MA (USA) (i)",2024-03-09,1196,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.2,USA,,2024
+645,3:26.20,,Czech Republic,,CZE,3h2,"Olympic Stadium, London (GBR)",2012-08-10,1170,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.2,GBR,,2012
 648,3:26.21,,Russia,,RUS,1h2,"Népstadion, Budapest (HUN)",1998-08-22,1170,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.21,HUN,,1998
 648,3:26.21,,Hurdle Mechanic,,USA,2,"Mike A. Myers Stadium, Austin, TX (USA)",2022-03-26,1170,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.21,USA,,2022
 650,3:26.22,,Jamaica,,JAM,1h1,"Stade de France, Paris-St-Denis (FRA)",2003-08-30,1170,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.22,FRA,,2003
@@ -654,201 +654,201 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 651,3:26.23,,France,,FRA,3,"Weserstadion, Bremen (GER)",2001-06-24,1170,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.23,GER,,2001
 653,3:26.24,,South Carolina,,USA,1,"Percy Beard Track, Gainesville, FL (USA)",2025-04-05,1170,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.24,USA,,2025
 653,3:26.24,,Germany,,GER,3h2,"Olympic Stadium, London (GBR)",2017-08-12,1170,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.24,GBR,,2017
-655,3:26.25,,Spain,,ESP,12,"Tianhe Sports Center, Guangzhou (CHN)",2025-05-10,1170,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.25,CHN,,2025
 655,3:26.25,,Germany,,GER,3h2,"Estadio Olímpico, Barcelona (ESP)",1992-08-07,1170,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.25,ESP,,1992
 655,3:26.25,,Germany,,GER,4,"Stade de France, Paris-St-Denis (FRA)",2003-08-31,1170,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.25,FRA,,2003
-658,3:26.26,,United States Blue,,USA,4,"Philadelphia, PA (USA)",2013-04-27,1170,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.26,USA,,2013
+655,3:26.25,,Spain,,ESP,12,"Tianhe Sports Center, Guangzhou (CHN)",2025-05-10,1170,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.25,CHN,,2025
 658,3:26.26,,Bulgaria,,BUL,4,"Neckarstadion, Stuttgart (GER)",1986-08-31,1170,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.26,GER,,1986
-660,3:26.27,,Great Britain & NI,,GBR,6,"Olympic Stadium, Athina (GRE)",1997-08-10,1170,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.27,GRE,,1997
+658,3:26.26,,United States Blue,,USA,4,"Philadelphia, PA (USA)",2013-04-27,1170,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.26,USA,,2013
 660,3:26.27,,USC,,INT,1,"Austin, TX (USA)",2017-04-01,1170,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.27,USA,,2017
+660,3:26.27,,Great Britain & NI,,GBR,6,"Olympic Stadium, Athina (GRE)",1997-08-10,1170,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.27,GRE,,1997
 660,3:26.27,,Texas A&M,,INT,1f2,"Randal Tyson Indoor Center, Fayetteville, AR (USA) (i)",2021-02-13,1195,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.27,USA,,2021
 660,3:26.27,,Czech Republic,,CZE,6sf2,"Ullevi Stadium, Göteborg (SWE)",1995-08-12,1170,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.27,SWE,,1995
-664,3:26.28,,Italy,,ITA,11,"The Bahamas National Stadium, Nassau (BAH)",2024-05-04,1170,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.28,BAH,,2024
 664,3:26.28,,Ukraine,,UKR,2,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",2004-06-20,1170,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.28,POL,,2004
 664,3:26.28,,Florida,,USA,1,"Gainesville, FL (USA)",2016-04-01,1170,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.28,USA,,2016
-667,3:26.29,,Nigeria,,NGR,4h1,"Olympic Stadium, London (GBR)",2012-08-10,1170,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.29,GBR,,2012
-667,3:26.29,,Belgium,,BEL,6,"Hayward Field, Eugene, OR (USA)",2022-07-24,1170,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.29,USA,,2022
+664,3:26.28,,Italy,,ITA,11,"The Bahamas National Stadium, Nassau (BAH)",2024-05-04,1170,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.28,BAH,,2024
 667,3:26.29,,Nigeria,,NGR,3h2,"National Stadium, Tokyo (JPN)",1991-08-31,1170,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.29,JPN,,1991
+667,3:26.29,,Belgium,,BEL,6,"Hayward Field, Eugene, OR (USA)",2022-07-24,1170,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.29,USA,,2022
 667,3:26.29,,USATF High Performance C,,USA,1f1,"Gainesville, FL (USA)",2019-03-30,1170,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.29,USA,,2019
+667,3:26.29,,Nigeria,,NGR,4h1,"Olympic Stadium, London (GBR)",2012-08-10,1170,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.29,GBR,,2012
 671,3:26.30,,Finland,,FIN,3h1,"Olympic Stadium, Montréal (CAN)",1976-07-30,1170,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.3,CAN,,1976
 672,3:26.31,,Belarus,,BLR,3h1,"Olympic Stadium, Sydney (AUS)",2000-09-29,1170,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.31,AUS,,2000
 672,3:26.31,,Federal Republic of Germany,,FRG,4h1,"Olympic Stadium, Montréal (CAN)",1976-07-30,1170,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.31,CAN,,1976
-672,3:26.31,,Texas A&M,,INT,1,"Des Moines, IA (USA)",2011-06-11,1170,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.31,USA,,2011
 672,3:26.31,,Florida,,INT,4,"Hayward Field, Eugene, OR (USA)",2021-06-12,1170,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.31,USA,,2021
-676,3:26.32,,Jamaica,,JAM,2,"Grand Bahama Sports Complex, Freeport (BAH)",2022-08-21,1169,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.32,BAH,,2022
+672,3:26.31,,Texas A&M,,INT,1,"Des Moines, IA (USA)",2011-06-11,1170,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.31,USA,,2011
 676,3:26.32,,Cuba,,CUB,3sf1,"Ullevi Stadium, Göteborg (SWE)",1995-08-12,1169,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.32,SWE,,1995
-678,3:26.33,,Arkansas,,INT,2f3,"Randal Tyson Indoor Center, Fayetteville, AR (USA) (i)",2024-02-24,1195,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.32999999999998,USA,,2024
-678,3:26.33,,Tropic Thunder,,INT,2f1,"Gainesville, FL (USA)",2010-04-03,1169,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.32999999999998,USA,,2010
+676,3:26.32,,Jamaica,,JAM,2,"Grand Bahama Sports Complex, Freeport (BAH)",2022-08-21,1169,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.32,BAH,,2022
 678,3:26.33,,Greece,,GRE,3,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",2004-06-20,1169,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.32999999999998,POL,,2004
 678,3:26.33,,Canada,,CAN,5h2,"National Stadium, Tokyo (JPN)",2025-09-20,1169,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.32999999999998,JPN,,2025
+678,3:26.33,,Tropic Thunder,,INT,2f1,"Gainesville, FL (USA)",2010-04-03,1169,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.32999999999998,USA,,2010
+678,3:26.33,,Arkansas,,INT,2f3,"Randal Tyson Indoor Center, Fayetteville, AR (USA) (i)",2024-02-24,1195,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.32999999999998,USA,,2024
 678,3:26.33,,Kentucky,,INT,2f5,"Percy Beard Track, Gainesville, FL (USA)",2025-04-19,1169,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.32999999999998,USA,,2025
 683,3:26.34,,Europe,,INT,5,"SGJ, Johannesburg (RSA)",1998-09-11,1169,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.34,RSA,,1998
+684,3:26.36,,Bahamas,,BAH,6h2,"Estádio Olímpico, Rio de Janeiro (BRA)",2016-08-19,1169,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.36,BRA,,2016
 684,3:26.36,,Great Britain & NI,,GBR,3,"Glasgow Arena, Glasgow (GBR) (i)",2024-03-03,1194,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.36,GBR,,2024
 684,3:26.36,,Poland,,POL,2,"Olympiastadion, München (GER)",2007-06-24,1169,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.36,GER,,2007
-684,3:26.36,,Bahamas,,BAH,6h2,"Estádio Olímpico, Rio de Janeiro (BRA)",2016-08-19,1169,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.36,BRA,,2016
 687,3:26.37,,Americas,,INT,1,"Poljud Stadion, Split (CRO)",2010-09-05,1169,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.37,CRO,,2010
 687,3:26.37,,USC,,INT,1h2,"Cushing Stadium, College Station, TX (USA)",2021-05-29,1169,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.37,USA,,2021
 687,3:26.37,,Poland,,POL,1,"Stadion Śląski, Chorzów (POL)",2021-05-30,1169,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.37,POL,,2021
 687,3:26.37,,Germany,,GER,6,"Estadio Olímpico, Barcelona (ESP)",1992-08-08,1169,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.37,ESP,,1992
-691,3:26.38,,University of Texas,,USA,1f1,"Austin, TX (USA)",2014-03-29,1169,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.38,USA,,2014
 691,3:26.38,,Great Britain & NI,,GBR,3f1,"T. Robinson Stadium, Nassau (BAH)",2015-05-03,1169,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.38,BAH,,2015
 691,3:26.38,,United States,,USA,1,"Oregon Convention Center, Portland, OR (USA) (i)",2016-03-20,1194,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.38,USA,,2016
+691,3:26.38,,University of Texas,,USA,1f1,"Austin, TX (USA)",2014-03-29,1169,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.38,USA,,2014
 694,3:26.39,,Empire Athletics,,USA,2,"Mike A. Myers Stadium, Austin, TX (USA)",2025-03-29,1169,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.39,USA,,2025
-695,3:26.40,,United States,,USA,1h2,"CIBC, Toronto (CAN)",2015-07-24,1169,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.4,CAN,,2015
 695,3:26.40,,United States,,USA,1,Santo Domingo (DOM),2003-08-09,1169,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.4,DOM,,2003
+695,3:26.40,,Great Britain & NI,,GBR,1h2,"Glasgow Arena, Glasgow (GBR) (i)",2024-03-03,1194,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.4,GBR,,2024
+695,3:26.40,,United States,,USA,1h2,"CIBC, Toronto (CAN)",2015-07-24,1169,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.4,CAN,,2015
 695,3:26.40,,Italy,,ITA,5f1,"Tianhe Sports Center, Guangzhou (CHN)",2025-05-11,1169,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.4,CHN,,2025
 695,3:26.40,,Arkansas,,INT,1f7,"Randal Tyson Indoor Center, Fayetteville, AR (USA) (i)",2023-01-28,1194,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.4,USA,,2023
-695,3:26.40,,Great Britain & NI,,GBR,1h2,"Glasgow Arena, Glasgow (GBR) (i)",2024-03-03,1194,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.4,GBR,,2024
-700,3:26.41,,Jamaica,,JAM,1h2,"T. Robinson Stadium, Nassau (BAH)",2015-05-02,1169,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.41,BAH,,2015
 700,3:26.41,,Cique Elite,,INT,1f1,"Clemson Indoor Track & Field Complex, Clemson, SC (USA) (i)",2025-02-01,1194,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.41,USA,,2025
+700,3:26.41,,Jamaica,,JAM,1h2,"T. Robinson Stadium, Nassau (BAH)",2015-05-02,1169,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.41,BAH,,2015
 702,3:26.42,,Great Britain & NI,,GBR,1h1,"Olympisch Stadion, Amsterdam (NED)",2016-07-09,1169,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.42000000000002,NED,,2016
 702,3:26.42,,Americas,,INT,3,"Stadio Olimpico, Roma (ITA)",1981-09-04,1169,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.42000000000002,ITA,,1981
+702,3:26.42,,Australia,,AUS,7,"Estadio Olímpico, Barcelona (ESP)",1992-08-08,1169,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.42000000000002,ESP,,1992
 702,3:26.42,,United States Blue,,USA,2,"Austin, TX (USA)",2004-04-02,1169,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.42000000000002,USA,,2004
 702,3:26.42,,Georgia,,INT,1f3,"R.A. ""Murray"" Fasken Indoor Track Stadium, College Station, TX (USA) (i)",2025-03-01,1194,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.42000000000002,USA,,2025
-702,3:26.42,,Australia,,AUS,7,"Estadio Olímpico, Barcelona (ESP)",1992-08-08,1169,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.42000000000002,ESP,,1992
-707,3:26.43,,Canada,,CAN,4,"Estádio Olímpico, Rio de Janeiro (BRA)",2016-08-20,1169,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.43,BRA,,2016
 707,3:26.43,,Ukraine,,UKR,4sf1,"Ullevi Stadium, Göteborg (SWE)",1995-08-12,1169,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.43,SWE,,1995
+707,3:26.43,,Canada,,CAN,4,"Estádio Olímpico, Rio de Janeiro (BRA)",2016-08-20,1169,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.43,BRA,,2016
 709,3:26.44,,Great Britain & NI,,GBR,2h1,"Stade de France, Paris-St-Denis (FRA)",2003-08-30,1168,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.44,FRA,,2003
+710,3:26.45,,Italy,,ITA,7,"Hayward Field, Eugene, OR (USA)",2022-07-24,1168,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.45,USA,,2022
 710,3:26.45,,Poland,,POL,3h2,"Yanmar Stadium Nagai, Osaka (JPN)",2007-09-01,1168,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.45,JPN,,2007
 710,3:26.45,,France,,FRA,6,"National Stadium, Beijing (CHN)",2015-08-30,1168,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.45,CHN,,2015
-710,3:26.45,,Italy,,ITA,7,"Hayward Field, Eugene, OR (USA)",2022-07-24,1168,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.45,USA,,2022
+713,3:26.46,,United States,,USA,1,"Estadio Atlético de la VIDENA, Lima (PER)",2019-08-10,1168,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.46,PER,,2019
+713,3:26.46,,Auburn,,INT,2,"Des Moines, IA (USA)",2011-06-11,1168,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.46,USA,,2011
 713,3:26.46,,South Carolina,,USA,1,"Baton Rouge, LA (USA)",2002-06-01,1168,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.46,USA,,2002
 713,3:26.46,,France,,FRA,21,"Tianhe Sports Center, Guangzhou (CHN)",2025-05-10,1168,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.46,CHN,,2025
-713,3:26.46,,Auburn,,INT,2,"Des Moines, IA (USA)",2011-06-11,1168,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.46,USA,,2011
-713,3:26.46,,United States,,USA,1,"Estadio Atlético de la VIDENA, Lima (PER)",2019-08-10,1168,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.46,PER,,2019
 717,3:26.47,,Poland,,POL,4h2,"Olympic Stadium, London (GBR)",2017-08-12,1168,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.47,GBR,,2017
-718,3:26.48,,Great Britain & NI,,GBR,5,London (GBR),2018-07-14,1168,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.48,GBR,,2018
 718,3:26.48,,Tennessee,,INT,1h2,"Un. of Kentucky Outdoor Track Facility, Lexington, KY (USA)",2024-05-25,1168,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.48,USA,,2024
-718,3:26.48,,Italy,,ITA,3h3,"DS, Daegu (KOR)",2011-09-02,1168,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.48,KOR,,2011
 718,3:26.48,,Great Britain & NI,,GBR,3,"Olympiastadion, München (GER)",1997-06-22,1168,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.48,GER,,1997
-722,3:26.49,,Texas A&M,,INT,1h3,"John McDonnell Field, Fayetteville, AR (USA)",2022-05-27,1168,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.49,USA,,2022
+718,3:26.48,,Italy,,ITA,3h3,"DS, Daegu (KOR)",2011-09-02,1168,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.48,KOR,,2011
+718,3:26.48,,Great Britain & NI,,GBR,5,London (GBR),2018-07-14,1168,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.48,GBR,,2018
 722,3:26.49,,Poland,,POL,6,"Yanmar Stadium Nagai, Osaka (JPN)",2007-09-02,1168,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.49,JPN,,2007
+722,3:26.49,,Texas A&M,,INT,1h3,"John McDonnell Field, Fayetteville, AR (USA)",2022-05-27,1168,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.49,USA,,2022
 724,3:26.50,,United States Blue,,USA,3,"Philadelphia, PA (USA)",2009-04-25,1168,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.5,USA,,2009
 724,3:26.50,,Italy,,ITA,5h2,"Stade de France, Paris (FRA)",2024-08-09,1168,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.5,FRA,,2024
 726,3:26.51,,Federal Republic of Germany,,FRG,3,"Olympiastadion, München (GER)",1972-09-10,1168,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.51,GER,,1972
 726,3:26.51,,Finland,,FIN,5h1,"Stadio Olimpico, Roma (ITA)",2024-06-11,1168,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.51,ITA,,2024
-728,3:26.52,,Great Britain & NI U23,,GBR,1,"Fana Stadion, Bergen (NOR)",2025-07-20,1168,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.52,NOR,,2025
 728,3:26.52,,Great Britain & NI,,GBR,2,"Stadio Luigi Ridolfi, Firenze (ITA)",2003-06-22,1168,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.52,ITA,,2003
+728,3:26.52,,Great Britain & NI U23,,GBR,1,"Fana Stadion, Bergen (NOR)",2025-07-20,1168,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.52,NOR,,2025
 730,3:26.53,,South Carolina,,USA,1,"Franklin Field, Philadelphia, PA (USA)",2022-04-30,1168,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.53,USA,,2022
-731,3:26.54,,Jamaica,,JAM,2,"Ergo Arena, Sopot (POL) (i)",2014-03-09,1193,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.54,POL,,2014
 731,3:26.54,,University of Texas,,INT,1,"Austin, TX (USA)",2016-04-02,1168,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.54,USA,,2016
-733,3:26.55,,Jamaica,,JAM,2,"Philadelphia, PA (USA)",2012-04-28,1167,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.55,USA,,2012
+731,3:26.54,,Jamaica,,JAM,2,"Ergo Arena, Sopot (POL) (i)",2014-03-09,1193,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.54,POL,,2014
 733,3:26.55,,LSU,,INT,1,"LSU Bernie Moore Stadium, Baton Rouge, LA (USA)",2024-04-27,1167,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.55,USA,,2024
+733,3:26.55,,Jamaica,,JAM,2,"Philadelphia, PA (USA)",2012-04-28,1167,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.55,USA,,2012
+735,3:26.56,,Ohio State,,INT,2,"Franklin Field, Philadelphia, PA (USA)",2023-04-29,1167,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.56,USA,,2023
 735,3:26.56,,France,,FRA,4,"Olympic Stadium, London (GBR)",2017-08-13,1167,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.56,GBR,,2017
 735,3:26.56,,Jamaica,,JAM,2h1,"Memorial Coliseum, Los Angeles, CA (USA)",1984-08-10,1167,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.56,USA,,1984
-735,3:26.56,,Ohio State,,INT,2,"Franklin Field, Philadelphia, PA (USA)",2023-04-29,1167,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.56,USA,,2023
 735,3:26.56,,Moskva Region A,,RUS,1,Saransk (RUS),2010-07-15,1167,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.56,RUS,,2010
-739,3:26.57,,Ohio State,,INT,1f1,"Percy Beard Track, Gainesville, FL (USA)",2023-04-15,1167,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.57,USA,,2023
-739,3:26.57,,Ukraine,,UKR,3h2,"Khalifa International Stadium, Doha (QAT)",2019-10-05,1167,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.57,QAT,,2019
 739,3:26.57,,Czech Republic,,CZE,5,"DS, Daegu (KOR)",2011-09-03,1167,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.57,KOR,,2011
-742,3:26.58,,Jamaica,,JAM,1,"Philadelphia, PA (USA)",2015-04-25,1167,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.57999999999998,USA,,2015
-742,3:26.58,,Texas A&M,,USA,1,"USC Cromwell Field at Loker Track Stadium, Los Angeles, CA (USA)",2023-04-08,1167,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.57999999999998,USA,,2023
+739,3:26.57,,Ukraine,,UKR,3h2,"Khalifa International Stadium, Doha (QAT)",2019-10-05,1167,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.57,QAT,,2019
+739,3:26.57,,Ohio State,,INT,1f1,"Percy Beard Track, Gainesville, FL (USA)",2023-04-15,1167,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.57,USA,,2023
 742,3:26.58,,Russia U23,,RUS,1,"Gyulai István Atlétika Stadion, Debrecen (HUN)",2007-07-15,1167,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.57999999999998,HUN,,2007
+742,3:26.58,,Texas A&M,,USA,1,"USC Cromwell Field at Loker Track Stadium, Los Angeles, CA (USA)",2023-04-08,1167,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.57999999999998,USA,,2023
 742,3:26.58,,Belgium,,BEL,4h2,"Khalifa International Stadium, Doha (QAT)",2019-10-05,1167,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.57999999999998,QAT,,2019
-746,3:26.59,,Russia,,RUS,2,"CM, Madrid (ESP)",2002-09-21,1167,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.59,ESP,,2002
+742,3:26.58,,Jamaica,,JAM,1,"Philadelphia, PA (USA)",2015-04-25,1167,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.57999999999998,USA,,2015
 746,3:26.59,,Poland,,POL,1,"Olympiastadion, Berlin (GER)",2018-08-11,1167,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.59,GER,,2018
+746,3:26.59,,Russia,,RUS,2,"CM, Madrid (ESP)",2002-09-21,1167,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.59,ESP,,2002
 746,3:26.59,,USA Red,,USA,3,"Mike A. Myers Stadium, Austin, TX (USA)",2025-03-29,1167,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.59,USA,,2025
 749,3:26.60,,Arkansas,,INT,2f1,"Percy Beard Track, Gainesville, FL (USA)",2023-04-15,1167,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.6,USA,,2023
 749,3:26.60,,Poland,,POL,2,"Estadio Ciudad de Málaga, Málaga (ESP)",2006-06-29,1167,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.6,ESP,,2006
-751,3:26.61,,France,,FRA,4h2,"National Stadium, Beijing (CHN)",2008-08-22,1167,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.61,CHN,,2008
-751,3:26.61,,Norway,,NOR,31,"Tianhe Sports Center, Guangzhou (CHN)",2025-05-10,1167,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.61,CHN,,2025
 751,3:26.61,,Russia,,RUS,1,"Central Stadium, Kazan (RUS)",2013-07-12,1167,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.61,RUS,,2013
-754,3:26.63,,France,,FRA,2,"Parc des Sports, Annecy (FRA)",2008-06-22,1167,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.63,FRA,,2008
+751,3:26.61,,Norway,,NOR,31,"Tianhe Sports Center, Guangzhou (CHN)",2025-05-10,1167,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.61,CHN,,2025
+751,3:26.61,,France,,FRA,4h2,"National Stadium, Beijing (CHN)",2008-08-22,1167,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.61,CHN,,2008
 754,3:26.63,,Ireland,,IRL,6,"Olympiastadion, München (GER)",2022-08-20,1167,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.63,GER,,2022
 754,3:26.63,,Arkansas,,INT,1,"Mike A. Myers Stadium, Austin, TX (USA)",2021-03-27,1167,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.63,USA,,2021
-757,3:26.64,,Poland,,POL,5,"Stade de France, Paris-St-Denis (FRA)",2003-08-31,1167,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.64,FRA,,2003
+754,3:26.63,,France,,FRA,2,"Parc des Sports, Annecy (FRA)",2008-06-22,1167,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.63,FRA,,2008
 757,3:26.64,,Texas A&M,,USA,1f2,"LSU Bernie Moore Stadium, Baton Rouge, LA (USA)",2023-05-13,1167,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.64,USA,,2023
 757,3:26.64,,Arkansas B,,INT,1,"LSU Bernie Moore Stadium, Baton Rouge, LA (USA)",2025-05-03,1167,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.64,USA,,2025
+757,3:26.64,,Poland,,POL,5,"Stade de France, Paris-St-Denis (FRA)",2003-08-31,1167,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.64,FRA,,2003
 760,3:26.65,,Great Britain & NI,,GBR,4,"Olympiastadion, München (GER)",2002-08-06,1167,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.65,GER,,2002
 761,3:26.66,,Poland,,POL,3h1,"Stade de France, Paris-St-Denis (FRA)",2003-08-30,1167,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.66,FRA,,2003
 762,3:26.67,,Great Britain & NI,,GBR,6,"Stade de France, Paris-St-Denis (FRA)",2003-08-31,1166,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.67000000000002,FRA,,2003
-763,3:26.68,,Russia,,RUS,2,Birmingham (GBR),2006-08-20,1166,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.68,GBR,,2006
+763,3:26.68,,Texas A&M,,INT,1f3,"Randal Tyson Indoor Center, Fayetteville, AR (USA) (i)",2021-03-13,1192,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.68,USA,,2021
 763,3:26.68,,BM&F Bovespa,,BRA,1,São Paulo (BRA),2011-08-07,1166,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.68,BRA,,2011
 763,3:26.68,,France,,FRA,4f1,"T. Robinson Stadium, Nassau (BAH)",2015-05-03,1166,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.68,BAH,,2015
-763,3:26.68,,Texas A&M,,INT,1f3,"Randal Tyson Indoor Center, Fayetteville, AR (USA) (i)",2021-03-13,1192,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.68,USA,,2021
+763,3:26.68,,Russia,,RUS,2,Birmingham (GBR),2006-08-20,1166,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.68,GBR,,2006
 767,3:26.69,,Poland,,POL,6h2,"Stade de France, Paris (FRA)",2024-08-09,1166,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.69,FRA,,2024
 767,3:26.69,,Italy,,ITA,5,"Stade Charléty, Paris (FRA)",1999-06-20,1166,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.69,FRA,,1999
+769,3:26.70,,Greece,,GRE,2h2,"Olympic Stadium, Athina (GRE)",2004-08-27,1166,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.7,GRE,,2004
 769,3:26.70,,Great Britain & NI,,GBR,1,"Stade Municipal, Annecy (FRA)",2023-06-11,1166,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.7,FRA,,2023
 769,3:26.70,,Cuba,,CUB,1,Winnipeg (CAN),1999-07-30,1166,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.7,CAN,,1999
-769,3:26.70,,Greece,,GRE,2h2,"Olympic Stadium, Athina (GRE)",2004-08-27,1166,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.7,GRE,,2004
-772,3:26.71,,Belarus,,BLR,2h1,"Ullevi Stadium, Göteborg (SWE)",2006-08-12,1166,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.71,SWE,,2006
 772,3:26.71,,Purdue,,USA,1h1,"Tampa, FL (USA)",2018-05-26,1166,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.71,USA,,2018
-774,3:26.72,,Texas,,INT,5,"Hayward Field, Eugene, OR (USA)",2021-06-12,1166,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.72,USA,,2021
-774,3:26.72,,Ohio State,,INT,3,"Mike A. Myers Stadium, Austin, TX (USA)",2023-06-10,1166,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.72,USA,,2023
-774,3:26.72,,Nigeria,,NGR,5,"Olympic Stadium, London (GBR)",2017-08-13,1166,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.72,GBR,,2017
+772,3:26.71,,Belarus,,BLR,2h1,"Ullevi Stadium, Göteborg (SWE)",2006-08-12,1166,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.71,SWE,,2006
 774,3:26.72,,Ukraine,,UKR,3,"Stadio Luigi Ridolfi, Firenze (ITA)",2005-06-19,1166,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.72,ITA,,2005
-778,3:26.73,,Texas A&M,,INT,1,"Cushing Stadium, College Station, TX (USA)",2021-04-10,1166,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.73,USA,,2021
+774,3:26.72,,Ohio State,,INT,3,"Mike A. Myers Stadium, Austin, TX (USA)",2023-06-10,1166,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.72,USA,,2023
+774,3:26.72,,Texas,,INT,5,"Hayward Field, Eugene, OR (USA)",2021-06-12,1166,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.72,USA,,2021
+774,3:26.72,,Nigeria,,NGR,5,"Olympic Stadium, London (GBR)",2017-08-13,1166,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.72,GBR,,2017
 778,3:26.73,,South Carolina,,INT,6,"Hayward Field, Eugene, OR (USA)",2021-06-12,1166,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.73,USA,,2021
-778,3:26.73,,Texas,,INT,1f1,"Clemson Indoor Track & Field Complex, Clemson, SC (USA) (i)",2023-02-11,1191,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.73,USA,,2023
-778,3:26.73,,South Carolina,,INT,1h3,"Un. of Kentucky Outdoor Track Facility, Lexington, KY (USA)",2024-05-25,1166,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.73,USA,,2024
 778,3:26.73,,England,,GBR,2,Manchester (GBR),2002-07-31,1166,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.73,GBR,,2002
-778,3:26.73,,United States,,USA,1,"Philadelphia, PA (USA)",2018-04-28,1166,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.73,USA,,2018
 778,3:26.73,,USC,,INT,1h1,"Lawrence, KS (USA)",2016-05-28,1166,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.73,USA,,2016
 778,3:26.73,,Oregon,,INT,1f1,"Philadelphia, PA (USA)",2013-04-27,1166,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.73,USA,,2013
+778,3:26.73,,Texas,,INT,1f1,"Clemson Indoor Track & Field Complex, Clemson, SC (USA) (i)",2023-02-11,1191,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.73,USA,,2023
+778,3:26.73,,Texas A&M,,INT,1,"Cushing Stadium, College Station, TX (USA)",2021-04-10,1166,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.73,USA,,2021
+778,3:26.73,,United States,,USA,1,"Philadelphia, PA (USA)",2018-04-28,1166,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.73,USA,,2018
+778,3:26.73,,South Carolina,,INT,1h3,"Un. of Kentucky Outdoor Track Facility, Lexington, KY (USA)",2024-05-25,1166,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.73,USA,,2024
 786,3:26.74,,Cuba,,CUB,4h2,"DS, Daegu (KOR)",2011-09-02,1166,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.74,KOR,,2011
 786,3:26.74,,Texas A&M,,INT,1sf3,"Hayward Field, Eugene, OR (USA)",2021-06-10,1166,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.74,USA,,2021
 788,3:26.75,,Federal Republic of Germany,,FRG,3h2,"Stadio Olimpico, Roma (ITA)",1987-09-05,1166,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.75,ITA,,1987
-788,3:26.75,,Russia,,RUS,1,"Regional Sport Complex, Brest (BLR)",2025-07-13,1166,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.75,BLR,,2025
 788,3:26.75,,Poland,,POL,1,"Taipei Municipal Stadium, Taipei City (TPE)",2017-08-28,1166,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.75,TPE,,2017
+788,3:26.75,,Russia,,RUS,1,"Regional Sport Complex, Brest (BLR)",2025-07-13,1166,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.75,BLR,,2025
+791,3:26.76,,Poland,,POL,3,"Stadion Evžena Rošického, Praha (TCH)",1978-09-03,1166,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.76,TCH,,1978
 791,3:26.76,,University of Texas,,INT,1,"Sacramento, CA (USA)",2003-06-14,1166,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.76,USA,,2003
 791,3:26.76,,Empire Athletics,,INT,1f2,"Percy Beard Track, Gainesville, FL (USA)",2021-04-17,1166,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.76,USA,,2021
-791,3:26.76,,Poland,,POL,3,"Stadion Evžena Rošického, Praha (TCH)",1978-09-03,1166,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.76,TCH,,1978
 794,3:26.77,,USA Blue,,USA,3,"Mike A. Myers Stadium, Austin, TX (USA)",2024-03-30,1166,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.77,USA,,2024
 795,3:26.79,,Belgium,,BEL,13,"The Bahamas National Stadium, Nassau (BAH)",2024-05-05,1165,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.79,BAH,,2024
-796,3:26.81,,Romania,,ROU,6,"Olympic Stadium, Athina (GRE)",2004-08-28,1165,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.81,GRE,,2004
 796,3:26.81,,Germany,,GER,1h2,"Commonwealth Stadium, Edmonton (CAN)",2001-08-11,1165,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.81,CAN,,2001
+796,3:26.81,,Romania,,ROU,6,"Olympic Stadium, Athina (GRE)",2004-08-28,1165,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.81,GRE,,2004
+798,3:26.82,,Brazil,,BRA,2h2,"Olympiastadion, Helsinki (FIN)",2005-08-13,1165,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.82,FIN,,2005
 798,3:26.82,,Czech Republic,,CZE,5h2,"Olympic Stadium, Atlanta, GA (USA)",1996-08-02,1165,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.82,USA,,1996
 798,3:26.82,,United States,,USA,1h1,"Olympiastadion, Helsinki (FIN)",1983-08-13,1165,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.82,FIN,,1983
-798,3:26.82,,Brazil,,BRA,2h2,"Olympiastadion, Helsinki (FIN)",2005-08-13,1165,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.82,FIN,,2005
-801,3:26.83,,United States,,USA,1,"Philadelphia, PA (USA)",2016-04-30,1165,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.82999999999998,USA,,2016
 801,3:26.83,,Jamaica,,JAM,2h2,"Olympic Stadium, Seoul (KOR)",1988-09-30,1165,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.82999999999998,KOR,,1988
 801,3:26.83,,United States U23,,USA,1,"Estadio Nacional - La Sabana, San José (CRC)",2023-07-23,1165,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.82999999999998,CRC,,2023
 801,3:26.83,,Switzerland,,SUI,3h2,"Olympiastadion, München (GER)",2022-08-19,1165,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.82999999999998,GER,,2022
-805,3:26.84,,Africa,,INT,3,"CM, Madrid (ESP)",2002-09-21,1165,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.84,ESP,,2002
+801,3:26.83,,United States,,USA,1,"Philadelphia, PA (USA)",2016-04-30,1165,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.82999999999998,USA,,2016
 805,3:26.84,,Russia,,RUS,1,"Palais Omnisports de Paris-Bercy, Paris (FRA) (i)",1997-03-09,1190,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.84,FRA,,1997
+805,3:26.84,,Africa,,INT,3,"CM, Madrid (ESP)",2002-09-21,1165,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.84,ESP,,2002
 805,3:26.84,,United States Silver,,USA,3,"Austin, TX (USA)",2008-04-05,1165,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.84,USA,,2008
 808,3:26.85,,Jamaica,,JAM,2f1,"Philadelphia, PA (USA)",2006-04-29,1165,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.85,USA,,2006
 808,3:26.85,,Florida,,INT,5,"Ole Miss T&F Complex, Oxford, MS (USA)",2022-05-14,1165,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.85,USA,,2022
 810,3:26.86,,Botswana,,BOT,3,Gold Coast (AUS),2018-04-14,1165,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.86,AUS,,2018
+811,3:26.87,,Great Britain & NI,,GBR,1f1,"Universitätsstadion Am Biopark, Regensburg (GER)",2025-06-15,1165,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.87,GER,,2025
+811,3:26.87,,Australia,,AUS,2,"Green Dome, Maebashi (JPN) (i)",1999-03-07,1190,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.87,JPN,,1999
 811,3:26.87,,France,,FRA,6f1,"Tianhe Sports Center, Guangzhou (CHN)",2025-05-11,1165,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.87,CHN,,2025
 811,3:26.87,,Germany,,GER,2f1,"Universitätsstadion Am Biopark, Regensburg (GER)",2025-06-15,1165,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.87,GER,,2025
-811,3:26.87,,Australia,,AUS,2,"Green Dome, Maebashi (JPN) (i)",1999-03-07,1190,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.87,JPN,,1999
-811,3:26.87,,Great Britain & NI,,GBR,1f1,"Universitätsstadion Am Biopark, Regensburg (GER)",2025-06-15,1165,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.87,GER,,2025
 815,3:26.88,,United States,,USA,4,"Commonwealth Stadium, Edmonton (CAN)",2001-08-12,1165,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.88,CAN,,2001
 815,3:26.88,,Norway,,NOR,5f1,"The Bahamas National Stadium, Nassau (BAH)",2024-05-05,1165,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.88,BAH,,2024
 817,3:26.89,,Great Britain & NI,,GBR,6,"Olympic Stadium, Seoul (KOR)",1988-10-01,1165,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.89,KOR,,1988
-817,3:26.89,,Georgia,,INT,1sf3,"Hayward Field, Eugene, OR (USA)",2025-06-12,1165,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.89,USA,,2025
-817,3:26.89,,Great Britain & NI,,GBR,5,"Ullevi Stadium, Göteborg (SWE)",1995-08-13,1165,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.89,SWE,,1995
 817,3:26.89,,Russia,,RUS,1h1,"Estadio Olímpico, Barcelona (ESP)",2010-07-31,1165,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.89,ESP,,2010
-817,3:26.89,,Norway,,NOR,24,"The Bahamas National Stadium, Nassau (BAH)",2024-05-04,1165,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.89,BAH,,2024
 817,3:26.89,,India,,IND,3h2,"Olympic Stadium, Athina (GRE)",2004-08-27,1165,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.89,GRE,,2004
-823,3:26.90,,Botswana,,BOT,3h1,"Olympic Stadium, London (GBR)",2017-08-12,1164,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.9,GBR,,2017
-823,3:26.90,,Iowa,,INT,2h1,"Cushing Stadium, College Station, TX (USA)",2025-05-31,1164,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.9,USA,,2025
+817,3:26.89,,Georgia,,INT,1sf3,"Hayward Field, Eugene, OR (USA)",2025-06-12,1165,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.89,USA,,2025
+817,3:26.89,,Norway,,NOR,24,"The Bahamas National Stadium, Nassau (BAH)",2024-05-04,1165,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.89,BAH,,2024
+817,3:26.89,,Great Britain & NI,,GBR,5,"Ullevi Stadium, Göteborg (SWE)",1995-08-13,1165,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.89,SWE,,1995
 823,3:26.90,,Bulgaria,,BUL,4,Praha (TCH),1987-06-28,1164,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.9,TCH,,1987
+823,3:26.90,,Botswana,,BOT,3h1,"Olympic Stadium, London (GBR)",2017-08-12,1164,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.9,GBR,,2017
 823,3:26.90,,South Carolina,,INT,3,"Austin, TX (USA)",2019-06-08,1164,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.9,USA,,2019
 823,3:26.90,,Kentucky,,INT,1h1,"Billy Hayes T& F Complex, Bloomington, IN (USA)",2022-05-28,1164,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.9,USA,,2022
+823,3:26.90,,Iowa,,INT,2h1,"Cushing Stadium, College Station, TX (USA)",2025-05-31,1164,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.9,USA,,2025
+828,3:26.92,,Cuba,,CUB,8,"National Stadium, Tokyo (JPN)",2021-08-07,1164,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.92000000000002,JPN,,2021
 828,3:26.92,,France,,FRA,4h1,"Commonwealth Stadium, Edmonton (CAN)",2001-08-11,1164,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.92000000000002,CAN,,2001
 828,3:26.92,,Soviet Union,,URS,4,"Stadio Olimpico, Roma (ITA)",1981-09-04,1164,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.92000000000002,ITA,,1981
-828,3:26.92,,Russia,,RUS,2,"Philadelphia, PA (USA)",2004-04-24,1164,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.92000000000002,USA,,2004
 828,3:26.92,,Kentucky,,INT,1,"Gainesville, FL (USA)",2018-03-31,1164,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.92000000000002,USA,,2018
-828,3:26.92,,Cuba,,CUB,8,"National Stadium, Tokyo (JPN)",2021-08-07,1164,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.92000000000002,JPN,,2021
+828,3:26.92,,Russia,,RUS,2,"Philadelphia, PA (USA)",2004-04-24,1164,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.92000000000002,USA,,2004
 828,3:26.92,,Baylor,,INT,1,"Terry & Linda Fuller T&F Complex, Lubbock, TX (USA)",2022-05-15,1164,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.92000000000002,USA,,2022
 834,3:26.93,,Jamaica,,JAM,2,"Alexander Stadium, Birmingham (GBR)",2022-08-07,1164,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.93,GBR,,2022
 835,3:26.94,,Spain,,ESP,7,"Stadio Olimpico, Roma (ITA)",2024-06-12,1164,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.94,ITA,,2024
 835,3:26.94,,Great Britain & NI,,GBR,5,"Commonwealth Stadium, Edmonton (CAN)",2001-08-12,1164,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.94,CAN,,2001
 835,3:26.94,,Switzerland,,SUI,7,"Olympiastadion, München (GER)",2022-08-20,1164,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.94,GER,,2022
 838,3:26.95,,Germany,,GER,7h2,"Stade de France, Paris (FRA)",2024-08-09,1164,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.95,FRA,,2024
-839,3:26.96,,USC,,USA,2,"USC Cromwell Field at Loker Track Stadium, Los Angeles, CA (USA)",2023-04-08,1164,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.96,USA,,2023
 839,3:26.96,,Germany,,GER,1f2,"Fana Stadion, Bergen (NOR)",2010-06-20,1164,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.96,NOR,,2010
+839,3:26.96,,USC,,USA,2,"USC Cromwell Field at Loker Track Stadium, Los Angeles, CA (USA)",2023-04-08,1164,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.96,USA,,2023
 841,3:26.97,,USC,,INT,1f1,"Virginia Beach Sports Center, Virginia Beach, VA (USA) (i)",2025-03-15,1189,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.97,USA,,2025
-842,3:26.98,,Netherlands,,NED,5h1,"Estádio Olímpico, Rio de Janeiro (BRA)",2016-08-19,1164,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.98,BRA,,2016
-842,3:26.98,,South Carolina,,USA,1f1,"Knoxville, TN (USA)",2002-04-13,1164,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.98,USA,,2002
 842,3:26.98,,Great Britain & NI,,GBR,3,"Estadio Ciudad de Málaga, Málaga (ESP)",2006-06-29,1164,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.98,ESP,,2006
-845,3:26.99,,Louisiana State,,INT,3,"Eugene, OR (USA)",2017-06-10,1164,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.99,USA,,2017
-845,3:26.99,,Texas A&M,,USA,3f3,"Convention Center, Albuquerque, NM (USA) (i)",2023-03-11,1189,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.99,USA,,2023
+842,3:26.98,,South Carolina,,USA,1f1,"Knoxville, TN (USA)",2002-04-13,1164,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.98,USA,,2002
+842,3:26.98,,Netherlands,,NED,5h1,"Estádio Olímpico, Rio de Janeiro (BRA)",2016-08-19,1164,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.98,BRA,,2016
 845,3:26.99,,Czech Republic,,CZE,7,"Olympic Stadium, Atlanta, GA (USA)",1996-08-03,1164,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.99,USA,,1996
-845,3:26.99,,Great Britain & NI,,GBR,4h1,"Olympic Stadium, Athina (GRE)",2004-08-27,1164,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.99,GRE,,2004
 845,3:26.99,,Kentucky,,INT,1f1,"Percy Beard Track, Gainesville, FL (USA)",2022-04-02,1164,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.99,USA,,2022
+845,3:26.99,,Texas A&M,,USA,3f3,"Convention Center, Albuquerque, NM (USA) (i)",2023-03-11,1189,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.99,USA,,2023
+845,3:26.99,,Louisiana State,,INT,3,"Eugene, OR (USA)",2017-06-10,1164,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.99,USA,,2017
+845,3:26.99,,Great Britain & NI,,GBR,4h1,"Olympic Stadium, Athina (GRE)",2004-08-27,1164,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,206.99,GRE,,2004
 850,3:27.00,,Arkansas,,INT,2,"LSU Bernie Moore Stadium, Baton Rouge, LA (USA)",2024-04-27,1164,4x400-metres-relay,relays,female,senior,4x400-metres-relay,track,207.0,USA,,2024
 2,3:27.60,,United States U20,,USA,1,"Stadio Zecchini, Grosseto (ITA)",2004-07-18,1159,4x400-metres-relay,relays,female,u20,4x400-metres-relay,track,207.6,ITA,,2004
 3,3:28.06,,United States U20,,USA,1,"Pascual Guerrero Stadium, Cali (COL)",2022-08-06,1155,4x400-metres-relay,relays,female,u20,4x400-metres-relay,track,208.06,COL,,2022
@@ -872,8 +872,8 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 21,3:30.45,,United States U20,,USA,1,"Olympic Stadium, Athina (GRE)",1986-07-20,1134,4x400-metres-relay,relays,female,u20,4x400-metres-relay,track,210.45,GRE,,1986
 22,3:30.46,,Great Britain & NI U20,,GBR,2,"National Stadium, Kingston (JAM)",2002-07-21,1134,4x400-metres-relay,relays,female,u20,4x400-metres-relay,track,210.46,JAM,,2002
 23,3:30.68,,Canada U20,,CAN,2,San José (CRC),2019-07-21,1132,4x400-metres-relay,relays,female,u20,4x400-metres-relay,track,210.68,CRC,,2019
-24,3:30.72,,Russia U20,,RUS,3,"National Stadium, Kingston (JAM)",2002-07-21,1132,4x400-metres-relay,relays,female,u20,4x400-metres-relay,track,210.72,JAM,,2002
 24,3:30.72,,Bulgaria U20,,BUL,2,Sofia (BUL),1983-07-24,1132,4x400-metres-relay,relays,female,u20,4x400-metres-relay,track,210.72,BUL,,1983
+24,3:30.72,,Russia U20,,RUS,3,"National Stadium, Kingston (JAM)",2002-07-21,1132,4x400-metres-relay,relays,female,u20,4x400-metres-relay,track,210.72,JAM,,2002
 26,3:30.74,,United States U20,,USA,1f1,"Estadio Atlético de la VIDENA, Lima (PER)",2024-08-31,1132,4x400-metres-relay,relays,female,u20,4x400-metres-relay,track,210.74,PER,,2024
 27,3:30.84,,Nigeria U20,,NGR,2f,"Chaoyang Sport Center, Beijing (CHN)",2006-08-20,1131,4x400-metres-relay,relays,female,u20,4x400-metres-relay,track,210.84,CHN,,2006
 28,3:30.90,,German Democratic Republic U20,,GDR,2,"Olympic Stadium, Athina (GRE)",1986-07-20,1131,4x400-metres-relay,relays,female,u20,4x400-metres-relay,track,210.9,GRE,,1986
@@ -885,23 +885,23 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 34,3:31.36,,Australia U20,,AUS,2,"Ratinan Stadion, Tampere (FIN)",2018-07-15,1127,4x400-metres-relay,relays,female,u20,4x400-metres-relay,track,211.36,FIN,,2018
 35,3:31.41,,Soviet Union U20,,URS,2,"Atletiekbaan Overvecht, Utrecht (NED)",1981-08-23,1126,4x400-metres-relay,relays,female,u20,4x400-metres-relay,track,211.41,NED,,1981
 36,3:31.46,,Nigeria U20,,NGR,1,"Moi International Sports Centre, Kasarani, Nairobi (KEN)",2021-08-22,1126,4x400-metres-relay,relays,female,u20,4x400-metres-relay,track,211.46,KEN,,2021
-37,3:31.47,,Australia U20,,AUS,2f1,"Estadio Atlético de la VIDENA, Lima (PER)",2024-08-31,1126,4x400-metres-relay,relays,female,u20,4x400-metres-relay,track,211.47,PER,,2024
 37,3:31.47,,Jamaica U20,,JAM,1,Montego Bay (JAM),2011-04-25,1126,4x400-metres-relay,relays,female,u20,4x400-metres-relay,track,211.47,JAM,,2011
+37,3:31.47,,Australia U20,,AUS,2f1,"Estadio Atlético de la VIDENA, Lima (PER)",2024-08-31,1126,4x400-metres-relay,relays,female,u20,4x400-metres-relay,track,211.47,PER,,2024
 39,3:31.48,,United States U20,,USA,2,"Laurentian University Stadium, Sudbury (CAN)",1988-07-31,1126,4x400-metres-relay,relays,female,u20,4x400-metres-relay,track,211.48,CAN,,1988
 40,3:31.49,,United States U20,,USA,1,Edmonton (CAN),2015-08-02,1126,4x400-metres-relay,relays,female,u20,4x400-metres-relay,track,211.49,CAN,,2015
 41,3:31.57,,Romania U20,,ROU,1,"Olympic Stadium, Seoul (KOR)",1992-09-20,1125,4x400-metres-relay,relays,female,u20,4x400-metres-relay,track,211.57,KOR,,1992
 42,3:31.59,,Jamaica U20,,JAM,2,"Pascual Guerrero Stadium, Cali (COL)",2022-08-06,1125,4x400-metres-relay,relays,female,u20,4x400-metres-relay,track,211.59,COL,,2022
 43,3:31.62,,Jamaica U20,,JAM,3f,"Chaoyang Sport Center, Beijing (CHN)",2006-08-20,1125,4x400-metres-relay,relays,female,u20,4x400-metres-relay,track,211.62,CHN,,2006
 44,3:31.64,,Russia U20,,RUS,1h1,"National Stadium, Kingston (JAM)",2002-07-20,1124,4x400-metres-relay,relays,female,u20,4x400-metres-relay,track,211.64,JAM,,2002
-45,3:31.68,,Montverde Academy,,USA,1f8,"Franklin Field, Philadelphia, PA (USA)",2024-06-16,1124,4x400-metres-relay,relays,female,u20,4x400-metres-relay,track,211.68,USA,,2024
 45,3:31.68,,German Democratic Republic U20,,GDR,1,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",1979-08-19,1124,4x400-metres-relay,relays,female,u20,4x400-metres-relay,track,211.68,POL,,1979
+45,3:31.68,,Montverde Academy,,USA,1f8,"Franklin Field, Philadelphia, PA (USA)",2024-06-16,1124,4x400-metres-relay,relays,female,u20,4x400-metres-relay,track,211.68,USA,,2024
 47,3:31.78,,Bulgaria U20,,BUL,2,"Rudolf Tonn Stadion, Schwechat (AUT)",1983-08-28,1123,4x400-metres-relay,relays,female,u20,4x400-metres-relay,track,211.78,AUT,,1983
 48,3:31.81,,Cuba U20,,CUB,3,"Deveti Septemvri Stadium, Plovdiv (BUL)",1990-08-12,1123,4x400-metres-relay,relays,female,u20,4x400-metres-relay,track,211.81,BUL,,1990
 49,3:31.84,,Nigeria U20,,NGR,2,"Croix-Bleue Medavie Stadium, Moncton (CAN)",2010-07-25,1123,4x400-metres-relay,relays,female,u20,4x400-metres-relay,track,211.84,CAN,,2010
 50,3:31.86,,Great Britain & NI U20,,GBR,3,"Pascual Guerrero Stadium, Cali (COL)",2022-08-06,1123,4x400-metres-relay,relays,female,u20,4x400-metres-relay,track,211.86,COL,,2022
 51,3:31.89,,Soviet Union U20,,URS,3,"Laurentian University Stadium, Sudbury (CAN)",1988-07-31,1122,4x400-metres-relay,relays,female,u20,4x400-metres-relay,track,211.89,CAN,,1988
-52,3:31.90,,Jamaica U20,,JAM,3,"Ratinan Stadion, Tampere (FIN)",2018-07-15,1122,4x400-metres-relay,relays,female,u20,4x400-metres-relay,track,211.9,FIN,,2018
 52,3:31.90,,Jamaica U20,,JAM,4,"National Stadium, Kingston (JAM)",2002-07-21,1122,4x400-metres-relay,relays,female,u20,4x400-metres-relay,track,211.9,JAM,,2002
+52,3:31.90,,Jamaica U20,,JAM,3,"Ratinan Stadion, Tampere (FIN)",2018-07-15,1122,4x400-metres-relay,relays,female,u20,4x400-metres-relay,track,211.9,FIN,,2018
 54,3:31.93,,Canada U20,,CAN,4,"Ratinan Stadion, Tampere (FIN)",2018-07-15,1122,4x400-metres-relay,relays,female,u20,4x400-metres-relay,track,211.93,FIN,,2018
 55,3:31.94,,Federal Republic of Germany U20,,FRG,3,"Rudolf Tonn Stadion, Schwechat (AUT)",1983-08-28,1122,4x400-metres-relay,relays,female,u20,4x400-metres-relay,track,211.94,AUT,,1983
 56,3:32.00,,Great Britain & NI U20,,GBR,2,"Hayward Field, Eugene, OR (USA)",2014-07-27,1121,4x400-metres-relay,relays,female,u20,4x400-metres-relay,track,212.0,USA,,2014
@@ -914,14 +914,14 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 63,3:32.29,,Jamaica U20,,JAM,1,"Parc des Sports, Annecy (FRA)",1998-08-02,1119,4x400-metres-relay,relays,female,u20,4x400-metres-relay,track,212.29,FRA,,1998
 63,3:32.29,,Bullis,,USA,2f8,"Franklin Field, Philadelphia, PA (USA)",2024-06-16,1119,4x400-metres-relay,relays,female,u20,4x400-metres-relay,track,212.29,USA,,2024
 65,3:32.30,,Jamaica U20,,JAM,1h2,"Croix-Bleue Medavie Stadium, Moncton (CAN)",2010-07-24,1119,4x400-metres-relay,relays,female,u20,4x400-metres-relay,track,212.3,CAN,,2010
-66,3:32.35,,Russia U20,,RUS,2,"Parc des Sports, Annecy (FRA)",1998-08-02,1118,4x400-metres-relay,relays,female,u20,4x400-metres-relay,track,212.35,FRA,,1998
 66,3:32.35,,Soviet Union U20,,URS,3,"Olympic Stadium, Athina (GRE)",1986-07-20,1118,4x400-metres-relay,relays,female,u20,4x400-metres-relay,track,212.35,GRE,,1986
+66,3:32.35,,Russia U20,,RUS,2,"Parc des Sports, Annecy (FRA)",1998-08-02,1118,4x400-metres-relay,relays,female,u20,4x400-metres-relay,track,212.35,FRA,,1998
 68,3:32.37,,German Democratic Republic U20,,GDR,4,"Deveti Septemvri Stadium, Plovdiv (BUL)",1990-08-12,1118,4x400-metres-relay,relays,female,u20,4x400-metres-relay,track,212.37,BUL,,1990
 69,3:32.47,,Australia U20,,AUS,3,"SIAC Homebush, Sydney (AUS)",1996-08-25,1117,4x400-metres-relay,relays,female,u20,4x400-metres-relay,track,212.47,AUS,,1996
 70,3:32.59,,PR of China U20,,CHN,4f,"Chaoyang Sport Center, Beijing (CHN)",2006-08-20,1116,4x400-metres-relay,relays,female,u20,4x400-metres-relay,track,212.59,CHN,,2006
-71,3:32.63,,Germany U20,,GER,4,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",2016-07-24,1116,4x400-metres-relay,relays,female,u20,4x400-metres-relay,track,212.63,POL,,2016
-71,3:32.63,,Poland U20,,POL,1,"Stadio Guidobaldi, Rieti (ITA)",2013-07-21,1116,4x400-metres-relay,relays,female,u20,4x400-metres-relay,track,212.63,ITA,,2013
 71,3:32.63,,Russia U20,,RUS,1,"S. Darius & S. Girėnas Stadium, Kaunas (LTU)",2005-07-24,1116,4x400-metres-relay,relays,female,u20,4x400-metres-relay,track,212.63,LTU,,2005
+71,3:32.63,,Poland U20,,POL,1,"Stadio Guidobaldi, Rieti (ITA)",2013-07-21,1116,4x400-metres-relay,relays,female,u20,4x400-metres-relay,track,212.63,ITA,,2013
+71,3:32.63,,Germany U20,,GER,4,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",2016-07-24,1116,4x400-metres-relay,relays,female,u20,4x400-metres-relay,track,212.63,POL,,2016
 74,3:32.67,,Federal Republic of Germany U20,,FRG,1,"Max-Reimann-Stadion, Cottbus (GDR)",1985-08-25,1116,4x400-metres-relay,relays,female,u20,4x400-metres-relay,track,212.67000000000002,GDR,,1985
 75,3:32.68,,Jamaica U20,,JAM,2,"Olympic Stadium, Seoul (KOR)",1992-09-20,1116,4x400-metres-relay,relays,female,u20,4x400-metres-relay,track,212.68,KOR,,1992
 76,3:32.72,,Germany U20,,GER,3,"Olympic Stadium, Seoul (KOR)",1992-09-20,1115,4x400-metres-relay,relays,female,u20,4x400-metres-relay,track,212.72,KOR,,1992
@@ -958,8 +958,8 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 107,3:33.50,,Bahamas U20,,BAH,2h2,"Croix-Bleue Medavie Stadium, Moncton (CAN)",2010-07-24,1109,4x400-metres-relay,relays,female,u20,4x400-metres-relay,track,213.5,CAN,,2010
 108,3:33.51,,Germany U20,,GER,4,"Stadio Zecchini, Grosseto (ITA)",2004-07-18,1109,4x400-metres-relay,relays,female,u20,4x400-metres-relay,track,213.51,ITA,,2004
 109,3:33.55,,Australia U20,,AUS,1h3,"Estadio Atlético de la VIDENA, Lima (PER)",2024-08-30,1108,4x400-metres-relay,relays,female,u20,4x400-metres-relay,track,213.55,PER,,2024
-110,3:33.56,,France U20,,FRA,1f1,"Ratinan Stadion, Tampere (FIN)",2025-08-10,1108,4x400-metres-relay,relays,female,u20,4x400-metres-relay,track,213.56,FIN,,2025
 110,3:33.56,,Nigeria U20,,NGR,1h2,"Deveti Septemvri Stadium, Plovdiv (BUL)",1990-08-11,1108,4x400-metres-relay,relays,female,u20,4x400-metres-relay,track,213.56,BUL,,1990
+110,3:33.56,,France U20,,FRA,1,"Ratinan Stadion, Tampere (FIN)",2025-08-10,1108,4x400-metres-relay,relays,female,u20,4x400-metres-relay,track,213.56,FIN,,2025
 112,3:33.60,,Canada U20,,CAN,5,"Pascual Guerrero Stadium, Cali (COL)",2022-08-06,1108,4x400-metres-relay,relays,female,u20,4x400-metres-relay,track,213.6,COL,,2022
 113,3:33.67,,Great Britain & NI U20,,GBR,5,"Stadio Zecchini, Grosseto (ITA)",2004-07-18,1107,4x400-metres-relay,relays,female,u20,4x400-metres-relay,track,213.67000000000002,ITA,,2004
 114,3:33.68,,Great Britain & NI U20,,GBR,3,"Stadio Zecchini, Grosseto (ITA)",2017-07-23,1107,4x400-metres-relay,relays,female,u20,4x400-metres-relay,track,213.68,ITA,,2017
@@ -987,7 +987,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 135,3:34.25,,United States U20,,USA,1h3,"Estadio Olímpico, Barcelona (ESP)",2012-07-15,1103,4x400-metres-relay,relays,female,u20,4x400-metres-relay,track,214.25,ESP,,2012
 136,3:34.27,,Jamaica U20,,JAM,1,Devonshire (BER),2012-04-09,1102,4x400-metres-relay,relays,female,u20,4x400-metres-relay,track,214.27,BER,,2012
 137,3:34.35,,German Democratic Republic U20,,GDR,1,"Wedaustadion, Duisburg (GER)",1973-08-26,1102,4x400-metres-relay,relays,female,u20,4x400-metres-relay,track,214.35,GER,,1973
-137,3:34.35,,Germany U20,,GER,2f1,"Ratinan Stadion, Tampere (FIN)",2025-08-10,1102,4x400-metres-relay,relays,female,u20,4x400-metres-relay,track,214.35,FIN,,2025
+137,3:34.35,,Germany U20,,GER,2,"Ratinan Stadion, Tampere (FIN)",2025-08-10,1102,4x400-metres-relay,relays,female,u20,4x400-metres-relay,track,214.35,FIN,,2025
 139,3:34.36,,Jamaica U20,,JAM,1,Nassau (BAH),2013-04-01,1102,4x400-metres-relay,relays,female,u20,4x400-metres-relay,track,214.36,BAH,,2013
 139,3:34.36,,Great Britain & NI U20,,GBR,1,"Ekängens Friidrottsarena, Eskilstuna (SWE)",2015-07-19,1102,4x400-metres-relay,relays,female,u20,4x400-metres-relay,track,214.36,SWE,,2015
 141,3:34.40,,German Democratic Republic U20,,GDR,2,"Max-Reimann-Stadion, Cottbus (GDR)",1985-08-25,1101,4x400-metres-relay,relays,female,u20,4x400-metres-relay,track,214.4,GDR,,1985
@@ -1003,17 +1003,17 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 150,3:34.57,,United States U20,,USA,3h1,"Deveti Septemvri Stadium, Plovdiv (BUL)",1990-08-11,1100,4x400-metres-relay,relays,female,u20,4x400-metres-relay,track,214.57,BUL,,1990
 151,3:34.63,,Great Britain & NI U20,,GBR,1,"Stadio Zecchini, Grosseto (ITA)",2001-07-22,1099,4x400-metres-relay,relays,female,u20,4x400-metres-relay,track,214.63,ITA,,2001
 152,3:34.64,,United States U20,,USA,1h1,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",2016-07-23,1099,4x400-metres-relay,relays,female,u20,4x400-metres-relay,track,214.64,POL,,2016
-153,3:34.65,,Italy U20,,ITA,3f1,"Ratinan Stadion, Tampere (FIN)",2025-08-10,1099,4x400-metres-relay,relays,female,u20,4x400-metres-relay,track,214.65,FIN,,2025
+153,3:34.65,,Italy U20,,ITA,3,"Ratinan Stadion, Tampere (FIN)",2025-08-10,1099,4x400-metres-relay,relays,female,u20,4x400-metres-relay,track,214.65,FIN,,2025
 154,3:34.69,,Jamaica U20,,JAM,1,"Kirani James Athletic Stadium, St. George's (GRN)",2024-04-01,1099,4x400-metres-relay,relays,female,u20,4x400-metres-relay,track,214.69,GRN,,2024
 155,3:34.71,,United States U20,,USA,1,"Miramar, FL (USA)",2011-07-24,1099,4x400-metres-relay,relays,female,u20,4x400-metres-relay,track,214.71,USA,,2011
 156,3:34.77,,Poland U20,,POL,2h1,"Estadio Atlético de la VIDENA, Lima (PER)",2024-08-30,1098,4x400-metres-relay,relays,female,u20,4x400-metres-relay,track,214.77,PER,,2024
 157,3:34.78,,Hydel High U20,,JAM,1,Kingston (JAM),2019-03-30,1098,4x400-metres-relay,relays,female,u20,4x400-metres-relay,track,214.78,JAM,,2019
-158,3:34.80,,Poland U20,,POL,4f1,"Estadio Atlético de la VIDENA, Lima (PER)",2024-08-31,1098,4x400-metres-relay,relays,female,u20,4x400-metres-relay,track,214.8,PER,,2024
 158,3:34.80,,Soviet Union U20,,URS,4,"Rudolf Tonn Stadion, Schwechat (AUT)",1983-08-28,1098,4x400-metres-relay,relays,female,u20,4x400-metres-relay,track,214.8,AUT,,1983
-160,3:34.81,,Nigeria U20,,NGR,3h2,"Croix-Bleue Medavie Stadium, Moncton (CAN)",2010-07-24,1098,4x400-metres-relay,relays,female,u20,4x400-metres-relay,track,214.81,CAN,,2010
+158,3:34.80,,Poland U20,,POL,4f1,"Estadio Atlético de la VIDENA, Lima (PER)",2024-08-31,1098,4x400-metres-relay,relays,female,u20,4x400-metres-relay,track,214.8,PER,,2024
 160,3:34.81,,Soviet Union U20,,URS,2h2,"Deveti Septemvri Stadium, Plovdiv (BUL)",1990-08-11,1098,4x400-metres-relay,relays,female,u20,4x400-metres-relay,track,214.81,BUL,,1990
-162,3:34.83,,United States U20,,USA,1h2,"Chaoyang Sport Center, Beijing (CHN)",2006-08-19,1098,4x400-metres-relay,relays,female,u20,4x400-metres-relay,track,214.82999999999998,CHN,,2006
+160,3:34.81,,Nigeria U20,,NGR,3h2,"Croix-Bleue Medavie Stadium, Moncton (CAN)",2010-07-24,1098,4x400-metres-relay,relays,female,u20,4x400-metres-relay,track,214.81,CAN,,2010
 162,3:34.83,,Japan U20,,JPN,5,"Olympic Stadium, Seoul (KOR)",1992-09-20,1098,4x400-metres-relay,relays,female,u20,4x400-metres-relay,track,214.82999999999998,KOR,,1992
+162,3:34.83,,United States U20,,USA,1h2,"Chaoyang Sport Center, Beijing (CHN)",2006-08-19,1098,4x400-metres-relay,relays,female,u20,4x400-metres-relay,track,214.82999999999998,CHN,,2006
 164,3:34.84,,Czech Republic U20,,CZE,3,"Givat Ram Stadium, Jerusalem (ISR)",2023-08-10,1098,4x400-metres-relay,relays,female,u20,4x400-metres-relay,track,214.84,ISR,,2023
 164,3:34.84,,Jamaica U20,,JAM,1,St. George's (GRN),2016-03-28,1098,4x400-metres-relay,relays,female,u20,4x400-metres-relay,track,214.84,GRN,,2016
 164,3:34.84,,Germany U20,,GER,2,"Daugava Stadium, Riga (LAT)",1999-08-08,1098,4x400-metres-relay,relays,female,u20,4x400-metres-relay,track,214.84,LAT,,1999

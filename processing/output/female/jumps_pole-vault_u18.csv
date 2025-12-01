@@ -125,7 +125,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 76,4.30,,Keni MIAO,05 AUG 2008,CHN,2,"Sports Center, Quzhou (CHN)",13 SEP 2024,1052,pole-vault,jumps,female,u18
 76,4.30,,Ariadni MIRTSIOU,30 JAN 2009,GRE,2,Thessaloniki (GRE),24 MAY 2025,1052,pole-vault,jumps,female,u18
 76,4.30,,Anastasia BOUMPOULIDI,20 MAY 2008,GRE,3,"Filothei Stadium, Athina (GRE)",10 JUN 2025,1052,pole-vault,jumps,female,u18
-76,4.30,,Allika Inkeri MOSER,27 MAR 2008,EST,4f1,"Ratinan Stadion, Tampere (FIN)",10 AUG 2025,1052,pole-vault,jumps,female,u18
+76,4.30,,Allika Inkeri MOSER,27 MAR 2008,EST,4,"Ratinan Stadion, Tampere (FIN)",10 AUG 2025,1052,pole-vault,jumps,female,u18
 76,4.30,,Keni MIAO,05 AUG 2008,CHN,1,"Olympic Center, Shenyang (CHN)",11 AUG 2025,1052,pole-vault,jumps,female,u18
 76,4.30,,Allika Inkeri MOSER,27 MAR 2008,EST,10,"Stadion Śląski, Chorzów (POL)",15 AUG 2025,1052,pole-vault,jumps,female,u18
 130,4.29,,Lianne KISTLER,,USA,1,"Snohomish, WA (USA)",20 APR 2019,1049,pole-vault,jumps,female,u18
@@ -309,3 +309,4 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 209,4.20,,Moana PEYRARD,08 OCT 2008,FRA,1f2,"Place Morgan, Salon-de-Provence (FRA)",24 MAY 2025,1021,pole-vault,jumps,female,u18
 209,4.20,,Allika Inkeri MOSER,27 MAR 2008,EST,1,"Rannastaadion, Pärnu (EST)",08 JUN 2025,1021,pole-vault,jumps,female,u18
 209,4.20,,Aleka ZAYTSEVA,26 AUG 2009,RUS,6,"Central Stadium, Kazan (RUS)",10 AUG 2025,1021,pole-vault,jumps,female,u18
+209,4.20,,Daisy BRAYSHAW,20 JUL 2008,AUS,1,"WA Athletics Stadium, Perth (AUS)",21 NOV 2025,1021,pole-vault,jumps,female,u18

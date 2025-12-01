@@ -42,7 +42,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 40,11.22,+1.2,Alana REID,20 JAN 2005,JAM,2,"National Stadium, Kingston (JAM)",06 APR 2022,1152,100-metres,sprints,female,u18
 40,11.22,+0.5,Thieanna Lee TERRELONGE,17 OCT 2007,JAM,1,"National Stadium, Kingston (JAM)",20 MAR 2024,1152,100-metres,sprints,female,u18
 40,11.22,+0.3,Thieanna Lee TERRELONGE,17 OCT 2007,JAM,2f1,"National Stadium, Kingston (JAM)",08 JUN 2024,1152,100-metres,sprints,female,u18
-40,11.22,-0.1,Kelly Ann Maevane DOUALLA EDIMO,20 NOV 2009,ITA,1f1,"Ratinan Stadion, Tampere (FIN)",08 AUG 2025,1152,100-metres,sprints,female,u18
+40,11.22,-0.1,Kelly Ann Maevane DOUALLA EDIMO,20 NOV 2009,ITA,1,"Ratinan Stadion, Tampere (FIN)",08 AUG 2025,1152,100-metres,sprints,female,u18
 45,11.23,+0.8,Candace HILL,11 FEB 1999,USA,3h2,"Hayward Field, Eugene, OR (USA)",02 JUL 2016,1150,100-metres,sprints,female,u18
 45,11.23,-0.1,Viwe JINGQI,17 FEB 2005,RSA,6,"Pascual Guerrero Stadium, Cali (COL)",03 AUG 2022,1150,100-metres,sprints,female,u18
 47,11.24,+1.2,Jeneba TARMOH,27 SEP 1989,USA,3,"Indianapolis, IN (USA)",22 JUN 2006,1148,100-metres,sprints,female,u18
@@ -522,4 +522,4 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 483,11.50,+1.2,Leah O'BRIEN,29 JAN 2008,AUS,2f1,"WA Athletics Stadium, Perth (AUS)",21 MAR 2025,1093,100-metres,sprints,female,u18
 483,11.50,+0.2,Jady EMMANUEL,24 MAR 2009,LCA,1,"Hasely Crawford Stadium, Port-of-Spain (TTO)",19 APR 2025,1093,100-metres,sprints,female,u18
 483,11.50,+1.4,Hakelly DE SOUZA,31 OCT 2008,BRA,2sf1,"Centro de Treinamento Paralímpico Brasileiro, São Paulo (BRA)",31 JUL 2025,1093,100-metres,sprints,female,u18
-483,11.50,+1.8,Tejiri UGOH,,NGR,1h6,"MKO Abiola International Stadium Stadium, Abeokuta (NGR)",31 JUL 2025,1093,100-metres,sprints,female,u18
+483,11.50,+1.8,Tejiri Praise UGOH,05 APR 2010,NGR,1h6,"MKO Abiola International Stadium Stadium, Abeokuta (NGR)",31 JUL 2025,1093,100-metres,sprints,female,u18

@@ -284,7 +284,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 264,11.22,+1.8,Serena COLE,26 JUN 2004,JAM,1h3,"National Stadium, Kingston (JAM)",10 MAR 2023,1152,100-metres,sprints,female,u20
 264,11.22,+0.5,Thieanna Lee TERRELONGE,17 OCT 2007,JAM,1,"National Stadium, Kingston (JAM)",20 MAR 2024,1152,100-metres,sprints,female,u20
 264,11.22,+0.3,Thieanna Lee TERRELONGE,17 OCT 2007,JAM,2f1,"National Stadium, Kingston (JAM)",08 JUN 2024,1152,100-metres,sprints,female,u20
-264,11.22,-0.1,Kelly Ann Maevane DOUALLA EDIMO,20 NOV 2009,ITA,1f1,"Ratinan Stadion, Tampere (FIN)",08 AUG 2025,1152,100-metres,sprints,female,u20
+264,11.22,-0.1,Kelly Ann Maevane DOUALLA EDIMO,20 NOV 2009,ITA,1,"Ratinan Stadion, Tampere (FIN)",08 AUG 2025,1152,100-metres,sprints,female,u20
 287,11.23,-0.4,Katrin KRABBE,22 NOV 1969,GDR,2,"Laurentian University Stadium, Sudbury (CAN)",28 JUL 1988,1152,100-metres,sprints,female,u20
 287,11.23,0.0,Nicole MITCHELL,05 JUN 1974,JAM,2qf1,"Gottlieb-Daimler Stadion, Stuttgart (GER)",15 AUG 1993,1150,100-metres,sprints,female,u20
 287,11.23,+1.0,Tezdzhan NAIMOVA,01 MAY 1987,BUL,1,Sofia (BUL),10 JUN 2006,1150,100-metres,sprints,female,u20
@@ -1310,7 +1310,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 1217,11.41,0.0,Naija SIZEMORE,,USA,2h1,"Hayward Field, Eugene, OR (USA)",20 JUN 2025,1112,100-metres,sprints,female,u20
 1217,11.41,-1.0,Xenia BURI,09 JAN 2008,SUI,3,"Centre sportif Bout-du-Monde, Genève (SUI)",21 JUN 2025,1118,100-metres,sprints,female,u20
 1217,11.41,+0.8,Shanoya Mikalia DOUGLAS,11 SEP 2007,JAM,5sf2,"National Stadium, Kingston (JAM)",27 JUN 2025,1112,100-metres,sprints,female,u20
-1217,11.41,-0.1,Mabel AKANDE,05 SEP 2006,GBR,2f1,"Ratinan Stadion, Tampere (FIN)",08 AUG 2025,1112,100-metres,sprints,female,u20
+1217,11.41,-0.1,Mabel AKANDE,05 SEP 2006,GBR,2,"Ratinan Stadion, Tampere (FIN)",08 AUG 2025,1112,100-metres,sprints,female,u20
 1313,11.42,+2.0,Sonia VIGATI,30 JUN 1970,ITA,1f2,"Stadio Adriatico, Pescara (ITA)",19 JUL 1989,1110,100-metres,sprints,female,u20
 1313,11.42,+1.1,Wang JING,16 JAN 1975,CHN,2,Shijiazhuang (CHN),24 APR 1992,1110,100-metres,sprints,female,u20
 1313,11.42,+2.0,K.V. Damayanthi DARSHA,13 DEC 1975,SRI,1,Jakarta (INA),17 SEP 1994,1110,100-metres,sprints,female,u20
@@ -2410,7 +2410,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 2263,11.50,+1.2,Serafina KEMPF,22 DEC 2006,GER,3h1,"Universitätsstadion Am Biopark, Regensburg (GER)",14 JUN 2025,1093,100-metres,sprints,female,u20
 2263,11.50,+1.0,Wiktoria GAJOSZ,06 JUL 2006,POL,2f1,"Stadion OSiR, Wloclawek (POL)",25 JUL 2025,1093,100-metres,sprints,female,u20
 2263,11.50,+1.4,Hakelly DE SOUZA,31 OCT 2008,BRA,2sf1,"Centro de Treinamento Paralímpico Brasileiro, São Paulo (BRA)",31 JUL 2025,1093,100-metres,sprints,female,u20
-2263,11.50,+1.8,Tejiri UGOH,,NGR,1h6,"MKO Abiola International Stadium Stadium, Abeokuta (NGR)",31 JUL 2025,1093,100-metres,sprints,female,u20
+2263,11.50,+1.8,Tejiri Praise UGOH,05 APR 2010,NGR,1h6,"MKO Abiola International Stadium Stadium, Abeokuta (NGR)",31 JUL 2025,1093,100-metres,sprints,female,u20
 2263,11.50,-0.3,Brianna SELBY,03 JAN 2006,USA,7sf2,"Hayward Field, Eugene, OR (USA)",01 AUG 2025,1094,100-metres,sprints,female,u20
 2263,11.50,+1.1,Alexxe HENRY,20 JUL 2007,TTO,3h1,"Hasely Crawford Stadium, Port-of-Spain (TTO)",02 AUG 2025,1093,100-metres,sprints,female,u20
 2263,11.50,+0.7,Uliana STEPANIUK,02 OCT 2007,UKR,1sf3,"Ratinan Stadion, Tampere (FIN)",07 AUG 2025,1093,100-metres,sprints,female,u20

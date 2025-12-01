@@ -87,7 +87,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 81,13.27,-1.2,Sasha ZHOYA,25 JUN 2002,FRA,1,"Estadio Vallehermoso, Madrid (ESP)",04 OCT 2020,,110m-hurdles-990cm,hurdles,male,u20
 81,13.27,+0.2,Malik MIXON,22 AUG 2003,USA,2,"Pascual Guerrero Stadium, Cali (COL)",03 AUG 2022,,110m-hurdles-990cm,hurdles,male,u20
 81,13.27,+1.7,Mason DOSSETT,,USA,1,"Mike A. Myers Stadium, Austin, TX (USA)",30 MAR 2024,,110m-hurdles-990cm,hurdles,male,u20
-81,13.27,+0.6,Matteo TOGNI,14 FEB 2006,ITA,1f1,"Ratinan Stadion, Tampere (FIN)",10 AUG 2025,,110m-hurdles-990cm,hurdles,male,u20
+81,13.27,+0.6,Matteo TOGNI,14 FEB 2006,ITA,1,"Ratinan Stadion, Tampere (FIN)",10 AUG 2025,,110m-hurdles-990cm,hurdles,male,u20
 90,13.28,+0.8,Yordan O'FARRILL,09 FEB 1993,CUB,1sf2,"Estadio Olímpico, Barcelona (ESP)",11 JUL 2012,,110m-hurdles-990cm,hurdles,male,u20
 90,13.28,-0.8,Akeem CARGILL,18 APR 2000,JAM,2,Kingston (JAM),30 MAR 2019,,110m-hurdles-990cm,hurdles,male,u20
 90,13.28,-1.3,Sasha ZHOYA,25 JUN 2002,FRA,1,"Stade Delort, Marseille (FRA)",03 SEP 2020,,110m-hurdles-990cm,hurdles,male,u20
@@ -128,7 +128,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 118,13.31,+0.3,Ja'Shaun LLOYD,19 MAR 2007,USA,1,"Hayward Field, Eugene, OR (USA)",21 JUN 2025,,110m-hurdles-990cm,hurdles,male,u20
 118,13.31,+0.7,Matyáš ZACH,30 SEP 2006,CZE,1,"Bodosi Mihály Atlétikai Pálya, Kaposvár (HUN)",19 JUL 2025,,110m-hurdles-990cm,hurdles,male,u20
 118,13.31,+1.8,Noah HANSON,12 JAN 2006,GBR,1,"Alexander Stadium, Birmingham (GBR)",27 JUL 2025,,110m-hurdles-990cm,hurdles,male,u20
-118,13.31,+0.6,Hristiyan KASABOV,22 NOV 2007,BUL,2f1,"Ratinan Stadion, Tampere (FIN)",10 AUG 2025,,110m-hurdles-990cm,hurdles,male,u20
+118,13.31,+0.6,Hristiyan KASABOV,22 NOV 2007,BUL,2,"Ratinan Stadion, Tampere (FIN)",10 AUG 2025,,110m-hurdles-990cm,hurdles,male,u20
 118,13.31,0.0,Koki TAKAJO,22 JUL 2008,JPN,1f1,"Prefectural Stadium, Ise (JPN)",18 OCT 2025,,110m-hurdles-990cm,hurdles,male,u20
 132,13.32,-0.3,Ricardo MOODY,24 SEP 1980,USA,1,"Raleigh, NC (USA)",12 JUN 1999,,110m-hurdles-990cm,hurdles,male,u20
 132,13.32,+1.4,Konstantin SHABANOV,17 NOV 1989,RUS,1,Cheboksary (RUS),17 JUN 2008,,110m-hurdles-990cm,hurdles,male,u20
@@ -160,7 +160,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 149,13.33,+0.2,Jayden SMITH,29 MAY 2003,USA,1h1,"Hayward Field, Eugene, OR (USA)",24 JUN 2022,,110m-hurdles-990cm,hurdles,male,u20
 149,13.33,-0.6,Yuanjiang CHEN,27 JAN 2006,CHN,1h2,Taizhou (CHN),23 JUN 2025,,110m-hurdles-990cm,hurdles,male,u20
 149,13.33,+1.5,Noah HANSON,12 JAN 2006,GBR,2f1,"Michael-Hoffmann-Stadion, Mannheim (GER)",28 JUN 2025,,110m-hurdles-990cm,hurdles,male,u20
-149,13.33,+0.6,Matyáš ZACH,30 SEP 2006,CZE,3f1,"Ratinan Stadion, Tampere (FIN)",10 AUG 2025,,110m-hurdles-990cm,hurdles,male,u20
+149,13.33,+0.6,Matyáš ZACH,30 SEP 2006,CZE,3,"Ratinan Stadion, Tampere (FIN)",10 AUG 2025,,110m-hurdles-990cm,hurdles,male,u20
 163,13.34,0.0,Terrence TRAMMELL,23 NOV 1978,USA,1,"Jefferson, GA (USA)",16 MAY 1996,,110m-hurdles-990cm,hurdles,male,u20
 163,13.34,-0.6,Cory POOLE,29 JUL 1999,USA,1,"Bloomington, IN (USA)",15 JUN 2018,,110m-hurdles-990cm,hurdles,male,u20
 163,13.34,+1.8,Enrique LLOPIS,15 OCT 2000,ESP,2f1,Mannheim (GER),29 JUN 2019,,110m-hurdles-990cm,hurdles,male,u20
@@ -177,7 +177,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 171,13.35,+0.1,Vashaun VASCIANNA,29 OCT 2002,JAM,1sf1,"Moi International Sports Centre, Kasarani, Nairobi (KEN)",20 AUG 2021,,110m-hurdles-990cm,hurdles,male,u20
 171,13.35,+0.2,Daniel WRIGHT,31 JUL 2006,JAM,1,"National Stadium, Kingston (JAM)",17 FEB 2024,,110m-hurdles-990cm,hurdles,male,u20
 171,13.35,+0.3,Jamir BROWN,,USA,3,"Hayward Field, Eugene, OR (USA)",21 JUN 2025,,110m-hurdles-990cm,hurdles,male,u20
-171,13.35,+0.6,Toby WRIGHT,12 JAN 2007,GBR,4f1,"Ratinan Stadion, Tampere (FIN)",10 AUG 2025,,110m-hurdles-990cm,hurdles,male,u20
+171,13.35,+0.6,Toby WRIGHT,12 JAN 2007,GBR,4,"Ratinan Stadion, Tampere (FIN)",10 AUG 2025,,110m-hurdles-990cm,hurdles,male,u20
 180,13.36,+0.9,Thomas BLASCHEK,05 APR 1981,GER,1,Dresden (GER),15 JUL 2000,,110m-hurdles-990cm,hurdles,male,u20
 180,13.36,+1.5,Artur NOGA,02 MAY 1988,POL,1,"FBK Stadium, Hengelo (NED)",22 JUL 2007,,110m-hurdles-990cm,hurdles,male,u20
 180,13.36,+0.8,Jack MEREDITH,14 AUG 1992,GBR,1f2,Loughborough (GBR),22 MAY 2010,,110m-hurdles-990cm,hurdles,male,u20
@@ -335,7 +335,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 308,13.42,+1.0,Theo PEDRE,04 MAY 2005,FRA,2h4,"Michael-Hoffmann-Stadion, Mannheim (GER)",22 JUN 2024,,110m-hurdles-990cm,hurdles,male,u20
 308,13.42,+1.0,Koray UYGUN,03 JAN 2008,TUR,1h2,"Atatürk Stadyumu, Izmir (TUR)",14 JUN 2025,,110m-hurdles-990cm,hurdles,male,u20
 308,13.42,+1.6,Andrew JONES,,USA,1,"Savannah State University Ted Wright Stadium, Savannah, GA (USA)",27 JUL 2025,,110m-hurdles-990cm,hurdles,male,u20
-308,13.42,+0.6,Even Elias GRANNES PEDERSEN,03 APR 2006,NOR,5f1,"Ratinan Stadion, Tampere (FIN)",10 AUG 2025,,110m-hurdles-990cm,hurdles,male,u20
+308,13.42,+0.6,Even Elias GRANNES PEDERSEN,03 APR 2006,NOR,5,"Ratinan Stadion, Tampere (FIN)",10 AUG 2025,,110m-hurdles-990cm,hurdles,male,u20
 338,13.43,0.0,Danyne BROWN,14 APR 1981,USA,1,"South Plainfield, NJ (USA)",29 MAY 1999,,110m-hurdles-990cm,hurdles,male,u20
 338,13.43,-1.4,Artur NOGA,02 MAY 1988,POL,1sf2,"Chaoyang Sport Center, Beijing (CHN)",19 AUG 2006,,110m-hurdles-990cm,hurdles,male,u20
 338,13.43,+0.7,Artur NOGA,02 MAY 1988,POL,1,Biala Podlaska (POL),28 JUN 2007,,110m-hurdles-990cm,hurdles,male,u20
@@ -1074,3 +1074,4 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 1016,13.60,+0.2,Andrew JONES,,USA,1h10,"Savannah State University Ted Wright Stadium, Savannah, GA (USA)",26 JUL 2025,,110m-hurdles-990cm,hurdles,male,u20
 1016,13.60,+1.6,Sutton FLINT,,USA,3,"Savannah State University Ted Wright Stadium, Savannah, GA (USA)",27 JUL 2025,,110m-hurdles-990cm,hurdles,male,u20
 1016,13.60,-1.7,Yander L. HERRERA,04 NOV 2006,CUB,1,"Estadio Panamericano, La Habana (CUB)",02 AUG 2025,,110m-hurdles-990cm,hurdles,male,u20
+1016,13.60,-1.2,Yi-Syuan CHEN,12 OCT 2007,TPE,1,"Taipei Municipal Stadium, Taipei City (TPE)",05 NOV 2025,,110m-hurdles-990cm,hurdles,male,u20

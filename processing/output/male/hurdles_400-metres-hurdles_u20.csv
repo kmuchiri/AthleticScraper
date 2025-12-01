@@ -35,7 +35,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 34,48.77,,Kerron CLEMENT,31 OCT 1985,TTO,1,Oxford (GBR),16 MAY 2004,1192,400-metres-hurdles,hurdles,male,u20
 34,48.77,,Jehue GORDON,15 DEC 1991,TTO,5sf1,"Olympiastadion, Berlin (GER)",16 AUG 2009,1192,400-metres-hurdles,hurdles,male,u20
 36,48.78,,Syota FUCHIGAMI,10 OCT 2005,JPN,1sf2,"Todoroki Stadium, Kawasaki (JPN)",21 SEP 2024,1191,400-metres-hurdles,hurdles,male,u20
-36,48.78,,Michal RADA,25 MAY 2007,CZE,1f1,"Ratinan Stadion, Tampere (FIN)",09 AUG 2025,1191,400-metres-hurdles,hurdles,male,u20
+36,48.78,,Michal RADA,25 MAY 2007,CZE,1,"Ratinan Stadion, Tampere (FIN)",09 AUG 2025,1191,400-metres-hurdles,hurdles,male,u20
 38,48.79,,Kenneth FERGUSON,22 MAR 1984,USA,1,"Knoxville, TN (USA)",18 MAY 2003,1191,400-metres-hurdles,hurdles,male,u20
 39,48.81,,Danny HARRIS,07 SEP 1965,USA,1,"Eugene, OR (USA)",01 JUN 1984,1190,400-metres-hurdles,hurdles,male,u20
 39,48.81,,Jaheel HYDE,02 FEB 1997,JAM,2,Kingston (JAM),01 JUL 2016,1190,400-metres-hurdles,hurdles,male,u20
@@ -192,7 +192,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 190,49.66,,Jehue GORDON,15 DEC 1991,TTO,4,"Olympiastadion, Stockholm (SWE)",06 AUG 2010,1147,400-metres-hurdles,hurdles,male,u20
 190,49.66,,Zhiqiang FENG,14 APR 1998,CHN,1,Tianjin (CHN),04 SEP 2017,1147,400-metres-hurdles,hurdles,male,u20
 190,49.66,,Alison DOS SANTOS,03 JUN 2000,BRA,2h2,"Khalifa International Stadium, Doha (QAT)",27 SEP 2019,1147,400-metres-hurdles,hurdles,male,u20
-190,49.66,,Iker MORENO,07 AUG 2006,ESP,2f1,"Ratinan Stadion, Tampere (FIN)",09 AUG 2025,1147,400-metres-hurdles,hurdles,male,u20
+190,49.66,,Iker MORENO,07 AUG 2006,ESP,2,"Ratinan Stadion, Tampere (FIN)",09 AUG 2025,1147,400-metres-hurdles,hurdles,male,u20
 195,49.67,,Chris CARTER,01 APR 1987,USA,1,"Provo, UT (USA)",13 MAY 2006,1146,400-metres-hurdles,hurdles,male,u20
 195,49.67,,William WYNNE,30 JAN 1990,USA,1f1,"Gainesville, FL (USA)",03 APR 2009,1146,400-metres-hurdles,hurdles,male,u20
 195,49.67,,James SMITH II,22 MAY 2000,USA,3sf3,"Austin, TX (USA)",05 JUN 2019,1146,400-metres-hurdles,hurdles,male,u20

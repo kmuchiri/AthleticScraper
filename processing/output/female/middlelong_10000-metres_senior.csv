@@ -1006,7 +1006,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 1005,31:34.17,,Inês MONTEIRO,18 MAY 1980,POR,1,Ribeira Brava (POR),06 JUN 2009,1162,10000-metres,middlelong,female,senior
 1005,31:34.17,,Dulce FÉLIX,23 OCT 1982,POR,2,Huelva (ESP),11 APR 2015,1162,10000-metres,middlelong,female,senior
 1007,31:34.26,,Olivera JEVTIĆ,24 JUL 1977,YUG,4,"Népstadion, Budapest (HUN)",19 AUG 1998,1162,10000-metres,middlelong,female,senior
-1008,31:34.34,,Joy NAUKOT,,KEN,3,"Hayward Field, Eugene, OR (USA)",12 JUN 2025,1162,10000-metres,middlelong,female,senior
+1008,31:34.34,,Joy NAUKOT,09 JUL 2003,KEN,3,"Hayward Field, Eugene, OR (USA)",12 JUN 2025,1162,10000-metres,middlelong,female,senior
 1009,31:34.35,,Kayo SUGIHARA,24 FEB 1983,JPN,6f1,"Palo Alto, CA (USA)",01 MAY 2011,1162,10000-metres,middlelong,female,senior
 1010,31:34.37,,Kate O'NEILL,29 JUL 1980,USA,3,"Palo Alto, CA (USA)",30 APR 2004,1162,10000-metres,middlelong,female,senior
 1011,31:34.39,,Mikuni YADA,29 OCT 1999,JPN,5,"Yanmar Stadium Nagai, Osaka (JPN)",04 DEC 2020,1162,10000-metres,middlelong,female,senior
@@ -2788,657 +2788,660 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 2787,32:11.40,,Noriko MATSUOKA,02 MAY 1979,JPN,9,Utrecht (NED),17 JUN 2005,1129,10000-metres,middlelong,female,senior
 2787,32:11.40,,Rina YAMAZAKI,06 MAY 1988,JPN,5,Nagoya (JPN),26 JUN 2015,1129,10000-metres,middlelong,female,senior
 2789,32:11.42,,Sarah INGLIS,28 AUG 1991,GBR,,Burnaby (CAN),13 JUN 2019,1129,10000-metres,middlelong,female,senior
-2790,32:11.48,,Maggie MONTOYA,02 MAY 1995,USA,1,"Los Angeles, CA (USA)",29 AUG 2020,1129,10000-metres,middlelong,female,senior
-2791,32:11.49,,Marleen RENDERS,24 DEC 1968,BEL,13h1,"Olympic Stadium, Seoul (KOR)",26 SEP 1988,1129,10000-metres,middlelong,female,senior
-2792,32:11.52,,Galina ALEKSANDROVA,15 OCT 1975,RUS,11,"Olympiastadion, München (GER)",06 AUG 2002,1129,10000-metres,middlelong,female,senior
-2793,32:11.53,,Adriana FERNÁNDEZ MIRANDA,04 APR 1971,MEX,2,Burnaby (CAN),03 JUN 2000,1129,10000-metres,middlelong,female,senior
-2793,32:11.53,,Yuka HORI,13 JUN 1996,JPN,4f2,Osaka (JPN),21 SEP 2018,1129,10000-metres,middlelong,female,senior
-2795,32:11.60,,Dominique SCOTT,24 JUN 1992,RSA,5f1,"Palo Alto, CA (USA)",03 APR 2015,1129,10000-metres,middlelong,female,senior
-2796,32:11.61,,Nell ROJAS,27 NOV 1987,USA,16,"Irvine, CA (USA)",14 MAY 2021,1129,10000-metres,middlelong,female,senior
-2796,32:11.61,,Molly GRABILL,31 AUG 1992,USA,17,"Irvine, CA (USA)",14 MAY 2021,1129,10000-metres,middlelong,female,senior
-2798,32:11.62,,Päivi TIKKANEN,19 JAN 1960,FIN,6,Oslo (NOR),02 JUL 1988,1129,10000-metres,middlelong,female,senior
-2799,32:11.63,,Hiromi MASUDA,18 JUL 1976,JPN,8h2,"Olympic Stadium, Athina (GRE)",02 AUG 1997,1129,10000-metres,middlelong,female,senior
-2800,32:11.64,,Hiromi OMINAMI,15 NOV 1975,JPN,7,Kobe (JPN),23 APR 2000,1129,10000-metres,middlelong,female,senior
-2800,32:11.64,,Megumi TANAKA-OSHIMA,04 SEP 1975,JPN,1,Shizuoka (JPN),03 MAY 2006,1129,10000-metres,middlelong,female,senior
-2800,32:11.64,,Pauline KAMULU,30 DEC 1994,KEN,2,"Ishin Me-Life Stadium, Yamaguchi (JPN)",21 SEP 2024,1129,10000-metres,middlelong,female,senior
-2803,32:11.65,,Olivia PRATT,21 JAN 1994,USA,19,"Parliament Hill Fields Athletics Track, London (GBR)",18 MAY 2024,1129,10000-metres,middlelong,female,senior
-2804,32:11.66,,Yuka SUZUKI,14 SEP 1999,JPN,15,"Yanmar Stadium Nagai, Osaka (JPN)",04 DEC 2020,1129,10000-metres,middlelong,female,senior
-2805,32:11.67,,Veronica INGLESE,22 NOV 1990,ITA,30,"Estádio Olímpico, Rio de Janeiro (BRA)",12 AUG 2016,1129,10000-metres,middlelong,female,senior
-2805,32:11.67,,Trihas GEBRE,29 APR 1990,ESP,1,Huelva (ESP),08 APR 2017,1129,10000-metres,middlelong,female,senior
-2807,32:11.68,,Felista WANJUGU,18 FEB 1990,KEN,1,Kobe (JPN),24 APR 2016,1129,10000-metres,middlelong,female,senior
-2808,32:11.72,,Lisa UHL,31 AUG 1987,USA,2,"Drake Stadium, Des Moines, IA (USA)",24 JUN 2010,1129,10000-metres,middlelong,female,senior
-2808,32:11.72,,Mekdes WOLDU,20 OCT 1992,FRA,8f1,"Stade Complexe Sportif Jean-Paul Chasseboeuf, Pacé (FRA)",28 MAY 2022,1129,10000-metres,middlelong,female,senior
-2810,32:11.77,,Bronte OATES,23 AUG 2004,AUS,5,"Lohrheidestadion, Wattenscheid, Bochum (GER)",21 JUL 2025,1129,10000-metres,middlelong,female,senior
-2811,32:11.79,,Carol MONTGOMERY,09 DEC 1966,CAN,2,"Walnut, CA (USA)",14 APR 2000,1129,10000-metres,middlelong,female,senior
-2812,32:11.80,,Charlotte TAYLOR,17 JAN 1994,GBR,4f1,"Palo Alto, CA (USA)",31 MAR 2017,1129,10000-metres,middlelong,female,senior
-2813,32:11.81,,Dorcas WASIKE,,KEN,2,"Eugene, OR (USA)",07 JUN 2018,1129,10000-metres,middlelong,female,senior
-2814,32:11.82,,Yuko MIZUGUCHI,24 MAY 1985,JPN,7f2,Kumagaya (JPN),20 SEP 2013,1129,10000-metres,middlelong,female,senior
-2815,32:11.83,,Momoka KAWAGUCHI,28 JUN 1998,JPN,4,"National Stadium, Tokyo (JPN)",07 MAY 2022,1129,10000-metres,middlelong,female,senior
-2816,32:11.84,,Harumi HIROYAMA-SUZUKI,02 SEP 1968,JPN,8,Tokyo (JPN),10 JUN 2001,1129,10000-metres,middlelong,female,senior
-2816,32:11.84,,Kate AVERY,10 OCT 1991,GBR,5,Parliament Hill (GBR),21 MAY 2016,1129,10000-metres,middlelong,female,senior
-2818,32:11.85,,Yasuyo IWAMOTO,08 SEP 1976,JPN,13,Oita (JPN),01 OCT 2006,1129,10000-metres,middlelong,female,senior
-2819,32:11.89,,Genevieve GREGSON,04 AUG 1989,AUS,9,"FBK Stadium, Hengelo (NED)",06 JUN 2021,1129,10000-metres,middlelong,female,senior
-2820,32:11.90,,Jip VASTENBURG,21 MAR 1994,NED,1f1,"Palo Alto, CA (USA)",04 APR 2014,1129,10000-metres,middlelong,female,senior
-2821,32:11.92,,Marla RUNYAN,04 JAN 1969,USA,1,"Eugene, OR (USA)",21 APR 2006,1129,10000-metres,middlelong,female,senior
-2821,32:11.92,,Sandrafelis Chebet TUEI,20 JAN 1998,KEN,10,Gold Coast (AUS),09 APR 2018,1129,10000-metres,middlelong,female,senior
-2821,32:11.92,,Samantha BLUSKE,17 JUN 1991,USA,3f1,"JSerra Catholic HS, San Juan Capistrano, CA (USA)",05 DEC 2020,1129,10000-metres,middlelong,female,senior
-2824,32:11.93,,Jessica WATYCHOWICZ,27 FEB 1991,USA,4f1,"JSerra Catholic HS, San Juan Capistrano, CA (USA)",05 DEC 2020,1129,10000-metres,middlelong,female,senior
-2825,32:11.94,,Blake PHILLIPS-RUSSELL,24 JUL 1975,USA,7,"Palo Alto, CA (USA)",02 MAY 2003,1129,10000-metres,middlelong,female,senior
-2826,32:11.95,,Liz MCCOLGAN,24 MAY 1964,GBR,1h2,"Olympic Stadium, Seoul (KOR)",26 SEP 1988,1129,10000-metres,middlelong,female,senior
-2826,32:11.95,,Sabrina MOCKENHAUPT,06 DEC 1980,GER,1,München (GER),17 MAY 2003,1129,10000-metres,middlelong,female,senior
-2828,32:11.97,,Pauline Chemning KORIKWIANG,01 MAR 1988,KEN,6,"Meteor, Zhukovskiy (RUS)",03 JUL 2011,1129,10000-metres,middlelong,female,senior
-2829,32:12.01,,Kumi TANABE,02 APR 1981,JPN,12,Kanazawa (JPN),29 SEP 2001,1128,10000-metres,middlelong,female,senior
-2830,32:12.02,,Kellyn TAYLOR,22 JUL 1986,USA,6,"Hayward Field, Eugene, OR (USA)",29 JUN 2024,1128,10000-metres,middlelong,female,senior
-2831,32:12.06,,Elly HENES,13 OCT 1998,USA,16f2,"JSerra Catholic HS, San Juan Capistrano, CA (USA)",05 DEC 2020,1128,10000-metres,middlelong,female,senior
-2832,32:12.07,,Nicole LÉVÉQUE,27 JAN 1951,FRA,11,"Olympiastadion, Helsinki (FIN)",13 AUG 1994,1128,10000-metres,middlelong,female,senior
-2833,32:12.1h,,Alice Jemeli TIMBILILI,01 FEB 1983,KEN,1,Nairobi (KEN),25 JUN 2004,1128,10000-metres,middlelong,female,senior
-2833,32:12.10,,Remi NAKASATO,24 JUN 1988,JPN,2,Fugokawa (JPN),17 JUN 2010,1128,10000-metres,middlelong,female,senior
-2835,32:12.11,,Yuka ANDO,16 MAR 1994,JPN,5f2,"Nagaragawa Stadium, Gifu (JPN)",23 SEP 2022,1128,10000-metres,middlelong,female,senior
-2836,32:12.12,,Gwen JORGENSEN,25 APR 1986,USA,17f2,"JSerra Catholic HS, San Juan Capistrano, CA (USA)",05 DEC 2020,1128,10000-metres,middlelong,female,senior
-2837,32:12.13,,Roberta BRUNET,20 MAY 1965,ITA,2,Pietrasanta (ITA),05 MAY 1996,1128,10000-metres,middlelong,female,senior
-2838,32:12.14,,Ryoko KIZAKI,21 JUN 1985,JPN,1,Shibetsu (JPN),08 JUN 2008,1128,10000-metres,middlelong,female,senior
-2839,32:12.19,,Taylor ROE,13 OCT 2000,USA,18,"National Stadium, Tokyo (JPN)",13 SEP 2025,1128,10000-metres,middlelong,female,senior
-2840,32:12.2h,,Yelena TOLSTOGUZOVA,17 JUN 1962,URS,2,Kiev (URS),24 JUN 1988,1128,10000-metres,middlelong,female,senior
-2841,32:12.24,,Rachel CLIFF,01 APR 1988,CAN,2,Burnaby (CAN),13 JUN 2019,1128,10000-metres,middlelong,female,senior
-2841,32:12.24,,Yuka ANDO,16 MAR 1994,JPN,5,"Athletic Track, Abashiri (JPN)",15 JUL 2020,1128,10000-metres,middlelong,female,senior
-2841,32:12.24,,Yuka ANDO,16 MAR 1994,JPN,2,"Yanmar Stadium Nagai, Osaka (JPN)",25 SEP 2020,1128,10000-metres,middlelong,female,senior
-2844,32:12.25,,Julia VAQUERO,18 SEP 1970,ESP,9h2,"Olympic Stadium, Athina (GRE)",02 AUG 1997,1128,10000-metres,middlelong,female,senior
-2844,32:12.25,,Mizuki MATSUDA,31 MAY 1995,JPN,7f1,Abashiri (JPN),16 JUL 2015,1128,10000-metres,middlelong,female,senior
-2846,32:12.27,,Lyudmila MATVEYEVA,01 FEB 1957,URS,12,"Olympic Stadium, Seoul (KOR)",30 SEP 1988,1128,10000-metres,middlelong,female,senior
-2846,32:12.27,,Mao KIYOTA,12 SEP 1993,JPN,6,Kobe (JPN),20 APR 2014,1128,10000-metres,middlelong,female,senior
-2848,32:12.28,,Fiona O'KEEFFE,24 MAY 1998,USA,5f1,"JSerra Catholic HS, San Juan Capistrano, CA (USA)",05 DEC 2020,1128,10000-metres,middlelong,female,senior
-2849,32:12.3h,,Lucy Kabuu WANGUI,24 MAR 1984,KEN,2,Nairobi (KEN),25 JUN 2004,1128,10000-metres,middlelong,female,senior
-2849,32:12.30,,Noriko MATSUOKA,02 MAY 1979,JPN,18,Tokyo (JPN),02 JUN 2005,1128,10000-metres,middlelong,female,senior
-2849,32:12.30,,Elise CRANNY,09 MAY 1996,USA,1,"Hayward Field, Eugene, OR (USA)",06 JUL 2023,1128,10000-metres,middlelong,female,senior
-2852,32:12.31,,Harumi OKAMOTO,07 FEB 1998,JPN,4,"Prefectural Shizuoka Stadium, Fukuroi (JPN)",03 MAY 2021,1128,10000-metres,middlelong,female,senior
-2853,32:12.33,,Esther Wanjiru MAINA,27 MAR 1977,KEN,4,Kobe (JPN),26 APR 1998,1128,10000-metres,middlelong,female,senior
-2853,32:12.33,,Susanne PUMPER,01 SEP 1970,AUT,1,Salzburg (AUT),07 MAY 2005,1128,10000-metres,middlelong,female,senior
-2855,32:12.39,,Camille BUSCOMB,11 JUL 1990,NZL,10,"FBK Stadium, Hengelo (NED)",06 JUN 2021,1128,10000-metres,middlelong,female,senior
-2856,32:12.4h,,Irene Kwambai KIPCHUMBA,25 OCT 1978,KEN,3,Nairobi (KEN),25 JUN 2004,1128,10000-metres,middlelong,female,senior
-2857,32:12.45,,Zita ÁGOSTON,18 MAR 1965,HUN,4,Frankfurt (GER),30 JUN 1991,1128,10000-metres,middlelong,female,senior
-2858,32:12.47,,Breeda DENNEHY-WILLIS,02 FEB 1970,IRL,11,Villeneuve d'Ascq (FRA),17 JUN 2001,1128,10000-metres,middlelong,female,senior
-2858,32:12.47,,Deborah MAIER,17 AUG 1990,USA,12f1,"Palo Alto, CA (USA)",29 APR 2012,1128,10000-metres,middlelong,female,senior
-2860,32:12.50,,Hayley YELLING,03 JAN 1974,GBR,15,"Ullevi Stadium, Göteborg (SWE)",07 AUG 2006,1128,10000-metres,middlelong,female,senior
-2861,32:12.51,,Marleen RENDERS,24 DEC 1968,BEL,12,"Stadio Olimpico, Roma (ITA)",04 SEP 1987,1128,10000-metres,middlelong,female,senior
-2862,32:12.53,,Lidiya VASILEVSKAYA,01 APR 1973,RUS,1,Tula (RUS),10 JUL 1997,1128,10000-metres,middlelong,female,senior
-2862,32:12.53,,Ayumi HAGIWARA,01 JUN 1992,JPN,5f2,Osaka (JPN),21 SEP 2018,1128,10000-metres,middlelong,female,senior
-2864,32:12.54,,Sitora KHAMIDOVA,12 MAY 1989,UZB,4,Incheon (KOR),27 SEP 2014,1128,10000-metres,middlelong,female,senior
-2864,32:12.54,,Hanami SEKINE,26 FEB 1996,JPN,8f1,Abashiri (JPN),16 JUL 2015,1128,10000-metres,middlelong,female,senior
-2866,32:12.56,,Yasuko HASHIMOTO,12 AUG 1975,JPN,8,Kobe (JPN),23 APR 2000,1128,10000-metres,middlelong,female,senior
-2867,32:12.57,,Alice Jemeli TIMBILILI,01 FEB 1983,KEN,16,"Olympic Stadium, Athina (GRE)",27 AUG 2004,1128,10000-metres,middlelong,female,senior
-2868,32:12.6h,,Beatriz SANTIAGO SÁNCHEZ,28 OCT 1968,ESP,6,Gijón (ESP),12 AUG 2000,1128,10000-metres,middlelong,female,senior
-2869,32:12.61,,Caroline NYAGA,07 OCT 1993,KEN,1,"Cote d'Or National Sports Complex, St Pierre (MRI)",11 JUN 2022,1128,10000-metres,middlelong,female,senior
-2870,32:12.64,,Seika NISHIKAWA,17 JUL 1987,JPN,2,Fukagawa (JPN),25 JUN 2011,1128,10000-metres,middlelong,female,senior
-2871,32:12.66,,Maura VICECONTE,03 OCT 1967,ITA,12,"Olympiastadion, München (GER)",06 AUG 2002,1128,10000-metres,middlelong,female,senior
-2872,32:12.67,,Akane TAIRA,03 NOV 1982,JPN,13,Kobe (JPN),24 APR 2005,1128,10000-metres,middlelong,female,senior
-2873,32:12.7h,,Yingjie SUN,19 JAN 1979,CHN,1,Zhengzhou (CHN),17 OCT 1999,1128,10000-metres,middlelong,female,senior
-2873,32:12.70,,Alla KULYATINA,09 JUN 1990,RUS,1,Cheboksary (RUS),22 JUN 2016,1128,10000-metres,middlelong,female,senior
-2875,32:12.72,,Marleen RENDERS,24 DEC 1968,BEL,4,Oslo (NOR),04 JUL 1987,1128,10000-metres,middlelong,female,senior
-2875,32:12.72,,Federica DEL BUONO,12 DEC 1994,ITA,6f1,"Stade Complexe Sportif Jean-Paul Chasseboeuf, Pacé (FRA)",24 MAY 2025,1128,10000-metres,middlelong,female,senior
-2875,32:12.72,,Elisa PALMERO,10 JUL 1999,ITA,19,"National Stadium, Tokyo (JPN)",13 SEP 2025,1128,10000-metres,middlelong,female,senior
-2878,32:12.74,,Yoko MANABE,08 FEB 1979,JPN,13,Kanazawa (JPN),29 SEP 2001,1128,10000-metres,middlelong,female,senior
-2879,32:12.76,,Joyce Chepkemoi TELE,03 MAY 1995,KEN,2,"Nyayo National Stadium, Nairobi (KEN)",16 MAY 2021,1128,10000-metres,middlelong,female,senior
-2880,32:12.77,,Lieve SLEGERS,06 APR 1965,BEL,5,Oslo (NOR),04 JUL 1987,1128,10000-metres,middlelong,female,senior
-2880,32:12.77,,Susanna SULLIVAN,13 MAY 1990,USA,17,"Hayward Field, Eugene, OR (USA)",27 MAY 2022,1128,10000-metres,middlelong,female,senior
-2882,32:12.78,,Barbara MOORE,27 JUL 1957,NZL,2,Wellington (NZL),09 DEC 1989,1128,10000-metres,middlelong,female,senior
-2882,32:12.78,,Deshun ZHANG,21 FEB 1996,CHN,3,Jakarta (INA),25 AUG 2018,1128,10000-metres,middlelong,female,senior
-2884,32:12.82,,Lynn JENNINGS,01 JUL 1960,USA,12,"Ullevi Stadium, Göteborg (SWE)",09 AUG 1995,1128,10000-metres,middlelong,female,senior
-2885,32:12.87,,Lyudmila MATVEYEVA,01 FEB 1957,URS,2h2,"Olympic Stadium, Seoul (KOR)",26 SEP 1988,1128,10000-metres,middlelong,female,senior
-2886,32:12.88,,Haruko OKAMOTO,19 AUG 1974,JPN,6,Kobe (JPN),22 APR 2001,1128,10000-metres,middlelong,female,senior
-2886,32:12.88,,Hongxia WANG,13 JAN 1975,CHN,7,Kobe (JPN),22 APR 2001,1128,10000-metres,middlelong,female,senior
-2888,32:12.89,,Sayaka SATO,27 MAY 1994,JPN,2f2,"Yanmar Stadium Nagai, Osaka (JPN)",20 SEP 2019,1128,10000-metres,middlelong,female,senior
-2889,32:12.91,,Leah MALOT,07 JUN 1972,KEN,1,Shizuoka (JPN),03 MAY 2003,1128,10000-metres,middlelong,female,senior
-2890,32:12.93,,Nicole JEFFERSON-AISH,08 MAR 1976,USA,5,"Palo Alto, CA (USA)",03 MAY 2002,1128,10000-metres,middlelong,female,senior
-2891,32:12.95,,Kasumi NISHIHARA,01 MAR 1989,JPN,13,"National Stadium, Beijing (CHN)",24 AUG 2015,1128,10000-metres,middlelong,female,senior
-2892,32:12.96,,Yoshimi OZAKI,01 JUL 1981,JPN,4,Niigata (JPN),01 JUN 2008,1128,10000-metres,middlelong,female,senior
-2893,32:13.00,,Xiuting WANG,16 FEB 1965,CHN,3h2,"Olympic Stadium, Seoul (KOR)",26 SEP 1988,1128,10000-metres,middlelong,female,senior
-2894,32:13.01,,Jane OMORO,01 MAY 1972,KEN,3,Victoria (CAN),24 AUG 1994,1128,10000-metres,middlelong,female,senior
-2894,32:13.01,,Madoka NAKANO,14 AUG 1991,JPN,5,"National Stadium, Tokyo (JPN)",07 MAY 2022,1128,10000-metres,middlelong,female,senior
-2896,32:13.03,,Megumi TANAKA-OSHIMA,04 SEP 1975,JPN,10,Tottori (JPN),10 JUN 2000,1128,10000-metres,middlelong,female,senior
-2896,32:13.03,,Sara SLATTERY,02 OCT 1981,USA,3f2,"Palo Alto, CA (USA)",01 MAY 2016,1128,10000-metres,middlelong,female,senior
-2896,32:13.03,,Mikuni YADA,29 OCT 1999,JPN,6,"National Stadium, Tokyo (JPN)",07 MAY 2022,1128,10000-metres,middlelong,female,senior
-2899,32:13.04,,Noriko MATSUOKA,02 MAY 1979,JPN,5,Hiroshima (JPN),25 JUN 2009,1128,10000-metres,middlelong,female,senior
-2900,32:13.07,,Eri YAMAGUCHI,14 JAN 1973,JPN,5,Shizuoka (JPN),03 OCT 1999,1128,10000-metres,middlelong,female,senior
-2901,32:13.08,,Yekaterina TUNGUSKOVA,10 MAY 1988,UZB,1,Dushanbe (TJK),13 JUN 2016,1128,10000-metres,middlelong,female,senior
-2902,32:13.13,,Mercy CHELANGAT,11 JUL 1997,KEN,1,"Cushing Stadium, College Station, TX (USA)",13 MAY 2021,1128,10000-metres,middlelong,female,senior
-2903,32:13.15,,Souad AIT SALEM,06 JAN 1979,ALG,1,Mataró (ESP),23 JUL 2004,1127,10000-metres,middlelong,female,senior
-2904,32:13.17,,Marisol ROMERO ROSALES,26 JAN 1983,MEX,23f1,"Palo Alto, CA (USA)",01 MAY 2016,1127,10000-metres,middlelong,female,senior
-2905,32:13.18,,Jane Gakunyi WANJIKU,14 JUN 1979,KEN,2,Shizuoka (JPN),03 MAY 2003,1127,10000-metres,middlelong,female,senior
-2906,32:13.20,,Galina ALEKSANDROVA,15 OCT 1975,RUS,2,Cheboksary (RUS),11 JUL 2002,1127,10000-metres,middlelong,female,senior
-2907,32:13.21,,Reia IWADE,08 DEC 1994,JPN,6,Nagoya (JPN),26 JUN 2015,1127,10000-metres,middlelong,female,senior
-2907,32:13.21,,Sarah PAGANO,23 JUL 1991,USA,5,"Drake Stadium, Des Moines, IA (USA)",21 JUN 2018,1127,10000-metres,middlelong,female,senior
-2909,32:13.23,,Misaki KATO,15 JUN 1991,JPN,1,"Municipal Stadium, Miyoshi (JPN)",26 SEP 2020,1127,10000-metres,middlelong,female,senior
-2910,32:13.24,,Lucy Kabuu WANGUI,24 MAR 1984,KEN,3,Shizuoka (JPN),03 MAY 2003,1127,10000-metres,middlelong,female,senior
-2911,32:13.25,,Yoko MANABE,08 FEB 1979,JPN,5,Niigata (JPN),25 SEP 2004,1127,10000-metres,middlelong,female,senior
-2912,32:13.26,,Hiromi OMINAMI,15 NOV 1975,JPN,5,Kobe (JPN),26 APR 1998,1127,10000-metres,middlelong,female,senior
-2912,32:13.26,,Maggie MONTOYA,02 MAY 1995,USA,7,"Hayward Field, Eugene, OR (USA)",29 JUN 2024,1127,10000-metres,middlelong,female,senior
-2914,32:13.28,,Nataliya BERKUT,30 MAY 1975,UKR,1,Donetsk (UKR),10 JUN 2002,1127,10000-metres,middlelong,female,senior
-2914,32:13.28,,Emma BATES,08 JUL 1992,USA,18f1,"Palo Alto, CA (USA)",02 MAY 2015,1127,10000-metres,middlelong,female,senior
-2916,32:13.30,,Risa YOKOE,12 OCT 1994,JPN,1,Yokohama (JPN),19 DEC 2015,1127,10000-metres,middlelong,female,senior
-2917,32:13.34,,Rachel CLIFF,01 APR 1988,CAN,3,"Estadio Atlético de la VIDENA, Lima (PER)",06 AUG 2019,1127,10000-metres,middlelong,female,senior
-2918,32:13.37,,Sylvia MOSQUEDA,08 APR 1966,USA,5,"Seattle, WA (USA)",26 JUL 1990,1127,10000-metres,middlelong,female,senior
-2919,32:13.4h,,Alice Aprot NAWOWUNA,02 JAN 1994,KEN,1,Nairobi (KEN),13 MAY 2017,1127,10000-metres,middlelong,female,senior
-2920,32:13.44,,Yelena SEDOVA,01 MAR 1990,RUS,2,Cheboksary (RUS),22 JUN 2016,1127,10000-metres,middlelong,female,senior
-2921,32:13.45,,Annette SERGENT-PALLUY,17 NOV 1962,FRA,4h2,"Olympic Stadium, Seoul (KOR)",26 SEP 1988,1127,10000-metres,middlelong,female,senior
-2922,32:13.46,,Kazue OGOSHI,02 MAR 1981,JPN,1,Kushiro (JPN),16 JUN 2004,1127,10000-metres,middlelong,female,senior
-2923,32:13.5h,,Tegla LOROUPE,09 MAY 1973,KEN,1,Nairobi (KEN),22 JUL 2000,1127,10000-metres,middlelong,female,senior
-2923,32:13.50,,Philomena CHEYECH,05 JUL 1982,KEN,6,Kobe (JPN),27 APR 2008,1127,10000-metres,middlelong,female,senior
-2925,32:13.54,,Kellyn TAYLOR,22 JUL 1986,USA,1,"San Diego, CA (USA)",18 FEB 2019,1127,10000-metres,middlelong,female,senior
-2925,32:13.54,,Amy DAVIS,15 FEB 1997,USA,18f2,"JSerra Catholic HS, San Juan Capistrano, CA (USA)",05 DEC 2020,1127,10000-metres,middlelong,female,senior
-2927,32:13.55,,Akane YABUSHITA,06 JUN 1991,JPN,2,Yokohama (JPN),19 DEC 2015,1127,10000-metres,middlelong,female,senior
-2928,32:13.57,,Michi NUMATA,06 MAY 1989,JPN,7,Nagoya (JPN),26 JUN 2015,1127,10000-metres,middlelong,female,senior
-2929,32:13.58,,Kayoko FUKUSHI,25 MAR 1982,JPN,1,Osaka (JPN),29 JUN 2007,1127,10000-metres,middlelong,female,senior
-2930,32:13.60,,Mao KIYOTA,12 SEP 1993,JPN,5f1,Abashiri (JPN),06 JUL 2014,1127,10000-metres,middlelong,female,senior
-2931,32:13.62,,Ana DIAS,15 JAN 1974,POR,2,Lisboa (POR),24 MAR 2012,1127,10000-metres,middlelong,female,senior
-2932,32:13.64,,Sabrina MOCKENHAUPT,06 DEC 1980,GER,1,Pravets (BUL),08 JUN 2013,1127,10000-metres,middlelong,female,senior
-2932,32:13.64,,Chloe SCRIMGEOUR,11 AUG 2003,USA,1,"George J. Sherman Family Sports Complex, Storrs, CT (USA)",15 MAY 2025,1127,10000-metres,middlelong,female,senior
-2934,32:13.70,,Souad AIT SALEM,06 JAN 1979,ALG,10,Utrecht (NED),17 JUN 2005,1127,10000-metres,middlelong,female,senior
-2935,32:13.72,,Misaki KATO,15 JUN 1991,JPN,1,Kitakyushu (JPN),16 MAY 2015,1127,10000-metres,middlelong,female,senior
-2936,32:13.73,,Volha MAZURONAK,14 APR 1989,BLR,2f1,Minsk (BLR),10 JUN 2017,1127,10000-metres,middlelong,female,senior
-2937,32:13.74,,Salomé NYIRARUKUNDO,20 DEC 1997,RWA,11,Gold Coast (AUS),09 APR 2018,1127,10000-metres,middlelong,female,senior
-2938,32:13.77,,Annamaria KOSTARELLIS,12 AUG 1999,USA,4f1,"Cobb Track and Angell Field, Palo Alto, CA (USA)",31 MAR 2023,1127,10000-metres,middlelong,female,senior
-2939,32:13.78,,Joan NESBIT-MABE,20 JAN 1962,USA,2,"Philadelphia, PA (USA)",25 APR 1996,1127,10000-metres,middlelong,female,senior
-2939,32:13.78,,Maho SHIMIZU,07 MAY 1995,JPN,3,"Municipal Nishikyogoku Stadium, Kyoto (JPN)",17 JAN 2021,1127,10000-metres,middlelong,female,senior
-2941,32:13.79,,Viktoriya TRUSHENKO,19 JUL 1984,RUS,8,Kazan (RUS),17 JUL 2008,1127,10000-metres,middlelong,female,senior
-2941,32:13.79,,Yukari ABE,21 AUG 1989,JPN,1,Kobe (JPN),22 APR 2018,1127,10000-metres,middlelong,female,senior
-2943,32:13.81,,Kayoko FUKUSHI,25 MAR 1982,JPN,1,Marugame (JPN),15 MAY 2004,1127,10000-metres,middlelong,female,senior
-2944,32:13.85,,Charlotte TESKE,23 NOV 1949,FRG,1,Bremen (GER),24 JUN 1983,1127,10000-metres,middlelong,female,senior
-2944,32:13.85,,Maria Albertina DIAS,26 APR 1965,POR,5h2,"Olympic Stadium, Seoul (KOR)",26 SEP 1988,1127,10000-metres,middlelong,female,senior
-2946,32:13.87,,Honami MAEDA,17 JUL 1996,JPN,2f1,Fukagawa (JPN),11 JUL 2018,1127,10000-metres,middlelong,female,senior
-2947,32:13.89,,Yurika NAKAMURA,01 APR 1986,JPN,2,Kobe (JPN),26 APR 2009,1127,10000-metres,middlelong,female,senior
-2948,32:13.91,,Pauline KAMULU,30 DEC 1994,KEN,10,"Nyayo National Stadium, Nairobi (KEN)",22 AUG 2019,1127,10000-metres,middlelong,female,senior
-2949,32:13.96,,Chunxiu ZHOU,15 NOV 1978,CHN,2,Shanghai (CHN),14 SEP 2003,1127,10000-metres,middlelong,female,senior
-2949,32:13.96,,Sakiho TSUTSUI,19 JAN 1996,JPN,4,"Takebishi Stadium, Kyoto (JPN)",10 DEC 2021,1127,10000-metres,middlelong,female,senior
-2951,32:13.97,,Feliciana JEPKOSGEI,01 APR 2001,KEN,13,"Olympiastadion, Stockholm (SWE)",04 MAY 2021,1127,10000-metres,middlelong,female,senior
-2952,32:13.99,,Judi ST. HILAIRE,05 SEP 1959,USA,7h1,"Estadio Olímpico, Barcelona (ESP)",01 AUG 1992,1127,10000-metres,middlelong,female,senior
-2953,32:14.00,,Sally BARSOSIO,21 MAR 1978,KEN,17,"Olympic Stadium, Athina (GRE)",27 AUG 2004,1127,10000-metres,middlelong,female,senior
-2953,32:14.00,,Beatrice Chepkemoi MUTAI,19 APR 1987,KEN,4,Nairobi (KEN),10 JUL 2015,1127,10000-metres,middlelong,female,senior
-2955,32:14.01,,Natalie Anne HARVEY,19 JAN 1975,GBR,4,Watford (GBR),12 JUN 2004,1127,10000-metres,middlelong,female,senior
-2955,32:14.01,,Irina PERMITINA,03 FEB 1968,RUS,9,Kazan (RUS),17 JUL 2008,1127,10000-metres,middlelong,female,senior
-2957,32:14.02,,Liang YING,09 JUN 1977,CHN,1,Gifu (JPN),10 MAY 1998,1127,10000-metres,middlelong,female,senior
-2957,32:14.02,,Alina REH,23 MAY 1997,GER,8,"Olympiastadion, München (GER)",15 AUG 2022,1127,10000-metres,middlelong,female,senior
-2959,32:14.05,,Nan DAVIS,03 JUL 1962,USA,4,"Indianapolis, IN (USA)",22 JUL 1988,1127,10000-metres,middlelong,female,senior
-2959,32:14.05,,Nancy TINARI,13 JUN 1959,CAN,13,"Olympic Stadium, Seoul (KOR)",30 SEP 1988,1127,10000-metres,middlelong,female,senior
-2959,32:14.05,,Dominique SCOTT,24 JUN 1992,RSA,20,"National Stadium, Tokyo (JPN)",07 AUG 2021,1127,10000-metres,middlelong,female,senior
-2962,32:14.08,,Yumi OSAKI,10 MAY 1972,JPN,3,Kobe (JPN),25 APR 1993,1127,10000-metres,middlelong,female,senior
-2962,32:14.08,,Annette HAND-PETERS,31 MAY 1965,USA,10h2,"Olympic Stadium, Athina (GRE)",02 AUG 1997,1127,10000-metres,middlelong,female,senior
-2964,32:14.09,,Zahia DAHMANI,02 JUN 1972,FRA,6,Villeneuve d'Ascq (FRA),13 JUN 1999,1127,10000-metres,middlelong,female,senior
-2965,32:14.10,,Hiromi OMINAMI,15 NOV 1975,JPN,4f1,Yamagata (JPN),26 SEP 2008,1127,10000-metres,middlelong,female,senior
-2966,32:14.12,,Helena SAMPAIO,09 OCT 1973,POR,1,Pontevedra (ESP),14 JUN 1997,1127,10000-metres,middlelong,female,senior
-2967,32:14.14,,Limei JU,09 JUN 1978,CHN,6,Guangzhou (CHN),19 NOV 2001,1127,10000-metres,middlelong,female,senior
-2968,32:14.17,,Lieve SLEGERS,06 APR 1965,BEL,15,"Estadio Olímpico, Barcelona (ESP)",07 AUG 1992,1127,10000-metres,middlelong,female,senior
-2968,32:14.17,,Sarah LAHTI,18 FEB 1995,SWE,9,"Olympisch Stadion, Amsterdam (NED)",06 JUL 2016,1127,10000-metres,middlelong,female,senior
-2970,32:14.18,,Camelia Alina TECUŢĂ-GHERASIM,10 NOV 1971,ROU,1,Bucureşti (ROU),06 AUG 2000,1127,10000-metres,middlelong,female,senior
-2970,32:14.18,,Merima HASHIM,1981,ETH,2,"Palo Alto, CA (USA)",29 MAY 2005,1127,10000-metres,middlelong,female,senior
-2972,32:14.23,,Maya WEIGEL,,USA,6f1,"JSerra Catholic HS, San Juan Capistrano, CA (USA)",05 DEC 2020,1127,10000-metres,middlelong,female,senior
-2973,32:14.25,,Trihas GEBRE,29 APR 1990,ESP,1f1,Maia (POR),09 APR 2016,1127,10000-metres,middlelong,female,senior
-2973,32:14.25,,Shure DEMISE,21 JAN 1996,ETH,5,Durban (RSA),25 JUN 2016,1127,10000-metres,middlelong,female,senior
-2975,32:14.27,,Meaghan NELSON,12 FEB 1990,USA,13f1,"Palo Alto, CA (USA)",29 APR 2012,1127,10000-metres,middlelong,female,senior
-2975,32:14.27,,Ednah KURGAT,15 JUN 1991,USA,7,"Palo Alto, CA (USA)",29 MAR 2019,1127,10000-metres,middlelong,female,senior
-2977,32:14.31,,Mikuni YADA,29 OCT 1999,JPN,4f2,"Yanmar Stadium Nagai, Osaka (JPN)",07 DEC 2024,1126,10000-metres,middlelong,female,senior
-2978,32:14.34,,Domenika MAYER,09 OCT 1990,GER,1,"Stadion am Schwanenteich, Mittweida (GER)",06 MAY 2023,1126,10000-metres,middlelong,female,senior
-2979,32:14.35,,Aki FUJIKAWA,14 NOV 1978,JPN,3,Naruto (JPN),14 JUN 1998,1126,10000-metres,middlelong,female,senior
-2980,32:14.36,,Natalia CERCHES,21 FEB 1976,MDA,1,Minsk (BLR),08 JUL 2004,1126,10000-metres,middlelong,female,senior
-2980,32:14.36,,Karissa SCHWEIZER,04 MAY 1996,USA,1h,"Sacramento, CA (USA)",24 MAY 2018,1126,10000-metres,middlelong,female,senior
-2982,32:14.39,,Lyudmila PETROVA,07 OCT 1968,RUS,2,Tula (RUS),10 JUL 1997,1126,10000-metres,middlelong,female,senior
-2982,32:14.39,,Yasuko HASHIMOTO,12 AUG 1975,JPN,14,Kanazawa (JPN),29 SEP 2001,1126,10000-metres,middlelong,female,senior
-2982,32:14.39,,Tomoko ISHII,14 OCT 1983,JPN,19,Tokyo (JPN),02 JUN 2005,1126,10000-metres,middlelong,female,senior
-2985,32:14.40,,Kanayo MIYATA,14 FEB 1995,JPN,1,Yamaguchi (JPN),10 DEC 2016,1126,10000-metres,middlelong,female,senior
-2986,32:14.41,,Marielle HALL,28 JAN 1992,USA,5,"Drake Stadium, Des Moines, IA (USA)",25 JUL 2019,1126,10000-metres,middlelong,female,senior
-2987,32:14.42,,Tigist MOREDA,1968,ETH,8h1,"Estadio Olímpico, Barcelona (ESP)",01 AUG 1992,1126,10000-metres,middlelong,female,senior
-2987,32:14.42,,Stephanie BRUCE,14 JAN 1984,GBR,8f1,"Palo Alto, CA (USA)",01 APR 2016,1126,10000-metres,middlelong,female,senior
-2989,32:14.43,,Mai ITO,23 MAY 1984,JPN,3,Niigata (JPN),11 OCT 2010,1126,10000-metres,middlelong,female,senior
-2989,32:14.43,,Sayaka KUWAHARA,08 MAR 1993,JPN,3f2,"Palo Alto, CA (USA)",02 MAY 2015,1126,10000-metres,middlelong,female,senior
-2989,32:14.43,,Yelena NAGOVITSYNA,07 DEC 1982,RUS,3,Cheboksary (RUS),22 JUN 2016,1126,10000-metres,middlelong,female,senior
-2989,32:14.43,,Yelena SEDOVA,01 MAR 1990,RUS,1,Zhukovskiy (RUS),01 JUL 2017,1126,10000-metres,middlelong,female,senior
-2989,32:14.43,,Carolina ROBLES,04 DEC 1991,ESP,1,"Estadi Municipal La Bòbila, Gavá (ESP)",02 MAR 2024,1126,10000-metres,middlelong,female,senior
-2994,32:14.44,,Miho SHIMIZU,13 MAY 1990,JPN,6f1,Abashiri (JPN),06 JUL 2014,1126,10000-metres,middlelong,female,senior
-2994,32:14.44,,Wakana ITSUKI,07 APR 1994,JPN,4,"Athletic Track, Abashiri (JPN)",13 JUL 2022,1126,10000-metres,middlelong,female,senior
-2996,32:14.47,,Junko KATAOKA,13 JUN 1970,JPN,4,Mito (JPN),05 MAY 1997,1126,10000-metres,middlelong,female,senior
-2997,32:14.50,,Erika VERÉBNÉ FAZEKAS,23 OCT 1963,HUN,7,Oslo (NOR),02 JUL 1988,1126,10000-metres,middlelong,female,senior
-2998,32:14.51,,Ayumi HASHIMOTO,17 JUN 1983,JPN,8,Tottori (JPN),04 JUN 2004,1126,10000-metres,middlelong,female,senior
-2998,32:14.51,,Alissa MCKAIG,21 FEB 1986,USA,9f1,"Palo Alto, CA (USA)",01 MAY 2011,1126,10000-metres,middlelong,female,senior
-3000,32:14.52,,Courtney BABCOCK,30 JUN 1972,CAN,1,Burnaby (CAN),01 JUN 2002,1126,10000-metres,middlelong,female,senior
-3001,32:14.56,,Haruko OKAMOTO,19 AUG 1974,JPN,9,"Commonwealth Stadium, Edmonton (CAN)",07 AUG 2001,1126,10000-metres,middlelong,female,senior
-3002,32:14.57,,Katie MCGREGOR,02 SEP 1977,USA,2,"Berkeley, CA (USA)",24 APR 2009,1126,10000-metres,middlelong,female,senior
-3002,32:14.57,,Maitane MELERO,20 FEB 1983,ESP,1f1,"Pista Municipal de Faro, Faro (POR)",09 APR 2022,1126,10000-metres,middlelong,female,senior
-3004,32:14.58,,Keiko NOGAMI,06 DEC 1985,JPN,2,Kitakyushu (JPN),16 MAY 2015,1126,10000-metres,middlelong,female,senior
-3005,32:14.59,,Olga SKRYPAK,02 DEC 1990,UKR,19,"Olympic Stadium, London (GBR)",03 AUG 2012,1126,10000-metres,middlelong,female,senior
-3006,32:14.63,,Nadia EJJAFINI,08 NOV 1977,ITA,5,Oslo (NOR),04 JUN 2011,1126,10000-metres,middlelong,female,senior
-3007,32:14.64,,Kimberly FITCHEN-YOUNG,03 SEP 1968,USA,2,"Walnut, CA (USA)",20 APR 2001,1126,10000-metres,middlelong,female,senior
-3008,32:14.65,,Miyoko TAKAHASHI-ASAHINA,24 SEP 1969,JPN,1,Tokyo (JPN),17 JUN 1989,1126,10000-metres,middlelong,female,senior
-3008,32:14.65,,Grace Loibach NAWOWUNA,10 NOV 2003,KEN,7,"Nyayo National Stadium, Nairobi (KEN)",08 JUL 2023,1126,10000-metres,middlelong,female,senior
-3010,32:14.66,,Annemari SANDELL,02 JAN 1977,FIN,12,"Olympic Stadium, Atlanta, GA (USA)",02 AUG 1996,1126,10000-metres,middlelong,female,senior
-3010,32:14.66,,SEEMA,10 JAN 2001,IND,19f2,"JSerra Catholic HS, San Juan Capistrano, CA (USA)",29 MAR 2025,1126,10000-metres,middlelong,female,senior
-3012,32:14.69,,Maria Conceicao FERREIRA,13 MAR 1962,POR,13,"Ullevi Stadium, Göteborg (SWE)",09 AUG 1995,1126,10000-metres,middlelong,female,senior
-3012,32:14.69,,Colleen DE REUCK,13 APR 1964,RSA,13,"Olympic Stadium, Atlanta, GA (USA)",02 AUG 1996,1126,10000-metres,middlelong,female,senior
-3014,32:14.70,,Yoko MIYAUCHI,19 JUN 1983,JPN,3,Fukagawa (JPN),11 JUL 2007,1126,10000-metres,middlelong,female,senior
-3014,32:14.7h,,Doreen CHESANG,16 APR 1990,UGA,2,"Mandela National Stadium, Kampala (UGA)",24 APR 2021,1126,10000-metres,middlelong,female,senior
-3016,32:14.71,,Yuko SHIMIZU,13 JUL 1985,JPN,10f1,"Palo Alto, CA (USA)",01 MAY 2011,1126,10000-metres,middlelong,female,senior
-3017,32:14.73,,Hiromi OMINAMI,15 NOV 1975,JPN,2,Kobe (JPN),30 JUN 2006,1126,10000-metres,middlelong,female,senior
-3018,32:14.75,,Birgit JERSCHABECK,17 MAY 1969,GDR,6,Helsinki (FIN),27 JUN 1990,1126,10000-metres,middlelong,female,senior
-3018,32:14.75,,Sharon LOKEDI,10 MAR 1994,KEN,2,"Los Angeles, CA (USA)",29 AUG 2020,1126,10000-metres,middlelong,female,senior
-3020,32:14.79,,Akemi MATSUNO,27 APR 1968,JPN,2,Tokyo (JPN),17 JUN 1989,1126,10000-metres,middlelong,female,senior
-3021,32:14.80,,Yuka ANDO,16 MAR 1994,JPN,4,"Athletic Track, Abashiri (JPN)",19 JUL 2025,1126,10000-metres,middlelong,female,senior
-3022,32:14.82,,Valentina GALIMOVA,11 MAY 1986,RUS,1,Yerino (RUS),09 JUL 2014,1126,10000-metres,middlelong,female,senior
-3023,32:14.83,,Svetlana ULMASOVA,04 FEB 1953,URS,5,Leningrad (URS),08 JUN 1986,1126,10000-metres,middlelong,female,senior
-3024,32:14.85,,Misaki KATO,15 JUN 1991,JPN,16,"Yanmar Stadium Nagai, Osaka (JPN)",04 DEC 2020,1126,10000-metres,middlelong,female,senior
-3025,32:14.86,,Keiko NOGAMI,06 DEC 1985,JPN,9f2,Yamaguchi (JPN),08 DEC 2018,1126,10000-metres,middlelong,female,senior
-3026,32:14.87,,Yelena BURYKINA,07 MAY 1972,RUS,3,Cheboksary (RUS),11 JUL 2002,1126,10000-metres,middlelong,female,senior
-3027,32:14.88,,Mara YAMAUCHI,13 AUG 1973,GBR,3,Kobe (JPN),11 OCT 2008,1126,10000-metres,middlelong,female,senior
-3028,32:14.91,,Blake PHILLIPS-RUSSELL,24 JUL 1975,USA,2f1,"Palo Alto, CA (USA)",04 APR 2008,1126,10000-metres,middlelong,female,senior
-3029,32:14.92,,Hiromi OMINAMI,15 NOV 1975,JPN,5,Niigata (JPN),01 JUN 2008,1126,10000-metres,middlelong,female,senior
-3030,32:14.93,,Konstanze KLOSTERHALFEN,18 FEB 1997,GER,1,"Sportanlage am Oberen Wöhrd, Regensburg (GER)",13 APR 2024,1126,10000-metres,middlelong,female,senior
-3031,32:14.94,,Trihas GEBRE,29 APR 1990,ESP,1,Chia (ITA),06 JUN 2015,1126,10000-metres,middlelong,female,senior
-3031,32:14.94,,Karissa SCHWEIZER,04 MAY 1996,USA,3,"Eugene, OR (USA)",07 JUN 2018,1126,10000-metres,middlelong,female,senior
-3033,32:14.97,,Ji LI,19 SEP 1979,CHN,1,Nanjing (CHN),15 APR 2000,1126,10000-metres,middlelong,female,senior
-3034,32:14.99,,María Luisa LARRAGA,10 DEC 1970,ESP,12,Barakaldo (ESP),10 APR 1999,1126,10000-metres,middlelong,female,senior
-3035,32:15.02,,Cristina POMACU,15 SEP 1973,ROU,2,Bucureşti (ROU),20 JUL 1997,1126,10000-metres,middlelong,female,senior
-3036,32:15.03,,Yuka IZUMI,18 JAN 1985,JPN,2,Miyoshi (JPN),13 MAY 2006,1126,10000-metres,middlelong,female,senior
-3037,32:15.04,,Emiko KOJIMA,04 JUL 1979,JPN,2,Kita-Kyushu (JPN),10 MAY 1998,1126,10000-metres,middlelong,female,senior
-3038,32:15.05,,Maria Conceicao FERREIRA,13 MAR 1962,POR,9h1,"Estadio Olímpico, Barcelona (ESP)",01 AUG 1992,1126,10000-metres,middlelong,female,senior
-3039,32:15.06,,Grace MOMANYI,13 FEB 1981,KEN,3,Pontevedra (ESP),02 APR 2011,1126,10000-metres,middlelong,female,senior
-3040,32:15.09,,Milena GLUSAC,18 SEP 1975,USA,2,"Palo Alto, CA (USA)",21 JUN 2002,1126,10000-metres,middlelong,female,senior
-3040,32:15.09,,Yoko MIYAUCHI,19 JUN 1983,JPN,2,Abashiri (JPN),22 JUN 2011,1126,10000-metres,middlelong,female,senior
-3040,32:15.09,,Mao ICHIYAMA,29 MAY 1997,JPN,2f2,Osaka (JPN),22 SEP 2017,1126,10000-metres,middlelong,female,senior
-3043,32:15.10,,Natsumi MATSUSHITA,22 JAN 1995,JPN,2f2,"Ishin Me-Life Stadium, Yamaguchi (JPN)",05 DEC 2020,1126,10000-metres,middlelong,female,senior
-3044,32:15.12,,Harumi HIROYAMA-SUZUKI,02 SEP 1968,JPN,18,"Olympic Stadium, Athina (GRE)",27 AUG 2004,1126,10000-metres,middlelong,female,senior
-3045,32:15.14,,Kaori MORITA,19 SEP 1995,JPN,4,Yamaguchi (JPN),22 JUN 2018,1126,10000-metres,middlelong,female,senior
-3046,32:15.15,,Kate O'NEILL,29 JUL 1980,USA,9,"Palo Alto, CA (USA)",29 APR 2007,1126,10000-metres,middlelong,female,senior
-3047,32:15.20,,Kotomi TAKAYAMA,18 FEB 1993,JPN,10f1,"Palo Alto, CA (USA)",04 MAY 2014,1126,10000-metres,middlelong,female,senior
-3047,32:15.20,,Stella CHESANG,01 DEC 1996,UGA,16,"Khalifa International Stadium, Doha (QAT)",28 SEP 2019,1126,10000-metres,middlelong,female,senior
-3049,32:15.21,,Ayako SUZUKI,17 DEC 1980,JPN,2,Shizuoka (JPN),03 MAY 2004,1126,10000-metres,middlelong,female,senior
-3050,32:15.22,,Xiaoxia WANG,21 AUG 1976,CHN,11,Shanghai (CHN),19 OCT 1997,1126,10000-metres,middlelong,female,senior
-3051,32:15.23,,Hiromi OMINAMI,15 NOV 1975,JPN,2,Gifu (JPN),10 MAY 1998,1126,10000-metres,middlelong,female,senior
-3051,32:15.23,,Michiko OGAWA,30 DEC 1983,JPN,9,Kobe (JPN),23 APR 2006,1126,10000-metres,middlelong,female,senior
-3053,32:15.24,,Chloé HERBIET,03 DEC 1998,BEL,1,"Atletiekbaan Brakkenstein, Nijmegen (NED)",18 MAY 2024,1126,10000-metres,middlelong,female,senior
-3054,32:15.25,,Elana MEYER,10 OCT 1966,RSA,1,Durban (RSA),05 MAR 1999,1126,10000-metres,middlelong,female,senior
-3055,32:15.26,,Brenda FLORES,04 SEP 1991,MEX,14,"National Stadium, Beijing (CHN)",24 AUG 2015,1126,10000-metres,middlelong,female,senior
-3056,32:15.27,,Pauline KAMULU,30 DEC 1994,KEN,1f1,"Prefectural Stadium, Kumagaya (JPN)",15 MAY 2021,1126,10000-metres,middlelong,female,senior
-3057,32:15.29,,Mizuki NOGUCHI,03 JUL 1978,JPN,8,Kobe (JPN),22 APR 2001,1126,10000-metres,middlelong,female,senior
-3058,32:15.31,,Galina BOGOMOLOVA,15 OCT 1977,RUS,4,Tula (RUS),25 JUN 2004,1126,10000-metres,middlelong,female,senior
-3059,32:15.33,,Irene Kwambai KIPCHUMBA,25 OCT 1978,KEN,2,Mataró (ESP),23 JUL 2004,1126,10000-metres,middlelong,female,senior
-3060,32:15.34,,Maria GUIDA,23 JAN 1966,ITA,12,"Gottlieb-Daimler Stadion, Stuttgart (GER)",21 AUG 1993,1126,10000-metres,middlelong,female,senior
-3061,32:15.38,,Yuka ANDO,16 MAR 1994,JPN,3,"Athletics Stadium, Fukagawa (JPN)",08 JUL 2020,1126,10000-metres,middlelong,female,senior
-3062,32:15.39,,Azumi MIYAZAKI,03 MAR 1975,JPN,4,Naruto (JPN),14 JUN 1998,1126,10000-metres,middlelong,female,senior
-3062,32:15.39,,Hayley YELLING,03 JAN 1974,GBR,9,"Palo Alto, CA (USA)",01 MAY 2005,1126,10000-metres,middlelong,female,senior
-3064,32:15.40,,Ruihuan LIU,29 JUN 1992,CHN,1f1,Zhengzhou (CHN),14 MAY 2016,1126,10000-metres,middlelong,female,senior
-3065,32:15.42,,Yuko MANABE,08 FEB 1979,JPN,15,Kanazawa (JPN),29 SEP 2001,1125,10000-metres,middlelong,female,senior
-3065,32:15.42,,Miho IHARA,04 FEB 1988,JPN,11f1,"Palo Alto, CA (USA)",04 MAY 2014,1125,10000-metres,middlelong,female,senior
-3067,32:15.43,,Mihaela Maria BOTEZAN-PRUNDUS,21 NOV 1976,ROU,2,Maribor (SLO),03 APR 2004,1125,10000-metres,middlelong,female,senior
-3068,32:15.44,,Tegla LOROUPE,09 MAY 1973,KEN,1,"New York, NY (USA)",22 JUL 1998,1125,10000-metres,middlelong,female,senior
-3069,32:15.45,,Lynn NELSON,08 JAN 1962,USA,6h2,"Olympic Stadium, Seoul (KOR)",26 SEP 1988,1125,10000-metres,middlelong,female,senior
-3069,32:15.45,,Yuki MITSUNOBU,09 NOV 1992,JPN,6f1,Kitami (JPN),06 JUL 2013,1125,10000-metres,middlelong,female,senior
-3071,32:15.47,,Mizuki MATSUDA,31 MAY 1995,JPN,8,"Palo Alto, CA (USA)",29 MAR 2019,1125,10000-metres,middlelong,female,senior
-3071,32:15.47,,Alina REH,23 MAY 1997,GER,1f1,"Stade Complexe Sportif Jean-Paul Chasseboeuf, Pacé (FRA)",03 JUN 2023,1125,10000-metres,middlelong,female,senior
-3071,32:15.47,,Agnes Mwikali MUTUKU,15 DEC 2002,KEN,1,"Athletics Stadium, Fukagawa (JPN)",05 JUL 2023,1125,10000-metres,middlelong,female,senior
-3074,32:15.49,,Rosina MACHU,,USA,7,"Hayward Field, Eugene, OR (USA)",12 JUN 2025,1125,10000-metres,middlelong,female,senior
-3075,32:15.50,,Megumi TANAKA-OSHIMA,04 SEP 1975,JPN,6,Kobe (JPN),25 APR 1999,1125,10000-metres,middlelong,female,senior
-3076,32:15.51,,Laura THWEATT,17 DEC 1988,USA,9f1,"Palo Alto, CA (USA)",28 APR 2013,1125,10000-metres,middlelong,female,senior
-3077,32:15.53,,Natalya SOROKOVSKAYA,23 JUL 1962,URS,3,"Estadio Olímpico, Barcelona (ESP)",09 SEP 1989,1125,10000-metres,middlelong,female,senior
-3077,32:15.53,,Elizeba CHERONO-FRANKEN,06 JUN 1988,NED,12,Hengelo (NED),29 JUN 2016,1125,10000-metres,middlelong,female,senior
-3079,32:15.54,,Lieve SLEGERS,06 APR 1965,BEL,7,Helsinki (FIN),27 JUN 1990,1125,10000-metres,middlelong,female,senior
-3079,32:15.54,,Christelle DAUNAY,05 DEC 1974,FRA,16,"Ullevi Stadium, Göteborg (SWE)",07 AUG 2006,1125,10000-metres,middlelong,female,senior
-3081,32:15.56,,Erika VERÉBNÉ FAZEKAS,23 OCT 1963,HUN,11,"Neckarstadion, Stuttgart (GER)",30 AUG 1986,1125,10000-metres,middlelong,female,senior
-3082,32:15.57,,Kana MIZUMOTO,26 JAN 2005,JPN,5f2,"Yanmar Stadium Nagai, Osaka (JPN)",07 DEC 2024,1125,10000-metres,middlelong,female,senior
-3083,32:15.58,,Elaina TABB,17 DEC 1991,USA,,Burnaby (CAN),13 JUN 2019,1125,10000-metres,middlelong,female,senior
-3084,32:15.59,,Yekaterina KHRAMENKOVA,16 OCT 1956,URS,3,Bryansk (URS),19 JUL 1987,1125,10000-metres,middlelong,female,senior
-3084,32:15.59,,Ikumi NAGAYAMA,22 JUN 1974,JPN,16,Kanazawa (JPN),29 SEP 2001,1125,10000-metres,middlelong,female,senior
-3086,32:15.60,,Yuri KANO,27 OCT 1978,JPN,14,Oita (JPN),01 OCT 2006,1125,10000-metres,middlelong,female,senior
-3086,32:15.60,,Jeralyn POE,,USA,18,"Hayward Field, Eugene, OR (USA)",27 MAY 2022,1125,10000-metres,middlelong,female,senior
-3088,32:15.61,,Rebecca MWANGI,15 JUN 2001,KEN,3,"Ishin Me-Life Stadium, Yamaguchi (JPN)",21 SEP 2024,1125,10000-metres,middlelong,female,senior
-3089,32:15.63,,Reiko TOSA,11 JUN 1976,JPN,9,Kobe (JPN),23 APR 2000,1125,10000-metres,middlelong,female,senior
-3089,32:15.63,,Guiying BAO,20 JAN 1986,CHN,2,Hefei (CHN),26 SEP 2004,1125,10000-metres,middlelong,female,senior
-3089,32:15.63,,Mari OZAKI,16 JUL 1975,JPN,4,Niigata (JPN),11 OCT 2010,1125,10000-metres,middlelong,female,senior
-3089,32:15.63,,Everlyn KEMBOI,,USA,4,"Jack Kemp Stadium - Occidental College, Los Angeles, CA (USA)",11 MAY 2024,1125,10000-metres,middlelong,female,senior
-3093,32:15.64,,Gladys Jepkurui BIWOTT,22 FEB 1985,KEN,7,"Nyayo National Stadium, Nairobi (KEN)",27 MAY 2021,1125,10000-metres,middlelong,female,senior
-3094,32:15.67,,Yingying ZHU,18 AUG 1988,CHN,1,Guilin (CHN),10 SEP 2006,1125,10000-metres,middlelong,female,senior
-3094,32:15.67,,Andrea Soraya RAMÍREZ LIMON,05 NOV 1992,MEX,1,"Cougar Athletic Stadium, Azusa, CA (USA)",17 APR 2021,1125,10000-metres,middlelong,female,senior
-3096,32:15.69,,Atsede BAYISA,16 APR 1987,ETH,3,"Los Angeles, CA (USA)",29 AUG 2020,1125,10000-metres,middlelong,female,senior
-3097,32:15.70,,Laura O'NEILL,29 JUL 1980,USA,6,"Carson, CA (USA)",24 JUN 2005,1125,10000-metres,middlelong,female,senior
-3098,32:15.71,,Charlotte ARTER,18 JUN 1991,GBR,3f1,London (GBR),19 MAY 2018,1125,10000-metres,middlelong,female,senior
-3099,32:15.72,,Harumi HIROYAMA-SUZUKI,02 SEP 1968,JPN,4,Shizuoka (JPN),03 MAY 2003,1125,10000-metres,middlelong,female,senior
-3099,32:15.72,,Cruz Nonata DA SILVA,18 AUG 1974,BRA,1,São Paulo (BRA),27 JUN 2012,1125,10000-metres,middlelong,female,senior
-3101,32:15.73,,Mao ICHIYAMA,29 MAY 1997,JPN,2,Yamaguchi (JPN),10 DEC 2016,1125,10000-metres,middlelong,female,senior
-3101,32:15.73,,Alice WRIGHT,03 NOV 1994,GBR,4,"Palo Alto, CA (USA)",30 MAR 2018,1125,10000-metres,middlelong,female,senior
-3103,32:15.74,,Camilla RICHARDSSON,14 SEP 1993,FIN,15,"Nemzeti Atlétikai Központ, Budapest (HUN)",19 AUG 2023,1125,10000-metres,middlelong,female,senior
-3104,32:15.76,,Yumiko HARA,09 JAN 1982,JPN,3,Fukagawa (JPN),29 JUN 2005,1125,10000-metres,middlelong,female,senior
-3105,32:15.78,,Bahar YILDIRIM,01 OCT 1998,TUR,7f1,"Stade Complexe Sportif Jean-Paul Chasseboeuf, Pacé (FRA)",24 MAY 2025,1125,10000-metres,middlelong,female,senior
-3106,32:15.82,,Nancy TINARI,13 JUN 1959,CAN,1,Ottawa (CAN),31 JUL 1987,1125,10000-metres,middlelong,female,senior
-3106,32:15.82,,Sayaka SATO,27 MAY 1994,JPN,5,"Athletic Track, Abashiri (JPN)",13 JUL 2022,1125,10000-metres,middlelong,female,senior
-3108,32:15.83,,Aurora CUNHA,31 MAY 1959,POR,9,"Poljud Stadion, Split (CRO)",31 AUG 1990,1125,10000-metres,middlelong,female,senior
-3109,32:15.84,,Yoshimi OZAKI,01 JUL 1981,JPN,11,Kobe (JPN),22 APR 2007,1125,10000-metres,middlelong,female,senior
-3110,32:15.85,,Yoshiko ICHIKAWA,18 APR 1976,JPN,9,Kobe (JPN),25 APR 2004,1125,10000-metres,middlelong,female,senior
-3110,32:15.85,,Rachel WARD,11 OCT 1989,USA,12f1,"Palo Alto, CA (USA)",04 MAY 2014,1125,10000-metres,middlelong,female,senior
-3110,32:15.85,,Mizuki MATSUDA,31 MAY 1995,JPN,1,Kobe (JPN),23 APR 2017,1125,10000-metres,middlelong,female,senior
-3113,32:15.86,,Yumiko HARA,09 JAN 1982,JPN,6,Niigata (JPN),25 SEP 2004,1125,10000-metres,middlelong,female,senior
-3114,32:15.87,,Yasuko HASHIMOTO,12 AUG 1975,JPN,9,Kobe (JPN),22 APR 2001,1125,10000-metres,middlelong,female,senior
-3114,32:15.87,,Valeria STRANEO,05 APR 1976,ITA,6,Bilbao (ESP),03 JUN 2012,1125,10000-metres,middlelong,female,senior
-3116,32:15.88,,Lisa WEIDENBACH,13 DEC 1961,USA,5,"Indianapolis, IN (USA)",22 JUL 1988,1125,10000-metres,middlelong,female,senior
-3116,32:15.88,,Yoko SHIBUI,14 MAR 1979,JPN,6,Yokohama (JPN),06 JUN 2003,1125,10000-metres,middlelong,female,senior
-3116,32:15.88,,Elizabeth POTTER,27 DEC 1991,GBR,21,"Olympic Stadium, London (GBR)",05 AUG 2017,1125,10000-metres,middlelong,female,senior
-3116,32:15.88,,Stephanie BRUCE,14 JAN 1984,USA,2,"San Diego, CA (USA)",18 FEB 2019,1125,10000-metres,middlelong,female,senior
-3116,32:15.88,,Momoka KAWAGUCHI,28 JUN 1998,JPN,6,"Athletic Track, Abashiri (JPN)",15 JUL 2020,1125,10000-metres,middlelong,female,senior
-3121,32:15.91,,Mai ITO,23 MAY 1984,JPN,4,Kobe (JPN),25 APR 2010,1125,10000-metres,middlelong,female,senior
-3121,32:15.91,,Jasmijn LAU,11 MAR 1999,NED,7,"Stadio Olimpico, Roma (ITA)",11 JUN 2024,1125,10000-metres,middlelong,female,senior
-3123,32:15.94,,Aki FUJIKAWA,14 NOV 1978,JPN,17,Kanazawa (JPN),29 SEP 2001,1125,10000-metres,middlelong,female,senior
-3123,32:15.94,,Terumi ASOSHINA,02 AUG 1982,JPN,7,Niigata (JPN),25 SEP 2004,1125,10000-metres,middlelong,female,senior
-3125,32:15.95,,Silvia SOMMAGGIO,20 NOV 1969,ITA,2,Mito (JPN),07 MAY 2000,1125,10000-metres,middlelong,female,senior
-3126,32:15.96,,Camelia Alina TECUŢĂ-GHERASIM,10 NOV 1971,ROU,1,Bucureşti (ROU),29 MAY 1993,1125,10000-metres,middlelong,female,senior
-3126,32:15.96,,Anikó KÁLOVICS,13 MAY 1977,HUN,20,"Stade de France, Paris-St-Denis (FRA)",23 AUG 2003,1125,10000-metres,middlelong,female,senior
-3128,32:15.97,,Misaki HAYASHIDA,07 DEC 1999,JPN,2,"Egao Kenko Stadium, Kumamoto (JPN)",08 APR 2023,1125,10000-metres,middlelong,female,senior
-3129,32:15.98,,Alena SAMOKHVALOVA,21 NOV 1980,RUS,4,Cheboksary (RUS),11 JUL 2002,1125,10000-metres,middlelong,female,senior
-3130,32:16.01,,Maria Conceicao FERREIRA,13 MAR 1962,POR,6,Leiria (POR),07 APR 1996,1125,10000-metres,middlelong,female,senior
-3130,32:16.01,,Yuko MANABE,08 FEB 1979,JPN,10,Okayama (JPN),27 SEP 2003,1125,10000-metres,middlelong,female,senior
-3130,32:16.01,,Yelena KOROBKINA,25 NOV 1990,RUS,1,Cheboksary (RUS),27 JUL 2019,1125,10000-metres,middlelong,female,senior
-3133,32:16.02,,Chiemi TAKAHASHI,16 FEB 1976,JPN,11,Osaka (JPN),09 JUN 1996,1125,10000-metres,middlelong,female,senior
-3134,32:16.03,,Sarah PAGANO,23 JUL 1991,USA,3,"Portland, OR (USA)",11 JUN 2016,1125,10000-metres,middlelong,female,senior
-3135,32:16.05,,Yurie DOI,08 DEC 1988,JPN,8f2,Kumagaya (JPN),20 SEP 2013,1125,10000-metres,middlelong,female,senior
-3136,32:16.06,,Laura GALVÁN,05 OCT 1991,MEX,3,"Griswold Stadium, Portland, OR (USA)",14 JUN 2025,1125,10000-metres,middlelong,female,senior
-3137,32:16.07,,Sakiho TSUTSUI,19 JAN 1996,JPN,5,"Prefectural Shizuoka Stadium, Fukuroi (JPN)",03 MAY 2021,1125,10000-metres,middlelong,female,senior
-3138,32:16.08,,Aki FUJIKAWA,14 NOV 1978,JPN,11,Okayama (JPN),27 SEP 2003,1125,10000-metres,middlelong,female,senior
-3139,32:16.10,,Leah MALOT,07 JUN 1972,KEN,1,Mito (JPN),06 MAY 2001,1125,10000-metres,middlelong,female,senior
-3140,32:16.11,,Lauren RYAN,15 MAR 1998,AUS,4,"Hagenauer Reserve, Box Hill, Melbourne (AUS)",26 JAN 2021,1125,10000-metres,middlelong,female,senior
-3141,32:16.13,,Lara TAMSETT,12 OCT 1988,AUS,10f1,"Palo Alto, CA (USA)",28 APR 2013,1125,10000-metres,middlelong,female,senior
-3141,32:16.13,,Carmela CARDAMA,04 DEC 1996,ESP,1,"Hayward Field, Eugene, OR (USA)",10 JUN 2021,1125,10000-metres,middlelong,female,senior
-3143,32:16.15,,Harumi OKAMOTO,07 FEB 1998,JPN,2,Kobe (JPN),22 APR 2018,1125,10000-metres,middlelong,female,senior
-3144,32:16.16,,Yuka SUZUKI,14 SEP 1999,JPN,6f2,"Nagaragawa Stadium, Gifu (JPN)",23 SEP 2022,1125,10000-metres,middlelong,female,senior
-3145,32:16.19,,Inês MONTEIRO,18 MAY 1980,POR,2,Lisboa (POR),28 JUN 2008,1125,10000-metres,middlelong,female,senior
-3145,32:16.19,,Kate AVERY,10 OCT 1991,GBR,15,"National Stadium, Beijing (CHN)",24 AUG 2015,1125,10000-metres,middlelong,female,senior
-3147,32:16.23,,Miho SHIMIZU,13 MAY 1990,JPN,3,Yokohama (JPN),19 DEC 2015,1125,10000-metres,middlelong,female,senior
-3147,32:16.23,,Stephanie TWELL,17 AUG 1989,GBR,2f1,Parliament Hill (GBR),20 MAY 2017,1125,10000-metres,middlelong,female,senior
-3149,32:16.24,,Masami ISHIZAKA,27 MAR 1971,JPN,2,Duisburg (GER),29 AUG 1989,1125,10000-metres,middlelong,female,senior
-3149,32:16.24,,Merima HASHIM,1981,ETH,2,Johannesburg (RSA),17 SEP 1999,1125,10000-metres,middlelong,female,senior
-3151,32:16.25,,Luiza GEGA,05 NOV 1988,ALB,6f1,"Birmingham University Athletics Track, Birmingham (GBR)",05 JUN 2021,1125,10000-metres,middlelong,female,senior
-3152,32:16.27,,Nancy TINARI,13 JUN 1959,CAN,7h2,"Olympic Stadium, Seoul (KOR)",26 SEP 1988,1125,10000-metres,middlelong,female,senior
-3152,32:16.27,,Wioletta FRANKIEWICZ,09 JUN 1977,POL,2,Police (POL),08 MAY 2004,1125,10000-metres,middlelong,female,senior
-3154,32:16.31,,Yelena NAGOVITSYNA,07 DEC 1982,RUS,2,Yerino (RUS),09 JUL 2014,1125,10000-metres,middlelong,female,senior
-3154,32:16.31,,Shiho TACHIZAKO,26 DEC 2003,JPN,2,"Athletics Stadium, Fukagawa (JPN)",17 JUL 2024,1125,10000-metres,middlelong,female,senior
-3156,32:16.33,,Blake PHILLIPS-RUSSELL,24 JUL 1975,USA,3,"Walnut, CA (USA)",14 APR 2000,1125,10000-metres,middlelong,female,senior
-3157,32:16.34,,Viktoriya POLYUDINA,29 JUN 1989,KGZ,6,Guangzhou (CHN),21 NOV 2010,1125,10000-metres,middlelong,female,senior
-3157,32:16.34,,Yuka ANDO,16 MAR 1994,JPN,2,Kobe (JPN),24 APR 2016,1125,10000-metres,middlelong,female,senior
-3159,32:16.36,,Marisol ROMERO ROSALES,26 JAN 1983,MEX,11,"Luzhniki Stadion, Moskva (RUS)",11 AUG 2013,1125,10000-metres,middlelong,female,senior
-3160,32:16.4h,,Anikó KÁLOVICS,13 MAY 1977,HUN,5,Strasbourg (FRA),27 JUN 2000,1125,10000-metres,middlelong,female,senior
-3160,32:16.40,,Ryoko KIZAKI,21 JUN 1985,JPN,1f2,Niigata (JPN),24 SEP 2010,1125,10000-metres,middlelong,female,senior
-3162,32:16.44,,Sakiho TSUTSUI,19 JAN 1996,JPN,2,Kobe (JPN),23 APR 2017,1125,10000-metres,middlelong,female,senior
-3163,32:16.45,,Iris BIBA-PÖSCHL,27 MAY 1964,GER,3,Koblenz (GER),16 MAY 1996,1125,10000-metres,middlelong,female,senior
-3164,32:16.46,,Miho IHARA,04 FEB 1988,JPN,11f1,"Palo Alto, CA (USA)",28 APR 2013,1125,10000-metres,middlelong,female,senior
-3165,32:16.50,,Natalya BOBOROVA,12 FEB 1959,URS,7,Kiev (URS),02 AUG 1988,1125,10000-metres,middlelong,female,senior
-3165,32:16.50,,Merima DENBOBA,21 AUG 1974,ETH,2,Paris-St-Denis (FRA),10 JUN 1994,1125,10000-metres,middlelong,female,senior
-3165,32:16.5h,,Catherine KIRUI,01 MAR 1976,KEN,4,Nairobi (KEN),25 JUN 2004,1125,10000-metres,middlelong,female,senior
-3165,32:16.50,,Krisztina PAPP,17 DEC 1982,HUN,12,Ostrava (CZE),12 JUN 2008,1125,10000-metres,middlelong,female,senior
-3165,32:16.50,,Doricah OBARE,10 JAN 1990,KEN,1,Kumagaya (JPN),15 MAY 2010,1125,10000-metres,middlelong,female,senior
-3165,32:16.5h,,Sandrafelis Chebet TUEI,20 JAN 1998,KEN,3,Nairobi (KEN),21 JUN 2018,1125,10000-metres,middlelong,female,senior
-3171,32:16.51,,Kayo SUGIHARA,24 FEB 1983,JPN,2,Sendai (JPN),20 MAY 2006,1125,10000-metres,middlelong,female,senior
-3171,32:16.51,,Neely SPENCE GRACEY,16 APR 1990,USA,1,Melbourne (AUS),08 DEC 2012,1125,10000-metres,middlelong,female,senior
-3173,32:16.54,,Misaki KATO,15 JUN 1991,JPN,8,Nagoya (JPN),26 JUN 2015,1125,10000-metres,middlelong,female,senior
-3174,32:16.55,,Derartu TULU,21 MAR 1972,ETH,8,"National Stadium, Tokyo (JPN)",30 AUG 1991,1125,10000-metres,middlelong,female,senior
-3174,32:16.55,,Sabrina MOCKENHAUPT,06 DEC 1980,GER,5,"Olympiastadion, Helsinki (FIN)",01 JUL 2012,1125,10000-metres,middlelong,female,senior
-3176,32:16.58,,Yuko SHIMIZU,13 JUL 1985,JPN,2,Tokyo (JPN),07 JUN 2013,1124,10000-metres,middlelong,female,senior
-3177,32:16.60,,Hisami ISHII,10 AUG 1995,JPN,2,Kumagaya (JPN),22 MAY 2016,1124,10000-metres,middlelong,female,senior
-3178,32:16.66,,Miyuki UEHARA,22 NOV 1995,JPN,1,Oita (JPN),17 OCT 2015,1124,10000-metres,middlelong,female,senior
-3179,32:16.67,,Xiaoxia WANG,21 AUG 1976,CHN,1,Xi'an (CHN),02 SEP 1996,1124,10000-metres,middlelong,female,senior
-3179,32:16.67,,Ruth WANJIRU,11 SEP 1981,KEN,15,Oita (JPN),01 OCT 2006,1124,10000-metres,middlelong,female,senior
-3181,32:16.7h,,Alice Aprot NAWOWUNA,02 JAN 1994,KEN,3,Nairobi (KEN),23 JUN 2017,1124,10000-metres,middlelong,female,senior
-3182,32:16.71,,Derartu TULU,21 MAR 1972,ETH,1h1,"Ullevi Stadium, Göteborg (SWE)",06 AUG 1995,1124,10000-metres,middlelong,female,senior
-3183,32:16.72,,Hellen KIMAIYO-KIPKOSKEI,08 SEP 1968,KEN,3,Paris-St-Denis (FRA),10 JUN 1994,1124,10000-metres,middlelong,female,senior
-3184,32:16.73,,Daria NAUER,21 MAY 1966,SUI,4,La Celle-st-Cloud (FRA),15 JUN 1996,1124,10000-metres,middlelong,female,senior
-3185,32:16.75,,Aki FUJIKAWA,14 NOV 1978,JPN,3,Gifu (JPN),09 MAY 1998,1124,10000-metres,middlelong,female,senior
-3186,32:16.76,,Yvonne MURRAY,04 OCT 1964,GBR,2h1,"Ullevi Stadium, Göteborg (SWE)",06 AUG 1995,1124,10000-metres,middlelong,female,senior
-3187,32:16.77,,Huimin XIAO,01 MAR 1992,CHN,5,Shenyang (CHN),11 SEP 2013,1124,10000-metres,middlelong,female,senior
-3188,32:16.78,,Kellyn TAYLOR,22 JUL 1986,USA,5f1,"Palo Alto, CA (USA)",31 MAR 2017,1124,10000-metres,middlelong,female,senior
-3188,32:16.78,,Maki IZUMIDA,22 JAN 1996,JPN,11f2,"Ishin Me-Life Stadium, Yamaguchi (JPN)",07 DEC 2019,1124,10000-metres,middlelong,female,senior
-3190,32:16.82,,Keira D'AMATO,21 OCT 1984,USA,2,"St. Michael's HS, Austin, TX (USA)",27 FEB 2021,1124,10000-metres,middlelong,female,senior
-3191,32:16.83,,Rong CHEN,18 MAY 1988,CHN,7,Wuhan (CHN),02 NOV 2007,1124,10000-metres,middlelong,female,senior
-3192,32:16.84,,Eriko KUSHIMA,09 FEB 1993,JPN,3,Fukagawa (JPN),25 JUN 2011,1124,10000-metres,middlelong,female,senior
-3192,32:16.84,,Selamawit TEFERI,24 MAR 1994,ISR,2,Tel Aviv (ISR),24 APR 2019,1124,10000-metres,middlelong,female,senior
-3194,32:16.85,,Nina CHYDENIUS,28 JAN 1990,FIN,8,"Stadio Olimpico, Roma (ITA)",11 JUN 2024,1124,10000-metres,middlelong,female,senior
-3195,32:16.90,,Maria Conceicao FERREIRA,13 MAR 1962,POR,5,La Celle-st-Cloud (FRA),15 JUN 1996,1124,10000-metres,middlelong,female,senior
-3195,32:16.90,,Miki OHIRA,28 JUN 1981,JPN,1,Hitachinaka (JPN),14 MAY 2005,1124,10000-metres,middlelong,female,senior
-3197,32:16.92,,Silvia SOMMAGGIO,20 NOV 1969,ITA,9,"Olympic Stadium, Athina (GRE)",05 AUG 1997,1124,10000-metres,middlelong,female,senior
-3198,32:16.94,,Takako KOTORIDA,02 APR 1977,JPN,7,Yokohama (JPN),06 JUN 2003,1124,10000-metres,middlelong,female,senior
-3199,32:16.95,,Kimberly FITCHEN-YOUNG,03 SEP 1968,USA,4,"Walnut, CA (USA)",14 APR 2000,1124,10000-metres,middlelong,female,senior
-3200,32:16.97,,Danièle KABER,20 APR 1960,LUX,12,"Neckarstadion, Stuttgart (GER)",30 AUG 1986,1124,10000-metres,middlelong,female,senior
-3200,32:16.97,,Alia SAEED MOHAMMED,18 MAY 1991,UAE,1,Manama (BRN),26 APR 2015,1124,10000-metres,middlelong,female,senior
-3200,32:16.97,,Miki HIRAI,12 FEB 1996,JPN,3f2,"Ishin Me-Life Stadium, Yamaguchi (JPN)",05 DEC 2020,1124,10000-metres,middlelong,female,senior
-3203,32:16.98,,Nora Leticia ROCHA,18 DEC 1967,MEX,2,Barakaldo (ESP),08 JUL 2000,1124,10000-metres,middlelong,female,senior
-3203,32:16.98,,Jessica GOCKLEY-DAY,27 APR 1998,USA,5,"Jack Kemp Stadium - Occidental College, Los Angeles, CA (USA)",11 MAY 2024,1124,10000-metres,middlelong,female,senior
-3205,32:16.99,,Megumi TANAKA-OSHIMA,04 SEP 1975,JPN,2,Kobe (JPN),20 APR 1997,1124,10000-metres,middlelong,female,senior
-3206,32:17.01,,Rosanna MUNEROTTO,03 DEC 1962,ITA,10h1,"Estadio Olímpico, Barcelona (ESP)",01 AUG 1992,1124,10000-metres,middlelong,female,senior
-3207,32:17.05,,Elinor KIRK,26 APR 1989,GBR,2f1,"Palo Alto, CA (USA)",04 APR 2014,1124,10000-metres,middlelong,female,senior
-3208,32:17.06,,Janet CHEROBON-BAWCOM,22 AUG 1978,USA,7,"Hayward Field, Eugene, OR (USA)",22 JUN 2012,1124,10000-metres,middlelong,female,senior
-3208,32:17.06,,Erika TANOURA,01 FEB 2000,JPN,4,"Ishin Me-Life Stadium, Yamaguchi (JPN)",21 SEP 2024,1124,10000-metres,middlelong,female,senior
-3210,32:17.12,,Hikari OHNISHI,26 APR 2000,JPN,7,"Athletic Track, Abashiri (JPN)",15 JUL 2020,1124,10000-metres,middlelong,female,senior
-3211,32:17.14,,Karima Saleh JASSEM,18 FEB 1988,BRN,2,Doha (QAT),08 DEC 2006,1124,10000-metres,middlelong,female,senior
-3211,32:17.14,,Megumi TANAKA-OSHIMA,04 SEP 1975,JPN,12,Kobe (JPN),22 APR 2007,1124,10000-metres,middlelong,female,senior
-3213,32:17.17,,Ayumi HAGIWARA,01 JUN 1992,JPN,3,Tokyo (JPN),07 JUN 2013,1124,10000-metres,middlelong,female,senior
-3213,32:17.17,,Alina REH,23 MAY 1997,GER,1,Regensburg (GER),23 JUN 2018,1124,10000-metres,middlelong,female,senior
-3215,32:17.19,,Takami OMINAMI,15 NOV 1975,JPN,6,Kobe (JPN),26 APR 1998,1124,10000-metres,middlelong,female,senior
-3215,32:17.19,,Miki OYAMA,22 OCT 1979,JPN,1,Utsunomiya (JPN),15 MAY 2004,1124,10000-metres,middlelong,female,senior
-3215,32:17.19,,Sarah WANJIRU,12 APR 2004,KEN,1,"Gion Stadium, Sagamihara (JPN)",11 MAY 2023,1124,10000-metres,middlelong,female,senior
-3218,32:17.20,,Yelena SIPATOVA,07 JUN 1955,URS,1,Moskva (URS),16 SEP 1981,1124,10000-metres,middlelong,female,senior
-3218,32:17.2h,,Tsehay GEMECHU,12 DEC 1998,ETH,2,Addis Abeba (ETH),08 MAY 2019,1124,10000-metres,middlelong,female,senior
-3220,32:17.22,,Gabriele LEHMANN-VEITH,24 OCT 1956,GDR,13,"Neckarstadion, Stuttgart (GER)",30 AUG 1986,1124,10000-metres,middlelong,female,senior
-3220,32:17.22,,Lauren HURLEY,26 JAN 1988,USA,5,"Griswold Stadium, Portland, OR (USA)",28 MAY 2021,1124,10000-metres,middlelong,female,senior
-3222,32:17.24,,Yuki MITSUNOBU,09 NOV 1992,JPN,7f1,Abashiri (JPN),06 JUL 2014,1124,10000-metres,middlelong,female,senior
-3222,32:17.24,,Lisa MERKEL,20 JAN 2003,GER,9,"Stadio Olimpico, Roma (ITA)",11 JUN 2024,1124,10000-metres,middlelong,female,senior
-3224,32:17.25,,Rina YAMAZAKI,06 MAY 1988,JPN,1,Fukagawa (JPN),25 JUN 2014,1124,10000-metres,middlelong,female,senior
-3225,32:17.26,,Tatyana ARYASOVA,02 APR 1979,RUS,5,Cheboksary (RUS),11 JUL 2002,1124,10000-metres,middlelong,female,senior
-3226,32:17.28,,Doricah OBARE,10 JAN 1990,KEN,1,Kumagaya (JPN),19 MAY 2012,1124,10000-metres,middlelong,female,senior
-3226,32:17.28,,Doricah OBARE,10 JAN 1990,KEN,1,Saitama (JPN),19 MAY 2012,1124,10000-metres,middlelong,female,senior
-3228,32:17.29,,Shitaye ESHETE,21 MAY 1990,BRN,1,Pune (IND),03 JUL 2013,1124,10000-metres,middlelong,female,senior
-3228,32:17.29,,Harumi OKAMOTO,07 FEB 1998,JPN,6,Yamaguchi (JPN),09 DEC 2017,1124,10000-metres,middlelong,female,senior
-3230,32:17.30,,Mari OZAKI,16 JUL 1975,JPN,10,Kobe (JPN),22 APR 2001,1124,10000-metres,middlelong,female,senior
-3231,32:17.31,,Chika HORIE,15 FEB 1981,JPN,7,Kobe (JPN),27 APR 2008,1124,10000-metres,middlelong,female,senior
-3232,32:17.32,,Kaoutar FARKOUSSI,19 MAR 1996,MAR,1,"Piste Athlétisme, Tiflet (MAR)",20 JUL 2025,1124,10000-metres,middlelong,female,senior
-3233,32:17.34,,Jordan HASAY,21 SEP 1991,USA,2,"Drake Stadium, Des Moines, IA (USA)",20 JUN 2013,1124,10000-metres,middlelong,female,senior
-3233,32:17.34,,Serena BURLA,29 JUL 1982,USA,4f2,"Palo Alto, CA (USA)",02 MAY 2015,1124,10000-metres,middlelong,female,senior
-3235,32:17.35,,Doricah OBARE,10 JAN 1990,KEN,1,Ibaraki (JPN),18 MAY 2013,1124,10000-metres,middlelong,female,senior
-3235,32:17.35,,Gladys CHESIR,20 FEB 1993,KEN,3,Eldoret (KEN),30 JUN 2016,1124,10000-metres,middlelong,female,senior
-3237,32:17.38,,Yenenesh TILAHUN DINKESA,22 SEP 1994,ETH,6,Durban (RSA),25 JUN 2016,1124,10000-metres,middlelong,female,senior
-3238,32:17.39,,Hiroko SHOI,18 JUN 1980,JPN,3,Abashiri (JPN),22 JUN 2011,1124,10000-metres,middlelong,female,senior
-3239,32:17.40,,Yukiko OKAMOTO,29 NOV 1974,JPN,4,Mito (JPN),05 MAY 1998,1124,10000-metres,middlelong,female,senior
-3239,32:17.40,,Charlotte ARTER,18 JUN 1991,GBR,7f1,"Birmingham University Athletics Track, Birmingham (GBR)",05 JUN 2021,1124,10000-metres,middlelong,female,senior
-3241,32:17.41,,Gete WAMI,11 DEC 1974,ETH,3h1,"Ullevi Stadium, Göteborg (SWE)",06 AUG 1995,1124,10000-metres,middlelong,female,senior
-3241,32:17.41,,XiuZhen MA,05 JUL 2000,CHN,5,"Hilmer Lodge Stadium, Walnut, CA (USA)",06 MAY 2023,1124,10000-metres,middlelong,female,senior
-3243,32:17.48,,Hiromi OMINAMI,15 NOV 1975,JPN,13f1,"Palo Alto, CA (USA)",04 MAY 2008,1124,10000-metres,middlelong,female,senior
-3244,32:17.49,,Katie MCGREGOR,02 SEP 1977,USA,3,"Palo Alto, CA (USA)",21 JUN 2002,1124,10000-metres,middlelong,female,senior
-3244,32:17.49,,Tatyana PETROVA,08 APR 1983,RUS,1,Tula (RUS),13 JUN 2005,1124,10000-metres,middlelong,female,senior
-3244,32:17.49,,Tatyana PETROVA,08 APR 1983,RUS,6,Tula (RUS),14 JUN 2005,1124,10000-metres,middlelong,female,senior
-3247,32:17.50,,Rie MATSUOKA,09 MAR 1977,JPN,1,Miyoshi (JPN),13 MAY 2000,1124,10000-metres,middlelong,female,senior
-3247,32:17.50,,Miriam DATTKE,24 JUN 1998,GER,2,"Sportpark Orsbeck, Wassenberg (GER)",04 MAY 2024,1124,10000-metres,middlelong,female,senior
-3249,32:17.51,,Alicia MONSON,13 MAY 1998,USA,2,"Hayward Field, Eugene, OR (USA)",06 JUL 2023,1124,10000-metres,middlelong,female,senior
-3250,32:17.54,,Nadezhda ILYINA,1964,URS,2,Gorkiy (URS),21 JUL 1989,1124,10000-metres,middlelong,female,senior
-3250,32:17.54,,Iris BIBA-PÖSCHL,27 MAY 1964,GER,6,La Celle-st-Cloud (FRA),15 JUN 1996,1124,10000-metres,middlelong,female,senior
-3250,32:17.54,,Makiko KAWASHIMA,05 AUG 1977,JPN,1,Gifu (JPN),10 MAY 2003,1124,10000-metres,middlelong,female,senior
-3250,32:17.54,,Ayumi HAGIWARA,01 JUN 1992,JPN,3f1,Fukagawa (JPN),11 JUL 2018,1124,10000-metres,middlelong,female,senior
-3254,32:17.56,,Azumi MIYAZAKI,03 MAR 1975,JPN,5,Mito (JPN),05 MAY 1998,1124,10000-metres,middlelong,female,senior
-3255,32:17.58,,Nataliya LAGUNKOVA,06 MAY 1959,URS,8,Kiev (URS),02 AUG 1988,1124,10000-metres,middlelong,female,senior
-3255,32:17.58,,Catherine NDEREBA,21 JUL 1972,KEN,3,Mito (JPN),07 MAY 2000,1124,10000-metres,middlelong,female,senior
-3255,32:17.58,,Ai IGARASHI,25 OCT 1988,JPN,1f1,Abashiri (JPN),07 JUL 2012,1124,10000-metres,middlelong,female,senior
-3258,32:17.59,,Hiromi OMINAMI,15 NOV 1975,JPN,5,Shizuoka (JPN),03 MAY 2003,1124,10000-metres,middlelong,female,senior
-3258,32:17.59,,Yumiko OKAMOTO,28 MAR 1978,JPN,2,Hitachinaka (JPN),14 MAY 2005,1124,10000-metres,middlelong,female,senior
-3260,32:17.60,,Hannah EVERSON,21 APR 1994,USA,18,"Irvine, CA (USA)",14 MAY 2021,1124,10000-metres,middlelong,female,senior
-3261,32:17.62,,Kerstin PRESSLER,02 FEB 1962,FRG,3,Oslo (NOR),01 JUL 1989,1124,10000-metres,middlelong,female,senior
-3261,32:17.62,,Miku DAIDO,24 NOV 1998,JPN,4,"Municipal Nishikyogoku Stadium, Kyoto (JPN)",17 JAN 2021,1124,10000-metres,middlelong,female,senior
-3263,32:17.64,,Annette LUEVANO,22 SEP 1960,USA,4,"Walnut, CA (USA)",21 APR 1996,1124,10000-metres,middlelong,female,senior
-3263,32:17.64,,Kaori TANABE,30 APR 1975,JPN,18,Kanazawa (JPN),29 SEP 2001,1124,10000-metres,middlelong,female,senior
-3265,32:17.65,,Yuki SAITO,25 SEP 1980,JPN,2,Utsunomiya (JPN),15 MAY 2004,1124,10000-metres,middlelong,female,senior
-3265,32:17.65,,Kayoko FUKUSHI,25 MAR 1982,JPN,3,"Yanmar Stadium Nagai, Osaka (JPN)",25 SEP 2020,1124,10000-metres,middlelong,female,senior
-3267,32:17.66,,Yuko KIKUCHI,08 JUN 1992,JPN,3,Yamaguchi (JPN),10 DEC 2016,1124,10000-metres,middlelong,female,senior
-3267,32:17.66,,Rachael Zena CHEBET,05 NOV 1996,UGA,2,"Cote d'Or National Sports Complex, St Pierre (MRI)",11 JUN 2022,1124,10000-metres,middlelong,female,senior
-3269,32:17.67,,Jessica TRENGOVE,15 AUG 1987,AUS,5f2,"Palo Alto, CA (USA)",02 MAY 2015,1124,10000-metres,middlelong,female,senior
-3270,32:17.7h,,Bouchra CHAABI,22 SEP 1980,MAR,1,Rabat (MAR),11 JUN 2000,1123,10000-metres,middlelong,female,senior
-3271,32:17.71,,Ari ICHIHASHI,22 NOV 1977,JPN,7,Kobe (JPN),26 APR 1998,1123,10000-metres,middlelong,female,senior
-3271,32:17.71,,Sylvia MOSQUEDA,08 APR 1966,USA,5,"Walnut, CA (USA)",14 APR 2000,1123,10000-metres,middlelong,female,senior
-3271,32:17.71,,Yoshiko ICHIKAWA,18 APR 1976,JPN,2,Fukagawa (JPN),30 JUN 2004,1123,10000-metres,middlelong,female,senior
-3271,32:17.71,,Pauline KAMULU,30 DEC 1994,KEN,3,Kumagaya (JPN),22 MAY 2016,1123,10000-metres,middlelong,female,senior
-3275,32:17.72,,Jeļena PROKOPČUKA,21 SEP 1976,LAT,19,"Olympic Stadium, Sydney (AUS)",30 SEP 2000,1123,10000-metres,middlelong,female,senior
-3275,32:17.72,,Yoko SHIBUI,14 MAR 1979,JPN,9,Tottori (JPN),04 JUN 2004,1123,10000-metres,middlelong,female,senior
-3277,32:17.73,,Salomé ROCHA,25 APR 1990,POR,2,Huelva (ESP),08 APR 2017,1123,10000-metres,middlelong,female,senior
-3278,32:17.74,,Natalya SOLOMINSKAYA,22 JUN 1961,URS,9,Kiev (URS),02 AUG 1988,1123,10000-metres,middlelong,female,senior
-3278,32:17.74,,Aberu KEBEDE,12 SEP 1986,ETH,1,"Meteor, Zhukovskiy (RUS)",26 JUN 2010,1123,10000-metres,middlelong,female,senior
-3280,32:17.75,,Eva DIETERICH,29 MAR 1999,GER,2,"Stadion am Schwanenteich, Mittweida (GER)",06 MAY 2023,1123,10000-metres,middlelong,female,senior
-3281,32:17.77,,Megumi TANAKA-OSHIMA,04 SEP 1975,JPN,3,Kobe (JPN),30 JUN 2006,1123,10000-metres,middlelong,female,senior
-3282,32:17.78,,Yasuyo IWAMOTO,08 SEP 1976,JPN,10,Kobe (JPN),23 APR 2006,1123,10000-metres,middlelong,female,senior
-3282,32:17.78,,Xiaojie WEI,20 NOV 1989,CHN,6,Shenyang (CHN),11 SEP 2013,1123,10000-metres,middlelong,female,senior
-3284,32:17.79,,Kana YOSHIDA,27 APR 1984,JPN,10,Kobe (JPN),25 APR 2004,1123,10000-metres,middlelong,female,senior
-3284,32:17.79,,Mary Mureithi WANGARI,09 APR 1978,KEN,3,Shizuoka (JPN),03 MAY 2004,1123,10000-metres,middlelong,female,senior
-3286,32:17.80,,Harumi HIROYAMA-SUZUKI,02 SEP 1968,JPN,1,Mito (JPN),05 MAY 1999,1123,10000-metres,middlelong,female,senior
-3287,32:17.81,,Ellie PASHLEY,10 DEC 1988,AUS,3,Melbourne (AUS),13 DEC 2018,1123,10000-metres,middlelong,female,senior
-3288,32:17.86,,Lisa MARTIN,12 MAY 1960,AUS,4,Oslo (NOR),27 JUL 1985,1123,10000-metres,middlelong,female,senior
-3288,32:17.86,,Krishna STANTON,18 MAY 1966,AUS,4,Melbourne (AUS),10 DEC 1991,1123,10000-metres,middlelong,female,senior
-3290,32:17.88,,Kathrin WESSEL,14 AUG 1967,GDR,1,Gateshead (GBR),06 AUG 1989,1123,10000-metres,middlelong,female,senior
-3290,32:17.88,,Deena KASTOR,14 FEB 1973,USA,1,"Walnut, CA (USA)",17 APR 1999,1123,10000-metres,middlelong,female,senior
-3290,32:17.88,,Chloé HERBIET,03 DEC 1998,BEL,10,"Stadio Olimpico, Roma (ITA)",11 JUN 2024,1123,10000-metres,middlelong,female,senior
-3293,32:17.90,,Keiko NOGAMI,06 DEC 1985,JPN,3,Kobe (JPN),22 APR 2018,1123,10000-metres,middlelong,female,senior
-3293,32:17.9h,,Netsanet GUDETA,12 FEB 1991,ETH,3,Addis Abeba (ETH),08 MAY 2019,1123,10000-metres,middlelong,female,senior
-3295,32:17.91,,Natalya SOROKOVSKAYA,23 JUL 1962,URS,1,Gorkiy (URS),21 JUL 1989,1123,10000-metres,middlelong,female,senior
-3296,32:17.92,,Tegla LOROUPE,09 MAY 1973,KEN,4h1,"Ullevi Stadium, Göteborg (SWE)",06 AUG 1995,1123,10000-metres,middlelong,female,senior
-3296,32:17.92,,María Luisa LARRAGA,10 DEC 1970,ESP,3,Mataró (ESP),23 JUL 2004,1123,10000-metres,middlelong,female,senior
-3296,32:17.92,,Alice WRIGHT,03 NOV 1994,GBR,4,"Eugene, OR (USA)",07 JUN 2018,1123,10000-metres,middlelong,female,senior
-3296,32:17.92,,Lyubov DUBROVSKAYA,16 SEP 1997,RUS,1,"Kalininets Stadium, Yekaterinburg (RUS)",17 AUG 2024,1123,10000-metres,middlelong,female,senior
-3300,32:17.93,,Jordan HASAY,21 SEP 1991,USA,12,"Luzhniki Stadion, Moskva (RUS)",11 AUG 2013,1123,10000-metres,middlelong,female,senior
-3301,32:17.95,,Charlotte TAYLOR,17 JAN 1994,GBR,5,"Eugene, OR (USA)",07 JUN 2018,1123,10000-metres,middlelong,female,senior
-3301,32:17.95,,Olga VOVK,13 FEB 1993,RUS,2,"Kalininets Stadium, Yekaterinburg (RUS)",17 AUG 2024,1123,10000-metres,middlelong,female,senior
-3303,32:17.97,,Elana MEYER,10 OCT 1966,RSA,5h1,"Ullevi Stadium, Göteborg (SWE)",06 AUG 1995,1123,10000-metres,middlelong,female,senior
-3304,32:18.0h,,Alice Jemeli TIMBILILI,01 FEB 1983,KEN,2,Nairobi (KEN),22 JUL 2000,1123,10000-metres,middlelong,female,senior
-3304,32:18.00,,Miho IHARA,04 FEB 1988,JPN,4,Fukagawa (JPN),25 JUN 2011,1123,10000-metres,middlelong,female,senior
-3306,32:18.01,,Noriko GEJI,31 MAY 1973,JPN,3,Kobe (JPN),20 APR 1997,1123,10000-metres,middlelong,female,senior
-3306,32:18.01,,Yumi YOSHIKAWA,31 OCT 1990,JPN,7,"National Stadium, Tokyo (JPN)",07 MAY 2022,1123,10000-metres,middlelong,female,senior
-3308,32:18.02,,Hiromi OMINAMI,15 NOV 1975,JPN,3,Doha (QAT),08 DEC 2006,1123,10000-metres,middlelong,female,senior
-3308,32:18.02,,Ai HOSODA,27 NOV 1995,JPN,2,"Municipal Stadium, Miyoshi (JPN)",18 MAY 2024,1123,10000-metres,middlelong,female,senior
-3308,32:18.02,,Kazuna KANETOMO,19 AUG 2001,JPN,5,"Ishin Me-Life Stadium, Yamaguchi (JPN)",21 SEP 2024,1123,10000-metres,middlelong,female,senior
-3311,32:18.03,,Anne KEENAN-BUCKLEY,07 JAN 1962,IRL,6,Camaiore (ITA),06 APR 2002,1123,10000-metres,middlelong,female,senior
-3311,32:18.03,,Megumi YOSHINO,26 JUN 1984,JPN,4,Fukagawa (JPN),29 JUN 2005,1123,10000-metres,middlelong,female,senior
-3313,32:18.05,,Yoko MIYAUCHI,19 JUN 1983,JPN,5,Fukagawa (JPN),29 JUN 2005,1123,10000-metres,middlelong,female,senior
-3313,32:18.05,,Layes ABDULLAYEVA,29 MAY 1991,AZE,1,"Mestský Stadion, Ostrava (CZE)",15 JUL 2011,1123,10000-metres,middlelong,female,senior
-3315,32:18.06,,Lynn JENNINGS,01 JUL 1960,USA,3h2,"Estadio Olímpico, Barcelona (ESP)",01 AUG 1992,1123,10000-metres,middlelong,female,senior
-3316,32:18.07,,Mary Jepkosgei KEITANY,18 JAN 1982,KEN,7,Utrecht (NED),17 MAY 2007,1123,10000-metres,middlelong,female,senior
-3317,32:18.08,,Makiko KAWASHIMA,05 AUG 1977,JPN,8,Yokohama (JPN),06 JUN 2003,1123,10000-metres,middlelong,female,senior
-3318,32:18.09,,Miyuki UEHARA,22 NOV 1995,JPN,7,Nagoya (JPN),24 JUN 2016,1123,10000-metres,middlelong,female,senior
-3319,32:18.10,,Kanako HAGINAGA,15 NOV 1975,JPN,1,Kobe (JPN),18 MAY 1996,1123,10000-metres,middlelong,female,senior
-3320,32:18.16,,Elva DRYER,26 SEP 1971,USA,19,"Olympic Stadium, Athina (GRE)",27 AUG 2004,1123,10000-metres,middlelong,female,senior
-3321,32:18.18,,Haruko OKAMOTO,19 AUG 1974,JPN,4,Kobe (JPN),28 APR 2002,1123,10000-metres,middlelong,female,senior
-3322,32:18.19,,Adriana FERNÁNDEZ MIRANDA,04 APR 1971,MEX,2,Burnaby (CAN),01 JUN 2002,1123,10000-metres,middlelong,female,senior
-3322,32:18.19,,Christelle DAUNAY,05 DEC 1974,FRA,1,St-Maur (FRA),16 JUN 2006,1123,10000-metres,middlelong,female,senior
-3324,32:18.22,,Clair FEARNLEY,07 MAR 1975,AUS,3,Melbourne (AUS),06 DEC 1999,1123,10000-metres,middlelong,female,senior
-3325,32:18.24,,Carole ROUILLARD,15 MAR 1960,CAN,6,Oslo (NOR),04 JUL 1987,1123,10000-metres,middlelong,female,senior
-3326,32:18.25,,Kazuna KANETOMO,19 AUG 2001,JPN,3,"Egao Kenko Stadium, Kumamoto (JPN)",12 APR 2025,1123,10000-metres,middlelong,female,senior
-3327,32:18.27,,Hiromi OMINAMI,15 NOV 1975,JPN,19,Kanazawa (JPN),29 SEP 2001,1123,10000-metres,middlelong,female,senior
-3328,32:18.28,,Akane TAIRA,03 NOV 1982,JPN,13,Kobe (JPN),22 APR 2007,1123,10000-metres,middlelong,female,senior
-3329,32:18.29,,Lisa ONDIEKI,12 MAY 1960,AUS,2,Melbourne (AUS),14 DEC 1995,1123,10000-metres,middlelong,female,senior
-3330,32:18.31,,Mao ICHIYAMA,29 MAY 1997,JPN,5,Yamaguchi (JPN),22 JUN 2018,1123,10000-metres,middlelong,female,senior
-3331,32:18.32,,Alia SAEED MOHAMMED,18 MAY 1991,UAE,4,Jakarta (INA),25 AUG 2018,1123,10000-metres,middlelong,female,senior
-3332,32:18.33,,Yuki SAITO,25 SEP 1980,JPN,11,Kobe (JPN),25 APR 2004,1123,10000-metres,middlelong,female,senior
-3333,32:18.34,,Jill BOLTZ,14 OCT 1966,GBR,4h2,"Estadio Olímpico, Barcelona (ESP)",01 AUG 1992,1123,10000-metres,middlelong,female,senior
-3333,32:18.34,,Aki FUJIKAWA,14 NOV 1978,JPN,6,Fukagawa (JPN),25 JUN 2003,1123,10000-metres,middlelong,female,senior
-3335,32:18.35,,Rochelle KANUHO,04 JUL 1990,USA,1,"Portland, OR (USA)",09 JUN 2018,1123,10000-metres,middlelong,female,senior
-3336,32:18.36,,Sylvia MOSQUEDA,08 APR 1966,USA,6,"Sacramento, CA (USA)",14 JUL 2000,1123,10000-metres,middlelong,female,senior
-3336,32:18.36,,Kathy BUTLER,22 OCT 1973,GBR,5,"Queensland Sport and Athletics Centre, Nathan, Brisbane (AUS)",07 SEP 2001,1123,10000-metres,middlelong,female,senior
-3336,32:18.36,,Rie MATSUOKA,09 MAR 1977,JPN,20,Kanazawa (JPN),29 SEP 2001,1123,10000-metres,middlelong,female,senior
-3336,32:18.36,,Yuko KAWAKAMI,01 AUG 1975,JPN,5,Kobe (JPN),28 APR 2002,1123,10000-metres,middlelong,female,senior
-3340,32:18.37,,Kayo SUGIHARA,24 FEB 1983,JPN,3,Shizuoka (JPN),30 APR 2007,1123,10000-metres,middlelong,female,senior
-3341,32:18.40,,Marie-Louise HAMRIN,19 APR 1957,SWE,14,"Neckarstadion, Stuttgart (GER)",30 AUG 1986,1123,10000-metres,middlelong,female,senior
-3341,32:18.40,,Yoko AIZU,28 APR 1986,JPN,1,Fukagawa (JPN),27 JUN 2012,1123,10000-metres,middlelong,female,senior
-3343,32:18.44,,Lynn JENNINGS,01 JUL 1960,USA,8h2,"Olympic Stadium, Seoul (KOR)",26 SEP 1988,1123,10000-metres,middlelong,female,senior
-3343,32:18.44,,Charlotte PURDUE,10 JUN 1991,GBR,7,Bilbao (ESP),03 JUN 2012,1123,10000-metres,middlelong,female,senior
-3343,32:18.44,,Mizuki TANIMOTO,18 DEC 1994,JPN,4,Yamaguchi (JPN),10 DEC 2016,1123,10000-metres,middlelong,female,senior
-3346,32:18.45,,Kate FONSHELL,10 OCT 1969,USA,3,"Philadelphia, PA (USA)",25 APR 1996,1123,10000-metres,middlelong,female,senior
-3347,32:18.46,,Yoko MANABE,08 FEB 1979,JPN,2,Kushiro (JPN),16 JUN 2004,1123,10000-metres,middlelong,female,senior
-3348,32:18.49,,Katie MCGREGOR,02 SEP 1977,USA,15,"Olympiastadion, Berlin (GER)",15 AUG 2009,1123,10000-metres,middlelong,female,senior
-3348,32:18.49,,Gladys TEJEDA,30 SEP 1985,PER,6f2,"Palo Alto, CA (USA)",02 MAY 2015,1123,10000-metres,middlelong,female,senior
-3350,32:18.56,,Naoko HASHIMOTO,08 SEP 1982,JPN,8,Niigata (JPN),25 SEP 2004,1123,10000-metres,middlelong,female,senior
-3351,32:18.57,,Hiroko MIYAUCHI,19 JUN 1983,JPN,14,Kobe (JPN),22 APR 2007,1123,10000-metres,middlelong,female,senior
-3352,32:18.59,,Takako KOTORIDA,02 APR 1977,JPN,6,Mito (JPN),05 MAY 1998,1123,10000-metres,middlelong,female,senior
-3352,32:18.59,,Yuka TAKASHIMA,12 MAY 1988,JPN,6,Yamaguchi (JPN),22 JUN 2018,1123,10000-metres,middlelong,female,senior
-3354,32:18.6h,,Lucy Kabuu WANGUI,24 MAR 1984,KEN,1,Nairobi (KEN),04 JUL 2008,1123,10000-metres,middlelong,female,senior
-3355,32:18.62,,Junko KATAOKA,13 JUN 1970,JPN,6h1,"Ullevi Stadium, Göteborg (SWE)",06 AUG 1995,1123,10000-metres,middlelong,female,senior
-3355,32:18.62,,Chrysostomia IAKOVOU,09 APR 1971,GRE,13,"Olympiastadion, München (GER)",06 AUG 2002,1123,10000-metres,middlelong,female,senior
-3357,32:18.64,,Lyudmila BIKTASHEVA,25 JUL 1974,RUS,10,"Commonwealth Stadium, Edmonton (CAN)",07 AUG 2001,1123,10000-metres,middlelong,female,senior
-3358,32:18.65,,Deena KASTOR,14 FEB 1973,USA,11,"Commonwealth Stadium, Edmonton (CAN)",07 AUG 2001,1123,10000-metres,middlelong,female,senior
-3359,32:18.69,,Jip VASTENBURG,21 MAR 1994,NED,1,"Kadrioru staadion, Tallinn (EST)",10 JUL 2015,1123,10000-metres,middlelong,female,senior
-3360,32:18.70,,Sakiho TSUTSUI,19 JAN 1996,JPN,7,Yamaguchi (JPN),22 JUN 2018,1123,10000-metres,middlelong,female,senior
-3361,32:18.72,,Amy CRAGG,21 JAN 1984,USA,14f1,"Palo Alto, CA (USA)",04 MAY 2008,1123,10000-metres,middlelong,female,senior
-3361,32:18.72,,Momoka KAWAGUCHI,28 JUN 1998,JPN,2,"Athletics Stadium, Fukagawa (JPN)",22 JUN 2022,1123,10000-metres,middlelong,female,senior
-3363,32:18.74,,Noriko MATSUOKA,02 MAY 1979,JPN,1f1,Fugokawa (JPN),10 JUN 2009,1123,10000-metres,middlelong,female,senior
-3364,32:18.75,,Iulia OLTEANU-NEGURA,26 JAN 1967,ROU,9,Tokyo (JPN),10 JUN 2001,1123,10000-metres,middlelong,female,senior
-3365,32:18.77,,Eveline Nganga WAMBUI,04 APR 1986,KEN,2,Shizuoka (JPN),03 MAY 2008,1123,10000-metres,middlelong,female,senior
-3366,32:18.79,,Kayo SUGIHARA,24 FEB 1983,JPN,1,Kumagaya (JPN),10 JUN 2011,1123,10000-metres,middlelong,female,senior
-3367,32:18.81,,Guixia ZHENG,24 JUN 1973,CHN,2,Bangkok (THA),14 DEC 1998,1123,10000-metres,middlelong,female,senior
-3367,32:18.81,,Amy CRAGG,21 JAN 1984,USA,3,"Sacramento, CA (USA)",26 JUN 2014,1123,10000-metres,middlelong,female,senior
-3369,32:18.82,,Kimberly FITCHEN-YOUNG,03 SEP 1968,USA,1,"Palo Alto, CA (USA)",29 MAR 2002,1123,10000-metres,middlelong,female,senior
-3370,32:18.83,,Siju YANG,19 APR 1973,CHN,4,Kobe (JPN),20 APR 1997,1123,10000-metres,middlelong,female,senior
-3371,32:18.86,,Meixia ZHANG,20 JAN 1991,CHN,7,Shenyang (CHN),11 SEP 2013,1122,10000-metres,middlelong,female,senior
-3372,32:18.87,,Pauline Kiragu WANGURU,26 AUG 1980,KEN,1,Kita-Kyushu (JPN),12 MAY 2007,1122,10000-metres,middlelong,female,senior
-3372,32:18.87,,Sarah WANJIRU,12 APR 2004,KEN,8,"Athletic Track, Abashiri (JPN)",10 JUL 2024,1122,10000-metres,middlelong,female,senior
-3374,32:18.88,,Tatyana PETROVA,08 APR 1983,RUS,7,"Meteor, Zhukovskiy (RUS)",03 JUL 2011,1122,10000-metres,middlelong,female,senior
-3375,32:18.90,,Noriko MATSUOKA,02 MAY 1979,JPN,5,Kobe (JPN),25 APR 2010,1122,10000-metres,middlelong,female,senior
-3375,32:18.90,,Brigid KOSGEI,20 FEB 1994,KEN,6,"Moi International Sports Centre, Kasarani, Nairobi (KEN)",19 JUN 2021,1122,10000-metres,middlelong,female,senior
-3377,32:18.93,,Ancuţa BOBOCEL,03 OCT 1987,ROU,2,Maia (POR),12 JUL 2017,1122,10000-metres,middlelong,female,senior
-3378,32:18.96,,Kayoko FUKUSHI,25 MAR 1982,JPN,2f2,Niigata (JPN),24 SEP 2010,1122,10000-metres,middlelong,female,senior
-3379,32:18.98,,Takako KOTORIDA,02 APR 1977,JPN,10,Tokyo (JPN),10 JUN 2001,1122,10000-metres,middlelong,female,senior
-3380,32:18.99,,Kazue OGOSHI,02 MAR 1981,JPN,6,Shizuoka (JPN),03 MAY 2003,1122,10000-metres,middlelong,female,senior
-3381,32:19.0h,,Sally BARSOSIO,21 MAR 1978,KEN,3,Nairobi (KEN),22 JUL 2000,1122,10000-metres,middlelong,female,senior
-3381,32:19.0h,,Tsigie GEBRESELAMA,30 SEP 2000,ETH,4,Addis Abeba (ETH),08 MAY 2019,1122,10000-metres,middlelong,female,senior
-3383,32:19.02,,Yuko KAWAKAMI,01 AUG 1975,JPN,12,"La Cartuja, Sevilla (ESP)",26 AUG 1999,1122,10000-metres,middlelong,female,senior
-3384,32:19.03,,Alice WRIGHT,03 NOV 1994,GBR,2h,"Sacramento, CA (USA)",24 MAY 2018,1122,10000-metres,middlelong,female,senior
-3385,32:19.05,,Trihas GEBRE,29 APR 1990,ETH,1,Mataró (ESP),06 APR 2013,1122,10000-metres,middlelong,female,senior
-3386,32:19.08,,Eloise WELLINGS,09 NOV 1982,AUS,1,Melbourne (AUS),10 DEC 2009,1122,10000-metres,middlelong,female,senior
-3387,32:19.1h,,Daisy CHEROTICH,30 MAY 1997,KEN,1,"Nyayo National Stadium, Nairobi (KEN)",28 FEB 2021,1122,10000-metres,middlelong,female,senior
-3388,32:19.11,,Susan SIRMA,26 MAY 1966,KEN,1,Hamamatsu (JPN),13 MAY 1990,1122,10000-metres,middlelong,female,senior
-3388,32:19.11,,Carmela CARDAMA,04 DEC 1996,ESP,10,"JSerra Catholic HS, San Juan Capistrano, CA (USA)",06 MAY 2022,1122,10000-metres,middlelong,female,senior
-3390,32:19.14,,Carol MONTGOMERY,09 DEC 1966,CAN,3,"Walnut, CA (USA)",20 APR 2001,1122,10000-metres,middlelong,female,senior
-3391,32:19.15,,Miki OHIRA,28 JUN 1981,JPN,20,Tokyo (JPN),02 JUN 2005,1122,10000-metres,middlelong,female,senior
-3391,32:19.15,,Krisztina PAPP,17 DEC 1982,HUN,2f1,Maia (POR),09 APR 2016,1122,10000-metres,middlelong,female,senior
-3393,32:19.18,,Mie UEDA,09 JUN 1982,JPN,9,Niigata (JPN),25 SEP 2004,1122,10000-metres,middlelong,female,senior
-3393,32:19.18,,Rina NABESHIMA,16 DEC 1993,JPN,3f2,Osaka (JPN),22 SEP 2017,1122,10000-metres,middlelong,female,senior
-3395,32:19.2h,,Bosena MULATIE,21 NOV 2001,ETH,4,Hawassa (ETH),29 MAR 2022,1122,10000-metres,middlelong,female,senior
-3396,32:19.25,,Bilha KAMAU,02 JUL 1988,KEN,4,Kobe (JPN),13 OCT 2007,1122,10000-metres,middlelong,female,senior
-3397,32:19.27,,Camilla RICHARDSSON,14 SEP 1993,FIN,9,"Olympiastadion, München (GER)",15 AUG 2022,1122,10000-metres,middlelong,female,senior
-3398,32:19.30,,Yoshimi OZAKI,01 JUL 1981,JPN,3,Utsunomiya (JPN),15 MAY 2004,1122,10000-metres,middlelong,female,senior
-3398,32:19.3h,,Peninah ARUSEI,23 FEB 1979,KEN,2,Nairobi (KEN),04 JUL 2008,1122,10000-metres,middlelong,female,senior
-3400,32:19.31,,Bruktayit ESHETU,29 SEP 1990,ETH,3,"St. Michael's HS, Austin, TX (USA)",27 FEB 2021,1122,10000-metres,middlelong,female,senior
-3401,32:19.32,,Pauline Chemning KORIKWIANG,01 MAR 1988,KEN,10,"Hayward Field, Eugene, OR (USA)",01 JUN 2012,1122,10000-metres,middlelong,female,senior
-3402,32:19.33,,Yukari ABE,21 AUG 1989,JPN,6,"Athletic Track, Abashiri (JPN)",10 JUL 2021,1122,10000-metres,middlelong,female,senior
-3403,32:19.36,,Hanae TANAKA,12 FEB 1990,JPN,2,Oita (JPN),17 OCT 2015,1122,10000-metres,middlelong,female,senior
-3404,32:19.37,,Cailie LOGUE,04 JAN 1999,USA,19f2,"JSerra Catholic HS, San Juan Capistrano, CA (USA)",05 DEC 2020,1122,10000-metres,middlelong,female,senior
-3405,32:19.38,,Rina FUJIOKA,18 OCT 1982,JPN,3,Fukagawa (JPN),30 JUN 2004,1122,10000-metres,middlelong,female,senior
-3406,32:19.39,,Noriko MATSUOKA,02 MAY 1979,JPN,10,Niigata (JPN),25 SEP 2004,1122,10000-metres,middlelong,female,senior
-3406,32:19.39,,Jane Gakunyi WANJIKU,14 JUN 1979,KEN,11,Kobe (JPN),23 APR 2006,1122,10000-metres,middlelong,female,senior
-3408,32:19.40,,Keira D'AMATO,21 OCT 1984,USA,7,"Hayward Field, Eugene, OR (USA)",31 JUL 2025,1122,10000-metres,middlelong,female,senior
-3409,32:19.43,,Genet GETANEH,06 JAN 1986,ETH,13,Ostrava (CZE),12 JUN 2008,1122,10000-metres,middlelong,female,senior
-3410,32:19.44,,Olivera JEVTIĆ,24 JUL 1977,YUG,12,"Commonwealth Stadium, Edmonton (CAN)",07 AUG 2001,1122,10000-metres,middlelong,female,senior
-3411,32:19.48,,Wenqin SUN,02 JUN 1981,CHN,6,Nanjing (CHN),17 OCT 2005,1122,10000-metres,middlelong,female,senior
-3412,32:19.49,,Rochelle KANUHO,04 JUL 1990,USA,6,"Drake Stadium, Des Moines, IA (USA)",21 JUN 2018,1122,10000-metres,middlelong,female,senior
-3413,32:19.50,,Zoya IVANOVA,14 MAR 1952,URS,8,Oslo (NOR),02 JUL 1988,1122,10000-metres,middlelong,female,senior
-3413,32:19.5h,,Doris Chepkwemoi CHANGEYWO,12 DEC 1984,KEN,5,Nairobi (KEN),25 JUN 2004,1122,10000-metres,middlelong,female,senior
-3415,32:19.51,,Gete ALEMAYEHU,27 AUG 1998,ETH,11,"FBK Stadium, Hengelo (NED)",08 JUN 2021,1122,10000-metres,middlelong,female,senior
-3416,32:19.54,,Valeriia ZINENKO,06 NOV 1995,UKR,1,"Central Stadium, Cherkasy (UKR)",24 APR 2021,1122,10000-metres,middlelong,female,senior
-3417,32:19.57,,Akemi MATSUNO,27 APR 1968,JPN,9h2,"Olympic Stadium, Seoul (KOR)",26 SEP 1988,1122,10000-metres,middlelong,female,senior
-3417,32:19.57,,Anne Marie LAUCK,07 MAR 1969,USA,7h1,"Ullevi Stadium, Göteborg (SWE)",06 AUG 1995,1122,10000-metres,middlelong,female,senior
-3417,32:19.57,,Masae UEOKA,06 OCT 1972,JPN,5,Naruto (JPN),14 JUN 1998,1122,10000-metres,middlelong,female,senior
-3420,32:19.58,,Dulce María RODRÍGUEZ,14 AUG 1972,MEX,1,"Palo Alto, CA (USA)",30 APR 2006,1122,10000-metres,middlelong,female,senior
-3421,32:19.59,,Kasumi NISHIHARA,01 MAR 1989,JPN,4,Kobe (JPN),22 APR 2018,1122,10000-metres,middlelong,female,senior
-3421,32:19.59,,Carolina TABARES,18 JUN 1986,COL,14,"Palo Alto, CA (USA)",02 MAY 2019,1122,10000-metres,middlelong,female,senior
-3423,32:19.62,,Nadezhda GALYAMOVA,22 JUL 1959,URS,10,Kiev (URS),02 AUG 1988,1122,10000-metres,middlelong,female,senior
-3424,32:19.63,,Masami SAKATA,11 OCT 1984,JPN,12,Kobe (JPN),23 APR 2006,1122,10000-metres,middlelong,female,senior
-3425,32:19.69,,Mayumi ICHIKAWA,03 MAY 1976,JPN,7,Mito (JPN),05 MAY 1998,1122,10000-metres,middlelong,female,senior
-3426,32:19.71,,Sakiho TSUTSUI,19 JAN 1996,JPN,3f2,"Yanmar Stadium Nagai, Osaka (JPN)",20 SEP 2019,1122,10000-metres,middlelong,female,senior
-3427,32:19.73,,Hiroko MIYAUCHI,19 JUN 1983,JPN,8,Kobe (JPN),27 APR 2008,1122,10000-metres,middlelong,female,senior
-3428,32:19.75,,Maria YERMAKOVA,29 MAY 2003,RUS,3,"Kalininets Stadium, Yekaterinburg (RUS)",17 AUG 2024,1122,10000-metres,middlelong,female,senior
-3429,32:19.76,,XiuZhen MA,05 JUL 2000,CHN,6,"Jack Kemp Stadium - Occidental College, Los Angeles, CA (USA)",11 MAY 2024,1122,10000-metres,middlelong,female,senior
-3430,32:19.77,,Maria CURATOLO,12 OCT 1963,ITA,9,Oslo (NOR),02 JUL 1988,1122,10000-metres,middlelong,female,senior
-3431,32:19.79,,Nami KUROSAWA,26 DEC 1978,JPN,11,Tokyo (JPN),10 JUN 2001,1122,10000-metres,middlelong,female,senior
-3432,32:19.81,,Carmela CARDAMA,04 DEC 1996,ESP,18,"JSerra Catholic HS, San Juan Capistrano, CA (USA)",06 MAR 2022,1122,10000-metres,middlelong,female,senior
-3433,32:19.84,,Caroline KARIBA,22 APR 2004,KEN,6,"Ishin Me-Life Stadium, Yamaguchi (JPN)",21 SEP 2024,1122,10000-metres,middlelong,female,senior
-3433,32:19.84,,Taylor ROE,13 OCT 2000,USA,1,"Grand Bahama Sports Complex, Freeport (BAH)",15 AUG 2025,1122,10000-metres,middlelong,female,senior
-3435,32:19.86,,Erika VERÉBNÉ FAZEKAS,23 OCT 1963,HUN,3,Oslo (NOR),05 JUL 1986,1122,10000-metres,middlelong,female,senior
-3436,32:19.93,,Mary KNISELY,29 MAY 1959,USA,2,"Bruce Stadium, Canberra (AUS)",05 OCT 1985,1122,10000-metres,middlelong,female,senior
-3437,32:19.94,,Mizuki NOGUCHI,03 JUL 1978,JPN,13,"Commonwealth Stadium, Edmonton (CAN)",07 AUG 2001,1122,10000-metres,middlelong,female,senior
-3437,32:19.94,,Emily INFELD,21 MAR 1990,USA,8,"Hayward Field, Eugene, OR (USA)",26 JUN 2021,1122,10000-metres,middlelong,female,senior
-3439,32:19.95,,Lynn JENNINGS,01 JUL 1960,USA,1,San José (USA),25 JUN 1987,1122,10000-metres,middlelong,female,senior
-3439,32:19.95,,Reiko TOSA,11 JUN 1976,JPN,3,Hitachinaka (JPN),14 MAY 2005,1122,10000-metres,middlelong,female,senior
-3441,32:19.97,,Alicia CRAIG,14 JUN 1982,USA,8,"Palo Alto, CA (USA)",30 APR 2004,1122,10000-metres,middlelong,female,senior
-3442,32:19.98,,Salomé ROCHA,25 APR 1990,POR,2f1,Lisboa (POR),29 MAR 2014,1121,10000-metres,middlelong,female,senior
-3443,32:20.00,,Noriko URA,28 JUL 1976,JPN,5,Mito (JPN),05 MAY 1997,1121,10000-metres,middlelong,female,senior
+2789,32:11.42,,Rebecca CHELANGAT,01 JAN 2002,UGA,1,Riyadh (KSA),17 NOV 2025,1129,10000-metres,middlelong,female,senior
+2791,32:11.48,,Maggie MONTOYA,02 MAY 1995,USA,1,"Los Angeles, CA (USA)",29 AUG 2020,1129,10000-metres,middlelong,female,senior
+2792,32:11.49,,Marleen RENDERS,24 DEC 1968,BEL,13h1,"Olympic Stadium, Seoul (KOR)",26 SEP 1988,1129,10000-metres,middlelong,female,senior
+2793,32:11.52,,Galina ALEKSANDROVA,15 OCT 1975,RUS,11,"Olympiastadion, München (GER)",06 AUG 2002,1129,10000-metres,middlelong,female,senior
+2794,32:11.53,,Adriana FERNÁNDEZ MIRANDA,04 APR 1971,MEX,2,Burnaby (CAN),03 JUN 2000,1129,10000-metres,middlelong,female,senior
+2794,32:11.53,,Yuka HORI,13 JUN 1996,JPN,4f2,Osaka (JPN),21 SEP 2018,1129,10000-metres,middlelong,female,senior
+2796,32:11.60,,Dominique SCOTT,24 JUN 1992,RSA,5f1,"Palo Alto, CA (USA)",03 APR 2015,1129,10000-metres,middlelong,female,senior
+2797,32:11.61,,Nell ROJAS,27 NOV 1987,USA,16,"Irvine, CA (USA)",14 MAY 2021,1129,10000-metres,middlelong,female,senior
+2797,32:11.61,,Molly GRABILL,31 AUG 1992,USA,17,"Irvine, CA (USA)",14 MAY 2021,1129,10000-metres,middlelong,female,senior
+2799,32:11.62,,Päivi TIKKANEN,19 JAN 1960,FIN,6,Oslo (NOR),02 JUL 1988,1129,10000-metres,middlelong,female,senior
+2800,32:11.63,,Hiromi MASUDA,18 JUL 1976,JPN,8h2,"Olympic Stadium, Athina (GRE)",02 AUG 1997,1129,10000-metres,middlelong,female,senior
+2801,32:11.64,,Hiromi OMINAMI,15 NOV 1975,JPN,7,Kobe (JPN),23 APR 2000,1129,10000-metres,middlelong,female,senior
+2801,32:11.64,,Megumi TANAKA-OSHIMA,04 SEP 1975,JPN,1,Shizuoka (JPN),03 MAY 2006,1129,10000-metres,middlelong,female,senior
+2801,32:11.64,,Pauline KAMULU,30 DEC 1994,KEN,2,"Ishin Me-Life Stadium, Yamaguchi (JPN)",21 SEP 2024,1129,10000-metres,middlelong,female,senior
+2804,32:11.65,,Olivia PRATT,21 JAN 1994,USA,19,"Parliament Hill Fields Athletics Track, London (GBR)",18 MAY 2024,1129,10000-metres,middlelong,female,senior
+2805,32:11.66,,Yuka SUZUKI,14 SEP 1999,JPN,15,"Yanmar Stadium Nagai, Osaka (JPN)",04 DEC 2020,1129,10000-metres,middlelong,female,senior
+2806,32:11.67,,Veronica INGLESE,22 NOV 1990,ITA,30,"Estádio Olímpico, Rio de Janeiro (BRA)",12 AUG 2016,1129,10000-metres,middlelong,female,senior
+2806,32:11.67,,Trihas GEBRE,29 APR 1990,ESP,1,Huelva (ESP),08 APR 2017,1129,10000-metres,middlelong,female,senior
+2808,32:11.68,,Felista WANJUGU,18 FEB 1990,KEN,1,Kobe (JPN),24 APR 2016,1129,10000-metres,middlelong,female,senior
+2809,32:11.72,,Lisa UHL,31 AUG 1987,USA,2,"Drake Stadium, Des Moines, IA (USA)",24 JUN 2010,1129,10000-metres,middlelong,female,senior
+2809,32:11.72,,Mekdes WOLDU,20 OCT 1992,FRA,8f1,"Stade Complexe Sportif Jean-Paul Chasseboeuf, Pacé (FRA)",28 MAY 2022,1129,10000-metres,middlelong,female,senior
+2811,32:11.77,,Bronte OATES,23 AUG 2004,AUS,5,"Lohrheidestadion, Wattenscheid, Bochum (GER)",21 JUL 2025,1129,10000-metres,middlelong,female,senior
+2812,32:11.79,,Carol MONTGOMERY,09 DEC 1966,CAN,2,"Walnut, CA (USA)",14 APR 2000,1129,10000-metres,middlelong,female,senior
+2813,32:11.80,,Charlotte TAYLOR,17 JAN 1994,GBR,4f1,"Palo Alto, CA (USA)",31 MAR 2017,1129,10000-metres,middlelong,female,senior
+2814,32:11.81,,Dorcas WASIKE,,KEN,2,"Eugene, OR (USA)",07 JUN 2018,1129,10000-metres,middlelong,female,senior
+2815,32:11.82,,Yuko MIZUGUCHI,24 MAY 1985,JPN,7f2,Kumagaya (JPN),20 SEP 2013,1129,10000-metres,middlelong,female,senior
+2816,32:11.83,,Momoka KAWAGUCHI,28 JUN 1998,JPN,4,"National Stadium, Tokyo (JPN)",07 MAY 2022,1129,10000-metres,middlelong,female,senior
+2817,32:11.84,,Harumi HIROYAMA-SUZUKI,02 SEP 1968,JPN,8,Tokyo (JPN),10 JUN 2001,1129,10000-metres,middlelong,female,senior
+2817,32:11.84,,Kate AVERY,10 OCT 1991,GBR,5,Parliament Hill (GBR),21 MAY 2016,1129,10000-metres,middlelong,female,senior
+2819,32:11.85,,Yasuyo IWAMOTO,08 SEP 1976,JPN,13,Oita (JPN),01 OCT 2006,1129,10000-metres,middlelong,female,senior
+2820,32:11.89,,Genevieve GREGSON,04 AUG 1989,AUS,9,"FBK Stadium, Hengelo (NED)",06 JUN 2021,1129,10000-metres,middlelong,female,senior
+2821,32:11.90,,Jip VASTENBURG,21 MAR 1994,NED,1f1,"Palo Alto, CA (USA)",04 APR 2014,1129,10000-metres,middlelong,female,senior
+2822,32:11.92,,Marla RUNYAN,04 JAN 1969,USA,1,"Eugene, OR (USA)",21 APR 2006,1129,10000-metres,middlelong,female,senior
+2822,32:11.92,,Sandrafelis Chebet TUEI,20 JAN 1998,KEN,10,Gold Coast (AUS),09 APR 2018,1129,10000-metres,middlelong,female,senior
+2822,32:11.92,,Samantha BLUSKE,17 JUN 1991,USA,3f1,"JSerra Catholic HS, San Juan Capistrano, CA (USA)",05 DEC 2020,1129,10000-metres,middlelong,female,senior
+2825,32:11.93,,Jessica WATYCHOWICZ,27 FEB 1991,USA,4f1,"JSerra Catholic HS, San Juan Capistrano, CA (USA)",05 DEC 2020,1129,10000-metres,middlelong,female,senior
+2826,32:11.94,,Blake PHILLIPS-RUSSELL,24 JUL 1975,USA,7,"Palo Alto, CA (USA)",02 MAY 2003,1129,10000-metres,middlelong,female,senior
+2827,32:11.95,,Liz MCCOLGAN,24 MAY 1964,GBR,1h2,"Olympic Stadium, Seoul (KOR)",26 SEP 1988,1129,10000-metres,middlelong,female,senior
+2827,32:11.95,,Sabrina MOCKENHAUPT,06 DEC 1980,GER,1,München (GER),17 MAY 2003,1129,10000-metres,middlelong,female,senior
+2829,32:11.97,,Pauline Chemning KORIKWIANG,01 MAR 1988,KEN,6,"Meteor, Zhukovskiy (RUS)",03 JUL 2011,1129,10000-metres,middlelong,female,senior
+2830,32:12.01,,Kumi TANABE,02 APR 1981,JPN,12,Kanazawa (JPN),29 SEP 2001,1128,10000-metres,middlelong,female,senior
+2831,32:12.02,,Kellyn TAYLOR,22 JUL 1986,USA,6,"Hayward Field, Eugene, OR (USA)",29 JUN 2024,1128,10000-metres,middlelong,female,senior
+2832,32:12.06,,Elly HENES,13 OCT 1998,USA,16f2,"JSerra Catholic HS, San Juan Capistrano, CA (USA)",05 DEC 2020,1128,10000-metres,middlelong,female,senior
+2833,32:12.07,,Nicole LÉVÉQUE,27 JAN 1951,FRA,11,"Olympiastadion, Helsinki (FIN)",13 AUG 1994,1128,10000-metres,middlelong,female,senior
+2834,32:12.1h,,Alice Jemeli TIMBILILI,01 FEB 1983,KEN,1,Nairobi (KEN),25 JUN 2004,1128,10000-metres,middlelong,female,senior
+2834,32:12.10,,Remi NAKASATO,24 JUN 1988,JPN,2,Fugokawa (JPN),17 JUN 2010,1128,10000-metres,middlelong,female,senior
+2836,32:12.11,,Yuka ANDO,16 MAR 1994,JPN,5f2,"Nagaragawa Stadium, Gifu (JPN)",23 SEP 2022,1128,10000-metres,middlelong,female,senior
+2837,32:12.12,,Gwen JORGENSEN,25 APR 1986,USA,17f2,"JSerra Catholic HS, San Juan Capistrano, CA (USA)",05 DEC 2020,1128,10000-metres,middlelong,female,senior
+2838,32:12.13,,Roberta BRUNET,20 MAY 1965,ITA,2,Pietrasanta (ITA),05 MAY 1996,1128,10000-metres,middlelong,female,senior
+2839,32:12.14,,Ryoko KIZAKI,21 JUN 1985,JPN,1,Shibetsu (JPN),08 JUN 2008,1128,10000-metres,middlelong,female,senior
+2840,32:12.19,,Taylor ROE,13 OCT 2000,USA,18,"National Stadium, Tokyo (JPN)",13 SEP 2025,1128,10000-metres,middlelong,female,senior
+2841,32:12.2h,,Yelena TOLSTOGUZOVA,17 JUN 1962,URS,2,Kiev (URS),24 JUN 1988,1128,10000-metres,middlelong,female,senior
+2842,32:12.24,,Rachel CLIFF,01 APR 1988,CAN,2,Burnaby (CAN),13 JUN 2019,1128,10000-metres,middlelong,female,senior
+2842,32:12.24,,Yuka ANDO,16 MAR 1994,JPN,5,"Athletic Track, Abashiri (JPN)",15 JUL 2020,1128,10000-metres,middlelong,female,senior
+2842,32:12.24,,Yuka ANDO,16 MAR 1994,JPN,2,"Yanmar Stadium Nagai, Osaka (JPN)",25 SEP 2020,1128,10000-metres,middlelong,female,senior
+2845,32:12.25,,Julia VAQUERO,18 SEP 1970,ESP,9h2,"Olympic Stadium, Athina (GRE)",02 AUG 1997,1128,10000-metres,middlelong,female,senior
+2845,32:12.25,,Mizuki MATSUDA,31 MAY 1995,JPN,7f1,Abashiri (JPN),16 JUL 2015,1128,10000-metres,middlelong,female,senior
+2847,32:12.27,,Lyudmila MATVEYEVA,01 FEB 1957,URS,12,"Olympic Stadium, Seoul (KOR)",30 SEP 1988,1128,10000-metres,middlelong,female,senior
+2847,32:12.27,,Mao KIYOTA,12 SEP 1993,JPN,6,Kobe (JPN),20 APR 2014,1128,10000-metres,middlelong,female,senior
+2849,32:12.28,,Fiona O'KEEFFE,24 MAY 1998,USA,5f1,"JSerra Catholic HS, San Juan Capistrano, CA (USA)",05 DEC 2020,1128,10000-metres,middlelong,female,senior
+2850,32:12.3h,,Lucy Kabuu WANGUI,24 MAR 1984,KEN,2,Nairobi (KEN),25 JUN 2004,1128,10000-metres,middlelong,female,senior
+2850,32:12.30,,Noriko MATSUOKA,02 MAY 1979,JPN,18,Tokyo (JPN),02 JUN 2005,1128,10000-metres,middlelong,female,senior
+2850,32:12.30,,Elise CRANNY,09 MAY 1996,USA,1,"Hayward Field, Eugene, OR (USA)",06 JUL 2023,1128,10000-metres,middlelong,female,senior
+2853,32:12.31,,Harumi OKAMOTO,07 FEB 1998,JPN,4,"Prefectural Shizuoka Stadium, Fukuroi (JPN)",03 MAY 2021,1128,10000-metres,middlelong,female,senior
+2854,32:12.33,,Esther Wanjiru MAINA,27 MAR 1977,KEN,4,Kobe (JPN),26 APR 1998,1128,10000-metres,middlelong,female,senior
+2854,32:12.33,,Susanne PUMPER,01 SEP 1970,AUT,1,Salzburg (AUT),07 MAY 2005,1128,10000-metres,middlelong,female,senior
+2856,32:12.39,,Camille BUSCOMB,11 JUL 1990,NZL,10,"FBK Stadium, Hengelo (NED)",06 JUN 2021,1128,10000-metres,middlelong,female,senior
+2857,32:12.4h,,Irene Kwambai KIPCHUMBA,25 OCT 1978,KEN,3,Nairobi (KEN),25 JUN 2004,1128,10000-metres,middlelong,female,senior
+2858,32:12.45,,Zita ÁGOSTON,18 MAR 1965,HUN,4,Frankfurt (GER),30 JUN 1991,1128,10000-metres,middlelong,female,senior
+2859,32:12.47,,Breeda DENNEHY-WILLIS,02 FEB 1970,IRL,11,Villeneuve d'Ascq (FRA),17 JUN 2001,1128,10000-metres,middlelong,female,senior
+2859,32:12.47,,Deborah MAIER,17 AUG 1990,USA,12f1,"Palo Alto, CA (USA)",29 APR 2012,1128,10000-metres,middlelong,female,senior
+2861,32:12.50,,Hayley YELLING,03 JAN 1974,GBR,15,"Ullevi Stadium, Göteborg (SWE)",07 AUG 2006,1128,10000-metres,middlelong,female,senior
+2862,32:12.51,,Marleen RENDERS,24 DEC 1968,BEL,12,"Stadio Olimpico, Roma (ITA)",04 SEP 1987,1128,10000-metres,middlelong,female,senior
+2863,32:12.53,,Lidiya VASILEVSKAYA,01 APR 1973,RUS,1,Tula (RUS),10 JUL 1997,1128,10000-metres,middlelong,female,senior
+2863,32:12.53,,Ayumi HAGIWARA,01 JUN 1992,JPN,5f2,Osaka (JPN),21 SEP 2018,1128,10000-metres,middlelong,female,senior
+2865,32:12.54,,Sitora KHAMIDOVA,12 MAY 1989,UZB,4,Incheon (KOR),27 SEP 2014,1128,10000-metres,middlelong,female,senior
+2865,32:12.54,,Hanami SEKINE,26 FEB 1996,JPN,8f1,Abashiri (JPN),16 JUL 2015,1128,10000-metres,middlelong,female,senior
+2867,32:12.56,,Yasuko HASHIMOTO,12 AUG 1975,JPN,8,Kobe (JPN),23 APR 2000,1128,10000-metres,middlelong,female,senior
+2868,32:12.57,,Alice Jemeli TIMBILILI,01 FEB 1983,KEN,16,"Olympic Stadium, Athina (GRE)",27 AUG 2004,1128,10000-metres,middlelong,female,senior
+2869,32:12.6h,,Beatriz SANTIAGO SÁNCHEZ,28 OCT 1968,ESP,6,Gijón (ESP),12 AUG 2000,1128,10000-metres,middlelong,female,senior
+2870,32:12.61,,Caroline NYAGA,07 OCT 1993,KEN,1,"Cote d'Or National Sports Complex, St Pierre (MRI)",11 JUN 2022,1128,10000-metres,middlelong,female,senior
+2871,32:12.64,,Seika NISHIKAWA,17 JUL 1987,JPN,2,Fukagawa (JPN),25 JUN 2011,1128,10000-metres,middlelong,female,senior
+2872,32:12.66,,Maura VICECONTE,03 OCT 1967,ITA,12,"Olympiastadion, München (GER)",06 AUG 2002,1128,10000-metres,middlelong,female,senior
+2873,32:12.67,,Akane TAIRA,03 NOV 1982,JPN,13,Kobe (JPN),24 APR 2005,1128,10000-metres,middlelong,female,senior
+2874,32:12.7h,,Yingjie SUN,19 JAN 1979,CHN,1,Zhengzhou (CHN),17 OCT 1999,1128,10000-metres,middlelong,female,senior
+2874,32:12.70,,Alla KULYATINA,09 JUN 1990,RUS,1,Cheboksary (RUS),22 JUN 2016,1128,10000-metres,middlelong,female,senior
+2876,32:12.72,,Marleen RENDERS,24 DEC 1968,BEL,4,Oslo (NOR),04 JUL 1987,1128,10000-metres,middlelong,female,senior
+2876,32:12.72,,Federica DEL BUONO,12 DEC 1994,ITA,6f1,"Stade Complexe Sportif Jean-Paul Chasseboeuf, Pacé (FRA)",24 MAY 2025,1128,10000-metres,middlelong,female,senior
+2876,32:12.72,,Elisa PALMERO,10 JUL 1999,ITA,19,"National Stadium, Tokyo (JPN)",13 SEP 2025,1128,10000-metres,middlelong,female,senior
+2879,32:12.74,,Yoko MANABE,08 FEB 1979,JPN,13,Kanazawa (JPN),29 SEP 2001,1128,10000-metres,middlelong,female,senior
+2880,32:12.76,,Joyce Chepkemoi TELE,03 MAY 1995,KEN,2,"Nyayo National Stadium, Nairobi (KEN)",16 MAY 2021,1128,10000-metres,middlelong,female,senior
+2881,32:12.77,,Lieve SLEGERS,06 APR 1965,BEL,5,Oslo (NOR),04 JUL 1987,1128,10000-metres,middlelong,female,senior
+2881,32:12.77,,Susanna SULLIVAN,13 MAY 1990,USA,17,"Hayward Field, Eugene, OR (USA)",27 MAY 2022,1128,10000-metres,middlelong,female,senior
+2883,32:12.78,,Barbara MOORE,27 JUL 1957,NZL,2,Wellington (NZL),09 DEC 1989,1128,10000-metres,middlelong,female,senior
+2883,32:12.78,,Deshun ZHANG,21 FEB 1996,CHN,3,Jakarta (INA),25 AUG 2018,1128,10000-metres,middlelong,female,senior
+2885,32:12.82,,Lynn JENNINGS,01 JUL 1960,USA,12,"Ullevi Stadium, Göteborg (SWE)",09 AUG 1995,1128,10000-metres,middlelong,female,senior
+2886,32:12.87,,Lyudmila MATVEYEVA,01 FEB 1957,URS,2h2,"Olympic Stadium, Seoul (KOR)",26 SEP 1988,1128,10000-metres,middlelong,female,senior
+2887,32:12.88,,Haruko OKAMOTO,19 AUG 1974,JPN,6,Kobe (JPN),22 APR 2001,1128,10000-metres,middlelong,female,senior
+2887,32:12.88,,Hongxia WANG,13 JAN 1975,CHN,7,Kobe (JPN),22 APR 2001,1128,10000-metres,middlelong,female,senior
+2889,32:12.89,,Sayaka SATO,27 MAY 1994,JPN,2f2,"Yanmar Stadium Nagai, Osaka (JPN)",20 SEP 2019,1128,10000-metres,middlelong,female,senior
+2890,32:12.91,,Leah MALOT,07 JUN 1972,KEN,1,Shizuoka (JPN),03 MAY 2003,1128,10000-metres,middlelong,female,senior
+2891,32:12.93,,Nicole JEFFERSON-AISH,08 MAR 1976,USA,5,"Palo Alto, CA (USA)",03 MAY 2002,1128,10000-metres,middlelong,female,senior
+2892,32:12.95,,Kasumi NISHIHARA,01 MAR 1989,JPN,13,"National Stadium, Beijing (CHN)",24 AUG 2015,1128,10000-metres,middlelong,female,senior
+2893,32:12.96,,Yoshimi OZAKI,01 JUL 1981,JPN,4,Niigata (JPN),01 JUN 2008,1128,10000-metres,middlelong,female,senior
+2894,32:13.00,,Xiuting WANG,16 FEB 1965,CHN,3h2,"Olympic Stadium, Seoul (KOR)",26 SEP 1988,1128,10000-metres,middlelong,female,senior
+2895,32:13.01,,Jane OMORO,01 MAY 1972,KEN,3,Victoria (CAN),24 AUG 1994,1128,10000-metres,middlelong,female,senior
+2895,32:13.01,,Madoka NAKANO,14 AUG 1991,JPN,5,"National Stadium, Tokyo (JPN)",07 MAY 2022,1128,10000-metres,middlelong,female,senior
+2897,32:13.03,,Megumi TANAKA-OSHIMA,04 SEP 1975,JPN,10,Tottori (JPN),10 JUN 2000,1128,10000-metres,middlelong,female,senior
+2897,32:13.03,,Sara SLATTERY,02 OCT 1981,USA,3f2,"Palo Alto, CA (USA)",01 MAY 2016,1128,10000-metres,middlelong,female,senior
+2897,32:13.03,,Mikuni YADA,29 OCT 1999,JPN,6,"National Stadium, Tokyo (JPN)",07 MAY 2022,1128,10000-metres,middlelong,female,senior
+2900,32:13.04,,Noriko MATSUOKA,02 MAY 1979,JPN,5,Hiroshima (JPN),25 JUN 2009,1128,10000-metres,middlelong,female,senior
+2901,32:13.07,,Eri YAMAGUCHI,14 JAN 1973,JPN,5,Shizuoka (JPN),03 OCT 1999,1128,10000-metres,middlelong,female,senior
+2902,32:13.08,,Yekaterina TUNGUSKOVA,10 MAY 1988,UZB,1,Dushanbe (TJK),13 JUN 2016,1128,10000-metres,middlelong,female,senior
+2903,32:13.13,,Mercy CHELANGAT,11 JUL 1997,KEN,1,"Cushing Stadium, College Station, TX (USA)",13 MAY 2021,1128,10000-metres,middlelong,female,senior
+2904,32:13.15,,Souad AIT SALEM,06 JAN 1979,ALG,1,Mataró (ESP),23 JUL 2004,1127,10000-metres,middlelong,female,senior
+2905,32:13.17,,Marisol ROMERO ROSALES,26 JAN 1983,MEX,23f1,"Palo Alto, CA (USA)",01 MAY 2016,1127,10000-metres,middlelong,female,senior
+2906,32:13.18,,Jane Gakunyi WANJIKU,14 JUN 1979,KEN,2,Shizuoka (JPN),03 MAY 2003,1127,10000-metres,middlelong,female,senior
+2907,32:13.20,,Galina ALEKSANDROVA,15 OCT 1975,RUS,2,Cheboksary (RUS),11 JUL 2002,1127,10000-metres,middlelong,female,senior
+2908,32:13.21,,Reia IWADE,08 DEC 1994,JPN,6,Nagoya (JPN),26 JUN 2015,1127,10000-metres,middlelong,female,senior
+2908,32:13.21,,Sarah PAGANO,23 JUL 1991,USA,5,"Drake Stadium, Des Moines, IA (USA)",21 JUN 2018,1127,10000-metres,middlelong,female,senior
+2910,32:13.23,,Misaki KATO,15 JUN 1991,JPN,1,"Municipal Stadium, Miyoshi (JPN)",26 SEP 2020,1127,10000-metres,middlelong,female,senior
+2911,32:13.24,,Lucy Kabuu WANGUI,24 MAR 1984,KEN,3,Shizuoka (JPN),03 MAY 2003,1127,10000-metres,middlelong,female,senior
+2912,32:13.25,,Yoko MANABE,08 FEB 1979,JPN,5,Niigata (JPN),25 SEP 2004,1127,10000-metres,middlelong,female,senior
+2913,32:13.26,,Hiromi OMINAMI,15 NOV 1975,JPN,5,Kobe (JPN),26 APR 1998,1127,10000-metres,middlelong,female,senior
+2913,32:13.26,,Maggie MONTOYA,02 MAY 1995,USA,7,"Hayward Field, Eugene, OR (USA)",29 JUN 2024,1127,10000-metres,middlelong,female,senior
+2915,32:13.28,,Nataliya BERKUT,30 MAY 1975,UKR,1,Donetsk (UKR),10 JUN 2002,1127,10000-metres,middlelong,female,senior
+2915,32:13.28,,Emma BATES,08 JUL 1992,USA,18f1,"Palo Alto, CA (USA)",02 MAY 2015,1127,10000-metres,middlelong,female,senior
+2917,32:13.30,,Risa YOKOE,12 OCT 1994,JPN,1,Yokohama (JPN),19 DEC 2015,1127,10000-metres,middlelong,female,senior
+2918,32:13.34,,Rachel CLIFF,01 APR 1988,CAN,3,"Estadio Atlético de la VIDENA, Lima (PER)",06 AUG 2019,1127,10000-metres,middlelong,female,senior
+2919,32:13.37,,Sylvia MOSQUEDA,08 APR 1966,USA,5,"Seattle, WA (USA)",26 JUL 1990,1127,10000-metres,middlelong,female,senior
+2920,32:13.4h,,Alice Aprot NAWOWUNA,02 JAN 1994,KEN,1,Nairobi (KEN),13 MAY 2017,1127,10000-metres,middlelong,female,senior
+2921,32:13.44,,Yelena SEDOVA,01 MAR 1990,RUS,2,Cheboksary (RUS),22 JUN 2016,1127,10000-metres,middlelong,female,senior
+2922,32:13.45,,Annette SERGENT-PALLUY,17 NOV 1962,FRA,4h2,"Olympic Stadium, Seoul (KOR)",26 SEP 1988,1127,10000-metres,middlelong,female,senior
+2923,32:13.46,,Kazue OGOSHI,02 MAR 1981,JPN,1,Kushiro (JPN),16 JUN 2004,1127,10000-metres,middlelong,female,senior
+2924,32:13.5h,,Tegla LOROUPE,09 MAY 1973,KEN,1,Nairobi (KEN),22 JUL 2000,1127,10000-metres,middlelong,female,senior
+2924,32:13.50,,Philomena CHEYECH,05 JUL 1982,KEN,6,Kobe (JPN),27 APR 2008,1127,10000-metres,middlelong,female,senior
+2926,32:13.54,,Kellyn TAYLOR,22 JUL 1986,USA,1,"San Diego, CA (USA)",18 FEB 2019,1127,10000-metres,middlelong,female,senior
+2926,32:13.54,,Amy DAVIS,15 FEB 1997,USA,18f2,"JSerra Catholic HS, San Juan Capistrano, CA (USA)",05 DEC 2020,1127,10000-metres,middlelong,female,senior
+2928,32:13.55,,Akane YABUSHITA,06 JUN 1991,JPN,2,Yokohama (JPN),19 DEC 2015,1127,10000-metres,middlelong,female,senior
+2929,32:13.57,,Michi NUMATA,06 MAY 1989,JPN,7,Nagoya (JPN),26 JUN 2015,1127,10000-metres,middlelong,female,senior
+2930,32:13.58,,Kayoko FUKUSHI,25 MAR 1982,JPN,1,Osaka (JPN),29 JUN 2007,1127,10000-metres,middlelong,female,senior
+2931,32:13.59,,Violah JEPCHUMBA,23 OCT 1990,BRN,2,Riyadh (KSA),17 NOV 2025,1127,10000-metres,middlelong,female,senior
+2932,32:13.60,,Mao KIYOTA,12 SEP 1993,JPN,5f1,Abashiri (JPN),06 JUL 2014,1127,10000-metres,middlelong,female,senior
+2933,32:13.62,,Ana DIAS,15 JAN 1974,POR,2,Lisboa (POR),24 MAR 2012,1127,10000-metres,middlelong,female,senior
+2934,32:13.64,,Sabrina MOCKENHAUPT,06 DEC 1980,GER,1,Pravets (BUL),08 JUN 2013,1127,10000-metres,middlelong,female,senior
+2934,32:13.64,,Chloe SCRIMGEOUR,11 AUG 2003,USA,1,"George J. Sherman Family Sports Complex, Storrs, CT (USA)",15 MAY 2025,1127,10000-metres,middlelong,female,senior
+2936,32:13.70,,Souad AIT SALEM,06 JAN 1979,ALG,10,Utrecht (NED),17 JUN 2005,1127,10000-metres,middlelong,female,senior
+2937,32:13.72,,Misaki KATO,15 JUN 1991,JPN,1,Kitakyushu (JPN),16 MAY 2015,1127,10000-metres,middlelong,female,senior
+2938,32:13.73,,Volha MAZURONAK,14 APR 1989,BLR,2f1,Minsk (BLR),10 JUN 2017,1127,10000-metres,middlelong,female,senior
+2939,32:13.74,,Salomé NYIRARUKUNDO,20 DEC 1997,RWA,11,Gold Coast (AUS),09 APR 2018,1127,10000-metres,middlelong,female,senior
+2940,32:13.77,,Annamaria KOSTARELLIS,12 AUG 1999,USA,4f1,"Cobb Track and Angell Field, Palo Alto, CA (USA)",31 MAR 2023,1127,10000-metres,middlelong,female,senior
+2941,32:13.78,,Joan NESBIT-MABE,20 JAN 1962,USA,2,"Philadelphia, PA (USA)",25 APR 1996,1127,10000-metres,middlelong,female,senior
+2941,32:13.78,,Maho SHIMIZU,07 MAY 1995,JPN,3,"Municipal Nishikyogoku Stadium, Kyoto (JPN)",17 JAN 2021,1127,10000-metres,middlelong,female,senior
+2943,32:13.79,,Viktoriya TRUSHENKO,19 JUL 1984,RUS,8,Kazan (RUS),17 JUL 2008,1127,10000-metres,middlelong,female,senior
+2943,32:13.79,,Yukari ABE,21 AUG 1989,JPN,1,Kobe (JPN),22 APR 2018,1127,10000-metres,middlelong,female,senior
+2945,32:13.81,,Kayoko FUKUSHI,25 MAR 1982,JPN,1,Marugame (JPN),15 MAY 2004,1127,10000-metres,middlelong,female,senior
+2946,32:13.85,,Charlotte TESKE,23 NOV 1949,FRG,1,Bremen (GER),24 JUN 1983,1127,10000-metres,middlelong,female,senior
+2946,32:13.85,,Maria Albertina DIAS,26 APR 1965,POR,5h2,"Olympic Stadium, Seoul (KOR)",26 SEP 1988,1127,10000-metres,middlelong,female,senior
+2948,32:13.87,,Honami MAEDA,17 JUL 1996,JPN,2f1,Fukagawa (JPN),11 JUL 2018,1127,10000-metres,middlelong,female,senior
+2949,32:13.89,,Yurika NAKAMURA,01 APR 1986,JPN,2,Kobe (JPN),26 APR 2009,1127,10000-metres,middlelong,female,senior
+2950,32:13.91,,Pauline KAMULU,30 DEC 1994,KEN,10,"Nyayo National Stadium, Nairobi (KEN)",22 AUG 2019,1127,10000-metres,middlelong,female,senior
+2951,32:13.96,,Chunxiu ZHOU,15 NOV 1978,CHN,2,Shanghai (CHN),14 SEP 2003,1127,10000-metres,middlelong,female,senior
+2951,32:13.96,,Sakiho TSUTSUI,19 JAN 1996,JPN,4,"Takebishi Stadium, Kyoto (JPN)",10 DEC 2021,1127,10000-metres,middlelong,female,senior
+2953,32:13.97,,Feliciana JEPKOSGEI,01 APR 2001,KEN,13,"Olympiastadion, Stockholm (SWE)",04 MAY 2021,1127,10000-metres,middlelong,female,senior
+2954,32:13.99,,Judi ST. HILAIRE,05 SEP 1959,USA,7h1,"Estadio Olímpico, Barcelona (ESP)",01 AUG 1992,1127,10000-metres,middlelong,female,senior
+2955,32:14.00,,Sally BARSOSIO,21 MAR 1978,KEN,17,"Olympic Stadium, Athina (GRE)",27 AUG 2004,1127,10000-metres,middlelong,female,senior
+2955,32:14.00,,Beatrice Chepkemoi MUTAI,19 APR 1987,KEN,4,Nairobi (KEN),10 JUL 2015,1127,10000-metres,middlelong,female,senior
+2957,32:14.01,,Natalie Anne HARVEY,19 JAN 1975,GBR,4,Watford (GBR),12 JUN 2004,1127,10000-metres,middlelong,female,senior
+2957,32:14.01,,Irina PERMITINA,03 FEB 1968,RUS,9,Kazan (RUS),17 JUL 2008,1127,10000-metres,middlelong,female,senior
+2959,32:14.02,,Liang YING,09 JUN 1977,CHN,1,Gifu (JPN),10 MAY 1998,1127,10000-metres,middlelong,female,senior
+2959,32:14.02,,Alina REH,23 MAY 1997,GER,8,"Olympiastadion, München (GER)",15 AUG 2022,1127,10000-metres,middlelong,female,senior
+2961,32:14.05,,Nan DAVIS,03 JUL 1962,USA,4,"Indianapolis, IN (USA)",22 JUL 1988,1127,10000-metres,middlelong,female,senior
+2961,32:14.05,,Nancy TINARI,13 JUN 1959,CAN,13,"Olympic Stadium, Seoul (KOR)",30 SEP 1988,1127,10000-metres,middlelong,female,senior
+2961,32:14.05,,Dominique SCOTT,24 JUN 1992,RSA,20,"National Stadium, Tokyo (JPN)",07 AUG 2021,1127,10000-metres,middlelong,female,senior
+2964,32:14.08,,Yumi OSAKI,10 MAY 1972,JPN,3,Kobe (JPN),25 APR 1993,1127,10000-metres,middlelong,female,senior
+2964,32:14.08,,Annette HAND-PETERS,31 MAY 1965,USA,10h2,"Olympic Stadium, Athina (GRE)",02 AUG 1997,1127,10000-metres,middlelong,female,senior
+2966,32:14.09,,Zahia DAHMANI,02 JUN 1972,FRA,6,Villeneuve d'Ascq (FRA),13 JUN 1999,1127,10000-metres,middlelong,female,senior
+2967,32:14.10,,Hiromi OMINAMI,15 NOV 1975,JPN,4f1,Yamagata (JPN),26 SEP 2008,1127,10000-metres,middlelong,female,senior
+2968,32:14.12,,Helena SAMPAIO,09 OCT 1973,POR,1,Pontevedra (ESP),14 JUN 1997,1127,10000-metres,middlelong,female,senior
+2969,32:14.14,,Limei JU,09 JUN 1978,CHN,6,Guangzhou (CHN),19 NOV 2001,1127,10000-metres,middlelong,female,senior
+2970,32:14.17,,Lieve SLEGERS,06 APR 1965,BEL,15,"Estadio Olímpico, Barcelona (ESP)",07 AUG 1992,1127,10000-metres,middlelong,female,senior
+2970,32:14.17,,Sarah LAHTI,18 FEB 1995,SWE,9,"Olympisch Stadion, Amsterdam (NED)",06 JUL 2016,1127,10000-metres,middlelong,female,senior
+2972,32:14.18,,Camelia Alina TECUŢĂ-GHERASIM,10 NOV 1971,ROU,1,Bucureşti (ROU),06 AUG 2000,1127,10000-metres,middlelong,female,senior
+2972,32:14.18,,Merima HASHIM,1981,ETH,2,"Palo Alto, CA (USA)",29 MAY 2005,1127,10000-metres,middlelong,female,senior
+2974,32:14.23,,Maya WEIGEL,,USA,6f1,"JSerra Catholic HS, San Juan Capistrano, CA (USA)",05 DEC 2020,1127,10000-metres,middlelong,female,senior
+2975,32:14.25,,Trihas GEBRE,29 APR 1990,ESP,1f1,Maia (POR),09 APR 2016,1127,10000-metres,middlelong,female,senior
+2975,32:14.25,,Shure DEMISE,21 JAN 1996,ETH,5,Durban (RSA),25 JUN 2016,1127,10000-metres,middlelong,female,senior
+2977,32:14.27,,Meaghan NELSON,12 FEB 1990,USA,13f1,"Palo Alto, CA (USA)",29 APR 2012,1127,10000-metres,middlelong,female,senior
+2977,32:14.27,,Ednah KURGAT,15 JUN 1991,USA,7,"Palo Alto, CA (USA)",29 MAR 2019,1127,10000-metres,middlelong,female,senior
+2979,32:14.31,,Mikuni YADA,29 OCT 1999,JPN,4f2,"Yanmar Stadium Nagai, Osaka (JPN)",07 DEC 2024,1126,10000-metres,middlelong,female,senior
+2980,32:14.34,,Domenika MAYER,09 OCT 1990,GER,1,"Stadion am Schwanenteich, Mittweida (GER)",06 MAY 2023,1126,10000-metres,middlelong,female,senior
+2981,32:14.35,,Aki FUJIKAWA,14 NOV 1978,JPN,3,Naruto (JPN),14 JUN 1998,1126,10000-metres,middlelong,female,senior
+2982,32:14.36,,Natalia CERCHES,21 FEB 1976,MDA,1,Minsk (BLR),08 JUL 2004,1126,10000-metres,middlelong,female,senior
+2982,32:14.36,,Karissa SCHWEIZER,04 MAY 1996,USA,1h,"Sacramento, CA (USA)",24 MAY 2018,1126,10000-metres,middlelong,female,senior
+2984,32:14.39,,Lyudmila PETROVA,07 OCT 1968,RUS,2,Tula (RUS),10 JUL 1997,1126,10000-metres,middlelong,female,senior
+2984,32:14.39,,Yasuko HASHIMOTO,12 AUG 1975,JPN,14,Kanazawa (JPN),29 SEP 2001,1126,10000-metres,middlelong,female,senior
+2984,32:14.39,,Tomoko ISHII,14 OCT 1983,JPN,19,Tokyo (JPN),02 JUN 2005,1126,10000-metres,middlelong,female,senior
+2987,32:14.40,,Kanayo MIYATA,14 FEB 1995,JPN,1,Yamaguchi (JPN),10 DEC 2016,1126,10000-metres,middlelong,female,senior
+2988,32:14.41,,Marielle HALL,28 JAN 1992,USA,5,"Drake Stadium, Des Moines, IA (USA)",25 JUL 2019,1126,10000-metres,middlelong,female,senior
+2989,32:14.42,,Tigist MOREDA,1968,ETH,8h1,"Estadio Olímpico, Barcelona (ESP)",01 AUG 1992,1126,10000-metres,middlelong,female,senior
+2989,32:14.42,,Stephanie BRUCE,14 JAN 1984,GBR,8f1,"Palo Alto, CA (USA)",01 APR 2016,1126,10000-metres,middlelong,female,senior
+2991,32:14.43,,Mai ITO,23 MAY 1984,JPN,3,Niigata (JPN),11 OCT 2010,1126,10000-metres,middlelong,female,senior
+2991,32:14.43,,Sayaka KUWAHARA,08 MAR 1993,JPN,3f2,"Palo Alto, CA (USA)",02 MAY 2015,1126,10000-metres,middlelong,female,senior
+2991,32:14.43,,Yelena NAGOVITSYNA,07 DEC 1982,RUS,3,Cheboksary (RUS),22 JUN 2016,1126,10000-metres,middlelong,female,senior
+2991,32:14.43,,Yelena SEDOVA,01 MAR 1990,RUS,1,Zhukovskiy (RUS),01 JUL 2017,1126,10000-metres,middlelong,female,senior
+2991,32:14.43,,Carolina ROBLES,04 DEC 1991,ESP,1,"Estadi Municipal La Bòbila, Gavá (ESP)",02 MAR 2024,1126,10000-metres,middlelong,female,senior
+2996,32:14.44,,Miho SHIMIZU,13 MAY 1990,JPN,6f1,Abashiri (JPN),06 JUL 2014,1126,10000-metres,middlelong,female,senior
+2996,32:14.44,,Wakana ITSUKI,07 APR 1994,JPN,4,"Athletic Track, Abashiri (JPN)",13 JUL 2022,1126,10000-metres,middlelong,female,senior
+2998,32:14.47,,Junko KATAOKA,13 JUN 1970,JPN,4,Mito (JPN),05 MAY 1997,1126,10000-metres,middlelong,female,senior
+2999,32:14.50,,Erika VERÉBNÉ FAZEKAS,23 OCT 1963,HUN,7,Oslo (NOR),02 JUL 1988,1126,10000-metres,middlelong,female,senior
+3000,32:14.51,,Ayumi HASHIMOTO,17 JUN 1983,JPN,8,Tottori (JPN),04 JUN 2004,1126,10000-metres,middlelong,female,senior
+3000,32:14.51,,Alissa MCKAIG,21 FEB 1986,USA,9f1,"Palo Alto, CA (USA)",01 MAY 2011,1126,10000-metres,middlelong,female,senior
+3002,32:14.52,,Courtney BABCOCK,30 JUN 1972,CAN,1,Burnaby (CAN),01 JUN 2002,1126,10000-metres,middlelong,female,senior
+3003,32:14.56,,Haruko OKAMOTO,19 AUG 1974,JPN,9,"Commonwealth Stadium, Edmonton (CAN)",07 AUG 2001,1126,10000-metres,middlelong,female,senior
+3004,32:14.57,,Katie MCGREGOR,02 SEP 1977,USA,2,"Berkeley, CA (USA)",24 APR 2009,1126,10000-metres,middlelong,female,senior
+3004,32:14.57,,Maitane MELERO,20 FEB 1983,ESP,1f1,"Pista Municipal de Faro, Faro (POR)",09 APR 2022,1126,10000-metres,middlelong,female,senior
+3006,32:14.58,,Keiko NOGAMI,06 DEC 1985,JPN,2,Kitakyushu (JPN),16 MAY 2015,1126,10000-metres,middlelong,female,senior
+3007,32:14.59,,Olga SKRYPAK,02 DEC 1990,UKR,19,"Olympic Stadium, London (GBR)",03 AUG 2012,1126,10000-metres,middlelong,female,senior
+3008,32:14.63,,Nadia EJJAFINI,08 NOV 1977,ITA,5,Oslo (NOR),04 JUN 2011,1126,10000-metres,middlelong,female,senior
+3009,32:14.64,,Kimberly FITCHEN-YOUNG,03 SEP 1968,USA,2,"Walnut, CA (USA)",20 APR 2001,1126,10000-metres,middlelong,female,senior
+3010,32:14.65,,Miyoko TAKAHASHI-ASAHINA,24 SEP 1969,JPN,1,Tokyo (JPN),17 JUN 1989,1126,10000-metres,middlelong,female,senior
+3010,32:14.65,,Grace Loibach NAWOWUNA,10 NOV 2003,KEN,7,"Nyayo National Stadium, Nairobi (KEN)",08 JUL 2023,1126,10000-metres,middlelong,female,senior
+3012,32:14.66,,Annemari SANDELL,02 JAN 1977,FIN,12,"Olympic Stadium, Atlanta, GA (USA)",02 AUG 1996,1126,10000-metres,middlelong,female,senior
+3012,32:14.66,,SEEMA,10 JAN 2001,IND,19f2,"JSerra Catholic HS, San Juan Capistrano, CA (USA)",29 MAR 2025,1126,10000-metres,middlelong,female,senior
+3014,32:14.69,,Maria Conceicao FERREIRA,13 MAR 1962,POR,13,"Ullevi Stadium, Göteborg (SWE)",09 AUG 1995,1126,10000-metres,middlelong,female,senior
+3014,32:14.69,,Colleen DE REUCK,13 APR 1964,RSA,13,"Olympic Stadium, Atlanta, GA (USA)",02 AUG 1996,1126,10000-metres,middlelong,female,senior
+3016,32:14.70,,Yoko MIYAUCHI,19 JUN 1983,JPN,3,Fukagawa (JPN),11 JUL 2007,1126,10000-metres,middlelong,female,senior
+3016,32:14.7h,,Doreen CHESANG,16 APR 1990,UGA,2,"Mandela National Stadium, Kampala (UGA)",24 APR 2021,1126,10000-metres,middlelong,female,senior
+3018,32:14.71,,Yuko SHIMIZU,13 JUL 1985,JPN,10f1,"Palo Alto, CA (USA)",01 MAY 2011,1126,10000-metres,middlelong,female,senior
+3019,32:14.73,,Hiromi OMINAMI,15 NOV 1975,JPN,2,Kobe (JPN),30 JUN 2006,1126,10000-metres,middlelong,female,senior
+3020,32:14.75,,Birgit JERSCHABECK,17 MAY 1969,GDR,6,Helsinki (FIN),27 JUN 1990,1126,10000-metres,middlelong,female,senior
+3020,32:14.75,,Sharon LOKEDI,10 MAR 1994,KEN,2,"Los Angeles, CA (USA)",29 AUG 2020,1126,10000-metres,middlelong,female,senior
+3022,32:14.79,,Akemi MATSUNO,27 APR 1968,JPN,2,Tokyo (JPN),17 JUN 1989,1126,10000-metres,middlelong,female,senior
+3023,32:14.80,,Yuka ANDO,16 MAR 1994,JPN,4,"Athletic Track, Abashiri (JPN)",19 JUL 2025,1126,10000-metres,middlelong,female,senior
+3024,32:14.82,,Valentina GALIMOVA,11 MAY 1986,RUS,1,Yerino (RUS),09 JUL 2014,1126,10000-metres,middlelong,female,senior
+3025,32:14.83,,Svetlana ULMASOVA,04 FEB 1953,URS,5,Leningrad (URS),08 JUN 1986,1126,10000-metres,middlelong,female,senior
+3026,32:14.85,,Misaki KATO,15 JUN 1991,JPN,16,"Yanmar Stadium Nagai, Osaka (JPN)",04 DEC 2020,1126,10000-metres,middlelong,female,senior
+3027,32:14.86,,Keiko NOGAMI,06 DEC 1985,JPN,9f2,Yamaguchi (JPN),08 DEC 2018,1126,10000-metres,middlelong,female,senior
+3028,32:14.87,,Yelena BURYKINA,07 MAY 1972,RUS,3,Cheboksary (RUS),11 JUL 2002,1126,10000-metres,middlelong,female,senior
+3029,32:14.88,,Mara YAMAUCHI,13 AUG 1973,GBR,3,Kobe (JPN),11 OCT 2008,1126,10000-metres,middlelong,female,senior
+3030,32:14.91,,Blake PHILLIPS-RUSSELL,24 JUL 1975,USA,2f1,"Palo Alto, CA (USA)",04 APR 2008,1126,10000-metres,middlelong,female,senior
+3031,32:14.92,,Hiromi OMINAMI,15 NOV 1975,JPN,5,Niigata (JPN),01 JUN 2008,1126,10000-metres,middlelong,female,senior
+3032,32:14.93,,Konstanze KLOSTERHALFEN,18 FEB 1997,GER,1,"Sportanlage am Oberen Wöhrd, Regensburg (GER)",13 APR 2024,1126,10000-metres,middlelong,female,senior
+3033,32:14.94,,Trihas GEBRE,29 APR 1990,ESP,1,Chia (ITA),06 JUN 2015,1126,10000-metres,middlelong,female,senior
+3033,32:14.94,,Karissa SCHWEIZER,04 MAY 1996,USA,3,"Eugene, OR (USA)",07 JUN 2018,1126,10000-metres,middlelong,female,senior
+3035,32:14.97,,Ji LI,19 SEP 1979,CHN,1,Nanjing (CHN),15 APR 2000,1126,10000-metres,middlelong,female,senior
+3036,32:14.99,,María Luisa LARRAGA,10 DEC 1970,ESP,12,Barakaldo (ESP),10 APR 1999,1126,10000-metres,middlelong,female,senior
+3037,32:15.02,,Cristina POMACU,15 SEP 1973,ROU,2,Bucureşti (ROU),20 JUL 1997,1126,10000-metres,middlelong,female,senior
+3038,32:15.03,,Yuka IZUMI,18 JAN 1985,JPN,2,Miyoshi (JPN),13 MAY 2006,1126,10000-metres,middlelong,female,senior
+3039,32:15.04,,Emiko KOJIMA,04 JUL 1979,JPN,2,Kita-Kyushu (JPN),10 MAY 1998,1126,10000-metres,middlelong,female,senior
+3040,32:15.05,,Maria Conceicao FERREIRA,13 MAR 1962,POR,9h1,"Estadio Olímpico, Barcelona (ESP)",01 AUG 1992,1126,10000-metres,middlelong,female,senior
+3041,32:15.06,,Grace MOMANYI,13 FEB 1981,KEN,3,Pontevedra (ESP),02 APR 2011,1126,10000-metres,middlelong,female,senior
+3042,32:15.09,,Milena GLUSAC,18 SEP 1975,USA,2,"Palo Alto, CA (USA)",21 JUN 2002,1126,10000-metres,middlelong,female,senior
+3042,32:15.09,,Yoko MIYAUCHI,19 JUN 1983,JPN,2,Abashiri (JPN),22 JUN 2011,1126,10000-metres,middlelong,female,senior
+3042,32:15.09,,Mao ICHIYAMA,29 MAY 1997,JPN,2f2,Osaka (JPN),22 SEP 2017,1126,10000-metres,middlelong,female,senior
+3045,32:15.10,,Natsumi MATSUSHITA,22 JAN 1995,JPN,2f2,"Ishin Me-Life Stadium, Yamaguchi (JPN)",05 DEC 2020,1126,10000-metres,middlelong,female,senior
+3046,32:15.12,,Harumi HIROYAMA-SUZUKI,02 SEP 1968,JPN,18,"Olympic Stadium, Athina (GRE)",27 AUG 2004,1126,10000-metres,middlelong,female,senior
+3047,32:15.14,,Kaori MORITA,19 SEP 1995,JPN,4,Yamaguchi (JPN),22 JUN 2018,1126,10000-metres,middlelong,female,senior
+3048,32:15.15,,Kate O'NEILL,29 JUL 1980,USA,9,"Palo Alto, CA (USA)",29 APR 2007,1126,10000-metres,middlelong,female,senior
+3049,32:15.20,,Kotomi TAKAYAMA,18 FEB 1993,JPN,10f1,"Palo Alto, CA (USA)",04 MAY 2014,1126,10000-metres,middlelong,female,senior
+3049,32:15.20,,Stella CHESANG,01 DEC 1996,UGA,16,"Khalifa International Stadium, Doha (QAT)",28 SEP 2019,1126,10000-metres,middlelong,female,senior
+3051,32:15.21,,Ayako SUZUKI,17 DEC 1980,JPN,2,Shizuoka (JPN),03 MAY 2004,1126,10000-metres,middlelong,female,senior
+3052,32:15.22,,Xiaoxia WANG,21 AUG 1976,CHN,11,Shanghai (CHN),19 OCT 1997,1126,10000-metres,middlelong,female,senior
+3053,32:15.23,,Hiromi OMINAMI,15 NOV 1975,JPN,2,Gifu (JPN),10 MAY 1998,1126,10000-metres,middlelong,female,senior
+3053,32:15.23,,Michiko OGAWA,30 DEC 1983,JPN,9,Kobe (JPN),23 APR 2006,1126,10000-metres,middlelong,female,senior
+3055,32:15.24,,Chloé HERBIET,03 DEC 1998,BEL,1,"Atletiekbaan Brakkenstein, Nijmegen (NED)",18 MAY 2024,1126,10000-metres,middlelong,female,senior
+3056,32:15.25,,Elana MEYER,10 OCT 1966,RSA,1,Durban (RSA),05 MAR 1999,1126,10000-metres,middlelong,female,senior
+3057,32:15.26,,Brenda FLORES,04 SEP 1991,MEX,14,"National Stadium, Beijing (CHN)",24 AUG 2015,1126,10000-metres,middlelong,female,senior
+3058,32:15.27,,Pauline KAMULU,30 DEC 1994,KEN,1f1,"Prefectural Stadium, Kumagaya (JPN)",15 MAY 2021,1126,10000-metres,middlelong,female,senior
+3059,32:15.29,,Mizuki NOGUCHI,03 JUL 1978,JPN,8,Kobe (JPN),22 APR 2001,1126,10000-metres,middlelong,female,senior
+3060,32:15.31,,Galina BOGOMOLOVA,15 OCT 1977,RUS,4,Tula (RUS),25 JUN 2004,1126,10000-metres,middlelong,female,senior
+3061,32:15.33,,Irene Kwambai KIPCHUMBA,25 OCT 1978,KEN,2,Mataró (ESP),23 JUL 2004,1126,10000-metres,middlelong,female,senior
+3062,32:15.34,,Maria GUIDA,23 JAN 1966,ITA,12,"Gottlieb-Daimler Stadion, Stuttgart (GER)",21 AUG 1993,1126,10000-metres,middlelong,female,senior
+3063,32:15.38,,Yuka ANDO,16 MAR 1994,JPN,3,"Athletics Stadium, Fukagawa (JPN)",08 JUL 2020,1126,10000-metres,middlelong,female,senior
+3064,32:15.39,,Azumi MIYAZAKI,03 MAR 1975,JPN,4,Naruto (JPN),14 JUN 1998,1126,10000-metres,middlelong,female,senior
+3064,32:15.39,,Hayley YELLING,03 JAN 1974,GBR,9,"Palo Alto, CA (USA)",01 MAY 2005,1126,10000-metres,middlelong,female,senior
+3066,32:15.40,,Ruihuan LIU,29 JUN 1992,CHN,1f1,Zhengzhou (CHN),14 MAY 2016,1126,10000-metres,middlelong,female,senior
+3067,32:15.42,,Yuko MANABE,08 FEB 1979,JPN,15,Kanazawa (JPN),29 SEP 2001,1125,10000-metres,middlelong,female,senior
+3067,32:15.42,,Miho IHARA,04 FEB 1988,JPN,11f1,"Palo Alto, CA (USA)",04 MAY 2014,1125,10000-metres,middlelong,female,senior
+3069,32:15.43,,Mihaela Maria BOTEZAN-PRUNDUS,21 NOV 1976,ROU,2,Maribor (SLO),03 APR 2004,1125,10000-metres,middlelong,female,senior
+3070,32:15.44,,Tegla LOROUPE,09 MAY 1973,KEN,1,"New York, NY (USA)",22 JUL 1998,1125,10000-metres,middlelong,female,senior
+3071,32:15.45,,Lynn NELSON,08 JAN 1962,USA,6h2,"Olympic Stadium, Seoul (KOR)",26 SEP 1988,1125,10000-metres,middlelong,female,senior
+3071,32:15.45,,Yuki MITSUNOBU,09 NOV 1992,JPN,6f1,Kitami (JPN),06 JUL 2013,1125,10000-metres,middlelong,female,senior
+3073,32:15.47,,Mizuki MATSUDA,31 MAY 1995,JPN,8,"Palo Alto, CA (USA)",29 MAR 2019,1125,10000-metres,middlelong,female,senior
+3073,32:15.47,,Alina REH,23 MAY 1997,GER,1f1,"Stade Complexe Sportif Jean-Paul Chasseboeuf, Pacé (FRA)",03 JUN 2023,1125,10000-metres,middlelong,female,senior
+3073,32:15.47,,Agnes Mwikali MUTUKU,15 DEC 2002,KEN,1,"Athletics Stadium, Fukagawa (JPN)",05 JUL 2023,1125,10000-metres,middlelong,female,senior
+3076,32:15.49,,Rosina MACHU,,USA,7,"Hayward Field, Eugene, OR (USA)",12 JUN 2025,1125,10000-metres,middlelong,female,senior
+3077,32:15.50,,Megumi TANAKA-OSHIMA,04 SEP 1975,JPN,6,Kobe (JPN),25 APR 1999,1125,10000-metres,middlelong,female,senior
+3078,32:15.51,,Laura THWEATT,17 DEC 1988,USA,9f1,"Palo Alto, CA (USA)",28 APR 2013,1125,10000-metres,middlelong,female,senior
+3079,32:15.53,,Natalya SOROKOVSKAYA,23 JUL 1962,URS,3,"Estadio Olímpico, Barcelona (ESP)",09 SEP 1989,1125,10000-metres,middlelong,female,senior
+3079,32:15.53,,Elizeba CHERONO-FRANKEN,06 JUN 1988,NED,12,Hengelo (NED),29 JUN 2016,1125,10000-metres,middlelong,female,senior
+3081,32:15.54,,Lieve SLEGERS,06 APR 1965,BEL,7,Helsinki (FIN),27 JUN 1990,1125,10000-metres,middlelong,female,senior
+3081,32:15.54,,Christelle DAUNAY,05 DEC 1974,FRA,16,"Ullevi Stadium, Göteborg (SWE)",07 AUG 2006,1125,10000-metres,middlelong,female,senior
+3083,32:15.56,,Erika VERÉBNÉ FAZEKAS,23 OCT 1963,HUN,11,"Neckarstadion, Stuttgart (GER)",30 AUG 1986,1125,10000-metres,middlelong,female,senior
+3084,32:15.57,,Kana MIZUMOTO,26 JAN 2005,JPN,5f2,"Yanmar Stadium Nagai, Osaka (JPN)",07 DEC 2024,1125,10000-metres,middlelong,female,senior
+3085,32:15.58,,Elaina TABB,17 DEC 1991,USA,,Burnaby (CAN),13 JUN 2019,1125,10000-metres,middlelong,female,senior
+3086,32:15.59,,Yekaterina KHRAMENKOVA,16 OCT 1956,URS,3,Bryansk (URS),19 JUL 1987,1125,10000-metres,middlelong,female,senior
+3086,32:15.59,,Ikumi NAGAYAMA,22 JUN 1974,JPN,16,Kanazawa (JPN),29 SEP 2001,1125,10000-metres,middlelong,female,senior
+3088,32:15.60,,Yuri KANO,27 OCT 1978,JPN,14,Oita (JPN),01 OCT 2006,1125,10000-metres,middlelong,female,senior
+3088,32:15.60,,Jeralyn POE,,USA,18,"Hayward Field, Eugene, OR (USA)",27 MAY 2022,1125,10000-metres,middlelong,female,senior
+3090,32:15.61,,Rebecca MWANGI,15 JUN 2001,KEN,3,"Ishin Me-Life Stadium, Yamaguchi (JPN)",21 SEP 2024,1125,10000-metres,middlelong,female,senior
+3091,32:15.63,,Reiko TOSA,11 JUN 1976,JPN,9,Kobe (JPN),23 APR 2000,1125,10000-metres,middlelong,female,senior
+3091,32:15.63,,Guiying BAO,20 JAN 1986,CHN,2,Hefei (CHN),26 SEP 2004,1125,10000-metres,middlelong,female,senior
+3091,32:15.63,,Mari OZAKI,16 JUL 1975,JPN,4,Niigata (JPN),11 OCT 2010,1125,10000-metres,middlelong,female,senior
+3091,32:15.63,,Everlyn KEMBOI,,USA,4,"Jack Kemp Stadium - Occidental College, Los Angeles, CA (USA)",11 MAY 2024,1125,10000-metres,middlelong,female,senior
+3095,32:15.64,,Gladys Jepkurui BIWOTT,22 FEB 1985,KEN,7,"Nyayo National Stadium, Nairobi (KEN)",27 MAY 2021,1125,10000-metres,middlelong,female,senior
+3096,32:15.67,,Yingying ZHU,18 AUG 1988,CHN,1,Guilin (CHN),10 SEP 2006,1125,10000-metres,middlelong,female,senior
+3096,32:15.67,,Andrea Soraya RAMÍREZ LIMON,05 NOV 1992,MEX,1,"Cougar Athletic Stadium, Azusa, CA (USA)",17 APR 2021,1125,10000-metres,middlelong,female,senior
+3098,32:15.69,,Atsede BAYISA,16 APR 1987,ETH,3,"Los Angeles, CA (USA)",29 AUG 2020,1125,10000-metres,middlelong,female,senior
+3099,32:15.70,,Laura O'NEILL,29 JUL 1980,USA,6,"Carson, CA (USA)",24 JUN 2005,1125,10000-metres,middlelong,female,senior
+3100,32:15.71,,Charlotte ARTER,18 JUN 1991,GBR,3f1,London (GBR),19 MAY 2018,1125,10000-metres,middlelong,female,senior
+3101,32:15.72,,Harumi HIROYAMA-SUZUKI,02 SEP 1968,JPN,4,Shizuoka (JPN),03 MAY 2003,1125,10000-metres,middlelong,female,senior
+3101,32:15.72,,Cruz Nonata DA SILVA,18 AUG 1974,BRA,1,São Paulo (BRA),27 JUN 2012,1125,10000-metres,middlelong,female,senior
+3103,32:15.73,,Mao ICHIYAMA,29 MAY 1997,JPN,2,Yamaguchi (JPN),10 DEC 2016,1125,10000-metres,middlelong,female,senior
+3103,32:15.73,,Alice WRIGHT,03 NOV 1994,GBR,4,"Palo Alto, CA (USA)",30 MAR 2018,1125,10000-metres,middlelong,female,senior
+3105,32:15.74,,Camilla RICHARDSSON,14 SEP 1993,FIN,15,"Nemzeti Atlétikai Központ, Budapest (HUN)",19 AUG 2023,1125,10000-metres,middlelong,female,senior
+3106,32:15.76,,Yumiko HARA,09 JAN 1982,JPN,3,Fukagawa (JPN),29 JUN 2005,1125,10000-metres,middlelong,female,senior
+3107,32:15.78,,Bahar YILDIRIM,01 OCT 1998,TUR,7f1,"Stade Complexe Sportif Jean-Paul Chasseboeuf, Pacé (FRA)",24 MAY 2025,1125,10000-metres,middlelong,female,senior
+3108,32:15.82,,Nancy TINARI,13 JUN 1959,CAN,1,Ottawa (CAN),31 JUL 1987,1125,10000-metres,middlelong,female,senior
+3108,32:15.82,,Sayaka SATO,27 MAY 1994,JPN,5,"Athletic Track, Abashiri (JPN)",13 JUL 2022,1125,10000-metres,middlelong,female,senior
+3110,32:15.83,,Aurora CUNHA,31 MAY 1959,POR,9,"Poljud Stadion, Split (CRO)",31 AUG 1990,1125,10000-metres,middlelong,female,senior
+3111,32:15.84,,Yoshimi OZAKI,01 JUL 1981,JPN,11,Kobe (JPN),22 APR 2007,1125,10000-metres,middlelong,female,senior
+3112,32:15.85,,Yoshiko ICHIKAWA,18 APR 1976,JPN,9,Kobe (JPN),25 APR 2004,1125,10000-metres,middlelong,female,senior
+3112,32:15.85,,Rachel WARD,11 OCT 1989,USA,12f1,"Palo Alto, CA (USA)",04 MAY 2014,1125,10000-metres,middlelong,female,senior
+3112,32:15.85,,Mizuki MATSUDA,31 MAY 1995,JPN,1,Kobe (JPN),23 APR 2017,1125,10000-metres,middlelong,female,senior
+3115,32:15.86,,Yumiko HARA,09 JAN 1982,JPN,6,Niigata (JPN),25 SEP 2004,1125,10000-metres,middlelong,female,senior
+3116,32:15.87,,Yasuko HASHIMOTO,12 AUG 1975,JPN,9,Kobe (JPN),22 APR 2001,1125,10000-metres,middlelong,female,senior
+3116,32:15.87,,Valeria STRANEO,05 APR 1976,ITA,6,Bilbao (ESP),03 JUN 2012,1125,10000-metres,middlelong,female,senior
+3118,32:15.88,,Lisa WEIDENBACH,13 DEC 1961,USA,5,"Indianapolis, IN (USA)",22 JUL 1988,1125,10000-metres,middlelong,female,senior
+3118,32:15.88,,Yoko SHIBUI,14 MAR 1979,JPN,6,Yokohama (JPN),06 JUN 2003,1125,10000-metres,middlelong,female,senior
+3118,32:15.88,,Elizabeth POTTER,27 DEC 1991,GBR,21,"Olympic Stadium, London (GBR)",05 AUG 2017,1125,10000-metres,middlelong,female,senior
+3118,32:15.88,,Stephanie BRUCE,14 JAN 1984,USA,2,"San Diego, CA (USA)",18 FEB 2019,1125,10000-metres,middlelong,female,senior
+3118,32:15.88,,Momoka KAWAGUCHI,28 JUN 1998,JPN,6,"Athletic Track, Abashiri (JPN)",15 JUL 2020,1125,10000-metres,middlelong,female,senior
+3123,32:15.91,,Mai ITO,23 MAY 1984,JPN,4,Kobe (JPN),25 APR 2010,1125,10000-metres,middlelong,female,senior
+3123,32:15.91,,Jasmijn LAU,11 MAR 1999,NED,7,"Stadio Olimpico, Roma (ITA)",11 JUN 2024,1125,10000-metres,middlelong,female,senior
+3125,32:15.94,,Aki FUJIKAWA,14 NOV 1978,JPN,17,Kanazawa (JPN),29 SEP 2001,1125,10000-metres,middlelong,female,senior
+3125,32:15.94,,Terumi ASOSHINA,02 AUG 1982,JPN,7,Niigata (JPN),25 SEP 2004,1125,10000-metres,middlelong,female,senior
+3127,32:15.95,,Silvia SOMMAGGIO,20 NOV 1969,ITA,2,Mito (JPN),07 MAY 2000,1125,10000-metres,middlelong,female,senior
+3128,32:15.96,,Camelia Alina TECUŢĂ-GHERASIM,10 NOV 1971,ROU,1,Bucureşti (ROU),29 MAY 1993,1125,10000-metres,middlelong,female,senior
+3128,32:15.96,,Anikó KÁLOVICS,13 MAY 1977,HUN,20,"Stade de France, Paris-St-Denis (FRA)",23 AUG 2003,1125,10000-metres,middlelong,female,senior
+3130,32:15.97,,Misaki HAYASHIDA,07 DEC 1999,JPN,2,"Egao Kenko Stadium, Kumamoto (JPN)",08 APR 2023,1125,10000-metres,middlelong,female,senior
+3131,32:15.98,,Alena SAMOKHVALOVA,21 NOV 1980,RUS,4,Cheboksary (RUS),11 JUL 2002,1125,10000-metres,middlelong,female,senior
+3132,32:16.01,,Maria Conceicao FERREIRA,13 MAR 1962,POR,6,Leiria (POR),07 APR 1996,1125,10000-metres,middlelong,female,senior
+3132,32:16.01,,Yuko MANABE,08 FEB 1979,JPN,10,Okayama (JPN),27 SEP 2003,1125,10000-metres,middlelong,female,senior
+3132,32:16.01,,Yelena KOROBKINA,25 NOV 1990,RUS,1,Cheboksary (RUS),27 JUL 2019,1125,10000-metres,middlelong,female,senior
+3135,32:16.02,,Chiemi TAKAHASHI,16 FEB 1976,JPN,11,Osaka (JPN),09 JUN 1996,1125,10000-metres,middlelong,female,senior
+3136,32:16.03,,Sarah PAGANO,23 JUL 1991,USA,3,"Portland, OR (USA)",11 JUN 2016,1125,10000-metres,middlelong,female,senior
+3137,32:16.05,,Yurie DOI,08 DEC 1988,JPN,8f2,Kumagaya (JPN),20 SEP 2013,1125,10000-metres,middlelong,female,senior
+3138,32:16.06,,Laura GALVÁN,05 OCT 1991,MEX,3,"Griswold Stadium, Portland, OR (USA)",14 JUN 2025,1125,10000-metres,middlelong,female,senior
+3139,32:16.07,,Sakiho TSUTSUI,19 JAN 1996,JPN,5,"Prefectural Shizuoka Stadium, Fukuroi (JPN)",03 MAY 2021,1125,10000-metres,middlelong,female,senior
+3140,32:16.08,,Aki FUJIKAWA,14 NOV 1978,JPN,11,Okayama (JPN),27 SEP 2003,1125,10000-metres,middlelong,female,senior
+3141,32:16.10,,Leah MALOT,07 JUN 1972,KEN,1,Mito (JPN),06 MAY 2001,1125,10000-metres,middlelong,female,senior
+3142,32:16.11,,Lauren RYAN,15 MAR 1998,AUS,4,"Hagenauer Reserve, Box Hill, Melbourne (AUS)",26 JAN 2021,1125,10000-metres,middlelong,female,senior
+3143,32:16.13,,Lara TAMSETT,12 OCT 1988,AUS,10f1,"Palo Alto, CA (USA)",28 APR 2013,1125,10000-metres,middlelong,female,senior
+3143,32:16.13,,Carmela CARDAMA,04 DEC 1996,ESP,1,"Hayward Field, Eugene, OR (USA)",10 JUN 2021,1125,10000-metres,middlelong,female,senior
+3145,32:16.15,,Harumi OKAMOTO,07 FEB 1998,JPN,2,Kobe (JPN),22 APR 2018,1125,10000-metres,middlelong,female,senior
+3146,32:16.16,,Yuka SUZUKI,14 SEP 1999,JPN,6f2,"Nagaragawa Stadium, Gifu (JPN)",23 SEP 2022,1125,10000-metres,middlelong,female,senior
+3147,32:16.19,,Inês MONTEIRO,18 MAY 1980,POR,2,Lisboa (POR),28 JUN 2008,1125,10000-metres,middlelong,female,senior
+3147,32:16.19,,Kate AVERY,10 OCT 1991,GBR,15,"National Stadium, Beijing (CHN)",24 AUG 2015,1125,10000-metres,middlelong,female,senior
+3149,32:16.23,,Miho SHIMIZU,13 MAY 1990,JPN,3,Yokohama (JPN),19 DEC 2015,1125,10000-metres,middlelong,female,senior
+3149,32:16.23,,Stephanie TWELL,17 AUG 1989,GBR,2f1,Parliament Hill (GBR),20 MAY 2017,1125,10000-metres,middlelong,female,senior
+3151,32:16.24,,Masami ISHIZAKA,27 MAR 1971,JPN,2,Duisburg (GER),29 AUG 1989,1125,10000-metres,middlelong,female,senior
+3151,32:16.24,,Merima HASHIM,1981,ETH,2,Johannesburg (RSA),17 SEP 1999,1125,10000-metres,middlelong,female,senior
+3153,32:16.25,,Luiza GEGA,05 NOV 1988,ALB,6f1,"Birmingham University Athletics Track, Birmingham (GBR)",05 JUN 2021,1125,10000-metres,middlelong,female,senior
+3154,32:16.27,,Nancy TINARI,13 JUN 1959,CAN,7h2,"Olympic Stadium, Seoul (KOR)",26 SEP 1988,1125,10000-metres,middlelong,female,senior
+3154,32:16.27,,Wioletta FRANKIEWICZ,09 JUN 1977,POL,2,Police (POL),08 MAY 2004,1125,10000-metres,middlelong,female,senior
+3156,32:16.31,,Yelena NAGOVITSYNA,07 DEC 1982,RUS,2,Yerino (RUS),09 JUL 2014,1125,10000-metres,middlelong,female,senior
+3156,32:16.31,,Shiho TACHIZAKO,26 DEC 2003,JPN,2,"Athletics Stadium, Fukagawa (JPN)",17 JUL 2024,1125,10000-metres,middlelong,female,senior
+3158,32:16.33,,Blake PHILLIPS-RUSSELL,24 JUL 1975,USA,3,"Walnut, CA (USA)",14 APR 2000,1125,10000-metres,middlelong,female,senior
+3159,32:16.34,,Viktoriya POLYUDINA,29 JUN 1989,KGZ,6,Guangzhou (CHN),21 NOV 2010,1125,10000-metres,middlelong,female,senior
+3159,32:16.34,,Yuka ANDO,16 MAR 1994,JPN,2,Kobe (JPN),24 APR 2016,1125,10000-metres,middlelong,female,senior
+3161,32:16.36,,Marisol ROMERO ROSALES,26 JAN 1983,MEX,11,"Luzhniki Stadion, Moskva (RUS)",11 AUG 2013,1125,10000-metres,middlelong,female,senior
+3162,32:16.4h,,Anikó KÁLOVICS,13 MAY 1977,HUN,5,Strasbourg (FRA),27 JUN 2000,1125,10000-metres,middlelong,female,senior
+3162,32:16.40,,Ryoko KIZAKI,21 JUN 1985,JPN,1f2,Niigata (JPN),24 SEP 2010,1125,10000-metres,middlelong,female,senior
+3164,32:16.44,,Sakiho TSUTSUI,19 JAN 1996,JPN,2,Kobe (JPN),23 APR 2017,1125,10000-metres,middlelong,female,senior
+3165,32:16.45,,Iris BIBA-PÖSCHL,27 MAY 1964,GER,3,Koblenz (GER),16 MAY 1996,1125,10000-metres,middlelong,female,senior
+3166,32:16.46,,Miho IHARA,04 FEB 1988,JPN,11f1,"Palo Alto, CA (USA)",28 APR 2013,1125,10000-metres,middlelong,female,senior
+3167,32:16.50,,Natalya BOBOROVA,12 FEB 1959,URS,7,Kiev (URS),02 AUG 1988,1125,10000-metres,middlelong,female,senior
+3167,32:16.50,,Merima DENBOBA,21 AUG 1974,ETH,2,Paris-St-Denis (FRA),10 JUN 1994,1125,10000-metres,middlelong,female,senior
+3167,32:16.5h,,Catherine KIRUI,01 MAR 1976,KEN,4,Nairobi (KEN),25 JUN 2004,1125,10000-metres,middlelong,female,senior
+3167,32:16.50,,Krisztina PAPP,17 DEC 1982,HUN,12,Ostrava (CZE),12 JUN 2008,1125,10000-metres,middlelong,female,senior
+3167,32:16.50,,Doricah OBARE,10 JAN 1990,KEN,1,Kumagaya (JPN),15 MAY 2010,1125,10000-metres,middlelong,female,senior
+3167,32:16.5h,,Sandrafelis Chebet TUEI,20 JAN 1998,KEN,3,Nairobi (KEN),21 JUN 2018,1125,10000-metres,middlelong,female,senior
+3173,32:16.51,,Kayo SUGIHARA,24 FEB 1983,JPN,2,Sendai (JPN),20 MAY 2006,1125,10000-metres,middlelong,female,senior
+3173,32:16.51,,Neely SPENCE GRACEY,16 APR 1990,USA,1,Melbourne (AUS),08 DEC 2012,1125,10000-metres,middlelong,female,senior
+3175,32:16.54,,Misaki KATO,15 JUN 1991,JPN,8,Nagoya (JPN),26 JUN 2015,1125,10000-metres,middlelong,female,senior
+3176,32:16.55,,Derartu TULU,21 MAR 1972,ETH,8,"National Stadium, Tokyo (JPN)",30 AUG 1991,1125,10000-metres,middlelong,female,senior
+3176,32:16.55,,Sabrina MOCKENHAUPT,06 DEC 1980,GER,5,"Olympiastadion, Helsinki (FIN)",01 JUL 2012,1125,10000-metres,middlelong,female,senior
+3178,32:16.58,,Yuko SHIMIZU,13 JUL 1985,JPN,2,Tokyo (JPN),07 JUN 2013,1124,10000-metres,middlelong,female,senior
+3179,32:16.60,,Hisami ISHII,10 AUG 1995,JPN,2,Kumagaya (JPN),22 MAY 2016,1124,10000-metres,middlelong,female,senior
+3180,32:16.66,,Miyuki UEHARA,22 NOV 1995,JPN,1,Oita (JPN),17 OCT 2015,1124,10000-metres,middlelong,female,senior
+3181,32:16.67,,Xiaoxia WANG,21 AUG 1976,CHN,1,Xi'an (CHN),02 SEP 1996,1124,10000-metres,middlelong,female,senior
+3181,32:16.67,,Ruth WANJIRU,11 SEP 1981,KEN,15,Oita (JPN),01 OCT 2006,1124,10000-metres,middlelong,female,senior
+3183,32:16.7h,,Alice Aprot NAWOWUNA,02 JAN 1994,KEN,3,Nairobi (KEN),23 JUN 2017,1124,10000-metres,middlelong,female,senior
+3184,32:16.71,,Derartu TULU,21 MAR 1972,ETH,1h1,"Ullevi Stadium, Göteborg (SWE)",06 AUG 1995,1124,10000-metres,middlelong,female,senior
+3185,32:16.72,,Hellen KIMAIYO-KIPKOSKEI,08 SEP 1968,KEN,3,Paris-St-Denis (FRA),10 JUN 1994,1124,10000-metres,middlelong,female,senior
+3186,32:16.73,,Daria NAUER,21 MAY 1966,SUI,4,La Celle-st-Cloud (FRA),15 JUN 1996,1124,10000-metres,middlelong,female,senior
+3187,32:16.75,,Aki FUJIKAWA,14 NOV 1978,JPN,3,Gifu (JPN),09 MAY 1998,1124,10000-metres,middlelong,female,senior
+3188,32:16.76,,Yvonne MURRAY,04 OCT 1964,GBR,2h1,"Ullevi Stadium, Göteborg (SWE)",06 AUG 1995,1124,10000-metres,middlelong,female,senior
+3189,32:16.77,,Huimin XIAO,01 MAR 1992,CHN,5,Shenyang (CHN),11 SEP 2013,1124,10000-metres,middlelong,female,senior
+3190,32:16.78,,Kellyn TAYLOR,22 JUL 1986,USA,5f1,"Palo Alto, CA (USA)",31 MAR 2017,1124,10000-metres,middlelong,female,senior
+3190,32:16.78,,Maki IZUMIDA,22 JAN 1996,JPN,11f2,"Ishin Me-Life Stadium, Yamaguchi (JPN)",07 DEC 2019,1124,10000-metres,middlelong,female,senior
+3192,32:16.82,,Keira D'AMATO,21 OCT 1984,USA,2,"St. Michael's HS, Austin, TX (USA)",27 FEB 2021,1124,10000-metres,middlelong,female,senior
+3193,32:16.83,,Rong CHEN,18 MAY 1988,CHN,7,Wuhan (CHN),02 NOV 2007,1124,10000-metres,middlelong,female,senior
+3194,32:16.84,,Eriko KUSHIMA,09 FEB 1993,JPN,3,Fukagawa (JPN),25 JUN 2011,1124,10000-metres,middlelong,female,senior
+3194,32:16.84,,Selamawit TEFERI,24 MAR 1994,ISR,2,Tel Aviv (ISR),24 APR 2019,1124,10000-metres,middlelong,female,senior
+3196,32:16.85,,Nina CHYDENIUS,28 JAN 1990,FIN,8,"Stadio Olimpico, Roma (ITA)",11 JUN 2024,1124,10000-metres,middlelong,female,senior
+3197,32:16.90,,Maria Conceicao FERREIRA,13 MAR 1962,POR,5,La Celle-st-Cloud (FRA),15 JUN 1996,1124,10000-metres,middlelong,female,senior
+3197,32:16.90,,Miki OHIRA,28 JUN 1981,JPN,1,Hitachinaka (JPN),14 MAY 2005,1124,10000-metres,middlelong,female,senior
+3199,32:16.92,,Silvia SOMMAGGIO,20 NOV 1969,ITA,9,"Olympic Stadium, Athina (GRE)",05 AUG 1997,1124,10000-metres,middlelong,female,senior
+3200,32:16.94,,Takako KOTORIDA,02 APR 1977,JPN,7,Yokohama (JPN),06 JUN 2003,1124,10000-metres,middlelong,female,senior
+3201,32:16.95,,Kimberly FITCHEN-YOUNG,03 SEP 1968,USA,4,"Walnut, CA (USA)",14 APR 2000,1124,10000-metres,middlelong,female,senior
+3202,32:16.97,,Danièle KABER,20 APR 1960,LUX,12,"Neckarstadion, Stuttgart (GER)",30 AUG 1986,1124,10000-metres,middlelong,female,senior
+3202,32:16.97,,Alia SAEED MOHAMMED,18 MAY 1991,UAE,1,Manama (BRN),26 APR 2015,1124,10000-metres,middlelong,female,senior
+3202,32:16.97,,Miki HIRAI,12 FEB 1996,JPN,3f2,"Ishin Me-Life Stadium, Yamaguchi (JPN)",05 DEC 2020,1124,10000-metres,middlelong,female,senior
+3205,32:16.98,,Nora Leticia ROCHA,18 DEC 1967,MEX,2,Barakaldo (ESP),08 JUL 2000,1124,10000-metres,middlelong,female,senior
+3205,32:16.98,,Jessica GOCKLEY-DAY,27 APR 1998,USA,5,"Jack Kemp Stadium - Occidental College, Los Angeles, CA (USA)",11 MAY 2024,1124,10000-metres,middlelong,female,senior
+3207,32:16.99,,Megumi TANAKA-OSHIMA,04 SEP 1975,JPN,2,Kobe (JPN),20 APR 1997,1124,10000-metres,middlelong,female,senior
+3208,32:17.01,,Rosanna MUNEROTTO,03 DEC 1962,ITA,10h1,"Estadio Olímpico, Barcelona (ESP)",01 AUG 1992,1124,10000-metres,middlelong,female,senior
+3209,32:17.05,,Elinor KIRK,26 APR 1989,GBR,2f1,"Palo Alto, CA (USA)",04 APR 2014,1124,10000-metres,middlelong,female,senior
+3210,32:17.06,,Janet CHEROBON-BAWCOM,22 AUG 1978,USA,7,"Hayward Field, Eugene, OR (USA)",22 JUN 2012,1124,10000-metres,middlelong,female,senior
+3210,32:17.06,,Erika TANOURA,01 FEB 2000,JPN,4,"Ishin Me-Life Stadium, Yamaguchi (JPN)",21 SEP 2024,1124,10000-metres,middlelong,female,senior
+3212,32:17.12,,Hikari OHNISHI,26 APR 2000,JPN,7,"Athletic Track, Abashiri (JPN)",15 JUL 2020,1124,10000-metres,middlelong,female,senior
+3213,32:17.14,,Karima Saleh JASSEM,18 FEB 1988,BRN,2,Doha (QAT),08 DEC 2006,1124,10000-metres,middlelong,female,senior
+3213,32:17.14,,Megumi TANAKA-OSHIMA,04 SEP 1975,JPN,12,Kobe (JPN),22 APR 2007,1124,10000-metres,middlelong,female,senior
+3215,32:17.17,,Ayumi HAGIWARA,01 JUN 1992,JPN,3,Tokyo (JPN),07 JUN 2013,1124,10000-metres,middlelong,female,senior
+3215,32:17.17,,Alina REH,23 MAY 1997,GER,1,Regensburg (GER),23 JUN 2018,1124,10000-metres,middlelong,female,senior
+3217,32:17.19,,Takami OMINAMI,15 NOV 1975,JPN,6,Kobe (JPN),26 APR 1998,1124,10000-metres,middlelong,female,senior
+3217,32:17.19,,Miki OYAMA,22 OCT 1979,JPN,1,Utsunomiya (JPN),15 MAY 2004,1124,10000-metres,middlelong,female,senior
+3217,32:17.19,,Sarah WANJIRU,12 APR 2004,KEN,1,"Gion Stadium, Sagamihara (JPN)",11 MAY 2023,1124,10000-metres,middlelong,female,senior
+3220,32:17.20,,Yelena SIPATOVA,07 JUN 1955,URS,1,Moskva (URS),16 SEP 1981,1124,10000-metres,middlelong,female,senior
+3220,32:17.2h,,Tsehay GEMECHU,12 DEC 1998,ETH,2,Addis Abeba (ETH),08 MAY 2019,1124,10000-metres,middlelong,female,senior
+3222,32:17.22,,Gabriele LEHMANN-VEITH,24 OCT 1956,GDR,13,"Neckarstadion, Stuttgart (GER)",30 AUG 1986,1124,10000-metres,middlelong,female,senior
+3222,32:17.22,,Lauren HURLEY,26 JAN 1988,USA,5,"Griswold Stadium, Portland, OR (USA)",28 MAY 2021,1124,10000-metres,middlelong,female,senior
+3224,32:17.24,,Yuki MITSUNOBU,09 NOV 1992,JPN,7f1,Abashiri (JPN),06 JUL 2014,1124,10000-metres,middlelong,female,senior
+3224,32:17.24,,Lisa MERKEL,20 JAN 2003,GER,9,"Stadio Olimpico, Roma (ITA)",11 JUN 2024,1124,10000-metres,middlelong,female,senior
+3226,32:17.25,,Rina YAMAZAKI,06 MAY 1988,JPN,1,Fukagawa (JPN),25 JUN 2014,1124,10000-metres,middlelong,female,senior
+3227,32:17.26,,Tatyana ARYASOVA,02 APR 1979,RUS,5,Cheboksary (RUS),11 JUL 2002,1124,10000-metres,middlelong,female,senior
+3228,32:17.28,,Doricah OBARE,10 JAN 1990,KEN,1,Kumagaya (JPN),19 MAY 2012,1124,10000-metres,middlelong,female,senior
+3228,32:17.28,,Doricah OBARE,10 JAN 1990,KEN,1,Saitama (JPN),19 MAY 2012,1124,10000-metres,middlelong,female,senior
+3230,32:17.29,,Shitaye ESHETE,21 MAY 1990,BRN,1,Pune (IND),03 JUL 2013,1124,10000-metres,middlelong,female,senior
+3230,32:17.29,,Harumi OKAMOTO,07 FEB 1998,JPN,6,Yamaguchi (JPN),09 DEC 2017,1124,10000-metres,middlelong,female,senior
+3232,32:17.30,,Mari OZAKI,16 JUL 1975,JPN,10,Kobe (JPN),22 APR 2001,1124,10000-metres,middlelong,female,senior
+3233,32:17.31,,Chika HORIE,15 FEB 1981,JPN,7,Kobe (JPN),27 APR 2008,1124,10000-metres,middlelong,female,senior
+3234,32:17.32,,Kaoutar FARKOUSSI,19 MAR 1996,MAR,1,"Piste Athlétisme, Tiflet (MAR)",20 JUL 2025,1124,10000-metres,middlelong,female,senior
+3235,32:17.34,,Jordan HASAY,21 SEP 1991,USA,2,"Drake Stadium, Des Moines, IA (USA)",20 JUN 2013,1124,10000-metres,middlelong,female,senior
+3235,32:17.34,,Serena BURLA,29 JUL 1982,USA,4f2,"Palo Alto, CA (USA)",02 MAY 2015,1124,10000-metres,middlelong,female,senior
+3237,32:17.35,,Doricah OBARE,10 JAN 1990,KEN,1,Ibaraki (JPN),18 MAY 2013,1124,10000-metres,middlelong,female,senior
+3237,32:17.35,,Gladys CHESIR,20 FEB 1993,KEN,3,Eldoret (KEN),30 JUN 2016,1124,10000-metres,middlelong,female,senior
+3239,32:17.38,,Yenenesh TILAHUN DINKESA,22 SEP 1994,ETH,6,Durban (RSA),25 JUN 2016,1124,10000-metres,middlelong,female,senior
+3240,32:17.39,,Hiroko SHOI,18 JUN 1980,JPN,3,Abashiri (JPN),22 JUN 2011,1124,10000-metres,middlelong,female,senior
+3241,32:17.40,,Yukiko OKAMOTO,29 NOV 1974,JPN,4,Mito (JPN),05 MAY 1998,1124,10000-metres,middlelong,female,senior
+3241,32:17.40,,Charlotte ARTER,18 JUN 1991,GBR,7f1,"Birmingham University Athletics Track, Birmingham (GBR)",05 JUN 2021,1124,10000-metres,middlelong,female,senior
+3243,32:17.41,,Gete WAMI,11 DEC 1974,ETH,3h1,"Ullevi Stadium, Göteborg (SWE)",06 AUG 1995,1124,10000-metres,middlelong,female,senior
+3243,32:17.41,,XiuZhen MA,05 JUL 2000,CHN,5,"Hilmer Lodge Stadium, Walnut, CA (USA)",06 MAY 2023,1124,10000-metres,middlelong,female,senior
+3245,32:17.48,,Hiromi OMINAMI,15 NOV 1975,JPN,13f1,"Palo Alto, CA (USA)",04 MAY 2008,1124,10000-metres,middlelong,female,senior
+3246,32:17.49,,Katie MCGREGOR,02 SEP 1977,USA,3,"Palo Alto, CA (USA)",21 JUN 2002,1124,10000-metres,middlelong,female,senior
+3246,32:17.49,,Tatyana PETROVA,08 APR 1983,RUS,1,Tula (RUS),13 JUN 2005,1124,10000-metres,middlelong,female,senior
+3246,32:17.49,,Tatyana PETROVA,08 APR 1983,RUS,6,Tula (RUS),14 JUN 2005,1124,10000-metres,middlelong,female,senior
+3249,32:17.50,,Rie MATSUOKA,09 MAR 1977,JPN,1,Miyoshi (JPN),13 MAY 2000,1124,10000-metres,middlelong,female,senior
+3249,32:17.50,,Miriam DATTKE,24 JUN 1998,GER,2,"Sportpark Orsbeck, Wassenberg (GER)",04 MAY 2024,1124,10000-metres,middlelong,female,senior
+3251,32:17.51,,Alicia MONSON,13 MAY 1998,USA,2,"Hayward Field, Eugene, OR (USA)",06 JUL 2023,1124,10000-metres,middlelong,female,senior
+3252,32:17.54,,Nadezhda ILYINA,1964,URS,2,Gorkiy (URS),21 JUL 1989,1124,10000-metres,middlelong,female,senior
+3252,32:17.54,,Iris BIBA-PÖSCHL,27 MAY 1964,GER,6,La Celle-st-Cloud (FRA),15 JUN 1996,1124,10000-metres,middlelong,female,senior
+3252,32:17.54,,Makiko KAWASHIMA,05 AUG 1977,JPN,1,Gifu (JPN),10 MAY 2003,1124,10000-metres,middlelong,female,senior
+3252,32:17.54,,Ayumi HAGIWARA,01 JUN 1992,JPN,3f1,Fukagawa (JPN),11 JUL 2018,1124,10000-metres,middlelong,female,senior
+3256,32:17.56,,Azumi MIYAZAKI,03 MAR 1975,JPN,5,Mito (JPN),05 MAY 1998,1124,10000-metres,middlelong,female,senior
+3257,32:17.58,,Nataliya LAGUNKOVA,06 MAY 1959,URS,8,Kiev (URS),02 AUG 1988,1124,10000-metres,middlelong,female,senior
+3257,32:17.58,,Catherine NDEREBA,21 JUL 1972,KEN,3,Mito (JPN),07 MAY 2000,1124,10000-metres,middlelong,female,senior
+3257,32:17.58,,Ai IGARASHI,25 OCT 1988,JPN,1f1,Abashiri (JPN),07 JUL 2012,1124,10000-metres,middlelong,female,senior
+3260,32:17.59,,Hiromi OMINAMI,15 NOV 1975,JPN,5,Shizuoka (JPN),03 MAY 2003,1124,10000-metres,middlelong,female,senior
+3260,32:17.59,,Yumiko OKAMOTO,28 MAR 1978,JPN,2,Hitachinaka (JPN),14 MAY 2005,1124,10000-metres,middlelong,female,senior
+3262,32:17.60,,Hannah EVERSON,21 APR 1994,USA,18,"Irvine, CA (USA)",14 MAY 2021,1124,10000-metres,middlelong,female,senior
+3263,32:17.62,,Kerstin PRESSLER,02 FEB 1962,FRG,3,Oslo (NOR),01 JUL 1989,1124,10000-metres,middlelong,female,senior
+3263,32:17.62,,Miku DAIDO,24 NOV 1998,JPN,4,"Municipal Nishikyogoku Stadium, Kyoto (JPN)",17 JAN 2021,1124,10000-metres,middlelong,female,senior
+3265,32:17.64,,Annette LUEVANO,22 SEP 1960,USA,4,"Walnut, CA (USA)",21 APR 1996,1124,10000-metres,middlelong,female,senior
+3265,32:17.64,,Kaori TANABE,30 APR 1975,JPN,18,Kanazawa (JPN),29 SEP 2001,1124,10000-metres,middlelong,female,senior
+3267,32:17.65,,Yuki SAITO,25 SEP 1980,JPN,2,Utsunomiya (JPN),15 MAY 2004,1124,10000-metres,middlelong,female,senior
+3267,32:17.65,,Kayoko FUKUSHI,25 MAR 1982,JPN,3,"Yanmar Stadium Nagai, Osaka (JPN)",25 SEP 2020,1124,10000-metres,middlelong,female,senior
+3269,32:17.66,,Yuko KIKUCHI,08 JUN 1992,JPN,3,Yamaguchi (JPN),10 DEC 2016,1124,10000-metres,middlelong,female,senior
+3269,32:17.66,,Rachael Zena CHEBET,05 NOV 1996,UGA,2,"Cote d'Or National Sports Complex, St Pierre (MRI)",11 JUN 2022,1124,10000-metres,middlelong,female,senior
+3271,32:17.67,,Jessica TRENGOVE,15 AUG 1987,AUS,5f2,"Palo Alto, CA (USA)",02 MAY 2015,1124,10000-metres,middlelong,female,senior
+3272,32:17.7h,,Bouchra CHAABI,22 SEP 1980,MAR,1,Rabat (MAR),11 JUN 2000,1123,10000-metres,middlelong,female,senior
+3273,32:17.71,,Ari ICHIHASHI,22 NOV 1977,JPN,7,Kobe (JPN),26 APR 1998,1123,10000-metres,middlelong,female,senior
+3273,32:17.71,,Sylvia MOSQUEDA,08 APR 1966,USA,5,"Walnut, CA (USA)",14 APR 2000,1123,10000-metres,middlelong,female,senior
+3273,32:17.71,,Yoshiko ICHIKAWA,18 APR 1976,JPN,2,Fukagawa (JPN),30 JUN 2004,1123,10000-metres,middlelong,female,senior
+3273,32:17.71,,Pauline KAMULU,30 DEC 1994,KEN,3,Kumagaya (JPN),22 MAY 2016,1123,10000-metres,middlelong,female,senior
+3277,32:17.72,,Jeļena PROKOPČUKA,21 SEP 1976,LAT,19,"Olympic Stadium, Sydney (AUS)",30 SEP 2000,1123,10000-metres,middlelong,female,senior
+3277,32:17.72,,Yoko SHIBUI,14 MAR 1979,JPN,9,Tottori (JPN),04 JUN 2004,1123,10000-metres,middlelong,female,senior
+3277,32:17.72,,Samiya HASSAN NOUR,05 DEC 1999,DJI,3,Riyadh (KSA),17 NOV 2025,1123,10000-metres,middlelong,female,senior
+3280,32:17.73,,Salomé ROCHA,25 APR 1990,POR,2,Huelva (ESP),08 APR 2017,1123,10000-metres,middlelong,female,senior
+3281,32:17.74,,Natalya SOLOMINSKAYA,22 JUN 1961,URS,9,Kiev (URS),02 AUG 1988,1123,10000-metres,middlelong,female,senior
+3281,32:17.74,,Aberu KEBEDE,12 SEP 1986,ETH,1,"Meteor, Zhukovskiy (RUS)",26 JUN 2010,1123,10000-metres,middlelong,female,senior
+3283,32:17.75,,Eva DIETERICH,29 MAR 1999,GER,2,"Stadion am Schwanenteich, Mittweida (GER)",06 MAY 2023,1123,10000-metres,middlelong,female,senior
+3284,32:17.77,,Megumi TANAKA-OSHIMA,04 SEP 1975,JPN,3,Kobe (JPN),30 JUN 2006,1123,10000-metres,middlelong,female,senior
+3285,32:17.78,,Yasuyo IWAMOTO,08 SEP 1976,JPN,10,Kobe (JPN),23 APR 2006,1123,10000-metres,middlelong,female,senior
+3285,32:17.78,,Xiaojie WEI,20 NOV 1989,CHN,6,Shenyang (CHN),11 SEP 2013,1123,10000-metres,middlelong,female,senior
+3287,32:17.79,,Kana YOSHIDA,27 APR 1984,JPN,10,Kobe (JPN),25 APR 2004,1123,10000-metres,middlelong,female,senior
+3287,32:17.79,,Mary Mureithi WANGARI,09 APR 1978,KEN,3,Shizuoka (JPN),03 MAY 2004,1123,10000-metres,middlelong,female,senior
+3289,32:17.80,,Harumi HIROYAMA-SUZUKI,02 SEP 1968,JPN,1,Mito (JPN),05 MAY 1999,1123,10000-metres,middlelong,female,senior
+3290,32:17.81,,Ellie PASHLEY,10 DEC 1988,AUS,3,Melbourne (AUS),13 DEC 2018,1123,10000-metres,middlelong,female,senior
+3291,32:17.86,,Lisa MARTIN,12 MAY 1960,AUS,4,Oslo (NOR),27 JUL 1985,1123,10000-metres,middlelong,female,senior
+3291,32:17.86,,Krishna STANTON,18 MAY 1966,AUS,4,Melbourne (AUS),10 DEC 1991,1123,10000-metres,middlelong,female,senior
+3293,32:17.88,,Kathrin WESSEL,14 AUG 1967,GDR,1,Gateshead (GBR),06 AUG 1989,1123,10000-metres,middlelong,female,senior
+3293,32:17.88,,Deena KASTOR,14 FEB 1973,USA,1,"Walnut, CA (USA)",17 APR 1999,1123,10000-metres,middlelong,female,senior
+3293,32:17.88,,Chloé HERBIET,03 DEC 1998,BEL,10,"Stadio Olimpico, Roma (ITA)",11 JUN 2024,1123,10000-metres,middlelong,female,senior
+3296,32:17.90,,Keiko NOGAMI,06 DEC 1985,JPN,3,Kobe (JPN),22 APR 2018,1123,10000-metres,middlelong,female,senior
+3296,32:17.9h,,Netsanet GUDETA,12 FEB 1991,ETH,3,Addis Abeba (ETH),08 MAY 2019,1123,10000-metres,middlelong,female,senior
+3298,32:17.91,,Natalya SOROKOVSKAYA,23 JUL 1962,URS,1,Gorkiy (URS),21 JUL 1989,1123,10000-metres,middlelong,female,senior
+3299,32:17.92,,Tegla LOROUPE,09 MAY 1973,KEN,4h1,"Ullevi Stadium, Göteborg (SWE)",06 AUG 1995,1123,10000-metres,middlelong,female,senior
+3299,32:17.92,,María Luisa LARRAGA,10 DEC 1970,ESP,3,Mataró (ESP),23 JUL 2004,1123,10000-metres,middlelong,female,senior
+3299,32:17.92,,Alice WRIGHT,03 NOV 1994,GBR,4,"Eugene, OR (USA)",07 JUN 2018,1123,10000-metres,middlelong,female,senior
+3299,32:17.92,,Lyubov DUBROVSKAYA,16 SEP 1997,RUS,1,"Kalininets Stadium, Yekaterinburg (RUS)",17 AUG 2024,1123,10000-metres,middlelong,female,senior
+3303,32:17.93,,Jordan HASAY,21 SEP 1991,USA,12,"Luzhniki Stadion, Moskva (RUS)",11 AUG 2013,1123,10000-metres,middlelong,female,senior
+3304,32:17.95,,Charlotte TAYLOR,17 JAN 1994,GBR,5,"Eugene, OR (USA)",07 JUN 2018,1123,10000-metres,middlelong,female,senior
+3304,32:17.95,,Olga VOVK,13 FEB 1993,RUS,2,"Kalininets Stadium, Yekaterinburg (RUS)",17 AUG 2024,1123,10000-metres,middlelong,female,senior
+3306,32:17.97,,Elana MEYER,10 OCT 1966,RSA,5h1,"Ullevi Stadium, Göteborg (SWE)",06 AUG 1995,1123,10000-metres,middlelong,female,senior
+3307,32:18.0h,,Alice Jemeli TIMBILILI,01 FEB 1983,KEN,2,Nairobi (KEN),22 JUL 2000,1123,10000-metres,middlelong,female,senior
+3307,32:18.00,,Miho IHARA,04 FEB 1988,JPN,4,Fukagawa (JPN),25 JUN 2011,1123,10000-metres,middlelong,female,senior
+3309,32:18.01,,Noriko GEJI,31 MAY 1973,JPN,3,Kobe (JPN),20 APR 1997,1123,10000-metres,middlelong,female,senior
+3309,32:18.01,,Yumi YOSHIKAWA,31 OCT 1990,JPN,7,"National Stadium, Tokyo (JPN)",07 MAY 2022,1123,10000-metres,middlelong,female,senior
+3311,32:18.02,,Hiromi OMINAMI,15 NOV 1975,JPN,3,Doha (QAT),08 DEC 2006,1123,10000-metres,middlelong,female,senior
+3311,32:18.02,,Ai HOSODA,27 NOV 1995,JPN,2,"Municipal Stadium, Miyoshi (JPN)",18 MAY 2024,1123,10000-metres,middlelong,female,senior
+3311,32:18.02,,Kazuna KANETOMO,19 AUG 2001,JPN,5,"Ishin Me-Life Stadium, Yamaguchi (JPN)",21 SEP 2024,1123,10000-metres,middlelong,female,senior
+3314,32:18.03,,Anne KEENAN-BUCKLEY,07 JAN 1962,IRL,6,Camaiore (ITA),06 APR 2002,1123,10000-metres,middlelong,female,senior
+3314,32:18.03,,Megumi YOSHINO,26 JUN 1984,JPN,4,Fukagawa (JPN),29 JUN 2005,1123,10000-metres,middlelong,female,senior
+3316,32:18.05,,Yoko MIYAUCHI,19 JUN 1983,JPN,5,Fukagawa (JPN),29 JUN 2005,1123,10000-metres,middlelong,female,senior
+3316,32:18.05,,Layes ABDULLAYEVA,29 MAY 1991,AZE,1,"Mestský Stadion, Ostrava (CZE)",15 JUL 2011,1123,10000-metres,middlelong,female,senior
+3318,32:18.06,,Lynn JENNINGS,01 JUL 1960,USA,3h2,"Estadio Olímpico, Barcelona (ESP)",01 AUG 1992,1123,10000-metres,middlelong,female,senior
+3319,32:18.07,,Mary Jepkosgei KEITANY,18 JAN 1982,KEN,7,Utrecht (NED),17 MAY 2007,1123,10000-metres,middlelong,female,senior
+3320,32:18.08,,Makiko KAWASHIMA,05 AUG 1977,JPN,8,Yokohama (JPN),06 JUN 2003,1123,10000-metres,middlelong,female,senior
+3321,32:18.09,,Miyuki UEHARA,22 NOV 1995,JPN,7,Nagoya (JPN),24 JUN 2016,1123,10000-metres,middlelong,female,senior
+3322,32:18.10,,Kanako HAGINAGA,15 NOV 1975,JPN,1,Kobe (JPN),18 MAY 1996,1123,10000-metres,middlelong,female,senior
+3323,32:18.16,,Elva DRYER,26 SEP 1971,USA,19,"Olympic Stadium, Athina (GRE)",27 AUG 2004,1123,10000-metres,middlelong,female,senior
+3324,32:18.18,,Haruko OKAMOTO,19 AUG 1974,JPN,4,Kobe (JPN),28 APR 2002,1123,10000-metres,middlelong,female,senior
+3325,32:18.19,,Adriana FERNÁNDEZ MIRANDA,04 APR 1971,MEX,2,Burnaby (CAN),01 JUN 2002,1123,10000-metres,middlelong,female,senior
+3325,32:18.19,,Christelle DAUNAY,05 DEC 1974,FRA,1,St-Maur (FRA),16 JUN 2006,1123,10000-metres,middlelong,female,senior
+3327,32:18.22,,Clair FEARNLEY,07 MAR 1975,AUS,3,Melbourne (AUS),06 DEC 1999,1123,10000-metres,middlelong,female,senior
+3328,32:18.24,,Carole ROUILLARD,15 MAR 1960,CAN,6,Oslo (NOR),04 JUL 1987,1123,10000-metres,middlelong,female,senior
+3329,32:18.25,,Kazuna KANETOMO,19 AUG 2001,JPN,3,"Egao Kenko Stadium, Kumamoto (JPN)",12 APR 2025,1123,10000-metres,middlelong,female,senior
+3330,32:18.27,,Hiromi OMINAMI,15 NOV 1975,JPN,19,Kanazawa (JPN),29 SEP 2001,1123,10000-metres,middlelong,female,senior
+3331,32:18.28,,Akane TAIRA,03 NOV 1982,JPN,13,Kobe (JPN),22 APR 2007,1123,10000-metres,middlelong,female,senior
+3332,32:18.29,,Lisa ONDIEKI,12 MAY 1960,AUS,2,Melbourne (AUS),14 DEC 1995,1123,10000-metres,middlelong,female,senior
+3333,32:18.31,,Mao ICHIYAMA,29 MAY 1997,JPN,5,Yamaguchi (JPN),22 JUN 2018,1123,10000-metres,middlelong,female,senior
+3334,32:18.32,,Alia SAEED MOHAMMED,18 MAY 1991,UAE,4,Jakarta (INA),25 AUG 2018,1123,10000-metres,middlelong,female,senior
+3335,32:18.33,,Yuki SAITO,25 SEP 1980,JPN,11,Kobe (JPN),25 APR 2004,1123,10000-metres,middlelong,female,senior
+3336,32:18.34,,Jill BOLTZ,14 OCT 1966,GBR,4h2,"Estadio Olímpico, Barcelona (ESP)",01 AUG 1992,1123,10000-metres,middlelong,female,senior
+3336,32:18.34,,Aki FUJIKAWA,14 NOV 1978,JPN,6,Fukagawa (JPN),25 JUN 2003,1123,10000-metres,middlelong,female,senior
+3338,32:18.35,,Rochelle KANUHO,04 JUL 1990,USA,1,"Portland, OR (USA)",09 JUN 2018,1123,10000-metres,middlelong,female,senior
+3339,32:18.36,,Sylvia MOSQUEDA,08 APR 1966,USA,6,"Sacramento, CA (USA)",14 JUL 2000,1123,10000-metres,middlelong,female,senior
+3339,32:18.36,,Kathy BUTLER,22 OCT 1973,GBR,5,"Queensland Sport and Athletics Centre, Nathan, Brisbane (AUS)",07 SEP 2001,1123,10000-metres,middlelong,female,senior
+3339,32:18.36,,Rie MATSUOKA,09 MAR 1977,JPN,20,Kanazawa (JPN),29 SEP 2001,1123,10000-metres,middlelong,female,senior
+3339,32:18.36,,Yuko KAWAKAMI,01 AUG 1975,JPN,5,Kobe (JPN),28 APR 2002,1123,10000-metres,middlelong,female,senior
+3343,32:18.37,,Kayo SUGIHARA,24 FEB 1983,JPN,3,Shizuoka (JPN),30 APR 2007,1123,10000-metres,middlelong,female,senior
+3344,32:18.40,,Marie-Louise HAMRIN,19 APR 1957,SWE,14,"Neckarstadion, Stuttgart (GER)",30 AUG 1986,1123,10000-metres,middlelong,female,senior
+3344,32:18.40,,Yoko AIZU,28 APR 1986,JPN,1,Fukagawa (JPN),27 JUN 2012,1123,10000-metres,middlelong,female,senior
+3346,32:18.44,,Lynn JENNINGS,01 JUL 1960,USA,8h2,"Olympic Stadium, Seoul (KOR)",26 SEP 1988,1123,10000-metres,middlelong,female,senior
+3346,32:18.44,,Charlotte PURDUE,10 JUN 1991,GBR,7,Bilbao (ESP),03 JUN 2012,1123,10000-metres,middlelong,female,senior
+3346,32:18.44,,Mizuki TANIMOTO,18 DEC 1994,JPN,4,Yamaguchi (JPN),10 DEC 2016,1123,10000-metres,middlelong,female,senior
+3349,32:18.45,,Kate FONSHELL,10 OCT 1969,USA,3,"Philadelphia, PA (USA)",25 APR 1996,1123,10000-metres,middlelong,female,senior
+3350,32:18.46,,Yoko MANABE,08 FEB 1979,JPN,2,Kushiro (JPN),16 JUN 2004,1123,10000-metres,middlelong,female,senior
+3351,32:18.49,,Katie MCGREGOR,02 SEP 1977,USA,15,"Olympiastadion, Berlin (GER)",15 AUG 2009,1123,10000-metres,middlelong,female,senior
+3351,32:18.49,,Gladys TEJEDA,30 SEP 1985,PER,6f2,"Palo Alto, CA (USA)",02 MAY 2015,1123,10000-metres,middlelong,female,senior
+3353,32:18.56,,Naoko HASHIMOTO,08 SEP 1982,JPN,8,Niigata (JPN),25 SEP 2004,1123,10000-metres,middlelong,female,senior
+3354,32:18.57,,Hiroko MIYAUCHI,19 JUN 1983,JPN,14,Kobe (JPN),22 APR 2007,1123,10000-metres,middlelong,female,senior
+3355,32:18.59,,Takako KOTORIDA,02 APR 1977,JPN,6,Mito (JPN),05 MAY 1998,1123,10000-metres,middlelong,female,senior
+3355,32:18.59,,Yuka TAKASHIMA,12 MAY 1988,JPN,6,Yamaguchi (JPN),22 JUN 2018,1123,10000-metres,middlelong,female,senior
+3357,32:18.6h,,Lucy Kabuu WANGUI,24 MAR 1984,KEN,1,Nairobi (KEN),04 JUL 2008,1123,10000-metres,middlelong,female,senior
+3358,32:18.62,,Junko KATAOKA,13 JUN 1970,JPN,6h1,"Ullevi Stadium, Göteborg (SWE)",06 AUG 1995,1123,10000-metres,middlelong,female,senior
+3358,32:18.62,,Chrysostomia IAKOVOU,09 APR 1971,GRE,13,"Olympiastadion, München (GER)",06 AUG 2002,1123,10000-metres,middlelong,female,senior
+3360,32:18.64,,Lyudmila BIKTASHEVA,25 JUL 1974,RUS,10,"Commonwealth Stadium, Edmonton (CAN)",07 AUG 2001,1123,10000-metres,middlelong,female,senior
+3361,32:18.65,,Deena KASTOR,14 FEB 1973,USA,11,"Commonwealth Stadium, Edmonton (CAN)",07 AUG 2001,1123,10000-metres,middlelong,female,senior
+3362,32:18.69,,Jip VASTENBURG,21 MAR 1994,NED,1,"Kadrioru staadion, Tallinn (EST)",10 JUL 2015,1123,10000-metres,middlelong,female,senior
+3363,32:18.70,,Sakiho TSUTSUI,19 JAN 1996,JPN,7,Yamaguchi (JPN),22 JUN 2018,1123,10000-metres,middlelong,female,senior
+3364,32:18.72,,Amy CRAGG,21 JAN 1984,USA,14f1,"Palo Alto, CA (USA)",04 MAY 2008,1123,10000-metres,middlelong,female,senior
+3364,32:18.72,,Momoka KAWAGUCHI,28 JUN 1998,JPN,2,"Athletics Stadium, Fukagawa (JPN)",22 JUN 2022,1123,10000-metres,middlelong,female,senior
+3366,32:18.74,,Noriko MATSUOKA,02 MAY 1979,JPN,1f1,Fugokawa (JPN),10 JUN 2009,1123,10000-metres,middlelong,female,senior
+3367,32:18.75,,Iulia OLTEANU-NEGURA,26 JAN 1967,ROU,9,Tokyo (JPN),10 JUN 2001,1123,10000-metres,middlelong,female,senior
+3368,32:18.77,,Eveline Nganga WAMBUI,04 APR 1986,KEN,2,Shizuoka (JPN),03 MAY 2008,1123,10000-metres,middlelong,female,senior
+3369,32:18.79,,Kayo SUGIHARA,24 FEB 1983,JPN,1,Kumagaya (JPN),10 JUN 2011,1123,10000-metres,middlelong,female,senior
+3370,32:18.81,,Guixia ZHENG,24 JUN 1973,CHN,2,Bangkok (THA),14 DEC 1998,1123,10000-metres,middlelong,female,senior
+3370,32:18.81,,Amy CRAGG,21 JAN 1984,USA,3,"Sacramento, CA (USA)",26 JUN 2014,1123,10000-metres,middlelong,female,senior
+3372,32:18.82,,Kimberly FITCHEN-YOUNG,03 SEP 1968,USA,1,"Palo Alto, CA (USA)",29 MAR 2002,1123,10000-metres,middlelong,female,senior
+3373,32:18.83,,Siju YANG,19 APR 1973,CHN,4,Kobe (JPN),20 APR 1997,1123,10000-metres,middlelong,female,senior
+3374,32:18.86,,Meixia ZHANG,20 JAN 1991,CHN,7,Shenyang (CHN),11 SEP 2013,1122,10000-metres,middlelong,female,senior
+3375,32:18.87,,Pauline Kiragu WANGURU,26 AUG 1980,KEN,1,Kita-Kyushu (JPN),12 MAY 2007,1122,10000-metres,middlelong,female,senior
+3375,32:18.87,,Sarah WANJIRU,12 APR 2004,KEN,8,"Athletic Track, Abashiri (JPN)",10 JUL 2024,1122,10000-metres,middlelong,female,senior
+3377,32:18.88,,Tatyana PETROVA,08 APR 1983,RUS,7,"Meteor, Zhukovskiy (RUS)",03 JUL 2011,1122,10000-metres,middlelong,female,senior
+3378,32:18.90,,Noriko MATSUOKA,02 MAY 1979,JPN,5,Kobe (JPN),25 APR 2010,1122,10000-metres,middlelong,female,senior
+3378,32:18.90,,Brigid KOSGEI,20 FEB 1994,KEN,6,"Moi International Sports Centre, Kasarani, Nairobi (KEN)",19 JUN 2021,1122,10000-metres,middlelong,female,senior
+3380,32:18.93,,Ancuţa BOBOCEL,03 OCT 1987,ROU,2,Maia (POR),12 JUL 2017,1122,10000-metres,middlelong,female,senior
+3381,32:18.96,,Kayoko FUKUSHI,25 MAR 1982,JPN,2f2,Niigata (JPN),24 SEP 2010,1122,10000-metres,middlelong,female,senior
+3382,32:18.98,,Takako KOTORIDA,02 APR 1977,JPN,10,Tokyo (JPN),10 JUN 2001,1122,10000-metres,middlelong,female,senior
+3383,32:18.99,,Kazue OGOSHI,02 MAR 1981,JPN,6,Shizuoka (JPN),03 MAY 2003,1122,10000-metres,middlelong,female,senior
+3384,32:19.0h,,Sally BARSOSIO,21 MAR 1978,KEN,3,Nairobi (KEN),22 JUL 2000,1122,10000-metres,middlelong,female,senior
+3384,32:19.0h,,Tsigie GEBRESELAMA,30 SEP 2000,ETH,4,Addis Abeba (ETH),08 MAY 2019,1122,10000-metres,middlelong,female,senior
+3386,32:19.02,,Yuko KAWAKAMI,01 AUG 1975,JPN,12,"La Cartuja, Sevilla (ESP)",26 AUG 1999,1122,10000-metres,middlelong,female,senior
+3387,32:19.03,,Alice WRIGHT,03 NOV 1994,GBR,2h,"Sacramento, CA (USA)",24 MAY 2018,1122,10000-metres,middlelong,female,senior
+3388,32:19.05,,Trihas GEBRE,29 APR 1990,ETH,1,Mataró (ESP),06 APR 2013,1122,10000-metres,middlelong,female,senior
+3389,32:19.08,,Eloise WELLINGS,09 NOV 1982,AUS,1,Melbourne (AUS),10 DEC 2009,1122,10000-metres,middlelong,female,senior
+3390,32:19.1h,,Daisy CHEROTICH,30 MAY 1997,KEN,1,"Nyayo National Stadium, Nairobi (KEN)",28 FEB 2021,1122,10000-metres,middlelong,female,senior
+3391,32:19.11,,Susan SIRMA,26 MAY 1966,KEN,1,Hamamatsu (JPN),13 MAY 1990,1122,10000-metres,middlelong,female,senior
+3391,32:19.11,,Carmela CARDAMA,04 DEC 1996,ESP,10,"JSerra Catholic HS, San Juan Capistrano, CA (USA)",06 MAY 2022,1122,10000-metres,middlelong,female,senior
+3393,32:19.14,,Carol MONTGOMERY,09 DEC 1966,CAN,3,"Walnut, CA (USA)",20 APR 2001,1122,10000-metres,middlelong,female,senior
+3394,32:19.15,,Miki OHIRA,28 JUN 1981,JPN,20,Tokyo (JPN),02 JUN 2005,1122,10000-metres,middlelong,female,senior
+3394,32:19.15,,Krisztina PAPP,17 DEC 1982,HUN,2f1,Maia (POR),09 APR 2016,1122,10000-metres,middlelong,female,senior
+3396,32:19.18,,Mie UEDA,09 JUN 1982,JPN,9,Niigata (JPN),25 SEP 2004,1122,10000-metres,middlelong,female,senior
+3396,32:19.18,,Rina NABESHIMA,16 DEC 1993,JPN,3f2,Osaka (JPN),22 SEP 2017,1122,10000-metres,middlelong,female,senior
+3398,32:19.2h,,Bosena MULATIE,21 NOV 2001,ETH,4,Hawassa (ETH),29 MAR 2022,1122,10000-metres,middlelong,female,senior
+3399,32:19.25,,Bilha KAMAU,02 JUL 1988,KEN,4,Kobe (JPN),13 OCT 2007,1122,10000-metres,middlelong,female,senior
+3400,32:19.27,,Camilla RICHARDSSON,14 SEP 1993,FIN,9,"Olympiastadion, München (GER)",15 AUG 2022,1122,10000-metres,middlelong,female,senior
+3401,32:19.30,,Yoshimi OZAKI,01 JUL 1981,JPN,3,Utsunomiya (JPN),15 MAY 2004,1122,10000-metres,middlelong,female,senior
+3401,32:19.3h,,Peninah ARUSEI,23 FEB 1979,KEN,2,Nairobi (KEN),04 JUL 2008,1122,10000-metres,middlelong,female,senior
+3403,32:19.31,,Bruktayit ESHETU,29 SEP 1990,ETH,3,"St. Michael's HS, Austin, TX (USA)",27 FEB 2021,1122,10000-metres,middlelong,female,senior
+3404,32:19.32,,Pauline Chemning KORIKWIANG,01 MAR 1988,KEN,10,"Hayward Field, Eugene, OR (USA)",01 JUN 2012,1122,10000-metres,middlelong,female,senior
+3405,32:19.33,,Yukari ABE,21 AUG 1989,JPN,6,"Athletic Track, Abashiri (JPN)",10 JUL 2021,1122,10000-metres,middlelong,female,senior
+3406,32:19.36,,Hanae TANAKA,12 FEB 1990,JPN,2,Oita (JPN),17 OCT 2015,1122,10000-metres,middlelong,female,senior
+3407,32:19.37,,Cailie LOGUE,04 JAN 1999,USA,19f2,"JSerra Catholic HS, San Juan Capistrano, CA (USA)",05 DEC 2020,1122,10000-metres,middlelong,female,senior
+3408,32:19.38,,Rina FUJIOKA,18 OCT 1982,JPN,3,Fukagawa (JPN),30 JUN 2004,1122,10000-metres,middlelong,female,senior
+3409,32:19.39,,Noriko MATSUOKA,02 MAY 1979,JPN,10,Niigata (JPN),25 SEP 2004,1122,10000-metres,middlelong,female,senior
+3409,32:19.39,,Jane Gakunyi WANJIKU,14 JUN 1979,KEN,11,Kobe (JPN),23 APR 2006,1122,10000-metres,middlelong,female,senior
+3411,32:19.40,,Keira D'AMATO,21 OCT 1984,USA,7,"Hayward Field, Eugene, OR (USA)",31 JUL 2025,1122,10000-metres,middlelong,female,senior
+3412,32:19.43,,Genet GETANEH,06 JAN 1986,ETH,13,Ostrava (CZE),12 JUN 2008,1122,10000-metres,middlelong,female,senior
+3413,32:19.44,,Olivera JEVTIĆ,24 JUL 1977,YUG,12,"Commonwealth Stadium, Edmonton (CAN)",07 AUG 2001,1122,10000-metres,middlelong,female,senior
+3414,32:19.48,,Wenqin SUN,02 JUN 1981,CHN,6,Nanjing (CHN),17 OCT 2005,1122,10000-metres,middlelong,female,senior
+3415,32:19.49,,Rochelle KANUHO,04 JUL 1990,USA,6,"Drake Stadium, Des Moines, IA (USA)",21 JUN 2018,1122,10000-metres,middlelong,female,senior
+3416,32:19.50,,Zoya IVANOVA,14 MAR 1952,URS,8,Oslo (NOR),02 JUL 1988,1122,10000-metres,middlelong,female,senior
+3416,32:19.5h,,Doris Chepkwemoi CHANGEYWO,12 DEC 1984,KEN,5,Nairobi (KEN),25 JUN 2004,1122,10000-metres,middlelong,female,senior
+3418,32:19.51,,Gete ALEMAYEHU,27 AUG 1998,ETH,11,"FBK Stadium, Hengelo (NED)",08 JUN 2021,1122,10000-metres,middlelong,female,senior
+3419,32:19.54,,Valeriia ZINENKO,06 NOV 1995,UKR,1,"Central Stadium, Cherkasy (UKR)",24 APR 2021,1122,10000-metres,middlelong,female,senior
+3420,32:19.57,,Akemi MATSUNO,27 APR 1968,JPN,9h2,"Olympic Stadium, Seoul (KOR)",26 SEP 1988,1122,10000-metres,middlelong,female,senior
+3420,32:19.57,,Anne Marie LAUCK,07 MAR 1969,USA,7h1,"Ullevi Stadium, Göteborg (SWE)",06 AUG 1995,1122,10000-metres,middlelong,female,senior
+3420,32:19.57,,Masae UEOKA,06 OCT 1972,JPN,5,Naruto (JPN),14 JUN 1998,1122,10000-metres,middlelong,female,senior
+3423,32:19.58,,Dulce María RODRÍGUEZ,14 AUG 1972,MEX,1,"Palo Alto, CA (USA)",30 APR 2006,1122,10000-metres,middlelong,female,senior
+3424,32:19.59,,Kasumi NISHIHARA,01 MAR 1989,JPN,4,Kobe (JPN),22 APR 2018,1122,10000-metres,middlelong,female,senior
+3424,32:19.59,,Carolina TABARES,18 JUN 1986,COL,14,"Palo Alto, CA (USA)",02 MAY 2019,1122,10000-metres,middlelong,female,senior
+3426,32:19.62,,Nadezhda GALYAMOVA,22 JUL 1959,URS,10,Kiev (URS),02 AUG 1988,1122,10000-metres,middlelong,female,senior
+3427,32:19.63,,Masami SAKATA,11 OCT 1984,JPN,12,Kobe (JPN),23 APR 2006,1122,10000-metres,middlelong,female,senior
+3428,32:19.69,,Mayumi ICHIKAWA,03 MAY 1976,JPN,7,Mito (JPN),05 MAY 1998,1122,10000-metres,middlelong,female,senior
+3429,32:19.71,,Sakiho TSUTSUI,19 JAN 1996,JPN,3f2,"Yanmar Stadium Nagai, Osaka (JPN)",20 SEP 2019,1122,10000-metres,middlelong,female,senior
+3430,32:19.73,,Hiroko MIYAUCHI,19 JUN 1983,JPN,8,Kobe (JPN),27 APR 2008,1122,10000-metres,middlelong,female,senior
+3431,32:19.75,,Maria YERMAKOVA,29 MAY 2003,RUS,3,"Kalininets Stadium, Yekaterinburg (RUS)",17 AUG 2024,1122,10000-metres,middlelong,female,senior
+3432,32:19.76,,XiuZhen MA,05 JUL 2000,CHN,6,"Jack Kemp Stadium - Occidental College, Los Angeles, CA (USA)",11 MAY 2024,1122,10000-metres,middlelong,female,senior
+3433,32:19.77,,Maria CURATOLO,12 OCT 1963,ITA,9,Oslo (NOR),02 JUL 1988,1122,10000-metres,middlelong,female,senior
+3434,32:19.79,,Nami KUROSAWA,26 DEC 1978,JPN,11,Tokyo (JPN),10 JUN 2001,1122,10000-metres,middlelong,female,senior
+3435,32:19.81,,Carmela CARDAMA,04 DEC 1996,ESP,18,"JSerra Catholic HS, San Juan Capistrano, CA (USA)",06 MAR 2022,1122,10000-metres,middlelong,female,senior
+3436,32:19.84,,Caroline KARIBA,22 APR 2004,KEN,6,"Ishin Me-Life Stadium, Yamaguchi (JPN)",21 SEP 2024,1122,10000-metres,middlelong,female,senior
+3436,32:19.84,,Taylor ROE,13 OCT 2000,USA,1,"Grand Bahama Sports Complex, Freeport (BAH)",15 AUG 2025,1122,10000-metres,middlelong,female,senior
+3438,32:19.86,,Erika VERÉBNÉ FAZEKAS,23 OCT 1963,HUN,3,Oslo (NOR),05 JUL 1986,1122,10000-metres,middlelong,female,senior
+3439,32:19.93,,Mary KNISELY,29 MAY 1959,USA,2,"Bruce Stadium, Canberra (AUS)",05 OCT 1985,1122,10000-metres,middlelong,female,senior
+3440,32:19.94,,Mizuki NOGUCHI,03 JUL 1978,JPN,13,"Commonwealth Stadium, Edmonton (CAN)",07 AUG 2001,1122,10000-metres,middlelong,female,senior
+3440,32:19.94,,Emily INFELD,21 MAR 1990,USA,8,"Hayward Field, Eugene, OR (USA)",26 JUN 2021,1122,10000-metres,middlelong,female,senior
+3442,32:19.95,,Lynn JENNINGS,01 JUL 1960,USA,1,San José (USA),25 JUN 1987,1122,10000-metres,middlelong,female,senior
+3442,32:19.95,,Reiko TOSA,11 JUN 1976,JPN,3,Hitachinaka (JPN),14 MAY 2005,1122,10000-metres,middlelong,female,senior
+3444,32:19.97,,Alicia CRAIG,14 JUN 1982,USA,8,"Palo Alto, CA (USA)",30 APR 2004,1122,10000-metres,middlelong,female,senior
+3445,32:19.98,,Salomé ROCHA,25 APR 1990,POR,2f1,Lisboa (POR),29 MAR 2014,1121,10000-metres,middlelong,female,senior
+3446,32:20.00,,Noriko URA,28 JUL 1976,JPN,5,Mito (JPN),05 MAY 1997,1121,10000-metres,middlelong,female,senior

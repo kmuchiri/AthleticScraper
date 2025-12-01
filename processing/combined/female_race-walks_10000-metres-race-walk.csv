@@ -207,8 +207,8 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 184,43:46.70,,Liying TANG,,CHN,1,Jinan (CHN),1992-02-15,1129,10000-metres-race-walk,race-walks,female,senior,10000-metres-race-walk,track,2626.7,CHN,,1992
 185,43:47.78,,Elvira CHEPAREVA,2000-01-10,RUS,1,"Yelena Yelesina Stadium, Chelyabinsk (RUS)",2023-07-08,1128,10000-metres-race-walk,race-walks,female,senior,10000-metres-race-walk,track,2627.78,RUS,23.0,2023
 186,43:47.84,,Ana CABECINHA,1984-04-29,POR,1,Lisboa (POR),2014-07-26,1128,10000-metres-race-walk,race-walks,female,senior,10000-metres-race-walk,track,2627.84,POR,30.0,2014
-23,43:47.89,,Sofia SANTACREU,2006-02-07,ESP,1f1,"Ratinan Stadion, Tampere (FIN)",2025-08-09,1128,10000-metres-race-walk,race-walks,female,u20,10000-metres-race-walk,track,2627.89,FIN,19.0,2025
-187,43:47.89,,Sofia SANTACREU,2006-02-07,ESP,1f1,"Ratinan Stadion, Tampere (FIN)",2025-08-09,1128,10000-metres-race-walk,race-walks,female,senior,10000-metres-race-walk,track,2627.89,FIN,19.0,2025
+23,43:47.89,,Sofia SANTACREU,2006-02-07,ESP,1,"Ratinan Stadion, Tampere (FIN)",2025-08-09,1128,10000-metres-race-walk,race-walks,female,u20,10000-metres-race-walk,track,2627.89,FIN,19.0,2025
+187,43:47.89,,Sofia SANTACREU,2006-02-07,ESP,1,"Ratinan Stadion, Tampere (FIN)",2025-08-09,1128,10000-metres-race-walk,race-walks,female,senior,10000-metres-race-walk,track,2627.89,FIN,19.0,2025
 188,43:48.08,,Beki SMITH,1986-11-25,AUS,1,"SOPAC, Sydney (AUS)",2016-04-01,1128,10000-metres-race-walk,race-walks,female,senior,10000-metres-race-walk,track,2628.08,AUS,29.0,2016
 189,43:48.8h,,Alina YUSHCHANKA,1990-07-29,BLR,1,"RTSOP, Minsk (BLR)",2022-05-31,1128,10000-metres-race-walk,race-walks,female,senior,10000-metres-race-walk,track,2628.8,BLR,31.0,2022
 190,43:49.24,,Valentina TSYBULSKAYA,1968-02-19,BLR,3,"Olympic Stadium, Athina (GRE)",1997-08-07,1128,10000-metres-race-walk,race-walks,female,senior,10000-metres-race-walk,track,2629.24,GRE,29.0,1997
@@ -245,8 +245,8 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 220,43:55.51,,Ana CABECINHA,1984-04-29,POR,1,Vila Real de Santo António (POR),2015-01-11,1124,10000-metres-race-walk,race-walks,female,senior,10000-metres-race-walk,track,2635.51,POR,30.0,2015
 221,43:55.70,,Júlia TAKÁCS,1989-06-29,ESP,3,Gijón (ESP),2016-07-23,1124,10000-metres-race-walk,race-walks,female,senior,10000-metres-race-walk,track,2635.7,ESP,27.0,2016
 222,43:55.80,,Olga CHOJECKA,1997-06-30,POL,1,"Stadion Zygmunta Szelesta, Warszawa (POL)",2024-03-27,1124,10000-metres-race-walk,race-walks,female,senior,10000-metres-race-walk,track,2635.8,POL,26.0,2024
-25,43:56.25,,Serena DI FABIO,2007-11-23,ITA,2f1,"Ratinan Stadion, Tampere (FIN)",2025-08-09,1123,10000-metres-race-walk,race-walks,female,u20,10000-metres-race-walk,track,2636.25,FIN,17.0,2025
-223,43:56.25,,Serena DI FABIO,2007-11-23,ITA,2f1,"Ratinan Stadion, Tampere (FIN)",2025-08-09,1123,10000-metres-race-walk,race-walks,female,senior,10000-metres-race-walk,track,2636.25,FIN,17.0,2025
+25,43:56.25,,Serena DI FABIO,2007-11-23,ITA,2,"Ratinan Stadion, Tampere (FIN)",2025-08-09,1123,10000-metres-race-walk,race-walks,female,u20,10000-metres-race-walk,track,2636.25,FIN,17.0,2025
+223,43:56.25,,Serena DI FABIO,2007-11-23,ITA,2,"Ratinan Stadion, Tampere (FIN)",2025-08-09,1123,10000-metres-race-walk,race-walks,female,senior,10000-metres-race-walk,track,2636.25,FIN,17.0,2025
 26,43:56.80,,Chen YAN,1974-01-30,CHN,16,Jinan (CHN),1992-03-15,1123,10000-metres-race-walk,race-walks,female,u20,10000-metres-race-walk,track,2636.8,CHN,18.0,1992
 224,43:56.80,,Chen YAN,1974-01-30,CHN,16,Jinan (CHN),1992-03-15,1123,10000-metres-race-walk,race-walks,female,senior,10000-metres-race-walk,track,2636.8,CHN,18.0,1992
 225,43:56.86,,Hongyu LIU,1975-01-11,CHN,4,"Olympic Stadium, Athina (GRE)",1997-08-07,1123,10000-metres-race-walk,race-walks,female,senior,10000-metres-race-walk,track,2636.86,GRE,22.0,1997
@@ -269,7 +269,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 34,44:13.37,,Nanako FUJII,1999-05-07,JPN,2,Osaka (JPN),2018-09-22,1113,10000-metres-race-walk,race-walks,female,u20,10000-metres-race-walk,track,2653.37,JPN,19.0,2018
 35,44:13.88,,Alegna GONZÁLEZ,1999-01-02,MEX,1,"Ratinan Stadion, Tampere (FIN)",2018-07-14,1113,10000-metres-race-walk,race-walks,female,u20,10000-metres-race-walk,track,2653.88,FIN,19.0,2018
 36,44:15.87,,Anežka DRAHOTOVÁ,1995-07-22,CZE,1,"Stadio Guidobaldi, Rieti (ITA)",2013-07-18,1112,10000-metres-race-walk,race-walks,female,u20,10000-metres-race-walk,track,2655.87,ITA,18.0,2013
-37,44:15.89,,Aldara MEILÁN,2006-10-02,ESP,3f1,"Ratinan Stadion, Tampere (FIN)",2025-08-09,1112,10000-metres-race-walk,race-walks,female,u20,10000-metres-race-walk,track,2655.89,FIN,18.0,2025
+37,44:15.89,,Aldara MEILÁN,2006-10-02,ESP,3,"Ratinan Stadion, Tampere (FIN)",2025-08-09,1112,10000-metres-race-walk,race-walks,female,u20,10000-metres-race-walk,track,2655.89,FIN,18.0,2025
 38,44:16.72,,Yuanyuan NI,1995-04-06,CHN,3,"Hayward Field, Eugene, OR (USA)",2014-07-23,1111,10000-metres-race-walk,race-walks,female,u20,10000-metres-race-walk,track,2656.72,USA,19.0,2014
 39,44:17.58,,Natalya TROFIMOVA,1975-01-17,RUS,6,Yaroslavl (RUS),1994-05-22,1111,10000-metres-race-walk,race-walks,female,u20,10000-metres-race-walk,track,2657.58,RUS,19.0,1994
 40,44:17.69,,Meryem BEKMEZ,2000-07-31,TUR,2,"Ratinan Stadion, Tampere (FIN)",2018-07-14,1111,10000-metres-race-walk,race-walks,female,u20,10000-metres-race-walk,track,2657.69,FIN,17.0,2018
@@ -285,11 +285,11 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 50,44:31.32,,Yanxue MAO,1994-02-15,CHN,3,Tianjin (CHN),2012-09-18,1103,10000-metres-race-walk,race-walks,female,u20,10000-metres-race-walk,track,2671.32,CHN,18.0,2012
 51,44:32.84,,Laura GARCÍA-CARO,1995-04-16,ESP,4,"Hayward Field, Eugene, OR (USA)",2014-07-23,1102,10000-metres-race-walk,race-walks,female,u20,10000-metres-race-walk,track,2672.84,USA,19.0,2014
 52,44:34.13,,Kumiko OKADA,1991-10-17,JPN,2,Chiba (JPN),2010-10-04,1101,10000-metres-race-walk,race-walks,female,u20,10000-metres-race-walk,track,2674.13,JPN,18.0,2010
-53,44:35.66,,Mina STANKOVIĆ,2006-01-23,SRB,4f1,"Ratinan Stadion, Tampere (FIN)",2025-08-09,1100,10000-metres-race-walk,race-walks,female,u20,10000-metres-race-walk,track,2675.66,FIN,19.0,2025
+53,44:35.66,,Mina STANKOVIĆ,2006-01-23,SRB,4,"Ratinan Stadion, Tampere (FIN)",2025-08-09,1100,10000-metres-race-walk,race-walks,female,u20,10000-metres-race-walk,track,2675.66,FIN,19.0,2025
 54,44:39.39,,AARTI,2006-09-06,IND,3,"Estadio Atlético de la VIDENA, Lima (PER)",2024-08-30,1098,10000-metres-race-walk,race-walks,female,u20,10000-metres-race-walk,track,2679.39,PER,17.0,2024
 55,44:42.0h,,Anisiya KORNIKOVA-KIRDYAPKINA,1989-10-23,RUS,2,Saransk (RUS),2006-06-03,1096,10000-metres-race-walk,race-walks,female,u20,10000-metres-race-walk,track,2682.0,RUS,16.0,2006
 56,44:42.28,,Olga DUBROVINA,1993-06-11,RUS,2,Moskva (RUS),2012-06-10,1096,10000-metres-race-walk,race-walks,female,u20,10000-metres-race-walk,track,2682.28,RUS,19.0,2012
-57,44:43.01,,Claudia VENTURA,2006-04-17,ESP,5f1,"Ratinan Stadion, Tampere (FIN)",2025-08-09,1096,10000-metres-race-walk,race-walks,female,u20,10000-metres-race-walk,track,2683.01,FIN,19.0,2025
+57,44:43.01,,Claudia VENTURA,2006-04-17,ESP,5,"Ratinan Stadion, Tampere (FIN)",2025-08-09,1096,10000-metres-race-walk,race-walks,female,u20,10000-metres-race-walk,track,2683.01,FIN,19.0,2025
 58,44:43.78,,Noemi STELLA,1997-02-02,ITA,5,"Ekängens Friidrottsarena, Eskilstuna (SWE)",2015-07-16,1095,10000-metres-race-walk,race-walks,female,u20,10000-metres-race-walk,track,2683.78,SWE,18.0,2015
 59,44:43.85,,Evin DEMİR,2001-02-16,TUR,1,"Ekrem Koçak Atletizm Pisti, Istanbul (TUR)",2020-09-05,1095,10000-metres-race-walk,race-walks,female,u20,10000-metres-race-walk,track,2683.85,TUR,19.0,2020
 60,44:43.89,,Alegna GONZÁLEZ,1999-01-02,MEX,1,Trujillo (PER),2017-07-23,1095,10000-metres-race-walk,race-walks,female,u20,10000-metres-race-walk,track,2683.89,PER,18.0,2017
