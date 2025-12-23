@@ -6,8 +6,6 @@ This is a python project that scrapes data from the World Athletics website and 
 
 When executed it will take the current date as the end date and gather all the results for each track and field discipline.
 
-Inspired by: <https://github.com/thomascamminady/world-athletics-database/>
-
 Used the options.json file from that repo to help
 
 Note: Datasets here were generated on: 2025-09-20
@@ -82,3 +80,6 @@ This dataset contains structured performance records from international athletic
 | `venue_country`  | IOC 3-letter code extracted from the venue (e.g., `KEN`).                   |
 | `age_at_event`        | Age of the athlete at the time of the event (in full years).                |
 | `season`              | Year in which the event took place.                                         |
+
+## Acknowledgement
+Options.json file from: <https://github.com/thomascamminady/world-athletics-database/>
