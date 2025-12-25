@@ -1,62 +1,63 @@
 rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,discipline,type,sex,age_cat,normalized_discipline,track_field,mark_numeric,venue_country,age_at_event,season
 1,1:12.81,,Johnny GRAY,1960-06-19,USA,1,"Santa Monica, CA (USA)",1986-05-24,1239.0,600-metres,middlelong,male,senior,600-metres,track,72.81,USA,25.0,1986
-2,1:13.10,,David RUDISHA,1988-12-17,KEN,1,"Alexander Stadium, Birmingham (GBR)",2016-06-05,1226.0,600-metres,middlelong,male,senior,600-metres,track,73.1,GBR,27.0,2016
-3,1:13.21,,Pierre-Ambroise BOSSE,1992-05-11,FRA,2,"Alexander Stadium, Birmingham (GBR)",2016-06-05,1222.0,600-metres,middlelong,male,senior,600-metres,track,73.21000000000001,GBR,24.0,2016
-4,1:13.28,,Duane SOLOMON,1984-12-28,USA,1,Burnaby (CAN),2013-07-01,1219.0,600-metres,middlelong,male,senior,600-metres,track,73.28,CAN,28.0,2013
-5,1:13.49,,Joseph Mwengi MUTUA,1978-12-10,KEN,1,Liège (BEL),2002-08-27,1209.0,600-metres,middlelong,male,senior,600-metres,track,73.49,BEL,23.0,2002
-6,1:13.71,,David RUDISHA,1988-12-17,KEN,1,"Alexander Stadium, Birmingham (GBR)",2014-08-24,1200.0,600-metres,middlelong,male,senior,600-metres,track,73.71000000000001,GBR,25.0,2014
-7,1:13.72,,Joseph Mwengi MUTUA,1978-12-10,KEN,1,Naimette-Xhovémont (BEL),2003-09-02,1200.0,600-metres,middlelong,male,senior,600-metres,track,73.72,BEL,24.0,2003
-8,1:13.77,,Donavan BRAZIER,1997-04-15,USA,1,"New York, NY (USA) (i)",2019-02-24,1277.0,600-metres,middlelong,male,senior,600-metres,track,73.77,USA,21.0,2019
-9,1:13.80,,Earl JONES,1964-07-17,USA,2,"Santa Monica, CA (USA)",1986-05-24,1196.0,600-metres,middlelong,male,senior,600-metres,track,73.8,USA,21.0,1986
-10,1:13.97,,Donavan BRAZIER,1997-04-15,USA,1,"The Podium, Spokane, WA (USA) (i)",2022-02-11,1268.0,600-metres,middlelong,male,senior,600-metres,track,73.97,USA,24.0,2022
-10,1:13.97,,Ryan SÁNCHEZ,1998-09-22,PUR,1,"Pista Basilio Rodriguez, Carolina (PUR)",2023-03-18,1189.0,600-metres,middlelong,male,senior,600-metres,track,73.97,PUR,24.0,2023
-12,1:13.99,,Ryan SÁNCHEZ,1998-09-22,PUR,1,Carolina (PUR),2022-03-19,1188.0,600-metres,middlelong,male,senior,600-metres,track,73.99,PUR,23.0,2022
-13,1:14.01,,Gabriel TUAL,1998-04-09,FRA,1,"Parc des Sports C. Ehrmann, Nice (FRA)",2025-05-31,1187.0,600-metres,middlelong,male,senior,600-metres,track,74.01,FRA,27.0,2025
-14,1:14.03,,Brandon MILLER,2002-01-30,USA,1,"Convention Center, Albuquerque, NM (USA) (i)",2024-02-09,1265.0,600-metres,middlelong,male,senior,600-metres,track,74.03,USA,22.0,2024
-15,1:14.04,,Will SUMNER,2003-10-22,USA,1,"Armory Track&Field Center, New York, NY (USA) (i)",2025-02-08,1265.0,600-metres,middlelong,male,senior,600-metres,track,74.03999999999999,USA,21.0,2025
-16,1:14.15,,David MACK,1961-05-30,USA,3,"Santa Monica, CA (USA)",1986-05-24,1181.0,600-metres,middlelong,male,senior,600-metres,track,74.15,USA,25.0,1986
-17,1:14.16,,Johnny GRAY,1960-06-19,USA,1,"Sacramento, CA (USA)",1984-07-21,1181.0,600-metres,middlelong,male,senior,600-metres,track,74.16,USA,24.0,1984
-18,1:14.17,,Isaiah JEWETT,1997-02-06,USA,2,"Armory Track&Field Center, New York, NY (USA) (i)",2025-02-08,1259.0,600-metres,middlelong,male,senior,600-metres,track,74.17,USA,28.0,2025
-19,1:14.33,,Charles JOCK,1989-11-23,USA,1,"Portland, OR (USA)",2015-06-14,1173.0,600-metres,middlelong,male,senior,600-metres,track,74.33,USA,25.0,2015
-20,1:14.36,,Djamel SEDJATI,1999-05-03,ALG,1,"DP de Villiers Stadium, Sasolburg (RSA)",2023-03-11,1172.0,600-metres,middlelong,male,senior,600-metres,track,74.36,RSA,23.0,2023
-20,1:14.36,,Michael CHERRY,1995-03-23,USA,2,"Pista Basilio Rodriguez, Carolina (PUR)",2023-03-18,1172.0,600-metres,middlelong,male,senior,600-metres,track,74.36,PUR,28.0,2023
-22,1:14.37,,Brandon MILLER,2002-01-30,USA,3,"Armory Track&Field Center, New York, NY (USA) (i)",2025-02-08,1250.0,600-metres,middlelong,male,senior,600-metres,track,74.37,USA,23.0,2025
-23,1:14.39,,Donavan BRAZIER,1997-04-15,USA,1,"Reggie Lewis Center, Boston, MA (USA) (i)",2020-01-25,1249.0,600-metres,middlelong,male,senior,600-metres,track,74.39,USA,22.0,2020
-24,1:14.41,,Matthew SCHERER,1983-11-21,USA,1,"Eugene, OR (USA)",2008-06-15,1170.0,600-metres,middlelong,male,senior,600-metres,track,74.41,USA,24.0,2008
-25,1:14.43,,Duane SOLOMON,1984-12-28,USA,1,"Orlando, FL (USA)",2014-03-29,1169.0,600-metres,middlelong,male,senior,600-metres,track,74.43,USA,29.0,2014
-26,1:14.47,,Nick SYMMONDS,1983-12-30,USA,2,"Eugene, OR (USA)",2008-06-15,1168.0,600-metres,middlelong,male,senior,600-metres,track,74.47,USA,24.0,2008
-26,1:14.47,,Eliott CRESTAN,1999-02-22,BEL,1,"Stade Naimette-Xhovémont, Liège (BEL)",2024-06-19,1168.0,600-metres,middlelong,male,senior,600-metres,track,74.47,BEL,25.0,2024
-28,1:14.52,,Ryan SÁNCHEZ,1998-09-22,PUR,1,Gurabo (PUR),2019-03-16,1165.0,600-metres,middlelong,male,senior,600-metres,track,74.52,PUR,20.0,2019
-28,1:14.52,,Slimane MOULA,1999-02-25,ALG,1,"McArthur Stadium, Potchefstroom (RSA)",2024-03-14,1165.0,600-metres,middlelong,male,senior,600-metres,track,74.52,RSA,25.0,2024
-30,1:14.55,,Adam KSZCZOT,1989-09-02,POL,1,Lahti (FIN),2009-08-05,1164.0,600-metres,middlelong,male,senior,600-metres,track,74.55,FIN,19.0,2009
-31,1:14.56,,Tobias GRØNSTAD,2002-07-06,NOR,1f2,"Schönbuchstadion, Pliezhausen (GER)",2024-05-05,1164.0,600-metres,middlelong,male,senior,600-metres,track,74.56,GER,21.0,2024
-32,1:14.61,,Slimane MOULA,1999-02-25,ALG,1,"Complexe Olympique Mohamed Boudiaf, Algiers (ALG)",2025-02-21,1162.0,600-metres,middlelong,male,senior,600-metres,track,74.61,ALG,26.0,2025
-33,1:14.69,,Adam KSZCZOT,1989-09-02,POL,2,"Alexander Stadium, Birmingham (GBR)",2014-08-24,1158.0,600-metres,middlelong,male,senior,600-metres,track,74.69,GBR,24.0,2014
-34,1:14.72,,André BUCHER,1976-10-19,SUI,1,Bellinzona (SUI),1999-09-01,1157.0,600-metres,middlelong,male,senior,600-metres,track,74.72,SUI,22.0,1999
-34,1:14.72,,Gary REED,1981-10-25,CAN,2,Naimette-Xhovémont (BEL),2003-09-02,1157.0,600-metres,middlelong,male,senior,600-metres,track,74.72,BEL,21.0,2003
-36,1:14.78,,Vincent CRISP,1997-08-17,USA,1,"Stuart and Suzanne Grant Stadium, Newark, NJ (USA)",2025-08-23,1154.0,600-metres,middlelong,male,senior,600-metres,track,74.78,USA,28.0,2025
-37,1:14.79,,Antonio Manuel REINA,1981-06-13,ESP,1,Avila (ESP),2012-07-28,1154.0,600-metres,middlelong,male,senior,600-metres,track,74.78999999999999,ESP,31.0,2012
-37,1:14.79,,Michael SARUNI,1995-06-18,KEN,1f1,"Albuquerque, NM (USA) (i)",2018-01-19,1232.0,600-metres,middlelong,male,senior,600-metres,track,74.78999999999999,USA,22.0,2018
-37,1:14.79,,Mohamed Ali GOUANED,2002-07-05,ALG,1,"Stade Bateau Casse, Algiers (ALG)",2021-03-26,1154.0,600-metres,middlelong,male,senior,600-metres,track,74.78999999999999,ALG,18.0,2021
-40,1:14.84,,James ROBINSON,1954-08-27,USA,2,"Sacramento, CA (USA)",1984-07-21,1152.0,600-metres,middlelong,male,senior,600-metres,track,74.84,USA,29.0,1984
-40,1:14.84,,Casimir LOXSOM,1991-03-17,USA,2,Burnaby (CAN),2013-07-01,1152.0,600-metres,middlelong,male,senior,600-metres,track,74.84,CAN,22.0,2013
-42,1:14.85,,Wesley VÁZQUEZ,1994-03-27,PUR,1,Caguas (PUR),2020-08-01,1151.0,600-metres,middlelong,male,senior,600-metres,track,74.85,PUR,26.0,2020
-42,1:14.85,,CJ JONES,1995-11-01,USA,1,"George Mason Stadium, Fairfax, VA (USA)",2024-08-12,1151.0,600-metres,middlelong,male,senior,600-metres,track,74.85,USA,28.0,2024
-44,1:14.88,,Oussama EL BOUCHAYBY,1998-12-29,MAR,1,"Clemson Indoor Track & Field Complex, Clemson, SC (USA) (i)",2024-01-27,1228.0,600-metres,middlelong,male,senior,600-metres,track,74.88,USA,25.0,2024
-45,1:14.90,,Tumo NKAPE,1998-04-24,BOT,1,"Pilditch Stadium, Pretoria (RSA)",2024-02-17,1149.0,600-metres,middlelong,male,senior,600-metres,track,74.9,RSA,25.0,2024
-45,1:14.90,,Alex AMANKWA,1992-03-02,GHA,1,"Ashenfelter Indoor Track, State College, PA (USA) (i)",2025-01-31,1227.0,600-metres,middlelong,male,senior,600-metres,track,74.9,USA,32.0,2025
-47,1:14.91,,Casimir LOXSOM,1991-03-17,USA,1,"University Park, PA (USA) (i)",2017-01-28,1226.0,600-metres,middlelong,male,senior,600-metres,track,74.91,USA,25.0,2017
-48,1:14.92,,Wesley VÁZQUEZ,1994-03-27,PUR,2,"Orlando, FL (USA)",2014-03-29,1148.0,600-metres,middlelong,male,senior,600-metres,track,74.92,USA,20.0,2014
-48,1:14.92,,Charles JOCK,1989-11-23,USA,1,"Nashville, TN (USA)",2016-06-04,1148.0,600-metres,middlelong,male,senior,600-metres,track,74.92,USA,26.0,2016
-48,1:14.92,,Boitumelo MASILO,1995-08-05,BOT,2,"DP de Villiers Stadium, Sasolburg (RSA)",2023-03-11,1148.0,600-metres,middlelong,male,senior,600-metres,track,74.92,RSA,27.0,2023
-48,1:14.92,,Eliott CRESTAN,1999-02-22,BEL,1f1,"Complexe Sportif de Blocry, Louvain-La-Neuve (BEL) (i)",2025-01-25,1226.0,600-metres,middlelong,male,senior,600-metres,track,74.92,BEL,25.0,2025
-52,1:14.94,,Wilfred BUNGEI,1980-07-24,KEN,2,Bellinzona (SUI),1999-09-01,1148.0,600-metres,middlelong,male,senior,600-metres,track,74.94,SUI,19.0,1999
-53,1:14.95,,Steve HEARD,1962-04-29,GBR,1,London (GBR),1991-07-14,1147.0,600-metres,middlelong,male,senior,600-metres,track,74.95,GBR,29.0,1991
-53,1:14.95,,Isaiah HARRIS,1996-10-18,USA,2,"The Podium, Spokane, WA (USA) (i)",2022-02-11,1225.0,600-metres,middlelong,male,senior,600-metres,track,74.95,USA,25.0,2022
-55,1:14.96,,Casimir LOXSOM,1991-03-17,USA,2,"Nashville, TN (USA)",2016-06-04,1147.0,600-metres,middlelong,male,senior,600-metres,track,74.96000000000001,USA,25.0,2016
-55,1:14.96,,Isaiah HARRIS,1996-10-18,USA,2,"University Park, PA (USA) (i)",2017-01-28,1224.0,600-metres,middlelong,male,senior,600-metres,track,74.96000000000001,USA,20.0,2017
-55,1:14.96,,Kethobogile HAINGURA,1998-12-14,BOT,2,"Pilditch Stadium, Pretoria (RSA)",2024-02-17,1147.0,600-metres,middlelong,male,senior,600-metres,track,74.96000000000001,RSA,25.0,2024
-58,1:14.97,,Emmanuel Kipkurui KORIR,1995-06-15,KEN,1f1,"Albuquerque, NM (USA) (i)",2017-01-20,1224.0,600-metres,middlelong,male,senior,600-metres,track,74.97,USA,21.0,2017
-59,1:14.98,,Eduardo RIBEIRO,2001-01-09,BRA,2,"Parc des Sports C. Ehrmann, Nice (FRA)",2025-05-31,1146.0,600-metres,middlelong,male,senior,600-metres,track,74.98,FRA,24.0,2025
-59,1:14.98,,Elvin Josué CANALES,2001-09-05,ESP,1,"Estadi Municipal La Bòbila, Gavá (ESP)",2025-07-02,1146.0,600-metres,middlelong,male,senior,600-metres,track,74.98,ESP,23.0,2025
-61,1:15.00,,Glody DUBE,1978-07-02,BOT,1,Sydney (AUS),2000-09-14,1145.0,600-metres,middlelong,male,senior,600-metres,track,75.0,AUS,22.0,2000
+2,1:12.84,,Josh HOEY,1999-11-01,USA,1,"Boston Univ. Track & Tennis Center, Boston, MA (USA) (i)",2025-12-06,1319.0,600-metres,middlelong,male,senior,600-metres,track,72.84,USA,26.0,2025
+3,1:13.10,,David RUDISHA,1988-12-17,KEN,1,"Alexander Stadium, Birmingham (GBR)",2016-06-05,1226.0,600-metres,middlelong,male,senior,600-metres,track,73.1,GBR,27.0,2016
+4,1:13.21,,Pierre-Ambroise BOSSE,1992-05-11,FRA,2,"Alexander Stadium, Birmingham (GBR)",2016-06-05,1222.0,600-metres,middlelong,male,senior,600-metres,track,73.21000000000001,GBR,24.0,2016
+5,1:13.28,,Duane SOLOMON,1984-12-28,USA,1,Burnaby (CAN),2013-07-01,1219.0,600-metres,middlelong,male,senior,600-metres,track,73.28,CAN,28.0,2013
+6,1:13.49,,Joseph Mwengi MUTUA,1978-12-10,KEN,1,Liège (BEL),2002-08-27,1209.0,600-metres,middlelong,male,senior,600-metres,track,73.49,BEL,23.0,2002
+7,1:13.71,,David RUDISHA,1988-12-17,KEN,1,"Alexander Stadium, Birmingham (GBR)",2014-08-24,1200.0,600-metres,middlelong,male,senior,600-metres,track,73.71000000000001,GBR,25.0,2014
+8,1:13.72,,Joseph Mwengi MUTUA,1978-12-10,KEN,1,Naimette-Xhovémont (BEL),2003-09-02,1200.0,600-metres,middlelong,male,senior,600-metres,track,73.72,BEL,24.0,2003
+9,1:13.77,,Donavan BRAZIER,1997-04-15,USA,1,"New York, NY (USA) (i)",2019-02-24,1277.0,600-metres,middlelong,male,senior,600-metres,track,73.77,USA,21.0,2019
+10,1:13.80,,Earl JONES,1964-07-17,USA,2,"Santa Monica, CA (USA)",1986-05-24,1196.0,600-metres,middlelong,male,senior,600-metres,track,73.8,USA,21.0,1986
+11,1:13.97,,Donavan BRAZIER,1997-04-15,USA,1,"The Podium, Spokane, WA (USA) (i)",2022-02-11,1268.0,600-metres,middlelong,male,senior,600-metres,track,73.97,USA,24.0,2022
+11,1:13.97,,Ryan SÁNCHEZ,1998-09-22,PUR,1,"Pista Basilio Rodriguez, Carolina (PUR)",2023-03-18,1189.0,600-metres,middlelong,male,senior,600-metres,track,73.97,PUR,24.0,2023
+13,1:13.99,,Ryan SÁNCHEZ,1998-09-22,PUR,1,Carolina (PUR),2022-03-19,1188.0,600-metres,middlelong,male,senior,600-metres,track,73.99,PUR,23.0,2022
+14,1:14.01,,Gabriel TUAL,1998-04-09,FRA,1,"Parc des Sports C. Ehrmann, Nice (FRA)",2025-05-31,1187.0,600-metres,middlelong,male,senior,600-metres,track,74.01,FRA,27.0,2025
+15,1:14.03,,Brandon MILLER,2002-01-30,USA,1,"Convention Center, Albuquerque, NM (USA) (i)",2024-02-09,1265.0,600-metres,middlelong,male,senior,600-metres,track,74.03,USA,22.0,2024
+16,1:14.04,,Will SUMNER,2003-10-22,USA,1,"Armory Track&Field Center, New York, NY (USA) (i)",2025-02-08,1265.0,600-metres,middlelong,male,senior,600-metres,track,74.03999999999999,USA,21.0,2025
+17,1:14.15,,David MACK,1961-05-30,USA,3,"Santa Monica, CA (USA)",1986-05-24,1181.0,600-metres,middlelong,male,senior,600-metres,track,74.15,USA,25.0,1986
+18,1:14.16,,Johnny GRAY,1960-06-19,USA,1,"Sacramento, CA (USA)",1984-07-21,1181.0,600-metres,middlelong,male,senior,600-metres,track,74.16,USA,24.0,1984
+19,1:14.17,,Isaiah JEWETT,1997-02-06,USA,2,"Armory Track&Field Center, New York, NY (USA) (i)",2025-02-08,1259.0,600-metres,middlelong,male,senior,600-metres,track,74.17,USA,28.0,2025
+20,1:14.33,,Charles JOCK,1989-11-23,USA,1,"Portland, OR (USA)",2015-06-14,1173.0,600-metres,middlelong,male,senior,600-metres,track,74.33,USA,25.0,2015
+21,1:14.36,,Djamel SEDJATI,1999-05-03,ALG,1,"DP de Villiers Stadium, Sasolburg (RSA)",2023-03-11,1172.0,600-metres,middlelong,male,senior,600-metres,track,74.36,RSA,23.0,2023
+21,1:14.36,,Michael CHERRY,1995-03-23,USA,2,"Pista Basilio Rodriguez, Carolina (PUR)",2023-03-18,1172.0,600-metres,middlelong,male,senior,600-metres,track,74.36,PUR,28.0,2023
+23,1:14.37,,Brandon MILLER,2002-01-30,USA,3,"Armory Track&Field Center, New York, NY (USA) (i)",2025-02-08,1250.0,600-metres,middlelong,male,senior,600-metres,track,74.37,USA,23.0,2025
+24,1:14.39,,Donavan BRAZIER,1997-04-15,USA,1,"Reggie Lewis Center, Boston, MA (USA) (i)",2020-01-25,1249.0,600-metres,middlelong,male,senior,600-metres,track,74.39,USA,22.0,2020
+25,1:14.41,,Matthew SCHERER,1983-11-21,USA,1,"Eugene, OR (USA)",2008-06-15,1170.0,600-metres,middlelong,male,senior,600-metres,track,74.41,USA,24.0,2008
+26,1:14.43,,Duane SOLOMON,1984-12-28,USA,1,"Orlando, FL (USA)",2014-03-29,1169.0,600-metres,middlelong,male,senior,600-metres,track,74.43,USA,29.0,2014
+27,1:14.47,,Nick SYMMONDS,1983-12-30,USA,2,"Eugene, OR (USA)",2008-06-15,1168.0,600-metres,middlelong,male,senior,600-metres,track,74.47,USA,24.0,2008
+27,1:14.47,,Eliott CRESTAN,1999-02-22,BEL,1,"Stade Naimette-Xhovémont, Liège (BEL)",2024-06-19,1168.0,600-metres,middlelong,male,senior,600-metres,track,74.47,BEL,25.0,2024
+29,1:14.52,,Ryan SÁNCHEZ,1998-09-22,PUR,1,Gurabo (PUR),2019-03-16,1165.0,600-metres,middlelong,male,senior,600-metres,track,74.52,PUR,20.0,2019
+29,1:14.52,,Slimane MOULA,1999-02-25,ALG,1,"McArthur Stadium, Potchefstroom (RSA)",2024-03-14,1165.0,600-metres,middlelong,male,senior,600-metres,track,74.52,RSA,25.0,2024
+31,1:14.55,,Adam KSZCZOT,1989-09-02,POL,1,Lahti (FIN),2009-08-05,1164.0,600-metres,middlelong,male,senior,600-metres,track,74.55,FIN,19.0,2009
+32,1:14.56,,Tobias GRØNSTAD,2002-07-06,NOR,1f2,"Schönbuchstadion, Pliezhausen (GER)",2024-05-05,1164.0,600-metres,middlelong,male,senior,600-metres,track,74.56,GER,21.0,2024
+33,1:14.61,,Slimane MOULA,1999-02-25,ALG,1,"Complexe Olympique Mohamed Boudiaf, Algiers (ALG)",2025-02-21,1162.0,600-metres,middlelong,male,senior,600-metres,track,74.61,ALG,26.0,2025
+34,1:14.69,,Adam KSZCZOT,1989-09-02,POL,2,"Alexander Stadium, Birmingham (GBR)",2014-08-24,1158.0,600-metres,middlelong,male,senior,600-metres,track,74.69,GBR,24.0,2014
+35,1:14.72,,André BUCHER,1976-10-19,SUI,1,Bellinzona (SUI),1999-09-01,1157.0,600-metres,middlelong,male,senior,600-metres,track,74.72,SUI,22.0,1999
+35,1:14.72,,Gary REED,1981-10-25,CAN,2,Naimette-Xhovémont (BEL),2003-09-02,1157.0,600-metres,middlelong,male,senior,600-metres,track,74.72,BEL,21.0,2003
+37,1:14.78,,Vincent CRISP,1997-08-17,USA,1,"Stuart and Suzanne Grant Stadium, Newark, NJ (USA)",2025-08-23,1154.0,600-metres,middlelong,male,senior,600-metres,track,74.78,USA,28.0,2025
+38,1:14.79,,Antonio Manuel REINA,1981-06-13,ESP,1,Avila (ESP),2012-07-28,1154.0,600-metres,middlelong,male,senior,600-metres,track,74.78999999999999,ESP,31.0,2012
+38,1:14.79,,Michael SARUNI,1995-06-18,KEN,1f1,"Albuquerque, NM (USA) (i)",2018-01-19,1232.0,600-metres,middlelong,male,senior,600-metres,track,74.78999999999999,USA,22.0,2018
+38,1:14.79,,Mohamed Ali GOUANED,2002-07-05,ALG,1,"Stade Bateau Casse, Algiers (ALG)",2021-03-26,1154.0,600-metres,middlelong,male,senior,600-metres,track,74.78999999999999,ALG,18.0,2021
+41,1:14.84,,James ROBINSON,1954-08-27,USA,2,"Sacramento, CA (USA)",1984-07-21,1152.0,600-metres,middlelong,male,senior,600-metres,track,74.84,USA,29.0,1984
+41,1:14.84,,Casimir LOXSOM,1991-03-17,USA,2,Burnaby (CAN),2013-07-01,1152.0,600-metres,middlelong,male,senior,600-metres,track,74.84,CAN,22.0,2013
+43,1:14.85,,Wesley VÁZQUEZ,1994-03-27,PUR,1,Caguas (PUR),2020-08-01,1151.0,600-metres,middlelong,male,senior,600-metres,track,74.85,PUR,26.0,2020
+43,1:14.85,,CJ JONES,1995-11-01,USA,1,"George Mason Stadium, Fairfax, VA (USA)",2024-08-12,1151.0,600-metres,middlelong,male,senior,600-metres,track,74.85,USA,28.0,2024
+45,1:14.88,,Oussama EL BOUCHAYBY,1998-12-29,MAR,1,"Clemson Indoor Track & Field Complex, Clemson, SC (USA) (i)",2024-01-27,1228.0,600-metres,middlelong,male,senior,600-metres,track,74.88,USA,25.0,2024
+46,1:14.90,,Tumo NKAPE,1998-04-24,BOT,1,"Pilditch Stadium, Pretoria (RSA)",2024-02-17,1149.0,600-metres,middlelong,male,senior,600-metres,track,74.9,RSA,25.0,2024
+46,1:14.90,,Alex AMANKWA,1992-03-02,GHA,1,"Ashenfelter Indoor Track, State College, PA (USA) (i)",2025-01-31,1227.0,600-metres,middlelong,male,senior,600-metres,track,74.9,USA,32.0,2025
+48,1:14.91,,Casimir LOXSOM,1991-03-17,USA,1,"University Park, PA (USA) (i)",2017-01-28,1226.0,600-metres,middlelong,male,senior,600-metres,track,74.91,USA,25.0,2017
+49,1:14.92,,Wesley VÁZQUEZ,1994-03-27,PUR,2,"Orlando, FL (USA)",2014-03-29,1148.0,600-metres,middlelong,male,senior,600-metres,track,74.92,USA,20.0,2014
+49,1:14.92,,Charles JOCK,1989-11-23,USA,1,"Nashville, TN (USA)",2016-06-04,1148.0,600-metres,middlelong,male,senior,600-metres,track,74.92,USA,26.0,2016
+49,1:14.92,,Boitumelo MASILO,1995-08-05,BOT,2,"DP de Villiers Stadium, Sasolburg (RSA)",2023-03-11,1148.0,600-metres,middlelong,male,senior,600-metres,track,74.92,RSA,27.0,2023
+49,1:14.92,,Eliott CRESTAN,1999-02-22,BEL,1f1,"Complexe Sportif de Blocry, Louvain-La-Neuve (BEL) (i)",2025-01-25,1226.0,600-metres,middlelong,male,senior,600-metres,track,74.92,BEL,25.0,2025
+53,1:14.94,,Wilfred BUNGEI,1980-07-24,KEN,2,Bellinzona (SUI),1999-09-01,1148.0,600-metres,middlelong,male,senior,600-metres,track,74.94,SUI,19.0,1999
+54,1:14.95,,Steve HEARD,1962-04-29,GBR,1,London (GBR),1991-07-14,1147.0,600-metres,middlelong,male,senior,600-metres,track,74.95,GBR,29.0,1991
+54,1:14.95,,Isaiah HARRIS,1996-10-18,USA,2,"The Podium, Spokane, WA (USA) (i)",2022-02-11,1225.0,600-metres,middlelong,male,senior,600-metres,track,74.95,USA,25.0,2022
+56,1:14.96,,Casimir LOXSOM,1991-03-17,USA,2,"Nashville, TN (USA)",2016-06-04,1147.0,600-metres,middlelong,male,senior,600-metres,track,74.96000000000001,USA,25.0,2016
+56,1:14.96,,Isaiah HARRIS,1996-10-18,USA,2,"University Park, PA (USA) (i)",2017-01-28,1224.0,600-metres,middlelong,male,senior,600-metres,track,74.96000000000001,USA,20.0,2017
+56,1:14.96,,Kethobogile HAINGURA,1998-12-14,BOT,2,"Pilditch Stadium, Pretoria (RSA)",2024-02-17,1147.0,600-metres,middlelong,male,senior,600-metres,track,74.96000000000001,RSA,25.0,2024
+59,1:14.97,,Emmanuel Kipkurui KORIR,1995-06-15,KEN,1f1,"Albuquerque, NM (USA) (i)",2017-01-20,1224.0,600-metres,middlelong,male,senior,600-metres,track,74.97,USA,21.0,2017
+60,1:14.98,,Eduardo RIBEIRO,2001-01-09,BRA,2,"Parc des Sports C. Ehrmann, Nice (FRA)",2025-05-31,1146.0,600-metres,middlelong,male,senior,600-metres,track,74.98,FRA,24.0,2025
+60,1:14.98,,Elvin Josué CANALES,2001-09-05,ESP,1,"Estadi Municipal La Bòbila, Gavá (ESP)",2025-07-02,1146.0,600-metres,middlelong,male,senior,600-metres,track,74.98,ESP,23.0,2025
+62,1:15.00,,Glody DUBE,1978-07-02,BOT,1,Sydney (AUS),2000-09-14,1145.0,600-metres,middlelong,male,senior,600-metres,track,75.0,AUS,22.0,2000

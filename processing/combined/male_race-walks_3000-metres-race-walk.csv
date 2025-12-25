@@ -109,273 +109,274 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 108,11:17.84,,Brendan BOYCE,1986-10-08,IRL,3,Cork City (IRL),2019-08-14,1132,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,677.84,IRL,32.0,2019
 109,11:18.00,,Tom BOSWORTH,1990-01-17,GBR,1,"EIS Don Valley Stadium, Sheffield (GBR) (i)",2020-01-05,1132,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,678.0,GBR,29.0,2020
 110,11:18.3h,,Jan ZAHONČIK,1965-04-23,TCH,2,Banská Bystrica (TCH) (i),1988-02-28,1131,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,678.3,TCH,22.0,1988
-111,11:18.65,,Robert HEFFERNAN,1978-02-28,IRL,2,Cork (IRL),2016-06-28,1131,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,678.65,IRL,38.0,2016
-112,11:19.0h,,Aleksey LEMONOV,2006-10-25,RUS,1,"Football and athletics Arena, Saransk (RUS) (i)",2023-09-24,1130,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,679.0,RUS,16.0,2023
-113,11:19.10,,Cameron CORBISHLEY,1997-03-31,GBR,2,Leeds (GBR),2017-06-12,1129,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,679.1,GBR,20.0,2017
-114,11:19.2h,,Tim SEAMAN,1972-05-14,USA,,"Chula Vista, CA (USA)",1999-03-07,1129,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,679.2,USA,26.0,1999
-115,11:19.33,,Alex WRIGHT,1990-12-19,IRL,1,Athlone (IRL) (i),2015-02-01,1129,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,679.33,IRL,24.0,2015
-116,11:19.49,,Reima SALONEN,1955-10-19,FIN,,Helsinki (FIN),1989-06-08,1128,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,679.49,FIN,33.0,1989
-117,11:19.55,,Lei ZHAO,1991-01-05,CHN,3,Yantai (CHN),2006-10-11,1128,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,679.55,CHN,15.0,2006
-118,11:19.60,,Tim BERRETT,1965-01-23,CAN,1,Tonbridge (GBR),1992-04-20,1128,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,679.6,GBR,27.0,1992
-118,11:19.6h,,Yevgeniy ZHDAKAYEV,2004-03-11,RUS,2,"Football and athletics Arena, Saransk (RUS) (i)",2023-09-24,1128,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,679.6,RUS,19.0,2023
-120,11:19.65,,Fushan DU,1991-03-28,CHN,4,Yantai (CHN),2006-10-11,1128,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,679.65,CHN,15.0,2006
-121,11:19.70,,Colin GRIFFIN,1982-08-03,IRL,3,Cork (IRL),2009-07-04,1128,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,679.7,IRL,26.0,2009
-122,11:19.80,,Dane BIRD-SMITH,1992-07-15,AUS,1,Brisbane (AUS),2015-02-14,1128,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,679.8,AUS,22.0,2015
-123,11:19.83,,Dominik ČERNÝ,1997-11-01,SVK,1,"x-bionic sphere, Šamorín (SVK)",2021-06-02,1128,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,679.83,SVK,23.0,2021
-124,11:20.06,,Lebogang SHANGE,1990-08-01,RSA,1,Germiston (RSA),2017-03-22,1127,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,680.06,RSA,26.0,2017
-125,11:20.39,,Lebogang SHANGE,1990-08-01,RSA,1,Pretoria (RSA),2015-03-07,1126,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,680.39,RSA,24.0,2015
-126,11:20.48,,Erik TYSSE,1980-12-04,NOR,1,Bergen (NOR) (i),2014-01-18,1126,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,680.48,NOR,33.0,2014
-127,11:20.80,,Erik TYSSE,1980-12-04,NOR,1,Bergen (NOR),2014-09-02,1125,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,680.8,NOR,33.0,2014
-128,11:21.27,,David KENNY,1999-01-10,IRL,1,"AIT International Arena, Athlone (IRL) (i)",2023-01-29,1124,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,681.27,IRL,24.0,2023
-129,11:21.32,,Grzegorz SUDOŁ,1978-08-28,POL,3,Dubnica nad Váhom (SVK),2013-08-21,1124,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,681.32,SVK,35.0,2013
-130,11:21.38,,Sergio SPAGNULIO,1962-10-07,ITA,2,Bologna (ITA),1990-07-18,1124,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,681.38,ITA,27.0,1990
-131,11:21.50,,Craig BARRETT,1971-11-16,NZL,1,Auckland (NZL),1997-02-02,1124,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,681.5,NZL,25.0,1997
-132,11:21.90,,Grzegorz SUDOŁ,1978-08-28,POL,3,Dubnica nad Váhom (SVK),2012-08-26,1123,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,681.9,SVK,34.0,2012
-133,11:22.15,,Dane BIRD-SMITH,1992-07-15,AUS,1,Brisbane (AUS),2014-02-15,1122,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,682.15,AUS,21.0,2014
-134,11:22.36,,Anton KUČMÍN,1984-06-07,SVK,1,Šamorín (SVK),2016-06-11,1121,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,682.36,SVK,32.0,2016
-134,11:22.36,,Ivan LOSEV,1986-01-26,UKR,2,Dubnica nad Váhom (SVK),2014-08-30,1121,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,682.36,SVK,28.0,2014
-134,11:22.36,,Anton KUČMÍN,1984-06-07,SVK,1,Šamorín (SVK),2016-06-04,1121,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,682.36,SVK,32.0,2016
-137,11:22.47,,Matej TÓTH,1983-02-10,SVK,2,"x-bionic sphere, Šamorín (SVK)",2020-09-11,1121,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,682.47,SVK,37.0,2020
-138,11:22.55,,Curt CLAUSEN,1967-10-09,USA,1,"San Diego, CA (USA) (i)",1999-01-24,1121,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,682.55,USA,31.0,1999
-139,11:22.72,,Xiaomou LI,1991-02-03,CHN,5,Yantai (CHN),2006-10-11,1121,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,682.72,CHN,15.0,2006
-140,11:23.05,,Dane BIRD-SMITH,1992-07-15,AUS,1,Brisbane (AUS),2012-01-06,1120,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,683.05,AUS,19.0,2012
-141,11:23.15,,Miguel Ángel PRIETO,1964-09-20,ESP,1,Sevilla (ESP) (i),1991-02-17,1120,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,683.15,ESP,26.0,1991
-142,11:23.99,,Alex WRIGHT,1990-12-19,GBR,2,Athlone (IRL) (i),2013-01-27,1118,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,683.99,IRL,22.0,2013
-143,11:24.02,,Pierre DE VILLIERS,1985-08-18,RSA,1,Stellenbosch (RSA),2012-03-20,1117,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,684.02,RSA,26.0,2012
-144,11:24.24,,Andrey DENISOV,2006-07-07,RUS,2,"Virazhi Arena, Togliatti (RUS) (i)",2024-02-16,1117,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,684.24,RUS,17.0,2024
-145,11:24.29,,Carlo MATTIOLI,1954-10-23,ITA,3,Bologna (ITA),1990-07-18,1117,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,684.29,ITA,35.0,1990
-146,11:24.4h,,Mark EASTON,1963-05-24,GBR,1,Tonbridge (GBR),1989-05-10,1117,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,684.4,GBR,25.0,1989
-147,11:24.53,,Michele DIDONI,1974-03-07,ITA,3,Formia (ITA),1997-07-13,1116,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,684.53,ITA,23.0,1997
-148,11:24.65,,Grzegorz SUDOŁ,1978-08-28,POL,1,Stalowa Wola (POL),2012-09-26,1116,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,684.65,POL,34.0,2012
-149,11:25.70,,Bailey HOUSDEN,2007-10-04,AUS,1,"Queensland Sport and Athletics Centre, Nathan, Brisbane (AUS)",2024-02-03,1113,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,685.7,AUS,16.0,2024
-150,11:26.0h,,Erik KALINA,1975-09-25,SVK,1,Hlohovec (SVK) (i),1997-11-28,1113,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,686.0,SVK,22.0,1997
-151,11:26.11,,David KENNY,1999-01-10,IRL,1,"South Sports Campus, Carlow (IRL)",2022-04-09,1112,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,686.11,IRL,23.0,2022
-152,11:26.22,,Miroslav ÚRADNÍK,1996-03-24,SVK,3,"x-bionic sphere, Šamorín (SVK)",2018-06-29,1112,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,686.22,SVK,22.0,2018
-153,11:26.23,,Dominik ČERNÝ,1997-11-01,SVK,1,"x-bionic sphere, Šamorín (SVK)",2022-06-09,1112,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,686.23,SVK,24.0,2022
-154,11:26.34,,Hatem GHOULA,1973-06-07,TUN,2,Cork (IRL),2011-07-02,1112,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,686.34,IRL,38.0,2011
-155,11:26.42,,Karl JUNGHANNß,1996-04-06,GER,2,Dessau (GER),2017-06-16,1112,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,686.42,GER,21.0,2017
-156,11:26.62,,Tim SEAMAN,1972-05-14,USA,1,"Findlay, OH (USA) (i)",2006-01-28,1111,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,686.62,USA,33.0,2006
-157,11:26.70,,Mike TRAUTMANN,1974-03-13,GER,3,Halle (GER) (i),1998-01-21,1111,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,686.7,GER,23.0,1998
-158,11:26.76,,Dane BIRD-SMITH,1992-07-15,AUS,1,Brisbane (AUS),2013-11-30,1111,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,686.76,AUS,21.0,2013
-159,11:27.0h,,Michael MCCAGH,1986-04-16,AUS,2,Sydney (AUS),2007-02-17,1110,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,687.0,AUS,20.0,2007
-160,11:27.06,,Robert HEFFERNAN,1978-02-28,IRL,1,Tullamore (IRL),2000-08-13,1110,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,687.06,IRL,22.0,2000
-161,11:27.29,,Nils BREMBACH,1993-02-23,GER,2,"Hartwig-Gauder-Halle, Erfurt (GER) (i)",2022-02-01,1110,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,687.29,GER,28.0,2022
-162,11:27.46,,Ivan LOSEV,1986-01-26,UKR,2,"x-bionic sphere, Šamorín (SVK)",2017-06-17,1109,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,687.46,SVK,31.0,2017
-163,11:27.63,,Cameron CORBISHLEY,1997-03-31,GBR,1,"Alexander Stadium, Birmingham (GBR)",2025-07-27,1109,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,687.63,GBR,28.0,2025
-164,11:27.7h,,Adam RUTTER,1986-12-24,AUS,3,Sydney (AUS),2007-02-17,1109,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,687.7,AUS,20.0,2007
-165,11:27.81,,Luke HICKEY,1994-10-24,IRL,5,Cork (IRL),2014-07-08,1108,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,687.81,IRL,19.0,2014
-166,11:27.84,,Giuseppe DE GAETANO,1966-10-04,ITA,4,Bologna (ITA),1990-07-18,1108,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,687.84,ITA,23.0,1990
-167,11:27.98,,Jonathan HILBERT,1995-04-21,GER,3,"Hartwig-Gauder-Halle, Erfurt (GER) (i)",2024-02-02,1108,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,687.98,GER,28.0,2024
-168,11:28.41,,Evan DUNFEE,1990-09-28,CAN,2,Brisbane (AUS),2018-03-28,1107,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,688.41,AUS,27.0,2018
-169,11:28.45,,Erik TYSSE,1980-12-04,NOR,1,Bergen (NOR),2015-05-28,1107,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,688.45,NOR,34.0,2015
-170,11:28.61,,Brendan BOYCE,1986-10-08,IRL,2,Dublin (IRL) (i),2017-02-05,1106,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,688.61,IRL,30.0,2017
-171,11:28.76,,Rafał FEDACZYŃSKI,1980-12-03,POL,3,Sosnowiec (POL),2011-09-21,1106,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,688.76,POL,30.0,2011
-172,11:29.0h,,Yevgeniy SHMALYUK,1976-01-14,RUS,1,St. Petersburg (RUS) (i),2000-12-01,1105,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,689.0,RUS,24.0,2000
-172,11:29.0h,,Kazimir VERKIN,1972-03-27,SVK,2,Hlohovec (SVK) (i),1997-11-28,1105,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,689.0,SVK,25.0,1997
-174,11:29.15,,Grzegorz SUDOŁ,1978-08-28,POL,3,Cork (IRL),2016-06-28,1105,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,689.15,IRL,37.0,2016
-175,11:29.19,,Andrea AGRUSTI,1995-08-30,ITA,7,"Stadio Olimpico, Roma (ITA)",2022-06-09,1105,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,689.19,ITA,26.0,2022
-176,11:29.49,,Eiki UNAMI,1988-10-05,JPN,1,Komatsu (JPN),2008-05-18,1104,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,689.49,JPN,19.0,2008
-177,11:29.5h,,Zdeno BABÍK,1984-01-09,SVK,1,Banská Bystrica (SVK) (i),2004-11-27,1104,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,689.5,SVK,20.0,2004
-178,11:29.6h,,Tim BERRETT,1965-01-23,CAN,1,"Brighton, CO (USA) (i)",1990-01-21,1104,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,689.6,USA,25.0,1990
-179,11:29.7h,,Brent VALLANCE,1972-04-30,AUS,1,Sydney (AUS),1997-12-06,1104,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,689.7,AUS,25.0,1997
-180,11:29.71,,Wojciech HALMAN,1990-01-10,POL,1,Gdansk (POL),2011-06-11,1104,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,689.71,POL,21.0,2011
-181,11:29.78,,Dane BIRD-SMITH,1992-07-15,AUS,1,Brisbane (AUS),2012-12-08,1103,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,689.78,AUS,20.0,2012
-182,11:29.8h,,Kirill CHUDAYKIN,2006-07-15,RUS,2,"Football and athletics Arena, Saransk (RUS) (i)",2023-09-24,1103,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,689.8,RUS,17.0,2023
-183,11:30.19,,Dawid TOMALA,1989-08-27,POL,1,Mikołow (POL),2014-05-25,1103,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,690.19,POL,24.0,2014
-184,11:30.35,,Tom BOSWORTH,1990-01-17,GBR,1,Sheffield (GBR) (i),2015-02-15,1102,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,690.35,GBR,25.0,2015
-185,11:30.55,,John RONAN,2007-11-02,AUS,1,"WA Athletics Stadium, Perth (AUS)",2024-11-29,1102,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,690.55,AUS,17.0,2024
-186,11:30.77,,Callum WILKINSON,1997-03-14,GBR,1,Sheffield (GBR) (i),2018-01-07,1101,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,690.77,GBR,20.0,2018
-187,11:31.27,,Denis LANGLOIS,1968-10-10,FRA,2,Mondeville (FRA) (i),2004-01-31,1100,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,691.27,FRA,35.0,2004
-188,11:31.54,,Miroslav ÚRADNÍK,1996-03-24,SVK,4,Šamorín (SVK),2019-06-15,1099,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,691.54,SVK,23.0,2019
-189,11:31.69,,Matej TÓTH,1983-02-10,SVK,2,Šamorín (SVK),2016-06-04,1099,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,691.69,SVK,33.0,2016
-189,11:31.69,,Matej TÓTH,1983-02-10,SVK,2,Šamorín (SVK),2016-06-11,1099,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,691.69,SVK,33.0,2016
-191,11:31.97,,Dawid TOMALA,1989-08-27,POL,1,"Atletická hala, Ostrava (CZE) (i)",2020-01-25,1098,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,691.97,CZE,30.0,2020
-192,11:32.04,,Kirill CHUDAYKIN,2006-07-15,RUS,2,"VGAFK Arena, Volgograd (RUS) (i)",2025-02-21,1098,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,692.04,RUS,18.0,2025
-193,11:32.17,,Jonathan HILBERT,1995-04-21,GER,3,Dessau (GER),2017-06-16,1098,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,692.17,GER,22.0,2017
-194,11:32.25,,Dawid TOMALA,1989-08-27,POL,1,Spala (POL) (i),2012-01-15,1098,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,692.25,POL,22.0,2012
-195,11:32.45,,Rafał FEDACZYŃSKI,1980-12-03,POL,2,Mikołow (POL),2014-05-25,1097,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,692.45,POL,33.0,2014
-196,11:32.48,,Pengbo PAN,1991-03-15,CHN,6,Yantai (CHN),2006-10-11,1097,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,692.48,CHN,15.0,2006
-197,11:32.53,,Miroslav ÚRADNÍK,1996-03-24,SVK,3,Šamorín (SVK),2016-06-04,1097,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,692.53,SVK,20.0,2016
-197,11:32.53,,Miroslav ÚRADNÍK,1996-03-24,SVK,3,Šamorín (SVK),2016-06-11,1097,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,692.53,SVK,20.0,2016
-199,11:32.70,,Anton KUČMÍN,1984-06-07,SVK,1,Banská Bystrica (SVK) (i),2016-01-05,1096,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,692.7,SVK,31.0,2016
-200,11:32.9h,,Doug CONNOLLY,1982-10-30,AUS,2,Sydney (AUS),1999-11-27,1096,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,692.9,AUS,17.0,1999
-201,11:33.03,,Declan TINGAY,1999-02-06,AUS,1,"WA Athletics Stadium, Perth (AUS)",2020-11-06,1096,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,693.03,AUS,21.0,2020
-202,11:33.10,,Rhydian COWLEY,1991-01-04,AUS,2,Brisbane (AUS),2015-02-14,1095,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,693.1,AUS,24.0,2015
-203,11:33.13,,Federico TONTODONATI,1989-10-30,ITA,1,"Palalottici, Parma (ITA) (i)",2020-01-04,1095,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,693.13,ITA,30.0,2020
-204,11:33.42,,John RONAN,2007-11-02,AUS,1,"WA Athletics Stadium, Perth (AUS)",2025-11-21,1095,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,693.42,AUS,18.0,2025
-204,11:33.42,,Nick CHRISTIE,1991-09-29,USA,4,"Olympic Stadium, London (GBR)",2018-07-21,1095,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,693.42,GBR,26.0,2018
-206,11:33.43,,Dzmitry LUKYANCHUK,1997-10-02,BLR,2,"Athletics Hall, Gomel (BLR) (i)",2023-01-22,1095,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,693.43,BLR,25.0,2023
-207,11:33.61,,João VIEIRA,1976-02-20,POR,1,"Estádio Municipal de Pombal, Pombal (POR)",2020-07-11,1094,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,693.61,POR,44.0,2020
-208,11:33.63,,Pierre DE VILLIERS,1985-08-18,RSA,3,Cork (IRL),2011-07-02,1094,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,693.63,IRL,25.0,2011
-209,11:34.02,,Rukhfat GULMURADOV,2008-10-05,RUS,3,"Virazhi Arena, Togliatti (RUS) (i)",2024-02-16,1093,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,694.02,RUS,15.0,2024
-210,11:34.06,,Brendan BOYCE,1986-10-08,IRL,4,Cork (IRL),2016-06-28,1093,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,694.06,IRL,29.0,2016
-211,11:34.2h,,Hatem GHOULA,1973-06-07,TUN,,Potchefstroom (RSA),1999-02-05,1093,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,694.2,RSA,25.0,1999
-212,11:34.39,,Artur BRZOZOWSKI,1985-03-29,POL,4,Sosnowiec (POL),2011-09-21,1092,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,694.39,POL,26.0,2011
-213,11:34.48,,Miroslav ÚRADNÍK,1996-03-24,SVK,2,"x-bionic sphere, Šamorín (SVK)",2021-06-02,1092,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,694.48,SVK,25.0,2021
-214,11:34.49,,Miroslav ÚRADNÍK,1996-03-24,SVK,2,"x-bionic sphere, Šamorín (SVK)",2022-06-09,1092,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,694.49,SVK,26.0,2022
-215,11:34.53,,Johannes FRENZL,2001-09-22,GER,4,"Hartwig-Gauder-Halle, Erfurt (GER) (i)",2024-02-02,1092,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,694.53,GER,22.0,2024
-216,11:34.60,,Wayne SNYMAN,1985-03-08,RSA,2,Cork (IRL),2013-07-02,1092,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,694.6,IRL,28.0,2013
-217,11:34.62,,Daniel KING,1983-05-30,GBR,1,Bedford (GBR),2005-05-30,1092,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,694.62,GBR,22.0,2005
-218,11:34.70,,Dušan MAJDAN,1987-09-08,SVK,3,Dubnica nad Váhom (SVK),2014-08-30,1092,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,694.7,SVK,26.0,2014
-219,11:34.83,,Antonin BOYEZ,1984-11-09,FRA,1,Eaubonne (FRA) (i),2008-02-08,1091,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,694.83,FRA,23.0,2008
-220,11:35.0h,,Callum WILKINSON,1997-03-14,GBR,1,Sheffield (GBR) (i),2017-01-08,1091,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,695.0,GBR,19.0,2017
-221,11:35.34,,Nick CHRISTIE,1991-09-29,USA,1,"New York, NY (USA) (i)",2019-02-23,1090,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,695.34,USA,27.0,2019
-222,11:35.49,,Dominik ČERNÝ,1997-11-01,SVK,4,Šamorín (SVK),2016-06-11,1090,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,695.49,SVK,18.0,2016
-222,11:35.49,,Dominik ČERNÝ,1997-11-01,SVK,4,Šamorín (SVK),2016-06-04,1090,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,695.49,SVK,18.0,2016
-224,11:35.5h,,Andy PENN,1967-03-31,GBR,1,Leamington (GBR),1997-05-10,1090,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,695.5,GBR,30.0,1997
-225,11:35.60,,Aurélien QUINION,1993-01-27,FRA,1,Franconville (FRA),2019-06-15,1089,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,695.6,FRA,26.0,2019
-226,11:35.69,,Cian MCMANAMON,1991-10-11,IRL,5,Cork (IRL),2016-06-28,1089,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,695.69,IRL,24.0,2016
-227,11:35.78,,Patrik SPEVÁK,1994-07-30,SVK,4,Dubnica nad Váhom (SVK),2014-08-30,1089,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,695.78,SVK,20.0,2014
-228,11:35.88,,Hagen POHLE,1992-03-05,GER,4,Dessau (GER),2017-06-16,1089,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,695.88,GER,25.0,2017
-229,11:35.92,,Brendan BOYCE,1986-10-08,IRL,6,Cork (IRL),2014-07-08,1089,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,695.92,IRL,27.0,2014
-230,11:36.04,,Anton BILDZIUHA,2001-03-21,BLR,3,"Athletics Hall, Gomel (BLR) (i)",2023-01-22,1088,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,696.04,BLR,21.0,2023
-231,11:36.27,,Trevor BARRON,1992-09-30,USA,1,"Albuquerque, NM (USA) (i)",2012-02-25,1088,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,696.27,USA,19.0,2012
-232,11:36.31,,Jamie COSTIN,1977-06-01,IRL,4,Cork (IRL),2009-07-04,1088,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,696.31,IRL,32.0,2009
-233,11:36.33,,Andreas ERM,1976-03-12,GER,1,Pretoria (RSA),2001-03-23,1088,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,696.33,RSA,25.0,2001
-234,11:36.42,,Dušan MAJDAN,1987-09-08,SVK,4,Dubnica nad Váhom (SVK),2013-08-21,1088,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,696.42,SVK,25.0,2013
-235,11:36.46,,Erik TYSSE,1980-12-04,NOR,1,Bergen (NOR) (i),2016-01-23,1087,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,696.46,NOR,35.0,2016
-236,11:36.6h,,Miroslav BOŠKO,1968-09-26,SVK,1,Hlohovec (SVK) (i),1996-11-29,1087,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,696.6,SVK,28.0,1996
-237,11:36.64,,Massimo FIZIALETTI,1965-02-07,ITA,5,Formia (ITA),1997-07-13,1087,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,696.64,ITA,32.0,1997
-238,11:36.98,,Brendan BOYCE,1986-10-08,IRL,3,Cork (IRL),2013-07-02,1086,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,696.98,IRL,26.0,2013
-239,11:37.09,,John NUNN,1978-02-03,USA,1,"Portland, OR (USA) (i)",2016-03-12,1086,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,697.09,USA,38.0,2016
-240,11:37.10,,Dominik ČERNÝ,1997-11-01,SVK,1,"Športová hala Dukla, Banská Bystrica (SVK) (i)",2022-12-30,1086,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,697.1,SVK,25.0,2022
-241,11:37.2h,,Rhydian COWLEY,1991-01-04,AUS,1,"Meadowglen Stadium, Epping, Melbourne (AUS)",2021-12-18,1086,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,697.2,AUS,30.0,2021
-242,11:37.4h,,Dave MCGOVERN,1965-05-28,USA,1,"Allston, MA (USA) (i)",1997-02-08,1085,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,697.4,USA,31.0,1997
-243,11:37.5h,,Chris ERICKSON,1981-12-01,AUS,1,Canberra (AUS),2011-10-21,1085,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,697.5,AUS,29.0,2011
-244,11:37.55,,Bailey HOUSDEN,2007-10-04,AUS,1,"Queensland Sport and Athletics Centre, Nathan, Brisbane (AUS)",2024-03-09,1085,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,697.55,AUS,16.0,2024
-245,11:37.71,,Eddy RIVA,1973-03-17,FRA,3,Mondeville (FRA) (i),2004-01-31,1084,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,697.71,FRA,30.0,2004
-246,11:37.72,,Michal MORVAY,1996-08-19,SVK,3,"x-bionic sphere, Šamorín (SVK)",2020-09-11,1084,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,697.72,SVK,24.0,2020
-247,11:37.87,,Milan RÍZEK,1978-01-05,SVK,3,"x-bionic sphere, Šamorín (SVK)",2017-06-17,1084,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,697.87,SVK,39.0,2017
-248,11:37.88,,Radovan EĽKO,1980-04-04,SVK,3,Dubnica nad Váhom (SVK),2003-09-07,1084,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,697.88,SVK,23.0,2003
-249,11:38.0h,,Adam RUTTER,1986-12-24,AUS,1,Sydney (AUS),2004-10-23,1084,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,698.0,AUS,17.0,2004
-250,11:38.14,,Al HEPPNER,1974-04-24,USA,3,"San Diego, CA (USA) (i)",1999-01-24,1083,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,698.14,USA,24.0,1999
-251,11:38.16,,Alex WRIGHT,1990-12-19,GBR,1,Bedford (GBR),2010-05-31,1083,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,698.16,GBR,19.0,2010
-252,11:38.25,,Giorgio RUBINO,1986-04-15,ITA,6,"Emirates Arena, Glasgow (GBR) (i)",2018-02-25,1083,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,698.25,GBR,31.0,2018
-253,11:38.27,,Colin GRIFFIN,1982-08-03,IRL,4,Cork (IRL),2011-07-02,1083,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,698.27,IRL,28.0,2011
-254,11:38.37,,Rafał AUGUSTYN,1984-05-14,POL,3,Mikołow (POL),2014-05-25,1083,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,698.37,POL,30.0,2014
-255,11:38.47,,Cameron CORBISHLEY,1997-03-31,GBR,1,"Alexander Stadium, Birmingham (GBR)",2024-07-20,1083,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,698.47,GBR,27.0,2024
-256,11:38.48,,Alex SCHWAZER,1984-11-26,ITA,1,Orroli (ITA),2009-09-04,1083,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,698.48,ITA,24.0,2009
-257,11:38.51,,Cameron CORBISHLEY,1997-03-31,GBR,1,"National Indoor Athletics Centre, Sheffield (GBR) (i)",2025-01-19,1083,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,698.51,GBR,27.0,2025
-258,11:38.52,,Ivano BRUGNETTI,1976-09-01,ITA,2,Orroli (ITA),2009-09-04,1083,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,698.52,ITA,33.0,2009
-259,11:38.8h,,Liam MURPHY,1979-06-05,AUS,1,Adelaide (AUS),1999-11-13,1082,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,698.8,AUS,20.0,1999
-260,11:39.01,,Pierce O'CALLAGHAN,1975-12-05,IRL,1,Dublin (IRL),1999-07-18,1081,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,699.01,IRL,23.0,1999
-261,11:39.43,,Dominik ČERNÝ,1997-11-01,SVK,4,"x-bionic sphere, Šamorín (SVK)",2018-06-29,1080,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,699.43,SVK,20.0,2018
-262,11:39.5h,,Aleksandar RAKOVIĆ,1968-04-13,YUG,2,Hlohovec (SVK) (i),1996-11-29,1080,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,699.5,SVK,28.0,1996
-263,11:39.57,,Peter KORČOK,1974-08-12,SVK,4,Dubnica nad Váhom (SVK),2003-09-07,1080,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,699.57,SVK,29.0,2003
-264,11:39.75,,Cameron CORBISHLEY,1997-03-31,GBR,1,Cardiff (GBR) (i),2016-12-11,1080,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,699.75,GBR,19.0,2016
-265,11:39.8h,,Rhydian COWLEY,1991-01-04,AUS,1,Melbourne (AUS),2012-11-03,1079,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,699.8,AUS,21.0,2012
-265,11:39.80,,Marius ŽIŪKAS,1985-06-29,LTU,1,Vilnius (LTU) (i),2011-01-13,1079,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,699.8,LTU,25.0,2011
-267,11:39.87,,Callum WILKINSON,1997-03-14,GBR,2,Sheffield (GBR) (i),2016-01-10,1079,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,699.87,GBR,18.0,2016
-268,11:39.98,,Daniel MONFORT,2006-01-25,ESP,1,"Pistes d'atletisme Gaetà Huguet, Castellón (ESP)",2023-12-23,1079,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,699.98,ESP,17.0,2023
-269,11:40.12,,Vít HLAVÁČ,1997-02-26,CZE,3,"x-bionic sphere, Šamorín (SVK)",2022-06-09,1079,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,700.12,SVK,25.0,2022
-270,11:40.14,,Adam RUTTER,1986-12-24,AUS,2,Canberra (AUS),2004-11-27,1079,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,700.14,AUS,17.0,2004
-271,11:40.2h,,Pierre DE VILLIERS,1985-08-18,RSA,1,Germiston (RSA),2012-02-25,1078,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,700.2,RSA,26.0,2012
-272,11:40.21,,Aurélien QUINION,1993-01-27,FRA,1,"Stade Adolphe Cheron, St-Maur (FRA)",2021-06-09,1078,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,700.21,FRA,28.0,2021
-273,11:40.32,,Declan TINGAY,1999-02-06,AUS,1,Geelong (AUS),2016-12-17,1078,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,700.32,AUS,17.0,2016
-274,11:40.57,,Riccardo ORSONI,2000-01-20,ITA,8,"Stadio Olimpico, Roma (ITA)",2022-06-09,1078,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,700.57,ITA,22.0,2022
-275,11:40.74,,Mikita KALIADA,2000-07-15,BLR,1,"Athletics Hall, Gomel (BLR) (i)",2022-01-30,1077,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,700.74,BLR,21.0,2022
-276,11:40.75,,Tim SEAMAN,1972-05-14,USA,1,"Albuquerque, NM (USA) (i)",2014-02-23,1077,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,700.75,USA,41.0,2014
-277,11:40.95,,John NUNN,1978-02-03,USA,2,"Albuquerque, NM (USA) (i)",2014-02-23,1077,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,700.95,USA,36.0,2014
-278,11:41.17,,Dušan MAJDAN,1987-09-08,SVK,5,Šamorín (SVK),2016-06-11,1076,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,701.17,SVK,28.0,2016
-278,11:41.17,,Dušan MAJDAN,1987-09-08,SVK,5,Šamorín (SVK),2016-06-04,1076,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,701.17,SVK,28.0,2016
-280,11:41.18,,Tom BOSWORTH,1990-01-17,GBR,1,"Tonbridge School Athletics Track, Tonbridge (GBR)",2022-08-29,1076,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,701.18,GBR,32.0,2022
-281,11:41.30,,Łukasz NOWAK,1988-12-18,POL,5,Sosnowiec (POL),2011-09-21,1076,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,701.3,POL,22.0,2011
-281,11:41.3h,,Scott NELSON,1969-10-10,NZL,1,Melbourne (AUS),1996-03-24,1076,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,701.3,AUS,26.0,1996
-283,11:41.96,,Jakub JELONEK,1985-07-07,POL,2,Stalowa Wola (POL),2012-09-26,1074,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,701.96,POL,27.0,2012
-284,11:42.10,,Patrik NEMČOK,2003-06-13,SVK,3,"x-bionic sphere, Šamorín (SVK)",2021-06-02,1074,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,702.1,SVK,17.0,2021
-285,11:42.13,,Daniel CHAMOSA,1997-05-04,ESP,1,Pontevedra (ESP),2021-05-19,1074,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,702.13,ESP,24.0,2021
-286,11:42.28,,Milan RÍZEK,1978-01-05,SVK,5,Dubnica nad Váhom (SVK),2014-08-30,1074,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,702.28,SVK,36.0,2014
-287,11:42.5h,,Denis TRAUTMANN,1972-08-15,GER,1,Pretoria (RSA),2000-01-28,1073,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,702.5,RSA,27.0,2000
-288,11:42.6h,,Yevgeniy ZHDAKAYEV,2004-03-11,RUS,1,"Football and athletics Arena, Saransk (RUS) (i)",2020-12-27,1073,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,702.6,RUS,16.0,2020
-289,11:42.69,,John RONAN,2007-11-02,AUS,2,"WA Athletics Stadium, Perth (AUS)",2025-10-17,1073,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,702.69,AUS,17.0,2025
-290,11:42.7h,,Grzegorz SUDOŁ,1978-08-28,POL,2,Germiston (RSA),2012-02-25,1073,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,702.7,RSA,33.0,2012
-290,11:42.7h,,Damian O'MARA,,AUS,2,Sydney (AUS),1997-01-04,1073,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,702.7,AUS,,1997
-292,11:42.73,,Wojciech HALMAN,1990-01-10,POL,2,Spala (POL) (i),2012-01-15,1072,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,702.73,POL,22.0,2012
-293,11:42.97,,Aliaksandr ZHDAN,2004-04-21,BLR,1,"Athletics Hall, Gomel (BLR) (i)",2023-02-23,1072,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,702.97,BLR,18.0,2023
-293,11:42.97,,Rafał FEDACZYŃSKI,1980-12-03,POL,1,Gdansk (POL),2010-06-26,1072,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,702.97,POL,29.0,2010
-295,11:43.0h,,Sergey MELENTYEV,1976-12-05,RUS,1,Novokuznetsk (RUS) (i),1999-11-27,1072,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,703.0,RUS,22.0,1999
-296,11:43.08,,Matej TÓTH,1983-02-10,SVK,5,"x-bionic sphere, Šamorín (SVK)",2018-06-29,1072,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,703.08,SVK,35.0,2018
-296,11:43.08,,Adam RUTTER,1986-12-24,AUS,2,Canberra (AUS),2005-01-04,1072,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,703.08,AUS,18.0,2005
-298,11:43.28,,Jakub JELONEK,1985-07-07,POL,2,Cork (IRL),2012-07-17,1071,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,703.28,IRL,27.0,2012
-299,11:43.44,,Tom BOSWORTH,1990-01-17,GBR,2,Bedford (GBR),2010-05-31,1071,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,703.44,GBR,20.0,2010
-300,11:43.45,,Rafał FEDACZYŃSKI,1980-12-03,POL,2,"Atletická hala, Ostrava (CZE) (i)",2020-01-25,1071,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,703.45,CZE,39.0,2020
-301,11:43.46,,Nick CHRISTIE,1991-09-29,USA,1,"Armory Track&Field Center, New York, NY (USA) (i)",2022-01-29,1071,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,703.46,USA,30.0,2022
-302,11:43.70,,Andrey DENISOV,2006-07-07,RUS,3,"VGAFK Arena, Volgograd (RUS) (i)",2025-02-21,1070,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,703.7,RUS,18.0,2025
-303,11:43.94,,Jonathan HILBERT,1995-04-21,GER,3,"Hartwig-Gauder-Halle, Erfurt (GER) (i)",2022-02-01,1070,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,703.94,GER,26.0,2022
-304,11:44.03,,Luke HICKEY,1994-10-24,IRL,1,Waterford (IRL),2014-05-18,1069,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,704.03,IRL,19.0,2014
-305,11:44.08,,Cian MCMANAMON,1991-10-11,IRL,3,Dublin (IRL) (i),2017-02-05,1069,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,704.08,IRL,25.0,2017
-306,11:44.15,,Tom BOSWORTH,1990-01-17,GBR,1,Tonbridge (GBR),2019-04-22,1069,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,704.15,GBR,29.0,2019
-307,11:44.17,,Håvard HAUKENES,1990-04-22,NOR,2,Bergen (NOR),2015-05-28,1069,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,704.17,NOR,25.0,2015
-308,11:44.2h,,Dmitriy GRAMACHKOV,2003-05-09,RUS,1,Chelyabinsk (RUS) (i),2020-01-06,1069,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,704.2,RUS,16.0,2020
-309,11:44.28,,Jonathan HILBERT,1995-04-21,GER,1,"Steigerwaldstadion, Erfurt (GER)",2021-04-30,1069,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,704.28,GER,26.0,2021
-310,11:44.3h,,Peter KORČOK,1974-08-12,SVK,3,Hlohovec (SVK) (i),2001-11-30,1069,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,704.3,SVK,27.0,2001
-311,11:44.52,,Miklós SRP,1993-03-06,HUN,1,"Bregyó Athletic Center, Székesfehérvár (HUN)",2021-06-19,1068,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,704.52,HUN,28.0,2021
-312,11:44.75,,Antonin BOYEZ,1984-11-09,FRA,2,Angers (FRA),2017-09-09,1068,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,704.75,FRA,32.0,2017
-312,11:44.75,,Miroslav ÚRADNÍK,1996-03-24,SVK,4,"x-bionic sphere, Šamorín (SVK)",2017-06-17,1068,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,704.75,SVK,21.0,2017
-314,11:44.77,,Dawid TOMALA,1989-08-27,POL,1,Spala (POL) (i),2015-01-25,1068,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,704.77,POL,25.0,2015
-315,11:44.78,,Tom BOSWORTH,1990-01-17,GBR,2,Sheffield (GBR) (i),2014-01-04,1068,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,704.78,GBR,23.0,2014
-316,11:44.96,,James TREANOR,1993-04-12,IRL,7,Cork (IRL),2014-07-08,1067,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,704.96,IRL,21.0,2014
-317,11:44.98,,Cameron CORBISHLEY,1997-03-31,GBR,1,Manchester (GBR),2019-08-14,1067,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,704.98,GBR,22.0,2019
-318,11:45.0h,,Grigoriy SERGEYEV,1976-04-27,RUS,2,Novokuznetsk (RUS) (i),1999-11-27,1067,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,705.0,RUS,23.0,1999
-319,11:45.11,,Diego CAFAGNA,1975-07-09,ITA,3,Castelfidardo (ITA),1999-06-20,1067,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,705.11,ITA,23.0,1999
-320,11:45.15,,Maurizio DAMILANO,1957-04-06,ITA,1,Roma (ITA),1980-08-05,1067,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,705.15,ITA,23.0,1980
-321,11:45.20,,Diego GIAMPAOLO,2004-02-29,ITA,9,"Stadio Olimpico, Roma (ITA)",2022-06-09,1067,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,705.2,ITA,18.0,2022
-322,11:45.26,,Vít HLAVÁČ,1997-02-26,CZE,4,"x-bionic sphere, Šamorín (SVK)",2020-09-11,1066,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,705.26,SVK,23.0,2020
-323,11:45.44,,Leonardo DEI TOS,1992-04-27,ITA,1,Milano (ITA),2017-04-20,1066,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,705.44,ITA,24.0,2017
-324,11:45.58,,Fredrik RØTNES,1996-03-20,NOR,1,Tromsö (NOR) (i),2016-02-14,1066,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,705.58,NOR,19.0,2016
-325,11:45.68,,Christopher SNOOK,2000-01-14,GBR,1,"Arena Birmingham, Birmingham (GBR) (i)",2024-02-18,1065,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,705.68,GBR,24.0,2024
-326,11:45.69,,Matthew GLENNON,2003-11-14,IRL,1,"Morton Stadium, Santry, Dublin (IRL)",2025-04-12,1065,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,705.69,IRL,21.0,2025
-326,11:45.69,,Colin GRIFFIN,1982-08-03,IRL,2,Nenagh (IRL) (i),2005-01-15,1065,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,705.69,IRL,22.0,2005
-328,11:45.76,,John Cody RISCH,1990-09-18,USA,1,"Findlay, OH (USA) (i)",2019-01-25,1065,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,705.76,USA,28.0,2019
-329,11:45.8h,,Miloš BÁTOVSKÝ,1979-05-26,SVK,1,Hlohovec (SVK) (i),2002-11-29,1065,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,705.8,SVK,23.0,2002
-330,11:45.85,,João VIEIRA,1976-02-20,POR,1,"Estadio Universitario, Lisboa (POR)",2020-08-08,1065,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,705.85,POR,44.0,2020
-331,11:45.9h,,Robert IHLY,1963-05-05,GER,1,Roodeport (RSA),1996-01-26,1065,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,705.9,RSA,32.0,1996
-332,11:46.0h,,Martin PUPIŠ,1978-10-19,SVK,2,Hlohovec (SVK) (i),1999-11-28,1065,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,706.0,SVK,21.0,1999
-333,11:46.05,,Håvard HAUKENES,1990-04-22,NOR,2,Bergen (NOR) (i),2015-01-24,1065,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,706.05,NOR,24.0,2015
-333,11:46.05,,Tom BOSWORTH,1990-01-17,GBR,3,Cork (IRL),2012-07-17,1065,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,706.05,IRL,22.0,2012
-335,11:46.08,,Milan RÍZEK,1978-01-05,SVK,6,"x-bionic sphere, Šamorín (SVK)",2018-06-29,1065,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,706.08,SVK,40.0,2018
-336,11:46.09,,Uladzislau KARNEICHUK,2004-03-13,BLR,2,"Athletics Hall, Gomel (BLR) (i)",2023-02-23,1064,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,706.09,BLR,18.0,2023
-336,11:46.09,,Trond NYMARK,1976-12-28,NOR,1,Bergen (NOR),2011-06-02,1064,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,706.09,NOR,34.0,2011
-338,11:46.20,,Nick CHRISTIE,1991-09-29,USA,1,"Geneva, OH (USA) (i)",2015-03-06,0,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,706.2,USA,23.0,2015
-339,11:46.50,,John RONAN,2007-11-02,AUS,1,"WA Athletics Stadium, Perth (AUS)",2023-10-21,1064,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,706.5,AUS,15.0,2023
-340,11:46.66,,Mikita KALIADA,2000-07-15,BLR,1,Mogilyov (BLR) (i),2019-02-08,1063,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,706.66,BLR,18.0,2019
-341,11:46.70,,Brendan BOYCE,1986-10-08,IRL,2,Athlone (IRL) (i),2015-02-01,1063,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,706.7,IRL,28.0,2015
-341,11:46.7h,,Chris BRITZ,1963-01-13,RSA,2,Roodeport (RSA),1996-01-26,1063,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,706.7,RSA,33.0,1996
-343,11:46.92,,Jerome CAPRICE,1983-01-18,MRI,1,Athlone (IRL),2018-07-08,1063,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,706.92,IRL,35.0,2018
-344,11:47.09,,Dane BIRD-SMITH,1992-07-15,AUS,1,Brisbane (AUS),2010-06-27,1062,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,707.09,AUS,17.0,2010
-345,11:47.12,,Cameron CORBISHLEY,1997-03-31,GBR,1,Cardiff (GBR) (i),2015-12-13,1062,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,707.12,GBR,18.0,2015
-346,11:47.2h,,Jon GAWLEY,1980-05-09,AUS,2,Sydney (AUS),1999-01-16,1062,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,707.2,AUS,18.0,1999
-347,11:47.34,,Isaac BEACROFT,2007-07-18,AUS,1,"Barden Ridge Athletics Track, Sydney (AUS)",2022-11-12,1062,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,707.34,AUS,15.0,2022
-348,11:47.35,,Jakub JELONEK,1985-07-07,POL,2,Spala (POL) (i),2015-01-25,1062,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,707.35,POL,29.0,2015
-349,11:47.47,,Quentin REW,1984-07-16,NZL,1,Wellington (NZL),2014-11-01,1061,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,707.47,NZL,30.0,2014
-350,11:47.5h,,Kyle SWAN,1999-03-28,AUS,1,"Knox Athletic Track, Melbourne (AUS)",2021-12-18,1061,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,707.5,AUS,22.0,2021
-351,11:47.66,,Allen JAMES,1964-04-14,USA,1,"Allston, MA (USA) (i)",1997-01-25,1061,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,707.66,USA,32.0,1997
-352,11:47.78,,Declan TINGAY,1999-02-06,AUS,1,"WA Athletics Stadium, Perth (AUS)",2020-01-22,1060,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,707.78,AUS,20.0,2020
-353,11:47.80,,Pietro FIORINI,1967-03-11,ITA,1,Avezzano (ITA),1996-08-25,1060,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,707.8,ITA,29.0,1996
-354,11:47.97,,Dušan MAJDAN,1987-09-08,SVK,4,Dubnica nad Váhom (SVK),2012-08-26,1060,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,707.97,SVK,24.0,2012
-355,11:48.0h,,Andrey SAVIN,1977-02-26,RUS,3,Novokuznetsk (RUS) (i),1999-11-27,1060,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,708.0,RUS,22.0,1999
-356,11:48.07,,Cameron CORBISHLEY,1997-03-31,GBR,7,"Emirates Arena, Glasgow (GBR) (i)",2018-02-25,1060,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,708.07,GBR,20.0,2018
-357,11:48.11,,Mauro SPINADIN,,ITA,4,Castelfidardo (ITA),1999-06-20,1060,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,708.11,ITA,,1999
-358,11:48.19,,Lukáš GDULA,1991-12-06,CZE,6,Dubnica nad Váhom (SVK),2014-08-30,1060,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,708.19,SVK,22.0,2014
-359,11:48.28,,Maik BERGER,1979-02-17,GER,1,Halle (GER) (i),1999-01-31,1059,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,708.28,GER,19.0,1999
-360,11:48.38,,Benjamin THORNE,1993-03-19,CAN,5,"Olympic Stadium, London (GBR)",2018-07-21,1059,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,708.38,GBR,25.0,2018
-361,11:48.48,,Denis ERKIĆ,1971-07-24,BIH,2,Erfurt (GER) (i),1997-02-05,1059,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,708.48,GER,25.0,1997
-362,11:48.86,,Patryk ROGOWSKI,1989-04-11,POL,2,Gdansk (POL),2010-06-26,1058,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,708.86,POL,21.0,2010
-363,11:48.99,,Nathan MURPHY,,IRL,2,Waterford (IRL),2014-05-18,1058,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,708.99,IRL,,2014
-364,11:49.00,,Dane BIRD-SMITH,1992-07-15,AUS,1,Brisbane (AUS),2015-06-14,1058,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,709.0,AUS,22.0,2015
-364,11:49.0h,,Vladyslav VDOVIN,2008-12-20,RUS,1,"Football and athletics Arena, Saransk (RUS) (i)",2023-09-24,1058,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,709.0,RUS,14.0,2023
-366,11:49.10,,Christopher LINKE,1988-10-24,GER,1,Potchefstroom (RSA),2010-03-04,1057,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,709.1,RSA,21.0,2010
-367,11:49.25,,Emmanuel CORVERA,1993-03-25,USA,2,"New York, NY (USA) (i)",2019-02-23,1057,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,709.25,USA,25.0,2019
-368,11:49.29,,Jakub JELONEK,1985-07-07,POL,5,Šamorín (SVK),2019-06-15,1057,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,709.29,SVK,33.0,2019
-369,11:49.41,,Alex WRIGHT,1990-12-19,GBR,1,Bedford (GBR),2012-08-25,1057,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,709.41,GBR,21.0,2012
-370,11:49.46,,Oisin LANE,2002-06-12,IRL,1,"Dundrum South Dublin, Dublin (IRL)",2023-04-22,1057,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,709.46,IRL,20.0,2023
-371,11:49.5h,,Nick CHRISTIE,1991-09-29,USA,1,"San Diego, CA (USA)",2018-01-28,1056,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,709.5,USA,26.0,2018
-371,11:49.50,,Dušan MAJDAN,1987-09-08,SVK,2,Banská Bystrica (SVK) (i),2016-01-05,1056,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,709.5,SVK,28.0,2016
-373,11:49.53,,Cameron CORBISHLEY,1997-03-31,GBR,2,"Arena Birmingham, Birmingham (GBR) (i)",2025-02-23,1056,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,709.53,GBR,27.0,2025
-373,11:49.53,,Ian RAYSON,1988-02-04,AUS,1,Canberra (AUS),2014-01-09,1056,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,709.53,AUS,25.0,2014
-375,11:49.60,,Vít HLAVÁČ,1997-02-26,CZE,1,"Atletický stadion Turnov, Turnov (CZE)",2022-05-24,1056,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,709.6,CZE,25.0,2022
-376,11:49.7h,,Travis HARBOUR,,AUS,1,Melbourne (AUS),1997-02-01,1056,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,709.7,AUS,,1997
-377,11:49.72,,Anthony PETERS,1996-04-23,USA,1,"Johnson City, TN (USA) (i)",2017-03-03,0,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,709.72,USA,20.0,2017
-378,11:49.85,,Callum WILKINSON,1997-03-14,GBR,1,Manchester (GBR),2016-08-17,1056,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,709.85,GBR,19.0,2016
-379,11:49.9h,,Mikita KALIADA,2000-07-15,BLR,1,Brest (BLR) (i),2016-02-10,1055,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,709.9,BLR,15.0,2016
-380,11:49.93,,Brendan BOYCE,1986-10-08,IRL,3,Bedford (GBR),2010-05-31,1055,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,709.93,GBR,23.0,2010
+111,11:18.60,,Daniel MONFORT,2006-01-25,ESP,1,"Pistes d'atletisme Gaetà Huguet, Castellón (ESP)",2025-12-20,1131,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,678.6,ESP,19.0,2025
+112,11:18.65,,Robert HEFFERNAN,1978-02-28,IRL,2,Cork (IRL),2016-06-28,1131,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,678.65,IRL,38.0,2016
+113,11:19.0h,,Aleksey LEMONOV,2006-10-25,RUS,1,"Football and athletics Arena, Saransk (RUS) (i)",2023-09-24,1130,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,679.0,RUS,16.0,2023
+114,11:19.10,,Cameron CORBISHLEY,1997-03-31,GBR,2,Leeds (GBR),2017-06-12,1129,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,679.1,GBR,20.0,2017
+115,11:19.2h,,Tim SEAMAN,1972-05-14,USA,,"Chula Vista, CA (USA)",1999-03-07,1129,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,679.2,USA,26.0,1999
+116,11:19.33,,Alex WRIGHT,1990-12-19,IRL,1,Athlone (IRL) (i),2015-02-01,1129,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,679.33,IRL,24.0,2015
+117,11:19.49,,Reima SALONEN,1955-10-19,FIN,,Helsinki (FIN),1989-06-08,1128,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,679.49,FIN,33.0,1989
+118,11:19.55,,Lei ZHAO,1991-01-05,CHN,3,Yantai (CHN),2006-10-11,1128,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,679.55,CHN,15.0,2006
+119,11:19.60,,Tim BERRETT,1965-01-23,CAN,1,Tonbridge (GBR),1992-04-20,1128,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,679.6,GBR,27.0,1992
+119,11:19.6h,,Yevgeniy ZHDAKAYEV,2004-03-11,RUS,2,"Football and athletics Arena, Saransk (RUS) (i)",2023-09-24,1128,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,679.6,RUS,19.0,2023
+121,11:19.65,,Fushan DU,1991-03-28,CHN,4,Yantai (CHN),2006-10-11,1128,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,679.65,CHN,15.0,2006
+122,11:19.70,,Colin GRIFFIN,1982-08-03,IRL,3,Cork (IRL),2009-07-04,1128,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,679.7,IRL,26.0,2009
+123,11:19.80,,Dane BIRD-SMITH,1992-07-15,AUS,1,Brisbane (AUS),2015-02-14,1128,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,679.8,AUS,22.0,2015
+124,11:19.83,,Dominik ČERNÝ,1997-11-01,SVK,1,"x-bionic sphere, Šamorín (SVK)",2021-06-02,1128,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,679.83,SVK,23.0,2021
+125,11:20.06,,Lebogang SHANGE,1990-08-01,RSA,1,Germiston (RSA),2017-03-22,1127,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,680.06,RSA,26.0,2017
+126,11:20.39,,Lebogang SHANGE,1990-08-01,RSA,1,Pretoria (RSA),2015-03-07,1126,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,680.39,RSA,24.0,2015
+127,11:20.48,,Erik TYSSE,1980-12-04,NOR,1,Bergen (NOR) (i),2014-01-18,1126,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,680.48,NOR,33.0,2014
+128,11:20.80,,Erik TYSSE,1980-12-04,NOR,1,Bergen (NOR),2014-09-02,1125,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,680.8,NOR,33.0,2014
+129,11:21.27,,David KENNY,1999-01-10,IRL,1,"AIT International Arena, Athlone (IRL) (i)",2023-01-29,1124,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,681.27,IRL,24.0,2023
+130,11:21.32,,Grzegorz SUDOŁ,1978-08-28,POL,3,Dubnica nad Váhom (SVK),2013-08-21,1124,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,681.32,SVK,35.0,2013
+131,11:21.38,,Sergio SPAGNULIO,1962-10-07,ITA,2,Bologna (ITA),1990-07-18,1124,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,681.38,ITA,27.0,1990
+132,11:21.50,,Craig BARRETT,1971-11-16,NZL,1,Auckland (NZL),1997-02-02,1124,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,681.5,NZL,25.0,1997
+133,11:21.90,,Grzegorz SUDOŁ,1978-08-28,POL,3,Dubnica nad Váhom (SVK),2012-08-26,1123,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,681.9,SVK,34.0,2012
+134,11:22.15,,Dane BIRD-SMITH,1992-07-15,AUS,1,Brisbane (AUS),2014-02-15,1122,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,682.15,AUS,21.0,2014
+135,11:22.36,,Anton KUČMÍN,1984-06-07,SVK,1,Šamorín (SVK),2016-06-04,1121,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,682.36,SVK,32.0,2016
+135,11:22.36,,Anton KUČMÍN,1984-06-07,SVK,1,Šamorín (SVK),2016-06-11,1121,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,682.36,SVK,32.0,2016
+135,11:22.36,,Ivan LOSEV,1986-01-26,UKR,2,Dubnica nad Váhom (SVK),2014-08-30,1121,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,682.36,SVK,28.0,2014
+138,11:22.47,,Matej TÓTH,1983-02-10,SVK,2,"x-bionic sphere, Šamorín (SVK)",2020-09-11,1121,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,682.47,SVK,37.0,2020
+139,11:22.55,,Curt CLAUSEN,1967-10-09,USA,1,"San Diego, CA (USA) (i)",1999-01-24,1121,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,682.55,USA,31.0,1999
+140,11:22.72,,Xiaomou LI,1991-02-03,CHN,5,Yantai (CHN),2006-10-11,1121,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,682.72,CHN,15.0,2006
+141,11:23.05,,Dane BIRD-SMITH,1992-07-15,AUS,1,Brisbane (AUS),2012-01-06,1120,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,683.05,AUS,19.0,2012
+142,11:23.15,,Miguel Ángel PRIETO,1964-09-20,ESP,1,Sevilla (ESP) (i),1991-02-17,1120,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,683.15,ESP,26.0,1991
+143,11:23.99,,Alex WRIGHT,1990-12-19,GBR,2,Athlone (IRL) (i),2013-01-27,1118,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,683.99,IRL,22.0,2013
+144,11:24.02,,Pierre DE VILLIERS,1985-08-18,RSA,1,Stellenbosch (RSA),2012-03-20,1117,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,684.02,RSA,26.0,2012
+145,11:24.24,,Andrey DENISOV,2006-07-07,RUS,2,"Virazhi Arena, Togliatti (RUS) (i)",2024-02-16,1117,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,684.24,RUS,17.0,2024
+146,11:24.29,,Carlo MATTIOLI,1954-10-23,ITA,3,Bologna (ITA),1990-07-18,1117,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,684.29,ITA,35.0,1990
+147,11:24.4h,,Mark EASTON,1963-05-24,GBR,1,Tonbridge (GBR),1989-05-10,1117,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,684.4,GBR,25.0,1989
+148,11:24.53,,Michele DIDONI,1974-03-07,ITA,3,Formia (ITA),1997-07-13,1116,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,684.53,ITA,23.0,1997
+149,11:24.65,,Grzegorz SUDOŁ,1978-08-28,POL,1,Stalowa Wola (POL),2012-09-26,1116,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,684.65,POL,34.0,2012
+150,11:25.70,,Bailey HOUSDEN,2007-10-04,AUS,1,"Queensland Sport and Athletics Centre, Nathan, Brisbane (AUS)",2024-02-03,1113,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,685.7,AUS,16.0,2024
+151,11:26.0h,,Erik KALINA,1975-09-25,SVK,1,Hlohovec (SVK) (i),1997-11-28,1113,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,686.0,SVK,22.0,1997
+152,11:26.11,,David KENNY,1999-01-10,IRL,1,"South Sports Campus, Carlow (IRL)",2022-04-09,1112,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,686.11,IRL,23.0,2022
+153,11:26.22,,Miroslav ÚRADNÍK,1996-03-24,SVK,3,"x-bionic sphere, Šamorín (SVK)",2018-06-29,1112,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,686.22,SVK,22.0,2018
+154,11:26.23,,Dominik ČERNÝ,1997-11-01,SVK,1,"x-bionic sphere, Šamorín (SVK)",2022-06-09,1112,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,686.23,SVK,24.0,2022
+155,11:26.34,,Hatem GHOULA,1973-06-07,TUN,2,Cork (IRL),2011-07-02,1112,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,686.34,IRL,38.0,2011
+156,11:26.42,,Karl JUNGHANNß,1996-04-06,GER,2,Dessau (GER),2017-06-16,1112,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,686.42,GER,21.0,2017
+157,11:26.62,,Tim SEAMAN,1972-05-14,USA,1,"Findlay, OH (USA) (i)",2006-01-28,1111,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,686.62,USA,33.0,2006
+158,11:26.70,,Mike TRAUTMANN,1974-03-13,GER,3,Halle (GER) (i),1998-01-21,1111,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,686.7,GER,23.0,1998
+159,11:26.76,,Dane BIRD-SMITH,1992-07-15,AUS,1,Brisbane (AUS),2013-11-30,1111,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,686.76,AUS,21.0,2013
+160,11:27.0h,,Michael MCCAGH,1986-04-16,AUS,2,Sydney (AUS),2007-02-17,1110,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,687.0,AUS,20.0,2007
+161,11:27.06,,Robert HEFFERNAN,1978-02-28,IRL,1,Tullamore (IRL),2000-08-13,1110,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,687.06,IRL,22.0,2000
+162,11:27.29,,Nils BREMBACH,1993-02-23,GER,2,"Hartwig-Gauder-Halle, Erfurt (GER) (i)",2022-02-01,1110,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,687.29,GER,28.0,2022
+163,11:27.46,,Ivan LOSEV,1986-01-26,UKR,2,"x-bionic sphere, Šamorín (SVK)",2017-06-17,1109,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,687.46,SVK,31.0,2017
+164,11:27.63,,Cameron CORBISHLEY,1997-03-31,GBR,1,"Alexander Stadium, Birmingham (GBR)",2025-07-27,1109,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,687.63,GBR,28.0,2025
+165,11:27.7h,,Adam RUTTER,1986-12-24,AUS,3,Sydney (AUS),2007-02-17,1109,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,687.7,AUS,20.0,2007
+166,11:27.81,,Luke HICKEY,1994-10-24,IRL,5,Cork (IRL),2014-07-08,1108,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,687.81,IRL,19.0,2014
+167,11:27.84,,Giuseppe DE GAETANO,1966-10-04,ITA,4,Bologna (ITA),1990-07-18,1108,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,687.84,ITA,23.0,1990
+168,11:27.98,,Jonathan HILBERT,1995-04-21,GER,3,"Hartwig-Gauder-Halle, Erfurt (GER) (i)",2024-02-02,1108,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,687.98,GER,28.0,2024
+169,11:28.41,,Evan DUNFEE,1990-09-28,CAN,2,Brisbane (AUS),2018-03-28,1107,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,688.41,AUS,27.0,2018
+170,11:28.45,,Erik TYSSE,1980-12-04,NOR,1,Bergen (NOR),2015-05-28,1107,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,688.45,NOR,34.0,2015
+171,11:28.61,,Brendan BOYCE,1986-10-08,IRL,2,Dublin (IRL) (i),2017-02-05,1106,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,688.61,IRL,30.0,2017
+172,11:28.76,,Rafał FEDACZYŃSKI,1980-12-03,POL,3,Sosnowiec (POL),2011-09-21,1106,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,688.76,POL,30.0,2011
+173,11:29.0h,,Yevgeniy SHMALYUK,1976-01-14,RUS,1,St. Petersburg (RUS) (i),2000-12-01,1105,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,689.0,RUS,24.0,2000
+173,11:29.0h,,Kazimir VERKIN,1972-03-27,SVK,2,Hlohovec (SVK) (i),1997-11-28,1105,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,689.0,SVK,25.0,1997
+175,11:29.15,,Grzegorz SUDOŁ,1978-08-28,POL,3,Cork (IRL),2016-06-28,1105,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,689.15,IRL,37.0,2016
+176,11:29.19,,Andrea AGRUSTI,1995-08-30,ITA,7,"Stadio Olimpico, Roma (ITA)",2022-06-09,1105,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,689.19,ITA,26.0,2022
+177,11:29.49,,Eiki UNAMI,1988-10-05,JPN,1,Komatsu (JPN),2008-05-18,1104,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,689.49,JPN,19.0,2008
+178,11:29.5h,,Zdeno BABÍK,1984-01-09,SVK,1,Banská Bystrica (SVK) (i),2004-11-27,1104,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,689.5,SVK,20.0,2004
+179,11:29.6h,,Tim BERRETT,1965-01-23,CAN,1,"Brighton, CO (USA) (i)",1990-01-21,1104,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,689.6,USA,25.0,1990
+180,11:29.7h,,Brent VALLANCE,1972-04-30,AUS,1,Sydney (AUS),1997-12-06,1104,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,689.7,AUS,25.0,1997
+181,11:29.71,,Wojciech HALMAN,1990-01-10,POL,1,Gdansk (POL),2011-06-11,1104,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,689.71,POL,21.0,2011
+182,11:29.78,,Dane BIRD-SMITH,1992-07-15,AUS,1,Brisbane (AUS),2012-12-08,1103,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,689.78,AUS,20.0,2012
+183,11:29.8h,,Kirill CHUDAYKIN,2006-07-15,RUS,2,"Football and athletics Arena, Saransk (RUS) (i)",2023-09-24,1103,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,689.8,RUS,17.0,2023
+184,11:30.19,,Dawid TOMALA,1989-08-27,POL,1,Mikołow (POL),2014-05-25,1103,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,690.19,POL,24.0,2014
+185,11:30.35,,Tom BOSWORTH,1990-01-17,GBR,1,Sheffield (GBR) (i),2015-02-15,1102,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,690.35,GBR,25.0,2015
+186,11:30.55,,John RONAN,2007-11-02,AUS,1,"WA Athletics Stadium, Perth (AUS)",2024-11-29,1102,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,690.55,AUS,17.0,2024
+187,11:30.77,,Callum WILKINSON,1997-03-14,GBR,1,Sheffield (GBR) (i),2018-01-07,1101,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,690.77,GBR,20.0,2018
+188,11:31.27,,Denis LANGLOIS,1968-10-10,FRA,2,Mondeville (FRA) (i),2004-01-31,1100,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,691.27,FRA,35.0,2004
+189,11:31.54,,Miroslav ÚRADNÍK,1996-03-24,SVK,4,Šamorín (SVK),2019-06-15,1099,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,691.54,SVK,23.0,2019
+190,11:31.69,,Matej TÓTH,1983-02-10,SVK,2,Šamorín (SVK),2016-06-04,1099,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,691.69,SVK,33.0,2016
+190,11:31.69,,Matej TÓTH,1983-02-10,SVK,2,Šamorín (SVK),2016-06-11,1099,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,691.69,SVK,33.0,2016
+192,11:31.97,,Dawid TOMALA,1989-08-27,POL,1,"Atletická hala, Ostrava (CZE) (i)",2020-01-25,1098,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,691.97,CZE,30.0,2020
+193,11:32.04,,Kirill CHUDAYKIN,2006-07-15,RUS,2,"VGAFK Arena, Volgograd (RUS) (i)",2025-02-21,1098,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,692.04,RUS,18.0,2025
+194,11:32.17,,Jonathan HILBERT,1995-04-21,GER,3,Dessau (GER),2017-06-16,1098,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,692.17,GER,22.0,2017
+195,11:32.25,,Dawid TOMALA,1989-08-27,POL,1,Spala (POL) (i),2012-01-15,1098,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,692.25,POL,22.0,2012
+196,11:32.45,,Rafał FEDACZYŃSKI,1980-12-03,POL,2,Mikołow (POL),2014-05-25,1097,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,692.45,POL,33.0,2014
+197,11:32.48,,Pengbo PAN,1991-03-15,CHN,6,Yantai (CHN),2006-10-11,1097,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,692.48,CHN,15.0,2006
+198,11:32.53,,Miroslav ÚRADNÍK,1996-03-24,SVK,3,Šamorín (SVK),2016-06-04,1097,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,692.53,SVK,20.0,2016
+198,11:32.53,,Miroslav ÚRADNÍK,1996-03-24,SVK,3,Šamorín (SVK),2016-06-11,1097,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,692.53,SVK,20.0,2016
+200,11:32.70,,Anton KUČMÍN,1984-06-07,SVK,1,Banská Bystrica (SVK) (i),2016-01-05,1096,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,692.7,SVK,31.0,2016
+201,11:32.9h,,Doug CONNOLLY,1982-10-30,AUS,2,Sydney (AUS),1999-11-27,1096,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,692.9,AUS,17.0,1999
+202,11:33.03,,Declan TINGAY,1999-02-06,AUS,1,"WA Athletics Stadium, Perth (AUS)",2020-11-06,1096,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,693.03,AUS,21.0,2020
+203,11:33.10,,Rhydian COWLEY,1991-01-04,AUS,2,Brisbane (AUS),2015-02-14,1095,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,693.1,AUS,24.0,2015
+204,11:33.13,,Federico TONTODONATI,1989-10-30,ITA,1,"Palalottici, Parma (ITA) (i)",2020-01-04,1095,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,693.13,ITA,30.0,2020
+205,11:33.42,,John RONAN,2007-11-02,AUS,1,"WA Athletics Stadium, Perth (AUS)",2025-11-21,1095,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,693.42,AUS,18.0,2025
+205,11:33.42,,Nick CHRISTIE,1991-09-29,USA,4,"Olympic Stadium, London (GBR)",2018-07-21,1095,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,693.42,GBR,26.0,2018
+207,11:33.43,,Dzmitry LUKYANCHUK,1997-10-02,BLR,2,"Athletics Hall, Gomel (BLR) (i)",2023-01-22,1095,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,693.43,BLR,25.0,2023
+208,11:33.61,,João VIEIRA,1976-02-20,POR,1,"Estádio Municipal de Pombal, Pombal (POR)",2020-07-11,1094,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,693.61,POR,44.0,2020
+209,11:33.63,,Pierre DE VILLIERS,1985-08-18,RSA,3,Cork (IRL),2011-07-02,1094,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,693.63,IRL,25.0,2011
+210,11:34.02,,Rukhfat GULMURADOV,2008-10-05,RUS,3,"Virazhi Arena, Togliatti (RUS) (i)",2024-02-16,1093,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,694.02,RUS,15.0,2024
+211,11:34.06,,Brendan BOYCE,1986-10-08,IRL,4,Cork (IRL),2016-06-28,1093,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,694.06,IRL,29.0,2016
+212,11:34.2h,,Hatem GHOULA,1973-06-07,TUN,,Potchefstroom (RSA),1999-02-05,1093,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,694.2,RSA,25.0,1999
+213,11:34.39,,Artur BRZOZOWSKI,1985-03-29,POL,4,Sosnowiec (POL),2011-09-21,1092,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,694.39,POL,26.0,2011
+214,11:34.48,,Miroslav ÚRADNÍK,1996-03-24,SVK,2,"x-bionic sphere, Šamorín (SVK)",2021-06-02,1092,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,694.48,SVK,25.0,2021
+215,11:34.49,,Miroslav ÚRADNÍK,1996-03-24,SVK,2,"x-bionic sphere, Šamorín (SVK)",2022-06-09,1092,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,694.49,SVK,26.0,2022
+216,11:34.53,,Johannes FRENZL,2001-09-22,GER,4,"Hartwig-Gauder-Halle, Erfurt (GER) (i)",2024-02-02,1092,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,694.53,GER,22.0,2024
+217,11:34.60,,Wayne SNYMAN,1985-03-08,RSA,2,Cork (IRL),2013-07-02,1092,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,694.6,IRL,28.0,2013
+218,11:34.62,,Daniel KING,1983-05-30,GBR,1,Bedford (GBR),2005-05-30,1092,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,694.62,GBR,22.0,2005
+219,11:34.70,,Dušan MAJDAN,1987-09-08,SVK,3,Dubnica nad Váhom (SVK),2014-08-30,1092,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,694.7,SVK,26.0,2014
+220,11:34.83,,Antonin BOYEZ,1984-11-09,FRA,1,Eaubonne (FRA) (i),2008-02-08,1091,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,694.83,FRA,23.0,2008
+221,11:35.0h,,Callum WILKINSON,1997-03-14,GBR,1,Sheffield (GBR) (i),2017-01-08,1091,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,695.0,GBR,19.0,2017
+222,11:35.34,,Nick CHRISTIE,1991-09-29,USA,1,"New York, NY (USA) (i)",2019-02-23,1090,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,695.34,USA,27.0,2019
+223,11:35.49,,Dominik ČERNÝ,1997-11-01,SVK,4,Šamorín (SVK),2016-06-11,1090,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,695.49,SVK,18.0,2016
+223,11:35.49,,Dominik ČERNÝ,1997-11-01,SVK,4,Šamorín (SVK),2016-06-04,1090,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,695.49,SVK,18.0,2016
+225,11:35.5h,,Andy PENN,1967-03-31,GBR,1,Leamington (GBR),1997-05-10,1090,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,695.5,GBR,30.0,1997
+226,11:35.60,,Aurélien QUINION,1993-01-27,FRA,1,Franconville (FRA),2019-06-15,1089,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,695.6,FRA,26.0,2019
+227,11:35.69,,Cian MCMANAMON,1991-10-11,IRL,5,Cork (IRL),2016-06-28,1089,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,695.69,IRL,24.0,2016
+228,11:35.78,,Patrik SPEVÁK,1994-07-30,SVK,4,Dubnica nad Váhom (SVK),2014-08-30,1089,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,695.78,SVK,20.0,2014
+229,11:35.88,,Hagen POHLE,1992-03-05,GER,4,Dessau (GER),2017-06-16,1089,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,695.88,GER,25.0,2017
+230,11:35.92,,Brendan BOYCE,1986-10-08,IRL,6,Cork (IRL),2014-07-08,1089,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,695.92,IRL,27.0,2014
+231,11:36.04,,Anton BILDZIUHA,2001-03-21,BLR,3,"Athletics Hall, Gomel (BLR) (i)",2023-01-22,1088,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,696.04,BLR,21.0,2023
+232,11:36.27,,Trevor BARRON,1992-09-30,USA,1,"Albuquerque, NM (USA) (i)",2012-02-25,1088,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,696.27,USA,19.0,2012
+233,11:36.31,,Jamie COSTIN,1977-06-01,IRL,4,Cork (IRL),2009-07-04,1088,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,696.31,IRL,32.0,2009
+234,11:36.33,,Andreas ERM,1976-03-12,GER,1,Pretoria (RSA),2001-03-23,1088,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,696.33,RSA,25.0,2001
+235,11:36.42,,Dušan MAJDAN,1987-09-08,SVK,4,Dubnica nad Váhom (SVK),2013-08-21,1088,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,696.42,SVK,25.0,2013
+236,11:36.46,,Erik TYSSE,1980-12-04,NOR,1,Bergen (NOR) (i),2016-01-23,1087,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,696.46,NOR,35.0,2016
+237,11:36.6h,,Miroslav BOŠKO,1968-09-26,SVK,1,Hlohovec (SVK) (i),1996-11-29,1087,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,696.6,SVK,28.0,1996
+238,11:36.64,,Massimo FIZIALETTI,1965-02-07,ITA,5,Formia (ITA),1997-07-13,1087,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,696.64,ITA,32.0,1997
+239,11:36.98,,Brendan BOYCE,1986-10-08,IRL,3,Cork (IRL),2013-07-02,1086,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,696.98,IRL,26.0,2013
+240,11:37.09,,John NUNN,1978-02-03,USA,1,"Portland, OR (USA) (i)",2016-03-12,1086,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,697.09,USA,38.0,2016
+241,11:37.10,,Dominik ČERNÝ,1997-11-01,SVK,1,"Športová hala Dukla, Banská Bystrica (SVK) (i)",2022-12-30,1086,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,697.1,SVK,25.0,2022
+242,11:37.2h,,Rhydian COWLEY,1991-01-04,AUS,1,"Meadowglen Stadium, Epping, Melbourne (AUS)",2021-12-18,1086,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,697.2,AUS,30.0,2021
+243,11:37.4h,,Dave MCGOVERN,1965-05-28,USA,1,"Allston, MA (USA) (i)",1997-02-08,1085,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,697.4,USA,31.0,1997
+244,11:37.5h,,Chris ERICKSON,1981-12-01,AUS,1,Canberra (AUS),2011-10-21,1085,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,697.5,AUS,29.0,2011
+245,11:37.55,,Bailey HOUSDEN,2007-10-04,AUS,1,"Queensland Sport and Athletics Centre, Nathan, Brisbane (AUS)",2024-03-09,1085,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,697.55,AUS,16.0,2024
+246,11:37.71,,Eddy RIVA,1973-03-17,FRA,3,Mondeville (FRA) (i),2004-01-31,1084,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,697.71,FRA,30.0,2004
+247,11:37.72,,Michal MORVAY,1996-08-19,SVK,3,"x-bionic sphere, Šamorín (SVK)",2020-09-11,1084,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,697.72,SVK,24.0,2020
+248,11:37.87,,Milan RÍZEK,1978-01-05,SVK,3,"x-bionic sphere, Šamorín (SVK)",2017-06-17,1084,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,697.87,SVK,39.0,2017
+249,11:37.88,,Radovan EĽKO,1980-04-04,SVK,3,Dubnica nad Váhom (SVK),2003-09-07,1084,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,697.88,SVK,23.0,2003
+250,11:38.0h,,Adam RUTTER,1986-12-24,AUS,1,Sydney (AUS),2004-10-23,1084,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,698.0,AUS,17.0,2004
+251,11:38.14,,Al HEPPNER,1974-04-24,USA,3,"San Diego, CA (USA) (i)",1999-01-24,1083,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,698.14,USA,24.0,1999
+252,11:38.16,,Alex WRIGHT,1990-12-19,GBR,1,Bedford (GBR),2010-05-31,1083,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,698.16,GBR,19.0,2010
+253,11:38.25,,Giorgio RUBINO,1986-04-15,ITA,6,"Emirates Arena, Glasgow (GBR) (i)",2018-02-25,1083,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,698.25,GBR,31.0,2018
+254,11:38.27,,Colin GRIFFIN,1982-08-03,IRL,4,Cork (IRL),2011-07-02,1083,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,698.27,IRL,28.0,2011
+255,11:38.37,,Rafał AUGUSTYN,1984-05-14,POL,3,Mikołow (POL),2014-05-25,1083,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,698.37,POL,30.0,2014
+256,11:38.47,,Cameron CORBISHLEY,1997-03-31,GBR,1,"Alexander Stadium, Birmingham (GBR)",2024-07-20,1083,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,698.47,GBR,27.0,2024
+257,11:38.48,,Alex SCHWAZER,1984-11-26,ITA,1,Orroli (ITA),2009-09-04,1083,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,698.48,ITA,24.0,2009
+258,11:38.51,,Cameron CORBISHLEY,1997-03-31,GBR,1,"National Indoor Athletics Centre, Sheffield (GBR) (i)",2025-01-19,1083,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,698.51,GBR,27.0,2025
+259,11:38.52,,Ivano BRUGNETTI,1976-09-01,ITA,2,Orroli (ITA),2009-09-04,1083,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,698.52,ITA,33.0,2009
+260,11:38.8h,,Liam MURPHY,1979-06-05,AUS,1,Adelaide (AUS),1999-11-13,1082,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,698.8,AUS,20.0,1999
+261,11:39.01,,Pierce O'CALLAGHAN,1975-12-05,IRL,1,Dublin (IRL),1999-07-18,1081,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,699.01,IRL,23.0,1999
+262,11:39.43,,Dominik ČERNÝ,1997-11-01,SVK,4,"x-bionic sphere, Šamorín (SVK)",2018-06-29,1080,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,699.43,SVK,20.0,2018
+263,11:39.5h,,Aleksandar RAKOVIĆ,1968-04-13,YUG,2,Hlohovec (SVK) (i),1996-11-29,1080,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,699.5,SVK,28.0,1996
+264,11:39.57,,Peter KORČOK,1974-08-12,SVK,4,Dubnica nad Váhom (SVK),2003-09-07,1080,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,699.57,SVK,29.0,2003
+265,11:39.75,,Cameron CORBISHLEY,1997-03-31,GBR,1,Cardiff (GBR) (i),2016-12-11,1080,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,699.75,GBR,19.0,2016
+266,11:39.80,,Marius ŽIŪKAS,1985-06-29,LTU,1,Vilnius (LTU) (i),2011-01-13,1079,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,699.8,LTU,25.0,2011
+266,11:39.8h,,Rhydian COWLEY,1991-01-04,AUS,1,Melbourne (AUS),2012-11-03,1079,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,699.8,AUS,21.0,2012
+268,11:39.87,,Callum WILKINSON,1997-03-14,GBR,2,Sheffield (GBR) (i),2016-01-10,1079,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,699.87,GBR,18.0,2016
+269,11:39.98,,Daniel MONFORT,2006-01-25,ESP,1,"Pistes d'atletisme Gaetà Huguet, Castellón (ESP)",2023-12-23,1079,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,699.98,ESP,17.0,2023
+270,11:40.12,,Vít HLAVÁČ,1997-02-26,CZE,3,"x-bionic sphere, Šamorín (SVK)",2022-06-09,1079,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,700.12,SVK,25.0,2022
+271,11:40.14,,Adam RUTTER,1986-12-24,AUS,2,Canberra (AUS),2004-11-27,1079,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,700.14,AUS,17.0,2004
+272,11:40.2h,,Pierre DE VILLIERS,1985-08-18,RSA,1,Germiston (RSA),2012-02-25,1078,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,700.2,RSA,26.0,2012
+273,11:40.21,,Aurélien QUINION,1993-01-27,FRA,1,"Stade Adolphe Cheron, St-Maur (FRA)",2021-06-09,1078,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,700.21,FRA,28.0,2021
+274,11:40.32,,Declan TINGAY,1999-02-06,AUS,1,Geelong (AUS),2016-12-17,1078,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,700.32,AUS,17.0,2016
+275,11:40.57,,Riccardo ORSONI,2000-01-20,ITA,8,"Stadio Olimpico, Roma (ITA)",2022-06-09,1078,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,700.57,ITA,22.0,2022
+276,11:40.74,,Mikita KALIADA,2000-07-15,BLR,1,"Athletics Hall, Gomel (BLR) (i)",2022-01-30,1077,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,700.74,BLR,21.0,2022
+277,11:40.75,,Tim SEAMAN,1972-05-14,USA,1,"Albuquerque, NM (USA) (i)",2014-02-23,1077,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,700.75,USA,41.0,2014
+278,11:40.95,,John NUNN,1978-02-03,USA,2,"Albuquerque, NM (USA) (i)",2014-02-23,1077,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,700.95,USA,36.0,2014
+279,11:41.17,,Dušan MAJDAN,1987-09-08,SVK,5,Šamorín (SVK),2016-06-11,1076,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,701.17,SVK,28.0,2016
+279,11:41.17,,Dušan MAJDAN,1987-09-08,SVK,5,Šamorín (SVK),2016-06-04,1076,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,701.17,SVK,28.0,2016
+281,11:41.18,,Tom BOSWORTH,1990-01-17,GBR,1,"Tonbridge School Athletics Track, Tonbridge (GBR)",2022-08-29,1076,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,701.18,GBR,32.0,2022
+282,11:41.3h,,Scott NELSON,1969-10-10,NZL,1,Melbourne (AUS),1996-03-24,1076,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,701.3,AUS,26.0,1996
+282,11:41.30,,Łukasz NOWAK,1988-12-18,POL,5,Sosnowiec (POL),2011-09-21,1076,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,701.3,POL,22.0,2011
+284,11:41.96,,Jakub JELONEK,1985-07-07,POL,2,Stalowa Wola (POL),2012-09-26,1074,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,701.96,POL,27.0,2012
+285,11:42.10,,Patrik NEMČOK,2003-06-13,SVK,3,"x-bionic sphere, Šamorín (SVK)",2021-06-02,1074,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,702.1,SVK,17.0,2021
+286,11:42.13,,Daniel CHAMOSA,1997-05-04,ESP,1,Pontevedra (ESP),2021-05-19,1074,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,702.13,ESP,24.0,2021
+287,11:42.28,,Milan RÍZEK,1978-01-05,SVK,5,Dubnica nad Váhom (SVK),2014-08-30,1074,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,702.28,SVK,36.0,2014
+288,11:42.5h,,Denis TRAUTMANN,1972-08-15,GER,1,Pretoria (RSA),2000-01-28,1073,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,702.5,RSA,27.0,2000
+289,11:42.6h,,Yevgeniy ZHDAKAYEV,2004-03-11,RUS,1,"Football and athletics Arena, Saransk (RUS) (i)",2020-12-27,1073,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,702.6,RUS,16.0,2020
+290,11:42.69,,John RONAN,2007-11-02,AUS,2,"WA Athletics Stadium, Perth (AUS)",2025-10-17,1073,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,702.69,AUS,17.0,2025
+291,11:42.7h,,Grzegorz SUDOŁ,1978-08-28,POL,2,Germiston (RSA),2012-02-25,1073,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,702.7,RSA,33.0,2012
+291,11:42.7h,,Damian O'MARA,,AUS,2,Sydney (AUS),1997-01-04,1073,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,702.7,AUS,,1997
+293,11:42.73,,Wojciech HALMAN,1990-01-10,POL,2,Spala (POL) (i),2012-01-15,1072,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,702.73,POL,22.0,2012
+294,11:42.97,,Rafał FEDACZYŃSKI,1980-12-03,POL,1,Gdansk (POL),2010-06-26,1072,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,702.97,POL,29.0,2010
+294,11:42.97,,Aliaksandr ZHDAN,2004-04-21,BLR,1,"Athletics Hall, Gomel (BLR) (i)",2023-02-23,1072,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,702.97,BLR,18.0,2023
+296,11:43.0h,,Sergey MELENTYEV,1976-12-05,RUS,1,Novokuznetsk (RUS) (i),1999-11-27,1072,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,703.0,RUS,22.0,1999
+297,11:43.08,,Matej TÓTH,1983-02-10,SVK,5,"x-bionic sphere, Šamorín (SVK)",2018-06-29,1072,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,703.08,SVK,35.0,2018
+297,11:43.08,,Adam RUTTER,1986-12-24,AUS,2,Canberra (AUS),2005-01-04,1072,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,703.08,AUS,18.0,2005
+299,11:43.28,,Jakub JELONEK,1985-07-07,POL,2,Cork (IRL),2012-07-17,1071,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,703.28,IRL,27.0,2012
+300,11:43.44,,Tom BOSWORTH,1990-01-17,GBR,2,Bedford (GBR),2010-05-31,1071,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,703.44,GBR,20.0,2010
+301,11:43.45,,Rafał FEDACZYŃSKI,1980-12-03,POL,2,"Atletická hala, Ostrava (CZE) (i)",2020-01-25,1071,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,703.45,CZE,39.0,2020
+302,11:43.46,,Nick CHRISTIE,1991-09-29,USA,1,"Armory Track&Field Center, New York, NY (USA) (i)",2022-01-29,1071,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,703.46,USA,30.0,2022
+303,11:43.70,,Andrey DENISOV,2006-07-07,RUS,3,"VGAFK Arena, Volgograd (RUS) (i)",2025-02-21,1070,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,703.7,RUS,18.0,2025
+304,11:43.94,,Jonathan HILBERT,1995-04-21,GER,3,"Hartwig-Gauder-Halle, Erfurt (GER) (i)",2022-02-01,1070,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,703.94,GER,26.0,2022
+305,11:44.03,,Luke HICKEY,1994-10-24,IRL,1,Waterford (IRL),2014-05-18,1069,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,704.03,IRL,19.0,2014
+306,11:44.08,,Cian MCMANAMON,1991-10-11,IRL,3,Dublin (IRL) (i),2017-02-05,1069,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,704.08,IRL,25.0,2017
+307,11:44.15,,Tom BOSWORTH,1990-01-17,GBR,1,Tonbridge (GBR),2019-04-22,1069,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,704.15,GBR,29.0,2019
+308,11:44.17,,Håvard HAUKENES,1990-04-22,NOR,2,Bergen (NOR),2015-05-28,1069,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,704.17,NOR,25.0,2015
+309,11:44.2h,,Dmitriy GRAMACHKOV,2003-05-09,RUS,1,Chelyabinsk (RUS) (i),2020-01-06,1069,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,704.2,RUS,16.0,2020
+310,11:44.28,,Jonathan HILBERT,1995-04-21,GER,1,"Steigerwaldstadion, Erfurt (GER)",2021-04-30,1069,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,704.28,GER,26.0,2021
+311,11:44.3h,,Peter KORČOK,1974-08-12,SVK,3,Hlohovec (SVK) (i),2001-11-30,1069,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,704.3,SVK,27.0,2001
+312,11:44.52,,Miklós SRP,1993-03-06,HUN,1,"Bregyó Athletic Center, Székesfehérvár (HUN)",2021-06-19,1068,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,704.52,HUN,28.0,2021
+313,11:44.75,,Antonin BOYEZ,1984-11-09,FRA,2,Angers (FRA),2017-09-09,1068,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,704.75,FRA,32.0,2017
+313,11:44.75,,Miroslav ÚRADNÍK,1996-03-24,SVK,4,"x-bionic sphere, Šamorín (SVK)",2017-06-17,1068,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,704.75,SVK,21.0,2017
+315,11:44.77,,Dawid TOMALA,1989-08-27,POL,1,Spala (POL) (i),2015-01-25,1068,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,704.77,POL,25.0,2015
+316,11:44.78,,Tom BOSWORTH,1990-01-17,GBR,2,Sheffield (GBR) (i),2014-01-04,1068,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,704.78,GBR,23.0,2014
+317,11:44.96,,James TREANOR,1993-04-12,IRL,7,Cork (IRL),2014-07-08,1067,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,704.96,IRL,21.0,2014
+318,11:44.98,,Cameron CORBISHLEY,1997-03-31,GBR,1,Manchester (GBR),2019-08-14,1067,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,704.98,GBR,22.0,2019
+319,11:45.0h,,Grigoriy SERGEYEV,1976-04-27,RUS,2,Novokuznetsk (RUS) (i),1999-11-27,1067,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,705.0,RUS,23.0,1999
+320,11:45.11,,Diego CAFAGNA,1975-07-09,ITA,3,Castelfidardo (ITA),1999-06-20,1067,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,705.11,ITA,23.0,1999
+321,11:45.15,,Maurizio DAMILANO,1957-04-06,ITA,1,Roma (ITA),1980-08-05,1067,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,705.15,ITA,23.0,1980
+322,11:45.20,,Diego GIAMPAOLO,2004-02-29,ITA,9,"Stadio Olimpico, Roma (ITA)",2022-06-09,1067,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,705.2,ITA,18.0,2022
+323,11:45.26,,Vít HLAVÁČ,1997-02-26,CZE,4,"x-bionic sphere, Šamorín (SVK)",2020-09-11,1066,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,705.26,SVK,23.0,2020
+324,11:45.44,,Leonardo DEI TOS,1992-04-27,ITA,1,Milano (ITA),2017-04-20,1066,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,705.44,ITA,24.0,2017
+325,11:45.58,,Fredrik RØTNES,1996-03-20,NOR,1,Tromsö (NOR) (i),2016-02-14,1066,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,705.58,NOR,19.0,2016
+326,11:45.68,,Christopher SNOOK,2000-01-14,GBR,1,"Arena Birmingham, Birmingham (GBR) (i)",2024-02-18,1065,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,705.68,GBR,24.0,2024
+327,11:45.69,,Matthew GLENNON,2003-11-14,IRL,1,"Morton Stadium, Santry, Dublin (IRL)",2025-04-12,1065,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,705.69,IRL,21.0,2025
+327,11:45.69,,Colin GRIFFIN,1982-08-03,IRL,2,Nenagh (IRL) (i),2005-01-15,1065,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,705.69,IRL,22.0,2005
+329,11:45.76,,John Cody RISCH,1990-09-18,USA,1,"Findlay, OH (USA) (i)",2019-01-25,1065,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,705.76,USA,28.0,2019
+330,11:45.8h,,Miloš BÁTOVSKÝ,1979-05-26,SVK,1,Hlohovec (SVK) (i),2002-11-29,1065,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,705.8,SVK,23.0,2002
+331,11:45.85,,João VIEIRA,1976-02-20,POR,1,"Estadio Universitario, Lisboa (POR)",2020-08-08,1065,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,705.85,POR,44.0,2020
+332,11:45.9h,,Robert IHLY,1963-05-05,GER,1,Roodeport (RSA),1996-01-26,1065,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,705.9,RSA,32.0,1996
+333,11:46.0h,,Martin PUPIŠ,1978-10-19,SVK,2,Hlohovec (SVK) (i),1999-11-28,1065,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,706.0,SVK,21.0,1999
+334,11:46.05,,Tom BOSWORTH,1990-01-17,GBR,3,Cork (IRL),2012-07-17,1065,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,706.05,IRL,22.0,2012
+334,11:46.05,,Håvard HAUKENES,1990-04-22,NOR,2,Bergen (NOR) (i),2015-01-24,1065,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,706.05,NOR,24.0,2015
+336,11:46.08,,Milan RÍZEK,1978-01-05,SVK,6,"x-bionic sphere, Šamorín (SVK)",2018-06-29,1065,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,706.08,SVK,40.0,2018
+337,11:46.09,,Uladzislau KARNEICHUK,2004-03-13,BLR,2,"Athletics Hall, Gomel (BLR) (i)",2023-02-23,1064,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,706.09,BLR,18.0,2023
+337,11:46.09,,Trond NYMARK,1976-12-28,NOR,1,Bergen (NOR),2011-06-02,1064,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,706.09,NOR,34.0,2011
+339,11:46.20,,Nick CHRISTIE,1991-09-29,USA,1,"Geneva, OH (USA) (i)",2015-03-06,0,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,706.2,USA,23.0,2015
+340,11:46.50,,John RONAN,2007-11-02,AUS,1,"WA Athletics Stadium, Perth (AUS)",2023-10-21,1064,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,706.5,AUS,15.0,2023
+341,11:46.66,,Mikita KALIADA,2000-07-15,BLR,1,Mogilyov (BLR) (i),2019-02-08,1063,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,706.66,BLR,18.0,2019
+342,11:46.7h,,Chris BRITZ,1963-01-13,RSA,2,Roodeport (RSA),1996-01-26,1063,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,706.7,RSA,33.0,1996
+342,11:46.70,,Brendan BOYCE,1986-10-08,IRL,2,Athlone (IRL) (i),2015-02-01,1063,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,706.7,IRL,28.0,2015
+344,11:46.92,,Jerome CAPRICE,1983-01-18,MRI,1,Athlone (IRL),2018-07-08,1063,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,706.92,IRL,35.0,2018
+345,11:47.09,,Dane BIRD-SMITH,1992-07-15,AUS,1,Brisbane (AUS),2010-06-27,1062,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,707.09,AUS,17.0,2010
+346,11:47.12,,Cameron CORBISHLEY,1997-03-31,GBR,1,Cardiff (GBR) (i),2015-12-13,1062,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,707.12,GBR,18.0,2015
+347,11:47.2h,,Jon GAWLEY,1980-05-09,AUS,2,Sydney (AUS),1999-01-16,1062,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,707.2,AUS,18.0,1999
+348,11:47.34,,Isaac BEACROFT,2007-07-18,AUS,1,"Barden Ridge Athletics Track, Sydney (AUS)",2022-11-12,1062,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,707.34,AUS,15.0,2022
+349,11:47.35,,Jakub JELONEK,1985-07-07,POL,2,Spala (POL) (i),2015-01-25,1062,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,707.35,POL,29.0,2015
+350,11:47.47,,Quentin REW,1984-07-16,NZL,1,Wellington (NZL),2014-11-01,1061,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,707.47,NZL,30.0,2014
+351,11:47.5h,,Kyle SWAN,1999-03-28,AUS,1,"Knox Athletic Track, Melbourne (AUS)",2021-12-18,1061,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,707.5,AUS,22.0,2021
+352,11:47.66,,Allen JAMES,1964-04-14,USA,1,"Allston, MA (USA) (i)",1997-01-25,1061,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,707.66,USA,32.0,1997
+353,11:47.78,,Declan TINGAY,1999-02-06,AUS,1,"WA Athletics Stadium, Perth (AUS)",2020-01-22,1060,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,707.78,AUS,20.0,2020
+354,11:47.80,,Pietro FIORINI,1967-03-11,ITA,1,Avezzano (ITA),1996-08-25,1060,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,707.8,ITA,29.0,1996
+355,11:47.97,,Dušan MAJDAN,1987-09-08,SVK,4,Dubnica nad Váhom (SVK),2012-08-26,1060,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,707.97,SVK,24.0,2012
+356,11:48.0h,,Andrey SAVIN,1977-02-26,RUS,3,Novokuznetsk (RUS) (i),1999-11-27,1060,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,708.0,RUS,22.0,1999
+357,11:48.07,,Cameron CORBISHLEY,1997-03-31,GBR,7,"Emirates Arena, Glasgow (GBR) (i)",2018-02-25,1060,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,708.07,GBR,20.0,2018
+358,11:48.11,,Mauro SPINADIN,,ITA,4,Castelfidardo (ITA),1999-06-20,1060,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,708.11,ITA,,1999
+359,11:48.19,,Lukáš GDULA,1991-12-06,CZE,6,Dubnica nad Váhom (SVK),2014-08-30,1060,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,708.19,SVK,22.0,2014
+360,11:48.28,,Maik BERGER,1979-02-17,GER,1,Halle (GER) (i),1999-01-31,1059,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,708.28,GER,19.0,1999
+361,11:48.38,,Benjamin THORNE,1993-03-19,CAN,5,"Olympic Stadium, London (GBR)",2018-07-21,1059,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,708.38,GBR,25.0,2018
+362,11:48.48,,Denis ERKIĆ,1971-07-24,BIH,2,Erfurt (GER) (i),1997-02-05,1059,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,708.48,GER,25.0,1997
+363,11:48.86,,Patryk ROGOWSKI,1989-04-11,POL,2,Gdansk (POL),2010-06-26,1058,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,708.86,POL,21.0,2010
+364,11:48.99,,Nathan MURPHY,,IRL,2,Waterford (IRL),2014-05-18,1058,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,708.99,IRL,,2014
+365,11:49.0h,,Vladyslav VDOVIN,2008-12-20,RUS,1,"Football and athletics Arena, Saransk (RUS) (i)",2023-09-24,1058,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,709.0,RUS,14.0,2023
+365,11:49.00,,Dane BIRD-SMITH,1992-07-15,AUS,1,Brisbane (AUS),2015-06-14,1058,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,709.0,AUS,22.0,2015
+367,11:49.10,,Christopher LINKE,1988-10-24,GER,1,Potchefstroom (RSA),2010-03-04,1057,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,709.1,RSA,21.0,2010
+368,11:49.25,,Emmanuel CORVERA,1993-03-25,USA,2,"New York, NY (USA) (i)",2019-02-23,1057,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,709.25,USA,25.0,2019
+369,11:49.29,,Jakub JELONEK,1985-07-07,POL,5,Šamorín (SVK),2019-06-15,1057,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,709.29,SVK,33.0,2019
+370,11:49.41,,Alex WRIGHT,1990-12-19,GBR,1,Bedford (GBR),2012-08-25,1057,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,709.41,GBR,21.0,2012
+371,11:49.46,,Oisin LANE,2002-06-12,IRL,1,"Dundrum South Dublin, Dublin (IRL)",2023-04-22,1057,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,709.46,IRL,20.0,2023
+372,11:49.5h,,Nick CHRISTIE,1991-09-29,USA,1,"San Diego, CA (USA)",2018-01-28,1056,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,709.5,USA,26.0,2018
+372,11:49.50,,Dušan MAJDAN,1987-09-08,SVK,2,Banská Bystrica (SVK) (i),2016-01-05,1056,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,709.5,SVK,28.0,2016
+374,11:49.53,,Cameron CORBISHLEY,1997-03-31,GBR,2,"Arena Birmingham, Birmingham (GBR) (i)",2025-02-23,1056,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,709.53,GBR,27.0,2025
+374,11:49.53,,Ian RAYSON,1988-02-04,AUS,1,Canberra (AUS),2014-01-09,1056,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,709.53,AUS,25.0,2014
+376,11:49.60,,Vít HLAVÁČ,1997-02-26,CZE,1,"Atletický stadion Turnov, Turnov (CZE)",2022-05-24,1056,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,709.6,CZE,25.0,2022
+377,11:49.7h,,Travis HARBOUR,,AUS,1,Melbourne (AUS),1997-02-01,1056,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,709.7,AUS,,1997
+378,11:49.72,,Anthony PETERS,1996-04-23,USA,1,"Johnson City, TN (USA) (i)",2017-03-03,0,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,709.72,USA,20.0,2017
+379,11:49.85,,Callum WILKINSON,1997-03-14,GBR,1,Manchester (GBR),2016-08-17,1056,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,709.85,GBR,19.0,2016
+380,11:49.9h,,Mikita KALIADA,2000-07-15,BLR,1,Brest (BLR) (i),2016-02-10,1055,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,709.9,BLR,15.0,2016
+381,11:49.93,,Brendan BOYCE,1986-10-08,IRL,3,Bedford (GBR),2010-05-31,1055,3000-metres-race-walk,race-walks,male,senior,3000-metres-race-walk,track,709.93,GBR,23.0,2010

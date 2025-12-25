@@ -80,88 +80,89 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 75,13.49,+0.1,Shunsuke IZUMIYA,26 JAN 2000,JPN,3,Napoli (ITA),12 JUL 2019,1160,110-metres-hurdles,hurdles,male,u20
 75,13.49,+0.2,Yuanjiang CHEN,27 JAN 2006,CHN,3,"Sports Center, Quzhou (CHN)",16 SEP 2024,1160,110-metres-hurdles,hurdles,male,u20
 75,13.49,+1.1,Jeremy KOGA,21 MAY 2007,JPN,1h1,"National Stadium, Tokyo (JPN)",04 JUL 2025,1160,110-metres-hurdles,hurdles,male,u20
-82,13.50,0.0,Xiang LIU,13 JUL 1983,CHN,3h1,Zagreb (CRO),08 JUL 2002,1158,110-metres-hurdles,hurdles,male,u20
-82,13.50,-1.7,Xiang LIU,13 JUL 1983,CHN,1,Tiantai (CHN),27 OCT 2002,1168,110-metres-hurdles,hurdles,male,u20
-82,13.50,+0.7,Jason RICHARDSON,04 APR 1986,USA,3,"Sacramento, CA (USA)",10 JUN 2005,1158,110-metres-hurdles,hurdles,male,u20
-82,13.50,+1.9,Dayron ROBLES,19 NOV 1986,CUB,4,Zaragoza (ESP),23 JUN 2005,1158,110-metres-hurdles,hurdles,male,u20
-82,13.50,+0.9,Yuanjiang CHEN,27 JAN 2006,CHN,1h4,Chongqing (CHN),15 MAY 2025,1158,110-metres-hurdles,hurdles,male,u20
-82,13.50,+1.1,Tyrone JACKSON,2006,USA,1h3,"CSU - Neta and Eddie DeRose Thunderbowl, Pueblo, CO (USA)",23 MAY 2025,1158,110-metres-hurdles,hurdles,male,u20
-88,13.51,-0.4,Renaldo NEHEMIAH,24 MAR 1959,USA,1,Formia (ITA),18 JUN 1978,1158,110-metres-hurdles,hurdles,male,u20
-88,13.51,+0.9,Staņislavs OLIJARS,22 MAR 1979,LAT,1,Valmiera (LAT),18 JUL 1998,1156,110-metres-hurdles,hurdles,male,u20
-88,13.51,-0.2,Staņislavs OLIJARS,22 MAR 1979,LAT,1,"Parc des Sports, Annecy (FRA)",02 AUG 1998,1157,110-metres-hurdles,hurdles,male,u20
-88,13.51,+1.1,Staņislavs OLIJARS,22 MAR 1979,LAT,2,Rieti (ITA),30 AUG 1998,1156,110-metres-hurdles,hurdles,male,u20
-88,13.51,+0.2,Xiang LIU,13 JUL 1983,CHN,4sf3,"Commonwealth Stadium, Edmonton (CAN)",08 AUG 2001,1156,110-metres-hurdles,hurdles,male,u20
-88,13.51,0.0,Wenjun XIE,11 JUL 1990,CHN,4,Beijing (CHN),24 MAY 2008,1156,110-metres-hurdles,hurdles,male,u20
-88,13.51,-0.8,Rachid MURATAKE,06 FEB 2002,JPN,4,"National Stadium, Tokyo (JPN)",09 MAY 2021,1160,110-metres-hurdles,hurdles,male,u20
-88,13.51,+0.9,Demaris WATERS,07 JUN 2004,USA,1,"Veterans Memorial Stadium, Clovis, CA (USA)",13 MAY 2023,1156,110-metres-hurdles,hurdles,male,u20
-96,13.52,-1.4,Renaldo NEHEMIAH,24 MAR 1959,USA,1,"Philadelphia, PA (USA)",29 APR 1978,1163,110-metres-hurdles,hurdles,male,u20
-96,13.52,+0.6,Ubeja ANDERSON,30 MAR 1974,USA,1,"Knoxville, TN (USA)",16 MAY 1993,1155,110-metres-hurdles,hurdles,male,u20
-96,13.52,-0.8,Rachid MURATAKE,06 FEB 2002,JPN,2h1,"Athletic Stadium, Tottori (JPN)",06 JUN 2021,1159,110-metres-hurdles,hurdles,male,u20
-96,13.52,+0.8,Jeremy KOGA,21 MAY 2007,JPN,5,"National Stadium, Tokyo (JPN)",05 JUL 2025,1155,110-metres-hurdles,hurdles,male,u20
-96,13.52,-0.2,Yuanjiang CHEN,27 JAN 2006,CHN,1h3,"Sports Center, Quzhou (CHN)",03 AUG 2025,1156,110-metres-hurdles,hurdles,male,u20
-101,13.53,-0.2,William ERESE,12 SEP 1976,NGR,1,Lagos (NGR),15 JUN 1995,1154,110-metres-hurdles,hurdles,male,u20
-101,13.53,+0.5,Kenneth FERGUSON,22 MAR 1984,USA,2,"Knoxville, TN (USA)",18 MAY 2003,1153,110-metres-hurdles,hurdles,male,u20
-101,13.53,+1.2,Wenjun XIE,11 JUL 1990,CHN,7,Shanghai (CHN),20 SEP 2009,1153,110-metres-hurdles,hurdles,male,u20
-101,13.53,+1.2,David OMOREGIE,01 NOV 1995,GBR,6,"Eugene, OR (USA)",26 JUL 2014,1153,110-metres-hurdles,hurdles,male,u20
-101,13.53,-2.5,Shunsuke IZUMIYA,26 JAN 2000,JPN,1h3,Fukuoka (JPN),29 JUN 2019,1168,110-metres-hurdles,hurdles,male,u20
-101,13.53,+1.1,Shunsuke IZUMIYA,26 JAN 2000,JPN,3,Fukui (JPN),17 AUG 2019,1153,110-metres-hurdles,hurdles,male,u20
-101,13.53,+1.7,Rachid MURATAKE,06 FEB 2002,JPN,4,"Municipal Stadium, Hiroshima (JPN)",29 APR 2021,1153,110-metres-hurdles,hurdles,male,u20
-101,13.53,+0.9,Yuanjiang CHEN,27 JAN 2006,CHN,4,"Kuishan Sports Center, Rizhao (CHN)",30 JUN 2024,1153,110-metres-hurdles,hurdles,male,u20
-109,13.54,+1.9,Wilhem BELOCIAN,22 JUN 1995,FRA,6,Sotteville-lès-Rouen (FRA),14 JUN 2014,1151,110-metres-hurdles,hurdles,male,u20
-109,13.54,-0.7,Shunsuke IZUMIYA,26 JAN 2000,JPN,2sf2,Fukuoka (JPN),29 JUN 2019,1155,110-metres-hurdles,hurdles,male,u20
-109,13.54,+1.0,Yander L. HERRERA,04 NOV 2006,CUB,2,"Estadio de Larrabide, Pamplona (ESP)",02 JUL 2025,1151,110-metres-hurdles,hurdles,male,u20
-109,13.54,+0.8,Yander L. HERRERA,04 NOV 2006,CUB,1h2,"Parque Olímpico Pista De Atletismo, Luque, Asunción (PAR)",21 AUG 2025,1151,110-metres-hurdles,hurdles,male,u20
-113,13.55,+2.0,Alejandro CASAÑAS,29 JAN 1954,CUB,1,Warszawa (POL),28 JUN 1972,1149,110-metres-hurdles,hurdles,male,u20
-113,13.55,,Arto BRYGGARE,26 MAY 1958,FIN,1,Oulu (FIN),10 JUL 1977,1149,110-metres-hurdles,hurdles,male,u20
-113,13.55,-0.1,Dayron ROBLES,19 NOV 1986,CUB,1h1,Windsor (CAN),29 JUL 2005,1149,110-metres-hurdles,hurdles,male,u20
-113,13.55,-1.0,Gregor TRABER,02 DEC 1992,GER,1er,Biberach (GER),28 JUN 2011,1155,110-metres-hurdles,hurdles,male,u20
-113,13.55,+1.4,Shunsuke IZUMIYA,26 JAN 2000,JPN,1,"Municipal Stadium, Machida (JPN)",14 APR 2019,1149,110-metres-hurdles,hurdles,male,u20
-113,13.55,+1.4,Rachid MURATAKE,06 FEB 2002,JPN,1sf3,"Prefectural Stadium, Kumagaya (JPN)",19 SEP 2021,1149,110-metres-hurdles,hurdles,male,u20
-113,13.55,-0.6,Daniel GORIOLA,29 MAR 2005,GBR,1,"Manchester Regional Arena, Manchester (GBR)",30 JUN 2024,1152,110-metres-hurdles,hurdles,male,u20
-113,13.55,-0.3,Yander L. HERRERA,04 NOV 2006,CUB,2h1,"Luzhniki, South Arena, Moskva (RUS)",08 JUN 2025,1150,110-metres-hurdles,hurdles,male,u20
-113,13.55,+0.7,Yander L. HERRERA,04 NOV 2006,CUB,1h3,"Altamira estadioa, Ordizia (ESP)",05 JUL 2025,1149,110-metres-hurdles,hurdles,male,u20
-122,13.56,+0.5,Frank BUSEMANN,26 FEB 1975,GER,1h2,Mannheim (GER),04 JUN 1994,1147,110-metres-hurdles,hurdles,male,u20
-122,13.56,-2.9,Xiang LIU,13 JUL 1983,CHN,1,Colombo (SRI),11 AUG 2002,1164,110-metres-hurdles,hurdles,male,u20
-122,13.56,-0.6,Aries MERRITT,24 JUL 1985,USA,1,"Stadio Zecchini, Grosseto (ITA)",18 JUL 2004,1150,110-metres-hurdles,hurdles,male,u20
-122,13.56,+0.2,Gregor TRABER,02 DEC 1992,GER,1f1,Mannheim (GER),02 JUL 2011,1147,110-metres-hurdles,hurdles,male,u20
-122,13.56,+0.6,Shunsuke IZUMIYA,26 JAN 2000,JPN,2f1,Hiroshima (JPN),28 APR 2019,1147,110-metres-hurdles,hurdles,male,u20
-122,13.56,+0.5,Andre KORBMACHER,30 APR 2005,USA,1f1,"Florida State University - Mike Long Track, Tallahassee, FL (USA)",22 MAR 2024,1147,110-metres-hurdles,hurdles,male,u20
-122,13.56,-0.5,Yuanjiang CHEN,27 JAN 2006,CHN,2h3,"Sports Center, Quzhou (CHN)",15 SEP 2024,1150,110-metres-hurdles,hurdles,male,u20
-122,13.56,-0.3,Jeremy KOGA,21 MAY 2007,JPN,3sf1,"National Stadium, Tokyo (JPN)",04 JUL 2025,1148,110-metres-hurdles,hurdles,male,u20
-122,13.56,-0.1,Bradley FRANKLIN,25 JUL 2006,USA,4sf1,"Hayward Field, Eugene, OR (USA)",03 AUG 2025,1147,110-metres-hurdles,hurdles,male,u20
-131,13.57,+1.4,Robert GAINES,14 APR 1957,USA,2sf1,"Eugene, OR (USA)",24 JUN 1976,1145,110-metres-hurdles,hurdles,male,u20
-131,13.57,+1.6,Dongpeng SHI,06 JAN 1982,CHN,2,Baoding (CHN),15 JUN 2001,1145,110-metres-hurdles,hurdles,male,u20
-131,13.57,+0.5,De'jour RUSSELL,01 APR 2000,JAM,2h2,Kingston (JAM),24 JUN 2017,1145,110-metres-hurdles,hurdles,male,u20
-131,13.57,+1.3,Tai BROWN,18 APR 2000,USA,3qf1,"Jacksonville, FL (USA)",25 MAY 2019,1145,110-metres-hurdles,hurdles,male,u20
-131,13.57,+1.4,Jesse HENDERSON,,USA,1pr2,"University of North Florda Jax Track at Hodges Stadium, Jacksonville, FL (USA)",26 MAY 2021,1145,110-metres-hurdles,hurdles,male,u20
-131,13.57,+1.1,Bradley FRANKLIN,25 JUL 2006,USA,6sf2,"Hayward Field, Eugene, OR (USA)",11 JUN 2025,1145,110-metres-hurdles,hurdles,male,u20
-131,13.57,-0.1,Yander L. HERRERA,04 NOV 2006,CUB,2,"Altamira estadioa, Ordizia (ESP)",05 JUL 2025,1145,110-metres-hurdles,hurdles,male,u20
-138,13.58,+0.7,Jerome CREWS,20 FEB 1977,GER,1h,Köln (GER),22 JUN 1996,1143,110-metres-hurdles,hurdles,male,u20
-138,13.58,-1.4,Staņislavs OLIJARS,22 MAR 1979,LAT,1,Malmö (SWE),07 JUN 1998,1151,110-metres-hurdles,hurdles,male,u20
-138,13.58,+1.7,Ladji DOUCOURÉ,28 MAR 1983,FRA,9,St-Etienne (FRA),30 JUN 2001,1143,110-metres-hurdles,hurdles,male,u20
-138,13.58,+1.9,Damion THOMAS,29 JUN 1999,JAM,2f1,"Baton Rouge, LA (USA)",21 APR 2018,1143,110-metres-hurdles,hurdles,male,u20
-138,13.58,+0.3,Shunsuke IZUMIYA,26 JAN 2000,JPN,3,Osaka (JPN),06 MAY 2019,1143,110-metres-hurdles,hurdles,male,u20
-138,13.58,+0.1,Rachid MURATAKE,06 FEB 2002,JPN,1h2,"Gion Stadium, Sagamihara (JPN)",20 MAY 2021,1143,110-metres-hurdles,hurdles,male,u20
-138,13.58,+1.6,Jayden SMITH,29 MAY 2003,USA,2pr2,"Billy Hayes T& F Complex, Bloomington, IN (USA)",25 MAY 2022,1143,110-metres-hurdles,hurdles,male,u20
-138,13.58,-0.1,Jeremy KOGA,21 MAY 2007,JPN,1sf1,"Kanseki Stadium, Utsunomiya (JPN)",16 JUN 2025,1143,110-metres-hurdles,hurdles,male,u20
-138,13.58,+1.1,Yuanjiang CHEN,27 JAN 2006,CHN,2h4,"Sports Center, Yulin (CHN)",12 JUL 2025,1143,110-metres-hurdles,hurdles,male,u20
-147,13.59,+0.4,Antwon HICKS,12 MAR 1983,USA,4h1,"Baton Rouge, LA (USA)",30 MAY 2002,1141,110-metres-hurdles,hurdles,male,u20
-147,13.59,+0.5,Antwon HICKS,12 MAR 1983,USA,1sf2,"National Stadium, Kingston (JAM)",20 JUL 2002,1141,110-metres-hurdles,hurdles,male,u20
-147,13.59,-0.7,Dayron ROBLES,19 NOV 1986,CUB,1h2,Nassau (BAH),10 JUL 2005,1145,110-metres-hurdles,hurdles,male,u20
-147,13.59,+1.8,Amere LATTIN,12 JUL 1997,USA,1,"Orlando, FL (USA)",15 MAY 2016,1141,110-metres-hurdles,hurdles,male,u20
-147,13.59,0.0,Eric EDWARDS,03 JAN 2000,USA,1,"Tucson, AZ (USA)",12 MAY 2019,1141,110-metres-hurdles,hurdles,male,u20
-147,13.59,+0.6,Shunsuke IZUMIYA,26 JAN 2000,JPN,1sf1,Sagamihara (JPN),24 MAY 2019,1141,110-metres-hurdles,hurdles,male,u20
-147,13.59,-0.6,Shunsuke IZUMIYA,26 JAN 2000,JPN,2sf2,Napoli (ITA),12 JUL 2019,1144,110-metres-hurdles,hurdles,male,u20
-147,13.59,+0.5,Rachid MURATAKE,06 FEB 2002,JPN,1h5,"Prefectural Stadium, Kumagaya (JPN)",18 SEP 2021,1141,110-metres-hurdles,hurdles,male,u20
-147,13.59,-0.7,Jeremy KOGA,21 MAY 2007,JPN,1,"Hakatanomori Athletic Stadium, Fukuoka (JPN)",01 AUG 2024,1145,110-metres-hurdles,hurdles,male,u20
-156,13.60,+1.2,Mark WHITSETT,,USA,3,"Philadelphia, PA (USA)",26 APR 1997,1140,110-metres-hurdles,hurdles,male,u20
-156,13.60,-0.1,Yuniel HERNÁNDEZ,28 MAR 1981,CUB,1,"E.Nacional, Santiago de Chile (CHI)",20 OCT 2000,1140,110-metres-hurdles,hurdles,male,u20
-156,13.60,+1.0,Antwon HICKS,12 MAR 1983,USA,1,"Palo Alto, CA (USA)",22 JUN 2002,1140,110-metres-hurdles,hurdles,male,u20
-156,13.60,-0.4,Kenneth FERGUSON,22 MAR 1984,USA,1,"Palo Alto, CA (USA)",22 JUN 2003,1142,110-metres-hurdles,hurdles,male,u20
-156,13.60,0.0,Kenneth FERGUSON,22 MAR 1984,USA,1,Bridgetown (BAR),18 JUL 2003,1140,110-metres-hurdles,hurdles,male,u20
-156,13.60,+0.4,Shunsuke IZUMIYA,26 JAN 2000,JPN,1f1,"Juntendo University Stadium, Inzai (JPN)",22 MAR 2019,1140,110-metres-hurdles,hurdles,male,u20
-156,13.60,+0.5,Eric EDWARDS,03 JAN 2000,USA,2qf3,"Sacramento, CA (USA)",25 MAY 2019,1140,110-metres-hurdles,hurdles,male,u20
-156,13.60,+1.9,Shunsuke IZUMIYA,26 JAN 2000,JPN,2,Hiratsuka (JPN),27 JUL 2019,1140,110-metres-hurdles,hurdles,male,u20
-156,13.60,+1.7,Demaris WATERS,07 JUN 2004,USA,1h2,"Veterans Memorial Stadium, Clovis, CA (USA)",11 MAY 2023,1140,110-metres-hurdles,hurdles,male,u20
-156,13.60,+0.5,Yuanjiang CHEN,27 JAN 2006,CHN,2h2,"Kuishan Sports Center, Rizhao (CHN)",28 JUN 2024,1140,110-metres-hurdles,hurdles,male,u20
-156,13.60,+1.7,Yander L. HERRERA,04 NOV 2006,CUB,1,"Parque Olímpico Pista De Atletismo, Luque, Asunción (PAR)",22 AUG 2025,1140,110-metres-hurdles,hurdles,male,u20
+75,13.49,+1.7,Yuanjiang CHEN,27 JAN 2006,CHN,1h3,"Guangdong Ersha Sports Training Center, Guangzhou (CHN)",19 NOV 2025,1160,110-metres-hurdles,hurdles,male,u20
+83,13.50,0.0,Xiang LIU,13 JUL 1983,CHN,3h1,Zagreb (CRO),08 JUL 2002,1158,110-metres-hurdles,hurdles,male,u20
+83,13.50,-1.7,Xiang LIU,13 JUL 1983,CHN,1,Tiantai (CHN),27 OCT 2002,1168,110-metres-hurdles,hurdles,male,u20
+83,13.50,+0.7,Jason RICHARDSON,04 APR 1986,USA,3,"Sacramento, CA (USA)",10 JUN 2005,1158,110-metres-hurdles,hurdles,male,u20
+83,13.50,+1.9,Dayron ROBLES,19 NOV 1986,CUB,4,Zaragoza (ESP),23 JUN 2005,1158,110-metres-hurdles,hurdles,male,u20
+83,13.50,+0.9,Yuanjiang CHEN,27 JAN 2006,CHN,1h4,Chongqing (CHN),15 MAY 2025,1158,110-metres-hurdles,hurdles,male,u20
+83,13.50,+1.1,Tyrone JACKSON,2006,USA,1h3,"CSU - Neta and Eddie DeRose Thunderbowl, Pueblo, CO (USA)",23 MAY 2025,1158,110-metres-hurdles,hurdles,male,u20
+89,13.51,-0.4,Renaldo NEHEMIAH,24 MAR 1959,USA,1,Formia (ITA),18 JUN 1978,1158,110-metres-hurdles,hurdles,male,u20
+89,13.51,+0.9,Staņislavs OLIJARS,22 MAR 1979,LAT,1,Valmiera (LAT),18 JUL 1998,1156,110-metres-hurdles,hurdles,male,u20
+89,13.51,-0.2,Staņislavs OLIJARS,22 MAR 1979,LAT,1,"Parc des Sports, Annecy (FRA)",02 AUG 1998,1157,110-metres-hurdles,hurdles,male,u20
+89,13.51,+1.1,Staņislavs OLIJARS,22 MAR 1979,LAT,2,Rieti (ITA),30 AUG 1998,1156,110-metres-hurdles,hurdles,male,u20
+89,13.51,+0.2,Xiang LIU,13 JUL 1983,CHN,4sf3,"Commonwealth Stadium, Edmonton (CAN)",08 AUG 2001,1156,110-metres-hurdles,hurdles,male,u20
+89,13.51,0.0,Wenjun XIE,11 JUL 1990,CHN,4,Beijing (CHN),24 MAY 2008,1156,110-metres-hurdles,hurdles,male,u20
+89,13.51,-0.8,Rachid MURATAKE,06 FEB 2002,JPN,4,"National Stadium, Tokyo (JPN)",09 MAY 2021,1160,110-metres-hurdles,hurdles,male,u20
+89,13.51,+0.9,Demaris WATERS,07 JUN 2004,USA,1,"Veterans Memorial Stadium, Clovis, CA (USA)",13 MAY 2023,1156,110-metres-hurdles,hurdles,male,u20
+97,13.52,-1.4,Renaldo NEHEMIAH,24 MAR 1959,USA,1,"Philadelphia, PA (USA)",29 APR 1978,1163,110-metres-hurdles,hurdles,male,u20
+97,13.52,+0.6,Ubeja ANDERSON,30 MAR 1974,USA,1,"Knoxville, TN (USA)",16 MAY 1993,1155,110-metres-hurdles,hurdles,male,u20
+97,13.52,-0.8,Rachid MURATAKE,06 FEB 2002,JPN,2h1,"Athletic Stadium, Tottori (JPN)",06 JUN 2021,1159,110-metres-hurdles,hurdles,male,u20
+97,13.52,+0.8,Jeremy KOGA,21 MAY 2007,JPN,5,"National Stadium, Tokyo (JPN)",05 JUL 2025,1155,110-metres-hurdles,hurdles,male,u20
+97,13.52,-0.2,Yuanjiang CHEN,27 JAN 2006,CHN,1h3,"Sports Center, Quzhou (CHN)",03 AUG 2025,1156,110-metres-hurdles,hurdles,male,u20
+102,13.53,-0.2,William ERESE,12 SEP 1976,NGR,1,Lagos (NGR),15 JUN 1995,1154,110-metres-hurdles,hurdles,male,u20
+102,13.53,+0.5,Kenneth FERGUSON,22 MAR 1984,USA,2,"Knoxville, TN (USA)",18 MAY 2003,1153,110-metres-hurdles,hurdles,male,u20
+102,13.53,+1.2,Wenjun XIE,11 JUL 1990,CHN,7,Shanghai (CHN),20 SEP 2009,1153,110-metres-hurdles,hurdles,male,u20
+102,13.53,+1.2,David OMOREGIE,01 NOV 1995,GBR,6,"Eugene, OR (USA)",26 JUL 2014,1153,110-metres-hurdles,hurdles,male,u20
+102,13.53,-2.5,Shunsuke IZUMIYA,26 JAN 2000,JPN,1h3,Fukuoka (JPN),29 JUN 2019,1168,110-metres-hurdles,hurdles,male,u20
+102,13.53,+1.1,Shunsuke IZUMIYA,26 JAN 2000,JPN,3,Fukui (JPN),17 AUG 2019,1153,110-metres-hurdles,hurdles,male,u20
+102,13.53,+1.7,Rachid MURATAKE,06 FEB 2002,JPN,4,"Municipal Stadium, Hiroshima (JPN)",29 APR 2021,1153,110-metres-hurdles,hurdles,male,u20
+102,13.53,+0.9,Yuanjiang CHEN,27 JAN 2006,CHN,4,"Kuishan Sports Center, Rizhao (CHN)",30 JUN 2024,1153,110-metres-hurdles,hurdles,male,u20
+110,13.54,+1.9,Wilhem BELOCIAN,22 JUN 1995,FRA,6,Sotteville-lès-Rouen (FRA),14 JUN 2014,1151,110-metres-hurdles,hurdles,male,u20
+110,13.54,-0.7,Shunsuke IZUMIYA,26 JAN 2000,JPN,2sf2,Fukuoka (JPN),29 JUN 2019,1155,110-metres-hurdles,hurdles,male,u20
+110,13.54,+1.0,Yander L. HERRERA,04 NOV 2006,CUB,2,"Estadio de Larrabide, Pamplona (ESP)",02 JUL 2025,1151,110-metres-hurdles,hurdles,male,u20
+110,13.54,+0.8,Yander L. HERRERA,04 NOV 2006,CUB,1h2,"Parque Olímpico Pista De Atletismo, Luque, Asunción (PAR)",21 AUG 2025,1151,110-metres-hurdles,hurdles,male,u20
+114,13.55,+2.0,Alejandro CASAÑAS,29 JAN 1954,CUB,1,Warszawa (POL),28 JUN 1972,1149,110-metres-hurdles,hurdles,male,u20
+114,13.55,,Arto BRYGGARE,26 MAY 1958,FIN,1,Oulu (FIN),10 JUL 1977,1149,110-metres-hurdles,hurdles,male,u20
+114,13.55,-0.1,Dayron ROBLES,19 NOV 1986,CUB,1h1,Windsor (CAN),29 JUL 2005,1149,110-metres-hurdles,hurdles,male,u20
+114,13.55,-1.0,Gregor TRABER,02 DEC 1992,GER,1er,Biberach (GER),28 JUN 2011,1155,110-metres-hurdles,hurdles,male,u20
+114,13.55,+1.4,Shunsuke IZUMIYA,26 JAN 2000,JPN,1,"Municipal Stadium, Machida (JPN)",14 APR 2019,1149,110-metres-hurdles,hurdles,male,u20
+114,13.55,+1.4,Rachid MURATAKE,06 FEB 2002,JPN,1sf3,"Prefectural Stadium, Kumagaya (JPN)",19 SEP 2021,1149,110-metres-hurdles,hurdles,male,u20
+114,13.55,-0.6,Daniel GORIOLA,29 MAR 2005,GBR,1,"Manchester Regional Arena, Manchester (GBR)",30 JUN 2024,1152,110-metres-hurdles,hurdles,male,u20
+114,13.55,-0.3,Yander L. HERRERA,04 NOV 2006,CUB,2h1,"Luzhniki, South Arena, Moskva (RUS)",08 JUN 2025,1150,110-metres-hurdles,hurdles,male,u20
+114,13.55,+0.7,Yander L. HERRERA,04 NOV 2006,CUB,1h3,"Altamira estadioa, Ordizia (ESP)",05 JUL 2025,1149,110-metres-hurdles,hurdles,male,u20
+123,13.56,+0.5,Frank BUSEMANN,26 FEB 1975,GER,1h2,Mannheim (GER),04 JUN 1994,1147,110-metres-hurdles,hurdles,male,u20
+123,13.56,-2.9,Xiang LIU,13 JUL 1983,CHN,1,Colombo (SRI),11 AUG 2002,1164,110-metres-hurdles,hurdles,male,u20
+123,13.56,-0.6,Aries MERRITT,24 JUL 1985,USA,1,"Stadio Zecchini, Grosseto (ITA)",18 JUL 2004,1150,110-metres-hurdles,hurdles,male,u20
+123,13.56,+0.2,Gregor TRABER,02 DEC 1992,GER,1f1,Mannheim (GER),02 JUL 2011,1147,110-metres-hurdles,hurdles,male,u20
+123,13.56,+0.6,Shunsuke IZUMIYA,26 JAN 2000,JPN,2f1,Hiroshima (JPN),28 APR 2019,1147,110-metres-hurdles,hurdles,male,u20
+123,13.56,+0.5,Andre KORBMACHER,30 APR 2005,USA,1f1,"Florida State University - Mike Long Track, Tallahassee, FL (USA)",22 MAR 2024,1147,110-metres-hurdles,hurdles,male,u20
+123,13.56,-0.5,Yuanjiang CHEN,27 JAN 2006,CHN,2h3,"Sports Center, Quzhou (CHN)",15 SEP 2024,1150,110-metres-hurdles,hurdles,male,u20
+123,13.56,-0.3,Jeremy KOGA,21 MAY 2007,JPN,3sf1,"National Stadium, Tokyo (JPN)",04 JUL 2025,1148,110-metres-hurdles,hurdles,male,u20
+123,13.56,-0.1,Bradley FRANKLIN,25 JUL 2006,USA,4sf1,"Hayward Field, Eugene, OR (USA)",03 AUG 2025,1147,110-metres-hurdles,hurdles,male,u20
+132,13.57,+1.4,Robert GAINES,14 APR 1957,USA,2sf1,"Eugene, OR (USA)",24 JUN 1976,1145,110-metres-hurdles,hurdles,male,u20
+132,13.57,+1.6,Dongpeng SHI,06 JAN 1982,CHN,2,Baoding (CHN),15 JUN 2001,1145,110-metres-hurdles,hurdles,male,u20
+132,13.57,+0.5,De'jour RUSSELL,01 APR 2000,JAM,2h2,Kingston (JAM),24 JUN 2017,1145,110-metres-hurdles,hurdles,male,u20
+132,13.57,+1.3,Tai BROWN,18 APR 2000,USA,3qf1,"Jacksonville, FL (USA)",25 MAY 2019,1145,110-metres-hurdles,hurdles,male,u20
+132,13.57,+1.4,Jesse HENDERSON,,USA,1pr2,"University of North Florda Jax Track at Hodges Stadium, Jacksonville, FL (USA)",26 MAY 2021,1145,110-metres-hurdles,hurdles,male,u20
+132,13.57,+1.1,Bradley FRANKLIN,25 JUL 2006,USA,6sf2,"Hayward Field, Eugene, OR (USA)",11 JUN 2025,1145,110-metres-hurdles,hurdles,male,u20
+132,13.57,-0.1,Yander L. HERRERA,04 NOV 2006,CUB,2,"Altamira estadioa, Ordizia (ESP)",05 JUL 2025,1145,110-metres-hurdles,hurdles,male,u20
+139,13.58,+0.7,Jerome CREWS,20 FEB 1977,GER,1h,Köln (GER),22 JUN 1996,1143,110-metres-hurdles,hurdles,male,u20
+139,13.58,-1.4,Staņislavs OLIJARS,22 MAR 1979,LAT,1,Malmö (SWE),07 JUN 1998,1151,110-metres-hurdles,hurdles,male,u20
+139,13.58,+1.7,Ladji DOUCOURÉ,28 MAR 1983,FRA,9,St-Etienne (FRA),30 JUN 2001,1143,110-metres-hurdles,hurdles,male,u20
+139,13.58,+1.9,Damion THOMAS,29 JUN 1999,JAM,2f1,"Baton Rouge, LA (USA)",21 APR 2018,1143,110-metres-hurdles,hurdles,male,u20
+139,13.58,+0.3,Shunsuke IZUMIYA,26 JAN 2000,JPN,3,Osaka (JPN),06 MAY 2019,1143,110-metres-hurdles,hurdles,male,u20
+139,13.58,+0.1,Rachid MURATAKE,06 FEB 2002,JPN,1h2,"Gion Stadium, Sagamihara (JPN)",20 MAY 2021,1143,110-metres-hurdles,hurdles,male,u20
+139,13.58,+1.6,Jayden SMITH,29 MAY 2003,USA,2pr2,"Billy Hayes T& F Complex, Bloomington, IN (USA)",25 MAY 2022,1143,110-metres-hurdles,hurdles,male,u20
+139,13.58,-0.1,Jeremy KOGA,21 MAY 2007,JPN,1sf1,"Kanseki Stadium, Utsunomiya (JPN)",16 JUN 2025,1143,110-metres-hurdles,hurdles,male,u20
+139,13.58,+1.1,Yuanjiang CHEN,27 JAN 2006,CHN,2h4,"Sports Center, Yulin (CHN)",12 JUL 2025,1143,110-metres-hurdles,hurdles,male,u20
+148,13.59,+0.4,Antwon HICKS,12 MAR 1983,USA,4h1,"Baton Rouge, LA (USA)",30 MAY 2002,1141,110-metres-hurdles,hurdles,male,u20
+148,13.59,+0.5,Antwon HICKS,12 MAR 1983,USA,1sf2,"National Stadium, Kingston (JAM)",20 JUL 2002,1141,110-metres-hurdles,hurdles,male,u20
+148,13.59,-0.7,Dayron ROBLES,19 NOV 1986,CUB,1h2,Nassau (BAH),10 JUL 2005,1145,110-metres-hurdles,hurdles,male,u20
+148,13.59,+1.8,Amere LATTIN,12 JUL 1997,USA,1,"Orlando, FL (USA)",15 MAY 2016,1141,110-metres-hurdles,hurdles,male,u20
+148,13.59,0.0,Eric EDWARDS,03 JAN 2000,USA,1,"Tucson, AZ (USA)",12 MAY 2019,1141,110-metres-hurdles,hurdles,male,u20
+148,13.59,+0.6,Shunsuke IZUMIYA,26 JAN 2000,JPN,1sf1,Sagamihara (JPN),24 MAY 2019,1141,110-metres-hurdles,hurdles,male,u20
+148,13.59,-0.6,Shunsuke IZUMIYA,26 JAN 2000,JPN,2sf2,Napoli (ITA),12 JUL 2019,1144,110-metres-hurdles,hurdles,male,u20
+148,13.59,+0.5,Rachid MURATAKE,06 FEB 2002,JPN,1h5,"Prefectural Stadium, Kumagaya (JPN)",18 SEP 2021,1141,110-metres-hurdles,hurdles,male,u20
+148,13.59,-0.7,Jeremy KOGA,21 MAY 2007,JPN,1,"Hakatanomori Athletic Stadium, Fukuoka (JPN)",01 AUG 2024,1145,110-metres-hurdles,hurdles,male,u20
+157,13.60,+1.2,Mark WHITSETT,,USA,3,"Philadelphia, PA (USA)",26 APR 1997,1140,110-metres-hurdles,hurdles,male,u20
+157,13.60,-0.1,Yuniel HERNÁNDEZ,28 MAR 1981,CUB,1,"E.Nacional, Santiago de Chile (CHI)",20 OCT 2000,1140,110-metres-hurdles,hurdles,male,u20
+157,13.60,+1.0,Antwon HICKS,12 MAR 1983,USA,1,"Palo Alto, CA (USA)",22 JUN 2002,1140,110-metres-hurdles,hurdles,male,u20
+157,13.60,-0.4,Kenneth FERGUSON,22 MAR 1984,USA,1,"Palo Alto, CA (USA)",22 JUN 2003,1142,110-metres-hurdles,hurdles,male,u20
+157,13.60,0.0,Kenneth FERGUSON,22 MAR 1984,USA,1,Bridgetown (BAR),18 JUL 2003,1140,110-metres-hurdles,hurdles,male,u20
+157,13.60,+0.4,Shunsuke IZUMIYA,26 JAN 2000,JPN,1f1,"Juntendo University Stadium, Inzai (JPN)",22 MAR 2019,1140,110-metres-hurdles,hurdles,male,u20
+157,13.60,+0.5,Eric EDWARDS,03 JAN 2000,USA,2qf3,"Sacramento, CA (USA)",25 MAY 2019,1140,110-metres-hurdles,hurdles,male,u20
+157,13.60,+1.9,Shunsuke IZUMIYA,26 JAN 2000,JPN,2,Hiratsuka (JPN),27 JUL 2019,1140,110-metres-hurdles,hurdles,male,u20
+157,13.60,+1.7,Demaris WATERS,07 JUN 2004,USA,1h2,"Veterans Memorial Stadium, Clovis, CA (USA)",11 MAY 2023,1140,110-metres-hurdles,hurdles,male,u20
+157,13.60,+0.5,Yuanjiang CHEN,27 JAN 2006,CHN,2h2,"Kuishan Sports Center, Rizhao (CHN)",28 JUN 2024,1140,110-metres-hurdles,hurdles,male,u20
+157,13.60,+1.7,Yander L. HERRERA,04 NOV 2006,CUB,1,"Parque Olímpico Pista De Atletismo, Luque, Asunción (PAR)",22 AUG 2025,1140,110-metres-hurdles,hurdles,male,u20

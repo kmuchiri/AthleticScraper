@@ -6,348 +6,357 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 5,36.46,,Linsey MCDONALD,12 FEB 1964,GBR,2,London (GBR),13 JUL 1980,1150,300-metres,sprints,female,u20
 6,36.56,,Candace HILL,11 FEB 1999,USA,1f1,"Albuquerque, NM (USA) (i)",04 MAR 2017,1187,300-metres,sprints,female,u20
 7,36.67,,Francena MCCORORY,20 OCT 1988,USA,1,"Blacksburg, VA (USA) (i)",12 JAN 2007,1181,300-metres,sprints,female,u20
-8,36.73,,Mariana FLOREA,29 AUG 1976,ROU,,Bucureşti (ROU),23 MAY 1993,1135,300-metres,sprints,female,u20
-8,36.73,,Shawnti JACKSON,02 MAY 2005,USA,1,"Armory Track&Field Center, New York, NY (USA) (i)",28 JAN 2023,1178,300-metres,sprints,female,u20
-10,36.77,,Agata ZUPIN,17 MAR 1998,SLO,1,Domžale (SLO),30 AUG 2017,1132,300-metres,sprints,female,u20
-10,36.77,,Zaya AKINS,30 AUG 2005,USA,2f1,"Clemson Indoor Track & Field Complex, Clemson, SC (USA) (i)",08 DEC 2023,1176,300-metres,sprints,female,u20
-12,36.82,,Sydney MCLAUGHLIN,07 AUG 1999,USA,1f1,"New York, NY (USA) (i)",17 FEB 2017,1173,300-metres,sprints,female,u20
-12,36.82,,Wiktoria GAJOSZ,06 JUL 2006,POL,1f1,"Stadion Zygmunta Szelesta, Warszawa (POL)",06 JUL 2024,1130,300-metres,sprints,female,u20
-14,36.86,,Candace HILL,11 FEB 1999,USA,2f1,"Clemson, SC (USA) (i)",07 JAN 2017,1171,300-metres,sprints,female,u20
-15,36.87,,Cathy FREEMAN,16 FEB 1973,AUS,2,Gateshead (GBR),17 JUL 1992,1127,300-metres,sprints,female,u20
-15,36.87,,Mariana FLOREA,29 AUG 1976,ROU,1,Southampton (GBR),06 JUN 1993,1127,300-metres,sprints,female,u20
-17,36.92,,Bukola ABOGUNLOKO,18 AUG 1994,NGR,1,Shagamu (NGR),19 FEB 2011,1124,300-metres,sprints,female,u20
-18,36.95,,Shawnti JACKSON,02 MAY 2005,USA,1f8,"Virginia Beach Sports Center, Virginia Beach, VA (USA) (i)",14 JAN 2022,1166,300-metres,sprints,female,u20
-19,36.96,,Francena MCCORORY,20 OCT 1988,USA,1,"Rector Fieldhouse, Blacksburg, VA (USA) (i)",28 JAN 2006,1165,300-metres,sprints,female,u20
-19,36.96,,Elise COOPER,07 FEB 2007,USA,1f6,"Virginia Beach Sports Center, Virginia Beach, VA (USA) (i)",18 JAN 2025,1165,300-metres,sprints,female,u20
-21,36.97,,Adaejah HODGE,21 MAR 2006,IVB,1,"Virginia Beach Sports Center, Virginia Beach, VA (USA) (i)",12 JAN 2024,1165,300-metres,sprints,female,u20
-22,37.00,,Candace HILL,11 FEB 1999,USA,1f1,"Clemson, SC (USA) (i)",14 JAN 2017,1163,300-metres,sprints,female,u20
-22,37.00,,Sydney SUTTON,11 NOV 2006,USA,2,"Ott Center for Track & Field, Philadelphia, PA (USA) (i)",01 MAR 2025,1163,300-metres,sprints,female,u20
-24,37.04,,Sydney SUTTON,11 NOV 2006,USA,1f3,"Armory Track&Field Center, New York, NY (USA) (i)",08 FEB 2025,1161,300-metres,sprints,female,u20
-25,37.06,,Laila OWENS,2002,USA,1f9,"Randal Tyson Indoor Center, Fayetteville, AR (USA) (i)",03 DEC 2021,1160,300-metres,sprints,female,u20
-26,37.08,,Symone MASON,31 AUG 1999,USA,1,"Hallandale, FL (USA)",11 FEB 2017,1115,300-metres,sprints,female,u20
-27,37.09,,Sydney MCLAUGHLIN,07 AUG 1999,USA,4,"New York, NY (USA) (i)",11 FEB 2017,1158,300-metres,sprints,female,u20
-28,37.11,,Gina LÜCKENKEMPER,21 NOV 1996,GER,1f2,Pliezhausen (GER),17 MAY 2015,1113,300-metres,sprints,female,u20
-28,37.11,,Sydney MCLAUGHLIN,07 AUG 1999,USA,1,"New York, NY (USA) (i)",14 JAN 2017,1157,300-metres,sprints,female,u20
-30,37.12,,Madison WHYTE,17 OCT 2004,USA,1,"Armory Track&Field Center, New York, NY (USA) (i)",11 FEB 2023,1156,300-metres,sprints,female,u20
-31,37.13,,Sa'de WILLIAMS,28 FEB 1989,USA,1,"Eugene, OR (USA)",08 AUG 2006,1112,300-metres,sprints,female,u20
-32,37.17,,Christina BRENNAN,27 MAR 1995,CAN,1f5,Ottawa (CAN),07 AUG 2010,1110,300-metres,sprints,female,u20
-32,37.17,,Elisa VALENSIN,01 JAN 2007,ITA,1f1,"Campo Sportivo Gaetano Scirea, Cernusco Sul Naviglio (ITA)",04 MAY 2025,1110,300-metres,sprints,female,u20
-34,37.18,,Skylar BRAZZELL,,USA,2f3,"Armory Track&Field Center, New York, NY (USA) (i)",08 FEB 2025,1153,300-metres,sprints,female,u20
-35,37.25,,Hima DAS,09 JAN 2000,IND,1f1,Ustí Nad Orlicí (CZE),17 AUG 2019,1106,300-metres,sprints,female,u20
-35,37.25,,Zaya AKINS,30 AUG 2005,USA,2f1,"Clemson Indoor Track & Field Complex, Clemson, SC (USA) (i)",06 DEC 2024,1149,300-metres,sprints,female,u20
-37,37.26,,Kadecia BAIRD,24 FEB 1995,GUY,2f2,"New York, NY (USA) (i)",24 JAN 2014,1148,300-metres,sprints,female,u20
-38,37.31,,Lurdes Gloria MANUEL,12 JUL 2005,CZE,2f2,"Atletická hala Otakara Jandery, Praha (CZE) (i)",23 JAN 2024,1146,300-metres,sprints,female,u20
-39,37.32,,Elise COOPER,07 FEB 2007,USA,1f1,"Ocean Breeze Athl. Complex, New York, NY (USA) (i)",24 FEB 2024,1145,300-metres,sprints,female,u20
-40,37.33,,Rosemary OKAFOR,22 MAY 1982,NGR,3,Sydney (AUS),11 SEP 2000,1101,300-metres,sprints,female,u20
-40,37.33,,Kornelia LESIEWICZ,14 AUG 2003,POL,1f1,"Arena, Toruń (POL) (i)",06 FEB 2021,1145,300-metres,sprints,female,u20
-42,37.34,,Alexis HOLMES,28 JAN 2000,USA,1f1,"State College, PA (USA) (i)",08 DEC 2018,1144,300-metres,sprints,female,u20
-43,37.35,,Zita SZENTGYÖRGYI,13 NOV 2006,HUN,1f1,"MATE Atlétika Centrum, Gödöllő (HUN)",27 APR 2025,1100,300-metres,sprints,female,u20
-44,37.36,,Athing MU,08 JUN 2002,USA,1f2,"Liberty Indoor Complex, Lynchburg, VA (USA) (i)",18 JAN 2020,1143,300-metres,sprints,female,u20
-45,37.38,,Kayla DAVIS,21 DEC 2003,USA,2f2,"Liberty Indoor Complex, Lynchburg, VA (USA) (i)",18 JAN 2020,1142,300-metres,sprints,female,u20
-46,37.39,,Sydney SUTTON,11 NOV 2006,USA,2,"Virginia Beach Sports Center, Virginia Beach, VA (USA) (i)",12 JAN 2024,1141,300-metres,sprints,female,u20
-46,37.39,,Aniyah KITT,,USA,1f4,"Clemson Indoor Track & Field Complex, Clemson, SC (USA) (i)",06 DEC 2024,1141,300-metres,sprints,female,u20
-48,37.41,,Bendere OBOYA,17 APR 2000,AUS,1f1,Sydney (AUS),09 JUN 2019,1097,300-metres,sprints,female,u20
-49,37.42,,Angela BAXTER,10 OCT 1963,GBR,1,Brisbane (AUS),25 SEP 1982,1096,300-metres,sprints,female,u20
-49,37.42,,Candace HILL,11 FEB 1999,USA,3,"Reggie Lewis Center, Boston, MA (USA) (i)",28 JAN 2017,1140,300-metres,sprints,female,u20
-51,37.45,,Madelief VAN LEUR,19 APR 2007,NED,1f2,"Sportpark Ter Specke, Lisse (NED)",10 MAY 2025,1094,300-metres,sprints,female,u20
-52,37.46,,Kayla DAVIS,21 DEC 2003,USA,3f2,"New York, NY (USA) (i)",23 FEB 2019,1138,300-metres,sprints,female,u20
-53,37.49,,Sydney MCLAUGHLIN,07 AUG 1999,USA,1f2,"New York, NY (USA) (i)",31 JAN 2015,1136,300-metres,sprints,female,u20
-54,37.50,,Diane DIXON,23 SEP 1964,USA,1,"Normal, IL (USA) (i)",19 FEB 1983,1135,300-metres,sprints,female,u20
-55,37.51,,Agata ZUPIN,17 MAR 1998,SLO,1f1,Domžale (SLO),09 APR 2017,1091,300-metres,sprints,female,u20
-55,37.51,,Sydney SUTTON,11 NOV 2006,USA,1f3,"Armory Track&Field Center, New York, NY (USA) (i)",11 FEB 2024,1135,300-metres,sprints,female,u20
-57,37.53,,Britton WILSON,13 NOV 2000,USA,1f2,"New York, NY (USA) (i)",09 FEB 2019,1134,300-metres,sprints,female,u20
-58,37.54,,Kadecia BAIRD,24 FEB 1995,GUY,1,"New York, NY (USA) (i)",02 FEB 2013,1133,300-metres,sprints,female,u20
-58,37.54,,Tilde JOHANSSON,05 JAN 2001,SWE,1f1,Göteborg (SWE),03 JUL 2016,1089,300-metres,sprints,female,u20
-60,37.55,,Brandi CROSS,20 JAN 1988,USA,2,"Eugene, OR (USA)",08 AUG 2006,1089,300-metres,sprints,female,u20
-60,37.55,,Ayomide FOLORUNSO,17 OCT 1996,ITA,1f1,Rieti (ITA),25 APR 2015,1089,300-metres,sprints,female,u20
-62,37.56,,Olivia TAURO,11 JUN 1990,AUS,1f2,Sydney (AUS),19 DEC 2009,1088,300-metres,sprints,female,u20
-62,37.56,,Yasmin GIGER,06 NOV 1999,SUI,1,Langenthal (SUI),02 AUG 2018,1088,300-metres,sprints,female,u20
-62,37.56,,Skyler FRANKLIN,24 JUL 2007,USA,1f2,"Armory Track&Field Center, New York, NY (USA) (i)",11 FEB 2024,1132,300-metres,sprints,female,u20
-65,37.59,,Shana COX,22 JAN 1985,USA,1,"New York, NY (USA) (i)",21 DEC 2002,1130,300-metres,sprints,female,u20
-65,37.59,,Virginie MICHANOL,18 JUN 1985,FRA,5,Evry-Bondoufle (FRA),17 AUG 2003,1087,300-metres,sprints,female,u20
-65,37.59,,Cheriece HYLTON,12 DEC 1996,GBR,1,Ashford (GBR),25 MAY 2013,1087,300-metres,sprints,female,u20
-68,37.60,,Francena MCCORORY,20 OCT 1988,USA,1,"New York, NY (USA) (i)",18 DEC 2004,1130,300-metres,sprints,female,u20
-68,37.60,,Charlotte HENRICH,30 AUG 2006,GBR,4,"Utilita Arena Birmingham, Birmingham (GBR) (i)",15 FEB 2025,1130,300-metres,sprints,female,u20
-70,37.62,,Falilat OGUNKOYA-OSHEKU,05 DEC 1968,NGR,2f2,"Gainesville, FL (USA) (i)",01 MAR 1987,1129,300-metres,sprints,female,u20
-71,37.63,,Jan'Taijah JONES,15 MAR 2001,USA,1f1,"Hallandale, FL (USA)",10 FEB 2018,1084,300-metres,sprints,female,u20
-72,37.64,,Natasha HASTINGS,23 JUL 1986,USA,1,"New York, NY (USA) (i)",26 DEC 2004,1128,300-metres,sprints,female,u20
-72,37.64,,Viwe JINGQI,17 FEB 2005,RSA,1,"McArthur Stadium, Potchefstroom (RSA)",06 FEB 2024,1084,300-metres,sprints,female,u20
-74,37.65,,Falilat OGUNKOYA-OSHEKU,05 DEC 1968,NGR,2,"Gainesville, FL (USA) (i)",08 FEB 1987,1127,300-metres,sprints,female,u20
-74,37.65,,Tiandra PONTEEN,09 NOV 1984,SKN,1,"Clemson, SC (USA) (i)",06 DEC 2003,1127,300-metres,sprints,female,u20
-76,37.66,,Jessica BEARD,08 JAN 1989,USA,3,"Eugene, OR (USA)",08 AUG 2006,1083,300-metres,sprints,female,u20
-76,37.66,,Zita SZENTGYÖRGYI,13 NOV 2006,HUN,1f1,"Atlétikai Centrum, Nyíregyháza (HUN) (i)",19 JAN 2025,1127,300-metres,sprints,female,u20
-76,37.66,,Terezie TÁBORSKÁ,11 FEB 2006,CZE,1,"Městský stadion Střelnice, Domažlice (CZE)",11 MAY 2025,1083,300-metres,sprints,female,u20
-79,37.67,,Talitha DIGGS,22 AUG 2002,USA,1f1,"Armory Track&Field Center, New York, NY (USA) (i)",08 FEB 2020,1126,300-metres,sprints,female,u20
-79,37.67,,Henriette JÆGER,30 JUN 2003,NOR,1,"Nye Skarpsno Arena, Moelv (NOR)",11 SEP 2022,1082,300-metres,sprints,female,u20
-81,37.69,,Mona MAYER,13 SEP 2001,GER,2f1,"Stadion v Poohří, Cheb (CZE)",27 AUG 2020,1081,300-metres,sprints,female,u20
-82,37.70,,Kayla DAVIS,21 DEC 2003,USA,1f16,"JDL Fast Track, Winston Salem, NC (USA) (i)",11 JAN 2020,1124,300-metres,sprints,female,u20
-83,37.71,,Candace HILL,11 FEB 1999,USA,2f1,"Clemson, SC (USA) (i)",08 DEC 2018,1124,300-metres,sprints,female,u20
-83,37.71,,Britton WILSON,13 NOV 2000,USA,1f5,"Lynchburg, VA (USA) (i)",18 JAN 2019,1124,300-metres,sprints,female,u20
-85,37.72,,Amy SPENCER,19 SEP 1985,GBR,1,Birmingham (GBR) (i),24 FEB 2002,1123,300-metres,sprints,female,u20
-86,37.73,,Lara-Noelle STEINBRECHER,10 JAN 2003,GER,3f1,"Schönbuchstadion, Pliezhausen (GER)",08 MAY 2021,1079,300-metres,sprints,female,u20
-86,37.73,,Aiha YAMAGATA,11 OCT 2005,JPN,1,"Prefectural Stadium, Kagoshima (JPN)",14 OCT 2023,1079,300-metres,sprints,female,u20
-88,37.74,,Candace HILL,11 FEB 1999,USA,3h2,"Albuquerque, NM (USA) (i)",04 MAR 2017,1122,300-metres,sprints,female,u20
-88,37.74,,Kayla DAVIS,21 DEC 2003,USA,2h2,"New York, NY (USA) (i)",23 FEB 2019,1122,300-metres,sprints,female,u20
-90,37.75,,Patrycja WYCISZKIEWICZ,08 JAN 1994,POL,1f6,Poznan (POL),27 APR 2013,1078,300-metres,sprints,female,u20
-90,37.75,,Kaniya JOHNSON,2003,USA,1f4,"Armory Track&Field Center, New York, NY (USA) (i)",29 JAN 2022,1122,300-metres,sprints,female,u20
-92,37.76,,Kimberly HARRIS,11 JUL 2002,USA,1f6,"Atlanta, GA (USA)",02 MAR 2019,1077,300-metres,sprints,female,u20
-92,37.76,,Isabella WHITTAKER,15 FEB 2002,USA,2f1,"Armory Track&Field Center, New York, NY (USA) (i)",08 FEB 2020,1121,300-metres,sprints,female,u20
-94,37.77,,Maren SCHULZE,20 MAR 1982,GER,1,Duisburg (GER),09 JUL 1999,1077,300-metres,sprints,female,u20
-94,37.77,,Natasha HASTINGS,23 JUL 1986,USA,1,"New York, NY (USA) (i)",10 FEB 2002,1121,300-metres,sprints,female,u20
-96,37.78,,Madelief VAN LEUR,19 APR 2007,NED,2f2,"Sportpark Ter Specke, Lisse (NED)",11 MAY 2024,1076,300-metres,sprints,female,u20
-96,37.78,,Shanoya Mikalia DOUGLAS,11 SEP 2007,JAM,1f1,"Ocean Breeze Athl. Complex, New York, NY (USA) (i)",24 JAN 2025,1120,300-metres,sprints,female,u20
-98,37.79,,Amber ANNING,18 NOV 2000,GBR,1,Loughborough (GBR),01 SEP 2017,1076,300-metres,sprints,female,u20
-98,37.79,,Ellie BEER,03 JAN 2003,AUS,1,"Barlow Park, Cairns (AUS)",17 JUL 2021,1076,300-metres,sprints,female,u20
-100,37.80,,Braelyn BAKER,20 JAN 2006,USA,1f2,"Rector Fieldhouse, Blacksburg, VA (USA) (i)",17 JAN 2025,1119,300-metres,sprints,female,u20
-101,37.81,,Angel PERKINS-MCLEAN,05 OCT 1984,USA,1,"Tucson, AZ (USA)",07 DEC 2002,1075,300-metres,sprints,female,u20
-101,37.81,,Ella RÄSÄNEN,27 JAN 1994,FIN,1f8,Helsinki (FIN) (i),27 FEB 2011,1118,300-metres,sprints,female,u20
-101,37.81,,Madison WHYTE,17 OCT 2004,USA,1f4,"Liberty Indoor Complex, Lynchburg, VA (USA) (i)",03 MAR 2020,1118,300-metres,sprints,female,u20
-101,37.81,,Aiha YAMAGATA,11 OCT 2005,JPN,1h2,"Prefectural Stadium, Kagoshima (JPN)",13 OCT 2023,1075,300-metres,sprints,female,u20
-105,37.84,,Doris JACOB,16 DEC 1981,NGR,8,Sydney (AUS),11 SEP 2000,1073,300-metres,sprints,female,u20
-105,37.84,,Jessica YOUNG-WARREN,06 APR 1987,USA,4,"Eugene, OR (USA)",08 AUG 2006,1073,300-metres,sprints,female,u20
-105,37.84,,Alexis HOLMES,28 JAN 2000,USA,1f2,"Nutter Fieldhouse, Lexington, KY (USA) (i)",06 DEC 2019,0,300-metres,sprints,female,u20
-105,37.84,,Sophie RAMBO,,USA,1f2,"Armory Track&Field Center, New York, NY (USA) (i)",08 FEB 2025,1117,300-metres,sprints,female,u20
-109,37.85,,Tiandra PONTEEN,09 NOV 1984,SKN,1,"Blacksburg, VA (USA) (i)",01 FEB 2003,1116,300-metres,sprints,female,u20
-109,37.85,,Ella RÄSÄNEN,27 JAN 1994,FIN,1,Jyväskylä (FIN),13 AUG 2011,1072,300-metres,sprints,female,u20
-109,37.85,,Nenah DE CONINCK,02 SEP 1996,BEL,1,Sint-Niklaas (BEL),25 AUG 2015,1072,300-metres,sprints,female,u20
-109,37.85,,Dajour MILES,25 JUL 2001,USA,1f1,"Nutter Fieldhouse, Lexington, KY (USA) (i)",06 DEC 2019,0,300-metres,sprints,female,u20
-113,37.86,,Maicel MALONE-WALLACE,12 JUN 1969,USA,1,"New Haven, CT (USA) (i)",16 MAR 1986,1116,300-metres,sprints,female,u20
-113,37.86,,Barbora MALÍKOVÁ,30 DEC 2001,CZE,1,"Mestský Stadion, Ostrava (CZE)",13 JUN 2018,1072,300-metres,sprints,female,u20
-115,37.88,,Tasha DOWNING,05 JUL 1970,USA,2,"New Haven, CT (USA) (i)",16 MAR 1986,1115,300-metres,sprints,female,u20
-115,37.88,,Kaylie VAN OUDTSHOORN,30 MAR 2007,RSA,1f2,"UJ Stadium, Johannesburg (RSA)",30 NOV 2024,1071,300-metres,sprints,female,u20
-115,37.88,,Haru BALOGUN,10 FEB 2009,NGR,1f1,"Prefectural Stadium, Ise (JPN)",19 OCT 2025,1071,300-metres,sprints,female,u20
-118,37.89,,Seika AOYAMA,01 MAY 1996,JPN,1,Izumo (JPN),21 APR 2013,1070,300-metres,sprints,female,u20
-118,37.89,,Josie DONELSON,16 MAR 2006,USA,3,"Virginia Beach Sports Center, Virginia Beach, VA (USA) (i)",12 JAN 2024,1114,300-metres,sprints,female,u20
-118,37.89,,Isabel VAN DEN BERG,02 FEB 2005,NED,1f1,"Sportpark Ter Specke, Lisse (NED)",11 MAY 2024,1070,300-metres,sprints,female,u20
-121,37.90,,Brianna MCNEAL,18 AUG 1991,USA,1,"Blacksburg, VA (USA) (i)",15 JAN 2010,1114,300-metres,sprints,female,u20
-121,37.90,,Dezerea BRYANT,27 APR 1993,USA,1f1,"Blacksburg, VA (USA) (i)",13 JAN 2012,1114,300-metres,sprints,female,u20
-121,37.90,,Deajah STEVENS,19 MAY 1995,USA,2,"New York, NY (USA) (i)",02 FEB 2013,1114,300-metres,sprints,female,u20
-121,37.90,,Kennedy SIMON,12 FEB 2000,USA,1f7,"Atlanta, GA (USA)",03 MAR 2018,1070,300-metres,sprints,female,u20
-121,37.90,,Bendere OBOYA,17 APR 2000,AUS,1f1,"The Crest Athletics Centre, Bankstown, Sydney (AUS)",21 JUL 2019,1070,300-metres,sprints,female,u20
-126,37.91,,Ella RÄSÄNEN,27 JAN 1994,FIN,1,Jyväskylä (FIN) (i),26 JAN 2013,1113,300-metres,sprints,female,u20
-126,37.91,,Cheriece HYLTON,12 DEC 1996,GBR,1,Bedford (GBR),01 SEP 2013,1069,300-metres,sprints,female,u20
-126,37.91,,Zola GOLDEN,20 JUN 1997,USA,1,"New York, NY (USA) (i)",19 FEB 2014,1113,300-metres,sprints,female,u20
-126,37.91,,Polina MILLER,09 JUN 2000,ANA,1f1,Omsk (RUS) (i),22 DEC 2018,1113,300-metres,sprints,female,u20
-130,37.92,,Goodness THOMAS,08 DEC 1993,NGR,2,Shagamu (NGR),28 FEB 2012,1069,300-metres,sprints,female,u20
-130,37.92,,Taylor MANSON,29 SEP 1999,USA,1f2,"Clemson, SC (USA) (i)",06 JAN 2018,1112,300-metres,sprints,female,u20
-130,37.92,,Kayla DAVIS,21 DEC 2003,USA,1f14,"Winston Salem, NC (USA) (i)",05 JAN 2019,1112,300-metres,sprints,female,u20
-130,37.92,,Jayla HOLLIS,03 SEP 2002,USA,2f9,"Randal Tyson Indoor Center, Fayetteville, AR (USA) (i)",03 DEC 2021,1112,300-metres,sprints,female,u20
-134,37.93,,Cheriece HYLTON,12 DEC 1996,GBR,1,Birmingham (GBR),06 JUL 2013,1068,300-metres,sprints,female,u20
-135,37.95,,Cathy RATTRAY-WILLIAMS,19 AUG 1963,JAM,2h3,"Pocatello, ID (USA) (i)",13 MAR 1981,1111,300-metres,sprints,female,u20
-135,37.95,,Kadecia BAIRD,24 FEB 1995,GUY,1,"New York, NY (USA) (i)",04 FEB 2012,1111,300-metres,sprints,female,u20
-135,37.95,,Manon DEPUYDT,02 APR 1997,BEL,1f1,Kessel-Lo (BEL),30 JUL 2016,1067,300-metres,sprints,female,u20
-135,37.95,,Emma VAN CAMP,11 OCT 2004,SUI,1f1,"Stade Olympique de la Pontaise, Lausanne (SUI)",06 MAY 2023,1067,300-metres,sprints,female,u20
-139,37.96,,Kornelia LESIEWICZ,14 AUG 2003,POL,2,"Wieslaw Maniak Municipal Athletic Stadium, Szczecin (POL)",16 AUG 2020,1066,300-metres,sprints,female,u20
-140,37.97,,Francena MCCORORY,20 OCT 1988,USA,1f1,"Rector Fieldhouse, Blacksburg, VA (USA) (i)",28 JAN 2005,1110,300-metres,sprints,female,u20
-140,37.97,,Kornelia LESIEWICZ,14 AUG 2003,POL,2,"Stadion MOSiR, Rumia (POL)",11 SEP 2021,1066,300-metres,sprints,female,u20
-140,37.97,,Audrey WERRO,27 MAR 2004,SUI,1f4,"Stade de la Saussaz, Chailly-sur-Montreux (SUI)",14 MAY 2022,1066,300-metres,sprints,female,u20
-140,37.97,,Berta SEGURA,06 JUN 2003,ESP,1,"Estadi Municipal Les Basses, Lleida (ESP)",07 JUL 2022,1066,300-metres,sprints,female,u20
-140,37.97,,Cohren CORBIN,,USA,1f1,"Armory Track&Field Center, New York, NY (USA) (i)",08 FEB 2025,1110,300-metres,sprints,female,u20
-145,37.98,,Guðbjörg Jóna BJARNADÓTTIR,24 DEC 2001,ISL,2f1,Göteborg (SWE),03 JUL 2016,1065,300-metres,sprints,female,u20
-145,37.98,,Zofia TOMCZYK,17 JUN 2008,POL,1f1,"KGHM Sleza Arena, Wrocław (POL) (i)",11 FEB 2024,1109,300-metres,sprints,female,u20
-147,37.99,,Talitha DIGGS,22 AUG 2002,USA,1f1,"Liberty Indoor Complex, Lynchburg, VA (USA) (i)",18 JAN 2020,1109,300-metres,sprints,female,u20
-147,37.99,,Terezie TÁBORSKÁ,11 FEB 2006,CZE,1,"Městský stadion Střelnice, Domažlice (CZE)",08 MAY 2024,1065,300-metres,sprints,female,u20
-149,38.00,,Shana COX,22 JAN 1985,USA,1,"New York, NY (USA) (i)",15 DEC 2001,1108,300-metres,sprints,female,u20
-149,38.00,,Ngozi Cynthia NWOKOCHA,28 SEP 1986,NGR,1,Heidelberg (GER),21 MAY 2005,1064,300-metres,sprints,female,u20
-149,38.00,,Jodie WILLIAMS,28 SEP 1993,GBR,1,Loughborough (GBR),22 MAY 2011,1064,300-metres,sprints,female,u20
-149,38.00,,Liefde SCHOEMAKER,06 DEC 2002,BEL,1f2,Dilbeek (BEL),17 JUL 2019,1064,300-metres,sprints,female,u20
-149,38.00,,Kornelia LESIEWICZ,14 AUG 2003,POL,1f1,"Arena, Toruń (POL) (i)",16 FEB 2020,1108,300-metres,sprints,female,u20
-154,38.01,,Pınar SAKA,05 NOV 1985,TUR,1,Istanbul (TUR),14 JUN 2003,1064,300-metres,sprints,female,u20
-154,38.01,,Symone DARIUS,04 JUL 1998,USA,2,"New York, NY (USA) (i)",19 FEB 2014,1108,300-metres,sprints,female,u20
-154,38.01,,Kornelia LESIEWICZ,14 AUG 2003,POL,3f1,"Stadion Śląski, Chorzów (POL)",20 JUN 2020,1064,300-metres,sprints,female,u20
-154,38.01,,Terezie TÁBORSKÁ,11 FEB 2006,CZE,1f2,"Atletický stadion Turnov, Turnov (CZE)",23 MAY 2023,1064,300-metres,sprints,female,u20
-158,38.02,,Minna LAUKKA,21 MAY 1987,FIN,1,Lahti (FIN),14 AUG 2004,1063,300-metres,sprints,female,u20
-158,38.02,,Natalia KACZMAREK,17 JAN 1998,POL,2,Wrocław (POL),14 MAY 2017,1063,300-metres,sprints,female,u20
-158,38.02,,Jonah ROSS,01 MAY 2002,USA,2f1,"Liberty Indoor Complex, Lynchburg, VA (USA) (i)",18 JAN 2020,1107,300-metres,sprints,female,u20
-158,38.02,,Shawnti JACKSON,02 MAY 2005,USA,3f2,"Liberty Indoor Complex, Lynchburg, VA (USA) (i)",18 JAN 2020,1107,300-metres,sprints,female,u20
-158,38.02,,Holly RYAN,,GBR,1,"Alexander Stadium, Birmingham (GBR)",12 JUL 2025,1063,300-metres,sprints,female,u20
-163,38.03,,Imke VERVAET,11 APR 1993,BEL,1f1,Lokeren (BEL),29 MAY 2011,1063,300-metres,sprints,female,u20
-163,38.03,,Shai-Anne DAVIS,04 DEC 1993,CAN,1f2,Ottawa (CAN) (i),11 FEB 2012,1106,300-metres,sprints,female,u20
-163,38.03,,Nikola BENDOVÁ,04 NOV 1999,CZE,2,"Sportovní areál Krajinka, Cheb (CZE)",02 AUG 2016,1063,300-metres,sprints,female,u20
-163,38.03,,Kayla DAVIS,21 DEC 2003,USA,1f15,"Winston Salem, NC (USA) (i)",15 DEC 2018,1106,300-metres,sprints,female,u20
-163,38.03,,Marta Amouhin AMANI,10 OCT 2004,ITA,1,"Arena Civica Gianni Brera, Milano (ITA)",30 APR 2022,1063,300-metres,sprints,female,u20
-168,38.04,,Lauren WILSON,24 NOV 1992,NZL,1,Dunedin (NZL),23 JAN 2010,1062,300-metres,sprints,female,u20
-168,38.04,,Maja POGOREVC,31 JUL 1996,SLO,1f3,Ravne Na Koroskem (SLO),16 MAY 2015,1062,300-metres,sprints,female,u20
-170,38.06,,Sydney SUTTON,11 NOV 2006,USA,1f1,"Virginia Beach Sports Center, Virginia Beach, VA (USA) (i)",19 JAN 2025,1105,300-metres,sprints,female,u20
-171,38.07,,Felecia MAJORS,11 FEB 1995,USA,2f1,"Birmingham, AL (USA) (i)",10 JAN 2014,1104,300-metres,sprints,female,u20
-171,38.07,,Symone DARIUS,04 JUL 1998,USA,1f3,"New York, NY (USA) (i)",25 JAN 2014,1104,300-metres,sprints,female,u20
-173,38.08,,Elise COOPER,07 FEB 2007,USA,4,"Virginia Beach Sports Center, Virginia Beach, VA (USA) (i)",12 JAN 2024,1104,300-metres,sprints,female,u20
-173,38.08,,Sofia SWINDELL,17 MAR 2007,ISV,2f2,"Armory Track&Field Center, New York, NY (USA) (i)",08 FEB 2025,1104,300-metres,sprints,female,u20
-173,38.08,,Linda BOTKOVÁ,2010,CZE,1f1,"Phönixplatz, Schwechat (AUT)",08 JUN 2025,1060,300-metres,sprints,female,u20
-176,38.09,,Anna HÄMÄLÄINEN,24 MAR 1994,FIN,2,Jyväskylä (FIN),13 AUG 2011,1059,300-metres,sprints,female,u20
-176,38.09,,Symone DARIUS,04 JUL 1998,USA,1f10,"New York, NY (USA) (i)",09 FEB 2014,1103,300-metres,sprints,female,u20
-176,38.09,,Lynna IRBY,06 DEC 1998,USA,1f6,"Lynchburg, VA (USA) (i)",13 JAN 2017,1103,300-metres,sprints,female,u20
-176,38.09,,Kimberly HARRIS,11 JUL 2002,USA,4f2,"Liberty Indoor Complex, Lynchburg, VA (USA) (i)",18 JAN 2020,1103,300-metres,sprints,female,u20
-176,38.09,,Liefde SCHOEMAKER,06 DEC 2002,BEL,1f1,"VITA Atletiek, Ninove (BEL)",08 SEP 2021,1059,300-metres,sprints,female,u20
-176,38.09,,Wiktoria GAJOSZ,06 JUL 2006,POL,1f1,"Hala Uniwersytetu, Rzeszów (POL) (i)",08 FEB 2025,1103,300-metres,sprints,female,u20
-182,38.10,,Patrycja WYCISZKIEWICZ,08 JAN 1994,POL,1,Łódź (POL),04 MAY 2013,1059,300-metres,sprints,female,u20
-182,38.10,,Cheriece HYLTON,12 DEC 1996,GBR,1,Dublin (IRL),20 JUL 2013,1059,300-metres,sprints,female,u20
-184,38.11,,Kylie LAMBERT,16 JUN 2004,BEL,3,"Topsporthal Vlaanderen, Gent (BEL) (i)",04 FEB 2023,1102,300-metres,sprints,female,u20
-185,38.12,,Christina BRENNAN,27 MAR 1995,CAN,1f5,London (CAN),24 JUL 2010,1058,300-metres,sprints,female,u20
-185,38.12,,Shae ANDERSON,07 APR 1999,USA,1,"Arcadia, CA (USA)",11 FEB 2017,1058,300-metres,sprints,female,u20
-185,38.12,,Kornelia LESIEWICZ,14 AUG 2003,POL,1h2,"Arena, Toruń (POL) (i)",15 FEB 2020,1102,300-metres,sprints,female,u20
-185,38.12,,Liefde SCHOEMAKER,06 DEC 2002,BEL,1f1,"Boudewijnstadion, Bruxelles (BEL)",16 MAY 2021,1058,300-metres,sprints,female,u20
-185,38.12,,Viktoriya MAKSIMOVA,11 NOV 2002,RUS,1f1,"Znamenskikh Arena, Moskva (RUS) (i)",24 DEC 2021,1102,300-metres,sprints,female,u20
-185,38.12,,Wiktoria GAJOSZ,06 JUL 2006,POL,1f1,"Hala Uniwersytetu, Rzeszów (POL) (i)",20 JAN 2024,1102,300-metres,sprints,female,u20
-185,38.12,,Wiktoria GAJOSZ,06 JUL 2006,POL,1f1,"Stadion MOSiR, Lublin (POL)",25 MAY 2024,1058,300-metres,sprints,female,u20
-192,38.13,,Tamari DAVIS,15 FEB 2003,USA,2f2,"Santa Fe High School Track, Alachua, FL (USA)",05 JUL 2020,1057,300-metres,sprints,female,u20
-192,38.13,,Miyu AKASAKA,21 MAR 2006,JPN,1f1,"Ehime Athletics Stadium, Matsuyama (JPN)",21 OCT 2023,1057,300-metres,sprints,female,u20
-194,38.14,,Glory Amuche NWOSU,24 DEC 1984,NGR,1,Alicante (ESP),23 APR 2003,1057,300-metres,sprints,female,u20
-194,38.14,,Polina MILLER,09 JUN 2000,ANA,1f4,Omsk (RUS) (i),23 DEC 2017,1101,300-metres,sprints,female,u20
-194,38.14,,Briana WILLIAMS,21 MAR 2002,JAM,2f1,"Hallandale, FL (USA)",10 FEB 2018,1057,300-metres,sprints,female,u20
-194,38.14,,Yarima GARCÍA,25 JUL 2004,CUB,5,"Estadio Olimpico Juan Pablo Duarte, Santo Domingo (DOM)",01 APR 2023,1057,300-metres,sprints,female,u20
-194,38.14,,Karolina ZBIČAJNIK,04 JAN 2005,SLO,1f3,"Atletski stadion Poljane, Maribor (SLO)",05 MAY 2024,1057,300-metres,sprints,female,u20
-199,38.15,,Madelief VAN LEUR,19 APR 2007,NED,4f2,"Sportcomplex Het Langepad, Rotterdam (NED)",26 JUL 2025,1056,300-metres,sprints,female,u20
-200,38.16,,Kendall BAISDEN,05 MAR 1995,USA,2,"New York, NY (USA) (i)",04 FEB 2012,1099,300-metres,sprints,female,u20
-200,38.16,,Jayla KIRKLAND,13 FEB 1999,USA,2f6,"Lynchburg, VA (USA) (i)",13 JAN 2017,1099,300-metres,sprints,female,u20
-200,38.16,,Misato SHIBATA,07 FEB 2008,JPN,1h1,"Sunrise Park, Saga (JPN)",11 OCT 2024,1055,300-metres,sprints,female,u20
-200,38.16,,Haru BALOGUN,10 FEB 2009,NGR,1,"Athletic Stadium, Hikone (JPN)",04 OCT 2025,1055,300-metres,sprints,female,u20
-204,38.17,,Rita OSSAI,12 OCT 1994,NGR,3,Shagamu (NGR),28 FEB 2012,1055,300-metres,sprints,female,u20
-204,38.17,,Hendrikje RICHTER,23 NOV 1997,GER,1f1,Pliezhausen (GER),08 MAY 2016,1055,300-metres,sprints,female,u20
-204,38.17,,Chloé RABAC,08 MAY 2005,SUI,2f1,"Stade Olympique de la Pontaise, Lausanne (SUI)",06 MAY 2023,1055,300-metres,sprints,female,u20
-204,38.17,,Holly RYAN,,GBR,1,"Moorways Stadium, Derby (GBR)",19 JUL 2025,1055,300-metres,sprints,female,u20
-204,38.17,,Holly RYAN,,GBR,1,"Alexander Stadium, Birmingham (GBR)",10 AUG 2025,1055,300-metres,sprints,female,u20
-209,38.18,,Na'taja BALLARD,2003,USA,1f3,"Hampton, VA (USA) (i)",31 JAN 2020,1098,300-metres,sprints,female,u20
-209,38.18,,Shiloh OMOTOSHO,28 DEC 2008,GBR,1,"Alexander Stadium, Birmingham (GBR)",28 JUL 2024,1054,300-metres,sprints,female,u20
-211,38.19,,Megan MOSS,22 MAR 2002,BAH,2f2,"Nutter Fieldhouse, Lexington, KY (USA) (i)",06 DEC 2019,0,300-metres,sprints,female,u20
-211,38.19,,Maya LOVE,2006,USA,2f6,"Virginia Beach Sports Center, Virginia Beach, VA (USA) (i)",18 JAN 2025,1098,300-metres,sprints,female,u20
-211,38.19,,Natalie DUMAS,,USA,3f2,"Armory Track&Field Center, New York, NY (USA) (i)",08 FEB 2025,1098,300-metres,sprints,female,u20
-214,38.20,,Dasia PRESSLEY,29 NOV 1997,USA,1f3,"New York, NY (USA) (i)",05 FEB 2016,1097,300-metres,sprints,female,u20
-214,38.20,,Elise COOPER,07 FEB 2007,USA,2,"Armory Track&Field Center, New York, NY (USA) (i)",11 FEB 2023,1097,300-metres,sprints,female,u20
-216,38.21,,Florence UWAKWE,28 JUL 1994,NGR,4,Shagamu (NGR),28 FEB 2012,1053,300-metres,sprints,female,u20
-216,38.21,,Barbora ŠPLECHTNOVÁ,31 JUL 2002,CZE,1f1,"Atletický stadion Slavia Praha, Praha (CZE)",29 MAY 2020,1053,300-metres,sprints,female,u20
-216,38.21,,Akari SAITO,22 MAR 2007,JPN,1,"Sunrise Park, Saga (JPN)",12 OCT 2024,1053,300-metres,sprints,female,u20
-219,38.22,,Precious HOLMES,27 NOV 1995,USA,3,"New York, NY (USA) (i)",02 FEB 2013,1096,300-metres,sprints,female,u20
-219,38.22,,Darcy COSLETT,07 MAY 2009,GBR,1,"Swansea Bay Sports Park, Swansea (GBR)",11 AUG 2024,1052,300-metres,sprints,female,u20
-221,38.23,,Kyle PLANTE,14 JUN 1994,USA,1,"Ithaca, NY (USA) (i)",03 MAR 2012,1096,300-metres,sprints,female,u20
-221,38.23,,Brandee' JOHNSON,03 APR 1998,USA,1f2,"Clemson, SC (USA) (i)",07 JAN 2017,1096,300-metres,sprints,female,u20
-223,38.24,,Tosin ADELEYE,07 FEB 1996,NGR,2,Abuja (NGR),14 MAR 2015,1051,300-metres,sprints,female,u20
-224,38.25,,Ngozi Cynthia NWOKOCHA,28 SEP 1986,NGR,3,Pliezhausen (GER),08 MAY 2005,1051,300-metres,sprints,female,u20
-224,38.25,,Wiktoria GAJOSZ,06 JUL 2006,POL,1f1,"Stadion MOSiR, Lublin (POL)",11 MAY 2024,1051,300-metres,sprints,female,u20
-226,38.26,,Irene EKELUND,08 MAR 1997,SWE,1f1,Göteborg (SWE),08 JUL 2012,1050,300-metres,sprints,female,u20
-226,38.26,,Syaira RICHARDSON,29 OCT 1998,USA,1,"Hampton, VA (USA) (i)",25 FEB 2017,1094,300-metres,sprints,female,u20
-226,38.26,,Kennedy BROWN,,USA,4f2,"Armory Track&Field Center, New York, NY (USA) (i)",08 FEB 2025,1094,300-metres,sprints,female,u20
-226,38.26,,Johanka ŠAFÁŘOVÁ,29 NOV 2007,CZE,2f1,"Stadion TJ Lokomotiva Olomouc,, Olomouc (CZE)",08 MAY 2025,1050,300-metres,sprints,female,u20
-230,38.28,,Sandrae FARQUHARSON,11 JUL 1993,JAM,1f2,"New York, NY (USA) (i)",05 FEB 2011,1093,300-metres,sprints,female,u20
-230,38.28,,Lada VONDROVÁ,06 SEP 1999,CZE,1f1,Praha (CZE) (i),12 JAN 2018,1093,300-metres,sprints,female,u20
-230,38.28,,Xahria SANTIAGO,09 OCT 1999,CAN,1f2,"Geneva, OH (USA) (i)",09 FEB 2018,0,300-metres,sprints,female,u20
-230,38.28,,Etty SISSON,22 FEB 2005,GBR,1,"Moorways Stadium, Derby (GBR)",25 SEP 2021,1049,300-metres,sprints,female,u20
-230,38.28,,Darcy COSLETT,07 MAY 2009,GBR,2,"Alexander Stadium, Birmingham (GBR)",28 JUL 2024,1049,300-metres,sprints,female,u20
-230,38.28,,Ariike ELIJAH,04 AUG 2006,USA,1f3,"Clemson Indoor Track & Field Complex, Clemson, SC (USA) (i)",06 DEC 2024,1093,300-metres,sprints,female,u20
-230,38.28,,Haru BALOGUN,10 FEB 2009,NGR,1h1,"Athletic Stadium, Hikone (JPN)",03 OCT 2025,1049,300-metres,sprints,female,u20
-237,38.29,,Aaliyah PYATT,,USA,1f1,"Lynchburg, VA (USA) (i)",04 JAN 2020,1092,300-metres,sprints,female,u20
-237,38.29,,Maja SCHORR,10 JUN 2004,GER,3f2,"Schönbuchstadion, Pliezhausen (GER)",14 MAY 2023,1048,300-metres,sprints,female,u20
-237,38.29,,Kennedy BROWN,,USA,3,"Ott Center for Track & Field, Philadelphia, PA (USA) (i)",01 MAR 2025,1092,300-metres,sprints,female,u20
-237,38.29,,Payton PAYNE,,USA,4,"Ott Center for Track & Field, Philadelphia, PA (USA) (i)",01 MAR 2025,1092,300-metres,sprints,female,u20
-241,38.31,,Adrianna JANOWICZ-PÓŁTORAK,16 APR 1995,POL,1f4,Poznan (POL),12 JUL 2012,1047,300-metres,sprints,female,u20
-241,38.31,,Amanda CRAWFORD,15 MAY 1999,GRN,1,"New York, NY (USA) (i)",27 FEB 2016,1091,300-metres,sprints,female,u20
-241,38.31,,Pauline RICHTER,07 JUL 2007,GER,1f3,"Buniamshof, Lübeck (GER)",26 JUN 2022,1047,300-metres,sprints,female,u20
-241,38.31,,Awtif IMOLEAYO AHMED,09 APR 2005,BRN,6,"Estadio Olimpico Juan Pablo Duarte, Santo Domingo (DOM)",01 APR 2023,1047,300-metres,sprints,female,u20
-241,38.31,,Noa CHODOKUFA,,GBR,2,"Alexander Stadium, Birmingham (GBR)",10 AUG 2025,1047,300-metres,sprints,female,u20
-246,38.32,,Özge AKIN,17 JUN 1985,TUR,2,Istanbul (TUR),14 JUN 2003,1047,300-metres,sprints,female,u20
-246,38.32,,Ella RÄSÄNEN,27 JAN 1994,FIN,1f3,Nokia (FIN),27 JUN 2011,1047,300-metres,sprints,female,u20
-246,38.32,,Bendere OBOYA,17 APR 2000,AUS,1,Sydney (AUS),29 NOV 2018,1047,300-metres,sprints,female,u20
-246,38.32,,Talitha DIGGS,22 AUG 2002,USA,1,"Ocean Breeze Athl. Complex, New York, NY (USA) (i)",04 JAN 2020,1091,300-metres,sprints,female,u20
-246,38.32,,Noa CHODOKUFA,,GBR,2,"Alexander Stadium, Birmingham (GBR)",12 JUL 2025,1047,300-metres,sprints,female,u20
-251,38.33,,Randy GIVENS,27 MAR 1962,USA,2h1,"Pocatello, ID (USA) (i)",13 MAR 1981,1090,300-metres,sprints,female,u20
-251,38.33,,Veronica VANCARDO,26 SEP 2000,SUI,3,Langenthal (SUI),02 AUG 2018,1046,300-metres,sprints,female,u20
-251,38.33,,Aaliyah PYATT,,USA,1h5,"Armory Track&Field Center, New York, NY (USA) (i)",28 DEC 2019,1090,300-metres,sprints,female,u20
-254,38.34,,Myla GREENE,08 FEB 2005,USA,3,"Armory Track&Field Center, New York, NY (USA) (i)",11 FEB 2023,1090,300-metres,sprints,female,u20
-254,38.34,,Madelief VAN LEUR,19 APR 2007,NED,1f3,"Sportpark Ter Specke, Lisse (NED)",13 MAY 2023,1046,300-metres,sprints,female,u20
-254,38.34,,Terezie TÁBORSKÁ,11 FEB 2006,CZE,1f3,"Atletická hala Otakara Jandery, Praha (CZE) (i)",23 JAN 2024,1090,300-metres,sprints,female,u20
-254,38.34,,Abigail NORUWA,01 SEP 2006,NED,3f2,"Sportpark Ter Specke, Lisse (NED)",10 MAY 2025,1046,300-metres,sprints,female,u20
-258,38.35,,Elanor CANEY,28 MAY 1984,GBR,1,Sheffield (GBR),09 JUL 2000,1045,300-metres,sprints,female,u20
-258,38.35,,Kadecia BAIRD,24 FEB 1995,GUY,1,"New York, NY (USA) (i)",17 DEC 2011,1089,300-metres,sprints,female,u20
-258,38.35,,Dynasty MCGEE,15 AUG 1993,USA,2f2,"University Park, PA (USA) (i)",15 DEC 2012,1089,300-metres,sprints,female,u20
-258,38.35,,Natalia KACZMAREK,17 JAN 1998,POL,1f3,Spala (POL) (i),06 FEB 2016,1089,300-metres,sprints,female,u20
-258,38.35,,Izzy GOUDROS,12 AUG 2003,CAN,1f1,"Boston Univ. Track & Tennis Center, Boston, MA (USA) (i)",22 JAN 2022,1089,300-metres,sprints,female,u20
-258,38.35,,Ririka MIYACHI,05 OCT 2005,JPN,2,"Prefectural Stadium, Kagoshima (JPN)",14 OCT 2023,1045,300-metres,sprints,female,u20
-258,38.35,,Ashley FULTON,,USA,2f3,"Armory Track&Field Center, New York, NY (USA) (i)",11 FEB 2024,1089,300-metres,sprints,female,u20
-258,38.35,,Lilje LOPES PATEY,15 FEB 2007,NOR,1,"Stampesletta, Lillehammer (NOR)",23 AUG 2025,1045,300-metres,sprints,female,u20
-266,38.36,,Dezerea BRYANT,27 APR 1993,USA,1f1,"Clemson, SC (USA) (i)",01 DEC 2012,1089,300-metres,sprints,female,u20
-266,38.36,,Lauren RUSSELL,16 MAR 1998,GBR,3,Newham (GBR),29 MAY 2017,1045,300-metres,sprints,female,u20
-266,38.36,,Giulia SENN,19 DEC 2001,SUI,3,"McArthur Stadium, Potchefstroom (RSA)",04 FEB 2020,1045,300-metres,sprints,female,u20
-266,38.36,,Kennedy BROWN,,USA,2f1,"Virginia Beach Sports Center, Virginia Beach, VA (USA) (i)",19 JAN 2025,1089,300-metres,sprints,female,u20
-270,38.37,,Susana LACHELE,10 JUL 2000,POL,1f1,Toruń (POL) (i),02 FEB 2019,1088,300-metres,sprints,female,u20
-270,38.37,,Madison WHYTE,17 OCT 2004,USA,2f8,"Virginia Beach Sports Center, Virginia Beach, VA (USA) (i)",14 JAN 2022,1088,300-metres,sprints,female,u20
-270,38.37,,Shiloh OMOTOSHO,28 DEC 2008,GBR,1h3,"Alexander Stadium, Birmingham (GBR)",11 JUL 2025,1044,300-metres,sprints,female,u20
-270,38.37,,Shiloh OMOTOSHO,28 DEC 2008,GBR,3,"Alexander Stadium, Birmingham (GBR)",12 JUL 2025,1044,300-metres,sprints,female,u20
-274,38.38,,Lauren GALE,01 JAN 2000,CAN,1f3,St. Catherine's (CAN),18 JUL 2015,1044,300-metres,sprints,female,u20
-274,38.38,,Lanae-Tava THOMAS,28 JAN 2001,USA,1f2,"New York, NY (USA) (i)",06 FEB 2016,1088,300-metres,sprints,female,u20
-274,38.38,,Britton WILSON,13 NOV 2000,USA,1f5,"Lynchburg, VA (USA) (i)",19 JAN 2018,1088,300-metres,sprints,female,u20
-274,38.38,,Sydney SUTTON,11 NOV 2006,USA,4,"Armory Track&Field Center, New York, NY (USA) (i)",11 FEB 2023,1088,300-metres,sprints,female,u20
-274,38.38,,Sophie RAMBO,,USA,3f6,"Virginia Beach Sports Center, Virginia Beach, VA (USA) (i)",18 JAN 2025,1088,300-metres,sprints,female,u20
-274,38.38,,Paula SPRINGSTEIN,2008,GER,1f2,"Jahnstadion, Neubrandenburg (GER)",03 MAY 2025,1044,300-metres,sprints,female,u20
-280,38.39,,Kimberley EFONYE,05 MAR 1994,BEL,1f1,Lokeren (BEL),29 MAY 2011,1043,300-metres,sprints,female,u20
-280,38.39,,Lauryn GHEE,31 OCT 1998,USA,1,"Lubbock, TX (USA) (i)",27 FEB 2016,1087,300-metres,sprints,female,u20
-280,38.39,,Ririka MIYACHI,05 OCT 2005,JPN,1h5,"Prefectural Stadium, Kagoshima (JPN)",13 OCT 2023,1043,300-metres,sprints,female,u20
-280,38.39,,Anastazja KUŚ,11 MAY 2007,POL,1f1,"Uniwersytetu Warmińsko-Mazurskiego, Olsztyn (POL)",05 MAY 2024,1043,300-metres,sprints,female,u20
-280,38.39,,Breanne BARNETT,,USA,2f1,"Armory Track&Field Center, New York, NY (USA) (i)",08 FEB 2025,1087,300-metres,sprints,female,u20
-285,38.40,,Irene EKELUND,08 MAR 1997,SWE,1,Upplands Väsby (SWE),12 AUG 2012,1042,300-metres,sprints,female,u20
-285,38.40,,Anastasiya BRYZHINA,09 JAN 1998,UKR,1f3,Jyväskylä (FIN) (i),02 FEB 2016,1087,300-metres,sprints,female,u20
-287,38.41,,Elanor CANEY,28 MAY 1984,GBR,1,Sheffield (GBR),30 JUL 2000,1042,300-metres,sprints,female,u20
-287,38.41,,Tiandra PONTEEN,09 NOV 1984,SKN,1,"New York, NY (USA) (i)",17 FEB 2001,1086,300-metres,sprints,female,u20
-287,38.41,,Marie GAYOT,18 DEC 1989,FRA,1,Dreux (FRA),16 JUL 2006,1042,300-metres,sprints,female,u20
-287,38.41,,Natalia WĘGLARZ,17 JAN 1998,POL,1,Bielsko-Biala (POL),14 MAY 2016,1042,300-metres,sprints,female,u20
-287,38.41,,Anastazja KUŚ,11 MAY 2007,POL,2f2,"Uniwersytetu Warmińsko-Mazurskiego, Olsztyn (POL)",03 SEP 2023,1042,300-metres,sprints,female,u20
-287,38.41,,Gina CERTO,,USA,1f2,"Ocean Breeze Athl. Complex, New York, NY (USA) (i)",24 JAN 2025,1086,300-metres,sprints,female,u20
-287,38.41,,Darcy COSLETT,07 MAY 2009,GBR,1,"Cardiff Athletic Stadium, Cardiff (GBR)",28 JUN 2025,1042,300-metres,sprints,female,u20
-294,38.42,,Britton WILSON,13 NOV 2000,USA,1f6,"Hampton, VA (USA) (i)",24 FEB 2018,1086,300-metres,sprints,female,u20
-294,38.42,,Barbora ŠPLECHTNOVÁ,31 JUL 2002,CZE,1f1,Praha (CZE) (i),22 JAN 2019,1086,300-metres,sprints,female,u20
-294,38.42,,Miku TAKINO,19 JUN 2005,JPN,1h5,"Ehime Athletics Stadium, Matsuyama (JPN)",22 OCT 2022,1041,300-metres,sprints,female,u20
-294,38.42,,Shiloh OMOTOSHO,28 DEC 2008,GBR,3,"Alexander Stadium, Birmingham (GBR)",10 AUG 2025,1041,300-metres,sprints,female,u20
-294,38.42,,Rin ORIHARA,02 OCT 2008,JPN,1h5,"Prefectural Stadium, Ise (JPN)",19 OCT 2025,1041,300-metres,sprints,female,u20
-299,38.43,,LaTasha COLANDER,23 AUG 1976,USA,1,"Fairfax, VA (USA) (i)",05 MAR 1994,1085,300-metres,sprints,female,u20
-299,38.43,,Hayley MILLS-JONES,04 SEP 1988,GBR,1,Birmingham (GBR),09 JUL 2005,1041,300-metres,sprints,female,u20
-299,38.43,,Stormy KENDRICK,06 JAN 1991,USA,1f1,"Clemson, SC (USA) (i)",04 DEC 2010,1085,300-metres,sprints,female,u20
-299,38.43,,Sabrina BAKARE,14 MAY 1996,GBR,1,London (GBR),09 MAY 2012,1041,300-metres,sprints,female,u20
-299,38.43,,Tiona LATTIMORE,,USA,3f2,"Bloomington, IN (USA) (i)",08 DEC 2017,1085,300-metres,sprints,female,u20
-299,38.43,,Tatianna MARTINEZ,29 AUG 2001,TTO,1f2,"Armory Track&Field Center, New York, NY (USA) (i)",16 FEB 2019,1085,300-metres,sprints,female,u20
-299,38.43,,Pauline RICHTER,07 JUL 2007,GER,1,"Stadion Obervieland, Bremen (GER)",10 JUL 2022,1041,300-metres,sprints,female,u20
-299,38.43,,Jennifer SAITA,03 JAN 2006,JPN,3,"Prefectural Stadium, Kagoshima (JPN)",14 OCT 2023,1041,300-metres,sprints,female,u20
-299,38.43,,Jasmine SHARPS,2006,USA,1f6,"Virginia Beach Sports Center, Virginia Beach, VA (USA) (i)",12 JAN 2024,1085,300-metres,sprints,female,u20
-299,38.43,,Linda BOTKOVÁ,2010,CZE,2f2,"Atletický stadion, Ustí Nad Orlicí (CZE)",20 AUG 2024,1041,300-metres,sprints,female,u20
-299,38.43,,Darcy COSLETT,07 MAY 2009,GBR,4,"Alexander Stadium, Birmingham (GBR)",10 AUG 2025,1041,300-metres,sprints,female,u20
-310,38.44,,Juanita BROADDUS,12 MAY 1985,USA,2,"New York, NY (USA) (i)",21 DEC 2002,1084,300-metres,sprints,female,u20
-310,38.44,,Aaliyah PYATT,,USA,3f1,"Armory Track&Field Center, New York, NY (USA) (i)",08 FEB 2020,1084,300-metres,sprints,female,u20
-310,38.44,,Charlotte HENRICH,30 AUG 2006,GBR,1,"Black Lion Track, Gillingham (GBR)",11 JUN 2022,1040,300-metres,sprints,female,u20
-310,38.44,,Linda BOTKOVÁ,2010,CZE,1f1,"Atletická hala Otakara Jandery, Praha (CZE) (i)",03 MAR 2024,1084,300-metres,sprints,female,u20
-310,38.44,,Payton ROGERS,2010,CAN,1,"Foothills Athletic Park, Calgary (CAN)",09 AUG 2025,1040,300-metres,sprints,female,u20
-310,38.44,,Rin ORIHARA,02 OCT 2008,JPN,2f1,"Prefectural Stadium, Ise (JPN)",19 OCT 2025,1040,300-metres,sprints,female,u20
-316,38.45,,Lenora GUION FIRMIN,07 AUG 1991,FRA,1,Vénissieux (FRA),20 JUL 2008,1040,300-metres,sprints,female,u20
-316,38.45,,Brandee' JOHNSON,03 APR 1998,USA,2f2,"New York, NY (USA) (i)",06 FEB 2016,1084,300-metres,sprints,female,u20
-316,38.45,,Giulia SENN,19 DEC 2001,SUI,1f1,Langenthal (SUI),30 MAY 2019,1040,300-metres,sprints,female,u20
-316,38.45,,Anastazja KUŚ,11 MAY 2007,POL,1f1,"Uniwersytetu Warmińsko-Mazurskiego, Olsztyn (POL)",06 MAY 2023,1040,300-metres,sprints,female,u20
-320,38.46,,Jasmine MITCHELL,25 MAR 1995,USA,1f3,"Bloomington, IN (USA) (i)",12 DEC 2014,1083,300-metres,sprints,female,u20
-320,38.46,,Christine IRVING,29 MAY 1999,JAM,1,Spanish Town (JAM),16 DEC 2017,1039,300-metres,sprints,female,u20
-320,38.46,,Hannah FOSTER,15 MAR 2002,GBR,1,Bedford (GBR),25 AUG 2018,1039,300-metres,sprints,female,u20
-320,38.46,,Britton WILSON,13 NOV 2000,USA,1f5,"Hampton, VA (USA) (i)",23 FEB 2019,1083,300-metres,sprints,female,u20
-320,38.46,,Yuzuki KOJIMA,25 SEP 2004,JPN,1h4,"Tochigi Prefectural Sports Park Stadium, Utsunomiya (JPN)",09 OCT 2022,1039,300-metres,sprints,female,u20
-320,38.46,,Tyler LOWE,04 OCT 2006,USA,1f7,"Virginia Beach Sports Center, Virginia Beach, VA (USA) (i)",12 JAN 2024,1083,300-metres,sprints,female,u20
-326,38.47,,Carmen GEDLING,08 APR 1990,GBR,1,Grangemouth (GBR),16 JUL 2006,1039,300-metres,sprints,female,u20
-326,38.47,,Cheriece HYLTON,12 DEC 1996,GBR,1,Birmingham (GBR),08 SEP 2013,1039,300-metres,sprints,female,u20
-326,38.47,,Shania COLLINS,14 NOV 1996,USA,1f1,"Blacksburg, VA (USA) (i)",01 FEB 2014,1083,300-metres,sprints,female,u20
-326,38.47,,Rin AOKI,08 APR 1998,JPN,3,Izumo (JPN),22 APR 2017,1039,300-metres,sprints,female,u20
-326,38.47,,Laura Elena RAMI,16 OCT 2002,ITA,1f2,"Stadio dei Marmi, Roma (ITA)",16 APR 2021,1039,300-metres,sprints,female,u20
-326,38.47,,Lisa FRANK,09 SEP 2007,SUI,1f1,"Stadion Schützenmatte, Basel (SUI)",01 MAY 2024,1039,300-metres,sprints,female,u20
-326,38.47,,Johanka ŠAFÁŘOVÁ,29 NOV 2007,CZE,1f1,"Atletická hala, Ostrava (CZE) (i)",04 JAN 2025,1083,300-metres,sprints,female,u20
-326,38.47,,Atajas STEPHANIE-VAZQUEZ,25 MAY 2008,USA,1f2,"Virginia Beach Sports Center, Virginia Beach, VA (USA) (i)",18 JAN 2025,1083,300-metres,sprints,female,u20
-334,38.48,,Merve AYDIN,17 MAR 1990,TUR,2,Istanbul (TUR),06 JUN 2009,1038,300-metres,sprints,female,u20
-334,38.48,,Irene EKELUND,08 MAR 1997,SWE,1,Växjö (SWE),22 SEP 2012,1038,300-metres,sprints,female,u20
-334,38.48,,Victoria TACHINSKI,15 JUN 1999,CAN,1f8,Winnipeg (CAN) (i),06 FEB 2015,1082,300-metres,sprints,female,u20
-334,38.48,,D'Jai BAKER,01 SEP 1998,USA,2f3,"New York, NY (USA) (i)",05 FEB 2016,1082,300-metres,sprints,female,u20
-334,38.48,,Lenysse DYER,06 MAR 1997,USA,1f2,"Bloomington, IN (USA) (i)",09 DEC 2016,1082,300-metres,sprints,female,u20
-334,38.48,,Rebecca BORGA,11 JUN 1998,ITA,1f2,Milano (ITA),16 SEP 2017,1038,300-metres,sprints,female,u20
-334,38.48,,Celera BARNES,02 DEC 1998,USA,1f3,"Bloomington, IN (USA) (i)",08 DEC 2017,1082,300-metres,sprints,female,u20
-334,38.48,,Shawnti JACKSON,02 MAY 2005,USA,2f16,"JDL Fast Track, Winston Salem, NC (USA) (i)",11 JAN 2020,1082,300-metres,sprints,female,u20
-334,38.48,,Kayla DAVIS,21 DEC 2003,USA,2f4,"Armory Track&Field Center, New York, NY (USA) (i)",29 JAN 2022,1082,300-metres,sprints,female,u20
-334,38.48,,Leonor FERREIRA,03 SEP 2004,POR,2f1,"Estádio 1o de Maio, Lisboa (POR)",25 APR 2023,1038,300-metres,sprints,female,u20
-334,38.48,,Mizuyu EHARA,13 SEP 2005,JPN,4,"Prefectural Stadium, Kagoshima (JPN)",14 OCT 2023,1038,300-metres,sprints,female,u20
-345,38.49,,Gemma NICOL,27 JUL 1986,GBR,1,Tullamore (IRL),03 AUG 2002,1038,300-metres,sprints,female,u20
-345,38.49,,Nenah DE CONINCK,02 SEP 1996,BEL,1f1,Gent (BEL) (i),14 FEB 2015,1082,300-metres,sprints,female,u20
-345,38.49,,Giulia SENN,19 DEC 2001,SUI,1f1,Lausanne (SUI),11 MAY 2019,1038,300-metres,sprints,female,u20
-345,38.49,,Yuzuki KOJIMA,25 SEP 2004,JPN,1,"Tochigi Prefectural Sports Park Stadium, Utsunomiya (JPN)",10 OCT 2022,1038,300-metres,sprints,female,u20
-345,38.49,,Line Safaa AL-SAIDDI,17 DEC 2006,NOR,7,"Fana Stadion, Bergen (NOR)",03 JUN 2025,1038,300-metres,sprints,female,u20
-350,38.50,,Hannah WALLER,19 DEC 2001,USA,1f4,"Hampton, VA (USA) (i)",24 FEB 2018,1081,300-metres,sprints,female,u20
-350,38.50,,Holly MPASSY,12 JUL 2003,GBR,1,Sheffield (GBR) (i),24 FEB 2019,1081,300-metres,sprints,female,u20
-350,38.50,,Dianna PROCTOR,25 APR 2005,CAN,1f1,"Universiade Pavilion, Edmonton (CAN) (i)",10 FEB 2024,1081,300-metres,sprints,female,u20
+8,36.68,,Braelyn BAKER,20 JAN 2006,USA,1f1,"Liberty Indoor Complex, Lynchburg, VA (USA) (i)",05 DEC 2025,1181,300-metres,sprints,female,u20
+9,36.73,,Mariana FLOREA,29 AUG 1976,ROU,,Bucureşti (ROU),23 MAY 1993,1135,300-metres,sprints,female,u20
+9,36.73,,Shawnti JACKSON,02 MAY 2005,USA,1,"Armory Track&Field Center, New York, NY (USA) (i)",28 JAN 2023,1178,300-metres,sprints,female,u20
+11,36.77,,Agata ZUPIN,17 MAR 1998,SLO,1,Domžale (SLO),30 AUG 2017,1132,300-metres,sprints,female,u20
+11,36.77,,Zaya AKINS,30 AUG 2005,USA,2f1,"Clemson Indoor Track & Field Complex, Clemson, SC (USA) (i)",08 DEC 2023,1176,300-metres,sprints,female,u20
+13,36.82,,Sydney MCLAUGHLIN,07 AUG 1999,USA,1f1,"New York, NY (USA) (i)",17 FEB 2017,1173,300-metres,sprints,female,u20
+13,36.82,,Wiktoria GAJOSZ,06 JUL 2006,POL,1f1,"Stadion Zygmunta Szelesta, Warszawa (POL)",06 JUL 2024,1130,300-metres,sprints,female,u20
+15,36.86,,Candace HILL,11 FEB 1999,USA,2f1,"Clemson, SC (USA) (i)",07 JAN 2017,1171,300-metres,sprints,female,u20
+16,36.87,,Cathy FREEMAN,16 FEB 1973,AUS,2,Gateshead (GBR),17 JUL 1992,1127,300-metres,sprints,female,u20
+16,36.87,,Mariana FLOREA,29 AUG 1976,ROU,1,Southampton (GBR),06 JUN 1993,1127,300-metres,sprints,female,u20
+18,36.92,,Bukola ABOGUNLOKO,18 AUG 1994,NGR,1,Shagamu (NGR),19 FEB 2011,1124,300-metres,sprints,female,u20
+19,36.95,,Shawnti JACKSON,02 MAY 2005,USA,1f8,"Virginia Beach Sports Center, Virginia Beach, VA (USA) (i)",14 JAN 2022,1166,300-metres,sprints,female,u20
+20,36.96,,Francena MCCORORY,20 OCT 1988,USA,1,"Rector Fieldhouse, Blacksburg, VA (USA) (i)",28 JAN 2006,1165,300-metres,sprints,female,u20
+20,36.96,,Elise COOPER,07 FEB 2007,USA,1f6,"Virginia Beach Sports Center, Virginia Beach, VA (USA) (i)",18 JAN 2025,1165,300-metres,sprints,female,u20
+22,36.97,,Adaejah HODGE,21 MAR 2006,IVB,1,"Virginia Beach Sports Center, Virginia Beach, VA (USA) (i)",12 JAN 2024,1165,300-metres,sprints,female,u20
+23,37.00,,Candace HILL,11 FEB 1999,USA,1f1,"Clemson, SC (USA) (i)",14 JAN 2017,1163,300-metres,sprints,female,u20
+23,37.00,,Sydney SUTTON,11 NOV 2006,USA,2,"Ott Center for Track & Field, Philadelphia, PA (USA) (i)",01 MAR 2025,1163,300-metres,sprints,female,u20
+25,37.04,,Sydney SUTTON,11 NOV 2006,USA,1f3,"Armory Track&Field Center, New York, NY (USA) (i)",08 FEB 2025,1161,300-metres,sprints,female,u20
+26,37.06,,Laila OWENS,2002,USA,1f9,"Randal Tyson Indoor Center, Fayetteville, AR (USA) (i)",03 DEC 2021,1160,300-metres,sprints,female,u20
+27,37.08,,Symone MASON,31 AUG 1999,USA,1,"Hallandale, FL (USA)",11 FEB 2017,1115,300-metres,sprints,female,u20
+28,37.09,,Sydney MCLAUGHLIN,07 AUG 1999,USA,4,"New York, NY (USA) (i)",11 FEB 2017,1158,300-metres,sprints,female,u20
+29,37.11,,Gina LÜCKENKEMPER,21 NOV 1996,GER,1f2,Pliezhausen (GER),17 MAY 2015,1113,300-metres,sprints,female,u20
+29,37.11,,Sydney MCLAUGHLIN,07 AUG 1999,USA,1,"New York, NY (USA) (i)",14 JAN 2017,1157,300-metres,sprints,female,u20
+31,37.12,,Madison WHYTE,17 OCT 2004,USA,1,"Armory Track&Field Center, New York, NY (USA) (i)",11 FEB 2023,1156,300-metres,sprints,female,u20
+32,37.13,,Sa'de WILLIAMS,28 FEB 1989,USA,1,"Eugene, OR (USA)",08 AUG 2006,1112,300-metres,sprints,female,u20
+33,37.17,,Christina BRENNAN,27 MAR 1995,CAN,1f5,Ottawa (CAN),07 AUG 2010,1110,300-metres,sprints,female,u20
+33,37.17,,Elisa VALENSIN,01 JAN 2007,ITA,1f1,"Campo Sportivo Gaetano Scirea, Cernusco Sul Naviglio (ITA)",04 MAY 2025,1110,300-metres,sprints,female,u20
+35,37.18,,Skylar BRAZZELL,,USA,2f3,"Armory Track&Field Center, New York, NY (USA) (i)",08 FEB 2025,1153,300-metres,sprints,female,u20
+36,37.25,,Hima DAS,09 JAN 2000,IND,1f1,Ustí Nad Orlicí (CZE),17 AUG 2019,1106,300-metres,sprints,female,u20
+36,37.25,,Zaya AKINS,30 AUG 2005,USA,2f1,"Clemson Indoor Track & Field Complex, Clemson, SC (USA) (i)",06 DEC 2024,1149,300-metres,sprints,female,u20
+38,37.26,,Kadecia BAIRD,24 FEB 1995,GUY,2f2,"New York, NY (USA) (i)",24 JAN 2014,1148,300-metres,sprints,female,u20
+39,37.31,,Lurdes Gloria MANUEL,12 JUL 2005,CZE,2f2,"Atletická hala Otakara Jandery, Praha (CZE) (i)",23 JAN 2024,1146,300-metres,sprints,female,u20
+40,37.32,,Elise COOPER,07 FEB 2007,USA,1f1,"Ocean Breeze Athl. Complex, New York, NY (USA) (i)",24 FEB 2024,1145,300-metres,sprints,female,u20
+41,37.33,,Rosemary OKAFOR,22 MAY 1982,NGR,3,Sydney (AUS),11 SEP 2000,1101,300-metres,sprints,female,u20
+41,37.33,,Kornelia LESIEWICZ,14 AUG 2003,POL,1f1,"Arena, Toruń (POL) (i)",06 FEB 2021,1145,300-metres,sprints,female,u20
+43,37.34,,Alexis HOLMES,28 JAN 2000,USA,1f1,"State College, PA (USA) (i)",08 DEC 2018,1144,300-metres,sprints,female,u20
+44,37.35,,Zita SZENTGYÖRGYI,13 NOV 2006,HUN,1f1,"MATE Atlétika Centrum, Gödöllő (HUN)",27 APR 2025,1100,300-metres,sprints,female,u20
+45,37.36,,Athing MU,08 JUN 2002,USA,1f2,"Liberty Indoor Complex, Lynchburg, VA (USA) (i)",18 JAN 2020,1143,300-metres,sprints,female,u20
+46,37.38,,Kayla DAVIS,21 DEC 2003,USA,2f2,"Liberty Indoor Complex, Lynchburg, VA (USA) (i)",18 JAN 2020,1142,300-metres,sprints,female,u20
+47,37.39,,Sydney SUTTON,11 NOV 2006,USA,2,"Virginia Beach Sports Center, Virginia Beach, VA (USA) (i)",12 JAN 2024,1141,300-metres,sprints,female,u20
+47,37.39,,Aniyah KITT,,USA,1f4,"Clemson Indoor Track & Field Complex, Clemson, SC (USA) (i)",06 DEC 2024,1141,300-metres,sprints,female,u20
+49,37.41,,Bendere OBOYA,17 APR 2000,AUS,1f1,Sydney (AUS),09 JUN 2019,1097,300-metres,sprints,female,u20
+50,37.42,,Angela BAXTER,10 OCT 1963,GBR,1,Brisbane (AUS),25 SEP 1982,1096,300-metres,sprints,female,u20
+50,37.42,,Candace HILL,11 FEB 1999,USA,3,"Reggie Lewis Center, Boston, MA (USA) (i)",28 JAN 2017,1140,300-metres,sprints,female,u20
+52,37.45,,Madelief VAN LEUR,19 APR 2007,NED,1f2,"Sportpark Ter Specke, Lisse (NED)",10 MAY 2025,1094,300-metres,sprints,female,u20
+53,37.46,,Kayla DAVIS,21 DEC 2003,USA,3f2,"New York, NY (USA) (i)",23 FEB 2019,1138,300-metres,sprints,female,u20
+54,37.49,,Sydney MCLAUGHLIN,07 AUG 1999,USA,1f2,"New York, NY (USA) (i)",31 JAN 2015,1136,300-metres,sprints,female,u20
+55,37.50,,Diane DIXON,23 SEP 1964,USA,1,"Normal, IL (USA) (i)",19 FEB 1983,1135,300-metres,sprints,female,u20
+56,37.51,,Agata ZUPIN,17 MAR 1998,SLO,1f1,Domžale (SLO),09 APR 2017,1091,300-metres,sprints,female,u20
+56,37.51,,Sydney SUTTON,11 NOV 2006,USA,1f3,"Armory Track&Field Center, New York, NY (USA) (i)",11 FEB 2024,1135,300-metres,sprints,female,u20
+58,37.53,,Britton WILSON,13 NOV 2000,USA,1f2,"New York, NY (USA) (i)",09 FEB 2019,1134,300-metres,sprints,female,u20
+59,37.54,,Kadecia BAIRD,24 FEB 1995,GUY,1,"New York, NY (USA) (i)",02 FEB 2013,1133,300-metres,sprints,female,u20
+59,37.54,,Tilde JOHANSSON,05 JAN 2001,SWE,1f1,Göteborg (SWE),03 JUL 2016,1089,300-metres,sprints,female,u20
+61,37.55,,Brandi CROSS,20 JAN 1988,USA,2,"Eugene, OR (USA)",08 AUG 2006,1089,300-metres,sprints,female,u20
+61,37.55,,Ayomide FOLORUNSO,17 OCT 1996,ITA,1f1,Rieti (ITA),25 APR 2015,1089,300-metres,sprints,female,u20
+63,37.56,,Olivia TAURO,11 JUN 1990,AUS,1f2,Sydney (AUS),19 DEC 2009,1088,300-metres,sprints,female,u20
+63,37.56,,Yasmin GIGER,06 NOV 1999,SUI,1,Langenthal (SUI),02 AUG 2018,1088,300-metres,sprints,female,u20
+63,37.56,,Skyler FRANKLIN,24 JUL 2007,USA,1f2,"Armory Track&Field Center, New York, NY (USA) (i)",11 FEB 2024,1132,300-metres,sprints,female,u20
+66,37.59,,Shana COX,22 JAN 1985,USA,1,"New York, NY (USA) (i)",21 DEC 2002,1130,300-metres,sprints,female,u20
+66,37.59,,Virginie MICHANOL,18 JUN 1985,FRA,5,Evry-Bondoufle (FRA),17 AUG 2003,1087,300-metres,sprints,female,u20
+66,37.59,,Cheriece HYLTON,12 DEC 1996,GBR,1,Ashford (GBR),25 MAY 2013,1087,300-metres,sprints,female,u20
+69,37.60,,Francena MCCORORY,20 OCT 1988,USA,1,"New York, NY (USA) (i)",18 DEC 2004,1130,300-metres,sprints,female,u20
+69,37.60,,Charlotte HENRICH,30 AUG 2006,GBR,4,"Utilita Arena Birmingham, Birmingham (GBR) (i)",15 FEB 2025,1130,300-metres,sprints,female,u20
+71,37.62,,Falilat OGUNKOYA-OSHEKU,05 DEC 1968,NGR,2f2,"Gainesville, FL (USA) (i)",01 MAR 1987,1129,300-metres,sprints,female,u20
+72,37.63,,Jan'Taijah JONES,15 MAR 2001,USA,1f1,"Hallandale, FL (USA)",10 FEB 2018,1084,300-metres,sprints,female,u20
+73,37.64,,Natasha HASTINGS,23 JUL 1986,USA,1,"New York, NY (USA) (i)",26 DEC 2004,1128,300-metres,sprints,female,u20
+73,37.64,,Viwe JINGQI,17 FEB 2005,RSA,1,"McArthur Stadium, Potchefstroom (RSA)",06 FEB 2024,1084,300-metres,sprints,female,u20
+73,37.64,,Davis KIERA,2006,USA,1f1,"Gladstein Fieldhouse Indiana Un., Bloomington, IN (USA) (i)",12 DEC 2025,1128,300-metres,sprints,female,u20
+76,37.65,,Falilat OGUNKOYA-OSHEKU,05 DEC 1968,NGR,2,"Gainesville, FL (USA) (i)",08 FEB 1987,1127,300-metres,sprints,female,u20
+76,37.65,,Tiandra PONTEEN,09 NOV 1984,SKN,1,"Clemson, SC (USA) (i)",06 DEC 2003,1127,300-metres,sprints,female,u20
+78,37.66,,Jessica BEARD,08 JAN 1989,USA,3,"Eugene, OR (USA)",08 AUG 2006,1083,300-metres,sprints,female,u20
+78,37.66,,Zita SZENTGYÖRGYI,13 NOV 2006,HUN,1f1,"Atlétikai Centrum, Nyíregyháza (HUN) (i)",19 JAN 2025,1127,300-metres,sprints,female,u20
+78,37.66,,Terezie TÁBORSKÁ,11 FEB 2006,CZE,1,"Městský stadion Střelnice, Domažlice (CZE)",11 MAY 2025,1083,300-metres,sprints,female,u20
+81,37.67,,Talitha DIGGS,22 AUG 2002,USA,1f1,"Armory Track&Field Center, New York, NY (USA) (i)",08 FEB 2020,1126,300-metres,sprints,female,u20
+81,37.67,,Henriette JÆGER,30 JUN 2003,NOR,1,"Nye Skarpsno Arena, Moelv (NOR)",11 SEP 2022,1082,300-metres,sprints,female,u20
+81,37.67,,Nia TRAMMELL,,USA,1f3,"R.A. ""Murray"" Fasken Indoor Track Stadium, College Station, TX (USA) (i)",06 DEC 2025,1126,300-metres,sprints,female,u20
+84,37.69,,Mona MAYER,13 SEP 2001,GER,2f1,"Stadion v Poohří, Cheb (CZE)",27 AUG 2020,1081,300-metres,sprints,female,u20
+85,37.70,,Kayla DAVIS,21 DEC 2003,USA,1f16,"JDL Fast Track, Winston Salem, NC (USA) (i)",11 JAN 2020,1124,300-metres,sprints,female,u20
+86,37.71,,Candace HILL,11 FEB 1999,USA,2f1,"Clemson, SC (USA) (i)",08 DEC 2018,1124,300-metres,sprints,female,u20
+86,37.71,,Britton WILSON,13 NOV 2000,USA,1f5,"Lynchburg, VA (USA) (i)",18 JAN 2019,1124,300-metres,sprints,female,u20
+88,37.72,,Amy SPENCER,19 SEP 1985,GBR,1,Birmingham (GBR) (i),24 FEB 2002,1123,300-metres,sprints,female,u20
+89,37.73,,Lara-Noelle STEINBRECHER,10 JAN 2003,GER,3f1,"Schönbuchstadion, Pliezhausen (GER)",08 MAY 2021,1079,300-metres,sprints,female,u20
+89,37.73,,Aiha YAMAGATA,11 OCT 2005,JPN,1,"Prefectural Stadium, Kagoshima (JPN)",14 OCT 2023,1079,300-metres,sprints,female,u20
+91,37.74,,Candace HILL,11 FEB 1999,USA,3h2,"Albuquerque, NM (USA) (i)",04 MAR 2017,1122,300-metres,sprints,female,u20
+91,37.74,,Kayla DAVIS,21 DEC 2003,USA,2h2,"New York, NY (USA) (i)",23 FEB 2019,1122,300-metres,sprints,female,u20
+91,37.74,,Payton SMITH,,USA,1f1,"Loftus Sports Center, Notre Dame, IN (USA) (i)",05 DEC 2025,1078,300-metres,sprints,female,u20
+94,37.75,,Patrycja WYCISZKIEWICZ,08 JAN 1994,POL,1f6,Poznan (POL),27 APR 2013,1078,300-metres,sprints,female,u20
+94,37.75,,Kaniya JOHNSON,2003,USA,1f4,"Armory Track&Field Center, New York, NY (USA) (i)",29 JAN 2022,1122,300-metres,sprints,female,u20
+96,37.76,,Kimberly HARRIS,11 JUL 2002,USA,1f6,"Atlanta, GA (USA)",02 MAR 2019,1077,300-metres,sprints,female,u20
+96,37.76,,Isabella WHITTAKER,15 FEB 2002,USA,2f1,"Armory Track&Field Center, New York, NY (USA) (i)",08 FEB 2020,1121,300-metres,sprints,female,u20
+98,37.77,,Maren SCHULZE,20 MAR 1982,GER,1,Duisburg (GER),09 JUL 1999,1077,300-metres,sprints,female,u20
+98,37.77,,Natasha HASTINGS,23 JUL 1986,USA,1,"New York, NY (USA) (i)",10 FEB 2002,1121,300-metres,sprints,female,u20
+100,37.78,,Madelief VAN LEUR,19 APR 2007,NED,2f2,"Sportpark Ter Specke, Lisse (NED)",11 MAY 2024,1076,300-metres,sprints,female,u20
+100,37.78,,Shanoya Mikalia DOUGLAS,11 SEP 2007,JAM,1f1,"Ocean Breeze Athl. Complex, New York, NY (USA) (i)",24 JAN 2025,1120,300-metres,sprints,female,u20
+102,37.79,,Amber ANNING,18 NOV 2000,GBR,1,Loughborough (GBR),01 SEP 2017,1076,300-metres,sprints,female,u20
+102,37.79,,Ellie BEER,03 JAN 2003,AUS,1,"Barlow Park, Cairns (AUS)",17 JUL 2021,1076,300-metres,sprints,female,u20
+104,37.80,,Braelyn BAKER,20 JAN 2006,USA,1f2,"Rector Fieldhouse, Blacksburg, VA (USA) (i)",17 JAN 2025,1119,300-metres,sprints,female,u20
+105,37.81,,Angel PERKINS-MCLEAN,05 OCT 1984,USA,1,"Tucson, AZ (USA)",07 DEC 2002,1075,300-metres,sprints,female,u20
+105,37.81,,Ella RÄSÄNEN,27 JAN 1994,FIN,1f8,Helsinki (FIN) (i),27 FEB 2011,1118,300-metres,sprints,female,u20
+105,37.81,,Madison WHYTE,17 OCT 2004,USA,1f4,"Liberty Indoor Complex, Lynchburg, VA (USA) (i)",03 MAR 2020,1118,300-metres,sprints,female,u20
+105,37.81,,Aiha YAMAGATA,11 OCT 2005,JPN,1h2,"Prefectural Stadium, Kagoshima (JPN)",13 OCT 2023,1075,300-metres,sprints,female,u20
+109,37.84,,Doris JACOB,16 DEC 1981,NGR,8,Sydney (AUS),11 SEP 2000,1073,300-metres,sprints,female,u20
+109,37.84,,Jessica YOUNG-WARREN,06 APR 1987,USA,4,"Eugene, OR (USA)",08 AUG 2006,1073,300-metres,sprints,female,u20
+109,37.84,,Alexis HOLMES,28 JAN 2000,USA,1f2,"Nutter Fieldhouse, Lexington, KY (USA) (i)",06 DEC 2019,0,300-metres,sprints,female,u20
+109,37.84,,Sophie RAMBO,,USA,1f2,"Armory Track&Field Center, New York, NY (USA) (i)",08 FEB 2025,1117,300-metres,sprints,female,u20
+109,37.84,,Maya LOVE,2006,USA,1f2,"Clemson Indoor Track & Field Complex, Clemson, SC (USA) (i)",05 DEC 2025,1117,300-metres,sprints,female,u20
+114,37.85,,Tiandra PONTEEN,09 NOV 1984,SKN,1,"Blacksburg, VA (USA) (i)",01 FEB 2003,1116,300-metres,sprints,female,u20
+114,37.85,,Ella RÄSÄNEN,27 JAN 1994,FIN,1,Jyväskylä (FIN),13 AUG 2011,1072,300-metres,sprints,female,u20
+114,37.85,,Nenah DE CONINCK,02 SEP 1996,BEL,1,Sint-Niklaas (BEL),25 AUG 2015,1072,300-metres,sprints,female,u20
+114,37.85,,Dajour MILES,25 JUL 2001,USA,1f1,"Nutter Fieldhouse, Lexington, KY (USA) (i)",06 DEC 2019,0,300-metres,sprints,female,u20
+118,37.86,,Maicel MALONE-WALLACE,12 JUN 1969,USA,1,"New Haven, CT (USA) (i)",16 MAR 1986,1116,300-metres,sprints,female,u20
+118,37.86,,Barbora MALÍKOVÁ,30 DEC 2001,CZE,1,"Mestský Stadion, Ostrava (CZE)",13 JUN 2018,1072,300-metres,sprints,female,u20
+120,37.88,,Tasha DOWNING,05 JUL 1970,USA,2,"New Haven, CT (USA) (i)",16 MAR 1986,1115,300-metres,sprints,female,u20
+120,37.88,,Kaylie VAN OUDTSHOORN,30 MAR 2007,RSA,1f2,"UJ Stadium, Johannesburg (RSA)",30 NOV 2024,1071,300-metres,sprints,female,u20
+120,37.88,,Haru BALOGUN,10 FEB 2009,NGR,1f1,"Prefectural Stadium, Ise (JPN)",19 OCT 2025,1071,300-metres,sprints,female,u20
+123,37.89,,Seika AOYAMA,01 MAY 1996,JPN,1,Izumo (JPN),21 APR 2013,1070,300-metres,sprints,female,u20
+123,37.89,,Josie DONELSON,16 MAR 2006,USA,3,"Virginia Beach Sports Center, Virginia Beach, VA (USA) (i)",12 JAN 2024,1114,300-metres,sprints,female,u20
+123,37.89,,Isabel VAN DEN BERG,02 FEB 2005,NED,1f1,"Sportpark Ter Specke, Lisse (NED)",11 MAY 2024,1070,300-metres,sprints,female,u20
+126,37.90,,Brianna MCNEAL,18 AUG 1991,USA,1,"Blacksburg, VA (USA) (i)",15 JAN 2010,1114,300-metres,sprints,female,u20
+126,37.90,,Dezerea BRYANT,27 APR 1993,USA,1f1,"Blacksburg, VA (USA) (i)",13 JAN 2012,1114,300-metres,sprints,female,u20
+126,37.90,,Deajah STEVENS,19 MAY 1995,USA,2,"New York, NY (USA) (i)",02 FEB 2013,1114,300-metres,sprints,female,u20
+126,37.90,,Kennedy SIMON,12 FEB 2000,USA,1f7,"Atlanta, GA (USA)",03 MAR 2018,1070,300-metres,sprints,female,u20
+126,37.90,,Bendere OBOYA,17 APR 2000,AUS,1f1,"The Crest Athletics Centre, Bankstown, Sydney (AUS)",21 JUL 2019,1070,300-metres,sprints,female,u20
+131,37.91,,Ella RÄSÄNEN,27 JAN 1994,FIN,1,Jyväskylä (FIN) (i),26 JAN 2013,1113,300-metres,sprints,female,u20
+131,37.91,,Cheriece HYLTON,12 DEC 1996,GBR,1,Bedford (GBR),01 SEP 2013,1069,300-metres,sprints,female,u20
+131,37.91,,Zola GOLDEN,20 JUN 1997,USA,1,"New York, NY (USA) (i)",19 FEB 2014,1113,300-metres,sprints,female,u20
+131,37.91,,Polina MILLER,09 JUN 2000,ANA,1f1,Omsk (RUS) (i),22 DEC 2018,1113,300-metres,sprints,female,u20
+135,37.92,,Goodness THOMAS,08 DEC 1993,NGR,2,Shagamu (NGR),28 FEB 2012,1069,300-metres,sprints,female,u20
+135,37.92,,Taylor MANSON,29 SEP 1999,USA,1f2,"Clemson, SC (USA) (i)",06 JAN 2018,1112,300-metres,sprints,female,u20
+135,37.92,,Kayla DAVIS,21 DEC 2003,USA,1f14,"Winston Salem, NC (USA) (i)",05 JAN 2019,1112,300-metres,sprints,female,u20
+135,37.92,,Jayla HOLLIS,03 SEP 2002,USA,2f9,"Randal Tyson Indoor Center, Fayetteville, AR (USA) (i)",03 DEC 2021,1112,300-metres,sprints,female,u20
+139,37.93,,Cheriece HYLTON,12 DEC 1996,GBR,1,Birmingham (GBR),06 JUL 2013,1068,300-metres,sprints,female,u20
+140,37.95,,Cathy RATTRAY-WILLIAMS,19 AUG 1963,JAM,2h3,"Pocatello, ID (USA) (i)",13 MAR 1981,1111,300-metres,sprints,female,u20
+140,37.95,,Kadecia BAIRD,24 FEB 1995,GUY,1,"New York, NY (USA) (i)",04 FEB 2012,1111,300-metres,sprints,female,u20
+140,37.95,,Manon DEPUYDT,02 APR 1997,BEL,1f1,Kessel-Lo (BEL),30 JUL 2016,1067,300-metres,sprints,female,u20
+140,37.95,,Emma VAN CAMP,11 OCT 2004,SUI,1f1,"Stade Olympique de la Pontaise, Lausanne (SUI)",06 MAY 2023,1067,300-metres,sprints,female,u20
+144,37.96,,Kornelia LESIEWICZ,14 AUG 2003,POL,2,"Wieslaw Maniak Municipal Athletic Stadium, Szczecin (POL)",16 AUG 2020,1066,300-metres,sprints,female,u20
+145,37.97,,Francena MCCORORY,20 OCT 1988,USA,1f1,"Rector Fieldhouse, Blacksburg, VA (USA) (i)",28 JAN 2005,1110,300-metres,sprints,female,u20
+145,37.97,,Kornelia LESIEWICZ,14 AUG 2003,POL,2,"Stadion MOSiR, Rumia (POL)",11 SEP 2021,1066,300-metres,sprints,female,u20
+145,37.97,,Audrey WERRO,27 MAR 2004,SUI,1f4,"Stade de la Saussaz, Chailly-sur-Montreux (SUI)",14 MAY 2022,1066,300-metres,sprints,female,u20
+145,37.97,,Berta SEGURA,06 JUN 2003,ESP,1,"Estadi Municipal Les Basses, Lleida (ESP)",07 JUL 2022,1066,300-metres,sprints,female,u20
+145,37.97,,Cohren CORBIN,,USA,1f1,"Armory Track&Field Center, New York, NY (USA) (i)",08 FEB 2025,1110,300-metres,sprints,female,u20
+145,37.97,,Briana ST LOUIS,,USA,1f5,"Vanderbilt Multipurpose Facility, Nashville, TN (USA) (i)",06 DEC 2025,1066,300-metres,sprints,female,u20
+151,37.98,,Guðbjörg Jóna BJARNADÓTTIR,24 DEC 2001,ISL,2f1,Göteborg (SWE),03 JUL 2016,1065,300-metres,sprints,female,u20
+151,37.98,,Zofia TOMCZYK,17 JUN 2008,POL,1f1,"KGHM Sleza Arena, Wrocław (POL) (i)",11 FEB 2024,1109,300-metres,sprints,female,u20
+153,37.99,,Talitha DIGGS,22 AUG 2002,USA,1f1,"Liberty Indoor Complex, Lynchburg, VA (USA) (i)",18 JAN 2020,1109,300-metres,sprints,female,u20
+153,37.99,,Terezie TÁBORSKÁ,11 FEB 2006,CZE,1,"Městský stadion Střelnice, Domažlice (CZE)",08 MAY 2024,1065,300-metres,sprints,female,u20
+155,38.00,,Shana COX,22 JAN 1985,USA,1,"New York, NY (USA) (i)",15 DEC 2001,1108,300-metres,sprints,female,u20
+155,38.00,,Ngozi Cynthia NWOKOCHA,28 SEP 1986,NGR,1,Heidelberg (GER),21 MAY 2005,1064,300-metres,sprints,female,u20
+155,38.00,,Jodie WILLIAMS,28 SEP 1993,GBR,1,Loughborough (GBR),22 MAY 2011,1064,300-metres,sprints,female,u20
+155,38.00,,Liefde SCHOEMAKER,06 DEC 2002,BEL,1f2,Dilbeek (BEL),17 JUL 2019,1064,300-metres,sprints,female,u20
+155,38.00,,Kornelia LESIEWICZ,14 AUG 2003,POL,1f1,"Arena, Toruń (POL) (i)",16 FEB 2020,1108,300-metres,sprints,female,u20
+160,38.01,,Pınar SAKA,05 NOV 1985,TUR,1,Istanbul (TUR),14 JUN 2003,1064,300-metres,sprints,female,u20
+160,38.01,,Symone DARIUS,04 JUL 1998,USA,2,"New York, NY (USA) (i)",19 FEB 2014,1108,300-metres,sprints,female,u20
+160,38.01,,Kornelia LESIEWICZ,14 AUG 2003,POL,3f1,"Stadion Śląski, Chorzów (POL)",20 JUN 2020,1064,300-metres,sprints,female,u20
+160,38.01,,Terezie TÁBORSKÁ,11 FEB 2006,CZE,1f2,"Atletický stadion Turnov, Turnov (CZE)",23 MAY 2023,1064,300-metres,sprints,female,u20
+164,38.02,,Minna LAUKKA,21 MAY 1987,FIN,1,Lahti (FIN),14 AUG 2004,1063,300-metres,sprints,female,u20
+164,38.02,,Natalia KACZMAREK,17 JAN 1998,POL,2,Wrocław (POL),14 MAY 2017,1063,300-metres,sprints,female,u20
+164,38.02,,Jonah ROSS,01 MAY 2002,USA,2f1,"Liberty Indoor Complex, Lynchburg, VA (USA) (i)",18 JAN 2020,1107,300-metres,sprints,female,u20
+164,38.02,,Shawnti JACKSON,02 MAY 2005,USA,3f2,"Liberty Indoor Complex, Lynchburg, VA (USA) (i)",18 JAN 2020,1107,300-metres,sprints,female,u20
+164,38.02,,Holly RYAN,,GBR,1,"Alexander Stadium, Birmingham (GBR)",12 JUL 2025,1063,300-metres,sprints,female,u20
+169,38.03,,Imke VERVAET,11 APR 1993,BEL,1f1,Lokeren (BEL),29 MAY 2011,1063,300-metres,sprints,female,u20
+169,38.03,,Shai-Anne DAVIS,04 DEC 1993,CAN,1f2,Ottawa (CAN) (i),11 FEB 2012,1106,300-metres,sprints,female,u20
+169,38.03,,Nikola BENDOVÁ,04 NOV 1999,CZE,2,"Sportovní areál Krajinka, Cheb (CZE)",02 AUG 2016,1063,300-metres,sprints,female,u20
+169,38.03,,Kayla DAVIS,21 DEC 2003,USA,1f15,"Winston Salem, NC (USA) (i)",15 DEC 2018,1106,300-metres,sprints,female,u20
+169,38.03,,Marta Amouhin AMANI,10 OCT 2004,ITA,1,"Arena Civica Gianni Brera, Milano (ITA)",30 APR 2022,1063,300-metres,sprints,female,u20
+174,38.04,,Lauren WILSON,24 NOV 1992,NZL,1,Dunedin (NZL),23 JAN 2010,1062,300-metres,sprints,female,u20
+174,38.04,,Maja POGOREVC,31 JUL 1996,SLO,1f3,Ravne Na Koroskem (SLO),16 MAY 2015,1062,300-metres,sprints,female,u20
+176,38.06,,Sydney SUTTON,11 NOV 2006,USA,1f1,"Virginia Beach Sports Center, Virginia Beach, VA (USA) (i)",19 JAN 2025,1105,300-metres,sprints,female,u20
+177,38.07,,Felecia MAJORS,11 FEB 1995,USA,2f1,"Birmingham, AL (USA) (i)",10 JAN 2014,1104,300-metres,sprints,female,u20
+177,38.07,,Symone DARIUS,04 JUL 1998,USA,1f3,"New York, NY (USA) (i)",25 JAN 2014,1104,300-metres,sprints,female,u20
+179,38.08,,Elise COOPER,07 FEB 2007,USA,4,"Virginia Beach Sports Center, Virginia Beach, VA (USA) (i)",12 JAN 2024,1104,300-metres,sprints,female,u20
+179,38.08,,Sofia SWINDELL,17 MAR 2007,ISV,2f2,"Armory Track&Field Center, New York, NY (USA) (i)",08 FEB 2025,1104,300-metres,sprints,female,u20
+179,38.08,,Linda BOTKOVÁ,2010,CZE,1f1,"Phönixplatz, Schwechat (AUT)",08 JUN 2025,1060,300-metres,sprints,female,u20
+182,38.09,,Anna HÄMÄLÄINEN,24 MAR 1994,FIN,2,Jyväskylä (FIN),13 AUG 2011,1059,300-metres,sprints,female,u20
+182,38.09,,Symone DARIUS,04 JUL 1998,USA,1f10,"New York, NY (USA) (i)",09 FEB 2014,1103,300-metres,sprints,female,u20
+182,38.09,,Lynna IRBY,06 DEC 1998,USA,1f6,"Lynchburg, VA (USA) (i)",13 JAN 2017,1103,300-metres,sprints,female,u20
+182,38.09,,Kimberly HARRIS,11 JUL 2002,USA,4f2,"Liberty Indoor Complex, Lynchburg, VA (USA) (i)",18 JAN 2020,1103,300-metres,sprints,female,u20
+182,38.09,,Liefde SCHOEMAKER,06 DEC 2002,BEL,1f1,"VITA Atletiek, Ninove (BEL)",08 SEP 2021,1059,300-metres,sprints,female,u20
+182,38.09,,Wiktoria GAJOSZ,06 JUL 2006,POL,1f1,"Hala Uniwersytetu, Rzeszów (POL) (i)",08 FEB 2025,1103,300-metres,sprints,female,u20
+188,38.10,,Patrycja WYCISZKIEWICZ,08 JAN 1994,POL,1,Łódź (POL),04 MAY 2013,1059,300-metres,sprints,female,u20
+188,38.10,,Cheriece HYLTON,12 DEC 1996,GBR,1,Dublin (IRL),20 JUL 2013,1059,300-metres,sprints,female,u20
+190,38.11,,Kylie LAMBERT,16 JUN 2004,BEL,3,"Topsporthal Vlaanderen, Gent (BEL) (i)",04 FEB 2023,1102,300-metres,sprints,female,u20
+191,38.12,,Christina BRENNAN,27 MAR 1995,CAN,1f5,London (CAN),24 JUL 2010,1058,300-metres,sprints,female,u20
+191,38.12,,Shae ANDERSON,07 APR 1999,USA,1,"Arcadia, CA (USA)",11 FEB 2017,1058,300-metres,sprints,female,u20
+191,38.12,,Kornelia LESIEWICZ,14 AUG 2003,POL,1h2,"Arena, Toruń (POL) (i)",15 FEB 2020,1102,300-metres,sprints,female,u20
+191,38.12,,Liefde SCHOEMAKER,06 DEC 2002,BEL,1f1,"Boudewijnstadion, Bruxelles (BEL)",16 MAY 2021,1058,300-metres,sprints,female,u20
+191,38.12,,Viktoriya MAKSIMOVA,11 NOV 2002,RUS,1f1,"Znamenskikh Arena, Moskva (RUS) (i)",24 DEC 2021,1102,300-metres,sprints,female,u20
+191,38.12,,Wiktoria GAJOSZ,06 JUL 2006,POL,1f1,"Hala Uniwersytetu, Rzeszów (POL) (i)",20 JAN 2024,1102,300-metres,sprints,female,u20
+191,38.12,,Wiktoria GAJOSZ,06 JUL 2006,POL,1f1,"Stadion MOSiR, Lublin (POL)",25 MAY 2024,1058,300-metres,sprints,female,u20
+198,38.13,,Tamari DAVIS,15 FEB 2003,USA,2f2,"Santa Fe High School Track, Alachua, FL (USA)",05 JUL 2020,1057,300-metres,sprints,female,u20
+198,38.13,,Miyu AKASAKA,21 MAR 2006,JPN,1f1,"Ehime Athletics Stadium, Matsuyama (JPN)",21 OCT 2023,1057,300-metres,sprints,female,u20
+200,38.14,,Glory Amuche NWOSU,24 DEC 1984,NGR,1,Alicante (ESP),23 APR 2003,1057,300-metres,sprints,female,u20
+200,38.14,,Polina MILLER,09 JUN 2000,ANA,1f4,Omsk (RUS) (i),23 DEC 2017,1101,300-metres,sprints,female,u20
+200,38.14,,Briana WILLIAMS,21 MAR 2002,JAM,2f1,"Hallandale, FL (USA)",10 FEB 2018,1057,300-metres,sprints,female,u20
+200,38.14,,Yarima GARCÍA,25 JUL 2004,CUB,5,"Estadio Olimpico Juan Pablo Duarte, Santo Domingo (DOM)",01 APR 2023,1057,300-metres,sprints,female,u20
+200,38.14,,Karolina ZBIČAJNIK,04 JAN 2005,SLO,1f3,"Atletski stadion Poljane, Maribor (SLO)",05 MAY 2024,1057,300-metres,sprints,female,u20
+205,38.15,,Madelief VAN LEUR,19 APR 2007,NED,4f2,"Sportcomplex Het Langepad, Rotterdam (NED)",26 JUL 2025,1056,300-metres,sprints,female,u20
+206,38.16,,Kendall BAISDEN,05 MAR 1995,USA,2,"New York, NY (USA) (i)",04 FEB 2012,1099,300-metres,sprints,female,u20
+206,38.16,,Jayla KIRKLAND,13 FEB 1999,USA,2f6,"Lynchburg, VA (USA) (i)",13 JAN 2017,1099,300-metres,sprints,female,u20
+206,38.16,,Misato SHIBATA,07 FEB 2008,JPN,1h1,"Sunrise Park, Saga (JPN)",11 OCT 2024,1055,300-metres,sprints,female,u20
+206,38.16,,Haru BALOGUN,10 FEB 2009,NGR,1,"Athletic Stadium, Hikone (JPN)",04 OCT 2025,1055,300-metres,sprints,female,u20
+210,38.17,,Rita OSSAI,12 OCT 1994,NGR,3,Shagamu (NGR),28 FEB 2012,1055,300-metres,sprints,female,u20
+210,38.17,,Hendrikje RICHTER,23 NOV 1997,GER,1f1,Pliezhausen (GER),08 MAY 2016,1055,300-metres,sprints,female,u20
+210,38.17,,Chloé RABAC,08 MAY 2005,SUI,2f1,"Stade Olympique de la Pontaise, Lausanne (SUI)",06 MAY 2023,1055,300-metres,sprints,female,u20
+210,38.17,,Holly RYAN,,GBR,1,"Moorways Stadium, Derby (GBR)",19 JUL 2025,1055,300-metres,sprints,female,u20
+210,38.17,,Holly RYAN,,GBR,1,"Alexander Stadium, Birmingham (GBR)",10 AUG 2025,1055,300-metres,sprints,female,u20
+215,38.18,,Na'taja BALLARD,2003,USA,1f3,"Hampton, VA (USA) (i)",31 JAN 2020,1098,300-metres,sprints,female,u20
+215,38.18,,Shiloh OMOTOSHO,28 DEC 2008,GBR,1,"Alexander Stadium, Birmingham (GBR)",28 JUL 2024,1054,300-metres,sprints,female,u20
+217,38.19,,Megan MOSS,22 MAR 2002,BAH,2f2,"Nutter Fieldhouse, Lexington, KY (USA) (i)",06 DEC 2019,0,300-metres,sprints,female,u20
+217,38.19,,Maya LOVE,2006,USA,2f6,"Virginia Beach Sports Center, Virginia Beach, VA (USA) (i)",18 JAN 2025,1098,300-metres,sprints,female,u20
+217,38.19,,Natalie DUMAS,,USA,3f2,"Armory Track&Field Center, New York, NY (USA) (i)",08 FEB 2025,1098,300-metres,sprints,female,u20
+220,38.20,,Dasia PRESSLEY,29 NOV 1997,USA,1f3,"New York, NY (USA) (i)",05 FEB 2016,1097,300-metres,sprints,female,u20
+220,38.20,,Elise COOPER,07 FEB 2007,USA,2,"Armory Track&Field Center, New York, NY (USA) (i)",11 FEB 2023,1097,300-metres,sprints,female,u20
+222,38.21,,Florence UWAKWE,28 JUL 1994,NGR,4,Shagamu (NGR),28 FEB 2012,1053,300-metres,sprints,female,u20
+222,38.21,,Barbora ŠPLECHTNOVÁ,31 JUL 2002,CZE,1f1,"Atletický stadion Slavia Praha, Praha (CZE)",29 MAY 2020,1053,300-metres,sprints,female,u20
+222,38.21,,Akari SAITO,22 MAR 2007,JPN,1,"Sunrise Park, Saga (JPN)",12 OCT 2024,1053,300-metres,sprints,female,u20
+225,38.22,,Precious HOLMES,27 NOV 1995,USA,3,"New York, NY (USA) (i)",02 FEB 2013,1096,300-metres,sprints,female,u20
+225,38.22,,Darcy COSLETT,07 MAY 2009,GBR,1,"Swansea Bay Sports Park, Swansea (GBR)",11 AUG 2024,1052,300-metres,sprints,female,u20
+227,38.23,,Kyle PLANTE,14 JUN 1994,USA,1,"Ithaca, NY (USA) (i)",03 MAR 2012,1096,300-metres,sprints,female,u20
+227,38.23,,Brandee' JOHNSON,03 APR 1998,USA,1f2,"Clemson, SC (USA) (i)",07 JAN 2017,1096,300-metres,sprints,female,u20
+229,38.24,,Tosin ADELEYE,07 FEB 1996,NGR,2,Abuja (NGR),14 MAR 2015,1051,300-metres,sprints,female,u20
+230,38.25,,Ngozi Cynthia NWOKOCHA,28 SEP 1986,NGR,3,Pliezhausen (GER),08 MAY 2005,1051,300-metres,sprints,female,u20
+230,38.25,,Wiktoria GAJOSZ,06 JUL 2006,POL,1f1,"Stadion MOSiR, Lublin (POL)",11 MAY 2024,1051,300-metres,sprints,female,u20
+232,38.26,,Irene EKELUND,08 MAR 1997,SWE,1f1,Göteborg (SWE),08 JUL 2012,1050,300-metres,sprints,female,u20
+232,38.26,,Syaira RICHARDSON,29 OCT 1998,USA,1,"Hampton, VA (USA) (i)",25 FEB 2017,1094,300-metres,sprints,female,u20
+232,38.26,,Kennedy BROWN,,USA,4f2,"Armory Track&Field Center, New York, NY (USA) (i)",08 FEB 2025,1094,300-metres,sprints,female,u20
+232,38.26,,Johanka ŠAFÁŘOVÁ,29 NOV 2007,CZE,2f1,"Stadion TJ Lokomotiva Olomouc,, Olomouc (CZE)",08 MAY 2025,1050,300-metres,sprints,female,u20
+236,38.27,,Stacey ONYEPUNUKA,,USA,2f2,"Vanderbilt Multipurpose Facility, Nashville, TN (USA) (i)",06 DEC 2025,1050,300-metres,sprints,female,u20
+237,38.28,,Sandrae FARQUHARSON,11 JUL 1993,JAM,1f2,"New York, NY (USA) (i)",05 FEB 2011,1093,300-metres,sprints,female,u20
+237,38.28,,Lada VONDROVÁ,06 SEP 1999,CZE,1f1,Praha (CZE) (i),12 JAN 2018,1093,300-metres,sprints,female,u20
+237,38.28,,Xahria SANTIAGO,09 OCT 1999,CAN,1f2,"Geneva, OH (USA) (i)",09 FEB 2018,0,300-metres,sprints,female,u20
+237,38.28,,Etty SISSON,22 FEB 2005,GBR,1,"Moorways Stadium, Derby (GBR)",25 SEP 2021,1049,300-metres,sprints,female,u20
+237,38.28,,Darcy COSLETT,07 MAY 2009,GBR,2,"Alexander Stadium, Birmingham (GBR)",28 JUL 2024,1049,300-metres,sprints,female,u20
+237,38.28,,Ariike ELIJAH,04 AUG 2006,USA,1f3,"Clemson Indoor Track & Field Complex, Clemson, SC (USA) (i)",06 DEC 2024,1093,300-metres,sprints,female,u20
+237,38.28,,Haru BALOGUN,10 FEB 2009,NGR,1h1,"Athletic Stadium, Hikone (JPN)",03 OCT 2025,1049,300-metres,sprints,female,u20
+244,38.29,,Aaliyah PYATT,,USA,1f1,"Lynchburg, VA (USA) (i)",04 JAN 2020,1092,300-metres,sprints,female,u20
+244,38.29,,Maja SCHORR,10 JUN 2004,GER,3f2,"Schönbuchstadion, Pliezhausen (GER)",14 MAY 2023,1048,300-metres,sprints,female,u20
+244,38.29,,Kennedy BROWN,,USA,3,"Ott Center for Track & Field, Philadelphia, PA (USA) (i)",01 MAR 2025,1092,300-metres,sprints,female,u20
+244,38.29,,Payton PAYNE,,USA,4,"Ott Center for Track & Field, Philadelphia, PA (USA) (i)",01 MAR 2025,1092,300-metres,sprints,female,u20
+248,38.31,,Adrianna JANOWICZ-PÓŁTORAK,16 APR 1995,POL,1f4,Poznan (POL),12 JUL 2012,1047,300-metres,sprints,female,u20
+248,38.31,,Amanda CRAWFORD,15 MAY 1999,GRN,1,"New York, NY (USA) (i)",27 FEB 2016,1091,300-metres,sprints,female,u20
+248,38.31,,Pauline RICHTER,07 JUL 2007,GER,1f3,"Buniamshof, Lübeck (GER)",26 JUN 2022,1047,300-metres,sprints,female,u20
+248,38.31,,Awtif IMOLEAYO AHMED,09 APR 2005,BRN,6,"Estadio Olimpico Juan Pablo Duarte, Santo Domingo (DOM)",01 APR 2023,1047,300-metres,sprints,female,u20
+248,38.31,,Noa CHODOKUFA,,GBR,2,"Alexander Stadium, Birmingham (GBR)",10 AUG 2025,1047,300-metres,sprints,female,u20
+253,38.32,,Özge AKIN,17 JUN 1985,TUR,2,Istanbul (TUR),14 JUN 2003,1047,300-metres,sprints,female,u20
+253,38.32,,Ella RÄSÄNEN,27 JAN 1994,FIN,1f3,Nokia (FIN),27 JUN 2011,1047,300-metres,sprints,female,u20
+253,38.32,,Bendere OBOYA,17 APR 2000,AUS,1,Sydney (AUS),29 NOV 2018,1047,300-metres,sprints,female,u20
+253,38.32,,Talitha DIGGS,22 AUG 2002,USA,1,"Ocean Breeze Athl. Complex, New York, NY (USA) (i)",04 JAN 2020,1091,300-metres,sprints,female,u20
+253,38.32,,Noa CHODOKUFA,,GBR,2,"Alexander Stadium, Birmingham (GBR)",12 JUL 2025,1047,300-metres,sprints,female,u20
+258,38.33,,Randy GIVENS,27 MAR 1962,USA,2h1,"Pocatello, ID (USA) (i)",13 MAR 1981,1090,300-metres,sprints,female,u20
+258,38.33,,Veronica VANCARDO,26 SEP 2000,SUI,3,Langenthal (SUI),02 AUG 2018,1046,300-metres,sprints,female,u20
+258,38.33,,Aaliyah PYATT,,USA,1h5,"Armory Track&Field Center, New York, NY (USA) (i)",28 DEC 2019,1090,300-metres,sprints,female,u20
+261,38.34,,Myla GREENE,08 FEB 2005,USA,3,"Armory Track&Field Center, New York, NY (USA) (i)",11 FEB 2023,1090,300-metres,sprints,female,u20
+261,38.34,,Madelief VAN LEUR,19 APR 2007,NED,1f3,"Sportpark Ter Specke, Lisse (NED)",13 MAY 2023,1046,300-metres,sprints,female,u20
+261,38.34,,Terezie TÁBORSKÁ,11 FEB 2006,CZE,1f3,"Atletická hala Otakara Jandery, Praha (CZE) (i)",23 JAN 2024,1090,300-metres,sprints,female,u20
+261,38.34,,Abigail NORUWA,01 SEP 2006,NED,3f2,"Sportpark Ter Specke, Lisse (NED)",10 MAY 2025,1046,300-metres,sprints,female,u20
+265,38.35,,Elanor CANEY,28 MAY 1984,GBR,1,Sheffield (GBR),09 JUL 2000,1045,300-metres,sprints,female,u20
+265,38.35,,Kadecia BAIRD,24 FEB 1995,GUY,1,"New York, NY (USA) (i)",17 DEC 2011,1089,300-metres,sprints,female,u20
+265,38.35,,Dynasty MCGEE,15 AUG 1993,USA,2f2,"University Park, PA (USA) (i)",15 DEC 2012,1089,300-metres,sprints,female,u20
+265,38.35,,Natalia KACZMAREK,17 JAN 1998,POL,1f3,Spala (POL) (i),06 FEB 2016,1089,300-metres,sprints,female,u20
+265,38.35,,Izzy GOUDROS,12 AUG 2003,CAN,1f1,"Boston Univ. Track & Tennis Center, Boston, MA (USA) (i)",22 JAN 2022,1089,300-metres,sprints,female,u20
+265,38.35,,Ririka MIYACHI,05 OCT 2005,JPN,2,"Prefectural Stadium, Kagoshima (JPN)",14 OCT 2023,1045,300-metres,sprints,female,u20
+265,38.35,,Ashley FULTON,,USA,2f3,"Armory Track&Field Center, New York, NY (USA) (i)",11 FEB 2024,1089,300-metres,sprints,female,u20
+265,38.35,,Lilje LOPES PATEY,15 FEB 2007,NOR,1,"Stampesletta, Lillehammer (NOR)",23 AUG 2025,1045,300-metres,sprints,female,u20
+273,38.36,,Dezerea BRYANT,27 APR 1993,USA,1f1,"Clemson, SC (USA) (i)",01 DEC 2012,1089,300-metres,sprints,female,u20
+273,38.36,,Lauren RUSSELL,16 MAR 1998,GBR,3,Newham (GBR),29 MAY 2017,1045,300-metres,sprints,female,u20
+273,38.36,,Giulia SENN,19 DEC 2001,SUI,3,"McArthur Stadium, Potchefstroom (RSA)",04 FEB 2020,1045,300-metres,sprints,female,u20
+273,38.36,,Kennedy BROWN,,USA,2f1,"Virginia Beach Sports Center, Virginia Beach, VA (USA) (i)",19 JAN 2025,1089,300-metres,sprints,female,u20
+277,38.37,,Susana LACHELE,10 JUL 2000,POL,1f1,Toruń (POL) (i),02 FEB 2019,1088,300-metres,sprints,female,u20
+277,38.37,,Madison WHYTE,17 OCT 2004,USA,2f8,"Virginia Beach Sports Center, Virginia Beach, VA (USA) (i)",14 JAN 2022,1088,300-metres,sprints,female,u20
+277,38.37,,Shiloh OMOTOSHO,28 DEC 2008,GBR,1h3,"Alexander Stadium, Birmingham (GBR)",11 JUL 2025,1044,300-metres,sprints,female,u20
+277,38.37,,Shiloh OMOTOSHO,28 DEC 2008,GBR,3,"Alexander Stadium, Birmingham (GBR)",12 JUL 2025,1044,300-metres,sprints,female,u20
+277,38.37,,Sade GRAY,09 FEB 2006,USA,1f5,"Clemson Indoor Track & Field Complex, Clemson, SC (USA) (i)",05 DEC 2025,1088,300-metres,sprints,female,u20
+282,38.38,,Lauren GALE,01 JAN 2000,CAN,1f3,St. Catherine's (CAN),18 JUL 2015,1044,300-metres,sprints,female,u20
+282,38.38,,Lanae-Tava THOMAS,28 JAN 2001,USA,1f2,"New York, NY (USA) (i)",06 FEB 2016,1088,300-metres,sprints,female,u20
+282,38.38,,Britton WILSON,13 NOV 2000,USA,1f5,"Lynchburg, VA (USA) (i)",19 JAN 2018,1088,300-metres,sprints,female,u20
+282,38.38,,Sydney SUTTON,11 NOV 2006,USA,4,"Armory Track&Field Center, New York, NY (USA) (i)",11 FEB 2023,1088,300-metres,sprints,female,u20
+282,38.38,,Sophie RAMBO,,USA,3f6,"Virginia Beach Sports Center, Virginia Beach, VA (USA) (i)",18 JAN 2025,1088,300-metres,sprints,female,u20
+282,38.38,,Paula SPRINGSTEIN,2008,GER,1f2,"Jahnstadion, Neubrandenburg (GER)",03 MAY 2025,1044,300-metres,sprints,female,u20
+282,38.38,,Atang NAANE,30 MAR 2006,RSA,1f1,"UJ Stadium, Johannesburg (RSA)",29 NOV 2025,1044,300-metres,sprints,female,u20
+289,38.39,,Kimberley EFONYE,05 MAR 1994,BEL,1f1,Lokeren (BEL),29 MAY 2011,1043,300-metres,sprints,female,u20
+289,38.39,,Lauryn GHEE,31 OCT 1998,USA,1,"Lubbock, TX (USA) (i)",27 FEB 2016,1087,300-metres,sprints,female,u20
+289,38.39,,Ririka MIYACHI,05 OCT 2005,JPN,1h5,"Prefectural Stadium, Kagoshima (JPN)",13 OCT 2023,1043,300-metres,sprints,female,u20
+289,38.39,,Anastazja KUŚ,11 MAY 2007,POL,1f1,"Uniwersytetu Warmińsko-Mazurskiego, Olsztyn (POL)",05 MAY 2024,1043,300-metres,sprints,female,u20
+289,38.39,,Breanne BARNETT,,USA,2f1,"Armory Track&Field Center, New York, NY (USA) (i)",08 FEB 2025,1087,300-metres,sprints,female,u20
+294,38.40,,Irene EKELUND,08 MAR 1997,SWE,1,Upplands Väsby (SWE),12 AUG 2012,1042,300-metres,sprints,female,u20
+294,38.40,,Anastasiya BRYZHINA,09 JAN 1998,UKR,1f3,Jyväskylä (FIN) (i),02 FEB 2016,1087,300-metres,sprints,female,u20
+296,38.41,,Elanor CANEY,28 MAY 1984,GBR,1,Sheffield (GBR),30 JUL 2000,1042,300-metres,sprints,female,u20
+296,38.41,,Tiandra PONTEEN,09 NOV 1984,SKN,1,"New York, NY (USA) (i)",17 FEB 2001,1086,300-metres,sprints,female,u20
+296,38.41,,Marie GAYOT,18 DEC 1989,FRA,1,Dreux (FRA),16 JUL 2006,1042,300-metres,sprints,female,u20
+296,38.41,,Natalia WĘGLARZ,17 JAN 1998,POL,1,Bielsko-Biala (POL),14 MAY 2016,1042,300-metres,sprints,female,u20
+296,38.41,,Anastazja KUŚ,11 MAY 2007,POL,2f2,"Uniwersytetu Warmińsko-Mazurskiego, Olsztyn (POL)",03 SEP 2023,1042,300-metres,sprints,female,u20
+296,38.41,,Gina CERTO,,USA,1f2,"Ocean Breeze Athl. Complex, New York, NY (USA) (i)",24 JAN 2025,1086,300-metres,sprints,female,u20
+296,38.41,,Darcy COSLETT,07 MAY 2009,GBR,1,"Cardiff Athletic Stadium, Cardiff (GBR)",28 JUN 2025,1042,300-metres,sprints,female,u20
+303,38.42,,Britton WILSON,13 NOV 2000,USA,1f6,"Hampton, VA (USA) (i)",24 FEB 2018,1086,300-metres,sprints,female,u20
+303,38.42,,Barbora ŠPLECHTNOVÁ,31 JUL 2002,CZE,1f1,Praha (CZE) (i),22 JAN 2019,1086,300-metres,sprints,female,u20
+303,38.42,,Miku TAKINO,19 JUN 2005,JPN,1h5,"Ehime Athletics Stadium, Matsuyama (JPN)",22 OCT 2022,1041,300-metres,sprints,female,u20
+303,38.42,,Shiloh OMOTOSHO,28 DEC 2008,GBR,3,"Alexander Stadium, Birmingham (GBR)",10 AUG 2025,1041,300-metres,sprints,female,u20
+303,38.42,,Rin ORIHARA,02 OCT 2008,JPN,1h5,"Prefectural Stadium, Ise (JPN)",19 OCT 2025,1041,300-metres,sprints,female,u20
+308,38.43,,LaTasha COLANDER,23 AUG 1976,USA,1,"Fairfax, VA (USA) (i)",05 MAR 1994,1085,300-metres,sprints,female,u20
+308,38.43,,Hayley MILLS-JONES,04 SEP 1988,GBR,1,Birmingham (GBR),09 JUL 2005,1041,300-metres,sprints,female,u20
+308,38.43,,Stormy KENDRICK,06 JAN 1991,USA,1f1,"Clemson, SC (USA) (i)",04 DEC 2010,1085,300-metres,sprints,female,u20
+308,38.43,,Sabrina BAKARE,14 MAY 1996,GBR,1,London (GBR),09 MAY 2012,1041,300-metres,sprints,female,u20
+308,38.43,,Tiona LATTIMORE,,USA,3f2,"Bloomington, IN (USA) (i)",08 DEC 2017,1085,300-metres,sprints,female,u20
+308,38.43,,Tatianna MARTINEZ,29 AUG 2001,TTO,1f2,"Armory Track&Field Center, New York, NY (USA) (i)",16 FEB 2019,1085,300-metres,sprints,female,u20
+308,38.43,,Pauline RICHTER,07 JUL 2007,GER,1,"Stadion Obervieland, Bremen (GER)",10 JUL 2022,1041,300-metres,sprints,female,u20
+308,38.43,,Jennifer SAITA,03 JAN 2006,JPN,3,"Prefectural Stadium, Kagoshima (JPN)",14 OCT 2023,1041,300-metres,sprints,female,u20
+308,38.43,,Jasmine SHARPS,2006,USA,1f6,"Virginia Beach Sports Center, Virginia Beach, VA (USA) (i)",12 JAN 2024,1085,300-metres,sprints,female,u20
+308,38.43,,Linda BOTKOVÁ,2010,CZE,2f2,"Atletický stadion, Ustí Nad Orlicí (CZE)",20 AUG 2024,1041,300-metres,sprints,female,u20
+308,38.43,,Darcy COSLETT,07 MAY 2009,GBR,4,"Alexander Stadium, Birmingham (GBR)",10 AUG 2025,1041,300-metres,sprints,female,u20
+319,38.44,,Juanita BROADDUS,12 MAY 1985,USA,2,"New York, NY (USA) (i)",21 DEC 2002,1084,300-metres,sprints,female,u20
+319,38.44,,Aaliyah PYATT,,USA,3f1,"Armory Track&Field Center, New York, NY (USA) (i)",08 FEB 2020,1084,300-metres,sprints,female,u20
+319,38.44,,Charlotte HENRICH,30 AUG 2006,GBR,1,"Black Lion Track, Gillingham (GBR)",11 JUN 2022,1040,300-metres,sprints,female,u20
+319,38.44,,Linda BOTKOVÁ,2010,CZE,1f1,"Atletická hala Otakara Jandery, Praha (CZE) (i)",03 MAR 2024,1084,300-metres,sprints,female,u20
+319,38.44,,Payton ROGERS,2010,CAN,1,"Foothills Athletic Park, Calgary (CAN)",09 AUG 2025,1040,300-metres,sprints,female,u20
+319,38.44,,Rin ORIHARA,02 OCT 2008,JPN,2f1,"Prefectural Stadium, Ise (JPN)",19 OCT 2025,1040,300-metres,sprints,female,u20
+325,38.45,,Lenora GUION FIRMIN,07 AUG 1991,FRA,1,Vénissieux (FRA),20 JUL 2008,1040,300-metres,sprints,female,u20
+325,38.45,,Brandee' JOHNSON,03 APR 1998,USA,2f2,"New York, NY (USA) (i)",06 FEB 2016,1084,300-metres,sprints,female,u20
+325,38.45,,Giulia SENN,19 DEC 2001,SUI,1f1,Langenthal (SUI),30 MAY 2019,1040,300-metres,sprints,female,u20
+325,38.45,,Anastazja KUŚ,11 MAY 2007,POL,1f1,"Uniwersytetu Warmińsko-Mazurskiego, Olsztyn (POL)",06 MAY 2023,1040,300-metres,sprints,female,u20
+329,38.46,,Jasmine MITCHELL,25 MAR 1995,USA,1f3,"Bloomington, IN (USA) (i)",12 DEC 2014,1083,300-metres,sprints,female,u20
+329,38.46,,Christine IRVING,29 MAY 1999,JAM,1,Spanish Town (JAM),16 DEC 2017,1039,300-metres,sprints,female,u20
+329,38.46,,Hannah FOSTER,15 MAR 2002,GBR,1,Bedford (GBR),25 AUG 2018,1039,300-metres,sprints,female,u20
+329,38.46,,Britton WILSON,13 NOV 2000,USA,1f5,"Hampton, VA (USA) (i)",23 FEB 2019,1083,300-metres,sprints,female,u20
+329,38.46,,Yuzuki KOJIMA,25 SEP 2004,JPN,1h4,"Tochigi Prefectural Sports Park Stadium, Utsunomiya (JPN)",09 OCT 2022,1039,300-metres,sprints,female,u20
+329,38.46,,Tyler LOWE,04 OCT 2006,USA,1f7,"Virginia Beach Sports Center, Virginia Beach, VA (USA) (i)",12 JAN 2024,1083,300-metres,sprints,female,u20
+335,38.47,,Carmen GEDLING,08 APR 1990,GBR,1,Grangemouth (GBR),16 JUL 2006,1039,300-metres,sprints,female,u20
+335,38.47,,Cheriece HYLTON,12 DEC 1996,GBR,1,Birmingham (GBR),08 SEP 2013,1039,300-metres,sprints,female,u20
+335,38.47,,Shania COLLINS,14 NOV 1996,USA,1f1,"Blacksburg, VA (USA) (i)",01 FEB 2014,1083,300-metres,sprints,female,u20
+335,38.47,,Rin AOKI,08 APR 1998,JPN,3,Izumo (JPN),22 APR 2017,1039,300-metres,sprints,female,u20
+335,38.47,,Laura Elena RAMI,16 OCT 2002,ITA,1f2,"Stadio dei Marmi, Roma (ITA)",16 APR 2021,1039,300-metres,sprints,female,u20
+335,38.47,,Lisa FRANK,09 SEP 2007,SUI,1f1,"Stadion Schützenmatte, Basel (SUI)",01 MAY 2024,1039,300-metres,sprints,female,u20
+335,38.47,,Johanka ŠAFÁŘOVÁ,29 NOV 2007,CZE,1f1,"Atletická hala, Ostrava (CZE) (i)",04 JAN 2025,1083,300-metres,sprints,female,u20
+335,38.47,,Atajas STEPHANIE-VAZQUEZ,25 MAY 2008,USA,1f2,"Virginia Beach Sports Center, Virginia Beach, VA (USA) (i)",18 JAN 2025,1083,300-metres,sprints,female,u20
+343,38.48,,Merve AYDIN,17 MAR 1990,TUR,2,Istanbul (TUR),06 JUN 2009,1038,300-metres,sprints,female,u20
+343,38.48,,Irene EKELUND,08 MAR 1997,SWE,1,Växjö (SWE),22 SEP 2012,1038,300-metres,sprints,female,u20
+343,38.48,,Victoria TACHINSKI,15 JUN 1999,CAN,1f8,Winnipeg (CAN) (i),06 FEB 2015,1082,300-metres,sprints,female,u20
+343,38.48,,D'Jai BAKER,01 SEP 1998,USA,2f3,"New York, NY (USA) (i)",05 FEB 2016,1082,300-metres,sprints,female,u20
+343,38.48,,Lenysse DYER,06 MAR 1997,USA,1f2,"Bloomington, IN (USA) (i)",09 DEC 2016,1082,300-metres,sprints,female,u20
+343,38.48,,Rebecca BORGA,11 JUN 1998,ITA,1f2,Milano (ITA),16 SEP 2017,1038,300-metres,sprints,female,u20
+343,38.48,,Celera BARNES,02 DEC 1998,USA,1f3,"Bloomington, IN (USA) (i)",08 DEC 2017,1082,300-metres,sprints,female,u20
+343,38.48,,Shawnti JACKSON,02 MAY 2005,USA,2f16,"JDL Fast Track, Winston Salem, NC (USA) (i)",11 JAN 2020,1082,300-metres,sprints,female,u20
+343,38.48,,Kayla DAVIS,21 DEC 2003,USA,2f4,"Armory Track&Field Center, New York, NY (USA) (i)",29 JAN 2022,1082,300-metres,sprints,female,u20
+343,38.48,,Leonor FERREIRA,03 SEP 2004,POR,2f1,"Estádio 1o de Maio, Lisboa (POR)",25 APR 2023,1038,300-metres,sprints,female,u20
+343,38.48,,Mizuyu EHARA,13 SEP 2005,JPN,4,"Prefectural Stadium, Kagoshima (JPN)",14 OCT 2023,1038,300-metres,sprints,female,u20
+354,38.49,,Gemma NICOL,27 JUL 1986,GBR,1,Tullamore (IRL),03 AUG 2002,1038,300-metres,sprints,female,u20
+354,38.49,,Nenah DE CONINCK,02 SEP 1996,BEL,1f1,Gent (BEL) (i),14 FEB 2015,1082,300-metres,sprints,female,u20
+354,38.49,,Giulia SENN,19 DEC 2001,SUI,1f1,Lausanne (SUI),11 MAY 2019,1038,300-metres,sprints,female,u20
+354,38.49,,Yuzuki KOJIMA,25 SEP 2004,JPN,1,"Tochigi Prefectural Sports Park Stadium, Utsunomiya (JPN)",10 OCT 2022,1038,300-metres,sprints,female,u20
+354,38.49,,Line Safaa AL-SAIDDI,17 DEC 2006,NOR,7,"Fana Stadion, Bergen (NOR)",03 JUN 2025,1038,300-metres,sprints,female,u20
+359,38.50,,Hannah WALLER,19 DEC 2001,USA,1f4,"Hampton, VA (USA) (i)",24 FEB 2018,1081,300-metres,sprints,female,u20
+359,38.50,,Holly MPASSY,12 JUL 2003,GBR,1,Sheffield (GBR) (i),24 FEB 2019,1081,300-metres,sprints,female,u20
+359,38.50,,Dianna PROCTOR,25 APR 2005,CAN,1f1,"Universiade Pavilion, Edmonton (CAN) (i)",10 FEB 2024,1081,300-metres,sprints,female,u20

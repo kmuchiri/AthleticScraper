@@ -1390,7 +1390,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 1384,3:53.85,,Lopez LOMONG,01 JAN 1985,USA,12,"Hayward Field, Eugene, OR (USA)",04 JUN 2011,1151,one-mile,middlelong,male,senior
 1384,3:53.85,,Ryan GREGSON,26 APR 1990,AUS,6f2,"Hayward Field, Eugene, OR (USA)",31 MAY 2014,1151,one-mile,middlelong,male,senior
 1384,3:53.85,,Edward CHESEREK,02 FEB 1994,KEN,1,"Winston Salem, NC (USA) (i)",02 FEB 2018,1210,one-mile,middlelong,male,senior
-1384,3:53.85,,Liam MURPHY,04 FEB 2002,USA,1f1,"Ashenfelter Indoor Track, State College, PA (USA) (i)",26 JAN 2024,1210,one-mile,middlelong,male,senior
+1384,3:53.85,,Liam MURPHY,02 APR 2002,USA,1f1,"Ashenfelter Indoor Track, State College, PA (USA) (i)",26 JAN 2024,1210,one-mile,middlelong,male,senior
 1393,3:53.86,,John WALKER,12 JAN 1952,NZL,1,Gateshead (GBR),05 AUG 1986,1151,one-mile,middlelong,male,senior
 1393,3:53.86,,Marcus O'SULLIVAN,22 DEC 1961,IRL,5,St. Petersburg (RUS),26 JUL 1994,1151,one-mile,middlelong,male,senior
 1393,3:53.86,,Graham DAVIDSON,14 OCT 1978,RSA,8,"FBK Stadium, Hengelo (NED)",01 JUN 2003,1151,one-mile,middlelong,male,senior
@@ -1431,7 +1431,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 1426,3:53.95,,Reuben REINA,1999,USA,3f7,"Randal Tyson Indoor Center, Fayetteville, AR (USA) (i)",01 FEB 2025,1209,one-mile,middlelong,male,senior
 1431,3:53.96,,Graham WILLIAMSON,15 JUN 1960,GBR,3,London (GBR),23 JUL 1983,1150,one-mile,middlelong,male,senior
 1431,3:53.96,,Bethwell BIRGEN,06 AUG 1988,KEN,9,"Bislett Stadion, Oslo (NOR)",11 JUN 2014,1150,one-mile,middlelong,male,senior
-1431,3:53.96,,Liam MURPHY,04 FEB 2002,USA,9,"Armory Track&Field Center, New York, NY (USA) (i)",11 FEB 2024,1209,one-mile,middlelong,male,senior
+1431,3:53.96,,Liam MURPHY,02 APR 2002,USA,9,"Armory Track&Field Center, New York, NY (USA) (i)",11 FEB 2024,1209,one-mile,middlelong,male,senior
 1434,3:53.97,,Lopez LOMONG,01 JAN 1985,USA,5,"Eugene, OR (USA)",08 JUN 2008,1150,one-mile,middlelong,male,senior
 1434,3:53.97,,Jakub HOLUŠA,20 FEB 1988,CZE,4f2,"Hayward Field, Eugene, OR (USA)",27 MAY 2017,1150,one-mile,middlelong,male,senior
 1434,3:53.97,,Craig ENGELS,01 MAY 1994,USA,2,"Falmouth High School, Falmouth, MA (USA)",14 AUG 2021,1150,one-mile,middlelong,male,senior
@@ -1741,7 +1741,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 1740,3:54.61,,Ray FLYNN,22 JAN 1957,IRL,5,Cork (IRL),13 JUL 1983,1142,one-mile,middlelong,male,senior
 1740,3:54.61,,Charlie DA'VALL GRICE,07 NOV 1993,GBR,13,"Olympic Stadium, London (GBR)",27 JUL 2013,1142,one-mile,middlelong,male,senior
 1740,3:54.61,,Ronan MCMAHON-STAGGS,01 SEP 2002,IRL,5f22,"Dempsey Indoor, Seattle, WA (USA) (i)",27 JAN 2024,1142,one-mile,middlelong,male,senior
-1740,3:54.61,,Liam MURPHY,04 FEB 2002,USA,2f1,"Ott Center for Track & Field, Philadelphia, PA (USA) (i)",25 JAN 2025,1200,one-mile,middlelong,male,senior
+1740,3:54.61,,Liam MURPHY,02 APR 2002,USA,2f1,"Ott Center for Track & Field, Philadelphia, PA (USA) (i)",25 JAN 2025,1200,one-mile,middlelong,male,senior
 1744,3:54.62,,Craig MASBACK,31 MAR 1955,USA,9,Oslo (NOR),26 JUN 1982,1142,one-mile,middlelong,male,senior
 1744,3:54.62,,Victor RADEBE,27 SEP 1961,RSA,2,Port Elizabeth (RSA),11 MAR 1987,1142,one-mile,middlelong,male,senior
 1744,3:54.62,,José Luis GONZÁLEZ,08 DEC 1957,ESP,1,Barcelona (ESP),15 JUL 1987,1142,one-mile,middlelong,male,senior
@@ -2459,58 +2459,59 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 2453,3:55.91,,Paul RYAN,29 MAY 1997,USA,1,"Falmouth High School, Falmouth, MA (USA)",20 AUG 2022,1125,one-mile,middlelong,male,senior
 2459,3:55.92,,Kasey KNEVELBAARD,02 SEP 1996,USA,1f3,"Boston Univ. Track & Tennis Center, Boston, MA (USA) (i)",26 FEB 2023,1183,one-mile,middlelong,male,senior
 2459,3:55.92,,Jaxson HOEY,27 DEC 1997,USA,4f1,"Boston Univ. Track & Tennis Center, Boston, MA (USA) (i)",07 DEC 2024,1183,one-mile,middlelong,male,senior
-2461,3:55.93,,Laban ROTICH,20 JAN 1969,KEN,7,"Eugene, OR (USA)",24 MAY 2003,1125,one-mile,middlelong,male,senior
-2461,3:55.93,,Laban ROTICH,20 JAN 1969,KEN,2,"Fayetteville, AR (USA) (i)",14 FEB 2004,1183,one-mile,middlelong,male,senior
-2461,3:55.93,,Nick WILLIS,25 APR 1983,NZL,1,"Fayetteville, AR (USA) (i)",15 FEB 2008,1183,one-mile,middlelong,male,senior
-2461,3:55.93,,Abdelaati IGUIDER,25 MAR 1987,MAR,14,"Hayward Field, Eugene, OR (USA)",01 JUN 2013,1125,one-mile,middlelong,male,senior
-2461,3:55.93,,Colby ALEXANDER,13 JUN 1991,USA,3,Dublin (IRL),22 JUL 2016,1125,one-mile,middlelong,male,senior
-2461,3:55.93,,Eliud KIPSANG,09 SEP 1996,KEN,2,"Randal Tyson Indoor Center, Fayetteville, AR (USA) (i)",13 MAR 2021,1183,one-mile,middlelong,male,senior
-2461,3:55.93,,John GREGOREK,07 DEC 1991,USA,5,"Armory Track&Field Center, New York, NY (USA) (i)",29 JAN 2022,1183,one-mile,middlelong,male,senior
-2461,3:55.93,,Yasin SADO,10 MAR 2001,USA,3f1,"Ashenfelter Indoor Track, State College, PA (USA) (i)",26 JAN 2024,1183,one-mile,middlelong,male,senior
-2461,3:55.93,,Jack CRULL,13 FEB 2002,USA,6f1,"The Track at New Balance, Boston, MA (USA) (i)",14 FEB 2025,1183,one-mile,middlelong,male,senior
-2470,3:55.94,,José Luis CARREIRA,30 MAR 1962,ESP,1,Madrid (ESP),04 JUN 1987,1125,one-mile,middlelong,male,senior
-2470,3:55.94,,Fabio OLIVO,05 FEB 1966,ITA,5,San Donato Milanese (ITA),30 MAY 1992,1125,one-mile,middlelong,male,senior
-2470,3:55.94,,Abdihamid NUR,14 OCT 1997,USA,3f6,"Dempsey Indoor, Seattle, WA (USA) (i)",29 JAN 2022,1125,one-mile,middlelong,male,senior
-2470,3:55.94,,Vincent CIATTEI,21 JAN 1995,USA,4,"Armory Track&Field Center, New York, NY (USA) (i)",27 JAN 2024,1183,one-mile,middlelong,male,senior
-2470,3:55.94,,Raphael PALLITSCH,18 DEC 1989,AUT,5,"Atletická hala, Ostrava (CZE) (i)",04 FEB 2025,1183,one-mile,middlelong,male,senior
-2475,3:55.95,,Elkanah Onkware ANGWENYI,05 FEB 1983,KEN,1,"Boston, MA (USA) (i)",28 JAN 2006,1182,one-mile,middlelong,male,senior
-2475,3:55.95,,Paul RYAN,29 MAY 1997,USA,1,"Saint Louis University High School, Saint Louis, MO (USA)",02 JUN 2022,1125,one-mile,middlelong,male,senior
-2477,3:55.96,,Steve SCOTT,05 MAY 1956,USA,1,Stockholm (SWE),03 JUL 1979,1125,one-mile,middlelong,male,senior
-2477,3:55.96,,David LEWIS,15 OCT 1961,GBR,3,Oslo (NOR),23 AUG 1983,1125,one-mile,middlelong,male,senior
-2477,3:55.96,,Stefano MEI,03 FEB 1963,ITA,7,Roma (ITA),01 SEP 1983,1125,one-mile,middlelong,male,senior
-2477,3:55.96,,Alex KIPCHIRCHIR,26 NOV 1984,KEN,10,Oslo (NOR),15 JUN 2007,1125,one-mile,middlelong,male,senior
-2477,3:55.96,,Paul CHELIMO,27 OCT 1990,USA,3,"Alexander Stadium, Birmingham (GBR)",18 AUG 2018,1125,one-mile,middlelong,male,senior
-2477,3:55.96,,Yohanes ASMARE,29 MAR 2006,ETH,7f1,"Boston Univ. Track & Tennis Center, Boston, MA (USA) (i)",26 JAN 2024,1182,one-mile,middlelong,male,senior
-2477,3:55.96,,Camden MARSHALL,01 MAY 2003,USA,1,"Gately Indoor TF Center, Chicago, IL (USA) (i)",09 FEB 2024,1182,one-mile,middlelong,male,senior
-2484,3:55.97,,John WALKER,12 JAN 1952,NZL,2,London (GBR),07 SEP 1984,1125,one-mile,middlelong,male,senior
-2484,3:55.97,,Ryan GREGSON,26 APR 1990,AUS,8,"New York, NY (USA) (i)",16 FEB 2013,1182,one-mile,middlelong,male,senior
-2484,3:55.97,,Stewart MCSWEYN,01 JUN 1995,AUS,2,Cork (IRL),18 JUL 2017,1125,one-mile,middlelong,male,senior
-2484,3:55.97,,Charlie MARQUARDT,,USA,9,"Raleigh, NC (USA)",03 AUG 2018,1125,one-mile,middlelong,male,senior
-2484,3:55.97,,Nicholas GRIGGS,18 DEC 2004,IRL,1f1,"Mary Peters Track, Belfast (GBR)",14 JUN 2025,1125,one-mile,middlelong,male,senior
-2489,3:55.98,,Frank O'MARA,17 JUL 1960,IRL,2,Madrid (ESP),04 JUN 1987,1124,one-mile,middlelong,male,senior
-2489,3:55.98,,Martin KEINO,20 JUN 1972,KEN,7f1,"Eugene, OR (USA)",31 MAY 1998,1124,one-mile,middlelong,male,senior
-2489,3:55.98,,Peter VAN DER WESTHUIZEN,21 DEC 1984,RSA,6f2,"Hayward Field, Eugene, OR (USA)",03 JUL 2010,1124,one-mile,middlelong,male,senior
-2489,3:55.98,,Nick WILLIS,25 APR 1983,NZL,1,Whanganui (NZL),20 JAN 2014,1124,one-mile,middlelong,male,senior
-2489,3:55.98,,Luke HOUSER,02 MAY 2001,USA,6f6,"Dempsey Indoor, Seattle, WA (USA) (i)",28 JAN 2023,1124,one-mile,middlelong,male,senior
-2494,3:55.99,,Sydney MAREE,09 SEP 1956,USA,3,Helsinki (FIN),02 JUL 1987,1124,one-mile,middlelong,male,senior
-2494,3:55.99,,Julius ACHON,12 DEC 1976,UGA,8,Sheffield (GBR),02 AUG 1998,1124,one-mile,middlelong,male,senior
-2494,3:55.99,,Alan WEBB,13 JAN 1983,USA,10,"Eugene, OR (USA)",07 JUN 2009,1124,one-mile,middlelong,male,senior
-2494,3:55.99,,Colby ALEXANDER,13 JUN 1991,USA,5f1,"New York, NY (USA) (i)",11 FEB 2017,1182,one-mile,middlelong,male,senior
-2494,3:55.99,,Samuel PRAKEL,29 OCT 1994,USA,4,"Hayward Field, Eugene, OR (USA)",20 AUG 2021,1124,one-mile,middlelong,male,senior
-2494,3:55.99,,Isaiah GIVENS,,USA,1f3,"Dempsey Indoor, Seattle, WA (USA) (i)",25 FEB 2023,1124,one-mile,middlelong,male,senior
-2500,3:56.0h,,Jim RYUN,29 APR 1947,USA,1,London (GBR),12 AUG 1967,1124,one-mile,middlelong,male,senior
-2500,3:56.0h,,Andre DE HERTOGHE,19 APR 1941,BEL,2,Stockholm (SWE),02 JUL 1968,1124,one-mile,middlelong,male,senior
-2500,3:56.0h,,Fanie VAN ZIJL,07 JUL 1948,RSA,1,"Modesto, CA (USA)",27 MAY 1972,1124,one-mile,middlelong,male,senior
-2500,3:56.0h,,Jim DOUGLAS,09 SEP 1945,GBR,3,London (GBR),10 JUN 1972,1124,one-mile,middlelong,male,senior
-2500,3:56.00,,Len HILTON,28 SEP 1947,USA,3,Stockholm (SWE),02 JUL 1973,1124,one-mile,middlelong,male,senior
-2500,3:56.0h,,John WALKER,12 JAN 1952,NZL,4,London (GBR),26 JUN 1977,1124,one-mile,middlelong,male,senior
-2500,3:56.0h,,Eamonn COGHLAN,21 NOV 1952,IRL,1,"San Diego, CA (USA) (i)",17 FEB 1978,1182,one-mile,middlelong,male,senior
-2500,3:56.0h,,Tom BYERS,12 MAY 1955,USA,3,"Inglewood, CA (USA) (i)",13 FEB 1981,1182,one-mile,middlelong,male,senior
-2500,3:56.00,,Joe FALCON,23 JUN 1966,USA,1,"Westwood, CA (USA)",10 JUN 1989,1124,one-mile,middlelong,male,senior
-2500,3:56.00,,Pat SCAMMELL,15 APR 1961,AUS,3,"Stade Olympique de la Pontaise, Lausanne (SUI)",12 JUL 1990,1124,one-mile,middlelong,male,senior
-2500,3:56.00,,Chris O'HARE,23 NOV 1990,GBR,1f1,"Boston, MA (USA) (i)",30 JAN 2016,1182,one-mile,middlelong,male,senior
-2500,3:56.00,,John GREGOREK,07 DEC 1991,USA,6f1,"New York, NY (USA) (i)",11 FEB 2017,1182,one-mile,middlelong,male,senior
-2500,3:56.00,,Craig ENGELS,01 MAY 1994,USA,5,"Cardinal Gibbons High School, Raleigh, NC (USA)",06 AUG 2021,1124,one-mile,middlelong,male,senior
-2500,3:56.00,,Nico YOUNG,27 JUL 2002,USA,4f6,"Dempsey Indoor, Seattle, WA (USA) (i)",29 JAN 2022,1124,one-mile,middlelong,male,senior
-2500,3:56.00,,Sam PARSONS,18 JUN 1994,GER,12,"Olympiastadion, Berlin (GER)",27 JUL 2025,1124,one-mile,middlelong,male,senior
-2500,3:56.00,,Samuel PRAKEL,29 OCT 1994,USA,5,"Falmouth High School, Falmouth, MA (USA)",15 AUG 2025,1124,one-mile,middlelong,male,senior
+2459,3:55.92,,James HARDING,06 NOV 2003,NZL,1,"Boston Univ. Track & Tennis Center, Boston, MA (USA) (i)",06 DEC 2025,1183,one-mile,middlelong,male,senior
+2462,3:55.93,,Laban ROTICH,20 JAN 1969,KEN,7,"Eugene, OR (USA)",24 MAY 2003,1125,one-mile,middlelong,male,senior
+2462,3:55.93,,Laban ROTICH,20 JAN 1969,KEN,2,"Fayetteville, AR (USA) (i)",14 FEB 2004,1183,one-mile,middlelong,male,senior
+2462,3:55.93,,Nick WILLIS,25 APR 1983,NZL,1,"Fayetteville, AR (USA) (i)",15 FEB 2008,1183,one-mile,middlelong,male,senior
+2462,3:55.93,,Abdelaati IGUIDER,25 MAR 1987,MAR,14,"Hayward Field, Eugene, OR (USA)",01 JUN 2013,1125,one-mile,middlelong,male,senior
+2462,3:55.93,,Colby ALEXANDER,13 JUN 1991,USA,3,Dublin (IRL),22 JUL 2016,1125,one-mile,middlelong,male,senior
+2462,3:55.93,,Eliud KIPSANG,09 SEP 1996,KEN,2,"Randal Tyson Indoor Center, Fayetteville, AR (USA) (i)",13 MAR 2021,1183,one-mile,middlelong,male,senior
+2462,3:55.93,,John GREGOREK,07 DEC 1991,USA,5,"Armory Track&Field Center, New York, NY (USA) (i)",29 JAN 2022,1183,one-mile,middlelong,male,senior
+2462,3:55.93,,Yasin SADO,10 MAR 2001,USA,3f1,"Ashenfelter Indoor Track, State College, PA (USA) (i)",26 JAN 2024,1183,one-mile,middlelong,male,senior
+2462,3:55.93,,Jack CRULL,13 FEB 2002,USA,6f1,"The Track at New Balance, Boston, MA (USA) (i)",14 FEB 2025,1183,one-mile,middlelong,male,senior
+2471,3:55.94,,José Luis CARREIRA,30 MAR 1962,ESP,1,Madrid (ESP),04 JUN 1987,1125,one-mile,middlelong,male,senior
+2471,3:55.94,,Fabio OLIVO,05 FEB 1966,ITA,5,San Donato Milanese (ITA),30 MAY 1992,1125,one-mile,middlelong,male,senior
+2471,3:55.94,,Abdihamid NUR,14 OCT 1997,USA,3f6,"Dempsey Indoor, Seattle, WA (USA) (i)",29 JAN 2022,1125,one-mile,middlelong,male,senior
+2471,3:55.94,,Vincent CIATTEI,21 JAN 1995,USA,4,"Armory Track&Field Center, New York, NY (USA) (i)",27 JAN 2024,1183,one-mile,middlelong,male,senior
+2471,3:55.94,,Raphael PALLITSCH,18 DEC 1989,AUT,5,"Atletická hala, Ostrava (CZE) (i)",04 FEB 2025,1183,one-mile,middlelong,male,senior
+2476,3:55.95,,Elkanah Onkware ANGWENYI,05 FEB 1983,KEN,1,"Boston, MA (USA) (i)",28 JAN 2006,1182,one-mile,middlelong,male,senior
+2476,3:55.95,,Paul RYAN,29 MAY 1997,USA,1,"Saint Louis University High School, Saint Louis, MO (USA)",02 JUN 2022,1125,one-mile,middlelong,male,senior
+2478,3:55.96,,Steve SCOTT,05 MAY 1956,USA,1,Stockholm (SWE),03 JUL 1979,1125,one-mile,middlelong,male,senior
+2478,3:55.96,,David LEWIS,15 OCT 1961,GBR,3,Oslo (NOR),23 AUG 1983,1125,one-mile,middlelong,male,senior
+2478,3:55.96,,Stefano MEI,03 FEB 1963,ITA,7,Roma (ITA),01 SEP 1983,1125,one-mile,middlelong,male,senior
+2478,3:55.96,,Alex KIPCHIRCHIR,26 NOV 1984,KEN,10,Oslo (NOR),15 JUN 2007,1125,one-mile,middlelong,male,senior
+2478,3:55.96,,Paul CHELIMO,27 OCT 1990,USA,3,"Alexander Stadium, Birmingham (GBR)",18 AUG 2018,1125,one-mile,middlelong,male,senior
+2478,3:55.96,,Yohanes ASMARE,29 MAR 2006,ETH,7f1,"Boston Univ. Track & Tennis Center, Boston, MA (USA) (i)",26 JAN 2024,1182,one-mile,middlelong,male,senior
+2478,3:55.96,,Camden MARSHALL,01 MAY 2003,USA,1,"Gately Indoor TF Center, Chicago, IL (USA) (i)",09 FEB 2024,1182,one-mile,middlelong,male,senior
+2485,3:55.97,,John WALKER,12 JAN 1952,NZL,2,London (GBR),07 SEP 1984,1125,one-mile,middlelong,male,senior
+2485,3:55.97,,Ryan GREGSON,26 APR 1990,AUS,8,"New York, NY (USA) (i)",16 FEB 2013,1182,one-mile,middlelong,male,senior
+2485,3:55.97,,Stewart MCSWEYN,01 JUN 1995,AUS,2,Cork (IRL),18 JUL 2017,1125,one-mile,middlelong,male,senior
+2485,3:55.97,,Charlie MARQUARDT,,USA,9,"Raleigh, NC (USA)",03 AUG 2018,1125,one-mile,middlelong,male,senior
+2485,3:55.97,,Nicholas GRIGGS,18 DEC 2004,IRL,1f1,"Mary Peters Track, Belfast (GBR)",14 JUN 2025,1125,one-mile,middlelong,male,senior
+2490,3:55.98,,Frank O'MARA,17 JUL 1960,IRL,2,Madrid (ESP),04 JUN 1987,1124,one-mile,middlelong,male,senior
+2490,3:55.98,,Martin KEINO,20 JUN 1972,KEN,7f1,"Eugene, OR (USA)",31 MAY 1998,1124,one-mile,middlelong,male,senior
+2490,3:55.98,,Peter VAN DER WESTHUIZEN,21 DEC 1984,RSA,6f2,"Hayward Field, Eugene, OR (USA)",03 JUL 2010,1124,one-mile,middlelong,male,senior
+2490,3:55.98,,Nick WILLIS,25 APR 1983,NZL,1,Whanganui (NZL),20 JAN 2014,1124,one-mile,middlelong,male,senior
+2490,3:55.98,,Luke HOUSER,02 MAY 2001,USA,6f6,"Dempsey Indoor, Seattle, WA (USA) (i)",28 JAN 2023,1124,one-mile,middlelong,male,senior
+2495,3:55.99,,Sydney MAREE,09 SEP 1956,USA,3,Helsinki (FIN),02 JUL 1987,1124,one-mile,middlelong,male,senior
+2495,3:55.99,,Julius ACHON,12 DEC 1976,UGA,8,Sheffield (GBR),02 AUG 1998,1124,one-mile,middlelong,male,senior
+2495,3:55.99,,Alan WEBB,13 JAN 1983,USA,10,"Eugene, OR (USA)",07 JUN 2009,1124,one-mile,middlelong,male,senior
+2495,3:55.99,,Colby ALEXANDER,13 JUN 1991,USA,5f1,"New York, NY (USA) (i)",11 FEB 2017,1182,one-mile,middlelong,male,senior
+2495,3:55.99,,Samuel PRAKEL,29 OCT 1994,USA,4,"Hayward Field, Eugene, OR (USA)",20 AUG 2021,1124,one-mile,middlelong,male,senior
+2495,3:55.99,,Isaiah GIVENS,,USA,1f3,"Dempsey Indoor, Seattle, WA (USA) (i)",25 FEB 2023,1124,one-mile,middlelong,male,senior
+2501,3:56.0h,,Jim RYUN,29 APR 1947,USA,1,London (GBR),12 AUG 1967,1124,one-mile,middlelong,male,senior
+2501,3:56.0h,,Andre DE HERTOGHE,19 APR 1941,BEL,2,Stockholm (SWE),02 JUL 1968,1124,one-mile,middlelong,male,senior
+2501,3:56.0h,,Fanie VAN ZIJL,07 JUL 1948,RSA,1,"Modesto, CA (USA)",27 MAY 1972,1124,one-mile,middlelong,male,senior
+2501,3:56.0h,,Jim DOUGLAS,09 SEP 1945,GBR,3,London (GBR),10 JUN 1972,1124,one-mile,middlelong,male,senior
+2501,3:56.00,,Len HILTON,28 SEP 1947,USA,3,Stockholm (SWE),02 JUL 1973,1124,one-mile,middlelong,male,senior
+2501,3:56.0h,,John WALKER,12 JAN 1952,NZL,4,London (GBR),26 JUN 1977,1124,one-mile,middlelong,male,senior
+2501,3:56.0h,,Eamonn COGHLAN,21 NOV 1952,IRL,1,"San Diego, CA (USA) (i)",17 FEB 1978,1182,one-mile,middlelong,male,senior
+2501,3:56.0h,,Tom BYERS,12 MAY 1955,USA,3,"Inglewood, CA (USA) (i)",13 FEB 1981,1182,one-mile,middlelong,male,senior
+2501,3:56.00,,Joe FALCON,23 JUN 1966,USA,1,"Westwood, CA (USA)",10 JUN 1989,1124,one-mile,middlelong,male,senior
+2501,3:56.00,,Pat SCAMMELL,15 APR 1961,AUS,3,"Stade Olympique de la Pontaise, Lausanne (SUI)",12 JUL 1990,1124,one-mile,middlelong,male,senior
+2501,3:56.00,,Chris O'HARE,23 NOV 1990,GBR,1f1,"Boston, MA (USA) (i)",30 JAN 2016,1182,one-mile,middlelong,male,senior
+2501,3:56.00,,John GREGOREK,07 DEC 1991,USA,6f1,"New York, NY (USA) (i)",11 FEB 2017,1182,one-mile,middlelong,male,senior
+2501,3:56.00,,Craig ENGELS,01 MAY 1994,USA,5,"Cardinal Gibbons High School, Raleigh, NC (USA)",06 AUG 2021,1124,one-mile,middlelong,male,senior
+2501,3:56.00,,Nico YOUNG,27 JUL 2002,USA,4f6,"Dempsey Indoor, Seattle, WA (USA) (i)",29 JAN 2022,1124,one-mile,middlelong,male,senior
+2501,3:56.00,,Sam PARSONS,18 JUN 1994,GER,12,"Olympiastadion, Berlin (GER)",27 JUL 2025,1124,one-mile,middlelong,male,senior
+2501,3:56.00,,Samuel PRAKEL,29 OCT 1994,USA,5,"Falmouth High School, Falmouth, MA (USA)",15 AUG 2025,1124,one-mile,middlelong,male,senior

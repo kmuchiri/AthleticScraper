@@ -95,28 +95,29 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 94,1:11:10,,Muliye DEKEBO,13 MAR 1998,ETH,1,Nice (FRA),24 APR 2016,1106,half-marathon,road-running,female,u20
 94,1:11:10,,Muliye DEKEBO,13 MAR 1998,ETH,2,Tamesna (MAR),08 OCT 2017,1106,half-marathon,road-running,female,u20
 96,1:11:12,,Nozomi IIJIMA,17 MAR 1984,JPN,1,Matsue (JPN),16 MAR 2003,1105,half-marathon,road-running,female,u20
-97,1:11:14,,Yoko SHIBUI,14 MAR 1979,JPN,6,Tokyo (JPN),25 JAN 1998,1104,half-marathon,road-running,female,u20
-97,1:11:14,,Tigist GETNET,09 JAN 2003,ETH,2,Elche (ESP),10 OCT 2021,1104,half-marathon,road-running,female,u20
-99,1:11:15,,Teyba ERKESSO,30 OCT 1982,ETH,20,Bristol (GBR),07 OCT 2001,1104,half-marathon,road-running,female,u20
-99,1:11:15,,Abebech AFEWORK,11 DEC 1990,ETH,3,Udine (ITA),27 SEP 2009,1104,half-marathon,road-running,female,u20
-99,1:11:15,,Hawi BEHARU,26 JAN 2006,ETH,2,Breda (NED),05 OCT 2025,1104,half-marathon,road-running,female,u20
-102,1:11:16,,Kazue OGOSHI,02 MAR 1981,JPN,2,Marugame (JPN),06 FEB 2000,1104,half-marathon,road-running,female,u20
-103,1:11:17,,Lucy CHERUIYOT,04 JAN 1997,KEN,1,Casablanca (MAR),15 MAY 2016,1103,half-marathon,road-running,female,u20
-103,1:11:17,,Lelise WAKWEYA,2005,ETH,4,Mainz (GER),05 MAY 2024,1103,half-marathon,road-running,female,u20
-105,1:11:18,,Yurika NAKAMURA,01 APR 1986,JPN,3,Okayama (JPN),23 DEC 2005,1103,half-marathon,road-running,female,u20
-106,1:11:20,,Ayaka FUJIMOTO,08 JUL 1997,JPN,3,Okayama (JPN),23 DEC 2016,1102,half-marathon,road-running,female,u20
-106,1:11:20,,Obse ABDETA,07 SEP 2000,ETH,4,Madrid (ESP),07 APR 2019,1102,half-marathon,road-running,female,u20
-106,1:11:20,,Natasha PHILLIPS,01 MAR 2005,GBR,6,Larne (GBR),27 AUG 2023,1102,half-marathon,road-running,female,u20
-109,1:11:22,,Shure DEMISE,21 JAN 1996,ETH,2,Warszawa (POL),30 MAR 2014,1102,half-marathon,road-running,female,u20
-110,1:11:23,,Nami MATSUDA,08 FEB 1987,JPN,2,Matsue (JPN),19 MAR 2006,1101,half-marathon,road-running,female,u20
-110,1:11:23,,Shewarge ALENE,09 DEC 1994,ETH,1,Guadalajara (MEX),20 FEB 2011,1101,half-marathon,road-running,female,u20
-112,1:11:24,,Mare DIBABA,20 OCT 1989,ETH,1,Warszawa (POL),30 MAR 2008,1101,half-marathon,road-running,female,u20
-112,1:11:24,,Maryem Hanna DINGO,1990,ETH,2,Trabzon (TUR),22 FEB 2009,1101,half-marathon,road-running,female,u20
-114,1:11:26,,Jackline TORORI,22 AUG 1978,KEN,1,Lille (FRA),06 SEP 1997,1100,half-marathon,road-running,female,u20
-114,1:11:26,,Xueqin WANG,01 JAN 1991,CHN,1f1,Xiamen (CHN),03 JAN 2009,1100,half-marathon,road-running,female,u20
-114,1:11:26,,Maki IZUMIDA,22 JAN 1996,JPN,6,Matsue (JPN),15 MAR 2015,1100,half-marathon,road-running,female,u20
-117,1:11:27,,Naoko TANAKA,23 MAR 1977,JPN,5,Yamaguchi (JPN),17 MAR 1996,1100,half-marathon,road-running,female,u20
-117,1:11:27,,Xiaoxue SONG,13 FEB 1987,CHN,1,Jinzhou (CHN),03 SEP 2006,1100,half-marathon,road-running,female,u20
-117,1:11:27,,Layes ABDULLAYEVA,29 MAY 1991,AZE,13,New Delhi (IND),01 NOV 2009,1100,half-marathon,road-running,female,u20
-120,1:11:29,,Azalech MASRESHA,04 MAY 1988,ETH,1,Reims (FRA),21 OCT 2007,1099,half-marathon,road-running,female,u20
-121,1:11:30,,Kei TERADA,27 MAR 1985,JPN,2,Kumagaya (JPN),28 OCT 2004,1099,half-marathon,road-running,female,u20
+96,1:11:12,,Beriha GEBRESLASIE,03 JUN 2006,ETH,2,Chon Buri (THA),21 DEC 2025,1105,half-marathon,road-running,female,u20
+98,1:11:14,,Yoko SHIBUI,14 MAR 1979,JPN,6,Tokyo (JPN),25 JAN 1998,1104,half-marathon,road-running,female,u20
+98,1:11:14,,Tigist GETNET,09 JAN 2003,ETH,2,Elche (ESP),10 OCT 2021,1104,half-marathon,road-running,female,u20
+100,1:11:15,,Teyba ERKESSO,30 OCT 1982,ETH,20,Bristol (GBR),07 OCT 2001,1104,half-marathon,road-running,female,u20
+100,1:11:15,,Abebech AFEWORK,11 DEC 1990,ETH,3,Udine (ITA),27 SEP 2009,1104,half-marathon,road-running,female,u20
+100,1:11:15,,Hawi BEHARU,26 JAN 2006,ETH,2,Breda (NED),05 OCT 2025,1104,half-marathon,road-running,female,u20
+103,1:11:16,,Kazue OGOSHI,02 MAR 1981,JPN,2,Marugame (JPN),06 FEB 2000,1104,half-marathon,road-running,female,u20
+104,1:11:17,,Lucy CHERUIYOT,04 JAN 1997,KEN,1,Casablanca (MAR),15 MAY 2016,1103,half-marathon,road-running,female,u20
+104,1:11:17,,Lelise WAKWEYA,2005,ETH,4,Mainz (GER),05 MAY 2024,1103,half-marathon,road-running,female,u20
+106,1:11:18,,Yurika NAKAMURA,01 APR 1986,JPN,3,Okayama (JPN),23 DEC 2005,1103,half-marathon,road-running,female,u20
+107,1:11:20,,Ayaka FUJIMOTO,08 JUL 1997,JPN,3,Okayama (JPN),23 DEC 2016,1102,half-marathon,road-running,female,u20
+107,1:11:20,,Obse ABDETA,07 SEP 2000,ETH,4,Madrid (ESP),07 APR 2019,1102,half-marathon,road-running,female,u20
+107,1:11:20,,Natasha PHILLIPS,01 MAR 2005,GBR,6,Larne (GBR),27 AUG 2023,1102,half-marathon,road-running,female,u20
+110,1:11:22,,Shure DEMISE,21 JAN 1996,ETH,2,Warszawa (POL),30 MAR 2014,1102,half-marathon,road-running,female,u20
+111,1:11:23,,Nami MATSUDA,08 FEB 1987,JPN,2,Matsue (JPN),19 MAR 2006,1101,half-marathon,road-running,female,u20
+111,1:11:23,,Shewarge ALENE,09 DEC 1994,ETH,1,Guadalajara (MEX),20 FEB 2011,1101,half-marathon,road-running,female,u20
+113,1:11:24,,Mare DIBABA,20 OCT 1989,ETH,1,Warszawa (POL),30 MAR 2008,1101,half-marathon,road-running,female,u20
+113,1:11:24,,Maryem Hanna DINGO,1990,ETH,2,Trabzon (TUR),22 FEB 2009,1101,half-marathon,road-running,female,u20
+115,1:11:26,,Jackline TORORI,22 AUG 1978,KEN,1,Lille (FRA),06 SEP 1997,1100,half-marathon,road-running,female,u20
+115,1:11:26,,Xueqin WANG,01 JAN 1991,CHN,1f1,Xiamen (CHN),03 JAN 2009,1100,half-marathon,road-running,female,u20
+115,1:11:26,,Maki IZUMIDA,22 JAN 1996,JPN,6,Matsue (JPN),15 MAR 2015,1100,half-marathon,road-running,female,u20
+118,1:11:27,,Naoko TANAKA,23 MAR 1977,JPN,5,Yamaguchi (JPN),17 MAR 1996,1100,half-marathon,road-running,female,u20
+118,1:11:27,,Xiaoxue SONG,13 FEB 1987,CHN,1,Jinzhou (CHN),03 SEP 2006,1100,half-marathon,road-running,female,u20
+118,1:11:27,,Layes ABDULLAYEVA,29 MAY 1991,AZE,13,New Delhi (IND),01 NOV 2009,1100,half-marathon,road-running,female,u20
+121,1:11:29,,Azalech MASRESHA,04 MAY 1988,ETH,1,Reims (FRA),21 OCT 2007,1099,half-marathon,road-running,female,u20
+122,1:11:30,,Kei TERADA,27 MAR 1985,JPN,2,Kumagaya (JPN),28 OCT 2004,1099,half-marathon,road-running,female,u20

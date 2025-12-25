@@ -12,30 +12,31 @@ Note: Datasets here were generated on: 2025-09-20
 
 ### Repo Structure
 
-``` 
-    ├── datasets # contains final datasets split by type, split by discipline, individual events and relay events 
-    │   ├── all_disciplines_combined.csv
-    │   ├── individual_events.csv
-    │   ├── relay_events.csv
-    │   ├── split_by_discipline
-    │   └── split_by_type
-    ├── docs
-    │
-    ├── logs
-    │
-    ├── options.json
-    ├── processing # contains inital output from scraping the website
-    │   ├── combined
-    │   └── output
-    ├── README.md
-    ├── requirements.txt
-    ├── run.py
-    ├── scripts #  Contains all the scripts necessary to generate the datasets.
-    │   ├── combine.py
-    │   ├── preprocessing.py
-    │   ├── scraper_final.py
-    │   └── split_by_type.py
-    └── venv
+```
+
+├── datasets
+│   ├── split_by_discipline
+│   ├── split_by_type
+│   ├── all_disciplines_combined.csv
+│   ├── individual_events.csv
+│   └── relay_events.csv
+├── docs
+│   └── 0-todo.md
+├── logs
+│   └── 2025-12-24
+├── processing
+│   ├── combined
+│   └── output
+├── scripts
+│   ├── combine.py
+│   ├── preprocessing.py
+│   ├── scraper_final.py
+│   └── split_by_type.py
+├── options.json
+├── README.md
+├── requirements.txt
+└── run.py
+
 ```
 
 ### To Run

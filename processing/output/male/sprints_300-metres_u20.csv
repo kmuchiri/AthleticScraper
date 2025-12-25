@@ -20,75 +20,78 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 19,32.76,,Igor BOGACZYŃSKI,07 NOV 2003,POL,1f3,"Stadion Miejski, Walcz (POL)",10 AUG 2022,1093,300-metres,sprints,male,u20
 19,32.76,,Kenji TOJIMA,06 APR 2007,JPN,1,"Athletic Stadium, Hikone (JPN)",04 OCT 2025,1093,300-metres,sprints,male,u20
 21,32.77,,Jaylen SLADE,OCT 2003,USA,1f6,"Virginia Beach Sports Center, Virginia Beach, VA (USA) (i)",16 JAN 2021,1147,300-metres,sprints,male,u20
-22,32.81,,Steve PERRY,23 SEP 1970,AUS,3,Canberra (AUS),26 JAN 1989,1088,300-metres,sprints,male,u20
-22,32.81,,Yuzo KANEMARU,18 SEP 1987,JPN,1,Taisha (JPN),23 APR 2006,1088,300-metres,sprints,male,u20
-24,32.82,,Juander SANTOS,07 MAY 1995,DOM,1,Mayagüez (PUR),05 DEC 2014,1087,300-metres,sprints,male,u20
-25,32.84,,Eric ALLEN,23 AUG 1999,USA,2,"Lynchburg, VA (USA) (i)",19 JAN 2018,1141,300-metres,sprints,male,u20
-25,32.84,,Cameron ROSE,01 JUL 2002,USA,1,"Liberty Indoor Complex, Lynchburg, VA (USA) (i)",17 JAN 2020,1141,300-metres,sprints,male,u20
-27,32.85,,Ade MAFE,12 NOV 1966,GBR,3,London (GBR),18 AUG 1984,1085,300-metres,sprints,male,u20
-27,32.85,,Joseph LOUA,15 NOV 1976,GUI,1,Harare (ZIM),10 SEP 1995,1085,300-metres,sprints,male,u20
-27,32.85,,Kira HIRAKAWA,25 AUG 2005,JPN,1f1,"Ehime Athletics Stadium, Matsuyama (JPN)",22 OCT 2022,1085,300-metres,sprints,male,u20
-27,32.85,,Caine STANLEY,,USA,1f2,"Armory Track&Field Center, New York, NY (USA) (i)",11 FEB 2024,1140,300-metres,sprints,male,u20
-31,32.86,,Junior Ruo EKE,14 DEC 2004,JPN,1,"Tochigi Prefectural Sports Park Stadium, Utsunomiya (JPN)",10 OCT 2022,1084,300-metres,sprints,male,u20
-31,32.86,,Raiya HASHIMOTO,30 MAY 2007,JPN,2,"Athletic Stadium, Hikone (JPN)",04 OCT 2025,1084,300-metres,sprints,male,u20
-33,32.87,,Tyrese COOPER,21 MAR 2000,USA,2,"New York, NY (USA) (i)",04 FEB 2017,1138,300-metres,sprints,male,u20
-33,32.87,,Clarence MUNYAI,20 FEB 1998,RSA,1,Johannesburg (RSA),10 FEB 2017,1083,300-metres,sprints,male,u20
-33,32.87,,Justin ROBINSON,30 MAR 2002,USA,2,"Liberty Indoor Complex, Lynchburg, VA (USA) (i)",17 JAN 2020,1138,300-metres,sprints,male,u20
-36,32.88,,Kira HIRAKAWA,25 AUG 2005,JPN,1,"Prefectural Stadium, Kagoshima (JPN)",14 OCT 2023,1082,300-metres,sprints,male,u20
-36,32.88,,Grant BUCKMILLER,15 APR 2005,USA,1f2,"The Podium, Spokane, WA (USA) (i)",12 JAN 2024,1137,300-metres,sprints,male,u20
-38,32.90,,Zachary SHINNICK,08 FEB 1999,USA,1,"Norwalk, CA (USA)",13 FEB 2016,1080,300-metres,sprints,male,u20
-38,32.90,,Cameron ROSE,01 JUL 2002,USA,1f1,"Clemson Indoor Track & Field Complex, Clemson, SC (USA) (i)",03 DEC 2021,1135,300-metres,sprints,male,u20
-38,32.90,,Junior Ruo EKE,14 DEC 2004,JPN,3,"Prefectural Stadium, Kagoshima (JPN)",15 OCT 2023,1080,300-metres,sprints,male,u20
-41,32.91,,Alexander RHODES,28 JUN 2005,USA,2f1,"The Podium, Spokane, WA (USA) (i)",14 DEC 2024,1135,300-metres,sprints,male,u20
-41,32.91,,William BATLEY,22 JAN 2007,CAN,1f1,"The Dome Louis Riel, Ottawa (CAN) (i)",15 FEB 2025,1079,300-metres,sprints,male,u20
-41,32.91,,Kota UEMATSU,10 FEB 2006,JPN,3h5,"Athletic Stadium, Hikone (JPN)",03 OCT 2025,1079,300-metres,sprints,male,u20
-44,32.93,,Kota UEMATSU,10 FEB 2006,JPN,4h3,"Sunrise Park, Saga (JPN)",11 OCT 2024,1077,300-metres,sprints,male,u20
-45,32.94,,Håvard Bentdal INGVALDSEN,21 SEP 2002,NOR,1,"Stampesletta, Lillehammer (NOR)",25 SEP 2021,1077,300-metres,sprints,male,u20
-45,32.94,,Jayden MIMS,2007,USA,2f2,"Armory Track&Field Center, New York, NY (USA) (i)",11 FEB 2024,1132,300-metres,sprints,male,u20
-47,32.95,,Ivan TSUDA,29 SEP 2005,JPN,2,"Prefectural Stadium, Kagoshima (JPN)",14 OCT 2023,1076,300-metres,sprints,male,u20
-47,32.95,,Raiya HASHIMOTO,30 MAY 2007,JPN,1h1,"Athletic Stadium, Hikone (JPN)",03 OCT 2025,1076,300-metres,sprints,male,u20
-49,32.96,,Lythe PILLAY,25 FEB 2003,RSA,2f2,"McArthur Stadium, Potchefstroom (RSA)",17 NOV 2020,1075,300-metres,sprints,male,u20
-50,32.99,,Justin OLIVER,07 NOV 1987,USA,5,"Eugene, OR (USA)",08 AUG 2006,1072,300-metres,sprints,male,u20
-50,32.99,,Junior Ruo EKE,14 DEC 2004,JPN,1h3,"Prefectural Stadium, Kagoshima (JPN)",14 OCT 2023,1072,300-metres,sprints,male,u20
-52,33.01,,Michael TIMPSON,06 JUN 1967,USA,1,"Gainesville, FL (USA) (i)",02 FEB 1986,1125,300-metres,sprints,male,u20
-52,33.01,,Ilhwan MO,18 MAY 1999,KOR,1f1,Izumo (JPN),22 APR 2018,1070,300-metres,sprints,male,u20
-52,33.01,,Cameron ROSE,01 JUL 2002,USA,2f1,"Rector Fieldhouse, Blacksburg, VA (USA) (i)",15 JAN 2021,1125,300-metres,sprints,male,u20
-52,33.01,,Jordaine JOHNSON,,USA,2,"Armory Track&Field Center, New York, NY (USA) (i)",08 FEB 2025,1125,300-metres,sprints,male,u20
-56,33.02,,Batuhan ALTINTAŞ,28 APR 1996,TUR,1,Ankara (TUR),05 JUL 2014,1069,300-metres,sprints,male,u20
-57,33.03,,Tyrese COOPER,21 MAR 2000,USA,1f5,"Lynchburg, VA (USA) (i)",13 JAN 2017,1124,300-metres,sprints,male,u20
-58,33.04,,Yuto MATSUMOTO,25 SEP 2006,JPN,1h4,"Sunrise Park, Saga (JPN)",11 OCT 2024,1068,300-metres,sprints,male,u20
-58,33.04,,Ja'Neil HARRIS,,USA,1f6,"Virginia Beach Sports Center, Virginia Beach, VA (USA) (i)",18 JAN 2025,1123,300-metres,sprints,male,u20
-60,33.06,,Samuel ADADE,16 JUN 1985,GHA,2,Brasschaat (BEL),07 AUG 2004,1066,300-metres,sprints,male,u20
-60,33.06,,Yuji UIKE,03 JUN 1998,JPN,1,Osaka (JPN),28 AUG 2016,1066,300-metres,sprints,male,u20
-62,33.07,,Yuichi KINOSHITA,10 SEP 2002,JPN,1,"Municipal Stadium, Hiroshima (JPN)",18 OCT 2019,1065,300-metres,sprints,male,u20
-63,33.08,,Quentin IGLEHART-SUMMERS,15 JUN 1987,USA,6,"Eugene, OR (USA)",08 AUG 2006,1064,300-metres,sprints,male,u20
-64,33.09,,Rui FUJISAWA,24 JAN 2003,JPN,4,"Tochigi Prefectural Sports Park Stadium, Utsunomiya (JPN)",10 OCT 2022,1063,300-metres,sprints,male,u20
-64,33.09,,Shinya HAYASHI,15 APR 2004,JPN,1h1,"Prefectural Stadium, Kagoshima (JPN)",14 OCT 2023,1063,300-metres,sprints,male,u20
-64,33.09,,Takumi KUBO,08 NOV 2007,JPN,1h2,"Athletic Stadium, Hikone (JPN)",03 OCT 2025,1063,300-metres,sprints,male,u20
-67,33.10,,Saad Mubarek SALEM,28 MAY 1999,BRN,1,Riffa (BRN),03 MAR 2018,1062,300-metres,sprints,male,u20
-67,33.10,,Jayden MIMS,2007,USA,1f1,"Virginia Beach Sports Center, Virginia Beach, VA (USA) (i)",19 JAN 2025,1117,300-metres,sprints,male,u20
-69,33.11,,Quincy WILSON,08 JAN 2008,USA,1f1,"Ocean Breeze Athl. Complex, New York, NY (USA) (i)",24 FEB 2024,1116,300-metres,sprints,male,u20
-69,33.11,,Ayato SHIMADA,24 MAR 2008,JPN,1h1,"Prefectural Stadium, Ise (JPN)",19 OCT 2025,1062,300-metres,sprints,male,u20
-71,33.12,,Vladimir ACETI,16 OCT 1998,ITA,1f3,Milano (ITA),16 SEP 2017,1061,300-metres,sprints,male,u20
-71,33.12,,Tyrese COOPER,21 MAR 2000,USA,3,"Lynchburg, VA (USA) (i)",19 JAN 2018,1116,300-metres,sprints,male,u20
-73,33.13,,Pavel MASLÁK,21 FEB 1991,CZE,6f1,"Mestský Stadion, Ostrava (CZE)",27 MAY 2010,1060,300-metres,sprints,male,u20
-73,33.13,,Jonathan SACOOR,01 SEP 1999,BEL,1,Huizingen (BEL),20 AUG 2017,1060,300-metres,sprints,male,u20
-73,33.13,,Junior Ruo EKE,14 DEC 2004,JPN,1h2,"Tochigi Prefectural Sports Park Stadium, Utsunomiya (JPN)",09 OCT 2022,1060,300-metres,sprints,male,u20
-76,33.15,,Dylan GRANT,14 MAR 1988,AUS,1,Gold Coast (AUS),03 JAN 2007,1058,300-metres,sprints,male,u20
-76,33.15,,Kira HIRAKAWA,25 AUG 2005,JPN,1h5,"Prefectural Stadium, Kagoshima (JPN)",13 OCT 2023,1058,300-metres,sprints,male,u20
-78,33.16,,Takumi KUBO,08 NOV 2007,JPN,3,"Athletic Stadium, Hikone (JPN)",04 OCT 2025,1057,300-metres,sprints,male,u20
-79,33.17,,Rai BENJAMIN,27 JUL 1997,ANT,1f2,"New York, NY (USA) (i)",31 JAN 2015,1111,300-metres,sprints,male,u20
-79,33.17,,Justin ROBINSON,30 MAR 2002,USA,2,"Armory Track&Field Center, New York, NY (USA) (i)",08 FEB 2020,1111,300-metres,sprints,male,u20
-79,33.17,,Masato HARADA,01 JUL 2004,JPN,2h1,"Prefectural Stadium, Kagoshima (JPN)",14 OCT 2023,1056,300-metres,sprints,male,u20
-79,33.17,,Michal RADA,25 MAY 2007,CZE,1f1,"Stadion v Poohří, Cheb (CZE)",05 SEP 2025,1056,300-metres,sprints,male,u20
-79,33.17,,Ren SHOUJI,10 DEC 2008,JPN,1h5,"Prefectural Stadium, Ise (JPN)",19 OCT 2025,1056,300-metres,sprints,male,u20
-84,33.18,,Tyler CHRISTOPHER,03 OCT 1983,CAN,2,Victoria (CAN),22 MAY 2002,1055,300-metres,sprints,male,u20
-84,33.18,,Noah LYLES,18 JUL 1997,USA,1f6,"Blacksburg, VA (USA) (i)",29 JAN 2016,1110,300-metres,sprints,male,u20
-84,33.18,,Taisei WATANABE,21 AUG 2004,JPN,1f3,"Athletics Stadium, Tainai (JPN)",24 JUL 2022,1055,300-metres,sprints,male,u20
-84,33.18,,Kira HIRAKAWA,25 AUG 2005,JPN,2,"Tochigi Prefectural Sports Park Stadium, Utsunomiya (JPN)",10 OCT 2022,1055,300-metres,sprints,male,u20
-84,33.18,,Josiah WRICE,,USA,1f3,"Clemson Indoor Track & Field Complex, Clemson, SC (USA) (i)",06 DEC 2024,1110,300-metres,sprints,male,u20
-84,33.18,,Kota UEMATSU,10 FEB 2006,JPN,7,"Athletic Stadium, Hikone (JPN)",04 OCT 2025,1055,300-metres,sprints,male,u20
-90,33.19,,William REED,01 APR 1970,USA,1,"New Haven, CT (USA) (i)",16 MAR 1986,1109,300-metres,sprints,male,u20
-90,33.19,,Željko VINCEK,16 JUN 1986,CRO,5,Ljubljana (SLO),10 AUG 2004,1054,300-metres,sprints,male,u20
-90,33.19,,Bryshon NELLUM,01 MAY 1989,USA,1,"Eugene, OR (USA)",08 AUG 2006,1054,300-metres,sprints,male,u20
-93,33.20,,Rui FUJISAWA,24 JAN 2003,JPN,1h5,"Tochigi Prefectural Sports Park Stadium, Utsunomiya (JPN)",09 OCT 2022,1054,300-metres,sprints,male,u20
+22,32.78,,Josiah WRICE,,USA,2f1,"Clemson Indoor Track & Field Complex, Clemson, SC (USA) (i)",05 DEC 2025,1146,300-metres,sprints,male,u20
+23,32.81,,Steve PERRY,23 SEP 1970,AUS,3,Canberra (AUS),26 JAN 1989,1088,300-metres,sprints,male,u20
+23,32.81,,Yuzo KANEMARU,18 SEP 1987,JPN,1,Taisha (JPN),23 APR 2006,1088,300-metres,sprints,male,u20
+25,32.82,,Juander SANTOS,07 MAY 1995,DOM,1,Mayagüez (PUR),05 DEC 2014,1087,300-metres,sprints,male,u20
+26,32.84,,Eric ALLEN,23 AUG 1999,USA,2,"Lynchburg, VA (USA) (i)",19 JAN 2018,1141,300-metres,sprints,male,u20
+26,32.84,,Cameron ROSE,01 JUL 2002,USA,1,"Liberty Indoor Complex, Lynchburg, VA (USA) (i)",17 JAN 2020,1141,300-metres,sprints,male,u20
+28,32.85,,Ade MAFE,12 NOV 1966,GBR,3,London (GBR),18 AUG 1984,1085,300-metres,sprints,male,u20
+28,32.85,,Joseph LOUA,15 NOV 1976,GUI,1,Harare (ZIM),10 SEP 1995,1085,300-metres,sprints,male,u20
+28,32.85,,Kira HIRAKAWA,25 AUG 2005,JPN,1f1,"Ehime Athletics Stadium, Matsuyama (JPN)",22 OCT 2022,1085,300-metres,sprints,male,u20
+28,32.85,,Caine STANLEY,,USA,1f2,"Armory Track&Field Center, New York, NY (USA) (i)",11 FEB 2024,1140,300-metres,sprints,male,u20
+32,32.86,,Junior Ruo EKE,14 DEC 2004,JPN,1,"Tochigi Prefectural Sports Park Stadium, Utsunomiya (JPN)",10 OCT 2022,1084,300-metres,sprints,male,u20
+32,32.86,,Raiya HASHIMOTO,30 MAY 2007,JPN,2,"Athletic Stadium, Hikone (JPN)",04 OCT 2025,1084,300-metres,sprints,male,u20
+34,32.87,,Tyrese COOPER,21 MAR 2000,USA,2,"New York, NY (USA) (i)",04 FEB 2017,1138,300-metres,sprints,male,u20
+34,32.87,,Clarence MUNYAI,20 FEB 1998,RSA,1,Johannesburg (RSA),10 FEB 2017,1083,300-metres,sprints,male,u20
+34,32.87,,Justin ROBINSON,30 MAR 2002,USA,2,"Liberty Indoor Complex, Lynchburg, VA (USA) (i)",17 JAN 2020,1138,300-metres,sprints,male,u20
+37,32.88,,Kira HIRAKAWA,25 AUG 2005,JPN,1,"Prefectural Stadium, Kagoshima (JPN)",14 OCT 2023,1082,300-metres,sprints,male,u20
+37,32.88,,Grant BUCKMILLER,15 APR 2005,USA,1f2,"The Podium, Spokane, WA (USA) (i)",12 JAN 2024,1137,300-metres,sprints,male,u20
+39,32.90,,Zachary SHINNICK,08 FEB 1999,USA,1,"Norwalk, CA (USA)",13 FEB 2016,1080,300-metres,sprints,male,u20
+39,32.90,,Cameron ROSE,01 JUL 2002,USA,1f1,"Clemson Indoor Track & Field Complex, Clemson, SC (USA) (i)",03 DEC 2021,1135,300-metres,sprints,male,u20
+39,32.90,,Junior Ruo EKE,14 DEC 2004,JPN,3,"Prefectural Stadium, Kagoshima (JPN)",15 OCT 2023,1080,300-metres,sprints,male,u20
+42,32.91,,Alexander RHODES,28 JUN 2005,USA,2f1,"The Podium, Spokane, WA (USA) (i)",14 DEC 2024,1135,300-metres,sprints,male,u20
+42,32.91,,William BATLEY,22 JAN 2007,CAN,1f1,"The Dome Louis Riel, Ottawa (CAN) (i)",15 FEB 2025,1079,300-metres,sprints,male,u20
+42,32.91,,Kota UEMATSU,10 FEB 2006,JPN,3h5,"Athletic Stadium, Hikone (JPN)",03 OCT 2025,1079,300-metres,sprints,male,u20
+45,32.93,,Kota UEMATSU,10 FEB 2006,JPN,4h3,"Sunrise Park, Saga (JPN)",11 OCT 2024,1077,300-metres,sprints,male,u20
+45,32.93,,Ade LLOYD,,USA,1f1,"Gladstein Fieldhouse Indiana Un., Bloomington, IN (USA) (i)",12 DEC 2025,1133,300-metres,sprints,male,u20
+47,32.94,,Håvard Bentdal INGVALDSEN,21 SEP 2002,NOR,1,"Stampesletta, Lillehammer (NOR)",25 SEP 2021,1077,300-metres,sprints,male,u20
+47,32.94,,Jayden MIMS,2007,USA,2f2,"Armory Track&Field Center, New York, NY (USA) (i)",11 FEB 2024,1132,300-metres,sprints,male,u20
+49,32.95,,Ivan TSUDA,29 SEP 2005,JPN,2,"Prefectural Stadium, Kagoshima (JPN)",14 OCT 2023,1076,300-metres,sprints,male,u20
+49,32.95,,Raiya HASHIMOTO,30 MAY 2007,JPN,1h1,"Athletic Stadium, Hikone (JPN)",03 OCT 2025,1076,300-metres,sprints,male,u20
+51,32.96,,Lythe PILLAY,25 FEB 2003,RSA,2f2,"McArthur Stadium, Potchefstroom (RSA)",17 NOV 2020,1075,300-metres,sprints,male,u20
+52,32.99,,Justin OLIVER,07 NOV 1987,USA,5,"Eugene, OR (USA)",08 AUG 2006,1072,300-metres,sprints,male,u20
+52,32.99,,Junior Ruo EKE,14 DEC 2004,JPN,1h3,"Prefectural Stadium, Kagoshima (JPN)",14 OCT 2023,1072,300-metres,sprints,male,u20
+54,33.01,,Michael TIMPSON,06 JUN 1967,USA,1,"Gainesville, FL (USA) (i)",02 FEB 1986,1125,300-metres,sprints,male,u20
+54,33.01,,Ilhwan MO,18 MAY 1999,KOR,1f1,Izumo (JPN),22 APR 2018,1070,300-metres,sprints,male,u20
+54,33.01,,Cameron ROSE,01 JUL 2002,USA,2f1,"Rector Fieldhouse, Blacksburg, VA (USA) (i)",15 JAN 2021,1125,300-metres,sprints,male,u20
+54,33.01,,Jordaine JOHNSON,,USA,2,"Armory Track&Field Center, New York, NY (USA) (i)",08 FEB 2025,1125,300-metres,sprints,male,u20
+58,33.02,,Batuhan ALTINTAŞ,28 APR 1996,TUR,1,Ankara (TUR),05 JUL 2014,1069,300-metres,sprints,male,u20
+59,33.03,,Tyrese COOPER,21 MAR 2000,USA,1f5,"Lynchburg, VA (USA) (i)",13 JAN 2017,1124,300-metres,sprints,male,u20
+60,33.04,,Yuto MATSUMOTO,25 SEP 2006,JPN,1h4,"Sunrise Park, Saga (JPN)",11 OCT 2024,1068,300-metres,sprints,male,u20
+60,33.04,,Ja'Neil HARRIS,,USA,1f6,"Virginia Beach Sports Center, Virginia Beach, VA (USA) (i)",18 JAN 2025,1123,300-metres,sprints,male,u20
+62,33.06,,Samuel ADADE,16 JUN 1985,GHA,2,Brasschaat (BEL),07 AUG 2004,1066,300-metres,sprints,male,u20
+62,33.06,,Yuji UIKE,03 JUN 1998,JPN,1,Osaka (JPN),28 AUG 2016,1066,300-metres,sprints,male,u20
+64,33.07,,Yuichi KINOSHITA,10 SEP 2002,JPN,1,"Municipal Stadium, Hiroshima (JPN)",18 OCT 2019,1065,300-metres,sprints,male,u20
+64,33.07,,Harlow TONG,,USA,1f1,"Boston Univ. Track & Tennis Center, Boston, MA (USA) (i)",06 DEC 2025,1120,300-metres,sprints,male,u20
+66,33.08,,Quentin IGLEHART-SUMMERS,15 JUN 1987,USA,6,"Eugene, OR (USA)",08 AUG 2006,1064,300-metres,sprints,male,u20
+67,33.09,,Rui FUJISAWA,24 JAN 2003,JPN,4,"Tochigi Prefectural Sports Park Stadium, Utsunomiya (JPN)",10 OCT 2022,1063,300-metres,sprints,male,u20
+67,33.09,,Shinya HAYASHI,15 APR 2004,JPN,1h1,"Prefectural Stadium, Kagoshima (JPN)",14 OCT 2023,1063,300-metres,sprints,male,u20
+67,33.09,,Takumi KUBO,08 NOV 2007,JPN,1h2,"Athletic Stadium, Hikone (JPN)",03 OCT 2025,1063,300-metres,sprints,male,u20
+70,33.10,,Saad Mubarek SALEM,28 MAY 1999,BRN,1,Riffa (BRN),03 MAR 2018,1062,300-metres,sprints,male,u20
+70,33.10,,Jayden MIMS,2007,USA,1f1,"Virginia Beach Sports Center, Virginia Beach, VA (USA) (i)",19 JAN 2025,1117,300-metres,sprints,male,u20
+72,33.11,,Quincy WILSON,08 JAN 2008,USA,1f1,"Ocean Breeze Athl. Complex, New York, NY (USA) (i)",24 FEB 2024,1116,300-metres,sprints,male,u20
+72,33.11,,Ayato SHIMADA,24 MAR 2008,JPN,1h1,"Prefectural Stadium, Ise (JPN)",19 OCT 2025,1062,300-metres,sprints,male,u20
+74,33.12,,Vladimir ACETI,16 OCT 1998,ITA,1f3,Milano (ITA),16 SEP 2017,1061,300-metres,sprints,male,u20
+74,33.12,,Tyrese COOPER,21 MAR 2000,USA,3,"Lynchburg, VA (USA) (i)",19 JAN 2018,1116,300-metres,sprints,male,u20
+76,33.13,,Pavel MASLÁK,21 FEB 1991,CZE,6f1,"Mestský Stadion, Ostrava (CZE)",27 MAY 2010,1060,300-metres,sprints,male,u20
+76,33.13,,Jonathan SACOOR,01 SEP 1999,BEL,1,Huizingen (BEL),20 AUG 2017,1060,300-metres,sprints,male,u20
+76,33.13,,Junior Ruo EKE,14 DEC 2004,JPN,1h2,"Tochigi Prefectural Sports Park Stadium, Utsunomiya (JPN)",09 OCT 2022,1060,300-metres,sprints,male,u20
+79,33.15,,Dylan GRANT,14 MAR 1988,AUS,1,Gold Coast (AUS),03 JAN 2007,1058,300-metres,sprints,male,u20
+79,33.15,,Kira HIRAKAWA,25 AUG 2005,JPN,1h5,"Prefectural Stadium, Kagoshima (JPN)",13 OCT 2023,1058,300-metres,sprints,male,u20
+81,33.16,,Takumi KUBO,08 NOV 2007,JPN,3,"Athletic Stadium, Hikone (JPN)",04 OCT 2025,1057,300-metres,sprints,male,u20
+82,33.17,,Rai BENJAMIN,27 JUL 1997,ANT,1f2,"New York, NY (USA) (i)",31 JAN 2015,1111,300-metres,sprints,male,u20
+82,33.17,,Justin ROBINSON,30 MAR 2002,USA,2,"Armory Track&Field Center, New York, NY (USA) (i)",08 FEB 2020,1111,300-metres,sprints,male,u20
+82,33.17,,Masato HARADA,01 JUL 2004,JPN,2h1,"Prefectural Stadium, Kagoshima (JPN)",14 OCT 2023,1056,300-metres,sprints,male,u20
+82,33.17,,Michal RADA,25 MAY 2007,CZE,1f1,"Stadion v Poohří, Cheb (CZE)",05 SEP 2025,1056,300-metres,sprints,male,u20
+82,33.17,,Ren SHOUJI,10 DEC 2008,JPN,1h5,"Prefectural Stadium, Ise (JPN)",19 OCT 2025,1056,300-metres,sprints,male,u20
+87,33.18,,Tyler CHRISTOPHER,03 OCT 1983,CAN,2,Victoria (CAN),22 MAY 2002,1055,300-metres,sprints,male,u20
+87,33.18,,Noah LYLES,18 JUL 1997,USA,1f6,"Blacksburg, VA (USA) (i)",29 JAN 2016,1110,300-metres,sprints,male,u20
+87,33.18,,Taisei WATANABE,21 AUG 2004,JPN,1f3,"Athletics Stadium, Tainai (JPN)",24 JUL 2022,1055,300-metres,sprints,male,u20
+87,33.18,,Kira HIRAKAWA,25 AUG 2005,JPN,2,"Tochigi Prefectural Sports Park Stadium, Utsunomiya (JPN)",10 OCT 2022,1055,300-metres,sprints,male,u20
+87,33.18,,Josiah WRICE,,USA,1f3,"Clemson Indoor Track & Field Complex, Clemson, SC (USA) (i)",06 DEC 2024,1110,300-metres,sprints,male,u20
+87,33.18,,Kota UEMATSU,10 FEB 2006,JPN,7,"Athletic Stadium, Hikone (JPN)",04 OCT 2025,1055,300-metres,sprints,male,u20
+93,33.19,,William REED,01 APR 1970,USA,1,"New Haven, CT (USA) (i)",16 MAR 1986,1109,300-metres,sprints,male,u20
+93,33.19,,Željko VINCEK,16 JUN 1986,CRO,5,Ljubljana (SLO),10 AUG 2004,1054,300-metres,sprints,male,u20
+93,33.19,,Bryshon NELLUM,01 MAY 1989,USA,1,"Eugene, OR (USA)",08 AUG 2006,1054,300-metres,sprints,male,u20
+96,33.20,,Rui FUJISAWA,24 JAN 2003,JPN,1h5,"Tochigi Prefectural Sports Park Stadium, Utsunomiya (JPN)",09 OCT 2022,1054,300-metres,sprints,male,u20

@@ -64,7 +64,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 62,1:06:21,,Pauline WANGUI,1984-07-17,KEN,1.0,Alphen aan den Rijn (NED),2010-03-07,1126.0,20-kilometres,road-running,female,senior,20-kilometres,track,3981.0,NED,25.0,2010
 64,1:06:24,,Rose CHELIMO,1989-07-12,KEN,3.0,Paris (FRA),2011-10-09,1125.0,20-kilometres,road-running,female,senior,20-kilometres,track,3984.0,FRA,22.0,2011
 64,1:06:24,,Dera DIDA,1996-10-26,ETH,1.0,Paris (FRA),2016-10-09,1125.0,20-kilometres,road-running,female,senior,20-kilometres,track,3984.0,FRA,19.0,2016
-64,1:06:24,,Etagegne WOLDU,1996-05-10,ETH,2.0,Paris (FRA),2016-10-09,1125.0,20-kilometres,road-running,female,senior,20-kilometres,track,3984.0,FRA,20.0,2016
+64,1:06:24,,Etagegn WOLDU,1996-05-10,ETH,2.0,Paris (FRA),2016-10-09,1125.0,20-kilometres,road-running,female,senior,20-kilometres,track,3984.0,FRA,20.0,2016
 67,1:06:25,,Kazue OGOSHI,1981-03-02,JPN,4.0,Kobe (JPN),2000-12-17,1124.0,20-kilometres,road-running,female,senior,20-kilometres,track,3985.0,JPN,19.0,2000
 67,1:06:25,,Keira D'AMATO,1984-10-21,USA,1.0,"New Haven, CT (USA)",2024-09-02,1124.0,20-kilometres,road-running,female,senior,20-kilometres,track,3985.0,USA,39.0,2024
 69,1:06:26,,Molly HUDDLE,1984-08-31,USA,1.0,"New Haven, CT (USA)",2015-09-07,1124.0,20-kilometres,road-running,female,senior,20-kilometres,track,3986.0,USA,31.0,2015
@@ -106,7 +106,7 @@ rank,mark,wind,competitor,dob,nationality,position,venue,date,result_score,disci
 105,1:06:54,,Annie FRISBIE,1996-12-31,USA,6.0,"New Haven, CT (USA)",2025-09-01,1114.0,20-kilometres,road-running,female,senior,20-kilometres,track,4014.0,USA,28.0,2025
 106,1:06:55,,Debellu Shitaye GEMECHU,1980-06-17,ETH,1.0,Alphen aan den Rijn (NED),2002-03-10,1114.0,20-kilometres,road-running,female,senior,20-kilometres,track,4015.0,NED,21.0,2002
 106,1:06:55,,Célia TABET,1999-08-29,FRA,4.0,Paris (FRA),2025-10-12,1114.0,20-kilometres,road-running,female,senior,20-kilometres,track,4015.0,FRA,26.0,2025
-106,1:06:55,,Orba CHEMURGOR,,KEN,1.0,"Quai du Mont-Blanc, Genève (SUI)",2025-11-02,1114.0,20-kilometres,road-running,female,senior,20-kilometres,track,4015.0,SUI,,2025
+106,1:06:55,,Orba CHEMURGOR,1996-12-25,KEN,1.0,"Quai du Mont-Blanc, Genève (SUI)",2025-11-02,1114.0,20-kilometres,road-running,female,senior,20-kilometres,track,4015.0,SUI,28.0,2025
 109,1:06:56,,Alicia CRAIG,1982-06-14,USA,1.0,"New Haven, CT (USA)",2007-09-03,1113.0,20-kilometres,road-running,female,senior,20-kilometres,track,4016.0,USA,25.0,2007
 109,1:06:56,,Cynthia JEROTICH,1989-12-18,KEN,1.0,Tours (FRA),2011-09-25,1113.0,20-kilometres,road-running,female,senior,20-kilometres,track,4016.0,FRA,21.0,2011
 111,1:06:58,,Youfeng ZHAO,1965-05-05,CHN,1.0,Miyazaki (JPN),1989-01-06,1112.0,20-kilometres,road-running,female,senior,20-kilometres,track,4018.0,JPN,23.0,1989
