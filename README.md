@@ -21,12 +21,8 @@ Note: Datasets here were generated on: 2025-09-20
 │   ├── individual_events.csv
 │   └── relay_events.csv
 ├── docs
-│   └── 0-todo.md
 ├── logs
-│   └── 2025-12-24
 ├── processing
-│   ├── combined
-│   └── output
 ├── scripts
 │   ├── combine.py
 │   ├── preprocessing.py
